@@ -1,0 +1,62 @@
+---
+title: Odpravljanje težav s sinhronizacijo geslo
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.date: 3/20/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
+ms.openlocfilehash: c71fce8621057093d23891c26f7b0285fdc8b9ed
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: sl-SI
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28312772"
+---
+# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="7fb15-102">Odpravljanje težav s sinhronizacijo geslo</span><span class="sxs-lookup"><span data-stu-id="7fb15-102">Troubleshoot password synchronization</span></span>
+
+<span data-ttu-id="7fb15-103">Za odpravljanje težav, kjer brez gesla so sinhronizirani z Azure AD povezavo različico 1.1.614.0 ali novejšo različico:</span><span class="sxs-lookup"><span data-stu-id="7fb15-103">To troubleshoot issues where no passwords are synchronized with Azure AD Connect version 1.1.614.0 or later:</span></span>
+  
+1. <span data-ttu-id="7fb15-104">Odprite novo sejo lupine Windows PowerShell na strežniku Azure AD povezavo s **prost dostop kot oskrbnik** predkupna pravica.</span><span class="sxs-lookup"><span data-stu-id="7fb15-104">Open a new Windows PowerShell session on your Azure AD Connect server with the **Run as Administrator** option.</span></span> 
+    
+2. <span data-ttu-id="7fb15-105">Teči **niz-pravilnika o izvajanju lupine RemoteSigned** ali **niz-pravilnika o izvajanju lupine neomejen**.</span><span class="sxs-lookup"><span data-stu-id="7fb15-105">Run **Set-ExecutionPolicy RemoteSigned** or **Set-ExecutionPolicy Unrestricted**.</span></span> 
+    
+3. <span data-ttu-id="7fb15-106">Zagnati čarovnika Azure AD povezavo.</span><span class="sxs-lookup"><span data-stu-id="7fb15-106">Start the Azure AD Connect wizard.</span></span>
+    
+4. <span data-ttu-id="7fb15-107">Pluti v \*\* dodatne naloge \*\* strani, izberite \*\* odpravljanje \*\*, in kliknite **naprej**.</span><span class="sxs-lookup"><span data-stu-id="7fb15-107">Navigate to the \*\* Additional Tasks \*\* page, select \*\* Troubleshoot \*\*, and click **Next**.</span></span> 
+    
+5. <span data-ttu-id="7fb15-108">Na strani odpravljanje težav, kliknite meni **začetek za začetek odpravljanja napak** v lupini PowerShell.</span><span class="sxs-lookup"><span data-stu-id="7fb15-108">On the Troubleshooting page, click **Launch to start the troubleshooting** menu in PowerShell.</span></span> 
+    
+6. <span data-ttu-id="7fb15-109">V glavnem meniju, izberite **Odpravljanje težav s sinhronizacijo geslo**.</span><span class="sxs-lookup"><span data-stu-id="7fb15-109">In the main menu, select **Troubleshoot Password Synchronization**.</span></span> 
+    
+7. <span data-ttu-id="7fb15-110">V podmeniju, izberite **sinhronizacijo geslo ne dela na vseh**.</span><span class="sxs-lookup"><span data-stu-id="7fb15-110">In the sub menu, select **Password Synchronization does not work at all**.</span></span> 
+    
+ <span data-ttu-id="7fb15-111">**Spoznajo rezultate opravila, odpravljanje težav**</span><span class="sxs-lookup"><span data-stu-id="7fb15-111">**Understand the results of the troubleshooting task**</span></span>
+  
+<span data-ttu-id="7fb15-112">Odpravljanje težav nalogo opravlja naslednje preglede:</span><span class="sxs-lookup"><span data-stu-id="7fb15-112">The troubleshooting task performs the following checks:</span></span>
+  
+- <span data-ttu-id="7fb15-113">Potrjuje, da je geslo sinhronizacijo možnost omogočena za modro AD najemnik.</span><span class="sxs-lookup"><span data-stu-id="7fb15-113">Validates that the password synchronization feature is enabled for your Azure AD tenant.</span></span>
+    
+- <span data-ttu-id="7fb15-114">Potrjuje, da Azure AD Connect strežnikom ni v produkcijskem načinu.</span><span class="sxs-lookup"><span data-stu-id="7fb15-114">Validates that the Azure AD Connect server is not in staging mode.</span></span>
+    
+- <span data-ttu-id="7fb15-115">Za vsak obstoječi krajevni Active Directory priključek (kar ustreza obstoječemu gozdu Active Directory):</span><span class="sxs-lookup"><span data-stu-id="7fb15-115">For each existing on-premises Active Directory connector (which corresponds to an existing Active Directory forest):</span></span>
+    
+- 
+  - <span data-ttu-id="7fb15-116">Potrjuje, da je omogočena funkcija za sinhronizacijo geslo.</span><span class="sxs-lookup"><span data-stu-id="7fb15-116">Validates that the password synchronization feature is enabled.</span></span>
+    
+  - <span data-ttu-id="7fb15-117">Išče geslo sinhronizacijo srčni utrip dogodkov v dnevnikih dogodkov za program Windows.</span><span class="sxs-lookup"><span data-stu-id="7fb15-117">Searches for password synchronization heartbeat events in the Windows Application Event logs.</span></span>
+    
+  - <span data-ttu-id="7fb15-118">Za vsako domeno Active Directory pod priključek krajevnega imenika Active Directory:</span><span class="sxs-lookup"><span data-stu-id="7fb15-118">For each Active Directory domain under the on-premises Active Directory connector:</span></span>
+    
+  - <span data-ttu-id="7fb15-119">Potrjuje, da je dosegljiv iz Azure AD povezavo strežnika domene.</span><span class="sxs-lookup"><span data-stu-id="7fb15-119">Validates that the domain is reachable from the Azure AD Connect server.</span></span>
+    
+  - <span data-ttu-id="7fb15-120">Potrjuje, da domene storitve Active Directory (AD DS) kontov, s krajevnim Active Directory priključek je pravilno uporabniško ime, geslo in dovoljenja, zahtevana za sinhronizacijo geslo.</span><span class="sxs-lookup"><span data-stu-id="7fb15-120">Validates that the Active Directory Domain Services (AD DS) accounts used by the on-premises Active Directory connector has the correct username, password, and permissions required for password synchronization.</span></span>
+    
+<span data-ttu-id="7fb15-121">Pomoč parola omedlevičen za odpravljanje težav, glejte [Odpravljanje geslo sinhronizacije z Azure AD povezavo sinhronizacijo](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span><span class="sxs-lookup"><span data-stu-id="7fb15-121">For more help troubleshooting password sync, see [Troubleshoot password synchronization with Azure AD Connect sync](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span></span>
+  
+

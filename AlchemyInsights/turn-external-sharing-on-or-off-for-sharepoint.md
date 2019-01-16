@@ -1,0 +1,32 @@
+---
+title: Pa zunanje, delitev ali izklop za SharePoint
+ms.author: kaarins
+author: kaarins
+manager: scotv
+ms.date: 5/17/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: ad290ba4-169e-4866-9c78-2763319e9ed0
+ms.openlocfilehash: 1c98fcf991bc1e8648d23178b169bc6aba67784a
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: sl-SI
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28312461"
+---
+# <a name="turn-external-sharing-on-or-off-for-sharepoint"></a><span data-ttu-id="cafa5-102">Pa zunanje, delitev ali izklop za SharePoint</span><span class="sxs-lookup"><span data-stu-id="cafa5-102">Turn external sharing on or off for SharePoint</span></span>
+
+1. <span data-ttu-id="cafa5-103">V skrbniškem središču za Office 365, iti [storitev &amp; povečati-ins strani](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), in kliknite **mesta**.</span><span class="sxs-lookup"><span data-stu-id="cafa5-103">In the Office 365 admin center, go to [the Services &amp; add-ins page](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns), and click **Sites**.</span></span>
+    
+2. <span data-ttu-id="cafa5-104">Nastavitev vklopite ali izklopite, ali izberite možnost skupne rabe, če je vklopljena.</span><span class="sxs-lookup"><span data-stu-id="cafa5-104">Turn the setting on or off, or select a sharing option if it's turned on.</span></span>
+    
+> [!NOTE]
+> <span data-ttu-id="cafa5-p101">Če izklopite skupno rabo za SharePoint se izklopi za OneDrive. Omogočiti zunanjo delitev na katerem koli mestu, nastavitev za celotno organizacijo, mora biti na. > Da bi zunanji delitev za OneDrive ali vsaka posamezna mesta SharePoint, morate vklopiti to celotno organizacijo za SharePoint. Nato izklopite to za določeno mesto zbirke. Obvladovati zunanje nastavitve skupne rabe za komunikacijo mest in mest, ki pripadajo skupinam Office 365, morate uporabiti novo SharePoint admin center (predogled) ali PowerShell. Za več informacij o upravljanju zunanjih nastavitev skupne rabe, videli [pa zunanje, delitev ali ne](https://go.microsoft.com/fwlink/?linkid=866426).</span><span class="sxs-lookup"><span data-stu-id="cafa5-p101">Turning off sharing for SharePoint turns it off for OneDrive. To allow external sharing on any site, your organization-wide setting must be on. > To allow external sharing for OneDrive or any individual SharePoint sites, you must turn it on organization-wide for SharePoint. You can then turn it off for specific site collections. To manage external sharing settings for communication sites and sites that belong to Office 365 groups, you need to use the new SharePoint admin center (preview) or PowerShell. For more info about managing external sharing settings, see [Turn external sharing on or off](https://go.microsoft.com/fwlink/?linkid=866426).</span></span> 
+  
+[<span data-ttu-id="cafa5-111">Več o zunanjih delitev v SharePoint</span><span class="sxs-lookup"><span data-stu-id="cafa5-111">Learn more about external sharing in SharePoint</span></span>](https://go.microsoft.com/fwlink/?linkid=734908)
+  
+
