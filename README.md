@@ -1,0 +1,2 @@
+## <a name="microsoft-open-source-code-of-conduct"></a>Microsoft Open Source kodeks ravnanja
+Ta projekt je sprejela [Microsoft Open Source obnašanja](https://opensource.microsoft.com/codeofconduct/). Za več informacij glej [Kodeks ravnanja FAQ](https://opensource.microsoft.com/codeofconduct/faq/) ali pa se obrnite [opencode@microsoft.com](mailto:opencode@microsoft.com) s kakršnakoli dodatna vprašanja ali pripombe.
