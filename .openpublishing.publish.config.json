@@ -4,7 +4,7 @@
       "docset_name": "OfficeDocs-AlchemyInsights",
       "build_source_folder": "AlchemyInsights",
       "build_output_subfolder": "OfficeDocs-AlchemyInsights",
-      "locale": "sl-Sl",
+      "locale": "sl-SI",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
@@ -29,7 +29,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.sl-Sl",
+      "url": "https://github.com/Microsoft/templates.docs.msft.sl-SI",
       "branch": "master",
       "branch_mapping": {}
     }
