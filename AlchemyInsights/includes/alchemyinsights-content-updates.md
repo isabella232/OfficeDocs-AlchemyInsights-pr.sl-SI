@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383477"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454446"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383477"
 ## <a name="week-of-january-07-2019"></a>Teden 07 januar 2019
 
 
-| Objavljeni na |Naslov teme | Spremembe |
+| Objavljeni na |Naslov teme | Spremeni. |
 |------|------------|--------|
 | 7/1/2019 | [Spremenite geslo](/AlchemyInsights/change-your-password-in-outlook.com) | dodano |
 | 7/1/2019 | [Spreminjanje dovoljenj, na nabiralnik](/AlchemyInsights/changing-permissions-on-a-mailbox) | dodano |
@@ -302,7 +302,7 @@ ms.locfileid: "29383477"
 | 2019/1/10 | [Ustvarite sporočilo mesto](/AlchemyInsights/create-a-communication-site) | dodano |
 | 2019/1/10 | [Ustvari tok](/AlchemyInsights/create-a-flow) | dodano |
 | 2019/1/10 | [Ustvariti mesto Modern Team](/AlchemyInsights/create-a-modern-team-site) | dodano |
-| 2019/1/10 | [Ustvarite nabiralnik v skupni rabi](/AlchemyInsights/create-a-shared-mailbox) | dodano |
+| 2019/1/10 | Ustvarjanje nabiralnika v skupni rabi | dodano |
 | 2019/1/10 | [Ustvarite SharePointovo mesto](/AlchemyInsights/create-a-sharepoint-site) | dodano |
 | 2019/1/10 | [Ustvariti spletno stran v SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | dodano |
 | 2019/1/10 | [Ustvarite in uporabljate nabiralnik v skupni rabi](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | dodano |
@@ -599,7 +599,7 @@ ms.locfileid: "29383477"
 | 11/1/2019 | [Ustvarite sporočilo mesto](/AlchemyInsights/create-a-communication-site) | spremenil |
 | 11/1/2019 | [Ustvari tok](/AlchemyInsights/create-a-flow) | spremenil |
 | 11/1/2019 | [Ustvariti mesto Modern Team](/AlchemyInsights/create-a-modern-team-site) | spremenil |
-| 11/1/2019 | [Ustvarite nabiralnik v skupni rabi](/AlchemyInsights/create-a-shared-mailbox) | spremenil |
+| 11/1/2019 | Ustvarjanje nabiralnika v skupni rabi | spremenil |
 | 11/1/2019 | [Ustvarite SharePointovo mesto](/AlchemyInsights/create-a-sharepoint-site) | spremenil |
 | 11/1/2019 | [Ustvariti spletno stran v SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | spremenil |
 | 11/1/2019 | [Ustvarite in uporabljate nabiralnik v skupni rabi](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | spremenil |
@@ -637,7 +637,7 @@ ms.locfileid: "29383477"
 ## <a name="week-of-january-14-2019"></a>Teden 14 januarja 2019
 
 
-| Objavljeni na |Naslov teme | Spremembe |
+| Objavljeni na |Naslov teme | Spremeni. |
 |------|------------|--------|
 | 2019/1/14 | Alkimija ograde | Odstrani |
 | 2019/1/14 | Dodaj domen alkimija | Odstrani |
