@@ -11,11 +11,11 @@ localization_priority: Priority
 ms.assetid: 21dfcf5e-223c-4379-b832-ea35afe81cd7
 description: Začetek vaš članek z zelo kratek uvod (1 stavek). Postavi se v bralčevo mesto - zakaj so tukaj? Kaj storiti?
 ms.openlocfilehash: 8271e53144341ad68665588b2ec53f0763669aef
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28313042"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29489879"
 ---
 Začetek vaš članek z zelo kratek uvod (1 stavek). Postavi se v bralčevo mesto - zakaj so tukaj? Kaj storiti? 
   
