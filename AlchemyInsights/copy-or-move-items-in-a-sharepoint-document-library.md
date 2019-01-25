@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28311931"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29489589"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopirajte ali premaknite elemente v knjižnico dokumentov SharePoint
 
@@ -37,6 +37,6 @@ Lahko kopirate in premikate datoteke, mape in povezave na različne lokacije v k
 3. Kliknite **tukaj kopirati** ali **premakniti tukaj**.
     
 > [!NOTE]
->  Naenkrat lahko kopirate do 500 MB datotek in map. > Pri kopiranju dokumentov, ki imajo zgodovino različice, program kopira najnovejšo različico. Ko premikate dokumente, svojo zgodovino tudi preselil. 
+>  Naenkrat lahko kopirate do 500 MB datotek in map. > pri kopiranju dokumentov, ki imajo zgodovino različice, ki postaja latenten prevod je kopiran. Ko premikate dokumente, svojo zgodovino tudi preselil. 
   
 
