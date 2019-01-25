@@ -1,5 +1,5 @@
 ---
-title: Preklopite na različnih Office 365 za poslovni načrt
+title: Zamenjava trenutnega paketa z drugim paketom storitve Office 365 za podjetja
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
 ms.openlocfilehash: 06ece0f33bc817aa9759cbc3487544ed5b48b946
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28312265"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29489461"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Preklopite na različnih Office 365 za poslovni načrt
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Zamenjava trenutnega paketa z drugim paketom storitve Office 365 za podjetja
 
 Ko poslovne spremembe, ali vi potreba več zunanja oblika Office 365, lahko preklopite načrtov.
   
