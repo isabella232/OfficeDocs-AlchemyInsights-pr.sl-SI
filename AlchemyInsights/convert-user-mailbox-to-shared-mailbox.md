@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ab08e594-ded6-4ad8-a0e1-b365960a4293
 ms.openlocfilehash: e9f691379742f51d0085133e8832aea5d2652b32
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28312462"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29489595"
 ---
-# <a name="convert-a-user-mailbox-to-a-room-or-equipment-mailbox"></a><span data-ttu-id="e3125-102">Spremeniti uporabniškega nabiralnika v nabiralnik prostor ali opremo</span><span class="sxs-lookup"><span data-stu-id="e3125-102">Convert a user mailbox to a room or equipment mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-room-or-equipment-mailbox"></a><span data-ttu-id="388e2-102">Spremeniti uporabniškega nabiralnika v nabiralnik prostor ali opremo</span><span class="sxs-lookup"><span data-stu-id="388e2-102">Convert a user mailbox to a room or equipment mailbox</span></span>
 
-<span data-ttu-id="e3125-p101">Lahko tudi pretvorite nabiralnik iz en nabiralnik vrste v drugo, vendar boste imeli za izvajanje teh opravil z uporabo Exchange Online PowerShell. Check out [Pretvarjanje nabiralnik](https://go.microsoft.com/fwlink/p/?LinkId=832875) za več podrobnosti.</span><span class="sxs-lookup"><span data-stu-id="e3125-p101">You can also convert a mailbox from one mailbox type to another, but you'll have to perform these tasks using Exchange Online PowerShell. Check out [Convert a Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=832875) for more details.</span></span> 
+<span data-ttu-id="388e2-p101">Lahko tudi pretvorite nabiralnik iz en nabiralnik vrste v drugo, vendar boste imeli za izvajanje teh opravil z uporabo Exchange Online PowerShell. Check out [Pretvarjanje nabiralnik](https://go.microsoft.com/fwlink/p/?LinkId=832875) za več podrobnosti.</span><span class="sxs-lookup"><span data-stu-id="388e2-p101">You can also convert a mailbox from one mailbox type to another, but you'll have to perform these tasks using Exchange Online PowerShell. Check out [Convert a Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=832875) for more details.</span></span> 
   
 
