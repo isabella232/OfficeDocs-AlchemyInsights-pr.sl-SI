@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
 ms.openlocfilehash: 0d4bb7ea2e350dc91bb32f3c03d2f0b10b55477f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28312834"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29489496"
 ---
 # <a name="turn-external-sharing-on-or-off-for-sharepoint"></a>Pa zunanje, delitev ali izklop za SharePoint
 
@@ -25,7 +25,7 @@ ms.locfileid: "28312834"
 2. Nastavitev vklopite ali izklopite, ali izberite možnost skupne rabe, če je vklopljena.
     
 > [!NOTE]
-> Če izklopite skupno rabo za SharePoint se izklopi za OneDrive. Omogočiti zunanjo delitev na katerem koli mestu, nastavitev za celotno organizacijo, mora biti na. > Da bi zunanji delitev za OneDrive ali vsaka posamezna mesta SharePoint, morate vklopiti to celotno organizacijo za SharePoint. Nato izklopite to za določeno mesto zbirke. Obvladovati zunanje nastavitve skupne rabe za komunikacijo mest in mest, ki pripadajo skupinam Office 365, morate uporabiti novo SharePoint admin center (predogled) ali PowerShell. Za več informacij o upravljanju zunanjih nastavitev skupne rabe, videli [pa zunanje, delitev ali ne](https://go.microsoft.com/fwlink/?linkid=866426). 
+> Če izklopite skupno rabo za SharePoint se izklopi za OneDrive. Omogočiti zunanjo delitev na katerem koli mestu, nastavitev za celotno organizacijo, mora biti na. > omogočiti zunanjo delitev za OneDrive ali vsaka posamezna mesta SharePoint, morate vklopiti to celotno organizacijo za SharePoint. Nato izklopite to za določeno mesto zbirke. Obvladovati zunanje nastavitve skupne rabe za komunikacijo mest in mest, ki pripadajo skupinam Office 365, morate uporabiti novo SharePoint admin center (predogled) ali PowerShell. Za več informacij o upravljanju zunanjih nastavitev skupne rabe, videli [pa zunanje, delitev ali ne](https://go.microsoft.com/fwlink/?linkid=866426). 
   
 [Več o zunanjih delitev v SharePoint](https://go.microsoft.com/fwlink/?linkid=734908)
   
