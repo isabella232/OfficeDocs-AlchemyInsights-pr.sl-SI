@@ -1,5 +1,5 @@
 ---
-title: Ustvarite nabiralnik v skupni rabi
+title: Ustvarjanje nabiralnika v skupni rabi
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
 ms.openlocfilehash: 44c07b78c7cf52ab10b11cb3b94ae2eae76ad887
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28311917"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29490461"
 ---
-# <a name="create-a-shared-mailbox"></a><span data-ttu-id="e8705-102">Ustvarite nabiralnik v skupni rabi</span><span class="sxs-lookup"><span data-stu-id="e8705-102">Create a shared mailbox</span></span>
+# <a name="create-a-shared-mailbox"></a><span data-ttu-id="7dad0-102">Ustvarjanje nabiralnika v skupni rabi</span><span class="sxs-lookup"><span data-stu-id="7dad0-102">Create a shared mailbox</span></span>
 
-<span data-ttu-id="e8705-103">Nabiralnik v skupni rabi omogoča več osebam pošiljanje in prejemanje e-pošte za vzdevek, kot **sales@contoso.com**, brez dodelitve še eden dati dovoljenje.</span><span class="sxs-lookup"><span data-stu-id="e8705-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
+<span data-ttu-id="7dad0-103">Nabiralnik v skupni rabi omogoča več osebam pošiljanje in prejemanje e-pošte za vzdevek, kot **sales@contoso.com**, brez dodelitve še eden dati dovoljenje.</span><span class="sxs-lookup"><span data-stu-id="7dad0-103">A shared mailbox lets more than one person send and receive email for an alias, like **sales@contoso.com**, without assigning another license.</span></span>
   
-<span data-ttu-id="e8705-104">Če želite več informacij, glejte [Ustvarjanje nabiralnik v skupni rabi](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) .</span><span class="sxs-lookup"><span data-stu-id="e8705-104">See [Create a shared mailbox](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) for more information.</span></span> 
+<span data-ttu-id="7dad0-104">Če želite več informacij, glejte [Ustvarjanje nabiralnik v skupni rabi](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) .</span><span class="sxs-lookup"><span data-stu-id="7dad0-104">See [Create a shared mailbox](https://support.office.com/client/871a246d-3acd-4bba-948e-5de8be0544c9) for more information.</span></span> 
   
 
