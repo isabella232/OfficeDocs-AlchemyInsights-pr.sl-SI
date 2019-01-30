@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454446"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454446"
 ## <a name="week-of-january-07-2019"></a>Teden 07 januar 2019
 
 
-| Objavljeni na |Naslov teme | Spremeni. |
+| Objavljeni na |Naslov teme | Spremembe |
 |------|------------|--------|
 | 7/1/2019 | [Spremenite geslo](/AlchemyInsights/change-your-password-in-outlook.com) | dodano |
 | 7/1/2019 | [Spreminjanje dovoljenj, na nabiralnik](/AlchemyInsights/changing-permissions-on-a-mailbox) | dodano |
@@ -302,7 +294,7 @@ ms.locfileid: "29454446"
 | 2019/1/10 | [Ustvarite sporočilo mesto](/AlchemyInsights/create-a-communication-site) | dodano |
 | 2019/1/10 | [Ustvari tok](/AlchemyInsights/create-a-flow) | dodano |
 | 2019/1/10 | [Ustvariti mesto Modern Team](/AlchemyInsights/create-a-modern-team-site) | dodano |
-| 2019/1/10 | Ustvarjanje nabiralnika v skupni rabi | dodano |
+| 2019/1/10 | [Ustvarite nabiralnik v skupni rabi](/AlchemyInsights/create-a-shared-mailbox) | dodano |
 | 2019/1/10 | [Ustvarite SharePointovo mesto](/AlchemyInsights/create-a-sharepoint-site) | dodano |
 | 2019/1/10 | [Ustvariti spletno stran v SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | dodano |
 | 2019/1/10 | [Ustvarite in uporabljate nabiralnik v skupni rabi](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | dodano |
@@ -599,7 +591,7 @@ ms.locfileid: "29454446"
 | 11/1/2019 | [Ustvarite sporočilo mesto](/AlchemyInsights/create-a-communication-site) | spremenil |
 | 11/1/2019 | [Ustvari tok](/AlchemyInsights/create-a-flow) | spremenil |
 | 11/1/2019 | [Ustvariti mesto Modern Team](/AlchemyInsights/create-a-modern-team-site) | spremenil |
-| 11/1/2019 | Ustvarjanje nabiralnika v skupni rabi | spremenil |
+| 11/1/2019 | [Ustvarite nabiralnik v skupni rabi](/AlchemyInsights/create-a-shared-mailbox) | spremenil |
 | 11/1/2019 | [Ustvarite SharePointovo mesto](/AlchemyInsights/create-a-sharepoint-site) | spremenil |
 | 11/1/2019 | [Ustvariti spletno stran v SharePoint Online](/AlchemyInsights/create-a-site-in-sharepoint-online) | spremenil |
 | 11/1/2019 | [Ustvarite in uporabljate nabiralnik v skupni rabi](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | spremenil |
@@ -637,9 +629,25 @@ ms.locfileid: "29454446"
 ## <a name="week-of-january-14-2019"></a>Teden 14 januarja 2019
 
 
-| Objavljeni na |Naslov teme | Spremeni. |
+| Objavljeni na |Naslov teme | Spremembe |
 |------|------------|--------|
 | 2019/1/14 | Alkimija ograde | Odstrani |
 | 2019/1/14 | Dodaj domen alkimija | Odstrani |
 | 2019/1/14 | [Alchemy vpogled doma](/AlchemyInsights/index) | spremenil |
 | 2019/1/17 | [enako kot ime datoteke, je najbolje [pravilo #-opis]](/AlchemyInsights/1-alchemy-insight-template) | dodano |
+
+
+## <a name="week-of-january-21-2019"></a>Teden v januarju 21, 2019
+
+
+| Objavljeni na |Naslov teme | Spremembe |
+|------|------------|--------|
+| 22/1/2019 | [1047 antiSpam 550 5.7.708 storitev ni na voljo. Dostop zavrnjen, ni sprejeta od tega IP prometa](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | spremenil |
+| 22/1/2019 | [1049 antiSpam 4.5.3 preveč številu prejemnikov (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | spremenil |
+| 22/1/2019 | [1050 antispam 4.7.500 strežnik zaseden. Prosimo, poskusite znova kasneje od [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | spremenil |
+| 22/1/2019 | [1051 antispam 4.7.500 dostop zavrnjen, poskusite znova pozneje](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | spremenil |
+| 22/1/2019 | [Posredovanje e-pošte prek Office 365](/AlchemyInsights/relay-email-through-office-365) | spremenil |
+| 2019/1/24 | [Ustvarjanje kontrolnikov skupin](/AlchemyInsights/control-creation-of-groups) | spremenil |
+| 2019/1/24 | [Vprašanja za Outlook z Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | dodano |
+| 2019/1/24 | [Obnovi skupino Office 365 uporabljajo Exchange admin center](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | preimenovati |
+| 2019/1/24 | [Odpravljanje težav z Microsoft Intune](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | preimenovati |
