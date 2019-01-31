@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 5be8a8f9f67939c7e2671855da259818269d9299
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c95f07b9fb7251442577c014e4005dbe3f92ceb4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490421"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661767"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>Odpravljanje težav z odprto s raziskovalec
 
@@ -31,6 +31,6 @@ Odpravite pogoste težave z odprtjem knjižnice dokumentov SharePoint ali OneDri
 > [!NOTE]
 > Otvoritev knjižnice v datoteko Explorer je priročno, če želite kopirati ali premakniti več datotek in map, ko, vendar če želite redno delo v knjižnici, priporočamo, da sinhronizirate. Odpravljanje težav v datoteko Explorer, glejte [plan v raziskovalec](https://go.microsoft.com/fwlink/?linkid=871665). Informacij o nastavitev sinhronizacije, glejte [Sinhroniziranje SharePointovih datotek z novo OneDrive sinhronizacijo odjemalca](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Prosimo, glejte članek [kako uporabite ukaz »Odpri z Explorer« težave v SharePoint Online](https://support.office.com/en-us/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) za več informacij. 
+Prosimo, glejte članek [kako uporabite ukaz »Odpri z Explorer« težave v SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) za več informacij. 
   
 

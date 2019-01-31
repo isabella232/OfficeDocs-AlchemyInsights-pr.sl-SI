@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: 8b072dccffb8b8242a2ff669c3d037eeeea8614e
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3d566c95c90a6ebff55a0797650890381da32acc
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29489919"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662307"
 ---
 "Ne more zagnati Microsoft Outlook"
 
@@ -24,7 +24,7 @@ ms.locfileid: "29489919"
 
 Ali imate težave začne Outlook 2016, Outlook 2013 ali Outlook 2010, ali prejemanje "ne more zagnati Microsoft Outlook. Ni mogoče odpreti Outlookovo okno"zmota vest?
   
-Najprej uporabite korake za odpravljanje težav v [tem članku](https://support.office.com/en-us/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) za pomoč pri reševanju teh vprašanj za začetek. 
+Najprej uporabite korake za odpravljanje težav v [tem članku](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) za pomoč pri reševanju teh vprašanj za začetek. 
   
 Zaženete lahko tudi [Orodja za dodatno diagnostiko](https://aka.ms/SaRA-OutlookAdvDiagnostics) na prizadetih stroj. 
   

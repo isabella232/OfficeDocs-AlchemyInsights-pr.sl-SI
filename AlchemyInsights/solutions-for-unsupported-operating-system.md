@@ -3,35 +3,34 @@ title: Rešitve za "Nepodprt operacijski sistem"
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 5/29/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
-ms.openlocfilehash: a8d1f7a125cb45c75673e9aed451bbaeec40eef6
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: dfe06ad27b9936f6a00eff41af97fa6a267d3f6d
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490106"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646759"
 ---
-»Nepodprt operacijski sistem«
-
 # <a name="solutions-for-unsupported-operating-system"></a>Rešitve za "Nepodprt operacijski sistem"
 
-Ko poskusite namestiti Office 365/2016, morda videli to sporočilo o napaki, če naprava ne izpolnjuje [sistemske zahteve](https://products.office.com/office-system-requirements).
+
+
+Ko poskusite namestiti Office 365, morda prikazalo sporočilo o napaki **nepodprt operacijski sistem** , če naprava ne izpolnjuje [sistemske zahteve](https://products.office.com/office-system-requirements).
   
- **»Nepodprt operacijski sistem«**
+Office 365 zahteva:
   
-Office 365/2016 zahteva:
-  
-PC: Windows 10, Windows 8.1, Windows 8, Windows 7 Service Pack 1, Windows strežnik 2016, Windows Server 2012 R2, Windows Server 2012 ali Windows Server 2008 R2
-  
-ali
-  
-Mac OS X 10.10
-  
-Če med poskusom namestite Office v mobilno napravo ali Chromebook got to vest, glejte [Nastavitev Office aplikacije in e-pošte na mobilni napravi](https://support.office.com/article/7dabb6cb-0046-40b6-81fe-767e0b1f014f?wt.mc_id=Alchemy_ClientDIA.aspx).
+- PC: Windows 10, Windows 8.1, Windows 8, Windows 7 Service Pack 1, Windows strežnik 2016, Windows Server 2012 R2, Windows Server 2012 ali Windows Server 2008 R2
+    
+    ALI
+    
+- Mac OS X 10.10
+    
+Če med poskusom namestite Office v mobilno napravo ali Chromebook got to vest, videli, [kako namestite in zaženete Microsoft Office v računalniku Chromebook](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
   
 

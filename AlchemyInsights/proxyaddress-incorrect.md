@@ -11,17 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
-ms.openlocfilehash: 0d7282473822a7c6bad06a1c1d93dbd6f391404b
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e6af15bb29c6808acab3169ffbc5f4820e258a26
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29489662"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29654503"
 ---
 # <a name="proxyaddress-incorrect"></a>ProxyAddress nepravilne
 
 Ko predmet je sinhroniziranih s sinje AD, vrednosti, ki so navedene v atributu proxyAddresses v storitvi Active Directory so v primerjavi z modro AD pravila, in nato atributu proxyAddresses poseljena v sinje AD. Zato vrednosti atributa proxyAddresses za predmet v storitvi Active Directory ne sme biti enaka vrednosti atributa proxyAddresses v sinje AD.
   
-Če želite izvedeti več o tem, kako je proxyaddress je poseljena, glej [Kako atribut proxyAddress je poseljena v sinje AD](https://support.microsoft.com/en-us/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
+Če želite izvedeti več o tem, kako je proxyaddress je poseljena, glej [Kako atribut proxyAddress je poseljena v sinje AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
   
 

@@ -3,27 +3,29 @@ title: Kako namestiti Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/15/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
-ms.openlocfilehash: 35479ea33d6a235faf1e28fbc6568a6990f4e676
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 89dd1d74026dbd3bf78a315b87a4ef7bd17cf144
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29489506"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29645685"
 ---
 # <a name="how-to-install-office"></a>Kako namestiti Office
+
 
 Namestite Office stranka apps, zagotoviti, da imate poslovni naročnino Office 365 Business Premium, Office 365 poslovne ali izobraževanje Office 365.
   
 > [!NOTE]
-> [Office Home and Business 2016](https://products.office.com/home-and-business) je izdelek sistema [Office za dom](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA.aspx) in ne del poslovne naročnino. 
+> [Office Home and Business 2016](https://products.office.com/home-and-business) je izdelek sistema [Office za dom](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) in ne del poslovne naročnino. 
   
-- Ustvarite uporabniške račune in dodati domeno. Prepričajte se, uporabnik je [dodeljena licenca](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA.aspx).
+- Ustvarite uporabniške račune in dodati domeno. Prepričajte se, uporabnik je [dodeljena licenca](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
     
 - Imeti vsakega uporabnika:
     
@@ -35,6 +37,6 @@ Namestite Office stranka apps, zagotoviti, da imate poslovni naročnino Office 3
     
 4. Izberite **Namesti**.
     
-Podrobni koraki in napake odpraviti, si oglejte: [nastaviti Office 365 za podjetja](https://support.office.com/Article/6a3a29a0-e616-4713-99d1-15eda62d04fa?wt.mc_id=Alchemy_ClientDIA).
-  
+    Zakaj nadroben lestev ter odpravljanje težav rešitve namestitvi Officea, glej: [Prenesite in namestite ali znova namestite Office na PC ali Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
+    
 

@@ -2,44 +2,28 @@
 title: Aktiviranje odpravljanje težav
 ms.author: jillz
 author: jillz
-ms.date: 1/1/1900
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
+ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
-description: Začetek vaš članek z zelo kratek uvod (1 stavek). Postavi se v bralčevo mesto - zakaj so tukaj? Kaj storiti?
-ms.openlocfilehash: 0def754ce0bcf930cdbf5fca3b6248d7777fada0
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 96e964635a23c2007ab6590beae5c625c615a3f4
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498282"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646975"
 ---
-Začetek vaš članek z zelo kratek uvod (1 stavek). Postavi se v bralčevo mesto - zakaj so tukaj? Kaj storiti? 
-  
-1. Zaslužiti raven k hitri seznam korakov za dokončanje opravila.
-    
-    Če morate, da pojasni koncept, ali oni življati uganjati predpogoj korake, dodajte kratek povzetek pod korak, kjer jih potrebujejo, in [povezavo](https://support.office.com/article/f37e7984-cf03-4fde-92d3-82970d7e241b.aspx) do koncept ali korake. 
-    
-2. Vodi postopke kratek - po možnosti 5 ali manj korakov, največ 8.
-    
-3. Uporabite **slog uporabniškega vmesnika** za elemente uporabniškega vmesnika ali za besedilo ljudi potreba vstopiti. 
-    
-4. Uporaba glagolov izberite izbrati, ali vnesite kot dejanja in oblikujete menije, kot **meni** \> **ukaz**.
-    
-5. Po izbiri dodajte screenshot za kontekst (če UI je težko najti, ali je to potrebno za dokončanje naloge).
-    
-    Največja širina: 520 slikovnih pik. Uporabo standardnih tema, ne kažejo nobenih osebnih podatkov, in pridelek pokazati, le kaj je pomembno. 
-    
-    ![Ogradi - največja širina SOC člena umetnosti je 520 slikovnih pik](media/7d43d3be-8658-4a5b-aa15-ed62a47a2b24.png)
-  
-Če želite dodati video ali screenshot, uporabite dva stolpca v mreži in korakov v levo in video ali screenshot v desni - glej [ukrepe in video mrežo primer](https://support.office.com/article/14ce8e82-efa0-47f5-bb84-94f078db3dae.aspx). 
-  
-Cilj več kot 500 besed za članek.
-  
-# <a name="example-article"></a>Primer člena
+# <a name="activation-troubleshooting"></a>Aktiviranje odpravljanje težav
 
-[Spremenite svoj fotografija](https://support.office.com/article/555376e0-1fca-49ba-8434-307a0525c767.aspx)
+V **Nadzorni plošči** \> **programi in funkcije**, poiščite urad. Vi should zagledati Microsoft Office 365 ProPlus ali Microsoft Office 365 Business. Če vidite več kot eno različico Officea, na seznamu, odstranite različico ne uporabljate. 
   
-
+Če ne morete odstraniti uspešno nadzorni plošči, uporabite [podporo in regres pomočnika](https://aka.ms/SARA-OfficeUninstall-Alchemy) odstraniti različico, ki jih ne uporabljate. 
+  
+Če urad je še vedno brez licence, Pojdi nazaj v **Pregled slika na lesu** \> **programi in funkcije**. Desno tipko miške kliknite preostale urad napeljati, izberite **Spremeni** (ali sprememb) in nato izberite **Online popravila**. Online popravila lahko traja nekaj časa. Nato znova zaženite Office in prijava z vaše delo ali v šolo račun, če sufler.
+  
+Če urad je še vedno brez licence, prenesite in zaženite [svetovalca za aktiviranje](https://aka.ms/SARA-OfficeActivation-Alchemy) na prizadetih stroj popraviti težavah aktiviranja. 
+  
+Če želite več informacij, glejte: [Nelicencirani izdelek in activation zmota v pisarni](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

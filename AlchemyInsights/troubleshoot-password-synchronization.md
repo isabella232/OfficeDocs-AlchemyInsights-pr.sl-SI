@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: c71fce8621057093d23891c26f7b0285fdc8b9ed
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 589820c945fb20f00431655f9f53196e740bb38f
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29489952"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655827"
 ---
 # <a name="troubleshoot-password-synchronization"></a>Odpravljanje težav s sinhronizacijo geslo
 
@@ -57,6 +57,6 @@ Odpravljanje težav nalogo opravlja naslednje preglede:
     
   - Potrjuje, da domene storitve Active Directory (AD DS) kontov, s krajevnim Active Directory priključek je pravilno uporabniško ime, geslo in dovoljenja, zahtevana za sinhronizacijo geslo.
     
-Pomoč parola omedlevičen za odpravljanje težav, glejte [Odpravljanje geslo sinhronizacije z Azure AD povezavo sinhronizacijo](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Pomoč parola omedlevičen za odpravljanje težav, glejte [Odpravljanje geslo sinhronizacije z Azure AD povezavo sinhronizacijo](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   
 

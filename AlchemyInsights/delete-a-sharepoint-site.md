@@ -2,51 +2,30 @@
 title: Izbrisati SharePointovega mesta
 ms.author: kirks
 author: Techwriter40
-ms.date: 12/3/2018
+ms.date: 1/24/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: a450105487642906754d7a7c0182d788cd1d8240
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ddedfff905b4f3eb78cdd8b17233d45f864dadd4
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490373"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660032"
 ---
 # <a name="delete-a-sharepoint-site"></a>Izbrisati SharePointovega mesta
-
- **Izbrišite strani, ki pripadajo skupini Office 365:**
+ **Izbrisati območij od centra nove SharePoint admin**
   
-Ko uporabniki ustvarijo novo mesto ekipe od SharePoint doma (ali ustvarite novo mesto ekipe iz nove SharePoint admin center predogled), se samodejno ustvari ustrezni skupini Office 365. Mesta Office 365 povezana skupina skupine so izdelali ko ustvarite skupino Office 365 ali ekipa v Microsoft Teams. Če želite izbrisati SharePointovega mesta, ki spada v skupino Office 365, morate izbrisati skupini Office 365, sama. 
+Izbrisati aktivno mesto encima, Pojdi na trenutno skrbniško središče za SharePoint, kliknite "Preizkusite zdaj" v zgornjem desnem. Izberite **aktivna mesta**, izberite stran, in izberite **Izbriši**. [Pogled in postaviti v prejšnje stanje izbrisati mesta v centru nove admin SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), izberite **izbrisane strani**. Za več informacij, glejte [upravljanje mesta v centru nove admin SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
-1. Pojdite na [stran skupine Office 365 admin center](https://portal.office.com/adminportal/home#/groups).
+**Pomembno:** Če spletna stran je del pravilnika o hranjenju, morda ne boste mogli izbrisati, dokler stran je odstranjena iz je [varnost &amp; skladnost Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). Za več informacij, glejte [Pregled pravilnikov o hranjenju](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
   
-2. Izberite potrditveno polje ob skupini.
-  
-3. Izberite **Izbriši**. 
-  
-Opomba: Če izbrišete skupine, ne more biti zamude pred mestom je odstranjena iz SharePointa.
-  
- **Izbriši sporočilo mesta ali klasična mesta:**
-  
-1. Pojdite na spletno stran.
-  
-2. Kliknite na ** nastavitve ** (zobniških ikona) v zgornjem desnem. 
-  
-3. Kliknite **Nastavitve mesta**. Pod **Informacije** ali **Dejanja mesta**, kliknite **Izbriši ta stran**, in nato kliknite **Izbriši**. 
-  
- **Izbriši zbirko mest SharePoint:**
-  
-Če želite izbrisati zbirko klasičnih spletnih mest:
-  
-1. V klasičnih SharePoint admin center, na strani zbirke mesta, potrdite **potrditveno polje** ob zbirki mest. 
-  
-2. Na kartici zbirke mest, izberite **izbrisati.**
-  
- **Mesto izbriše po nesreči?**
-  
-Glejte [obnovitev izbrisane mest](https://go.microsoft.com/fwlink/?linkid=867660).
+Nasveti:
+- Globalno administratorji in SharePoint administratorji lahko zdaj izbrišete mesta **Office 365 skupina**. To bo izbrisalo skupino in vsa svoja sredstva, vključno z nabiralnika Outlook koledar in vse ekipe kanalov. Več informacij, glejte [brisanje na SharePointovo mesto](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Obnovite izbrisane strani 93 dni. Upoštevajte, da je treba obnoviti izbrisanih skupin v 30 dneh. Za več informacij, glejte [pogled in obnovitev izbrisane strani](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- V čisto premestitev stran z Powershell, glej primer [Odstrani-SPSite](https://docs.microsoft.com/powershell/module/sharepoint-server/remove-spsite?view=sharepoint-ps) cmdlet. 
   
 

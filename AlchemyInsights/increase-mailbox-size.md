@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 5068d2ce7c2bb96551d6eeb6f60044bbe741e1cb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4029a07e1108a515b9dac2def814243ae3c76c22
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29489492"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661659"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Stikalo načrte za povečanje velikosti nabiralnika
 
 Če velikost nabiralnika je že 100 GB, ni nikakor ne poveča. V tem primeru sledite [ta nasvet](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71). 
   
-Če velikost nabiralnika je 50 GB, boste lahko povečali 100 GB s prehodom na [Office 365 podjetje E3](https://products.office.com/en-us/business/office-365-enterprise-e3-business-software) ali [Office 365 podjetje E5](https://products.office.com/en-us/business/office-365-enterprise-e5-business-software). Tu so koraki, da preklopite v drug načrt Office 365:
+Če velikost nabiralnika je 50 GB, boste lahko povečali 100 GB s prehodom na [Office 365 podjetje E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ali [Office 365 podjetje E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tu so koraki, da preklopite v drug načrt Office 365:
   
 1. V skrbniškem središču za Office 365, obiščite stran za [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) ali izberite **zaračunavanje** \> **naročnine**.
     

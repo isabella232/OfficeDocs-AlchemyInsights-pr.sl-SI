@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 14c7b17a710137e156d6f8ac31d67701c9a86ac2
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: c7f0b2c14c32ceb24b64bdb06bef4d48cc2ad39c
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490466"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661227"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kako spremenim iz plačila s kreditno kartico za račun?
 
@@ -28,12 +28,9 @@ ms.locfileid: "29490466"
 2. Izberite naročnine, ki jo želite spremeniti. V odseku **način plačila** , izberite **podrobnosti o plačilu sprememb**.
     
 3. V podoknu s **podrobnostmi sprememb plačila** izberite **spremeni vaš način plačila**.
-    
-    > [!TIP]
-    > Če ni prikazano povezavo **spremeni vaš način plačila** , to pomeni, da prehod iz kreditne kartice ali bančnega računa na račun ni na voljo za vpis, ker naročnina ne izpolnjuje minimalnih stroškov znesek za zaračunavanje račun. Najnižje stroške zneska, potrebnega za račun bremenjen se razlikuje glede na geografsko lego. 
+<br>*Opomba: Če ni prikazano povezavo **spremeni vaš način plačila** , to pomeni, da prehod iz kreditne kartice ali bančnega računa na račun ni na voljo za vpis, ker naročnina ne izpolnjuje minimalnih stroškov znesek za zaračunavanje račun. Najnižje stroške zneska, potrebnega za račun bremenjen se razlikuje glede na geografsko lego.*
   
 4. V na ** spremenite način plačila ** pogovornega okna, izberite **Nadaljuj**.
     
 5. Izberite **OK** vrniti v skrbniškem središču. 
-    
-
+   

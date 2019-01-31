@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: ee96abfa179c36ebaf43dbd327d4608b849395d3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b8b3e5389778b3aff0fbe2f6506ba2b2fc3abc7e
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29489938"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29655683"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>«Mapa »Obnovljivo «je poln
 
@@ -36,7 +36,7 @@ Za nabiralnike, ki niso na čakanju, administratorji lahko uporabite na `Search-
     
 - [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
     
-Za nabiralnike, ki so na čakanju, administratorji morali odstraniti zadržanja, preden se lahko izbrisano iz mape »Obnovljivo« . Če želite več informacij, glejte [brisanje elementov v obnovljivo mapo oblaku nabiralnikov na imajo](https://docs.microsoft.com/en-us/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Za nabiralnike, ki so na čakanju, administratorji morali odstraniti zadržanja, preden se lahko izbrisano iz mape »Obnovljivo« . Če želite več informacij, glejte [brisanje elementov v obnovljivo mapo oblaku nabiralnikov na imajo](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
   
 Da bi preprečili mape »Obnovljivo« od postane poln, lahko administratorji poveča omejitev velikosti shrambe za obnovljivo mapo za nabiralnike v strežniku imajo in nastavite pravilnika o hranjenju za nabiralnik, ki premakne elemente iz mape »Obnovljivo« v uporabnikovem Arhiv nabiralnik. Glej, [povečanje obnovljivo imajo količinske omejitve za nabiralnike v strežniku](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
   

@@ -3,18 +3,19 @@ title: Z dodeljevanjem licenc Office uporabnikom Mac
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
-ms.openlocfilehash: 23e680603bb120a3daadd0f5e912cae570d3b915
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d95601e868d7c31d99f8a151677d4a9acf7dd15e
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490356"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646327"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Z dodeljevanjem licenc Office uporabnikom Mac
 
@@ -28,6 +29,6 @@ ms.locfileid: "29490356"
     
 - Na dnu podokna **proizvod dovoljenja** , izberite **Shrani** \> **blizu** \> **blizu**.
     
-Za več informacij: [dodelite dovoljenja za uporabnike v Office 365 za podjetja](.md)
+Za več informacij: [dodelite dovoljenja za uporabnike v Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   
 
