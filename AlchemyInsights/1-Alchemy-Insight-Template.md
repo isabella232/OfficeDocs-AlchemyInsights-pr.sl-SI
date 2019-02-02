@@ -11,16 +11,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 1bb1cb35f06e16a2dc85b7e2642b9fa0d203945e
-ms.sourcegitcommit: b032c2ac45540b1eb5dd68a4ec7ce1a5d6922f0e
+ms.openlocfilehash: 278a26f4b986a85e33442baef690d3bb44462ace
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29662946"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697146"
 ---
-# <a name="required-customer-facing-h1-h2-doesnt-work"></a>Potrebna kupca sooča H1, H2, ne deluje
-Primer besedilo blokiranje - sledite tem navodilom:
+# <a name="required-alchemy-header-h1-h2s-dont-work"></a>Zahteva alkimije glavo H1, H2 je ne dela.
+Najboljše prakse in smernice za alkimijo authoring:
 
+1. **Ne ugnezdite Alchemy vpogled v mapah**- to bo prekinil url strukture. Iščemo v pritrjevanje to.
 1. Datoteke v mapi **AlchemyInsights** mora imeti pravilo ID in ime pravila iz [alkimije Partner portal](https://alchemyportal.azurewebsites.net) v ime datoteke.
     1. ex. ***976-How-to-enable-litigation-hold***
 1. Metapodatke na vrhu te datoteke uporabite kot predlogo. Nič drugega ni potrebno.
@@ -35,7 +36,6 @@ Primer besedilo blokiranje - sledite tem navodilom:
 
 In to je res že malo predolgo. Najboljše prakse je približno 400 znakov---
 
-Ko vsebino, je pripravljen, potegnem v živo veja. Potem obiščite [alkimije Partner portal](https://alchemyportal.azurewebsites.net) in vnesite ime datoteke v polje url. Preverite, ali vpogled pregledali in objavila pravi, "da" in kliknite posodobitev pravilo. (To bo videti lepši v novi različici portala - sprošča kmalu.)
-
-![URL polje](media/for-content-team.PNG)
+Ko vsebino, je pripravljen, potegnem v živo veja. Potem obiščite [alkimije Partner portal](https://alchemyportal.azurewebsites.net) in vnesite ime datoteke v polje url. Preverite, ali vpogled pregledali in objavila pravi, "da" in kliknite posodobitev pravilo. **(To bo videti lepši v novi različici portala - sprošča kmalu.)** 
+ ![url polje](media/for-content-team.PNG)
 
