@@ -11,19 +11,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: 853f9dd9fd84c90b0f184f7b348d8eb931933ac8
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d9f5719bfc7b6a7d35f114cd21f39cbc2b628824
+ms.sourcegitcommit: 1e50e5b1db18c22b60e429636a272d37c21bc45d
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29490357"
+ms.lasthandoff: 02/07/2019
+ms.locfileid: "29770669"
 ---
-# <a name="about-delegates-in-outlook-and-outlook-on-the-web"></a>O delegatov v Outlook in Outlook na spletu
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Odpravljanje težav delegacije v Outlook in Outlook na spletu
 
-Če želite več informacij, si oglejte te teme:
-  
-- **Outlook**: [omogočiti nekomu za upravljanje vaše pošte in koledarja](https://support.office.com/article/41C40C04-3BD1-4D22-963A-28EAFEC25926)
-    
-- **Outlook na spletu**: [koledar delegacije v Outlooku na spletu za podjetja](https://support.office.com/article/532e6410-ee80-42b5-9b1b-a09345ccef1b)
-    
+**Odpravljanje težav z orodjem SaRA:**
 
+1. Prenesite in namestite orodje SaRA od tukaj
+1. Izberite Outlook, potem "Sem imetje izdaja s svoj koledar"
+1. Pravijo, da za prizadete stroj
+1. Dodajte e-poštni naslov uporabnikov
+1. Izberite "Imam težave z dovoljenji pooblaščenega"
+1. V naslednjo vrstico, če ste oseba, ki daje dovoljenja, vnesite e-poštni naslov za vaš pooblaščenec. Če ste prejeli dovoljenja in ste pooblaščenec, vnesite e-poštni naslov osebe, ki ti je dal dovoljenja.
+1. V naslednji meni, izberite možnost, ki ustreza vašem scenariju. 
+1. V naslednji meni, izberite raven dovoljenj.
+1. Na tej stopnji, SaRA orodje bo avtomatsko preverjajo in to vam bo priskrbel mogoč odložnost ali pa bo diagnostični dnevnik, ki se lahko uporabijo za nadaljnje odpravljanje težav.
+1. Dnevnike najdete v mapi SaRA rezultate, ki se nahajajo na C:\Users\Username\AppData\Local\SaraResults
