@@ -838,3 +838,57 @@
 | 1/30/2019 | [123, dobili račun onemogočen napake v OWA?](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | spremenil |
 | 1/2/2019 | [enako kot ime datoteke, je najbolje [pravilo #-opis]](/AlchemyInsights/1-alchemy-insight-template) | spremenil |
 | 1/2/2019 | [Spreminjanje dovoljenj, na nabiralnik](/AlchemyInsights/changing-permissions-on-a-mailbox) | spremenil |
+
+
+## <a name="week-of-february-04-2019"></a>Teden od 04 februar 2019
+
+
+| Objavljeni na |Naslov teme | Spremembe |
+|------|------------|--------|
+| 2/4/2019 | [Dodajanje uporabnikov za Office 365](/AlchemyInsights/add-users-to-office-365) | spremenil |
+| 2/6/2019 | [Zaposlenih, pri čemer](/AlchemyInsights/employee-leaving) | spremenil |
+| 2/6/2019 | [Admin prevzem](/AlchemyInsights/admin-takeover) | spremenil |
+| 2/6/2019 | [127, pridobivanje a TenantAccessBlockedException zmota čas postranski email?](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | spremenil |
+| 2/6/2019 | [959 spremembe prikazno ime](/AlchemyInsights/959-change-display-name) | spremenil |
+| 2/6/2019 | [Dodajanje ali odstranjevanje e-poštni vzdevek za uporabnika](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | spremenil |
+| 2/6/2019 | Sedeži dodate predplačane naročnino | Odstrani |
+| 2/6/2019 | [Dodajanje uporabnikov za Office 365](/AlchemyInsights/add-users-to-office-365) | spremenil |
+| 2/6/2019 | [Zunanje uporabnike dodate skupine prejemnikov?](/AlchemyInsights/adding-external-users-to-a-distribution-group) | spremenil |
+| 2/6/2019 | Admin - Global Office 365 setup in uprava | Odstrani |
+| 2/6/2019 | Admin - upravljanje moje uporabnikov, skupin in virov | Odstrani |
+| 2/6/2019 | Admin - nastavitev domene in DNS nastavitve | Odstrani |
+| 2/6/2019 | Admin - prijava in gesla | Odstrani |
+| 2/6/2019 | [Preklicati naročnino Office 365](/AlchemyInsights/cancel-office-365-subscription) | spremenil |
+| 2/6/2019 | [Sprememba a uporabnik ime ter email ogovor](/AlchemyInsights/change-a-user-s-name-and-email-address) | spremenil |
+| 2/6/2019 | Commerce - upravljanje računov, plačil, naročninam in licencam, | Odstrani |
+| 2/6/2019 | [Pridobivanje a TenantAccessBlockedException zmota čas postranski email?](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | spremenil |
+| 2/6/2019 | [Ob vprašanjih dostave e-pošte?](/AlchemyInsights/having-email-delivery-issues-0) | spremenil |
+| 2/6/2019 | [Ob vprašanjih dostave e-pošte?](/AlchemyInsights/having-email-delivery-issues) | spremenil |
+| 2/6/2019 | [Ob vprašanjih pridobivanje Outlook vzpostavi povezavo?](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | spremenil |
+| 2/6/2019 | [Ob vprašanjih pridobivanje Outlook vzpostavi povezavo?](/AlchemyInsights/having-issues-getting-outlook-to-connect) | spremenil |
+| 2/6/2019 | InTune - prenos, namestitev in uporabo Intune | Odstrani |
+| 2/6/2019 | [Vprašanje s Skype za podjetje?](/AlchemyInsights/issue-with-skype-for-business) | spremenil |
+| 2/6/2019 | ODSP | Odstrani |
+| 2/6/2019 | Officeovega odjemalca - Excel | Odstrani |
+| 2/6/2019 | [Obnovitev izbrisanih uporabnik](/AlchemyInsights/restore-deleted-user) | spremenil |
+| 2/6/2019 | [Storitev Incident v teku](/AlchemyInsights/service-incident-in-progress-0) | spremenil |
+| 2/6/2019 | [Storitev Incident v teku](/AlchemyInsights/service-incident-in-progress-1) | spremenil |
+| 2/6/2019 | [Storitev Incident v teku](/AlchemyInsights/service-incident-in-progress-2) | spremenil |
+| 2/6/2019 | [Storitev Incident v teku](/AlchemyInsights/service-incident-in-progress-3) | spremenil |
+| 2/6/2019 | [Storitev Incident v teku](/AlchemyInsights/service-incident-in-progress-4) | spremenil |
+| 2/6/2019 | [Storitev Incident v teku](/AlchemyInsights/service-incident-in-progress-5) | spremenil |
+| 2/6/2019 | [Storitev Incident v teku](/AlchemyInsights/service-incident-in-progress) | spremenil |
+| 2/6/2019 | [Vzpostavitev projekta](/AlchemyInsights/setting-up-project) | spremenil |
+| 2/6/2019 | Namestitveni program skladnosti funkcije, kot so Arhiv, hranjenja, sporov, eDiscovery in MDM | Odstrani |
+| 2/6/2019 | Using Offline umestiti zakaj urad | Odstrani |
+| 2/6/2019 | Kukati - namestitev in uporabo storitev Bastard | Odstrani |
+| 2019/2/7 | [Excel treskav?](/AlchemyInsights/excel-crashing) | spremenil |
+| 2019/2/7 | [Dodajanje in urejanje z VatID](/AlchemyInsights/how-to-add-or-edit-a-vatid) | spremenil |
+| 2019/2/7 | [Minecraft izdaja Office 365 brezplačno izobraževanje za](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | spremenil |
+| 2019/2/7 | [606 informacije o delegaciji](/AlchemyInsights/606-information-on-delegation) | spremenil |
+| 2019/2/7 | [Skupini ne prikazuje seznamu skupin](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | spremenil |
+| 8/2/2019 | [DLP politike Nasveti ne deluje](/AlchemyInsights/dlp-policy-tips-not-working) | spremenil |
+| 8/2/2019 | [DLP pravilo za ZDA / UK številka potnega lista, ne deluje](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | spremenil |
+| 8/2/2019 | [Brezplačno izobraževanje za Office 365](/AlchemyInsights/office-365-education-for-free) | spremenil |
+| 8/2/2019 | [Potrebna dovoljenja za Microsoft ToDo](/AlchemyInsights/required-licences-for-microsoft-todo) | spremenil |
+| 8/2/2019 | [Pravilniki o hranjenju v Exchange Admin Center ne deluje](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | spremenil |
