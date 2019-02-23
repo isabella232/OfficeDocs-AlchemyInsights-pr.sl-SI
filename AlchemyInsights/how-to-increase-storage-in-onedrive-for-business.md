@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906424"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207773"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>Kako povečati shranjevanje v OneDrive za podjetja
 
@@ -27,7 +27,7 @@ Shranjevanje prostora nastavitev velja za vse uporabnike, za katere niste nastav
   
 Povišati vaš prostor za shranjevanje v OneDrive za podjetja, izberite načrt Office 365, ki vključuje **OneDrive za poslovni načrt 2** ali **Office 365 podjetje E3**. 
   
-Spremeniti načrte, v skrbniškem središču za Office 365, pojdite na **zaračunavanje** \> **naročnine**, in izberite **udarec s šibo načrte.**
+Spremeniti načrte, v centru Microsoft 365 admin, pojdite na **zaračunavanje** \> **naročnine**, in izberite **udarec s šibo načrte.**
   
 Če želite več informacij o prehodu načrti in OneDrive za poslovne shranjevanje, glej [prehod na različnih Office 365 za poslovni načrt](https://go.microsoft.com/fwlink/?LinkId=2031117) in [OneDrive za opis poslovne storitve](https://go.microsoft.com/fwlink/?LinkId-2031122).
   

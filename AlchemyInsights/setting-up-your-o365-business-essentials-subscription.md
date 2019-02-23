@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 4d375f6357539db79c870c5c32e7201bc93081b8
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: f32262a370abf8b6e0801cd0741f827a9d4be707
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29915316"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207881"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Postavljanje ki gre gor vaš O365 Business Essentials naročnino
 
@@ -21,7 +21,7 @@ Ustvarite račune Office 365 in dodati domeno
   
 - V tem koraku, uporabite čarovnika za namestitev ustvari Office 365 računov za uporabnike in povečati svojo domeno. Čarovnik vam omogoča, da prilagodite posameznika uporabniški ID in e-pošto za vaše podjetje, kot [rob@contoso.com](mailto:rob@contoso.com).
     
-- Pojdite na [skrbniško središče Office 365](https://login.partner.microsoftonline.cn/).
+- Pojdite na [Microsoft 365 admin center](https://login.partner.microsoftonline.cn/).
     
 - Če želite zagnati čarovnika, izberite **obiščite spletno setup**. Če želite izvedeti več, glejte [Dodaj uporabnike in domene za Office 365](https://support.office.com/Article/Add-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
     
