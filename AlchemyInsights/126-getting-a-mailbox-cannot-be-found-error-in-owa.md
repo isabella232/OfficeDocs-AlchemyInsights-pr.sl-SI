@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 808b36c247458123da6ee43500c1380f6407e7cd
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: b7d54e9fb29bf94ec540e6059e932ec33f326495
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904660"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209825"
 ---
 # <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Pridobivanje nabiralnika ni bilo mogoče najti napake v Outlooku na spletu?
 
 Če uporabljate Outlook v spletu, boste dobili napako **nabiralnika ni bilo mogoče najti za** račun, ki ste ga uporabili za povezavo v Outlook na spletu nima licenco za Exchange Online in zato ni predal je povezan z računom. Admin lahko licenco dodelite vaš račun z naslednjim korakom: 
   
-1. Odprite [Office 365 admin center](https://portal.office.com/adminportal/home#/homepage) in pod **aktivnih uporabnikov**, izberite **Uredi uporabnik**.
+1. Odprite [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) in pod **aktivnih uporabnikov**, izberite **Uredi uporabnik**.
     
 2. Na strani **Urejanje uporabnik** , ki se odpre, izberite uporabnika. Uporabnik lastnosti strani, ki se odpre, kliknite **Uredi** za **licence izdelka**.
     

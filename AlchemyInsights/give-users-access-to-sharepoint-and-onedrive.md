@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 8984d8dfdd8f1ff540b418dfbfe382cffac978e5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d29764266f44aee5f8f8e2c93ad67b2a33c6f417
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29933856"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209753"
 ---
 # <a name="give-users-access-to-sharepoint-and-onedrive"></a>Uporabnikom dostop do SharePoint in OneDrive
 
 > [!NOTE]
 > Če OneDrive ali SharePoint stran ni na voljo za več uporabnikov, ki so prej imeli dostopa, lahko izdajo začasnih storitev. [Preverite zdravje Nadzorna plošča storitev](https://portal.office.com/adminportal/home#/servicehealth)
   
-Če hočete, da ljudje v vaši organizaciji lahko prijavite in uporabljate SharePoint in OneDrive, boste morali dodati računi za njih in imeti licenco, ki jim daje dostop do SharePoint in OneDrive. Najlažji način za dodajanje uporabnikov je v skrbniškem središču za Office 365.
+Če hočete, da ljudje v vaši organizaciji lahko prijavite in uporabljate SharePoint in OneDrive, boste morali dodati računi za njih in imeti licenco, ki jim daje dostop do SharePoint in OneDrive. Najlažji način za dodajanje uporabnikov je v skrbniškem središču Microsoft 365.
   
-1. Iti [aktivnih uporabnikov strani v skrbniškem središču za Office 365](https://portal.office.com/adminportal/home#/users), in nato kliknite **Dodaj uporabnika**.
+1. Iti [aktivnih uporabnikov strani v centru Microsoft 365 admin](https://portal.office.com/adminportal/home#/users), in nato kliknite **Dodaj uporabnika**.
     
 2. Izpolnite podatke za uporabnika, in se prepričajte da pod **licencah izdelkov**, je dodeljeno licenco in **SharePoint Online** je izbran. 
     

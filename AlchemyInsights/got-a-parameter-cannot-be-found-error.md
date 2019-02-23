@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: 66858a36cbd1cea17d94549c17bbfe618d43f33f
-ms.sourcegitcommit: c3ed7525f24f80cc6372aa3f496463500bb0c3ca
+ms.openlocfilehash: 345dd37cd12324ceb35953c8a28c3274e3302726
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30088093"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209249"
 ---
 # <a name="migrating-email-from-imap-email-system-to-office-365"></a>Selitev e-pošte iz IMAP e-poštni sistem za Office 365
 
-Selitev e-pošte iz sistema IMAP verižna srajca, upoštevajte ta postopek: [selitev IMAP v skrbniškem središču za Office 365](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
+Selitev e-pošte iz sistema IMAP verižna srajca, upoštevajte ta postopek: [selitev IMAP v skrbniškem središču Microsoft 365](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)
   
 Veliko velikih organizacijah morali načrtovati skrbno upravljati pričakovanj uporabnikov. [Kaj morate vedeti o selitvi nabiralnikov IMAP za Office 365](https://docs.microsoft.com/en-us/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) članek vam bo pomagal upravljati spremembe. 
 
