@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
-ms.openlocfilehash: 4683bd62adb7bf9096dc7e5fedca8b42d6dcccf0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: ed917050637d3984cc120fa26ecb29719a921878
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930531"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244525"
 ---
-# <a name="deal-with-phishing-scams-in-your-inbox"></a><span data-ttu-id="79226-102">Ukvarjajo z goljufijami v vaš v medkrovju</span><span class="sxs-lookup"><span data-stu-id="79226-102">Deal with phishing scams in your inbox</span></span>
+# <a name="deal-with-phishing-scams-in-your-inbox"></a><span data-ttu-id="bfd36-102">Ukvarjajo z goljufijami v vaš v medkrovju</span><span class="sxs-lookup"><span data-stu-id="bfd36-102">Deal with phishing scams in your inbox</span></span>
 
-<span data-ttu-id="79226-103">Če dobite e-pošto, ki izgleda kot phishing prevara, ga lahko prijavite.</span><span class="sxs-lookup"><span data-stu-id="79226-103">If you get an email that looks like a phishing scam, you can report it.</span></span>
+<span data-ttu-id="bfd36-103">Če dobite e-pošto, ki izgleda kot phishing prevara, ga lahko prijavite.</span><span class="sxs-lookup"><span data-stu-id="bfd36-103">If you get an email that looks like a phishing scam, you can report it.</span></span>
   
-1. <span data-ttu-id="79226-104">Desno tipko miške kliknite sporočilo in izberite **Označi kot neželeno**.</span><span class="sxs-lookup"><span data-stu-id="79226-104">Right-click the message and select **Mark as junk**.</span></span> 
+1. <span data-ttu-id="bfd36-104">Desno tipko miške kliknite sporočilo in izberite **Označi kot neželeno**.</span><span class="sxs-lookup"><span data-stu-id="bfd36-104">Right-click the message and select **Mark as junk**.</span></span> 
     
-2. <span data-ttu-id="79226-105">Pojdite v mapo Neželena e-pošta in izberite sporočilo.</span><span class="sxs-lookup"><span data-stu-id="79226-105">Go to the Junk Email folder and select the message.</span></span>
+2. <span data-ttu-id="bfd36-105">Pojdite v mapo Neželena e-pošta in izberite sporočilo.</span><span class="sxs-lookup"><span data-stu-id="bfd36-105">Go to the Junk Email folder and select the message.</span></span>
     
-3. <span data-ttu-id="79226-106">Na vrhu strani, izberite puščico ob gumbu **zaželenega** in **Phishing**.</span><span class="sxs-lookup"><span data-stu-id="79226-106">At the top of the page, select the arrow next to **Not junk** and then select **Phishing**.</span></span> 
+3. <span data-ttu-id="bfd36-106">Na vrhu strani, izberite puščico ob gumbu **zaželenega** in **Phishing**.</span><span class="sxs-lookup"><span data-stu-id="bfd36-106">At the top of the page, select the arrow next to **Not junk** and then select **Phishing**.</span></span> 
     
-<span data-ttu-id="79226-107">Več o tem, kako ravnati [z zlorabo, phishing, ali prevara](https://go.microsoft.com/fwlink/p/?linkid=873139).</span><span class="sxs-lookup"><span data-stu-id="79226-107">Learn more about how to [deal with abuse, phishing, or spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).</span></span>
+<span data-ttu-id="bfd36-107">Več o tem, kako ravnati [z zlorabo, phishing, ali prevara](https://go.microsoft.com/fwlink/p/?linkid=873139).</span><span class="sxs-lookup"><span data-stu-id="bfd36-107">Learn more about how to [deal with abuse, phishing, or spoofing](https://go.microsoft.com/fwlink/p/?linkid=873139).</span></span>
   
-<span data-ttu-id="79226-108">Če ste videli povečanje spam, preberite kako [ohranjati spam in neželeno e-pošto iz Prejeto](https://go.microsoft.com/fwlink/p/?linkid=873140).</span><span class="sxs-lookup"><span data-stu-id="79226-108">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
+<span data-ttu-id="bfd36-108">Če ste videli povečanje spam, preberite kako [ohranjati spam in neželeno e-pošto iz Prejeto](https://go.microsoft.com/fwlink/p/?linkid=873140).</span><span class="sxs-lookup"><span data-stu-id="bfd36-108">If you're seeing an increase in spam, read how to [help keep spam and junk email out of your inbox](https://go.microsoft.com/fwlink/p/?linkid=873140).</span></span>
   
-<span data-ttu-id="79226-p101">Blokirati e-poštne naslove, pojdite na **Nastavitve**![nastavitve](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **možnosti** \> **blokirani pošiljatelji**. Na seznam varnih pošiljateljev dodati naslove ali domene, izberite **Varni pošiljatelji**.</span><span class="sxs-lookup"><span data-stu-id="79226-p101">To block email addresses, go to **Settings**![Settings](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **Options** \> **Blocked senders**. To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
+<span data-ttu-id="bfd36-p101">Blokirati e-poštne naslove, pojdite na **Nastavitve** \> **možnosti** \> **blokirani pošiljatelji**. Na seznam varnih pošiljateljev dodati naslove ali domene, izberite **Varni pošiljatelji**.</span><span class="sxs-lookup"><span data-stu-id="bfd36-p101">To block email addresses, go to **Settings** \> **Options** \> **Blocked senders**. To add addresses or domains to your safe senders list, select **Safe senders**.</span></span> 
   
 
