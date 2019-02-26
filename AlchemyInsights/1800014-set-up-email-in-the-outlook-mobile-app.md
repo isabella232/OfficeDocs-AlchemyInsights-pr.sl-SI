@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 7345e635de059adc10a07be8edf854431b133e72
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 8b47c1963523c9be8eb5e1fb2cdfd283f82c321c
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925540"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30244381"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>Nastavite e-pošto v Outlook mobile app
 
-1. Izberite **Začeti** če to je vaš prvi čas postavljanje ki gre gor email v mobilnih app. sicer, tapnite **meni**![Menu gumb](media/265b9089-9630-42dd-a244-d9a412d8fe47.png) in nato tapnite **Nastavitve** \> **Dodaj račun** \> **Dodajte e-poštni račun**. 
+1. Izberite **Začetek** , če je to vaš prvi čas postavljanje ki gre gor email v mobilnih app. sicer, tapnite **meni** in nato **Nastavitve** \> **Dodaj račun** \> **Dodajte e-poštni račun**. 
     
 2. Vnesite svoj polni e-poštni naslov in tapnite **naprej** ali **Dodati račun**.
     
