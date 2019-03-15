@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939324"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634520"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Zahteva alkimije glavo H1, H2 je ne dela.
 Najboljše prakse in smernice za alkimijo authoring:
 
 1. **Ne ugnezdite Alchemy vpogled v mapah**- to bo prekinil url strukture. Iščemo v pritrjevanje to.
 1. Datoteke v mapi **AlchemyInsights** mora imeti pravilo ID in ime pravila iz [alkimije Partner portal](https://alchemyportal.azurewebsites.net) v ime datoteke.
-    1. ex. ***976-How-to-enable-litigation-hold***
+    1. ex. ***976-how-to-enable-Litigation-Hold***
 1. Metapodatke na vrhu te datoteke uporabite kot predlogo. Nič drugega ni potrebno.
 1. [Alchemy Partner portal](https://alchemyportal.azurewebsites.net)pluti niz v oddelku **strank vpogled naslova:** in uporabo, ki kot začetno točko za vaš H1 naslov za vpogled. 
     > [!NOTE]
@@ -36,6 +36,6 @@ Najboljše prakse in smernice za alkimijo authoring:
 
 In to je res že malo predolgo. Najboljše prakse je približno 400 znakov---
 
-Ko vsebino, je pripravljen, potegnem v živo veja. Potem obiščite [alkimije Partner portal](https://alchemyportal.azurewebsites.net) in vnesite ime datoteke v polje url. Preverite, ali vpogled pregledali in objavila pravi, "da" in kliknite posodobitev pravilo. **(To bo videti lepši v novi različici portala - sprošča kmalu.)** 
+Ko vsebino, je pripravljen, potegnem v živo veja. Potem obiščite [alkimije Partner portal](https://alchemyportal.azurewebsites.net) in vnesite ime datoteke v polje url. Preverite, ali vpogled pregledali in objavila pravi, "da" in kliknite posodobitev pravilo. **(To bo videti lepši v novi različici portala - sproščanje soon.)** 
  ![url polje](media/for-content-team.PNG)
 
