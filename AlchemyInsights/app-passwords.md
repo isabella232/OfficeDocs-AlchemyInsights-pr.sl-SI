@@ -1,39 +1,37 @@
 ---
-title: App gesel
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 app gesel
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938248"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762548"
 ---
 # <a name="app-passwords"></a>App gesel
 
-App geslo je koda, ki daje app ali naprave dovoljenje za dostop do računa Office 365. Če vaš admin je vklopljeno preverjanje pristnosti multifaktorske v organizaciji, in uporabljate aplikacije, ki povezujejo Office 365 račun, boste morali ustvariti geslo za app, app lahko poveže z Office 365. Na primer, če uporabljate Outlook 2016 ali prej z Office 365, boste morali ustvariti app geslo.
+App geslo je koda, ki daje app ali naprave dovoljenje za dostop do vaše Office 365 delo ali v šolo račun. Če račun zahteva preverjanje pristnosti multifaktorske (MFA), in app poveže vaš račun, boste morali ustvariti geslo za app, app lahko poveže z Office 365. Na primer, Outlook 2016 in prejšnjih različicah Outlook v zahteva app geslo.
   
-1. Preverite, ali je vaš Office 365 admin vklopljen multifaktorske avtentifikacije za vaš račun. Če niso, ko poskušate narediti teh korakov ne boste videli možnosti v Office 365.
+ **Opomba**: preden poskusite naslednje korake, preveriti z Office 365 admin da MFP je potrebna za vaš račun. Če ni, ne bo vam na voljo možnosti, opisane v korakih.
+  
+1. Prijavite se v Office 365 s vaš opus ali šola račun in geslo.
     
-2. Prijavite se v Office 365 z računom za delo ali v šolo z geslom kot običajno. Potem ko izberete **vpisati**, boste videli stran z vaše uporabniško ime in nekaj možnosti 
+2. Izberite **ga zdaj**.
     
-3. Izberite **ga zdaj**. 
+3. Izberite vaš način preverjanja pristnosti in sledite pozivom.
     
-4. Izberite vaš način preverjanja pristnosti in sledite navodilom na strani.
+4. Po izvedenem preverjanju vaš nadomestni način za stik, izberite **naslednjo**.
     
-5. Po izvedenem preverjanju vaš nadomestni način za stik, izberite **naslednjo**. 
-    
-6. Boste dobili app geslo, uporabite z Apple Mail, Outlook, itd. Izberite ikono kopija kopiranje gesla v vaš clipboard. Vam ne bo treba zapomniti to geslo. 
-    
-7. Ko dodate vaš Office 365 e-poštni račun v Outlook (ali drugo app), in vas pozove za geslo, mimo to app geslo v polje geslo, namesto da vnesete geslo za račun. 
+5. Boste dobili app geslo, uporabite Outlook, Apple Mail in druge aplikacije, ki to zahtevajo. Izberite **kopije** prepisati geslo, tako da vi moči pasta to nekje drugje (vam ni treba zapomniti to). 
     
 
