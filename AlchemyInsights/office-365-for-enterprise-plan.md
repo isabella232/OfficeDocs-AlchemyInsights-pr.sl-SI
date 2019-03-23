@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5e423a8a-db05-4c46-804b-b8d9c54ba62b
-ms.openlocfilehash: 06921c96f1426c35409c8fd358f7793a64c46154
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 4882d93d74c8d0be0259e69e4a0dba9d8974867f
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930256"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763700"
 ---
-# <a name="office-365-for-enterprise-plan"></a><span data-ttu-id="8fb28-102">Office 365 za podjetja načrt</span><span class="sxs-lookup"><span data-stu-id="8fb28-102">Office 365 for Enterprise Plan</span></span>
+# <a name="office-365-for-enterprise-plan"></a><span data-ttu-id="183fb-102">Office 365 za podjetja načrt</span><span class="sxs-lookup"><span data-stu-id="183fb-102">Office 365 for Enterprise Plan</span></span>
 
-<span data-ttu-id="8fb28-p101">Obstaja pet različnih načrtov na voljo z Office 365 za podjetja. [Primerjajte Office 365 za podjetja načrte in cene](https://products.office.com/business/compare-more-office-365-for-business-plans).</span><span class="sxs-lookup"><span data-stu-id="8fb28-p101">There are five different plans available with Office 365 for Enterprise. [Compare Office 365 for Enterprise plans and pricing](https://products.office.com/business/compare-more-office-365-for-business-plans).</span></span>
+<span data-ttu-id="183fb-103">Obstaja pet različnih načrtov na voljo z Office 365 za podjetja.</span><span class="sxs-lookup"><span data-stu-id="183fb-103">There are five different plans available with Office 365 for Enterprise.</span></span> <span data-ttu-id="183fb-104">[Primerjajte Office 365 za podjetja načrte in cene](https://products.office.com/business/compare-more-office-365-for-business-plans).</span><span class="sxs-lookup"><span data-stu-id="183fb-104">[Compare Office 365 for Enterprise plans and pricing](https://products.office.com/business/compare-more-office-365-for-business-plans).</span></span>
   
 

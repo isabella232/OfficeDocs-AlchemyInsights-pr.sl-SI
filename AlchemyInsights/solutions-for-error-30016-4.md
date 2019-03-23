@@ -10,28 +10,28 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: 66493be82377ad9848e722abbe867a2c5cfdc9b0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 841e181243932bacb18bdb49508468db1da3c715
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29942316"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30760174"
 ---
-# <a name="solutions-for-error-30016-4"></a><span data-ttu-id="6ea76-102">Rešitev za napako 30016-4</span><span class="sxs-lookup"><span data-stu-id="6ea76-102">Solutions for error 30016-4</span></span>
+# <a name="solutions-for-error-30016-4"></a><span data-ttu-id="d6e93-102">Rešitev za napako 30016-4</span><span class="sxs-lookup"><span data-stu-id="d6e93-102">Solutions for error 30016-4</span></span>
 
 
-<span data-ttu-id="6ea76-103">Ko poskušate odstraniti Office 365 ProPlus iz računalnika, in boste dobili sporočilo o napaki, **Kaj je šlo narobe 30016-4**, to pomeni, da pogon **% čud %** je preslikan pogon kot **% ProgramFiles %**.</span><span class="sxs-lookup"><span data-stu-id="6ea76-103">When you try to uninstall Office 365 ProPlus from a computer, and you get the error message, **Something went wrong 30016-4**, it means the **%temp%** drive is mapped to a drive other than **%ProgramFiles%**.</span></span>
+<span data-ttu-id="d6e93-103">Ko poskušate odstraniti Office 365 ProPlus iz računalnika, in boste dobili sporočilo o napaki, **Kaj je šlo narobe 30016-4**, to pomeni, da pogon **% čud %** je preslikan pogon kot **% ProgramFiles %**.</span><span class="sxs-lookup"><span data-stu-id="d6e93-103">When you try to uninstall Office 365 ProPlus from a computer, and you get the error message, **Something went wrong 30016-4**, it means the **%temp%** drive is mapped to a drive other than **%ProgramFiles%**.</span></span>
   
-<span data-ttu-id="6ea76-104">Popraviti, prenesite in namestite [podporo in regres pomočnika](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span><span class="sxs-lookup"><span data-stu-id="6ea76-104">To fix, download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span></span>
+<span data-ttu-id="d6e93-104">Popraviti, prenesite in namestite [podporo in regres pomočnika](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span><span class="sxs-lookup"><span data-stu-id="d6e93-104">To fix, download and install the [Support and Recovery Assistant](https://aka.ms/SARA-OfficeUninstall-Alchemy)</span></span>
   
-1. <span data-ttu-id="6ea76-105">Ko se odpre, **Uninstall urad zmnožek** izberite različico, ki jo želite odstraniti, in izberite **naslednjo**.</span><span class="sxs-lookup"><span data-stu-id="6ea76-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
+1. <span data-ttu-id="d6e93-105">Ko se odpre, **Uninstall urad zmnožek** izberite različico, ki jo želite odstraniti, in izberite **naslednjo**.</span><span class="sxs-lookup"><span data-stu-id="d6e93-105">When it opens, from **Uninstall Office products** select the version you want to uninstall and select **Next**.</span></span> 
     
-2. <span data-ttu-id="6ea76-106">Nadaljuj z zasloni in znova zaženite računalnik, ko pozove.</span><span class="sxs-lookup"><span data-stu-id="6ea76-106">Continue going through screens and restart your computer when prompted.</span></span>
+2. <span data-ttu-id="d6e93-106">Nadaljuj z zasloni in znova zaženite računalnik, ko pozove.</span><span class="sxs-lookup"><span data-stu-id="d6e93-106">Continue going through screens and restart your computer when prompted.</span></span>
     
-    <span data-ttu-id="6ea76-107">Po ponovnem zagonu, podporo in regres pomočnik samodejno ponovno odpre za dokončanje postopek odstranitve.</span><span class="sxs-lookup"><span data-stu-id="6ea76-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
+    <span data-ttu-id="d6e93-107">Po ponovnem zagonu, podporo in regres pomočnik samodejno ponovno odpre za dokončanje postopek odstranitve.</span><span class="sxs-lookup"><span data-stu-id="d6e93-107">After restarting, the Support and Recovery Assistant automatically re-opens to complete the uninstall process.</span></span>
     
-3. <span data-ttu-id="6ea76-108">Sledite preostalih uren, ter [zopet postaviti urad](https://portal.office.com/OLS/MySoftware.aspx) ali zaprite Officeov pomočnik.</span><span class="sxs-lookup"><span data-stu-id="6ea76-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
+3. <span data-ttu-id="d6e93-108">Sledite preostalih uren, ter [zopet postaviti urad](https://portal.office.com/OLS/MySoftware.aspx) ali zaprite Officeov pomočnik.</span><span class="sxs-lookup"><span data-stu-id="d6e93-108">Follow remaining prompts, and [reinstall Office](https://portal.office.com/OLS/MySoftware.aspx) or close the assistant.</span></span> 
     
 
