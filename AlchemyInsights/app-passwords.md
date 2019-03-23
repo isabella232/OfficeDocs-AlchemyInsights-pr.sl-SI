@@ -1,39 +1,37 @@
 ---
-title: App gesel
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 3/20/2018
+title: 500 app gesel
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
-ms.assetid: e0d62ef3-cba0-4df8-a234-ce75a4f6cd84
-ms.openlocfilehash: c883dda38f959624668e202b188ff6e2ddd4ed47
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.custom: 500
+ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
+ms.openlocfilehash: 77a90338106ffeefc93b3631c0424156195ea1b8
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29938248"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762548"
 ---
-# <a name="app-passwords"></a><span data-ttu-id="4ed9d-102">App gesel</span><span class="sxs-lookup"><span data-stu-id="4ed9d-102">App passwords</span></span>
+# <a name="app-passwords"></a><span data-ttu-id="28c06-102">App gesel</span><span class="sxs-lookup"><span data-stu-id="28c06-102">App passwords</span></span>
 
-<span data-ttu-id="4ed9d-p101">App geslo je koda, ki daje app ali naprave dovoljenje za dostop do računa Office 365. Če vaš admin je vklopljeno preverjanje pristnosti multifaktorske v organizaciji, in uporabljate aplikacije, ki povezujejo Office 365 račun, boste morali ustvariti geslo za app, app lahko poveže z Office 365. Na primer, če uporabljate Outlook 2016 ali prej z Office 365, boste morali ustvariti app geslo.</span><span class="sxs-lookup"><span data-stu-id="4ed9d-p101">An app password is a code that gives an app or device permission to access your Office 365 account. If your admin has turned on multi-factor authentication for your organization, and you're using apps that connect to your Office 365 account, you'll need to generate an app password so the app can connect to Office 365. For example, if you're using Outlook 2016 or earlier with Office 365, you'll need to create an app password.</span></span>
+<span data-ttu-id="28c06-103">App geslo je koda, ki daje app ali naprave dovoljenje za dostop do vaše Office 365 delo ali v šolo račun.</span><span class="sxs-lookup"><span data-stu-id="28c06-103">An app password is a code that gives an app or device permission to access your Office 365 work or school account.</span></span> <span data-ttu-id="28c06-104">Če račun zahteva preverjanje pristnosti multifaktorske (MFA), in app poveže vaš račun, boste morali ustvariti geslo za app, app lahko poveže z Office 365.</span><span class="sxs-lookup"><span data-stu-id="28c06-104">If your account requires multi-factor authentication (MFA), and the app connects to your account, you need to generate an app password so the app can connect to Office 365.</span></span> <span data-ttu-id="28c06-105">Na primer, Outlook 2016 in prejšnjih različicah Outlook v zahteva app geslo.</span><span class="sxs-lookup"><span data-stu-id="28c06-105">For example, Outlook 2016 and earlier versions Outlook of require an app password.</span></span>
   
-1. <span data-ttu-id="4ed9d-p102">Preverite, ali je vaš Office 365 admin vklopljen multifaktorske avtentifikacije za vaš račun. Če niso, ko poskušate narediti teh korakov ne boste videli možnosti v Office 365.</span><span class="sxs-lookup"><span data-stu-id="4ed9d-p102">Check whether your Office 365 admin has turned on multi-factor authentication for your account. If they haven't, when you try to do these steps you won't see the options in Office 365.</span></span>
+ <span data-ttu-id="28c06-106">**Opomba**: preden poskusite naslednje korake, preveriti z Office 365 admin da MFP je potrebna za vaš račun.</span><span class="sxs-lookup"><span data-stu-id="28c06-106">**Note**: Before you try the following steps, verify with your Office 365 admin that MFA is required for your account.</span></span> <span data-ttu-id="28c06-107">Če ni, ne bo vam na voljo možnosti, opisane v korakih.</span><span class="sxs-lookup"><span data-stu-id="28c06-107">If it isn't, the options described in the steps won't be available to you.</span></span>
+  
+1. <span data-ttu-id="28c06-108">Prijavite se v Office 365 s vaš opus ali šola račun in geslo.</span><span class="sxs-lookup"><span data-stu-id="28c06-108">Sign in to Office 365 with your work or school account and your password.</span></span>
     
-2. <span data-ttu-id="4ed9d-p103">Prijavite se v Office 365 z računom za delo ali v šolo z geslom kot običajno. Potem ko izberete **vpisati**, boste videli stran z vaše uporabniško ime in nekaj možnosti</span><span class="sxs-lookup"><span data-stu-id="4ed9d-p103">Sign in to Office 365 with your work or school account with your password like you normally do. After you choose **Sign in**, you'll see a page with your user name and a few options</span></span> 
+2. <span data-ttu-id="28c06-109">Izberite **ga zdaj**.</span><span class="sxs-lookup"><span data-stu-id="28c06-109">Choose **Set it up now**.</span></span>
     
-3. <span data-ttu-id="4ed9d-110">Izberite **ga zdaj**.</span><span class="sxs-lookup"><span data-stu-id="4ed9d-110">Choose **Set it up now**.</span></span> 
+3. <span data-ttu-id="28c06-110">Izberite vaš način preverjanja pristnosti in sledite pozivom.</span><span class="sxs-lookup"><span data-stu-id="28c06-110">Select your authentication method and follow the prompts.</span></span>
     
-4. <span data-ttu-id="4ed9d-111">Izberite vaš način preverjanja pristnosti in sledite navodilom na strani.</span><span class="sxs-lookup"><span data-stu-id="4ed9d-111">Select your authentication method and then follow the prompts on the page.</span></span>
+4. <span data-ttu-id="28c06-111">Po izvedenem preverjanju vaš nadomestni način za stik, izberite **naslednjo**.</span><span class="sxs-lookup"><span data-stu-id="28c06-111">After you verify your alternate contact method, choose **Next**.</span></span>
     
-5. <span data-ttu-id="4ed9d-112">Po izvedenem preverjanju vaš nadomestni način za stik, izberite **naslednjo**.</span><span class="sxs-lookup"><span data-stu-id="4ed9d-112">After you verify your alternate contact method, choose **Next**.</span></span> 
-    
-6. <span data-ttu-id="4ed9d-p104">Boste dobili app geslo, uporabite z Apple Mail, Outlook, itd. Izberite ikono kopija kopiranje gesla v vaš clipboard. Vam ne bo treba zapomniti to geslo.</span><span class="sxs-lookup"><span data-stu-id="4ed9d-p104">You'll get an app password that you can use with Outlook, Apple Mail, etc. Choose the copy icon to copy the password to your clipboard. You won't need to memorize this password.</span></span> 
-    
-7. <span data-ttu-id="4ed9d-115">Ko dodate vaš Office 365 e-poštni račun v Outlook (ali drugo app), in vas pozove za geslo, mimo to app geslo v polje geslo, namesto da vnesete geslo za račun.</span><span class="sxs-lookup"><span data-stu-id="4ed9d-115">When you add your Office 365 email account to Outlook (or another app), and you're prompted for a password, past this app password into the Password box, instead of typing your account password.</span></span> 
+5. <span data-ttu-id="28c06-112">Boste dobili app geslo, uporabite Outlook, Apple Mail in druge aplikacije, ki to zahtevajo.</span><span class="sxs-lookup"><span data-stu-id="28c06-112">You'll get an app password that you can use with Outlook, Apple Mail, and other apps that require it.</span></span> <span data-ttu-id="28c06-113">Izberite **kopije** prepisati geslo, tako da vi moči pasta to nekje drugje (vam ni treba zapomniti to).</span><span class="sxs-lookup"><span data-stu-id="28c06-113">Choose **Copy** to copy the password so you can paste it elsewhere (you don't need to memorize it).</span></span> 
     
 
