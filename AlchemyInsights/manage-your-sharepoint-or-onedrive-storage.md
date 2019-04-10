@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
-ms.openlocfilehash: a6e6d95f79b058326255f480b1f72ceb8d94bfd9
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 450b416b5e0635bb8868f7eaf8296930af68f1a5
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761217"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747326"
 ---
 # <a name="manage-your-sharepoint-or-onedrive-storage"></a>Jahalna šola vaš prostor za shranjevanje SharePoint ali OneDrive
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761217"
   
 Večini organizacij, shranjevanje SharePoint upravlja samodejno tako da vam ni treba nastaviti omejitev na zbirke mest. Preverite, koliko prostora SharePoint morate:
   
-- V klasičnih SharePoint admin center, v zgornjem desnem kotu strani zbirke, poiščite vaš pri roki in skupno skladiščenje.
+- V novo SharePoint admin center, v zgornjem desnem kotu strani strani, Poglej za vaš pri roki in skupno skladiščenje.
     
 Informacije o tem, kako se izračuna mapama, glejte [SharePoint Online meje](https://go.microsoft.com/fwlink/p/?LinkID=856113). Za nakup dodatne shrambe, glej [spremembo prostora za vašo naročnino](https://go.microsoft.com/fwlink/?linkid=866428).
   

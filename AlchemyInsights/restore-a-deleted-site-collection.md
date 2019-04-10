@@ -1,5 +1,5 @@
 ---
-title: Obnovitev izbrisanega mest
+title: Obnovite izbrisane
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 1f9a66daf7bee43291b785b6260aec8725ee782f
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 0cf10a3a0effc1774d8a07c5d0be96384362c175
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30753802"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747794"
 ---
-# <a name="restore-a-deleted-site-collection"></a>Obnovitev izbrisanega mest
+# <a name="restore-a-deleted-site"></a>Obnovite izbrisane
 
-Ko admin izbriše zbirko klasičnih mest, se nahaja v zbirki mest koš, kjer se hrani za 93 dni preden pa se trajno izbriše. Če želite obnoviti zbirko mest:
+Ko admin izbriše stran, se nahaja v zbirki mest koš, kjer se hrani za 93 dni preden pa se trajno izbriše. Če želite obnoviti mesta:
   
-1. V klasičnih SharePoint admin center, na traku kliknite **Koš** . 
+1. V novi admin center za SharePoint, na traku kliknite **Koš** . 
     
 2. Izberite potrditveno polje ob zbirki spletnih mest, ki jo želite obnoviti.
     
 3. Kliknite **obnovi izbrisane elemente**.
     
-Da obnovite izbrisano sporočilo, lahko uporabite novo SharePoint admin center predogled. V nasprotnem primeru morate uporabiti PowerShell. Za obnovitev mesta, ki spada v skupino Office 365, morate obnoviti skupini v skrbniškem središču za izmenjavo. Skupine je mogoče obnoviti za 30 dni potem, ko so izbrisana.
+Da obnovite izbrisano sporočilo, lahko uporabite novo SharePoint admin center. V nasprotnem primeru morate uporabiti Microsoft PowerShell. Za obnovitev mesta, ki spada v skupino Office 365, morate obnoviti skupini v skrbniškem središču za izmenjavo. Skupine je mogoče obnoviti za 30 dni potem, ko so izbrisana.
   
 

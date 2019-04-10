@@ -1,6 +1,6 @@
 ---
 title: Ustvariti spletno stran v SharePoint Online
-ms.author: clake
+ms.author: stevhord
 author: spowriter
 manager: scotv
 ms.date: 5/21/2018
@@ -11,29 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 925384f501da14aa19acc9e147123dbeb19a67fa
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: c6fca2bf2dd2c204d5a2101029524932e6482555
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30764600"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747758"
 ---
 # <a name="create-a-site"></a>Ustvarite mesto
 
-Ustvarite lahko različne vrste spletnih mest v SharePoint Online. Ustvariti eno izmed novih tipih, si oglejte te teme.
-  
-- [Ustvariti mesto ekipa, ki je skupino Office 365](https://go.microsoft.com/fwlink/?linkid=866292)
+Ustvarite lahko različne vrste spletnih mest v SharePoint Online. Želite izvedeti, kako to storiti v novi admin center za SharePoint, glejte [ustvarjanje mesta](https://go.microsoft.com/fwlink/?linkid=866295). Informacij o omogoča uporabnikom, da ustvarijo svoje lastne strani, si oglejte [Ustvarjanje upravljanje mesta v SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
+ 
+Informacij o novih tipih, si oglejte [skupine povezana mesta skupine](https://go.microsoft.com/fwlink/?linkid=866292) ali [sporočilo mesta](https://go.microsoft.com/fwlink/?linkid=866294).
     
-- [Ustvarite sporočilo stran v SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866294)
-    
-Te strani lahko ustvarite tudi iz nove SharePoint admin center predogled.
-  
-Tvoriti klasična stran, naredite nekaj od tega:
-  
-- Pojdite na [strani mest v centru Microsoft 365 admin](https://portal.office.com/adminportal/home#/SitesList), in nato izberite **Dodaj stran**.
-    
-- V klasičnih SharePoint admin center, na strani zbirke mesta, izberite **New** \> **Zasebno zbirko mest**.
-    
-Za več podrobnosti, glejte [Ustvarjanje zbirko mest](https://go.microsoft.com/fwlink/?linkid=866295). Informacij o omogoča uporabnikom, da ustvarijo svoje lastne strani, si oglejte [Ustvarjanje upravljanje mesta v SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).
-  
+
 

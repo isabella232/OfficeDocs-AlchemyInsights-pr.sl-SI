@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 2b0f6d84c53b812fe0552fc05473eebdfcc8d71a
-ms.sourcegitcommit: 56c52c73e752414d66785f175c3a0e2925ad41c1
+ms.openlocfilehash: 467feb3cb436a2e0135162657876e5c45d8d56bd
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044055"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747254"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>Odpravite napako 404, ni mogoče najti datoteke
 
@@ -23,7 +23,7 @@ Napaka 404 je prejela, ko uporabniki poskušali dostopati do strani ali datoteko
 Klasična mesta, ki obstajajo v skrbniškem središču Classic, glejte [obnavljanje izbrisanih mest](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
 
 
-Sodobna mesta (komunikacije, povezane skupine, ali drugih mestih) v novi admin center predogled, glejte [pogled in postaviti v prejšnje stanje izbrisati mesta v centru nove admin SharePoint](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
+Sodobna mesta (komunikacije, povezane skupine, ali drugih mestih) ki obstajajo v novi admin center za SharePoint, glejte [pogled in postaviti v prejšnje stanje izbrisati mesta v centru nove admin SharePoint](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
 
 Če želite odpraviti napako 404 za datoteko (ali drug element), ki je bil preimenovan, premaknjen ali izbrisan:
 

@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 646fe22b-9980-4970-800b-034788de0c7f
-ms.openlocfilehash: 9e46335584c21d3d464a68a85f52a2f6c3c91a28
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 6bd3ae49d26594200ed6c46bb7f6138f1ae6100c
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762656"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747722"
 ---
 # <a name="restore-a-deleted-subsite"></a>Obnovi izbrisano podmesto
 
 Izbrisane podmesta so poslati v koš zbirke mest, kjer ste gojijo 93 dni. Obnovite izbrisano podmesto:
   
-1. V novo skrbniško središče za SharePoint (predogled) ali klasična SharePoint admin center, našli mest, iz katerih je bilo izbrisano podmesto in preverite, ali ste stran zbirka admin. 
+1. V novi admin center za SharePoint, našli spletno stran, iz katere je bilo izbrisano podmesto in preverite, ali ste stran zbirka admin. 
     
-2. Gre za zbirko mest. V levem podoknu kliknite **koš** . (Če koša ne vidite, kliknite ikono nastavitve in kliknite **vsebino spletne strani**. Koš je na skrajni desni strani ukazno vrstico na vrhu.)
+2. Pojdite na spletno stran. V levem podoknu kliknite **koš** . (Če koša ne vidite, kliknite ikono nastavitve in kliknite **vsebino spletne strani**. Koš je na skrajni desni strani ukazno vrstico na vrhu.)
     
 3. Na dnu strani kliknite **drugi fazi koš**.
     
