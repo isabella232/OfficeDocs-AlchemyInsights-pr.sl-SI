@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 182
 ms.assetid: a3a5ea91-6989-4616-9290-c7b24484e8c8
-ms.openlocfilehash: 6ec4ef9a59319731a80c77ef865fa0c265e918c5
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 549805ddc255df5292d0f3c4e31bc055e611c7bf
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30772632"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858328"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>Uporabite SaRA diagnosticirati in odpraviti težave s preverjanjem pristnosti Outlook
 
-Priporočamo, da uporabljate [Outlook ohranja prosi za geslo](https://aka.ms/SaRA-OutlookPwdPrompt) diagnostičnih prizadetih stroj za odpravljanje težav kjer Outlook nenehno sprašuje po geslu. Ta [SaRA](https://diagnostics.office.com/#/) diagnostične ali samodejnimi in vrne možne rešitve za uporabo za odpravo ugotovljenih težav. 
-  
-
+Priporočamo, da uporabljate [Outlook ohranja prosi za geslo](https://aka.ms/SaRA-OutlookPwdPrompt) diagnostičnih prizadetih stroj za odpravljanje težav kjer Outlook nenehno sprašuje po geslu. Ta [SaRA](https://diagnostics.office.com/#/) diagnostične ali samodejnimi in vrne možne rešitve za uporabo za odpravo ugotovljenih težav.
