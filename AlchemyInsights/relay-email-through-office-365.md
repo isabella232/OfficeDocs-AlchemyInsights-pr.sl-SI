@@ -1,5 +1,5 @@
 ---
-title: Posredovanje e-pošte prek Office 365
+title: Posredovanje e-pošte prek storitve Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 1d3868457d87a0abf36223c33c96b01a57f5b8d7
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: db8523c19ed7f4ebdb475c1425fae4f6ea0b8219
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468607"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752830"
 ---
-# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a><span data-ttu-id="00f1b-102">Nastavite večnamenska naprava ali program za pošiljanje e-pošte z uporabo Office 365</span><span class="sxs-lookup"><span data-stu-id="00f1b-102">Set up a multifunction device or application to send email using Office 365</span></span>
+# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a><span data-ttu-id="39939-102">Nastavitev večnfunkcijske naprave ali aplikacijo za pošiljanje e-pošte s storitvijo Office 365</span><span class="sxs-lookup"><span data-stu-id="39939-102">Set up a multifunction device or application to send email using Office 365</span></span>
 
-<span data-ttu-id="00f1b-103">Spoznati svoje možnosti in lestev, glej [kako zaiti ki gre gor a večnamenska naprava ali program za pošiljanje e-pošte z uporabo Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).</span><span class="sxs-lookup"><span data-stu-id="00f1b-103">To learn about your options and the steps, see [How to set up a multifunction device or application to send email using Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).</span></span>
+<span data-ttu-id="39939-103">Več informacij o možnostih in navodila najdete v članku [Nastavitev večfunkcijske naprave ali aplikacije za pošiljanje e-pošte s storitvijo Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).</span><span class="sxs-lookup"><span data-stu-id="39939-103">To learn about your options and the steps, see [How to set up a multifunction device or application to send email using Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).</span></span>
   
- <span data-ttu-id="00f1b-104">\*\* *Opomba:* \*\* če naprava ali program, ki je prenehal delovati, prosimo [Opomba, smo pred kratkim naredili izboljšave](https://support.microsoft.com/help/4458479/) , ki bi lahko vplivalo vi.</span><span class="sxs-lookup"><span data-stu-id="00f1b-104">\*\* *Note:* \*\* If you have a device or application which stopped working, please [note we have recently made improvements](https://support.microsoft.com/help/4458479/) that might have impacted you.</span></span> <span data-ttu-id="00f1b-105">Smo zdaj **Shrani sporočila v mapo Poslano** nabiralnika, ki lahko **povzročijo zavrnjene sporočila če nabiralnik je poln**.</span><span class="sxs-lookup"><span data-stu-id="00f1b-105">We now **save messages to the sent folder** of the mailbox which could **result in rejected messages if that mailbox is full**.</span></span> <span data-ttu-id="00f1b-106">Poleg tega smo zdaj zahtevajo sporočila zapisana na SMTP specifikacije.</span><span class="sxs-lookup"><span data-stu-id="00f1b-106">Additionally, we now require the messages be formatted per the SMTP specifications.</span></span> <span data-ttu-id="00f1b-107">Primer pošiljanje naprave mora vsebovati oglatih oklepajih okoli e-poštni naslov, kot *christine@contoso.com* .</span><span class="sxs-lookup"><span data-stu-id="00f1b-107">For example, the submitting device must include angle brackets around the email address, as in  *christine@contoso.com*  .</span></span> 
-  
+<span data-ttu-id="39939-104">**Opomba:** če imate napravo ali aplikacijo, ki je nedavno prenehala delovati, je to morda zaradi tega, ker smo v okviru načrtov začeli [onemogočati šifro 3DES](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption).</span><span class="sxs-lookup"><span data-stu-id="39939-104">**Note:** If you have a device or application which recently stopped working, please note we have recently begun [disabling the 3DES cipher](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption) as planned.</span></span>  <span data-ttu-id="39939-105">**Sistem Windows Server 2003 IIS SMTP ne bo več deloval. Potrebujete novo različico sistema Windows.**</span><span class="sxs-lookup"><span data-stu-id="39939-105">**Windows Server 2003 IIS SMTP will no longer work – a newer version of Windows is required.**</span></span> 
 
+<span data-ttu-id="39939-106">Med pogostimi napakami so: napaka pri preverjanju pristnosti, napaka protokola TLS, napaka algoritma šifre, neujemanje algoritma ali prekinjena povezava.</span><span class="sxs-lookup"><span data-stu-id="39939-106">Common errors could be similar to: Authentication failure/error, TLS failure/error, Cipher algorithm error, Algorithm mismatch, or Connection dropped.</span></span>  <span data-ttu-id="39939-107">Pri dobavitelju aplikacije ali naprave preverite, ali je podprta sodobna šifra oz. ali je na voljo posodobitev.</span><span class="sxs-lookup"><span data-stu-id="39939-107">Please check with your application or device vendor to see if a modern cipher is supported or if there is an update.</span></span>

@@ -1,5 +1,5 @@
 ---
-title: Posodobiti DNS zapisov
+title: Posodobitev zapisov DNS
 ms.author: pebaum
 author: pebaum
 ms.date: 1/18/2019
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: 0e9b08f456483e7177190b1dc32454611bc0daf0
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: d2e3285d81aa1a630d668fea11382abd0d42265c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405375"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762332"
 ---
-# <a name="update-dns-records"></a><span data-ttu-id="f4ec2-102">Posodobiti DNS zapisov</span><span class="sxs-lookup"><span data-stu-id="f4ec2-102">Update DNS Records</span></span>
-<span data-ttu-id="f4ec2-p101">Postavljanje ki gre gor vaš DNS zapisov je pomembno pridobivanje naročnino Office 365, ki dela z vaše ime domene po meri. Uporabite spodnje povezave, če želite dodati ali posodobiti zapise DNS.</span><span class="sxs-lookup"><span data-stu-id="f4ec2-p101">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name. Use the links below to add or update your DNS records.</span></span>
+# <a name="update-dns-records"></a><span data-ttu-id="3fe26-102">Posodobitev zapisov DNS</span><span class="sxs-lookup"><span data-stu-id="3fe26-102">Update DNS Records</span></span>
+<span data-ttu-id="3fe26-103">Nastavitev zapisov DNS je pomembna za omogočanje delovanja naročnine na Office 365 z vašim imenom domene po meri.</span><span class="sxs-lookup"><span data-stu-id="3fe26-103">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name.</span></span> <span data-ttu-id="3fe26-104">Uporabite spodnje povezave za dodajanje ali posodobitev zapisov DNS.</span><span class="sxs-lookup"><span data-stu-id="3fe26-104">Use the links below to add or update your DNS records.</span></span>
   
-- [<span data-ttu-id="f4ec2-105">Ustvarjanje zapisov DNS pri vseh DNS ponudnika gostovanja za Office 365</span><span class="sxs-lookup"><span data-stu-id="f4ec2-105">Create DNS records at any DNS hosting provider for Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
-- [<span data-ttu-id="f4ec2-106">Dodajanje ali urejanje po meri DNS zapisov</span><span class="sxs-lookup"><span data-stu-id="f4ec2-106">Add or edit custom DNS records</span></span>](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
+- [<span data-ttu-id="3fe26-105">Ustvarjanje zapisov DNS pri poljubnem ponudniku gostovanja DNS za Office 365</span><span class="sxs-lookup"><span data-stu-id="3fe26-105">Create DNS records at any DNS hosting provider for Office 365</span></span>](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
+- [<span data-ttu-id="3fe26-106">Dodajanje ali urejanje zapisov DNS po meri</span><span class="sxs-lookup"><span data-stu-id="3fe26-106">Add or edit custom DNS records</span></span>](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
