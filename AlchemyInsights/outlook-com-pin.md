@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 9000233
-ms.openlocfilehash: 0daf711f22f325ce02dceb167f48713943f08521
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: af81ead91c865d2b36ea20476b91c51e36452690
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30784217"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903608"
 ---
 # <a name="change-your-pin"></a>Spremenite kodo PIN
 
-Outlook.com uporabljajte PIN, vendar se lahko prijavite v vaš PC s PIN ali Windows Pozdravljeni. Če želite spremeniti PIN v Windows 10:
+Outlook.com ne uporabljajo PIN številke, vendar se lahko prijavite v vaš PC s PIN ali Windows Pozdravljeni. Če želite spremeniti PIN v Windows 10:
 
 1. Pojdi na Start in nato izberite **Nastavitve** > **računi** > **vpis možnosti**.
 2. Izberite gumb **spremembe** pod **PIN**.
-3. Vnesite trenutni PIN; nato vnesite in potrdite novi PIN pod.
+3. Vnesite trenutni PIN, potem vnesite in potrdite novi PIN pod.
 
 [Preberite več o Windows Pozdravljeni.](https://support.microsoft.com/help/17215/)
