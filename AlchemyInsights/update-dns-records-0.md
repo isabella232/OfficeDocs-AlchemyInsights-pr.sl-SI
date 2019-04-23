@@ -1,5 +1,5 @@
 ---
-title: Posodobiti DNS zapisov
+title: Posodobitev zapisov DNS
 ms.author: pebaum
 author: pebaum
 ms.date: 1/12/2018
@@ -8,21 +8,21 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: 3deb5f1ac8ec663c43848beb9d0a815198206e19
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 7d254fe04d98e28cd88f010749a423aea1474fe1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405087"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758770"
 ---
-# <a name="update-dns-records"></a>Posodobiti DNS zapisov
+# <a name="update-dns-records"></a>Posodobitev zapisov DNS
 
-Postavljanje ki gre gor vaš DNS zapisov je pomembno pridobivanje naročnino Office 365, ki dela z vaše ime domene po meri. Uporabite spodnje povezave, če želite dodati ali posodobiti zapise DNS.
+Nastavitev zapisov DNS je pomembna za omogočanje delovanja naročnine na Office 365 z vašim imenom domene po meri. Uporabite spodnje povezave za dodajanje ali posodobitev zapisov DNS.
   
-- [Posodabljanje zapisov DNS v Office 365](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
+- [Posodabljanje zapisov DNS v storitvi Office 365](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
     
-- [Dodajanje ali urejanje po meri DNS zapisov](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
+- [Dodajanje ali urejanje zapisov DNS po meri](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
     
 

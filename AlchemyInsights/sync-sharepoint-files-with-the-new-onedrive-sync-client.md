@@ -1,5 +1,5 @@
 ---
-title: Sinhronizirajte SharePoint z novo OneDrive sinhronizacijo odjemalca
+title: Sinhronizacija SharePointovih datotek z novim odjemalcem za sinhronizacijo storitve OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469039"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747362"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Sinhronizirajte SharePoint z novo OneDrive sinhronizacijo odjemalca
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>Sinhronizacija SharePointovih datotek z novim odjemalcem za sinhronizacijo storitve OneDrive
 
-1. V klasičnih admin center za SharePoint, izberite **Nastavitve**.
+1. V novem Skrbniškem središču za SharePoint izberite **nastavitve**.
     
-2. Poskrbite, da "OneDrive Sync gumb" nastavljen na "Show poslovanja."
+2. Preverite, ali je nastavitev »Gumb za sinhronizacijo storitve OneDrive« nastavljena na »Pokaži gumb za sinhronizacijo«. 
     
-3. Za "Odjemalec sinhronizacije za SharePoint," izberite **Začni novo stranko**.
+3. Za možnost »Odjemalec sinhronizacije za SharePoint« izberite **Zaženi novega odjemalca**.
     
     > [!NOTE]
-    > Če ta možnost ne prikaže, organizaciji že nastavljen rabiti nov OneDrive sinhronizacijo odjemalca za sinhronizacijo datotek SharePoint. 
+    > Če se ta možnost ne prikaže, je organizacija že nastavljena tako, da je uporabljen novi odjemalec za sinhronizacijo storitve OneDrive za sinhronizacijo SharePointovih datotek. 
   
-4. Kliknite v **redu**.
+4. Kliknite **V redu**.
     
-Za več informacij, glejte [omogočajo uporabnikom, da sinhronizacijo SharePoint datotek z novo OneDrive sinhronizacijo odjemalca](https://go.microsoft.com/fwlink/?linkid=866433). Navodila, da uporabnikom, glejte [sinhronizacijo SharePointovih datotek z novo OneDrive sinhronizacijo odjemalca](https://go.microsoft.com/fwlink/?linkid=866427).
+Če želite več informacij, glejte [Kako uporabnikom omogočiti sinhronizacijo SharePointovih datotek z novim odjemalcem za sinhronizacijo storitve OneDrive](https://go.microsoft.com/fwlink/?linkid=866433). Če želite navodila, ki jih daste lahko svojim uporabnikom, glejte [Sinhronizacija SharePointovih datotek z novim odjemalcem za sinhronizacijo storitve OneDrive](https://go.microsoft.com/fwlink/?linkid=866427).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Težave pri zaključevanju nakupa v portalu Office 365
+title: Težave pri dokončanju nakupa v portalu storitve Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 3933a621a50812f2e03813664c36cca1a5e23a4f
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 2364912c0753d649536e3d98c358ed4c726dbfad
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405159"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754774"
 ---
-# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Težave pri zaključevanju nakupa v portalu Office 365
+# <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Težave pri dokončanju nakupa v portalu storitve Office 365
 
-Pri poskusu, da bi nakup, če ste bili pozvani večkrat vpisati na portalu Office 365, ali se prikaže sporočilo, da vprašanje je bilo ugotovljeno, najboljši prvi korak je, da poskusite z uporabo brskalnika inprivate/nepoznan način. Po odprtju inprivate/nepoznan okno, pojdite na [portal.office.com](https://portal.office.com) stran in se prijavite s poverilnice admin. Nato nadaljujte, za zaključek vašega nakupa. 
+Če ste med poskusom nakupa večkrat prejeli poziv za vpis v portal storitve Office 365 ali pa prejmete sporočilo, da je prišlo do težave, najprej poskusite uporabiti način brskanja inprivate/incognito. Ko odprete okno inprivate/incognito, pojdite na spletno mesto [portal.office.com](https://portal.office.com) in se prijavite s skrbniškimi poverilnicami. Nato dokončajte nakup. 
   
 

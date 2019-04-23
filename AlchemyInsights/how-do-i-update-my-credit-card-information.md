@@ -1,5 +1,5 @@
 ---
-title: Kako posodobim podatke svoje kreditne kartice?
+title: Kako posodobim podatke o kreditni kartici?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,27 +9,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 81bb27d7e09a528e07162298ff4f98b75c2dd41a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 1690c9026888e287802e50a8b71d853d06567664
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405195"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30763844"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a>Kako posodobim podatke svoje kreditne kartice?
+# <a name="how-do-i-update-my-credit-card-information"></a>Kako posodobim podatke o kreditni kartici?
 
-1. V skrbniškem središču, pojdite na stran za [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) ali izberite **zaračunavanje** \> **naročnine**.
+1. V Skrbniškem središču odprite stran [Naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) ali pa izberite **Obračunavanje** \> **Naročnine**.
     
-2. Izberite naročnine, ki ste jih kupili s kreditno kartico ali bančni račun, ki ga želite posodobiti, in izberite **Update podrobnosti o plačilu**.
+2. Izberite naročnino, kupljeno s kreditno kartico ali bančnim računom, ki ga želite posodobiti, in nato izberite **Posodobitev podrobnosti plačila**.
     
-3. Izberite spustni puščico pod **Dodaj ali izberite način plačila**, izberite kreditne kartice ali bančnega računa, ki ga želite posodobiti, in izberite **Uredi podrobnosti**.
+3. Kliknite puščico spustnega menija v razdelku **Dodajanje ali izbira načina plačila**, nato izberite kreditno kartico ali bančni račun, ki ga želite posodobiti, ter izberite **Uredi podrobnosti**.
     
-4. Posodobiti podatke kreditne kartice ali bančnega računa (ime na kreditne kartice ali bančnega računa, plačevanje naslov. telefonsko številko ali datum poteka), kot je potrebno in izberite **Pošlji**.
+4. Posodobite želene podatke o kreditni kartici (ime na kartici ali bančni račun, naslov za obračun,  telefonsko številko ali datum poteka) in nato izberite **Pošlji**.
     
-5. Krizma vest should pokazati se.
+5. Prikazati se mora potrditveno sporočilo.
     
-Če želite več informacij, glejte [Odpravljanje težav kreditnih kartic in bančnih računov](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Če želite več informacij, glejte [Odpravljanje težav s kreditnimi karticami in bančnimi računi](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
   
 
