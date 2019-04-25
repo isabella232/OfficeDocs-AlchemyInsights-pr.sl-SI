@@ -1,5 +1,5 @@
 ---
-title: Ustvarite nabiralnik v skupni rabi
+title: Ustvarjanje nabiralnika v skupni rabi
 ms.author: dmaguire
 author: msdmaguire
 manager: serdars
@@ -10,13 +10,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3b5f8296-6661-4721-83bc-bc7e310219ac
 ms.openlocfilehash: 96c69b3e6bf64a0db9517059864c4a8c0718335c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917836"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407270"
 ---
-# <a name="create-a-shared-mailbox"></a>Ustvarite nabiralnik v skupni rabi
+# <a name="create-a-shared-mailbox"></a>Ustvarjanje nabiralnika v skupni rabi
 
 Nabiralnik v skupni rabi omogoča več osebam pošiljanje in prejemanje e-pošte za vzdevek, kot **sales@contoso.com**, brez dodelitve še eden dati dovoljenje.
   

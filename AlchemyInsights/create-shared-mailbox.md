@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
 ms.openlocfilehash: b1e91d783e620a65ba5af533f067da55912fb269
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30763772"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407372"
 ---
-# <a name="create-a-shared-mailbox"></a>Ustvarite nabiralnik v skupni rabi
+# <a name="create-a-shared-mailbox"></a>Ustvarjanje nabiralnika v skupni rabi
 
 Nabiralnik v skupni rabi omogoča več osebam pošiljanje in prejemanje e-pošte za vzdevek, kot sales@contoso.com, brez dodelitve še eden dati dovoljenje. Če želite ustvariti nabiralnik v skupni rabi, pojdite na [Rabi Email vodnik](https://portal.office.com/adminportal/home).
   

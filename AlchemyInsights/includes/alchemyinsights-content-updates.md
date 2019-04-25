@@ -3,20 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Teden marec 11, 2019
-
-
-| Objavljeni na |Naslov teme | Spremembe |
-|------|------------|--------|
-| 3/12/2019 | 8000054 Outlook.com Prejeto, ne nakladanja | dodano |
-| 3/12/2019 | [8000078 Outlook.com Prejeto, ne nakladanja](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | preimenovati |
-| 3/12/2019 | [8000078 Outlook.com Prejeto, ne nakladanja](/AlchemyInsights/8000078-outlook-com-inbox-not-loading) | spremenil |
-| 2019/3/13 | [Posredovanje e-pošte prek storitve Office 365](/AlchemyInsights/relay-email-through-office-365) | spremenil |
-| 14/3/2019 | [enako kot ime datoteke, je najbolje [pravilo #-opis]](/AlchemyInsights/1-alchemy-insight-template) | spremenil |
-| 14/3/2019 | [Povečanje velikosti nabiralnika](/AlchemyInsights/increase-mailbox-size) | spremenil |
-| 15/3/2019 | [Razgled pult odpoklic ali Zamenjaj e-pošto](/AlchemyInsights/outlook-desktop-recall-or-replace-message) | dodano |
-
-
 ## <a name="week-of-march-18-2019"></a>Teden marec 18, 2019
 
 
@@ -530,3 +516,47 @@
 | 2019/4/12 | [932 nadgradnjo AADConnect](/AlchemyInsights/upgrading-aadconnect) | spremenil |
 | 2019/4/12 | [725 alias email uporaba naprej prenosen načrt](/AlchemyInsights/using-email-alias-on-mobile-device) | spremenil |
 | 2019/4/12 | [Napaka Winsock 1554 10061](/AlchemyInsights/winsock-error-10061) | spremenil |
+
+
+## <a name="week-of-april-15-2019"></a>Teden od 15. aprila 2019
+
+
+| Objavljeni na |Naslov teme | Spremembe |
+|------|------------|--------|
+| 2019/4/15 | [Alkimija - prepoznati in odpraviti Outlook povezljivostjo](/AlchemyInsights/alchemydiagnose-and-resolve-outlook-connectivity-issues) | spremenil |
+| 2019/4/15 | [Alkimija - znova ustvari Outlookovem profilu](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | spremenil |
+| 2019/4/15 | [DLP bi morali vrsto po meri](/AlchemyInsights/dlp-might-need-custom-type) | dodano |
+| 2019/4/15 | [DLP, ki ne deluje po pričakovanjih](/AlchemyInsights/dlp-not-working-as-expected) | spremenil |
+| 2019/4/15 | [DLP politike Nasveti ne deluje](/AlchemyInsights/dlp-policy-tips-not-working) | spremenil |
+| 2019/4/15 | [Outlook.com napaka 550](/AlchemyInsights/outlook-com-error-550) | dodano |
+| 2019/4/15 | [Outlook.com nad kvoto](/AlchemyInsights/outlook-com-over-quota) | dodano |
+| 2019/4/15 | [Outlook.com odstrani Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | dodano |
+| 2019/4/15 | [Outlook.com odstrani Skype](/AlchemyInsights/outlook-com-remove-skype-rule-2) | dodano |
+| 2019/4/15 | [182 zaženite SaRA diagnosticirati &amp; reševanje težav pri preverjanju pristnosti Outlook](/AlchemyInsights/please-run-sara-to-diagnoseresolve-outlook-authentication-issues) | spremenil |
+| 4/16/2019 | [9000233 Outlook.com PIN](/AlchemyInsights/outlook-com-pin) | spremenil |
+| 4/16/2019 | [Outlook.com odstrani Skype](/AlchemyInsights/outlook-com-remove-skype-rule-1) | spremenil |
+| 4/16/2019 | [8000088 shranite e-pošto v Outlook.com](/AlchemyInsights/outlook-com-save-emails) | spremenil |
+| 4/16/2019 | [8000052 priloži datoteke v Outlook.com](/AlchemyInsights/attach-files-in-outlook-com) | spremenil |
+| 4/16/2019 | [8000015 blok ali odblokirati pošiljateljev](/AlchemyInsights/block-or-unblock-senders) | spremenil |
+| 4/16/2019 | [8000014 kako spremeniti jezik v Outlook.com](/AlchemyInsights/how-to-change-language-in-outlook-com) | spremenil |
+| 4/16/2019 | [8000059 kako spremeniti postavitev](/AlchemyInsights/how-to-change-your-layout) | spremenil |
+| 4/16/2019 | [8000033 kako odgovoriti ali naprej sporočila v Outlook.com beta](/AlchemyInsights/how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | spremenil |
+| 4/16/2019 | [8000055 Kako vpisati v ali iz Outlook.com](/AlchemyInsights/how-to-sign-in-to-or-out-of-outlook-com) | spremenil |
+| 4/16/2019 | [8000062, ki se gibljejo mapo v Outlook.com](/AlchemyInsights/moving-a-folder-in-outlook-com) | spremenil |
+| 4/16/2019 | [Auto-uporablja občutljivost oznake](/AlchemyInsights/auto-apply-sensitivity-labels) | dodano |
+| 4/16/2019 | [Občutljivost oznake ne pokazati se](/AlchemyInsights/sensitivity-labels-not-appearing) | dodano |
+| 4/16/2019 | [Nove hranjenja oznake samodejno ustvari](/AlchemyInsights/new-retention-labels-created-automatically) | dodano |
+| 4/16/2019 | [SharePoint in OneDrive dnevnikov](/AlchemyInsights/classic-sharepoint-audit-log-reports) | dodano |
+| 4/16/2019 | [Prepoznavanje Izbriši sporočilo dogodkov v dnevnikih nadzora](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | dodano |
+| 4/16/2019 | [Prepoznavanje posredovanje zunanji e-poštni nabiralniki v dnevnikih nadzora](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | dodano |
+| 4/16/2019 | [Prepoznavanje Prejeto pravilo dejavnost v dnevnikih nadzora](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | dodano |
+| 4/16/2019 | [Prepoznati IP naslov odjemalca v dnevnikih nadzora in](/AlchemyInsights/identify-ip-address-and-client-in-audit-logs) | dodano |
+| 4/16/2019 | [Datoteko .pst popravilo pred uvozom](/AlchemyInsights/repair-pst-before-importing) | dodano |
+| 4/16/2019 | [Klasična SharePoint poročila o dnevniku nadzora](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | dodano |
+| 4/16/2019 | [Klasična SharePoint poročila o dnevniku nadzora](/AlchemyInsights/classic-sharepoint-audit-log-reports) | spremenil |
+| 4/16/2019 | [Prepoznavanje posredovanje zunanji e-poštni nabiralniki v dnevnikih nadzora](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | spremenil |
+| 4/16/2019 | [Prepoznavanje Prejeto pravilo dejavnost v dnevnikih nadzora](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | spremenil |
+| 4/16/2019 | [Klasična SharePoint poročila o dnevniku nadzora](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | spremenil |
+| 4/17/2019 | [Popraviti vprašanja dostave e-pošte za poštne javne mape](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | dodano |
+| 4/17/2019 | [Ekipe premiki](/AlchemyInsights/teams-shifts) | spremenil |
+| 18/4/2019 | [8000011 obnovi črta email v Outlook.com](/AlchemyInsights/recover-deleted-email-in-outlook-com) | spremenil |
