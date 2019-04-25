@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761613"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396775"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Nakup naročnino za Office 365 iz vaše poskusne
 
@@ -24,7 +24,7 @@ Ste že poskusili Office 365, in sedaj ste pripravljeni kupiti. Imate dve možno
   
  **Kupite lahko enak načrt, kot vaš poskus**
   
-1. V skrbniškem središču, pojdite na stran za [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) ali izberite **zaračunavanje** \> **naročnine**.
+1. V Skrbniškem središču odprite stran [Naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) ali pa izberite **Obračunavanje** \> **Naročnine**.
     
 2. Izberite **zdaj kupiti** za preskusno naročnino, ki jih želite, in sledite navodilom, da preverite. 
     

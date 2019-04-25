@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
 ms.openlocfilehash: f35f40a8e9016f4975e93b0e3f0bb8c465db9386
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30756718"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32394366"
 ---
 # <a name="change-payment-method"></a>Spremenite način plačila
 
 Vi moči preveriti način plačila, ki je konfiguriran z tekoč v **obračun** \> **naročnine**. Izberite naročnine, ki jih želite preveriti. Način plačila, ki je konfiguriran za vpis se pojavi pod **način plačila**. Če želite posodobiti podatke o obstoječi način plačila, izberite **posodobite podrobnosti o plačilu**.
   
-1. V skrbniškem središču, pojdite na stran za [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) ali izberite **zaračunavanje** \> **naročnine**.
+1. V Skrbniškem središču odprite stran [Naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) ali pa izberite **Obračunavanje** \> **Naročnine**.
     
 2. Izberite naročnine, ki jo želite spremeniti način plačila za, nato pa izberite **Spremeni način plačila**.
     
