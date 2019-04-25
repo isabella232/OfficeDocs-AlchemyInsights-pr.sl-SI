@@ -10,24 +10,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
 ms.openlocfilehash: 9d6a232821884644db08160f18e1dfae2349c349
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29911536"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32422389"
 ---
-# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="6dc2f-102">Obnovitev izbrisanega nabiralnika</span><span class="sxs-lookup"><span data-stu-id="6dc2f-102">Restore a deleted mailbox</span></span>
+# <a name="restore-a-deleted-mailbox"></a><span data-ttu-id="86c33-102">Obnovitev izbrisanega nabiralnika</span><span class="sxs-lookup"><span data-stu-id="86c33-102">Restore a deleted mailbox</span></span>
 
-<span data-ttu-id="6dc2f-p101">Ko uporabnik izgubi svoj Exchange Online licenco, se ohrani svoj nabiralnik za 30 dni. V tem obdobju 30-dan, nabiralnik lahko povrnejo ponovno dodelite uporabniku. Vendar, to je mogoče le za 30 dni.</span><span class="sxs-lookup"><span data-stu-id="6dc2f-p101">When a user loses their Exchange Online license, their mailbox is retained for 30 days. During that 30-day period, the mailbox can be recovered by re-assigning the license to the user. However, this is only possible for 30 days.</span></span>
+<span data-ttu-id="86c33-103">Ko uporabnik izgubi svoj Exchange Online licenco, se ohrani svoj nabiralnik za 30 dni.</span><span class="sxs-lookup"><span data-stu-id="86c33-103">When a user loses their Exchange Online license, their mailbox is retained for 30 days.</span></span> <span data-ttu-id="86c33-104">V tem obdobju 30-dan, nabiralnik lahko povrnejo ponovno dodelite uporabniku.</span><span class="sxs-lookup"><span data-stu-id="86c33-104">During that 30-day period, the mailbox can be recovered by re-assigning the license to the user.</span></span> <span data-ttu-id="86c33-105">Vendar, to je mogoče le za 30 dni.</span><span class="sxs-lookup"><span data-stu-id="86c33-105">However, this is only possible for 30 days.</span></span>
   
-<span data-ttu-id="6dc2f-106">Admin na portalu:</span><span class="sxs-lookup"><span data-stu-id="6dc2f-106">In the Admin Portal:</span></span>
+<span data-ttu-id="86c33-106">Admin na portalu:</span><span class="sxs-lookup"><span data-stu-id="86c33-106">In the Admin Portal:</span></span>
   
-- <span data-ttu-id="6dc2f-p102">Pojdi **uporabnikom** \> **aktivnih uporabnikov**. Izberite zadevni uporabnik.</span><span class="sxs-lookup"><span data-stu-id="6dc2f-p102">Go to **Users** \> **Active users**. Select the user in question.</span></span>
+- <span data-ttu-id="86c33-107">Pojdi **uporabnikom** \> **aktivnih uporabnikov**.</span><span class="sxs-lookup"><span data-stu-id="86c33-107">Go to **Users** \> **Active users**.</span></span> <span data-ttu-id="86c33-108">Izberite zadevni uporabnik.</span><span class="sxs-lookup"><span data-stu-id="86c33-108">Select the user in question.</span></span>
     
-- <span data-ttu-id="6dc2f-109">Izberite \*\* Edit \*\* spremeniti licencah izdelkov.</span><span class="sxs-lookup"><span data-stu-id="6dc2f-109">Select \*\* Edit \*\* to modify product licenses.</span></span> 
+- <span data-ttu-id="86c33-109">Izberite \*\* Edit \*\* spremeniti licencah izdelkov.</span><span class="sxs-lookup"><span data-stu-id="86c33-109">Select \*\* Edit \*\* to modify product licenses.</span></span> 
     
-- <span data-ttu-id="6dc2f-110">Exchange Online licenco dodelite uporabnika in izberite **Shrani**.</span><span class="sxs-lookup"><span data-stu-id="6dc2f-110">Assign the Exchange Online license to the user, and then select **Save**.</span></span>
+- <span data-ttu-id="86c33-110">Exchange Online licenco dodelite uporabnika in izberite **Shrani**.</span><span class="sxs-lookup"><span data-stu-id="86c33-110">Assign the Exchange Online license to the user, and then select **Save**.</span></span>
     
-<span data-ttu-id="6dc2f-p103">Nabiralniki v skupni rabi se tudi povrnejo v 30 dneh. Najdete v skupni rabi nabiralnikov v **uporabnike** \> **Izbrisano uporabnikov**. Nabiralniki v skupni rabi zahteva licenco za Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="6dc2f-p103">Shared mailboxes are also recoverable within 30 days. You can find shared mailboxes under **Users** \> **Deleted users**. Shared mailboxes do not require an Exchange Online license.</span></span>
+<span data-ttu-id="86c33-111">Nabiralniki v skupni rabi se tudi povrnejo v 30 dneh.</span><span class="sxs-lookup"><span data-stu-id="86c33-111">Shared mailboxes are also recoverable within 30 days.</span></span> <span data-ttu-id="86c33-112">Najdete v skupni rabi nabiralnikov v **uporabnike** \> **Izbrisano uporabnikov**.</span><span class="sxs-lookup"><span data-stu-id="86c33-112">You can find shared mailboxes under **Users** \> **Deleted users**.</span></span> <span data-ttu-id="86c33-113">Nabiralniki v skupni rabi zahteva licenco za Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="86c33-113">Shared mailboxes do not require an Exchange Online license.</span></span>
   
 
