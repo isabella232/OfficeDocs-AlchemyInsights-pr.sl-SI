@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
 ms.openlocfilehash: 02f824897b0163a7577e93451d6642464966594d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904696"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32417719"
 ---
 # <a name="network-migration"></a>Omrežje migracije
 
@@ -31,6 +31,6 @@ Prosimo, upoštevajte:
   
 - **Omrežje migracije seli le aktivni in do uporabnikov.** Poleg aktivnih uporabnikov, uporabnikov informacij, na primer ime in profil sliko, tudi preseliti. Omrežje vsebin, vključno z skupin, niso bili preneseni. 
     
-- **Migracije omrežja ni mogoče stornirati.** Ne boste mogli dostopati do podrejenega omrežja in njegove vsebine po selitvi. Torej, preden se vam zdijo selitve, želite načrtovati pazljivo. 
+- **Migracije omrežja ni mogoče razveljaviti.** Ne boste mogli dostopati do podrejenega omrežja in njegove vsebine po selitvi. Torej, preden se vam zdijo selitve, želite načrtovati pazljivo. 
     
 
