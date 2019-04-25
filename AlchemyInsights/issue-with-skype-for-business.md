@@ -1,5 +1,5 @@
 ---
-title: Vprašanje s Skype za podjetje?
+title: Ali imate težave s Skypom za podjetja?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.openlocfilehash: d19659f203692e4aed2c947c4f8d3348d2286e77
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468463"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409922"
 ---
-# <a name="issue-with-skype-for-business"></a>Vprašanje s Skype za podjetje?
+# <a name="issue-with-skype-for-business"></a>Ali imate težave s Skypom za podjetja?
 
-Smo odkrili, da naslednje domeno (e) imajo težave, ki lahko prepreči pravilno delovanje Skype za podjetja:
+Opazili smo, da Skype za podjetja lahko neustrezno deluje zaradi težav teh domen:
   
 {HealthCheckString}
   
-NS, CNAME ali SRV anali domen (DNS) nastavitve za Skype za podjetja ni pravilno konfigurirane. Se lahko sklicujete na [posodabljanje DNS zapisov v Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) za podrobna navodila. 
+Zapisi NS, CNAME ali SRV v nastavitvah domene niso pravilno konfigurirani za Skype za podjetja. Podrobna navodila najdete v članku [Posodabljanje zapisov DSN v storitvi Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx). 
   
-Popraviti to, prosimo, pojdite na stran [domene](https://admin.microsoft.com/adminportal/home#/Domains) v skrbniškem središču Microsoft 365 in pomagali vam bomo z njim. 
+Če jih želite popraviti, odprite stran [Domene](https://admin.microsoft.com/adminportal/home#/Domains) v Skrbniškem središču za Microsoft 365, kjer vam bomo pomagali. 
   
-Če imate težave, komuniciranje z uporabniki, ki so zunanji za vašo organizacijo, se lahko sklicujete vzpostaviti [Skype za Business Online zunanjih komunikacij](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx) za podrobna navodila. 
+Če imate težave s komunikacijo z zunanjimi uporabniki, si lahko podrobna navodila preberete v članku [Nastavitev zunanje komunikacije za Skype za podjetja Online ](https://support.microsoft.com/help/10041/set-up-skype-for-business-online-external-communications.aspx). 
   
-[Preverite FAQ domen](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) za druge skupne rešitve. 
+Druge pogoste rešitve najdete v članku [Pogosta vprašanja o domenah](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx). 
   
 

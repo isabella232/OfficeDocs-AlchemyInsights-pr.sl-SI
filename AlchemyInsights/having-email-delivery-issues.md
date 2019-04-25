@@ -1,5 +1,5 @@
 ---
-title: Ob vprašanjih dostave e-pošte?
+title: Ali imate težave z dostavo e-pošte?
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 8/21/2017
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
 ms.openlocfilehash: c7c90d9eb4e9ae40a7ea558528d42e91e666bb8b
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405447"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400517"
 ---
-# <a name="having-email-delivery-issues"></a>Ob vprašanjih dostave e-pošte?
+# <a name="having-email-delivery-issues"></a>Ali imate težave z dostavo e-pošte?
 
-Odkrili smo, da uporabniki ne morete prejemati sporočila, poslana na naslednje področje():
+Opazili smo, da vaši uporabniki ne morejo prejemati e-poštnih sporočil, poslanih v te domene:
   
 {HealthCheckString}
   
-NS ali MX zapise domen (DNS) nastavitve niso pravilno konfiguriran za dostavo e-pošte v storitvi Office 365. Se lahko sklicujete na [posodabljanje DNS zapisov v Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) za podrobna navodila. 
+Zapisi NS ali MX v nastavitvah domene (DNS) niso pravilno konfigurirani za dostavo e-pošte v storitev Office 365. Podrobna navodila najdete v članku [Posodabljanje zapisov DSN v storitvi Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx). 
   
-Popraviti to, prosimo, pojdite na stran [domene](https://admin.microsoft.com/adminportal/home#/Domains) v skrbniškem središču Microsoft 365 in pomagali vam bomo z njim. 
+Če jih želite popraviti, odprite stran [Domene](https://admin.microsoft.com/adminportal/home#/Domains) v Skrbniškem središču za Microsoft 365, kjer vam bomo pomagali. 
   
-[Preverite FAQ domen](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) za druge skupne rešitve. 
+Druge pogoste rešitve najdete v članku [Pogosta vprašanja o domenah](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx). 
   
 

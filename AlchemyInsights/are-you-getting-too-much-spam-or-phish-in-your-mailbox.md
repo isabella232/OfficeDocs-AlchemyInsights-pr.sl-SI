@@ -1,5 +1,5 @@
 ---
-title: Ste dobili preveč spam ali phish v vaš poštni nabiralnik?
+title: Ali prejemate preveč neželene pošte oz. lažnega predstavljanja v nabiralniku?
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 75d912b3-f154-4219-9b8c-4e1d41aaa442
 ms.openlocfilehash: dc65d3d027f11fd6ccf328141d0f1d080c53a482
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404943"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397240"
 ---
-# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Ste dobili preveč spam ali phish v vaš poštni nabiralnik?
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>Ali prejemate preveč neželene pošte oz. lažnega predstavljanja v nabiralniku?
 
-Glej [kako zmanjšati spam e-pošte v Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) za odpravljanje težav s spam. 
+Če želite odpraviti težave z neželeno pošto, glejte [Zmanjšanje neželene e-pošte v storitvi Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email). 
   
-Je najboljši način, da poročilo te vrste vprašanj: 
+Najboljši način za prijavo takšnih vrst težav je, da naredite to: 
   
-1. [Omogoči je poročanje še](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) za uporabnika. 
+1. [Omogočite dodatek za poročanje](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) za uporabnika. 
     
-2. So [uporabnik poročilo sporočila](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) kot neželena pošta. 
+2. Uporabnik naj [sporočilo prijavi](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) kot neželeno pošto. 
     
 
