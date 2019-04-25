@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
 ms.openlocfilehash: 68912255fb1c76e417c59bf131dae08d8551fd3c
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30757330"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32409490"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a><span data-ttu-id="48799-102">Looking kupiti novo naročnino?</span><span class="sxs-lookup"><span data-stu-id="48799-102">Looking to buy a new subscription?</span></span>
+# <a name="looking-to-buy-a-new-subscription"></a><span data-ttu-id="5edc9-102">Looking kupiti novo naročnino?</span><span class="sxs-lookup"><span data-stu-id="5edc9-102">Looking to buy a new subscription?</span></span>
 
-<span data-ttu-id="48799-103">Če že imate Office 365 za podjetja naročnino in želite kupiti drugo naročnino za vašo organizacijo, pojdite na strani [Nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) ali izberite **zaračunavanje** \> **Nakup storitev** , če želite videti seznam naročnin na voljo v vaši organizaciji.</span><span class="sxs-lookup"><span data-stu-id="48799-103">If you already have an Office 365 for business subscription and you want to buy another subscription for your organization, go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services** to see a list of subscriptions available to your organization.</span></span> 
+<span data-ttu-id="5edc9-103">Če že imate Office 365 za podjetja naročnino in želite kupiti drugo naročnino za vašo organizacijo, pojdite na strani [Nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) ali izberite **zaračunavanje** \> **Nakup storitev** , če želite videti seznam naročnin na voljo v vaši organizaciji.</span><span class="sxs-lookup"><span data-stu-id="5edc9-103">If you already have an Office 365 for business subscription and you want to buy another subscription for your organization, go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services** to see a list of subscriptions available to your organization.</span></span> 
   
-1. <span data-ttu-id="48799-104">Miš nad ploščici naročniško in kliknite **Kupi zdaj**.</span><span class="sxs-lookup"><span data-stu-id="48799-104">Mouse over the subscription tile and click **Buy Now**.</span></span>
+1. <span data-ttu-id="5edc9-104">Miš nad ploščici naročniško in kliknite **Kupi zdaj**.</span><span class="sxs-lookup"><span data-stu-id="5edc9-104">Mouse over the subscription tile and click **Buy Now**.</span></span>
     
-2. <span data-ttu-id="48799-105">Izberite, kako želite plačati, in potrebno število uporabniških licenc.</span><span class="sxs-lookup"><span data-stu-id="48799-105">Choose how you would like to pay, and the number of user licenses needed.</span></span>
+2. <span data-ttu-id="5edc9-105">Izberite, kako želite plačati, in potrebno število uporabniških licenc.</span><span class="sxs-lookup"><span data-stu-id="5edc9-105">Choose how you would like to pay, and the number of user licenses needed.</span></span>
     
-3. <span data-ttu-id="48799-106">Izberite **odjaviti**. Na naslednji strani, lahko pregleda naročilo in dokončanje nabave.</span><span class="sxs-lookup"><span data-stu-id="48799-106">Choose **Check Out**. On the next page, you can review the order and complete the purchase.</span></span>
+3. <span data-ttu-id="5edc9-106">Izberite **odjaviti**. Na naslednji strani, lahko pregleda naročilo in dokončanje nabave.</span><span class="sxs-lookup"><span data-stu-id="5edc9-106">Choose **Check Out**. On the next page, you can review the order and complete the purchase.</span></span>
     
-4. <span data-ttu-id="48799-107">Če ne boš naredil, nakupovanje, izberite **Dodaj v košarico** \> **Še Shopping** pojdite nazaj na katalog in kupiti drugo naročnino.</span><span class="sxs-lookup"><span data-stu-id="48799-107">If you're not done shopping, choose **Add to Cart** \> **Continue Shopping** to go back to the Catalog and purchase another subscription.</span></span> 
+4. <span data-ttu-id="5edc9-107">Če ne boš naredil, nakupovanje, izberite **Dodaj v košarico** \> **Še Shopping** pojdite nazaj na katalog in kupiti drugo naročnino.</span><span class="sxs-lookup"><span data-stu-id="5edc9-107">If you're not done shopping, choose **Add to Cart** \> **Continue Shopping** to go back to the Catalog and purchase another subscription.</span></span> 
     
-5. <span data-ttu-id="48799-108">Ko vaš nakup končan, boste morali znova dodelite licence ali preklicati naročnino.</span><span class="sxs-lookup"><span data-stu-id="48799-108">When your purchase is complete, you may need to reassign licenses or cancel a subscription.</span></span> <span data-ttu-id="48799-109">Za pomoč pri tem, si oglejte razdelek dodatne vire.</span><span class="sxs-lookup"><span data-stu-id="48799-109">For help with this, please see the Additional Resources section below.</span></span>
+5. <span data-ttu-id="5edc9-108">Ko vaš nakup končan, boste morali znova dodelite licence ali preklicati naročnino.</span><span class="sxs-lookup"><span data-stu-id="5edc9-108">When your purchase is complete, you may need to reassign licenses or cancel a subscription.</span></span> <span data-ttu-id="5edc9-109">Za pomoč pri tem, si oglejte razdelek dodatne vire.</span><span class="sxs-lookup"><span data-stu-id="5edc9-109">For help with this, please see the Additional Resources section below.</span></span>
     
- <span data-ttu-id="48799-110">**Dodatni viri:**</span><span class="sxs-lookup"><span data-stu-id="48799-110">**Additional resources:**</span></span>
+ <span data-ttu-id="5edc9-110">**Dodatni viri:**</span><span class="sxs-lookup"><span data-stu-id="5edc9-110">**Additional resources:**</span></span>
   
-- [<span data-ttu-id="48799-111">Dodelite licence za uporabnike v Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="48799-111">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [<span data-ttu-id="5edc9-111">Dodelite licence za uporabnike v Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="5edc9-111">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
     
-- [<span data-ttu-id="48799-112">Prekliči Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="48799-112">Cancel Office 365 for Business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [<span data-ttu-id="5edc9-112">Prekliči Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="5edc9-112">Cancel Office 365 for Business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
     
-- <span data-ttu-id="48799-113">Če ste zainteresirani za preklapljanje naročnine, glej [udarec s šibo v a različen Office 365 za poslovni načrt.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)</span><span class="sxs-lookup"><span data-stu-id="48799-113">If you are interested in switching subscriptions, see [Switch to a different Office 365 for business plan.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)</span></span>
+- <span data-ttu-id="5edc9-113">Če ste zainteresirani za preklapljanje naročnine, glej [udarec s šibo v a različen Office 365 za poslovni načrt.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)</span><span class="sxs-lookup"><span data-stu-id="5edc9-113">If you are interested in switching subscriptions, see [Switch to a different Office 365 for business plan.](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a)</span></span>
     
 
