@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
 ms.openlocfilehash: 16d52acc83f2074236c79493ebd64ae3fd9eec37
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30767696"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32389171"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a><span data-ttu-id="bc497-102">Office 365 URL in IP naslov razponi</span><span class="sxs-lookup"><span data-stu-id="bc497-102">Office 365 URLs and IP address ranges</span></span>
+# <a name="office-365-urls-and-ip-address-ranges"></a><span data-ttu-id="67416-102">Office 365 URL in IP naslov razponi</span><span class="sxs-lookup"><span data-stu-id="67416-102">Office 365 URLs and IP address ranges</span></span>
 
-<span data-ttu-id="bc497-103">Office 365 zahteva povezavo z internetom.</span><span class="sxs-lookup"><span data-stu-id="bc497-103">Office 365 requires connectivity to the Internet.</span></span> <span data-ttu-id="bc497-104">Končne točke tega člena, [Office 365 URL in IP naslov razponi](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), morajo biti dosegljiv uporabniki dostop Office 365.</span><span class="sxs-lookup"><span data-stu-id="bc497-104">The endpoints in this article, [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), need to be reachable for users to access Office 365.</span></span>
+<span data-ttu-id="67416-103">Office 365 zahteva povezavo z internetom.</span><span class="sxs-lookup"><span data-stu-id="67416-103">Office 365 requires connectivity to the Internet.</span></span> <span data-ttu-id="67416-104">Končne točke tega člena, [Office 365 URL in IP naslov razponi](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), morajo biti dosegljiv uporabniki dostop Office 365.</span><span class="sxs-lookup"><span data-stu-id="67416-104">The endpoints in this article, [Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), need to be reachable for users to access Office 365.</span></span>
   
 
