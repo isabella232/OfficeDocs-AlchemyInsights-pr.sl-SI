@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: 8000059
 ms.assetid: 90219a36-2d1c-4917-af91-0fcf693f659b
 ms.openlocfilehash: fdfe600c07949e4d9b8c68a4211c10440aa6cc96
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30781697"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32399859"
 ---
-# <a name="how-to-change-your-theme"></a><span data-ttu-id="c5f35-102">Kako spremeniti temo</span><span class="sxs-lookup"><span data-stu-id="c5f35-102">How to change your theme</span></span>
+# <a name="how-to-change-your-theme"></a><span data-ttu-id="ded7b-102">Kako spremeniti temo</span><span class="sxs-lookup"><span data-stu-id="ded7b-102">How to change your theme</span></span>
 
-<span data-ttu-id="c5f35-103">Spremeniti vaš tema v Outlook.com ali Outlook na spletu, pojdite na **Nastavitve** in izberite temo pod **temo**.</span><span class="sxs-lookup"><span data-stu-id="c5f35-103">To change your theme in Outlook.com or Outlook on the web, go to **Settings** and choose a theme under **Theme**.</span></span> <span data-ttu-id="c5f35-104">Če želite videti vse teme so na voljo, izberite **Prikaži vse** pod **temo**.</span><span class="sxs-lookup"><span data-stu-id="c5f35-104">To see all available themes, select **View all** under **Theme**.</span></span> 
+<span data-ttu-id="ded7b-103">Spremeniti vaš tema v Outlook.com ali Outlook na spletu, pojdite na **Nastavitve** in izberite temo pod **temo**.</span><span class="sxs-lookup"><span data-stu-id="ded7b-103">To change your theme in Outlook.com or Outlook on the web, go to **Settings** and choose a theme under **Theme**.</span></span> <span data-ttu-id="ded7b-104">Če želite videti vse teme so na voljo, izberite **Prikaži vse** pod **temo**.</span><span class="sxs-lookup"><span data-stu-id="ded7b-104">To see all available themes, select **View all** under **Theme**.</span></span> 
   
 

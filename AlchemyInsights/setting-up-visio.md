@@ -9,18 +9,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
 ms.openlocfilehash: 58fcd20751861add0269a1f71cb896c79b48a92d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906568"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32421472"
 ---
-# <a name="setting-up-visio"></a><span data-ttu-id="20a4f-102">Vzpostavitev programa Visio</span><span class="sxs-lookup"><span data-stu-id="20a4f-102">Setting up Visio</span></span>
+# <a name="setting-up-visio"></a><span data-ttu-id="3d0a8-102">Vzpostavitev programa Visio</span><span class="sxs-lookup"><span data-stu-id="3d0a8-102">Setting up Visio</span></span>
 
-<span data-ttu-id="20a4f-103">Izgleda, da potrebujete pomoč pri namestitvi programa Visio z naročnino Office 365.</span><span class="sxs-lookup"><span data-stu-id="20a4f-103">Looks like you need help setting up Visio with your Office 365 subscription.</span></span>
+<span data-ttu-id="3d0a8-103">Izgleda, da potrebujete pomoč pri namestitvi programa Visio z naročnino Office 365.</span><span class="sxs-lookup"><span data-stu-id="3d0a8-103">Looks like you need help setting up Visio with your Office 365 subscription.</span></span>
   
-<span data-ttu-id="20a4f-p101">Obvestilo za uporabnike Mac: The Visio izdelek trenutno ni na voljo za MacOS. Če imate računalnik mora biti zmožen umestiti software using lestev spodaj.</span><span class="sxs-lookup"><span data-stu-id="20a4f-p101">Notice for Mac users: The Visio product is not available for MacOS at this time. If you have a PC you should be able to install the software using the steps below.</span></span>
+<span data-ttu-id="3d0a8-104">Obvestilo za uporabnike Mac: The Visio izdelek trenutno ni na voljo za MacOS.</span><span class="sxs-lookup"><span data-stu-id="3d0a8-104">Notice for Mac users: The Visio product is not available for MacOS at this time.</span></span> <span data-ttu-id="3d0a8-105">Če imate računalnik mora biti zmožen umestiti software using lestev spodaj.</span><span class="sxs-lookup"><span data-stu-id="3d0a8-105">If you have a PC you should be able to install the software using the steps below.</span></span>
   
-<span data-ttu-id="20a4f-106">Sledite korakom v [tem članku](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) zadobiti vaš dokončala.</span><span class="sxs-lookup"><span data-stu-id="20a4f-106">You can follow the steps in [this article](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) to get your setup completed.</span></span> 
+<span data-ttu-id="3d0a8-106">Sledite korakom v [tem članku](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) zadobiti vaš dokončala.</span><span class="sxs-lookup"><span data-stu-id="3d0a8-106">You can follow the steps in [this article](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) to get your setup completed.</span></span> 
   
 
