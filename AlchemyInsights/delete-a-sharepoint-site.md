@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
 ms.openlocfilehash: 708365cefa79c9bc0268897ac34d980306a846c2
-ms.sourcegitcommit: 74e18e743273d5e759e8f00bd8fb16c471d42b40
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/27/2019
-ms.locfileid: "30935617"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32405640"
 ---
 # <a name="delete-a-sharepoint-site"></a>Izbrisati SharePointovega mesta
 **Brisanje mesta iz novega centra admin SharePoint** Z uporabo novega centra admin SharePoint, lahko izbrišete klasičnih in sodobnih mest. Izberite **aktivna mesta**, izberite stran, in izberite **Izbriši**. [Pogled in postaviti v prejšnje stanje izbrisati mesta v centru nove admin SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), izberite **izbrisane strani**. Za več informacij, glejte [mesta v centru nove admin SharePoint izbrisati](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
