@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: 8000005
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
 ms.openlocfilehash: e56fb71a239312c3ff85c2f3d0c6433a3d0b9d62
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30785757"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393808"
 ---
-# <a name="close-your-outlookcom-email-account"></a><span data-ttu-id="bbafd-102">Zapreti vaš Outlook.com email račun</span><span class="sxs-lookup"><span data-stu-id="bbafd-102">Close your Outlook.com email account</span></span>
+# <a name="close-your-outlookcom-email-account"></a><span data-ttu-id="cfb81-102">Zapreti vaš Outlook.com email račun</span><span class="sxs-lookup"><span data-stu-id="cfb81-102">Close your Outlook.com email account</span></span>
 
-1. <span data-ttu-id="bbafd-103">Pojdite na stran [zapremo vaš račun](https://go.microsoft.com/fwlink/p/?linkid=845493) .</span><span class="sxs-lookup"><span data-stu-id="bbafd-103">Go to the [Close your account](https://go.microsoft.com/fwlink/p/?linkid=845493) page.</span></span> 
+1. <span data-ttu-id="cfb81-103">Pojdite na stran [zapremo vaš račun](https://go.microsoft.com/fwlink/p/?linkid=845493) .</span><span class="sxs-lookup"><span data-stu-id="cfb81-103">Go to the [Close your account](https://go.microsoft.com/fwlink/p/?linkid=845493) page.</span></span> 
     
-2. <span data-ttu-id="bbafd-104">Sledite navodilom na strani, da poskrbite, da vaš račun je pripravljen biti zaprta, in izberite **naslednjo**.</span><span class="sxs-lookup"><span data-stu-id="bbafd-104">Follow the instructions on the page to make sure that your account is ready to be closed, and select **Next**.</span></span> 
+2. <span data-ttu-id="cfb81-104">Sledite navodilom na strani, da poskrbite, da vaš račun je pripravljen biti zaprta, in izberite **naslednjo**.</span><span class="sxs-lookup"><span data-stu-id="cfb81-104">Follow the instructions on the page to make sure that your account is ready to be closed, and select **Next**.</span></span> 
     
-3. <span data-ttu-id="bbafd-105">Preberite seznam in potrdite polja potrditi preberete vsak element.</span><span class="sxs-lookup"><span data-stu-id="bbafd-105">Read the list and check the boxes to acknowledge you've read each item.</span></span>
+3. <span data-ttu-id="cfb81-105">Preberite seznam in potrdite polja potrditi preberete vsak element.</span><span class="sxs-lookup"><span data-stu-id="cfb81-105">Read the list and check the boxes to acknowledge you've read each item.</span></span>
     
-4. <span data-ttu-id="bbafd-106">**Izberite razlog** spustnem seznamu, izberite razlog, vi ste zaključni račun.</span><span class="sxs-lookup"><span data-stu-id="bbafd-106">In the **Select a reason** drop-down list, choose the reason you're closing the account.</span></span> 
+4. <span data-ttu-id="cfb81-106">**Izberite razlog** spustnem seznamu, izberite razlog, vi ste zaključni račun.</span><span class="sxs-lookup"><span data-stu-id="cfb81-106">In the **Select a reason** drop-down list, choose the reason you're closing the account.</span></span> 
     
-5. <span data-ttu-id="bbafd-107">Izberite **oznako računa za zaprtje**.</span><span class="sxs-lookup"><span data-stu-id="bbafd-107">Select **Mark account for closure**.</span></span> 
+5. <span data-ttu-id="cfb81-107">Izberite **oznako računa za zaprtje**.</span><span class="sxs-lookup"><span data-stu-id="cfb81-107">Select **Mark account for closure**.</span></span> 
     
-<span data-ttu-id="bbafd-108">Če želite izvedeti več, glejte [zapremo vaš račun Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873106)[](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038.aspx).</span><span class="sxs-lookup"><span data-stu-id="bbafd-108">To learn more, see [Close your Outlook.com account](https://go.microsoft.com/fwlink/p/?linkid=873106)[](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038.aspx).</span></span>
+<span data-ttu-id="cfb81-108">Če želite izvedeti več, glejte [zapremo vaš račun Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873106)[](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038.aspx).</span><span class="sxs-lookup"><span data-stu-id="cfb81-108">To learn more, see [Close your Outlook.com account](https://go.microsoft.com/fwlink/p/?linkid=873106)[](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038.aspx).</span></span>
   
 
