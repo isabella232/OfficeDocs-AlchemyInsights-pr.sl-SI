@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 8000029
 ms.assetid: 99ff945c-a5b0-463b-8626-734c2c88f1c3
 ms.openlocfilehash: f42e001ce889b28651c2d1cd70306bdcfa46fd83
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30773787"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32406400"
 ---
 # <a name="deal-with-phishing-scams-in-your-inbox"></a>Ukvarjajo z goljufijami v vaš v medkrovju
 
@@ -28,10 +28,10 @@ ms.locfileid: "30773787"
     
 3. Na vrhu strani, izberite puščico ob gumbu **zaželenega** in **Phishing**. 
     
-Več o tem, kako ravnati [z zlorabo, phishing, ali prevara](https://go.microsoft.com/fwlink/p/?linkid=873139).
+Več informacij o tem, kako se [spopadati z zlorabo, lažnim predstavljanjem ali zakrinkanjem](https://go.microsoft.com/fwlink/p/?linkid=873139).
   
-Če ste videli povečanje spam, preberite kako [ohranjati spam in neželeno e-pošto iz Prejeto](https://go.microsoft.com/fwlink/p/?linkid=873140).
+Če opazite povečano število neželenih sporočil, preberite, [kako se izognete neželeni pošti v mapi »Prejeto«](https://go.microsoft.com/fwlink/p/?linkid=873140).
   
-Blokirati e-poštne naslove, pojdite na **Nastavitve** \> **možnosti** \> **blokirani pošiljatelji**. Na seznam varnih pošiljateljev dodati naslove ali domene, izberite **Varni pošiljatelji**. 
+Če želite e-poštni naslov blokirati, pojdite v razdelek **Nastavitve** \> **Možnosti** \> **Blokiraj pošiljatelje**. Če želite naslove ali domene dodati na svoj seznam varnih pošiljateljev, izberite **Varni pošiljatelji**. 
   
 
