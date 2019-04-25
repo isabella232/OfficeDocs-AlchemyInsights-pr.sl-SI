@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
 ms.openlocfilehash: a306d8764351a8769b4dba95b912f90433b2c2dc
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30762152"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371820"
 ---
-# <a name="restore-items-in-sharepoint-online"></a><span data-ttu-id="90ef5-102">Obnavljanje elementov v SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="90ef5-102">Restore items in SharePoint Online</span></span>
+# <a name="restore-items-in-sharepoint-online"></a><span data-ttu-id="9c9ef-102">Obnavljanje elementov v SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="9c9ef-102">Restore items in SharePoint Online</span></span>
 
-<span data-ttu-id="90ef5-103">Ko izbrišete elemente v SharePoint Online, da si ohranijo za skupno 93 dni.</span><span class="sxs-lookup"><span data-stu-id="90ef5-103">When you delete items in SharePoint Online, they're retained for a total of 93 days.</span></span> <span data-ttu-id="90ef5-104">Ostanejo v koš na mestu ves čas, razen če izprazniti ali izbrišite elemente iz nje.</span><span class="sxs-lookup"><span data-stu-id="90ef5-104">They stay in the site recycle bin the whole time, unless you empty it or delete the items from it.</span></span> <span data-ttu-id="90ef5-105">V tem primeru elemente iti v koš zbirke mest, kjer ostanejo je preostanku 93 dni.</span><span class="sxs-lookup"><span data-stu-id="90ef5-105">In that case, the items go to the site collection recycle bin, where they stay for the remainder of the 93 days.</span></span> <span data-ttu-id="90ef5-106">Ob koncu časa, so trajno izbrisane elemente.</span><span class="sxs-lookup"><span data-stu-id="90ef5-106">At the end of the time, the items are permanently deleted.</span></span> <span data-ttu-id="90ef5-107">Obnovite izbrisane elemente mesta koš:</span><span class="sxs-lookup"><span data-stu-id="90ef5-107">To restore deleted items from the site recycle bin:</span></span>
+<span data-ttu-id="9c9ef-103">Ko izbrišete elemente v SharePoint Online, da si ohranijo za skupno 93 dni.</span><span class="sxs-lookup"><span data-stu-id="9c9ef-103">When you delete items in SharePoint Online, they're retained for a total of 93 days.</span></span> <span data-ttu-id="9c9ef-104">Ostanejo v koš na mestu ves čas, razen če izprazniti ali izbrišite elemente iz nje.</span><span class="sxs-lookup"><span data-stu-id="9c9ef-104">They stay in the site recycle bin the whole time, unless you empty it or delete the items from it.</span></span> <span data-ttu-id="9c9ef-105">V tem primeru elemente iti v koš zbirke mest, kjer ostanejo je preostanku 93 dni.</span><span class="sxs-lookup"><span data-stu-id="9c9ef-105">In that case, the items go to the site collection recycle bin, where they stay for the remainder of the 93 days.</span></span> <span data-ttu-id="9c9ef-106">Ob koncu časa, so trajno izbrisane elemente.</span><span class="sxs-lookup"><span data-stu-id="9c9ef-106">At the end of the time, the items are permanently deleted.</span></span> <span data-ttu-id="9c9ef-107">Obnovite izbrisane elemente mesta koš:</span><span class="sxs-lookup"><span data-stu-id="9c9ef-107">To restore deleted items from the site recycle bin:</span></span>
   
-1. <span data-ttu-id="90ef5-108">Pojdite na spletno stran in v levem podoknu kliknite **koš** .</span><span class="sxs-lookup"><span data-stu-id="90ef5-108">Go to the site and click **Recycle bin** in the left pane.</span></span> 
+1. <span data-ttu-id="9c9ef-108">Pojdite na spletno stran in v levem podoknu kliknite **koš** .</span><span class="sxs-lookup"><span data-stu-id="9c9ef-108">Go to the site and click **Recycle bin** in the left pane.</span></span> 
     
-    <span data-ttu-id="90ef5-109">Če ne vidite **koš** v levem podoknu, kliknite ikono v zgornjem desnem in kliknite **vsebino spletne strani**.</span><span class="sxs-lookup"><span data-stu-id="90ef5-109">If you don't see **Recycle bin** in the left pane, click the Settings icon in the upper right, and then click **Site contents**.</span></span> <span data-ttu-id="90ef5-110">Koš je na skrajni desni strani ukazno vrstico na vrhu.</span><span class="sxs-lookup"><span data-stu-id="90ef5-110">The Recycle Bin is on the far right of the command bar at the top.</span></span>
+    <span data-ttu-id="9c9ef-109">Če ne vidite **koš** v levem podoknu, kliknite ikono v zgornjem desnem in kliknite **vsebino spletne strani**.</span><span class="sxs-lookup"><span data-stu-id="9c9ef-109">If you don't see **Recycle bin** in the left pane, click the Settings icon in the upper right, and then click **Site contents**.</span></span> <span data-ttu-id="9c9ef-110">Koš je na skrajni desni strani ukazno vrstico na vrhu.</span><span class="sxs-lookup"><span data-stu-id="9c9ef-110">The Recycle Bin is on the far right of the command bar at the top.</span></span>
     
-2. <span data-ttu-id="90ef5-111">Stran **Koš** , izberite elemente, ki jih želite obnoviti da nanje pokažete in kliknete ikono kljukice, ki se prikaže.</span><span class="sxs-lookup"><span data-stu-id="90ef5-111">On the **Recycle Bin** page, select the items you want to restore by pointing to them and clicking the check mark icon that appears.</span></span> 
+2. <span data-ttu-id="9c9ef-111">Stran **Koš** , izberite elemente, ki jih želite obnoviti da nanje pokažete in kliknete ikono kljukice, ki se prikaže.</span><span class="sxs-lookup"><span data-stu-id="9c9ef-111">On the **Recycle Bin** page, select the items you want to restore by pointing to them and clicking the check mark icon that appears.</span></span> 
     
-3. <span data-ttu-id="90ef5-112">Kliknite **Obnovi**.</span><span class="sxs-lookup"><span data-stu-id="90ef5-112">Click **Restore**.</span></span>
+3. <span data-ttu-id="9c9ef-112">Kliknite **Obnovi**.</span><span class="sxs-lookup"><span data-stu-id="9c9ef-112">Click **Restore**.</span></span>
     
-[<span data-ttu-id="90ef5-113">Obnavljanje izbrisanih elementov iz koš zbirke mest</span><span class="sxs-lookup"><span data-stu-id="90ef5-113">Restore deleted items from the Site collection recycle bin</span></span>](https://go.microsoft.com/fwlink/?linkid=866439)
+[<span data-ttu-id="9c9ef-113">Obnavljanje izbrisanih elementov iz koš zbirke mest</span><span class="sxs-lookup"><span data-stu-id="9c9ef-113">Restore deleted items from the Site collection recycle bin</span></span>](https://go.microsoft.com/fwlink/?linkid=866439)
   
 

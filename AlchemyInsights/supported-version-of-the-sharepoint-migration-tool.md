@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1c1c035-87ad-4d7a-a347-98522429c7aa
 ms.openlocfilehash: dbe6616e25fbd5cca9d5feb77239f487ca760919
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940516"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32369622"
 ---
-# <a name="supported-version-of-the-sharepoint-migration-tool"></a><span data-ttu-id="83afe-102">Podprte različice programa SharePoint migracij orodje</span><span class="sxs-lookup"><span data-stu-id="83afe-102">Supported version of the SharePoint Migration Tool</span></span>
+# <a name="supported-version-of-the-sharepoint-migration-tool"></a><span data-ttu-id="6d341-102">Podprte različice programa SharePoint migracij orodje</span><span class="sxs-lookup"><span data-stu-id="6d341-102">Supported version of the SharePoint Migration Tool</span></span>
 
 
 
-<span data-ttu-id="83afe-p101">Trenutno orodje za migracijo SharePoint podpira samo iz SharePoint 2013. V tem času ne podpira različice 2010 in 2016.</span><span class="sxs-lookup"><span data-stu-id="83afe-p101">Currently the SharePoint Migration Tool only supports migrations from SharePoint 2013. Versions 2010 and 2016 are not supported at this time.</span></span>
+<span data-ttu-id="6d341-103">Trenutno orodje za migracijo SharePoint podpira samo iz SharePoint 2013.</span><span class="sxs-lookup"><span data-stu-id="6d341-103">Currently the SharePoint Migration Tool only supports migrations from SharePoint 2013.</span></span> <span data-ttu-id="6d341-104">V tem času ne podpira različice 2010 in 2016.</span><span class="sxs-lookup"><span data-stu-id="6d341-104">Versions 2010 and 2016 are not supported at this time.</span></span>
   
-<span data-ttu-id="83afe-105">Če želite več informacij, glejte [uvedbo SharePoint migracij orodje](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="83afe-105">For more information, see [Introducing the SharePoint Migration Tool](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).</span></span>
+<span data-ttu-id="6d341-105">Če želite več informacij, glejte [uvedbo SharePoint migracij orodje](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="6d341-105">For more information, see [Introducing the SharePoint Migration Tool](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).</span></span>
   
 
