@@ -11,33 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800005
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: 925fc5aae484d0b3dc3ccdcd467598390a47aebe
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f5a6eaae111e75c844d638f4d9b4eda5280ab42a
+ms.sourcegitcommit: 67535d801ba448e6ea7131fdebbc0e7ae9beffe2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401200"
+ms.lasthandoff: 05/10/2019
+ms.locfileid: "33867954"
 ---
-# <a name="fix-search-issues-by-rebuilding-your-instant-search-catalog"></a>Določi Išči vprašanja z obnovo katalog takojšnje iskanje
+# <a name="troubleshoot-search-issues"></a>Iskanje težave
 
-1. Zaprite Outlook in odprite **Nadzorno ploščo**.
-    
-    > [!NOTE]
-    > Odvisno od različice Officea, ki jo uporabljate, boste morda morali kliknite gumb **Start** , in na **začetek** jedilnik, kliknite **Nadzorna plošča**. 
-  
-2. Naredite nekaj od tega:
-    
-  - Izberite **Možnosti indeksiranja**.
-    
-  - V **iskalno** polje vnesite *indeks* , in nato izberite **Možnosti indeksiranja**.
-    
-3. V pogovornem oknu **Indeksirana mesta** pod **sprememba vpoklicanec namestitev**, izberite potrditveno polje za mesto, ki ga želite spremeniti, in nato kliknite v **redu**.
-    
-4. V pogovornem oknu **Dodatne možnosti** na kartici **Nastavitve indeksa** pod **Odpravljanje težav**, kliknite **Obnovi**.
-    
-    > [!NOTE]
-    > **Znova zgradi kazalo** dialogičen škatla odpre, opozarjajo, da je "indeks lahko traja dolgo časa za dokončanje." Izberite **OK** za začetek, obnavljanje kazala. 
-  
-Če želite več informacij, glejte znana težava [nobenih rezultatov za POP/IMAP račun](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039.aspx).
-  
+Če imate težave pri iskanju, si oglejte spodnje povezave za pomoč za odpravljanje težav.
 
+To so najbolj pogosta vprašanja, ter so dober kraj za začetek:
+- [Outlook iskanje vrne nobenega rezultata](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [Outlook iskanje vrne nepopoln rezultat](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [Iskanje Outlook ne more najti starejši emails](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+
+Možne rešitve za manj pogostih težav lahko najdete tukaj:
+- [Outlook 2016 samo: Išči kartico je siva barva jasno](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [Nabiralnik v skupni rabi: Težave z rezultati iskanja](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [Napaka: Delovanje bo ogrožena zaradi težav s kako Outlook konfiguriran](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [Iskalne mape prikazati nepričakovano PersonMetadata elementov ni predmet](https://support.microsoft.com/en-us/help/4035436/outlook-search-folders-show-items-with-blank-subject)
