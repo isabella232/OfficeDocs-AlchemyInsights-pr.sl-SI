@@ -7,18 +7,43 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 48259de7b605f667ce424d3c8be00362b08ea716
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 2432b84a06dbf3e5efd69945516174a1f70e0a9f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719882"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760673"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Omogoči zunanje delitev v SharePoint Online
 
-Če vaša organizacija opravlja delo, ki vključuje skupno rabo dokumentov ali sodelovanje neposredno z dobavitelji, stranke ali stranke, potem lahko uporabite v <a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview">zunanjih delitev funkcij SharePoint Online</a> za skupno rabo vsebine z ljudmi zunaj vaše organizacija.
+Če vaša organizacija opravlja delo, ki vključuje skupno rabo dokumentov ali sodelovanje neposredno z dobavitelji, stranke ali stranke, potem lahko uporabite v [zunanjih delitev funkcij SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) za skupno rabo vsebine z ljudmi zunaj vaše organizacija.
 
-Za več informacij o zunanjih delitev (goste) obiščite spodnjo povezavo.</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user">Kaj je zunanji uporabnik?</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document">Kaj se zgodi, ko delim na spletno stran ali dokument?</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off">Pa zunanje, delitev ali izklop za SharePoint Online</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site">Pa zunanje, delitev ali izklop za mesto</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide">Upravljanje dostopa Ocene v Office 365 skupine</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet">Uporabo Sharepoint Online kot Ekstranet rešitev business-to-business (B2B)</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c">Delež SharePoint datoteke ali mape</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US">Ustavi skupno rabo OneDrive ali SharePoint datoteke ali mape, ali spremeniti dovoljenja</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center"><span style="color: #0066cc; background: #BFE6FF;">Izbrisati zunanjega uporabnika
+Za več informacij o zunanjih delitev (goste) obiščite spodnjo povezavo.
 
-Prejemajo napake z zunanjo uporabnik (gost)? &nbsp;Preverite spodnje povezave. </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message">OSE delitev napake v Sharepoint ali OneDrive</a></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0">Sporočilo o napaki, ko zunanjo uporabnik sprejme povabilo za SharePoint Online z uporabo drugega računa</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f">Postranski tajivec mapi v skupni rabi</a>&nbsp;</span></li> </ul>
+[Kaj je zunanji uporabnik?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
+[Kaj se zgodi, ko delim na spletno stran ali dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+[Pa zunanje, delitev ali izklop za SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+
+[Pa zunanje, delitev ali izklop za mesto](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[Upravljanje dostopa Ocene v Office 365 skupine](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+
+[Uporabo Sharepoint Online kot Ekstranet rešitev business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[Delež SharePoint datoteke ali mape](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Ustavi skupno rabo OneDrive ali SharePoint datoteke ali mape, ali spremeniti dovoljenja](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[Izbrisati zunanjega uporabnika](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+Prejemajo napake z zunanjo uporabnik (gost)?
+
+Preverite spodnje povezave. 
+
+- [OSE delitev napake v Sharepoint ali OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+
+- [Sporočilo o napaki, ko zunanjo uporabnik sprejme povabilo za SharePoint Online z uporabo drugega računa](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+
+- [Postranski tajivec mapi v skupni rabi](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
