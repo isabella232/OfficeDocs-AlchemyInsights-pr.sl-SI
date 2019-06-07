@@ -2,7 +2,7 @@
 title: 1081 koledar - RBA CatchAll
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 9/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1081
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: f2fcaac1d841a673e16c7105d98541d22506f1be
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fc2fcbeb3f40660b4abd5f45ef8eb1838d1d42a5
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396004"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34751790"
 ---
-# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="e7abc-102">Ustvarjanje in upravljanje nabiralnikov</span><span class="sxs-lookup"><span data-stu-id="e7abc-102">Create and manage room mailboxes</span></span>
+# <a name="create-and-manage-room-mailboxes"></a><span data-ttu-id="ee247-102">Ustvarjanje in upravljanje nabiralnikov</span><span class="sxs-lookup"><span data-stu-id="ee247-102">Create and manage room mailboxes</span></span>
 
-<span data-ttu-id="e7abc-103">Za ustvarjanje in spreminjanje sobni nabiralniki, glej [Ustvarjanje in upravljanje nabiralnikov](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="e7abc-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
+<span data-ttu-id="ee247-103">Za ustvarjanje in spreminjanje sobni nabiralniki, glej [Ustvarjanje in upravljanje nabiralnikov](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span><span class="sxs-lookup"><span data-stu-id="ee247-103">To create and modify room mailboxes, see [Create and manage room mailboxes](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).</span></span>
 
-<span data-ttu-id="e7abc-104">Če želite izvedeti več o sobi nabiralnikih in nabiralnikih opreme (znan tudi kot nabiralnike sredstev), glej [nabiralniki prostora in opreme](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="e7abc-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
+<span data-ttu-id="ee247-104">Če želite izvedeti več o sobi nabiralnikih in nabiralnikih opreme (znan tudi kot nabiralnike sredstev), glej [nabiralniki prostora in opreme](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span><span class="sxs-lookup"><span data-stu-id="ee247-104">To learn more about room and equipment mailboxes (also known as resource mailboxes), see [Room and equipment mailboxes](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).</span></span>
