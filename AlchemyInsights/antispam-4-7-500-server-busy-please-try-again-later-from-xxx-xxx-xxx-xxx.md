@@ -2,7 +2,7 @@
 title: 1050 antispam 4.7.500 strežnik zaseden. Prosimo, poskusite znova kasneje od [XXX.XXX.XXX.XXX]
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 9/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1050
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: a06614e3f5995099c3b38c1836712cb3d396b6b5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9c52ae51eca4bd9c878fa4d87624411934744061
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397168"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755383"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a><span data-ttu-id="715fc-103">4.7.500 strežnik zaseden, poskusite znova pozneje.</span><span class="sxs-lookup"><span data-stu-id="715fc-103">4.7.500 Server busy, please try again later</span></span>
+# <a name="47500-server-busy-please-try-again-later"></a><span data-ttu-id="097e8-103">4.7.500 strežnik zaseden, poskusite znova pozneje.</span><span class="sxs-lookup"><span data-stu-id="097e8-103">4.7.500 Server busy, please try again later</span></span>
 
-<span data-ttu-id="715fc-104">Do te napake pride, ko obseg prometa e-pošto iz izvornega naslova IP presega omejitev glede na ugled (ali pomanjkanje ugled) izvorni IP naslov.</span><span class="sxs-lookup"><span data-stu-id="715fc-104">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
+<span data-ttu-id="097e8-104">Do te napake pride, ko obseg prometa e-pošto iz izvornega naslova IP presega omejitev glede na ugled (ali pomanjkanje ugled) izvorni IP naslov.</span><span class="sxs-lookup"><span data-stu-id="097e8-104">This error occurs when the volume of email traffic from the source IP address exceeds the limit based on the reputation (or lack of reputation) of source IP address.</span></span>
 
-<span data-ttu-id="715fc-105">E-pošto iz izvornega naslova IP blokiranje poteče v eni uri.</span><span class="sxs-lookup"><span data-stu-id="715fc-105">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="715fc-106">Če izvornega naslova IP je krajevni e-poštni strežnik, ki pripada tebi, preverite nastavitev poštnega konektorja pretoka.</span><span class="sxs-lookup"><span data-stu-id="715fc-106">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="715fc-107">Če vedenje še za več kot eno uro, se obrnite na podporo zahteva izjema za Izvorni IP naslov.</span><span class="sxs-lookup"><span data-stu-id="715fc-107">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
+<span data-ttu-id="097e8-105">E-pošto iz izvornega naslova IP blokiranje poteče v eni uri.</span><span class="sxs-lookup"><span data-stu-id="097e8-105">Blocking email from the source IP address will expire within an hour.</span></span> <span data-ttu-id="097e8-106">Če izvornega naslova IP je krajevni e-poštni strežnik, ki pripada tebi, preverite nastavitev poštnega konektorja pretoka.</span><span class="sxs-lookup"><span data-stu-id="097e8-106">If the source IP address is an on-premises email server that belongs to you, verify the configuration of the mail flow connector.</span></span> <span data-ttu-id="097e8-107">Če vedenje še za več kot eno uro, se obrnite na podporo zahteva izjema za Izvorni IP naslov.</span><span class="sxs-lookup"><span data-stu-id="097e8-107">If the behavior continues for more than an hour, contact support to request an exception for the source IP address.</span></span>
