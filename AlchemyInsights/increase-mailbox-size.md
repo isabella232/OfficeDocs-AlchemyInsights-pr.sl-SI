@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f30db7cdb083356b0ad02348b7c5188280dc88f0
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412514"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769911"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>Stikalo načrte za povečanje velikosti nabiralnika
 
@@ -34,4 +34,4 @@ ms.locfileid: "32412514"
     
 Za več podrobnosti, glejte [preklopite na drug načrt Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-Če imate [O365 načrt, ki podpira Arhiv v mesto](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), lahko dobite tudi shranjevanje dodatne e-pošte za omogočanje arhivskega nabiralnika.  Arhivskega nabiralnika vam dodatni prostor za shranjevanje in vam omogoča premikanje, kopiranje in iskanje sporočil v obeh primarnega in arhivskega nabiralnika. Navodila po korakih za omogočanje arhivskega nabiralnika, glejte [Omogočanje arhivskega nabiralnika](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
+Če imate [O365 načrt, ki podpira Arhiv v mesto](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), lahko dobite tudi shranjevanje dodatne e-pošte za omogočanje arhivskega nabiralnika.  Arhivskega nabiralnika vam dodatni prostor za shranjevanje in vam omogoča premikanje, kopiranje in iskanje sporočil v obeh primarnega in arhivskega nabiralnika. Navodila po korakih za omogočanje arhivskega nabiralnika, glejte [Omogočanje arhivskega nabiralnika](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

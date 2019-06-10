@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: c3d058c22d88eb9625dbdaecba7edd270977f351
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3916e6cf6424b644e90621f21aa09b37140d5288
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760885"
+ms.locfileid: "34770613"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>Zaščito IRM v SharePoint datoteke
 
@@ -21,7 +21,7 @@ V SharePoint Online, zaščito IRM, se uporablja za datoteke na seznamu in v knj
 
 Če želite izvedeti več, preberite, [Kako pisarniških aplikacij in storitev podpira upravljanje pravic Azure](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
-[Nastavite do informacij upravljanja pravic v skrbniškem središču za SharePoint](https://docs.microsoft.com/en-us/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+[Nastavite do informacij upravljanja pravic v skrbniškem središču za SharePoint](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
 [IRM-usposobiti SharePointove knjižnice dokumentov in seznamov](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 

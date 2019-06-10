@@ -17,7 +17,7 @@ ms.locfileid: "32388991"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Priporočeni koraki v primeru ogroženega računa
 
-[VIDEO: odpravljanje težav z ogroženim računoma za Office 365](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VIDEO: odpravljanje težav z ogroženim računom za Office 365](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. Takoj [ponastavite geslo uporabnika](https://support.office.com/article/7a5d073b-7fae-4aa5-8f96-9ecd041aba9c). Novega gesla končnemu uporabniku ne posredujte po e-pošti. 
     
