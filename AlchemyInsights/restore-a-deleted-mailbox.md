@@ -9,12 +9,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
-ms.openlocfilehash: ed76b06d20bdaa74708ac6d95902f4c726838071
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom: ''
+ms.openlocfilehash: 3fa5fe283ebc89faff984e85731cdd3d70f5a7e6
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761811"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34899563"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Obnovitev izbrisanega nabiralnika
 
@@ -23,11 +24,10 @@ Ko uporabnik izgubi svoj Exchange Online licenco, se ohrani svoj nabiralnik za 3
 Admin na portalu:
   
 - Pojdi **uporabnikom** \> **aktivnih uporabnikov**. Izberite zadevni uporabnik.
-    
-- Izberite ** Edit ** spremeniti licencah izdelkov. 
-    
+
+- Izberite **Uredi** spremeniti licencah izdelkov.
+
 - Exchange Online licenco dodelite uporabnika in izberite **Shrani**.
-    
+
 Nabiralniki v skupni rabi se tudi povrnejo v 30 dneh. Najdete v skupni rabi nabiralnikov v **uporabnike** \> **Izbrisano uporabnikov**. Nabiralniki v skupni rabi zahteva licenco za Exchange Online.
   
-
