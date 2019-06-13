@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 43369c600687d6ac253f70a8535dc2bd0d41687e
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b7a3805d30cac44781adbbb00c0f0ed3496ff17b
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389903"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883607"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>Postranski tajivec čas sanjarstvo potek dela
 
@@ -21,12 +21,11 @@ SharePoint 2013 poteki dela, ki poskušajo poslati email skupino SharePoint lahk
   
  **Če želite odpraviti težavo, naredite te korake:**
   
- 1. Omogočajo vsi ogled članov skupine SharePoint. 
+ 1. Omogočajo vsi ogled članov skupine SharePoint.
   
- 2. Skupine SharePoint odstranite za ali Kp črta email. 
+ 2. Skupine SharePoint odstranite za ali Kp črta email.
   
- 3. Izrecno dodati uporabnike za ali Kp če članstvo vidljivost ni mogoče spremeniti za SharePointovo skupino. 
+ 3. Izrecno dodati uporabnike za ali Kp če članstvo vidljivost ni mogoče spremeniti za SharePointovo skupino.
   
-Če si želite ogledati več podrobnosti si oglejte [HTTP nepooblaščeno za /_vti_bin/client.svc/sp.utilities.utility.SendEmail ](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Če si želite ogledati več podrobnosti si oglejte [HTTP nepooblaščeno za /_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   
-
