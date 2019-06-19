@@ -13,18 +13,18 @@ ms.custom:
 - "8000036"
 - "793"
 ms.openlocfilehash: 84c8b7465c505ff911f0ee156d1eb0cdd8942afd
-ms.sourcegitcommit: fd08cc6c8723fff65cad612ef9092bfae89f5354
+ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34859196"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35062181"
 ---
-# <a name="change-your-account-picture"></a><span data-ttu-id="041bf-102">Spremeni sliko računa</span><span class="sxs-lookup"><span data-stu-id="041bf-102">Change your account picture</span></span>
+# <a name="change-your-account-picture"></a><span data-ttu-id="1413d-102">Spremeni sliko računa</span><span class="sxs-lookup"><span data-stu-id="1413d-102">Change your account picture</span></span>
 
-1. <span data-ttu-id="041bf-103">Iti k [vaš Microsoft račun zavijati](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="041bf-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
-2. <span data-ttu-id="041bf-104">Izberite **Spremeni sliko**.</span><span class="sxs-lookup"><span data-stu-id="041bf-104">Select **Change picture**.</span></span>
-3. <span data-ttu-id="041bf-105">Izberite **novo sliko**.</span><span class="sxs-lookup"><span data-stu-id="041bf-105">Select **New picture**.</span></span>
-4. <span data-ttu-id="041bf-106">Izberite sliko, ki jo želite uporabiti, in izberite **Odpri**.</span><span class="sxs-lookup"><span data-stu-id="041bf-106">Choose the picture you want to use and select **Open**.</span></span>
-5. <span data-ttu-id="041bf-107">Povlecite ali velikost polje Slika in izberite **Shrani**.</span><span class="sxs-lookup"><span data-stu-id="041bf-107">Drag or resize the image box and select **Save**.</span></span>
+1. <span data-ttu-id="1413d-103">Iti k [vaš Microsoft račun zavijati](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="1413d-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+2. <span data-ttu-id="1413d-104">Izberite **Spremeni sliko**.</span><span class="sxs-lookup"><span data-stu-id="1413d-104">Select **Change picture**.</span></span>
+3. <span data-ttu-id="1413d-105">Izberite **novo sliko**.</span><span class="sxs-lookup"><span data-stu-id="1413d-105">Select **New picture**.</span></span>
+4. <span data-ttu-id="1413d-106">Izberite sliko, ki jo želite uporabiti, in izberite **Odpri**.</span><span class="sxs-lookup"><span data-stu-id="1413d-106">Choose the picture you want to use and select **Open**.</span></span>
+5. <span data-ttu-id="1413d-107">Povlecite ali velikost polje Slika in izberite **Shrani**.</span><span class="sxs-lookup"><span data-stu-id="1413d-107">Drag or resize the image box and select **Save**.</span></span>
 
-<span data-ttu-id="041bf-108">Dovolite spremembe profil sliko na začel veljati do 24 ur.</span><span class="sxs-lookup"><span data-stu-id="041bf-108">Please allow up to 24 hours for changes to your profile photo to go into effect.</span></span>
+<span data-ttu-id="1413d-108">Dovolite spremembe profil sliko na začel veljati do 24 ur.</span><span class="sxs-lookup"><span data-stu-id="1413d-108">Please allow up to 24 hours for changes to your profile photo to go into effect.</span></span>
