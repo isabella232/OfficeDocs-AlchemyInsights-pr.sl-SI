@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: a964751e52972875a8794ce311546f5816a36ca6
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9ab06cbd1648da31d8a04e61c237a2326b4bbe93
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34753724"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199289"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Ustvarite SharePointova mesta z uporabo predloge
 
@@ -31,7 +31,7 @@ Skrbniki morali dovoliti skript po meri omogočiti funkcije predlog. Podrobna na
 
 - Shrani stran kot predlogo ukaz ni podprt in lahko povzroči težave na mestih, ki uporabljajo SharePoint Server Publishing infrastrukture.
 
-Predloga mesta ni mogoče ustvariti ali ne deluje pravilno.
+**Predloga mesta ni mogoče ustvariti ali ne deluje pravilno**
 
 Predlogo lahko manjka [funkcija](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) in ne vključite. Če funkcija ni na voljo za aktiviranje v trenutni zbirki mest, ne morete uporabiti predlogo mesta ustvariti spletno stran.
 

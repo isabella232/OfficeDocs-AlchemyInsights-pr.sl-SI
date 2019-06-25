@@ -14,19 +14,19 @@ ms.custom:
 - "808"
 - "809"
 - "1327"
-ms.openlocfilehash: db963210d99ad41fe69eeae11baac9590f429448
-ms.sourcegitcommit: 03af2db31b45958e5f541d7740078cf65e0589ce
+ms.openlocfilehash: 81da5338117b49a21c95de2beae8319c55c83c4a
+ms.sourcegitcommit: efed0ae44bd6c61d751dd008b2885bd7e7d86521
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34709032"
+ms.lasthandoff: 06/14/2019
+ms.locfileid: "34957396"
 ---
 # <a name="print-email-and-calendars"></a>Tiskanje e-pošto in koledarje
 
 Če želite natisniti e-pošto:
   
 1. Izberite sporočilo, ki ga želite natisniti.
-1. Nad podokna za branje izberite tri pike in izberite **Natisni**.
+1. V zgornjem desnem kotu sporočila, izberite tri pike in izberite **Natisni**.
 
 Če želite natisniti svoj koledar:
 

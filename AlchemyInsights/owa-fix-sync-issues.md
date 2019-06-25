@@ -8,13 +8,15 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: ''
-ms.openlocfilehash: 4298bb2ac29affef0c879f567ea62d0a149c2139
-ms.sourcegitcommit: ad4257df7113531cea883b477d505918da99b325
+ms.custom:
+- "9000641"
+- "2478"
+ms.openlocfilehash: 88d6cae01da1142f0d087592920f8cc2b5b33bf2
+ms.sourcegitcommit: ed30ec6cae5e52b54aa1ac7248a847579ad16062
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/13/2019
-ms.locfileid: "34934258"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35079293"
 ---
 # <a name="fix-outlook-on-the-web-sync-issues"></a>Pritrditi razgled na spletu Sinhronizacijske težave
 
@@ -28,4 +30,4 @@ Pogled na spletu kaže mobilne naprave uporabljate za vzpostavljanje povezave z 
 
 Če želite izvedeti več, glejte [pritrditi email sinhronizacijo vprašanja ali odstraniti napravo iz vaš pogled na spletne nabiralnikom](https://support.office.com/article/775ed31c-05bd-4ee4-b1b3-33fad7b5b992)
 
-*Opomba:* Povezanih računov v Outlook v spletu niso več podprti. Če želite izvedeti več, glejte [povezanih računov ni več podprta v Outlook v spletu](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)
+*Opomba:* Povezanih računov v Outlook v spletu niso več podprti. Če želite izvedeti več, glejte [Outlook v spletu ne podpira več povezanih računov](https://support.office.com/article/5cc526bf-e928-4a99-8b9f-5e089df7d887)
