@@ -10,18 +10,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
-ms.openlocfilehash: 62ceeefefeac5e7cc01eb732350b0786050ad903
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "649"
+- "2000016"
+ms.openlocfilehash: d618726191e2343f17e7690b807fa854959ac852
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417422"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35384661"
 ---
-# <a name="how-to-install-office-on-an-ipad"></a><span data-ttu-id="901a2-102">Kako umestiti urad naprej iPad</span><span class="sxs-lookup"><span data-stu-id="901a2-102">How to install Office on an iPad</span></span>
+# <a name="how-to-install-office-on-an-ipad"></a><span data-ttu-id="be390-102">Kako umestiti urad naprej iPad</span><span class="sxs-lookup"><span data-stu-id="be390-102">How to install Office on an iPad</span></span>
 
+- <span data-ttu-id="be390-103">So se uporabnik [tapnite download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) iz svoje mobilne naprave, za Word, Excel, PowerPoint in OneNote.</span><span class="sxs-lookup"><span data-stu-id="be390-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
 
-- <span data-ttu-id="901a2-103">So se uporabnik [tapnite download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) iz svoje mobilne naprave, za Word, Excel, PowerPoint in OneNote.</span><span class="sxs-lookup"><span data-stu-id="901a2-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span> 
-    
-- <span data-ttu-id="901a2-104">So uporabnik začeti app, tapnite **prijava** in vnesite svoje delo ali v šolo poverilnice.</span><span class="sxs-lookup"><span data-stu-id="901a2-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span> 
-    
-
+- <span data-ttu-id="be390-104">So uporabnik začeti app, tapnite **prijava** in vnesite svoje delo ali v šolo poverilnice.</span><span class="sxs-lookup"><span data-stu-id="be390-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
