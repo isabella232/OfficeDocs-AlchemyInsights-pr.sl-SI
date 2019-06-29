@@ -3,23 +3,25 @@ title: Outlook.com ne morete prejemati kod za preverjanje
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 6/5/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000060
+ms.custom:
+- "1005"
+- "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0528d95d00eeed816fee15c6b1e8c791a7e76a2d
-ms.sourcegitcommit: 70551369a9799b25f042f20a4de88a8d33666037
+ms.openlocfilehash: 9ade368e32f89493d922b9a7285726f9d249d53b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33299423"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376705"
 ---
-# <a name="if-you-cant-get-verification-codes"></a>Če ne morete dobiti kod za preverjanje
+# <a name="cant-get-verification-codes"></a>Ne morem dobiti kod za preverjanje
 
-Če vi ne morem postranski vaš nadomestni e-poštni ali telefonsko številko, iti k vaš [osnove varnosti](https://account.microsoft.com/security), izberite **nimam nobene od teh**, in sledite navodilom, če želite zamenjati varnostne informacije.
+Če vi ne morem postranski vaš nadomestni e-poštni ali telefonsko številko, pojdite na Microsoft račun [osnove varnosti](https://account.microsoft.com/security) stran, izberite **nimam nobene od teh** na vpisni strani, in sledite navodilom, če želite zamenjati varnostne informacije.
 
-Upoštevajte, da [Microsoft Provjeritelj app](https://go.microsoft.com/fwlink/?linkid=2016117) zahteva internetno povezavo, da dobite kodo za preverjanje.
+*Opomba:* [Provjeritelj Microsoft app](https://go.microsoft.com/fwlink/?linkid=2016117) ne zahtevajo internetno povezavo skrbeti vi s potrditveno kodo.
 
-Preberite več o [varnosti informacij & varnostne kode](https://support.microsoft.com/help/12428/).
+Če želite izvedeti več, preberite [Microsoft račun varnostne informacije in preverjanje kode](https://support.microsoft.com/help/12428/).
