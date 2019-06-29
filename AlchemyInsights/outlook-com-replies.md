@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392566"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372565"
 ---
 # <a name="replying-in-outlookcom"></a>Odgovarjanje na Outlook.com
 
 Odgovoriti na eno sporočilo hkrati:
 
-1. Na seznamu sporočil, izberite sporočilo, ki ga želite posredovati.
+1. Na seznamu sporočil, izberite sporočilo, ki ga želite odgovoriti.
 2. V zgornjem desnem kotu podokna s sporočilom, izberite **odgovor** puščico ali **odgovor vse** puščice.
 3. Vnesite sporočilo in izberite **Pošlji**.
 
 Za samodejno odgovarjanje na vsa sporočila:
 
-1. Odprite [Nastavitve samodejne odgovore](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. Pojdite v **Nastavitve** > **Poglej si vse Outlookove nastavitve** > **Mail** > **samodejne odgovore** razkleniti [Nastavitve samodejne odgovore](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. Izberite toggle **vklopiti pošiljanje samodejnih odgovorov** .
 3. Potrdite polje **Pošlji odgovori samo v časovnem obdobju** omogoča:
     - Samo Pošlji odgovori, ko izberete. Če ne določite časovno obdobje, samodejnega odgovora ostaja na dokler ga izklopite.
