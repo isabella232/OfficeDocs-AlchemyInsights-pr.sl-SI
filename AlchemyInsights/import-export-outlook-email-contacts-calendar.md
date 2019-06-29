@@ -9,23 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1221
+ms.custom:
+- "1221"
+- "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 86a42fbb17a116c2983d89aaad0074212380f63d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f950e24039f57d5c1458265fadf0c6c8e943b16e
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32413919"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382825"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Uvoz in izvoz Outlook e-pošto, stike in elemente koledarja
 
 1. V programu Outlook kliknite **Datoteka**.
 
-2. Kliknite **& Odpri izvozu**, in nato kliknite **Uvoz/izvoz**. 
+2. Kliknite **& Odpri izvozu**, in nato kliknite **Uvoz/izvoz**.
 
     To zažene čarovnika za uvoz in izvoz.
 
-Za popoln nabor uvoz in izvoz navodila za Outlook, glejte [Ta članek](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef). 
+Za popoln nabor uvoz in izvoz navodila za Outlook, glejte [Ta članek](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
 Če ste skrbnik in želite večji-uvozne več PST datoteke nabiralnike Office 365, glejte [Ta članek](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
