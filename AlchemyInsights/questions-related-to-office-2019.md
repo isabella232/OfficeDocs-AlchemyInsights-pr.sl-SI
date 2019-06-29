@@ -8,13 +8,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "1251"
+- "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: d4d116a1d6ad43922c892b93ec9fbf316f8796ce
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 289dd4abd5b529f43f01ba03ba2314ecd368dee1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388612"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356685"
 ---
 # <a name="about-office-2019"></a>O Office 2019
 
@@ -32,4 +35,3 @@ Torej, če imate Office pult apps kot del naročnine Office 365 že imate najnov
   
 [Leto imenovanja v urad 2016 in Office 365 odjemalske aplikacije bodo odstranjeni iz začetek jedilnik drobovje](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   
-
