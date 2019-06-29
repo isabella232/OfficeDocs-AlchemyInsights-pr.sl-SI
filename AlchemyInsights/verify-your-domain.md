@@ -9,14 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "47"
+- "48"
+- "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: d215f3af0cf4b46b12c8cb51a9572adb00f354e4
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 5bd6c32a246db9dfcdb475368ade0441df4dc9c3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420068"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365433"
 ---
 # <a name="verify-your-domain"></a>Preverjanje domene
 
@@ -25,7 +28,5 @@ ms.locfileid: "32420068"
 To običajno traja le nekaj minut za nas, da lahko videli nov zapis, vendar občasno lahko traja tako dolgo, kot nekaj ur. 
   
 - Če ste čakali tako dolgo že, še enkrat preverite, da ste kopirali in prilepili natančna vrednost v zapisu TXT preverjanje na vaš DNS strežnik. Eno skupno težavo ne vključuje v "MS =" del zapisa. Moramo, da preveč!
-    
-- Na nekaterih DNS gostiteljev, moraš sprejeti dodaten korak, da shranite pas (kjer DNS zapis se shrani) tako, da bo posodobitev prek interneta. Preverite, ali ste shranili spremembe tako Office 365 lahko videli in preverjanje zapisa.
-    
 
+- Na nekaterih DNS gostiteljev, moraš sprejeti dodaten korak, da shranite pas (kjer DNS zapis se shrani) tako, da bo posodobitev prek interneta. Preverite, ali ste shranili spremembe tako Office 365 lahko videli in preverjanje zapisa.

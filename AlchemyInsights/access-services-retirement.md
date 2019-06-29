@@ -6,13 +6,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "9000356"
+- "2009"
 ms.assetid: ''
-ms.openlocfilehash: f5a1e88e4443fdf43cdd4f07cf9e784810df7540
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5f171050479f34077f3dc155bec40437f86b84c0
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769474"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359381"
 ---
 # <a name="access-services-retirement"></a>Dostop do storitve upokojitev
 
@@ -24,7 +27,7 @@ Začetek junija 2019, bomo ustaviti ustvarjanje nove Accessove zbirke podatkov v
 
 **Kaj moram storiti, da pripravi spremembe?**
 
-Vas prosimo, da ustvarite načrt prehoda za vaše organizacije dostop do spletne zbirke podatkov. Administratorji lahko uporabljajo [SharePoint dostop app skener](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) pridobiti popis dostop aplikacije, ki uporabljajo mesta. 
+Vas prosimo, da ustvarite načrt prehoda za vaše organizacije dostop do spletne zbirke podatkov. Administratorji lahko uporabljajo [SharePoint dostop app skener](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) pridobiti popis dostop aplikacije, ki uporabljajo mesta.
 
 Obstaja več načinov za selitev dostop spletne podatkovne zbirke podatkov:
 
