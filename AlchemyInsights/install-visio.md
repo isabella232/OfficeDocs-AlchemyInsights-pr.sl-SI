@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914122"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381889"
 ---
 # <a name="install-visio"></a>Namestite Visio
 
 Visio je prodajajo kot samostojni program tako da, če nimate še, [nakup ali poskusiti Visio](https://products.office.com/visio). 
 
-Če ste naročeni na Visio Online načrt 2, uporabniki ne bodo videli možnost, da namestite Visio iz **moje namesti** v [portal moj račun](https://portal.office.com/account#installs) , razen če imate [dodeljeno jim licenco](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **Opomba**: Visiove Online načrt 1 ne vključuje desktop različico programa Visio, tako ne umestitev je možne.
 
-Podrobna navodila za prenos in namestitev Visio, glejte [Namestitev Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+Če ste naročeni na Visio Online načrt 2, morate [dodeliti dovoljenja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) uporabniku ali ne bodo imeli možnost, da namestite Visio iz **moje namesti** v [portal moj račun](https://portal.office.com/account#installs). 
 
-Če imate veljavno naročnine/dovoljenje in se izvajajo v vprašanj med namestitvijo, poskusite namestiti Visio, [podporo in regres pomočnika](https://aka.ms/SaRA-VisioSetupScenario).
+Non-zvitek dati dovoljenje prevod Visio Standard ali Visio Professional so povezani z Microsoft računov in ni mogoče upravljati v skrbniškem središču. Za namestitev te različice, uporabniki morajo vpisati [account.microsoft.com](https://account.microsoft.com) z Microsoft račun, povezan s to različico Visia.
+
+Bolj podrobno pomoč glejte [Namestitev Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) in sledite korakom za svojo različico Visia.
 
 Za več informacij glejte:<br>
 [Vodnik za uvajanje za Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
