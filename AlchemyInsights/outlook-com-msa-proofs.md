@@ -1,38 +1,38 @@
 ---
-title: 8000060 Outlook.com MSA dokazila
+title: Outlook.com MSA dokazila
 ms.author: daeite
 author: daeite
-manager: jackiesm
-ms.date: 9/14/2018
-ms.audience: ITPro
+manager: joallard
+ms.date: 6/5/2019
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000060
+ms.custom:
+- "1006"
+- "1008"
+- "1009"
+- "1010"
+- "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 14d32dbc4180d3dd7a20830ae9fdc918570aa359
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e597d00b157e3bf2ee90d6c602fa365a52ee4434
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392385"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373897"
 ---
 # <a name="security-info-and-security-codes"></a>Informacij o varnosti in varnostne kode
 
-1. Prijavite se v vaš [osnove varnosti](https://account.microsoft.com/security) strani z računom Microsoft. 
-    
-2. Izberite **posodobitev informacij**. 
-    
-3. Morda morali vnesite varnostno kodo za nadaljevanje. Če nimate dostopa do vaš nadomestni e-poštni ali telefonsko številko, izberite **nimam nobene od teh** in sledite navodilom, če želite zamenjati varnostne informacije. 
-    
-4. Izberite **Dodaj varnostne informacije** , nato pa sledite navodilom za vstop nove e-pošte ali telefonsko številko. 
-    
-5. Poslali bomo varnostno kodo na to novo e-pošte ali telefonsko številko. Vnesite da varnostno kodo, in izberite **naslednjo**. Nove varnostne informacije prikažejo na seznamu. 
-    
-6. Izberite **Odstrani** , za katero želite odstraniti. 
-    
-7. Če želite posodobiti ki varnostne informacije bomo poslali opozorila, izberite **Spremeni opozorilo možnosti** in počistite potrditveno polje za tistega, ki ga ne želite prejemati opozorila, razen če si kritičen. 
-    
-Preberite več o [informacij o varnosti in varnostne kode](https://support.microsoft.com/help/12428/).
-  
+Dodajanje informacij o varnosti svoj račun:
 
+1. [Osnove varnosti](https://account.microsoft.com/security) se vpisati z računom Microsoft.
+1. Izberite **varnost kontaktne informacije**.
+1. Izberite **Dodaj varnosti informacij** in sledite navodilom, da vnesete telefonsko številko ali e-naslov.
+1. Boste prejeli varnostno kodo na to telefonsko številko ali e-naslov. Vnesite varnostno kodo prejmete v oknu **Dodaj varnosti informacij** in izberite **naslednjo**.
+
+Če želite odstraniti telefonsko ¹tevilko ali e-poštni naslov, izberite **Odstrani** poleg nje.
+
+Če želite spremeniti katero telefonsko številko ali e-poštni naslov prejme varnostna opozorila, izberite **Spremeni opozorilo možnosti**.
+
+Če želite izvedeti več, preberite [Microsoft račun varnostne informacije in preverjanje kode](https://support.microsoft.com/help/12428/).

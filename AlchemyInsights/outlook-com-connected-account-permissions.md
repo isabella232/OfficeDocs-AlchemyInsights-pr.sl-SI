@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417982"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375805"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>Kako popraviti "Izgleda nimamo dovoljenja"
 
 Če se prikaže sporočilo o napaki "izgleda nimamo dovoljenja zadobiti email za..." prosim, naredite to:
 
-1. Odprite vaš [povezani račun postavljanje](https://outlook.live.com/mail/options/mail/accounts) ter premestitev ali izbrisati povezanega računa iz napake. 
+1. Odprite vaš [povezani račun postavljanje](https://outlook.live.com/mail/options/mail/accounts) ter premestitev ali izbrisati povezanega računa iz napake.
 2. Povezani račun znova dodajte.
 3. Pojdi [nazaj v vaš poštni nabiralnik](https://outlook.live.com/mail/inbox).
 
