@@ -1,24 +1,37 @@
 ---
-title: 8000078 Outlook.com Prejeto, ne nakladanja
+title: Outlook.com Prejeto, ne nakladanja
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/12/2019
+ms.date: 5/1/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000078
-ms.openlocfilehash: 0d08c38e624d293a58ddad0463016dace3283510
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1271"
+- "1963"
+- "8000078"
+ms.openlocfilehash: 3f881fd1f97c9abd771543271a0b6813e79e6e4f
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418768"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35374545"
 ---
-# <a name="inbox-not-loading-with-firefox"></a><span data-ttu-id="107c8-102">Prejeto, ne nakladanje s kresnica</span><span class="sxs-lookup"><span data-stu-id="107c8-102">Inbox not loading with Firefox</span></span>
+# <a name="empty-inbox"></a><span data-ttu-id="a1dba-102">Prazno Prejeto</span><span class="sxs-lookup"><span data-stu-id="a1dba-102">Empty inbox</span></span>
 
-<span data-ttu-id="107c8-103">Nekaterih dodatkov v brskalniku Firefox motijo Prejeto Outlook.com nakladanja.</span><span class="sxs-lookup"><span data-stu-id="107c8-103">Certain add-ons in the Firefox browser might prevent your Outlook.com inbox from loading.</span></span>
-  
-<span data-ttu-id="107c8-104">Obiščite Firefox podporo naučiti kako [onemogočiti ali odstraniti dodatke](https://support.mozilla.org/kb/disable-or-remove-add-ons).</span><span class="sxs-lookup"><span data-stu-id="107c8-104">Visit Firefox support to learn how to [Disable or remove Add-ons](https://support.mozilla.org/kb/disable-or-remove-add-ons).</span></span>
+<span data-ttu-id="a1dba-103">**Moj nabiralnik je prazen**</span><span class="sxs-lookup"><span data-stu-id="a1dba-103">**My inbox is empty**</span></span>
 
+- <span data-ttu-id="a1dba-104">Nekaterih dodatkov v brskalniku Firefox motijo Prejeto nakladanja.</span><span class="sxs-lookup"><span data-stu-id="a1dba-104">Certain add-ons in the Firefox browser might prevent your inbox from loading.</span></span> <span data-ttu-id="a1dba-105">Obiščite Firefox podporo naučiti kako [onemogočiti ali odstraniti dodatke](https://support.mozilla.org/kb/disable-or-remove-add-ons).</span><span class="sxs-lookup"><span data-stu-id="a1dba-105">Visit Firefox support to learn how to [Disable or remove Add-ons](https://support.mozilla.org/kb/disable-or-remove-add-ons).</span></span>
+
+<span data-ttu-id="a1dba-106">**Sem želite izprazniti svoj v medkrovju**</span><span class="sxs-lookup"><span data-stu-id="a1dba-106">**I want to empty my inbox**</span></span>
+
+<span data-ttu-id="a1dba-107">Če želite izprazniti mapo »Prejeto« in izbrisati vsi vaš email:</span><span class="sxs-lookup"><span data-stu-id="a1dba-107">If you want to empty your inbox and delete all your email:</span></span>
+
+1. <span data-ttu-id="a1dba-108">Izberite krog poleg [mape »Prejeto«](https://outlook.live.com/mail/inbox) na vrhu seznama sporočilo če želite izbrati vsa sporočila.</span><span class="sxs-lookup"><span data-stu-id="a1dba-108">Select the circle next to [Inbox](https://outlook.live.com/mail/inbox) at the top of your message list to select all your messages.</span></span>
+1. <span data-ttu-id="a1dba-109">Na vrhu strani, izberite **prazno mapo** (ali **Prazno osredotočena** / **prazna drugi** če osredotočena Prejeto vklopljena).</span><span class="sxs-lookup"><span data-stu-id="a1dba-109">At the top of the page, select **Empty folder** (or **Empty Focused** / **Empty Other** if Focused Inbox is turned on).</span></span>
+1. <span data-ttu-id="a1dba-110">Izberite **Zbri¹i vse**.</span><span class="sxs-lookup"><span data-stu-id="a1dba-110">Select **Delete all**.</span></span>
+1. <span data-ttu-id="a1dba-111">Počisti vsa izbrisana sporočila, odprite [mapo »Izbrisano«](https://outlook.live.com/mail/deleteditems) in izberite **prazno mapo** > **izbrisati vse**, nato **obnovite elemente, izbrisane iz te mape** na vrhu strani in izberite **prazno mapo** spet .</span><span class="sxs-lookup"><span data-stu-id="a1dba-111">To purge all your deleted messages, open your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder** > **Delete all**, then select **Recover items deleted from this folder** at the top of the page and select **Empty folder** again.</span></span>
+
+<span data-ttu-id="a1dba-112">Če želite več informacij, glejte [brisanje e-pošte v Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4)</span><span class="sxs-lookup"><span data-stu-id="a1dba-112">For more information, see [Delete email in Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4)</span></span>
