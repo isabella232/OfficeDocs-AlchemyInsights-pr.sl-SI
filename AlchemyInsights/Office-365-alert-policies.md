@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1385
+ms.custom:
+- "1385"
+- "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 428d5b943737f78c683aa50578b0c0a1fb0034c8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 96ae13b62109337de9c41dd3a9bcc42196fe623b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389585"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35359422"
 ---
 # <a name="office-365-alert-policies"></a>Office 365 Alert pravila
 
@@ -26,7 +28,7 @@ Office 365 varnost & skladnosti Center ponuja [Opozorilo privzete pravilnike](ht
 - Dodeljevanje dovoljenj nabiralnika.
 - Skupna raba ali brisanje veliko število datotek v skupno rabo datotek SharePoint.
 - Ustvarite eDiscovery iskanja in izvozite rezultate iskanja.
- 
+
 Pregled in deluje na opozorilo:
 
 1. Iti k [varnost & skladnosti Center](https://protection.office.com) in se vpišite.
