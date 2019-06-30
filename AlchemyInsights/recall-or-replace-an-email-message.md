@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 1860
+ms.custom:
+- "1860"
+- "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770824"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35356613"
 ---
 # <a name="recall-or-replace-an-email-message"></a>Preklic ali zamenjava e-pošto
 
@@ -25,12 +27,13 @@ ms.locfileid: "34770824"
 - Če ste admin, lahko **odpoklic sporočila v imenu uporabnikov z uporabo PowerShell**. Sporočila iz centra za admin ne more spomniti. Če želite več informacij, se pomaknite navzdol do "Iskanje in brisanje e-poštnih sporočil v vaši organizaciji".
 
 ***Preklic ali zamenjava e-poštno sporočilo, ki ste jo poslali***
+
 1. V podoknu z mapami na levi strani Outlookovega okna, izberite mapo Poslano.
 2. Odprite sporočilo, ki ga želite spomniti. Morate klikniti dvakrat, da odprete sporočilo. Izbiri sporočila, tako da se prikaže v podoknu za branje ne omogočajo Preklic sporočila.
 3. Na kartici sporočilo, izberite **dejanja** > **Opozoriti na to sporočilo**.
 4. Izberite **izbrisati neprebrane kopije tega sporočila** ali **izbrisati neprebrane kopije in zamenjati z novim sporočilom**, nato pa izberite **OK**.
 5. Če pošiljate sporočilo zamenjavo, sestaviti sporočilo, nato pa izberite **Pošlji**.
-6. Uspeh ali neuspeh Preklic sporočila je odvisna od nastavitve prejemnikov v Outlooku. 
+6. Uspeh ali neuspeh Preklic sporočila je odvisna od nastavitve prejemnikov v Outlooku.
 
 Če želite več informacij, vključno s kako preverite na odpoklic, [preklic](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)ali Zamenjaj e-poštno sporočilo, ki ste jo poslali.
 

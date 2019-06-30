@@ -9,35 +9,37 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "144"
+- "145"
+- "146"
+- "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1ff407cea0a992ca4236218cfdf93ec315e723a9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 31487d8ca65974497bb1edbf2b0204abd11cb87b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422803"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365145"
 ---
 # <a name="where-is-power-pivot"></a>Kje je Power Pivot?
 
 Obstajajo trije razlogi, zakaj ne vidite Power Pivot:
   
- **Vaša različica Excela ne vključuje**
+**Vaša različica Excela ne vključuje**
   
 Ne vse različice Excela vključujejo Power Pivot. Boste morali nadgraditi na različico Officea, ki vključuje Power Pivot. [Preverite seznam podprtih različic.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
- **Niste omogočili Power Pivot**
+**Niste omogočili Power Pivot**
   
 Če delate v različici Excela, ki podpira Power Pivot, preverite, da dodatek omogočena:
   
 1. Izberite **datoteko** \> **možnosti** \> **Povečati-Ins**.
-    
+
 2. V **upravljanje** spustnega seznama, izberite **dodatke COM** in kliknite **Pojdi**.
-    
-3. V pogovornem oknu **dodatki Com** izberite potrditveno polje poleg **Microsoft Power Pivot za Excel**in nato kliknite v **redu**. 
-    
- **Imate več naročnin ali računov**
+
+3. V pogovornem oknu **dodatki Com** izberite potrditveno polje poleg **Microsoft Power Pivot za Excel**in nato kliknite v **redu**.
+
+**Imate več naročnin ali računov**
   
 Morda imate različne naročnine Office 365 dodeliti različnih uporabniških računov. Preverite, ali ste prijavljeni račun z različico Excela, ki podpira Power Pivot. Preverite seznam [podprte različice](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx), in sledite navodilom za [preklop med različnimi računi, urad](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
-  
-
