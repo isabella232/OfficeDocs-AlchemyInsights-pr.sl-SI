@@ -9,33 +9,34 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "325"
+- "150008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: e437b5c029c8488589bd2636b265d09af550690c
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a32f90e3d6c7f7c9fbbe5b320825f2a81a3a2bf6
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400003"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35385705"
 ---
 # <a name="how-to-assign-a-license-to-a-user"></a>Kako dodeliti licenco uporabniku
 
 Uporabnik potrebuje licenco za dostop do storitev. Tu so koraki za dodajanje, spreminjanje ali premestitev a dati dovoljenje od uporabnika.
   
 1. V skrbniškem središču, pojdite na stran [Aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) , ali izberite **Uporabniki** \> **aktivnih uporabnikov**.
-    
+
 2. Potrdite polje poleg imena uporabnika, kateremu želite dodeliti, spremeniti ali odstraniti dovoljenja.
-    
+
 3. Na desni, v vrstici **proizvod dovoljenja** izberite **Uredi**.
-    
-4. V podoknu **licencah izdelkov** stikalo za preklop **na** položaj za licence, ki mu želite dodeliti temu uporabniku. 
-    
-    Privzeto so vse storitve, povezane s to dovoljenje samodejno dodeljena uporabniku. Če želite omejiti, katere storitve so na voljo uporabniku, preklopite preklaplja **Off** položaj za storitve, da ne želite, da uporabnik imeti. 
-    
-    Stikalo za preklop **Off** položaj umakniti a dati dovoljenje. 
-    
+
+4. V podoknu **licencah izdelkov** stikalo za preklop **na** položaj za licence, ki mu želite dodeliti temu uporabniku.
+
+    Privzeto so vse storitve, povezane s to dovoljenje samodejno dodeljena uporabniku. Če želite omejiti, katere storitve so na voljo uporabniku, preklopite preklaplja **Off** položaj za storitve, da ne želite, da uporabnik imeti.
+
+    Stikalo za preklop **Off** položaj umakniti a dati dovoljenje.
+
 5. Na dnu podokna **proizvod dovoljenja** , izberite **Shrani** \> **blizu** \> **blizu**.
-    
+
 Če želite več informacij, glejte [dodeljevanje licenc za uporabnike v Office 365 za podjetja](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc), in [odstraniti dovoljenja uporabnikov v Office 365 za podjetja](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1).
   
-

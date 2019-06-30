@@ -9,14 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "472"
+- "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: c5a36dab129523d54109f761343ed2adb5ef7f5f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408268"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35362229"
 ---
 # <a name="compare-office-365-plans"></a>Primerjajte Office 365 načrtov
 
@@ -26,8 +28,7 @@ Office 365 načrti so na voljo za [podjetja](https://products.office.com/compare
   
 Če vaša organizacija zanima primerjava vseh načrtov in cen, pregled [primerjati vse načrte Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Če vaša organizacija je že kupila načrt Office 365 in zanima prehod na drug načrt, lahko tako Microsoft 365 admin center iti [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054), ali izberete **obračun** \> **naročnine**. Če si želite ogledati seznam novih načrtov, ki so na voljo izberite **stikalo načrtov** . 
+Če vaša organizacija je že kupila načrt Office 365 in zanima prehod na drug načrt, lahko tako Microsoft 365 admin center iti [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054), ali izberete **obračun** \> **naročnine**. Če si želite ogledati seznam novih načrtov, ki so na voljo izberite **stikalo načrtov** .
   
 Organizaciji lahko tudi premeša in se ujemajo Office 365 načrte, da zadovoljijo potrebe in zahteve funkcijo uporabnikov. Od Office 365 Admin, pojdite na strani [Nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) ali izberite **zaračunavanje** \> **Nakup storitev**.
   
-

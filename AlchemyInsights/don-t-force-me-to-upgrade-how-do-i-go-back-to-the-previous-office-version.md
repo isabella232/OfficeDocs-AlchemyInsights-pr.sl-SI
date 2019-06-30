@@ -9,21 +9,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "265"
+- "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: b14b6c953a7520d248a7df5b4cbbd7e58e1c7817
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 566408a0c38057ee3090acbf155288d579e64b17
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32404229"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389089"
 ---
 # <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ne prisili me, da nadgradnjo. Kako naj grem nazaj na prejšnjo različico Officea?
 
-Čas predrtina urad pila, poskus prevod od urad app lahko odprete, namesto drugo različico. To se bo zgodilo, če imate Office 365 sojenja. 
+Čas predrtina urad pila, poskus prevod od urad app lahko odprete, namesto drugo različico. To se bo zgodilo, če imate Office 365 sojenja.
   
-Ko namestite Office 365 sojenja, 2016 poskus prevod od apps so nameščeni. Te preskusne različice postanejo privzete za odpiranje datotek, Word, Excel in PowerPoint. Na primer, če imate nameščen Excel 2013 in tudi vi umestiti poskus Office 365, potem vaš zvezki v poskus prevod od Excel 2016. 
+Ko namestite Office 365 sojenja, 2016 poskus prevod od apps so nameščeni. Te preskusne različice postanejo privzete za odpiranje datotek, Word, Excel in PowerPoint. Na primer, če imate nameščen Excel 2013 in tudi vi umestiti poskus Office 365, potem vaš zvezki v poskus prevod od Excel 2016.
   
-Če imate težavo, lahko [odstranite](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016 apps, in uporabo starejše različice aplikacije, ki ste že namestili. Ali lahko [odstranite](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) starejše različice apps in nadgraditi z novejšimi različicami, ki so vključeni v Office 365. 
-  
-
+Če imate težavo, lahko [odstranite](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016 apps, in uporabo starejše različice aplikacije, ki ste že namestili. Ali lahko [odstranite](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) starejše različice apps in nadgraditi z novejšimi različicami, ki so vključeni v Office 365.
