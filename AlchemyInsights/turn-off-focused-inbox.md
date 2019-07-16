@@ -14,19 +14,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: 0dfc14e382705c4960b565313112c14d45e5a29c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 88b6dd65a01326cb11dacb9ecf01d8c93f0edd6d
+ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35366657"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35704684"
 ---
-# <a name="turn-off-focused-inbox"></a><span data-ttu-id="4f408-102">Izklopite osredotočena Prejeto</span><span class="sxs-lookup"><span data-stu-id="4f408-102">Turn off Focused Inbox</span></span>
+# <a name="turn-off-focused-inbox"></a><span data-ttu-id="2065f-102">Izklopite osredotočena Prejeto</span><span class="sxs-lookup"><span data-stu-id="2065f-102">Turn off Focused Inbox</span></span>
 
-1. <span data-ttu-id="4f408-103">Izberite **Nastavitve** \> **usmerjena Prejeto**.  </span><span class="sxs-lookup"><span data-stu-id="4f408-103">Select **Settings**  \> **Focused Inbox**.</span></span>
+1. <span data-ttu-id="2065f-103">Izberite **Nastavitve** \> **usmerjena Prejeto**.  </span><span class="sxs-lookup"><span data-stu-id="2065f-103">Select **Settings**  \> **Focused Inbox**.</span></span>
 
-2. <span data-ttu-id="4f408-104">Pod **ko je prejel e-pošte**, izberite **ne razvrstiti sporočila**.</span><span class="sxs-lookup"><span data-stu-id="4f408-104">Under **When email is received**, select **Don't sort messages**.</span></span>
+2. <span data-ttu-id="2065f-104">Pod **ko je prejel e-pošte**, izberite **ne razvrstiti sporočila**.</span><span class="sxs-lookup"><span data-stu-id="2065f-104">Under **When email is received**, select **Don't sort messages**.</span></span>
 
-3. <span data-ttu-id="4f408-105">Izberite **OK**.</span><span class="sxs-lookup"><span data-stu-id="4f408-105">Select **OK**.</span></span>
+3. <span data-ttu-id="2065f-105">Izberite **OK**.</span><span class="sxs-lookup"><span data-stu-id="2065f-105">Select **OK**.</span></span>
 
-<span data-ttu-id="4f408-106">Če želite izvedeti več, glejte [Osredotočena Prejeto za Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span><span class="sxs-lookup"><span data-stu-id="4f408-106">To learn more, see [Focused Inbox for Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).</span></span>
+<span data-ttu-id="2065f-106">Če želite izvedeti več, glejte [Osredotočena Prejeto za Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="2065f-106">To learn more, see [Focused Inbox for Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
