@@ -11,12 +11,12 @@ ms.custom:
 - "9000304"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 4b3626cb02284e3527cc85142621febd5380a888
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5ed89ac0381760d7396d5920329c9eee6335ddd0
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377425"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697063"
 ---
 # <a name="adding-flags-and-reminders-in-outlookcom"></a>Dodajanje zastavice in opomniki v Outlook.com
 
@@ -32,4 +32,4 @@ Opomni, da spremljate sporočila, lahko dodate tudi zastavice:
 1. Na seznamu sporočil s kazalcem sporočilo zagledati predkupna pravica zastavo.
 1. Izberite ikono zastavo, da označite sporočilo. Želite videti vse vaše označena sporočila, izberite kljukico v spodnjem levem kotu strani iti naloge.
  
-Če želite izvedeti več, preberite [zastavo ali pin sporočilo v Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a).
+Če želite izvedeti več, preberite [zastavo ali pin sporočilo v Outlook.com](https://support.office.com/article/8e911e69-30d6-4cc8-8c71-a1163560618a?wt.mc_id=Office_Outlook_com_Alchemy).

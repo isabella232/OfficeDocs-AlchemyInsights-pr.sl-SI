@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1897"
 - "9000290"
-ms.openlocfilehash: 835efcaa5b86feb38285f51aaea492cfefd8e339
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6dfccf70f1d200a57b916b8aa7bea1a154a7cfad
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371809"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35696967"
 ---
 # <a name="stop-messages-from-going-to-your-junk-email-folder"></a>Ustaviti sporočila gredo v mapo Neželena e-pošta
 
@@ -31,4 +31,4 @@ ms.locfileid: "35371809"
 1. Odprite [nastavitve neželene pošte](https://go.microsoft.com/fwlink/?linkid=2035804).
 1. Pod **varne pošiljatelje in domene**, izberite **Dodaj**, vnesite e-poštni naslov ali domena, ki jo želite dodati, in izberite **Shrani**.
 
-Če želite izvedeti več, preberite [Označi e-pošto kot neželeno ali blok pošiljateljev v Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+Če želite izvedeti več, preberite [Označi e-pošto kot neželeno ali blok pošiljateljev v Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

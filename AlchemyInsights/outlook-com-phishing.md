@@ -11,12 +11,12 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0551eb86016b572796a789e6e82fd4c46274bea7
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d837096640d951e7fec289440f56b3339caf3680
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373573"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697315"
 ---
 # <a name="how-to-deal-with-a-phishing-email"></a>Kako ravnati z phishing email
 
@@ -24,6 +24,6 @@ Phishing prevara je email, ki je videti, vendar je dejansko poskušajo ukrasti v
 
 Če dobite e-pošto, ki izgleda kot phishing prevara, ga lahko prijavite tako, da sporočilo in izberete **Junk** > **Phishing**.
 
-*Opomba:* Ko označite sporočilo kot phishing, samo poročila pošiljatelja.Ne blokira da pošiljatelj pošilja sporočila v prihodnosti. Blokirate pošiljatelja, morate dodati pošiljatelja na seznam blokiranih pošiljateljev. Če želite več informacij, glejte [blokiranje pošiljateljev ali odblokirati pošiljateljev v Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
+*Opomba:* Ko označite sporočilo kot phishing, samo poročila pošiljatelja.Ne blokira da pošiljatelj pošilja sporočila v prihodnosti. Blokirate pošiljatelja, morate dodati pošiljatelja na seznam blokiranih pošiljateljev. Če želite več informacij, glejte [blokiranje pošiljateljev ali odblokirati pošiljateljev v Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Več o tem, kako [ravnati z zlorabo, phishing, ali prevara v Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3) in [Napredno Outlook.com varnost za naročnike Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2).
+Več o tem, kako [ravnati z zlorabo, phishing, ali prevara v Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) in [Napredno Outlook.com varnost za naročnike Office 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
