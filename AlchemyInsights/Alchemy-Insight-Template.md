@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 37398436435fb72cb5c8dca2d0798b86a0c8ccc9
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: b77e514da36701808d46248e8f2a45137751a1c7
+ms.sourcegitcommit: 5447031f9d0a320c49897b8adb5d29ac9437fbc5
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32366347"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35786429"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>Zahteva alkimije glavo H1, H2 je ne dela.
 Najboljše prakse in smernice za alkimijo authoring:
@@ -37,4 +37,6 @@ Najboljše prakse in smernice za alkimijo authoring:
 
 In to je res že malo predolgo. Najboljše prakse je približno 400 znakov---
 
-Ko vsebino, je pripravljen, potegnem v živo veja. Potem obiščite [alkimije Partner portal](https://alchemyportal.azurewebsites.net) in vnesite ime datoteke v polje url. M
+Ko vsebino, je pripravljen, potegnem v živo veja. Potem obiščite [alkimije Partner portal](https://alchemyportal.azurewebsites.net) in vnesite ime datoteke v polje url. 
+
+
