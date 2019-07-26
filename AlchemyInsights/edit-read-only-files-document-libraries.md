@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: ebafb4ec807f6e6b9c26935e766456414212de81
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 5da4914548348418c42e1e1b52d1428c0ed0af9b
+ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132738"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35903954"
 ---
 # <a name="edit-a-read-only-file"></a>Uredite datoteko samo za branje
 
@@ -25,7 +25,7 @@ Namesto da kliknete naslov dokumenta, kliknite **Meni Odpri** (tri pike), in nat
 
 Opombe:
 
-- Če bi raje imeli odprtih za urejanje v Office Online, ko kliknete naslov dokumentov, lahko nastavite knjižnici za to (tako dolgo, kot imate dovoljenje za spreminjanje nastavitev knjižnice).
+- Če bi raje imeli odprtih za urejanje v pisarni, ko kliknete naslov dokumentov, lahko nastavite knjižnici za to (tako dolgo, kot imate dovoljenje za spreminjanje nastavitev knjižnice).
 
 - Če imate knjižnice s Checkout, zahtevanih stolpcih ali kdaj samo uporabniki, ki lahko urejate v različico nastavitve za SharePoint knjižnica dokumentov, elemente sinhronizira samo za branje.
 
