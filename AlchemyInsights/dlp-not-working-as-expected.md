@@ -13,34 +13,38 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 3d8316502b4e51a101197a908cf691f0ab7f845a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1ea457bd69e7d545cf761a0be849695738b19d8b
+ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35389629"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35941084"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP, ki ne deluje po pričakovanjih
 
 Ali imate težave s **Podatki Loss preprečevanje (DLP)** v Office 365, ki ne deluje po pričakovanjih? Če je tako, se prepričajte, da vaš **DLP politike** pravilno nastavljen, in da podatki vsebujejo kaj **DLP politika** išče, ko to ocenjujejo.
   
- **Nastavljanje DLP:**
+ **Nastavljanje DLP**
   
 DLP politike omogoča prepoznavanje in zaščito občutljivih podatkov v organizaciji. Setup DLP politike, uporabljajo informacije [tukaj](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
   
- **Kateri pravilniki DLP iskati:**
+ **Kaj DLP pravila iskati**
   
 Ko uporabljate **vgrajeno občutljivih podatkov vrste** Office 365 varnost in skladnost center, DLP pravila iskati določene vzorce in elementi pri odkrivanju teh občutljivih vrst.
   
-- **Vgrajeno občutljivih podatkov vrste:**
+- **Vgrajeno občutljivih podatkov vrste**
 
     Informacije o vgrajeni občutljivih vrst in kaj DLP politika išče, ko zazna občutljive vrste, glejte: [iskati kakšne vrste občutljivih informacij](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- **Vrste po meri občutljivih informacij:**
+- **Vrste po meri občutljivih informacij**
 
     Če želite ustvariti vrste po meri občutljive informacije, uporabite naslednji članek za informacije o tem, kako ustvariti po meri občutljive vrste: [Ustvari vrsto meri občutljivih informacij](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
 
- **Poročila:**
+**Test DLP politike**
+
+Preizkusiti svoje podatke z vrsto vgrajenih ali prilagojenih občutljive informacije, uporabite **preskus tipa** možnost iz **klasifikacije** > **vrst občutljivih informacij**. Če želite več informacij, glejte [Test meri občutljivih podatkov vrste](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+
+ **Poročila**
   
 - Dobili vpogled občutljivih podatkov s [DLP poročila.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
 
