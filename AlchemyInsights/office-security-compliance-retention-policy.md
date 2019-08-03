@@ -1,25 +1,24 @@
 ---
-title: Nove hranjenja oznake samodejno ustvari
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: Več informacij o hranjenju
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223008"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448851"
 ---
-# <a name="new-retention-labels-created-automatically"></a>Nove hranjenja oznake samodejno ustvari
+# <a name="more-info-about-retention-policies"></a>Več informacij o hranjenju
 
 Za večina organizacij, obseg in kompleksnost njihovih podatkov se povečuje vsak dan - e-pošto, dokumente, neposredna sporočila in več.
-
-Učinkovito upravljanje ali ki urejajo ta podatek je pomemben, hranjenju, ki vam lahko pomagajo doseči te cilje. Če želite več informacij o hranjenju, obiščite spodnje povezave.
+Učinkovito upravljanje ali ki urejajo ta podatek je pomemben, in hranjenju, ki vam lahko pomagajo doseči te cilje. Če želite več informacij o hranjenju, obiščite te povezave:
 
 - [Pregled pravilnikov o hranjenju](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 
