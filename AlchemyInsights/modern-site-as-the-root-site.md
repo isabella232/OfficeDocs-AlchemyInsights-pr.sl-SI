@@ -1,25 +1,31 @@
 ---
 title: Sodobno mesto kot korensko mesto
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
 - "1874"
 - "9000265"
-ms.openlocfilehash: 8b45766e920fa5bd6eab8abc6ef808ae978808dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b30fc3258bb76c0ab4bf10af0ec9317417f7c663
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379657"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232731"
 ---
-# <a name="modern-site-as-root-site"></a><span data-ttu-id="f77d2-102">Sodobno mesto kot korensko mesto</span><span class="sxs-lookup"><span data-stu-id="f77d2-102">Modern site as root site</span></span>
+# <a name="modern-site-as-root-site"></a><span data-ttu-id="4129e-102">Sodobno mesto kot korensko mesto</span><span class="sxs-lookup"><span data-stu-id="4129e-102">Modern site as root site</span></span>
 
-<span data-ttu-id="f77d2-103">V tem trenutku, glede na povratne informacije predogled, smo se odločili prestaviti uvajajo funkcijo omogočiti komunikacijo stran kot korensko mesto.</span><span class="sxs-lookup"><span data-stu-id="f77d2-103">At this time, based on preview feedback, we have decided to postpone rolling out the feature to enable a communication site as a root site.</span></span> <span data-ttu-id="f77d2-104">Opravičujemo se za morebitne nevšečnosti in bo komunicira nov urnik preko centra za sporoèila, ko je na voljo.</span><span class="sxs-lookup"><span data-stu-id="f77d2-104">We apologize for any inconvenience and will communicate a new schedule via Message Center, once it is available.</span></span>
+<span data-ttu-id="4129e-103">Smo začeli uvajanje novost, ki bo omogočilo, da zamenjate vaš vzoren mesto korensko mesto z moderno mesto.</span><span class="sxs-lookup"><span data-stu-id="4129e-103">We have begun to rollout a new feature that will allow you to swap your classic site root site with a modern site.</span></span> <span data-ttu-id="4129e-104">Uporabite [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) da zamenjate mesto mesto z drugim mestom med arhiviranjem na izvirno mesto.</span><span class="sxs-lookup"><span data-stu-id="4129e-104">Use [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) to swap the location of a site with another site while archiving the original site.</span></span> <span data-ttu-id="4129e-105">Na voljo za mesto ekipe (ne povezani skupini) in komunikacija stran.</span><span class="sxs-lookup"><span data-stu-id="4129e-105">Available for both Team Site (not connected to a group) and Communication Site.</span></span> 
 
-<span data-ttu-id="f77d2-105">Trenutno ni mogoče omogočiti komunikacijo mesta kot korensko mesto.</span><span class="sxs-lookup"><span data-stu-id="f77d2-105">Currently, communication sites cannot be enabled as the root site.</span></span>
+>[!Important]
+> <span data-ttu-id="4129e-106">Ne brišite vaše klasične korensko mesto ustvariti mesto sodobne komunikacije.</span><span class="sxs-lookup"><span data-stu-id="4129e-106">Do not delete your classic root site to create a modern Communication Site.</span></span> <span data-ttu-id="4129e-107">To je ne podpira Microsoft.</span><span class="sxs-lookup"><span data-stu-id="4129e-107">This is not supported by Microsoft.</span></span> <span data-ttu-id="4129e-108">Brisanje korenskega mesta bo vsa SharePointova mesta v organizaciji nedostopen za vse uporabnike, dokler obnovitev mesta ali ustvarite novo mesto na istem spletnem naslovu.</span><span class="sxs-lookup"><span data-stu-id="4129e-108">Deleting the root site will make all SharePoint sites in your organization inaccessible to all users, until you restore the site or create a new site at the same URL.</span></span> <span data-ttu-id="4129e-109">Mi bomo komuniciranje lahk prek centra za sporoèila.</span><span class="sxs-lookup"><span data-stu-id="4129e-109">We’ll be communicating this feature via the message center.</span></span> <span data-ttu-id="4129e-110">Vi should slutiti zunanja oblika v obstati obrnjen naprej v vaš najemnik kmalu.</span><span class="sxs-lookup"><span data-stu-id="4129e-110">You should expect the feature to be turned on in your tenant shortly.</span></span>
 
-<span data-ttu-id="f77d2-106">**Pomembno**: ne izbrisati vaš vzoren korensko mesto ustvariti mesto sodobne komunikacije.</span><span class="sxs-lookup"><span data-stu-id="f77d2-106">**Important**: Do not delete your classic root site to create a modern Communication Site.</span></span> <span data-ttu-id="f77d2-107">To je ne podpira Microsoft.</span><span class="sxs-lookup"><span data-stu-id="f77d2-107">This is not supported by Microsoft.</span></span> <span data-ttu-id="f77d2-108">Brisanje korenskega mesta bo vsa SharePointova mesta v organizaciji nedostopen za vse uporabnike, dokler obnovitev mesta ali ustvarite novo mesto na istem spletnem naslovu.</span><span class="sxs-lookup"><span data-stu-id="f77d2-108">Deleting the root site will make all SharePoint sites in your organization inaccessible to all users, until you restore the site or create a new site at the same URL.</span></span>
+## <a name="known-issues-with-swapping-sites"></a><span data-ttu-id="4129e-111">Znane težave z zamenjavo strani</span><span class="sxs-lookup"><span data-stu-id="4129e-111">Known issues with swapping sites</span></span>
+- <span data-ttu-id="4129e-112">Ciljno mesto lahko vrne "not found" napaka (HTTP 404) za kratek čas.</span><span class="sxs-lookup"><span data-stu-id="4129e-112">The target site may return a "not found" (HTTP 404) error for a short period of time.</span></span>
+- <span data-ttu-id="4129e-113">Vsebino morate recrawled želite posodobiti kazalo iskanja.</span><span class="sxs-lookup"><span data-stu-id="4129e-113">Content will need to be recrawled to update the search index.</span></span> <span data-ttu-id="4129e-114">Ni noben priročnik korak zahteva tukaj, to hoteti obstati velja automatically.</span><span class="sxs-lookup"><span data-stu-id="4129e-114">There is no manual step required here, this will be done automatically.</span></span>
+- <span data-ttu-id="4129e-115">Vse, kar je odvisno od "statična" povezave (na primer datoteka sinhronizacijo in OneNote datoteke) morali ročno popraviti.</span><span class="sxs-lookup"><span data-stu-id="4129e-115">Anything dependent on "static" links (such as File Sync and OneNote files) will need to be manually corrected.</span></span>
+- <span data-ttu-id="4129e-116">Projekt strežnika straneh morda morali potrditi, da se zagotovi, da so še vedno povezani pravilno.</span><span class="sxs-lookup"><span data-stu-id="4129e-116">Project Server sites may need to be validated to ensure that they are still associated correctly.</span></span> 
