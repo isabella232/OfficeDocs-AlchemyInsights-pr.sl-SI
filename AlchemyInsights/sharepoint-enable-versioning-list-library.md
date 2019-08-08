@@ -1,20 +1,24 @@
 ---
-title: Omogočajo shranjevanje različic na seznamu ali v knjižnici
-ms.author: kirks
-author: Techwriter40
+title: Različice v SharePoint in OneDrive
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
-ms.openlocfilehash: d75ce74f32e4d51fa18e49a853c7a6a3da641240
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.custom:
+- "5300025"
+- "1702"
+ms.openlocfilehash: 4dc15d360d196f24323c5fd1a557647a8936959f
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223620"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232674"
 ---
-# <a name="enable-versioning-for-a-sharepoint-list-or-library"></a>Omogočajo shranjevanje različic za SharePointov seznam ali knjižnico
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Različice v SharePoint in OneDrive 
 
 
 Ko je omogočeno shranjevanje različic na SharePointovem seznamu ali v knjižnici, lahko shranjevanje, sledenje in obnavljanje elementov na seznamu in datoteke v knjižnici, vsakič, ko se spreminjajo. Različic, v kombinaciji z drugimi nastavitvami, na primer checkout, vam daje veliko nadzora nad vsebino, ki je objavljen na vašo spletno stran in lahko zagotovi realne vrednosti, če imate kdaj treba gledati ali obnoviti staro različico element ali datoteko.

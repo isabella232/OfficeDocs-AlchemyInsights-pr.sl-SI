@@ -1,25 +1,31 @@
 ---
 title: Sodobno mesto kot korensko mesto
-ms.author: kirks
-author: Techwriter40
+ms.author: efrene
+author: efrene
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
 - "1874"
 - "9000265"
-ms.openlocfilehash: 8b45766e920fa5bd6eab8abc6ef808ae978808dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: b30fc3258bb76c0ab4bf10af0ec9317417f7c663
+ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35379657"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36232731"
 ---
 # <a name="modern-site-as-root-site"></a>Sodobno mesto kot korensko mesto
 
-V tem trenutku, glede na povratne informacije predogled, smo se odločili prestaviti uvajajo funkcijo omogočiti komunikacijo stran kot korensko mesto. Opravičujemo se za morebitne nevšečnosti in bo komunicira nov urnik preko centra za sporoèila, ko je na voljo.
+Smo začeli uvajanje novost, ki bo omogočilo, da zamenjate vaš vzoren mesto korensko mesto z moderno mesto. Uporabite [Invoke-SPSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) da zamenjate mesto mesto z drugim mestom med arhiviranjem na izvirno mesto. Na voljo za mesto ekipe (ne povezani skupini) in komunikacija stran. 
 
-Trenutno ni mogoče omogočiti komunikacijo mesta kot korensko mesto.
+>[!Important]
+> Ne brišite vaše klasične korensko mesto ustvariti mesto sodobne komunikacije. To je ne podpira Microsoft. Brisanje korenskega mesta bo vsa SharePointova mesta v organizaciji nedostopen za vse uporabnike, dokler obnovitev mesta ali ustvarite novo mesto na istem spletnem naslovu. Mi bomo komuniciranje lahk prek centra za sporoèila. Vi should slutiti zunanja oblika v obstati obrnjen naprej v vaš najemnik kmalu.
 
-**Pomembno**: ne izbrisati vaš vzoren korensko mesto ustvariti mesto sodobne komunikacije. To je ne podpira Microsoft. Brisanje korenskega mesta bo vsa SharePointova mesta v organizaciji nedostopen za vse uporabnike, dokler obnovitev mesta ali ustvarite novo mesto na istem spletnem naslovu.
+## <a name="known-issues-with-swapping-sites"></a>Znane težave z zamenjavo strani
+- Ciljno mesto lahko vrne "not found" napaka (HTTP 404) za kratek čas.
+- Vsebino morate recrawled želite posodobiti kazalo iskanja. Ni noben priročnik korak zahteva tukaj, to hoteti obstati velja automatically.
+- Vse, kar je odvisno od "statična" povezave (na primer datoteka sinhronizacijo in OneNote datoteke) morali ročno popraviti.
+- Projekt strežnika straneh morda morali potrditi, da se zagotovi, da so še vedno povezani pravilno. 
