@@ -13,29 +13,31 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: ffffbe80c67e223aa7084dd93944c63a055c069e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 186aefa35d6090189df28b15a6a5e4a9bb8b573d
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384337"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390996"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="34833-102">Kako narediti Office 365 nakup</span><span class="sxs-lookup"><span data-stu-id="34833-102">How to make an Office 365 purchase</span></span>
+# <a name="how-to-make-an-office-365-purchase"></a><span data-ttu-id="5c55f-102">Kako narediti Office 365 nakup</span><span class="sxs-lookup"><span data-stu-id="5c55f-102">How to make an Office 365 purchase</span></span>
 
-<span data-ttu-id="34833-103">V Office 365 lahko nakupov v skrbniškem središču.</span><span class="sxs-lookup"><span data-stu-id="34833-103">Purchases in Office 365 can be made In the Admin center.</span></span> <span data-ttu-id="34833-104">Obiščite stran za [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) , ali izberite **zaračunavanje** \> **naročnine**.</span><span class="sxs-lookup"><span data-stu-id="34833-104">Go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+<span data-ttu-id="5c55f-103">V Office 365 lahko nakupov v skrbniškem središču.</span><span class="sxs-lookup"><span data-stu-id="5c55f-103">Purchases in Office 365 can be made in the admin center.</span></span>
   
-- <span data-ttu-id="34833-105">Nakup Office 365, abonma go na strani [Nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) ali izberite **zaračunavanje** \> **Nakup storitev**.</span><span class="sxs-lookup"><span data-stu-id="34833-105">To purchase an Office 365 subscription go to the [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, or choose **Billing** \> **Purchase Services**.</span></span>
+- <span data-ttu-id="5c55f-104">Za nakup Office 365 naročnin pojdite na **zaračunavanje** \> [Nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) strani.</span><span class="sxs-lookup"><span data-stu-id="5c55f-104">To purchase an Office 365 subscription go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-- <span data-ttu-id="34833-106">Za nakup dodatnih licenc, pojdite na stran za [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) , ali izberite **zaračunavanje** \> **naročnine**.</span><span class="sxs-lookup"><span data-stu-id="34833-106">To purchase additional licenses go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span> <span data-ttu-id="34833-107">Na strani **naročnine** , izberite naročnine, ki jih želite dodati licenc za in nato izberite **Dodaj/odstrani licence**.</span><span class="sxs-lookup"><span data-stu-id="34833-107">On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
+- <span data-ttu-id="5c55f-105">Če želite kupiti dodatne licence, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="5c55f-105">To purchase additional licenses, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="5c55f-106">Na strani **naročnine** , izberite naročnine, ki jih želite dodati licenc za in nato izberite **Dodaj/odstrani licence**.</span><span class="sxs-lookup"><span data-stu-id="5c55f-106">On the **Subscriptions** page, choose the subscription that you want to add licenses to, and then choose **Add/Remove licenses**.</span></span>
 
-- <span data-ttu-id="34833-108">Če želite preklopiti na drug načrt:</span><span class="sxs-lookup"><span data-stu-id="34833-108">To switch to a different plan:</span></span>
+- <span data-ttu-id="5c55f-107">Če želite preklopiti na drug načrt:</span><span class="sxs-lookup"><span data-stu-id="5c55f-107">To switch to a different plan:</span></span>
 
-  - <span data-ttu-id="34833-109">Če si želite ogledati seznam novih načrtov, ki so na voljo izberite **stikalo načrtov** .</span><span class="sxs-lookup"><span data-stu-id="34833-109">Choose **Switch plans** to view the list of new plans that are available.</span></span>
+  - <span data-ttu-id="5c55f-108">Če si želite ogledati seznam novih načrtov, ki so na voljo izberite **stikalo načrtov** .</span><span class="sxs-lookup"><span data-stu-id="5c55f-108">Choose **Switch plans** to view the list of new plans that are available.</span></span>
 
-  - <span data-ttu-id="34833-110">Izberite načrt za prikaz novih skupnih stroškov na mesec.</span><span class="sxs-lookup"><span data-stu-id="34833-110">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="34833-111">Bodite prepričani, da preberete ključne informacije, nato izberite **naslednji** odjaviti.</span><span class="sxs-lookup"><span data-stu-id="34833-111">Be sure to read the key information, then choose **Next** to check out.</span></span>
+  - <span data-ttu-id="5c55f-109">Izberite načrt za prikaz novih skupnih stroškov na mesec.</span><span class="sxs-lookup"><span data-stu-id="5c55f-109">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="5c55f-110">Bodite prepričani, da preberete ključne informacije, nato izberite **naslednji** odjaviti.</span><span class="sxs-lookup"><span data-stu-id="5c55f-110">Be sure to read the key information, then choose **Next** to check out.</span></span>
+
+<span data-ttu-id="5c55f-111">Ali uporabljate nov admin center?</span><span class="sxs-lookup"><span data-stu-id="5c55f-111">Are you using the new admin center?</span></span> <span data-ttu-id="5c55f-112">Nova navodila najdete v [vzpenjajoč se v drug načrt](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span><span class="sxs-lookup"><span data-stu-id="5c55f-112">For new steps, see [Upgrade to a different plan](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).</span></span>
   
- <span data-ttu-id="34833-112">**Dodatni viri**</span><span class="sxs-lookup"><span data-stu-id="34833-112">**Additional Resources**</span></span>
+ <span data-ttu-id="5c55f-113">**Dodatni viri**</span><span class="sxs-lookup"><span data-stu-id="5c55f-113">**Additional Resources**</span></span>
   
-- [<span data-ttu-id="34833-113">Dodelite licence za uporabnike v Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="34833-113">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
+- [<span data-ttu-id="5c55f-114">Dodelite licence za uporabnike v Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="5c55f-114">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [<span data-ttu-id="34833-114">Prekliči Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="34833-114">Cancel Office 365 for Business</span></span>](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
+- [<span data-ttu-id="5c55f-115">Prekliči Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="5c55f-115">Cancel Office 365 for Business</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

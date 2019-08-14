@@ -13,14 +13,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 97a87c56f3f6e9ecea7613b0ecdbdd707d387818
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6e97c87e7937e766d0df06b366890f43f2484938
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35378937"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390708"
 ---
-# <a name="compare-office-365-for-business"></a><span data-ttu-id="7b9d4-102">Primerjajte Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="7b9d4-102">Compare Office 365 for Business</span></span>
+# <a name="compare-office-365-for-business"></a><span data-ttu-id="5b3ab-102">Primerjajte Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="5b3ab-102">Compare Office 365 for Business</span></span>
 
-<span data-ttu-id="7b9d4-103">Obstajajo tri različne načrte na voljo z Office 365 za podjetja.</span><span class="sxs-lookup"><span data-stu-id="7b9d4-103">There are three different plans available with Office 365 for Business.</span></span> <span data-ttu-id="7b9d4-104">[Primerjajte Office 365 za poslovne načrte in cene](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span><span class="sxs-lookup"><span data-stu-id="7b9d4-104">[Compare Office 365 for Business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>
-  
+<span data-ttu-id="5b3ab-103">Obstajajo tri različne načrte na voljo z Office 365 za podjetja.</span><span class="sxs-lookup"><span data-stu-id="5b3ab-103">There are three different plans available with Office 365 for Business.</span></span> <span data-ttu-id="5b3ab-104">[Primerjajte Office 365 za poslovne načrte in cene](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span><span class="sxs-lookup"><span data-stu-id="5b3ab-104">[Compare Office 365 for Business plans and pricing](https://products.office.com/compare-all-microsoft-office-products?tab=2).</span></span>  

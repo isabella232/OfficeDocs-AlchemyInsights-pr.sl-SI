@@ -13,31 +13,29 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359382"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386924"
 ---
-# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a><span data-ttu-id="031a4-102">Nakup naročnino za Office 365 iz vaše poskusne</span><span class="sxs-lookup"><span data-stu-id="031a4-102">Buy a subscription to Office 365 from your free trial</span></span>
+# <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a><span data-ttu-id="398e7-102">Nakup naročnino za Office 365 iz vaše poskusne</span><span class="sxs-lookup"><span data-stu-id="398e7-102">Buy a subscription to Office 365 from your free trial</span></span>
 
-<span data-ttu-id="031a4-103">Ste že poskusili Office 365, in sedaj ste pripravljeni kupiti.</span><span class="sxs-lookup"><span data-stu-id="031a4-103">You've tried Office 365, and now you're ready to buy.</span></span> <span data-ttu-id="031a4-104">Imate dve možnosti, pri nakupu Office 365 od svoj poskus prevod.</span><span class="sxs-lookup"><span data-stu-id="031a4-104">You have two options when buying Office 365 from your trial version.</span></span>
+<span data-ttu-id="398e7-103">Ste že poskusili Office 365, in sedaj ste pripravljeni kupiti.</span><span class="sxs-lookup"><span data-stu-id="398e7-103">You've tried Office 365, and now you're ready to buy.</span></span> <span data-ttu-id="398e7-104">Imate dve možnosti, pri nakupu Office 365 od svoj poskus prevod.</span><span class="sxs-lookup"><span data-stu-id="398e7-104">You have two options when buying Office 365 from your trial version.</span></span>
   
- <span data-ttu-id="031a4-105">**Kupite lahko enak načrt, kot vaš poskus**</span><span class="sxs-lookup"><span data-stu-id="031a4-105">**You can buy the same plan as your trial**</span></span>
+ <span data-ttu-id="398e7-105">**Kupite lahko enak načrt, kot vaš poskus**</span><span class="sxs-lookup"><span data-stu-id="398e7-105">**You can buy the same plan as your trial**</span></span>
   
-1. <span data-ttu-id="031a4-106">V Skrbniškem središču odprite stran [Naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) ali pa izberite **Obračunavanje** \> **Naročnine**.</span><span class="sxs-lookup"><span data-stu-id="031a4-106">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="398e7-106">V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="398e7-106">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="031a4-107">Izberite **zdaj kupiti** za preskusno naročnino, ki jih želite, in sledite navodilom, da preverite.</span><span class="sxs-lookup"><span data-stu-id="031a4-107">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span>
+2. <span data-ttu-id="398e7-107">Izberite **zdaj kupiti** za preskusno naročnino, ki jih želite, in sledite navodilom, da preverite.</span><span class="sxs-lookup"><span data-stu-id="398e7-107">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span>
 
-<span data-ttu-id="031a4-108">ali **lahko kupite drugo**</span><span class="sxs-lookup"><span data-stu-id="031a4-108">or **You can buy a different subscription**</span></span>
+<span data-ttu-id="398e7-108">ali **lahko kupite drugo**</span><span class="sxs-lookup"><span data-stu-id="398e7-108">or **You can buy a different subscription**</span></span>
   
-1. <span data-ttu-id="031a4-109">Prijavite se v Office 365 z računom delo ali v šolo kot globalni admin. [Naučite se vpisati](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span><span class="sxs-lookup"><span data-stu-id="031a4-109">Sign in to Office 365 with your work or school account as a global admin. [Learn how to sign in](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).</span></span>
+1. <span data-ttu-id="398e7-109">V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="398e7-109">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="031a4-110">Izberite **Office 365** na začetni strani.</span><span class="sxs-lookup"><span data-stu-id="031a4-110">Choose **Office 365** on the start page.</span></span>
+2. <span data-ttu-id="398e7-110">**Naročnina** na strani, izberite **Dodaj naročnine**.</span><span class="sxs-lookup"><span data-stu-id="398e7-110">On the **Subscription** page, select **Add subscriptions**.</span></span>
 
-3. <span data-ttu-id="031a4-111">V zgornjem desnem kotu strani pod vrstico za krmarjenje izberite **nakup**.</span><span class="sxs-lookup"><span data-stu-id="031a4-111">At the top right-hand corner of the page, under the navigation bar, choose **Purchase**.</span></span>
+3. <span data-ttu-id="398e7-111">Poišči naročnino, ki ga želite kupiti, **Kupi zdaj**izberite in sledite korakom, da preverite.</span><span class="sxs-lookup"><span data-stu-id="398e7-111">Find the subscription that you want to buy, select **Buy Now**, and follow the steps to check out.</span></span>
 
-4. <span data-ttu-id="031a4-112">Na strani **nabave naročnine** , načrt, ki ga je **V poskus** banner.</span><span class="sxs-lookup"><span data-stu-id="031a4-112">On the **Purchase subscriptions** page, the plan you're trying has an **In Trial** banner.</span></span>
-
-5. <span data-ttu-id="031a4-113">Izberite **zdaj kupiti** za preskusno naročnino, ki jih želite, in sledite navodilom, da preverite.</span><span class="sxs-lookup"><span data-stu-id="031a4-113">Choose **Buy now** for the trial subscription that you want, and follow the steps to check out.</span></span>
+<span data-ttu-id="398e7-112">Ali uporabljate nov admin center?</span><span class="sxs-lookup"><span data-stu-id="398e7-112">Are you using the new admin center?</span></span> <span data-ttu-id="398e7-113">Nova navodila najdete [kupiti naročnina na Office 365 za podjetja iz vaše brezplačno sojenje](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).</span><span class="sxs-lookup"><span data-stu-id="398e7-113">For new steps, see [Buy a subscription to Office 365 for business from your free trial](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).</span></span>
