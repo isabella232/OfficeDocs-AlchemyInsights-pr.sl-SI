@@ -13,18 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 5365cef480f22523e8410acf24f4845026f52a02
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 84538224f9f00f5807489449f3d5e75b99656313
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359781"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386960"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Preklic naročnine Office 365?
 
 Smo žal da si šel!
   
-Glede na podatke, verjamemo, da vse vaše trenutne naročnine so manj kot 25 sedežev. Če želite preklicati naročnino na spletu, obiščite stran za [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) ali iti **obračun** \> **naročnine**, izberite **več dejanj** \> **preklicati naročnino**.
+Glede na podatke, verjamemo, da vse vaše trenutne naročnine so manj kot 25 sedežev. Če želite preklicati naročnino na spletu, pojdite na **zaračunavanje** \> [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) stran, nato pa izberite **več ukrepov,** \> **preklicati naročnino**.
   
-Če želite izvedeti več o preklic naročnine ali podrobna navodila, glejte ta članek: [Prekliči Office 365 Beta za podjetja](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
-  
+Če želite izvedeti več o preklic naročnine ali podrobna navodila, glejte ta članek: [Prekliči naročnino](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

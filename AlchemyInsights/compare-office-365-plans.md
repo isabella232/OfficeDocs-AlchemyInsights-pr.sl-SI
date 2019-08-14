@@ -13,12 +13,12 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: f9635956184ed2bb46772b7a2f25c4798a1aa082
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2bc74bf0d2bbb12a0973abf045020ce9b39014cf
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362229"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386636"
 ---
 # <a name="compare-office-365-plans"></a>Primerjajte Office 365 načrtov
 
@@ -28,7 +28,6 @@ Office 365 načrti so na voljo za [podjetja](https://products.office.com/compare
   
 Če vaša organizacija zanima primerjava vseh načrtov in cen, pregled [primerjati vse načrte Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Če vaša organizacija je že kupila načrt Office 365 in zanima prehod na drug načrt, lahko tako Microsoft 365 admin center iti [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054), ali izberete **obračun** \> **naročnine**. Če si želite ogledati seznam novih načrtov, ki so na voljo izberite **stikalo načrtov** .
+Če vaša organizacija je že kupila načrt Office 365 in zanima prehod na drug načrt, lahko to storite iz Microsoft 365 admin center. Pojdi na **zaračunavanje** \> [naročnine na](https://go.microsoft.com/fwlink/p/?linkid=842054) stran, nato pa izberite **stikalo načrtov** seznam novih načrtov, ki so na voljo.
   
-Organizaciji lahko tudi premeša in se ujemajo Office 365 načrte, da zadovoljijo potrebe in zahteve funkcijo uporabnikov. Od Office 365 Admin, pojdite na strani [Nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) ali izberite **zaračunavanje** \> **Nakup storitev**.
-  
+Organizaciji lahko tudi premeša in se ujemajo Office 365 načrte, da zadovoljijo potrebe in zahteve funkcijo uporabnikov. Iz centra za admin, pojdite na **zaračunavanje** \> [Nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) strani.

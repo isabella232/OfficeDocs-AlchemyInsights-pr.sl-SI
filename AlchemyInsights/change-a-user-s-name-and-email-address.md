@@ -13,17 +13,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: eed44dfe96d90122f40df30383126593e5ffe4b6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2cc2f98ee06c8a0c0a62c3fe8ab2ac3478170fad
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360537"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387140"
 ---
 # <a name="change-a-users-name-and-email-address"></a>Sprememba a uporabnik ime ter email ogovor
 
-Sprememba a uporabnik ime ter email ogovor je enostaven! Iti k [Aktivnih uporabnikov](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) ter izbrati uporabnik v izdajati svoje podatke. V tem članku lahko uporabite tudi za navodila po korakih:
+Sprememba a uporabnik ime ter email ogovor je enostaven! Pojdi **uporabnikom** \> [Aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) in izberite uporabnik, uredite svoje podatke. V tem članku lahko uporabite tudi za navodila po korakih:
   
-[Sprememba uporabnik ime ter email ogovor v Office 365](https://support.office.com/article/Change-a-user-name-and-email-address-in-Office-365-fb5ac074-e203-4e1f-9843-b9d1a3e03297?wt.mc_id=change_email_AI.aspx)
+[Sprememba uporabnik ime ter email ogovor v Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/change-a-user-name-and-email-address)
   
  **Opomba**: Če spremenite uporabnika glavni e-poštni naslov, svoj star email ogovor še vedno velja za prejemanje e-pošte (to se zgodi samodejno). Tudi, če vaša organizacija v hibridni stanju, vsi email ter uporabnik ime spremembe morali storiti v krajevnem imeniku Active Directory in nato sinhronizirano z oblakom.

@@ -13,18 +13,18 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 91b2ddf5a121595ecec8790ae625849894b01875
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358557"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385628"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Sedeži dodate predplačane naročnino
 
-1. V Skrbniškem središču odprite stran [Naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) ali pa izberite **Obračunavanje** \> **Naročnine**.
+1. V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Izberite predplačniške naročnino, ki bi želeli dodati uporabnike.
+2. Izberite predplačniške naročnino, ki bi želeli dodati uporabnike za.
 
 3. V meniju **»več dejanj«** izberite **Obnovi ali dodati licenco z žetonom**.
 
@@ -35,3 +35,5 @@ ms.locfileid: "35358557"
 6. Vnesite ključ izdelka, in izberite **naslednjo**.
 
 7. Izberite možnost, da dodate več uporabnikov, izberite **naslednji**, nato pa izberite **izkoristi**.
+
+Ali uporabljate nov admin center? Nove korake, glejte [Dodajanje licenc za ali razširiti naročnino, ki se plača za uporabo a zmnožek zakleniti](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
