@@ -13,14 +13,13 @@ ms.custom:
 - "473"
 - "1500027"
 ms.assetid: 9703c272-2836-4ca2-9d91-cf1e86120dea
-ms.openlocfilehash: e8da624ce045d31cf67dfbdf51cc06bf126f2ac0
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d48e28a3166b3b7f55abdd1e25b830c6dbe0ee56
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371052"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388508"
 ---
-# <a name="price-doesnt-look-correct"></a><span data-ttu-id="b3184-102">Cena ni videti pravilna?</span><span class="sxs-lookup"><span data-stu-id="b3184-102">Price doesn't look correct?</span></span>
+# <a name="price-doesnt-look-correct"></a><span data-ttu-id="c3a51-102">Cena ni videti pravilna?</span><span class="sxs-lookup"><span data-stu-id="c3a51-102">Price doesn't look correct?</span></span>
 
-<span data-ttu-id="b3184-103">Če je cena na vašem računu ni videti pravilno, to strjena lava obstati zaradi spremembe cene v obnovo.</span><span class="sxs-lookup"><span data-stu-id="b3184-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="b3184-104">Če ne verjamete, pojasnjuje to vprašanje, prosimo, uporabite možnost »naj vas pokličemo« govoriti z inženirjem za podporo.</span><span class="sxs-lookup"><span data-stu-id="b3184-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
-  
+<span data-ttu-id="c3a51-103">Če je cena na vašem računu ni videti pravilno, to strjena lava obstati zaradi spremembe cene v obnovo.</span><span class="sxs-lookup"><span data-stu-id="c3a51-103">If the price on your invoice doesn't look correct, this could be due to a price change at renewal.</span></span> <span data-ttu-id="c3a51-104">Če ne verjamete, pojasnjuje to vprašanje, prosimo, uporabite možnost »naj vas pokličemo« govoriti z inženirjem za podporo.</span><span class="sxs-lookup"><span data-stu-id="c3a51-104">If you don't believe this explains the issue, please use the "Let us call you" option to talk to a support engineer.</span></span>
