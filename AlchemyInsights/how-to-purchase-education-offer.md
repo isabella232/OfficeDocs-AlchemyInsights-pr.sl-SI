@@ -14,23 +14,21 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f2603b0ae3d739de43c1ed6bcf7703fcd4c5379c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 208eb40788fcf27332245e4590ad204709b32371
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384245"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36390204"
 ---
 # <a name="how-to-purchase-education-offer"></a>Kako kupiti ponudbo izobraževanja
 
 Ko so bili odobreni za Office 365 izobraževanja. Za nakup:
   
-1. V Skrbniškem središču odprite stran [Naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) ali pa izberite **Obračunavanje** \> **Naročnine**.
-    
-2. Izberite poskus za **študente in fakultete**.
-    
-3. Izberite **Kupi zdaj** na poskus, ki ga želite kupiti. 
-    
-Če želite skleniti naročnino, ki ni nujno v preskušanju, pojdite na strani [Nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) ali izberite **zaračunavanje** \> **Nakup storitve**, in izberite s seznama pod **Izobraževanje načrtov**.
-  
+1. V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
+2. Izberite poskus za **študente in fakultete**.
+
+3. Izberite **Kupi zdaj** na poskus, ki ga želite kupiti. 
+
+Če želite skleniti naročnino, ki ni nujno v preskušanju, pojdite na **zaračunavanje** \> [Nakup storitve](https://go.microsoft.com/fwlink/p/?linkid=868433) strani, in izberite s seznama pod **Izobraževanje načrtov**.

@@ -13,19 +13,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bfee2039e20f69ceffec5946fdbf3f7ec15c8396
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365469"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387778"
 ---
 # <a name="view-my-bill"></a>Poglej si moj račun
 
-1. V središču Admin, pojdite na stran z [računi](https://go.microsoft.com/fwlink/p/?linkid=848039) ali izberite **zaračunavanje** \> **računov**.
+1. V središču admin, pojdite na **zaračunavanje** \> strani [menice](https://go.microsoft.com/fwlink/p/?linkid=848039) .
 
 2. Izberite mesec in datum računa, ki ga želite, in nato izberite **pogled**.
 
 3. Izberite nalog, in nato izberite **Ogled podrobnosti**.
 
-Za več informacij glej [pogled na vaš račun ali računa](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).
+Za več informacij glej [pogled na vaš račun ali računa](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
