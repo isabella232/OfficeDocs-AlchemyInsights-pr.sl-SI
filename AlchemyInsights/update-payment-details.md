@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903732"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387786"
 ---
 # <a name="update-payment-details"></a>Posodobitev podrobnosti plačila
 
-1. V skrbniškem središču pojdite na stran [Načini plačila](https://go.microsoft.com/fwlink/p/?linkid=2018806) ali izberite **Obračunavanje** \> **Načini plačila**.
+1. V skrbniškem središču odprite stran **Obračunavanje** \> [Način plačila](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > Če pride do ponavljanja, ki vas pošlje nazaj na domačo stran za skrbništvo, preden dokončate posodobitve, poskusite način Inprivate ali Incognito.
@@ -37,4 +37,4 @@ ms.locfileid: "35903732"
 
 5. Če želite odstraniti ta način plačila, izberite **Izbriši**.
 
-Če želite več informacij, glejte [Dodajanje, posodabljanje ali odstranjevanje kreditne kartice ali bančnega računa v storitvi Office 365 za podjetja](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) in [Odpravljanje težav z kreditnimi karticami in bančnimi računi](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+Če želite več informacij, glejte [Dodajanje, posodabljanje ali odstranjevanje kreditne kartice ali bančnega računa v storitvi Office 365 za podjetja](https://docs.microsoft.com/sl-SI/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) in [Odpravljanje težav z kreditnimi karticami in bančnimi računi](https://docs.microsoft.com/sl-SI/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
