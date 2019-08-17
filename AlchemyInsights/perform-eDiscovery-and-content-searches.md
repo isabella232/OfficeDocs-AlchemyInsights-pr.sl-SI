@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371449"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444788"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a><span data-ttu-id="01cfc-102">Kako izvesti vsebine iskanj in iskanj eDiscovery</span><span class="sxs-lookup"><span data-stu-id="01cfc-102">How to perform Content Searches and eDiscovery searches</span></span>
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a><span data-ttu-id="148ef-102">Kako izvesti vsebine iskanj in iskanj eDiscovery</span><span class="sxs-lookup"><span data-stu-id="148ef-102">How to perform Content Searches and eDiscovery searches</span></span>
 
-<span data-ttu-id="01cfc-103">**Išči vsebino**</span><span class="sxs-lookup"><span data-stu-id="01cfc-103">**Content Search**</span></span>
+<span data-ttu-id="148ef-103">Uporaba vsebine preiskava orodje v varnost & skladnosti Center za hitro iskanje e-pošte v Exchangevih nabiralnikih, dokumente v SharePointovih mest in OneDrive račun in takojšnje sporočanje pogovorov v Skype za poslovanje.</span><span class="sxs-lookup"><span data-stu-id="148ef-103">Use the Content Search tool in the Security & Compliance Center to quickly find email in Exchange mailboxes, documents in SharePoint sites and OneDrive account, and instant messaging conversations in Skype for Business.</span></span> <span data-ttu-id="148ef-104">Uporabite lahko tudi vsebine preiskava orodje v težnja po email, dokumentov, ter trenutek vest pogajanja v Office 365 sodelovanje orodja, kot so Microsoft Teams in Office 365 skupine.</span><span class="sxs-lookup"><span data-stu-id="148ef-104">You can also use the Content Search Tool to search for email, documents, and instant messaging conversations in Office 365 collaboration tools such as Microsoft Teams and Office 365 Groups.</span></span>
 
-1. <span data-ttu-id="01cfc-104">Iti k [varnost & skladnosti Center](https://protection.office.com) in se vpišite.</span><span class="sxs-lookup"><span data-stu-id="01cfc-104">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
-2. <span data-ttu-id="01cfc-105">Kliknite **Išči & preiskave > vsebina iskanje**.</span><span class="sxs-lookup"><span data-stu-id="01cfc-105">Click **Search & investigation > Content search**.</span></span>
-3. <span data-ttu-id="01cfc-106">Kliknite **novo iskanje** za ustvarjanje novega iskanja.</span><span class="sxs-lookup"><span data-stu-id="01cfc-106">Click **New search** to create a new search.</span></span>
-4. <span data-ttu-id="01cfc-107">Vnesite zahtevane iskalne pogoje, vključno z ključnih besed in vsebine mesta.</span><span class="sxs-lookup"><span data-stu-id="01cfc-107">Enter the required search conditions including keywords and content locations.</span></span>  
-5. <span data-ttu-id="01cfc-108">Kliknite **Shrani & teči** ime iskanje, zagnati, in nato predogled rezultatov.</span><span class="sxs-lookup"><span data-stu-id="01cfc-108">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
+<span data-ttu-id="148ef-105">**Vsebine za iskanje**</span><span class="sxs-lookup"><span data-stu-id="148ef-105">**To perform a content search**</span></span>
 
-<span data-ttu-id="01cfc-109">Podrobna navodila o ustvarjanju iskanja in izvoz rezultatov, glejte [Ta članek](https://docs.microsoft.com/office365/securitycompliance/content-search).</span><span class="sxs-lookup"><span data-stu-id="01cfc-109">For detailed instructions about creating searches and exporting results, see [this article](https://docs.microsoft.com/office365/securitycompliance/content-search).</span></span>
+1. <span data-ttu-id="148ef-106">Iti k [varnost & skladnosti Center](https://protection.office.com) in se vpišite.</span><span class="sxs-lookup"><span data-stu-id="148ef-106">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
+2. <span data-ttu-id="148ef-107">Kliknite **Išči > vsebine**.</span><span class="sxs-lookup"><span data-stu-id="148ef-107">Click **Search > Content search**.</span></span>
+3. <span data-ttu-id="148ef-108">Kliknite **novo iskanje** za ustvarjanje novega iskanja.</span><span class="sxs-lookup"><span data-stu-id="148ef-108">Click **New search** to create a new search.</span></span>
+4. <span data-ttu-id="148ef-109">Vnesite zahtevane iskalne pogoje, vključno z ključnih besed in vsebine mesta.</span><span class="sxs-lookup"><span data-stu-id="148ef-109">Enter the required search conditions including keywords and content locations.</span></span>  
+5. <span data-ttu-id="148ef-110">Kliknite **Shrani & teči** ime iskanje, zagnati, in nato predogled rezultatov.</span><span class="sxs-lookup"><span data-stu-id="148ef-110">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
 
-<span data-ttu-id="01cfc-110">**eDiscovery iskanja**</span><span class="sxs-lookup"><span data-stu-id="01cfc-110">**eDiscovery searches**</span></span>
+<span data-ttu-id="148ef-111">Podrobna navodila o vsebine iskanja, izvoz rezultatov in ustvarjanje eDiscovery primerih podatke, si oglejte [Vsebino](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) in [e-odkrivanje primerov](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).</span><span class="sxs-lookup"><span data-stu-id="148ef-111">For detailed instructions about Content searches, exporting results, and creating eDiscovery cases to hold data, see [Content Search](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) and [eDiscovery cases](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).</span></span>
 
-1. <span data-ttu-id="01cfc-111">Iti k [varnost & skladnosti Center](https://protection.office.com) in se vpišite.</span><span class="sxs-lookup"><span data-stu-id="01cfc-111">Go to the [Security & Compliance Center](https://protection.office.com) and sign in.</span></span>
-2. <span data-ttu-id="01cfc-112">Kliknite **Išči & preiskave > eDiscovery**.</span><span class="sxs-lookup"><span data-stu-id="01cfc-112">Click **Search & investigation > eDiscovery**.</span></span>
-3. <span data-ttu-id="01cfc-113">Odpreti obstoječe ohišje ali ustvarite novega.</span><span class="sxs-lookup"><span data-stu-id="01cfc-113">Open an existing case or create a new one.</span></span>
-4. <span data-ttu-id="01cfc-114">Na primeru domači strani, kliknite jeziček **Iskanje** .</span><span class="sxs-lookup"><span data-stu-id="01cfc-114">On the case home page, click the **Searches** tab.</span></span>  
-5. <span data-ttu-id="01cfc-115">Kliknite **novo iskanje** za ustvarjanje novega iskanja.</span><span class="sxs-lookup"><span data-stu-id="01cfc-115">Click **New search** to create a new search.</span></span>
-6. <span data-ttu-id="01cfc-116">Vnesite zahtevane iskalne pogoje, vključno z ključnih besed in vsebine mesta.</span><span class="sxs-lookup"><span data-stu-id="01cfc-116">Enter the required search conditions including keywords and content locations.</span></span>  
-7. <span data-ttu-id="01cfc-117">Kliknite **Shrani & teči** ime iskanje, zagnati, in nato predogled rezultatov.</span><span class="sxs-lookup"><span data-stu-id="01cfc-117">Click **Save & run** to name the search, start it, and then preview the results.</span></span>
-
-<span data-ttu-id="01cfc-118">Za podrobna navodila o ustvarjanju iskanj, povezanih z primeru eDiscovery in izvoz rezultatov, glejte [Ta članek](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).</span><span class="sxs-lookup"><span data-stu-id="01cfc-118">For detailed instructions about creating searches associated with an eDiscovery case and exporting results, see [this article](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).</span></span>
+<span data-ttu-id="148ef-112">Razumeti več o iskanju vsebine s pregledom [zahteve in omejitve](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) in [preiskuje delno indeksirane postavke](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) in druge rezultate zavedati.</span><span class="sxs-lookup"><span data-stu-id="148ef-112">Understand more about Content Search by reviewing the [requirements and limits](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) and  [investigating partially indexed items](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) and other results to be aware of.</span></span>
