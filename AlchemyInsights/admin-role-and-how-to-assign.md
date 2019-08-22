@@ -13,20 +13,20 @@ ms.custom:
 - "2"
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: d6f53873a58f5d0a09ae9042eb54a254a65e0fe6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ebab0e09aa2eb4a1605a44a670489fbe5660be32
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35357837"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36493932"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="d074c-102">Kaj so admin vloge in kako jih dodelite?</span><span class="sxs-lookup"><span data-stu-id="d074c-102">What are admin roles and how do you assign them?</span></span>
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a><span data-ttu-id="dc004-102">Kaj so admin vloge in kako jih dodelite?</span><span class="sxs-lookup"><span data-stu-id="dc004-102">What are admin roles and how do you assign them?</span></span>
 
-<span data-ttu-id="d074c-103">Izgleda, da imate nekaj vprašanj o admin vloge.</span><span class="sxs-lookup"><span data-stu-id="d074c-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="d074c-104">Teh člankov je odgovoriti na vsa vaša vprašanja.</span><span class="sxs-lookup"><span data-stu-id="d074c-104">These articles should answer all your questions.</span></span>
+<span data-ttu-id="dc004-103">Izgleda, da imate nekaj vprašanj o admin vloge.</span><span class="sxs-lookup"><span data-stu-id="dc004-103">Looks like you have some questions about admin roles.</span></span> <span data-ttu-id="dc004-104">Teh člankov je odgovoriti na vsa vaša vprašanja.</span><span class="sxs-lookup"><span data-stu-id="dc004-104">These articles should answer all your questions.</span></span>
   
-- [<span data-ttu-id="d074c-105">O Office 365 admin vloge</span><span class="sxs-lookup"><span data-stu-id="d074c-105">About Office 365 admin roles</span></span>](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
+- [<span data-ttu-id="dc004-105">O Office 365 admin vloge</span><span class="sxs-lookup"><span data-stu-id="dc004-105">About Office 365 admin roles</span></span>](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d.aspx)
 
-- [<span data-ttu-id="d074c-106">Dodeli vloge admin</span><span class="sxs-lookup"><span data-stu-id="d074c-106">Assign admin roles</span></span>](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
+- [<span data-ttu-id="dc004-106">Dodeli vloge admin</span><span class="sxs-lookup"><span data-stu-id="dc004-106">Assign admin roles</span></span>](https://support.office.com/article/assign-eac4d046-1afd-4f1a-85fc-8219c79e1504.aspx)
 
-<span data-ttu-id="d074c-107">Ni odgovor na vaše vprašanje?</span><span class="sxs-lookup"><span data-stu-id="d074c-107">Didn't answer your question?</span></span> <span data-ttu-id="d074c-108">brez težav!</span><span class="sxs-lookup"><span data-stu-id="d074c-108">No problem!</span></span> <span data-ttu-id="d074c-109">Z možnostjo "naj nas pokličeš" govoriti inženir za podporo.</span><span class="sxs-lookup"><span data-stu-id="d074c-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="dc004-107">Ni odgovor na vaše vprašanje?</span><span class="sxs-lookup"><span data-stu-id="dc004-107">Didn't answer your question?</span></span> <span data-ttu-id="dc004-108">brez težav!</span><span class="sxs-lookup"><span data-stu-id="dc004-108">No problem!</span></span> <span data-ttu-id="dc004-109">Z možnostjo "naj nas pokličeš" govoriti inženir za podporo.</span><span class="sxs-lookup"><span data-stu-id="dc004-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
   
