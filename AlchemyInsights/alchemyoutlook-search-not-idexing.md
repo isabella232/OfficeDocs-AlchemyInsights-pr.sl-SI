@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: 4b55ef73a9234f605fd3dd02dc801866273be1a6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: eab8994e85149e0e4b6c0ed8ae455820cd78607a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397950"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36505847"
 ---
 # <a name="outlook-search-not-indexing"></a>Razgled preiskava ni indeks
 
 Zavedamo se Outlook Išči vprašanj povezanih z zadnjih varnostnih posodobitev za Windows.
   
-Ko iščete v Outlooku, lahko vi zaslužiti to zmota: ** šlo nekaj narobe in iskanja ni mogel dokončati **, ali **bodo rezultati iskanja morda nepopolni, ker še vedno poteka indeksiranje elementov**. Pritrditi je bil izdan kot izbirno okno modernizirati. Namestite enega, ki ustreza različici sistema Windows, ki ste videli to vprašanje na: 
+Ko iščete v Outlooku, lahko dobite eno od teh napak: **nekaj je šlo narobe in iskanja ni bilo mogoče dokončati**, ali **bodo rezultati iskanja morda nepopolni, ker še vedno poteka indeksiranje elementov**. Pritrditi je bil izdan kot izbirno okno modernizirati. Namestite enega, ki ustreza različici sistema Windows, ki ste videli to vprašanje na: 
   
 > [Windows 7 - 27 junij 2017 posodobitev](https://support.microsoft.com/kb/4022168.aspx)
     
