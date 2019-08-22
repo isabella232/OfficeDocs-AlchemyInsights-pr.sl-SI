@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a6ff804fae307212c454b80ead863667dbdbe781
-ms.sourcegitcommit: ec6f8091c3d96c2d28296b70ecf6ee2857f9c335
+ms.openlocfilehash: bb5d99e767d5344bab509df4fe2349e8760bf17b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35121390"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513123"
 ---
 # <a name="delete-a-site-collection"></a>Izbriši zbirko spletnih mest
 
@@ -28,4 +28,4 @@ Ko izbrišete mesto, vse, kar je v njem je izbrisan, vključno:
 
 Preden izbrišete mesto, tako da lahko premaknete svoje podatke na drugo mesto, in tudi pripovedati uporabnik, ko bodo izbrisane strani morajo obvestiti administratorji strani in vsako podmesto lastniki. 
 
-Če želite več informacij, glejte [brisanje zbirke mest](https://docs.microsoft.com/en-us/sharepoint/delete-site-collection). 
+Če želite več informacij, glejte [brisanje zbirke mest](https://docs.microsoft.com/sharepoint/delete-site-collection). 

@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 20e3110c61599ebd8548f0aedc53c644132c7766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5af9236bfb208dd4c2f2a60e8122b3392a4eb222
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35364029"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36516687"
 ---
-# <a name="control-creation-of-o365-groups"></a>Ustvarjanje kontrolnikov O365 skupin
+# <a name="control-creation-of-office-365-groups"></a>Ustvarjanje kontrolnikov Office 365 skupin
 
-Privzeto so vsi uporabniki v podjetju zmožen tvoriti O365 skupine. Če je potrebno, ste lahko spremenite to, in dodeli pravico, da ustvarite O365 skupine v skupino ljudi v vašem podjetju. Upoštevajte, da bo to imelo vpliv na nastanek skupine iz O365 storitev (na primer Outlook, ekipe, načrtovalec in tako naprej).
+Privzeto so vsi uporabniki v podjetju lahko ustvarite skupine. Če je potrebno, ste lahko spremenite to, in dodeli pravico, da ustvarite skupine v skupino ljudi v vašem podjetju. Upoštevajte, da bo to imelo vpliv na nastanek skupine iz storitev Office 365 (na primer Outlook, ekipe, načrtovalec in tako naprej).
   
 Navodila: [upravljanje, ki lahko ustvari Office 365 skupine](https://docs.microsoft.com/office365/admin/create-groups/manage-creation-of-groups)

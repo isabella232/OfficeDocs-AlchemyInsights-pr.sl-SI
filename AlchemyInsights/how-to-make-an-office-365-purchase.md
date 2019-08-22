@@ -13,31 +13,23 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 186aefa35d6090189df28b15a6a5e4a9bb8b573d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3d4a30dc8b27be8fbb428addb867f89965a4cb12
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390996"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540305"
 ---
 # <a name="how-to-make-an-office-365-purchase"></a>Kako narediti Office 365 nakup
 
 V Office 365 lahko nakupov v skrbniškem središču.
   
-- Za nakup Office 365 naročnin pojdite na **zaračunavanje** \> [Nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) strani.
+- Za nakup Office 365 subscriptio, pojdite na **zaračunavanje** \> [nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) strani.
 
-- Če želite kupiti dodatne licence, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) . Na strani **naročnine** , izberite naročnine, ki jih želite dodati licenc za in nato izberite **Dodaj/odstrani licence**.
-
-- Če želite preklopiti na drug načrt:
-
-  - Če si želite ogledati seznam novih načrtov, ki so na voljo izberite **stikalo načrtov** .
-
-  - Izberite načrt za prikaz novih skupnih stroškov na mesec. Bodite prepričani, da preberete ključne informacije, nato izberite **naslednji** odjaviti.
-
-Ali uporabljate nov admin center? Nova navodila najdete v [vzpenjajoč se v drug načrt](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+- Če želite kupiti dodatne licence, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani. Izberite naročnine, ki jih želite dodati licenc za, in nato izberite **Dodaj/odstrani licence**.
   
  **Dodatni viri**
   
-- [Dodelite licence za uporabnike v Office 365 za podjetja](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Dodelite licence za uporabnike v Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Prekliči Office 365 za podjetja](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Prekliči Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
