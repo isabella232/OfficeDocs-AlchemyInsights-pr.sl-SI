@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000561"
 - "2420"
-ms.openlocfilehash: f3b429dc9d5007c139ff292fae6649696fc42b81
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5f337a9c4b40c13dcda79eb567c0e287d300dfb1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389880"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539513"
 ---
 # <a name="how-to-view-and-manage-apps"></a>Kako si ogledate in upravljate aplikacije
 
-Razgledati vaš apps, mora biti v središču novih admin.  To lahko preklapljate na domači strani admin center.  
+Vaše aplikacije si lahko ogledate v skrbniškem središču Microsoft 365. 
 
-1. Nov admin center vklopljen, pojdite na **zaračunavanje** > [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
+1. V središču admin, pojdite na **zaračunavanje** > [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
 
 2. Na **izdelke & storitve** strani, izberite jeziček **aplikacije** .

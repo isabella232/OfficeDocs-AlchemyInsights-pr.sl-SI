@@ -12,14 +12,16 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 90302767ac2cb4e137bc1fd5fa17edea4602b766
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382897"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36538817"
 ---
-Ali imate vsebina, da **zadrži** a **ima** to ne morete prepoznati? Potreba **izvedeti,** kje imajo v **nabiralnik** ? Ima ( *ohranitev funkcije* ) lahko izvaja enega od naslednjih načinov v Office 365:
+# <a name="identify-holds-placed-on-mailboxes"></a>Prepoznavanje ima na nabiralnike
+
+Ali imate vsebino Office 365, ki se **ohranijo** a **ima** to ne morete prepoznati? Potreba **izvedeti,** kje imajo v **nabiralnik** ? Ima (*ohranitev funkcije*) lahko izvaja enega od naslednjih načinov v Office 365:
   
 - Čakanje
 

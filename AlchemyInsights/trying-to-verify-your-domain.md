@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420140"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533277"
 ---
 # <a name="trying-to-verify-your-domain"></a>Ali poskušate preveriti domeno?
 
-Registratorju domene morate dodati zapis TXT, da preverite, ali ste lastnik domene. Najprej upoštevajte navodila čarovnika za dodajanje domene tako, da kliknete **Nastavitve** \> **Domena** in nato **Dodaj domeno**. 
+Registratorju domene morate dodati zapis TXT, da preverite, ali ste lastnik domene. Sledite čarovniku nove domene v skrbniškem središču Microsoft 365 z tekoč v **Setup** \> **domene**in nato **Dodaj domeno**. 
   
 Upoštevajte navodila v tem članku, da dodate zapis TXT in preverite svojo domeno. Če želite točna navodila za svojo domeno, izberite registratorja domene.
   

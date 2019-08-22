@@ -12,16 +12,16 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701447"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537473"
 ---
 # <a name="change-your-email-name"></a>Spremenite e-poštno ime
 
-Če ga imate e-poštni naslov in želite spremeniti ime prejemniki videli v vaših sporočil:
+Če imate eno Outlook.com, e-poštni naslov in želite spremeniti ime prejemniki videli v vaših sporočil:
   
 1. Izberite vaš račun slika v zgornjem desnem kotu strani.
 2. Izberite **svoj profil**.
