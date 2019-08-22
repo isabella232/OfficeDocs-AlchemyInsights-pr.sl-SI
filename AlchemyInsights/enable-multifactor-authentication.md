@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403691"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527487"
 ---
 # <a name="enable-multi-factor-authentication"></a>Omogoči preverjanje pristnosti multifaktorske
 
-1. Pluti v **uporabnik** \> **aktivnih uporabnikov**
+Če želite omogočiti preverjanje pristnosti multifaktorske v centru Microsoft 365 admin:
+
+1. Pojdi **uporabnikom** \> **aktivnih uporabnikov** strani.
     
-2. Kliknite **več** \> **Setup Azure multifaktorske auth**. 
+2. Na vrhu strani, izberite **več zahteva preverjanje pristnosti**. 
     
-3. Poišči uporabnika ali uporabnik, ki jih želite omogočiti za MZZ. Da bi videli vsi uporabniki, boste morda morali spremeniti multifaktorske Auth stanje pogled na vrhu.
+3. Poišči uporabnika ali uporabnik, ki jih želite omogočiti za multi-overjanja. Če želite videti vse uporabnike, boste morali spremeniti filter **multifaktorske Auth stanja** na vrhu.
     
-4. Preverite potrditveno polje poleg uporabnikov, ki ga želite omogočiti.
+4. Izberite potrditveno polje poleg uporabnikov, ki ga želite omogočiti.
     
-5.  V podoknu informacij desno uporabnik po **hitri koraki** boste glejte Omogočanje in upravljanje uporabniških nastavitev. Izberite **Omogoči**. 
+5.  V podoknu info pravo uporabnik pod **hitri koraki**, izberite **Omogoči**. 
     
-6. V pogovornem oknu, ki se odpre, **kliknite Omogoči multifaktorske auth**. 
+6. V pogovornem oknu, ki se odpre, izberite **Omogoči multifaktorske auth**. 
     
 
