@@ -12,14 +12,14 @@ ms.custom:
 - "990"
 - "8000059"
 ms.assetid: 29dedb91-06e2-42e5-8281-3785d2a10305
-ms.openlocfilehash: 642b17adc4c362394995ff78dfc8a237a6484a12
-ms.sourcegitcommit: 1f37393e4f7af79e7d8e9fb0661cbed59a5d7134
+ms.openlocfilehash: 53dcda5ca13c033e74d6d25ccf1e610752e0ca79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35704648"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501347"
 ---
-# <a name="spam-filter-not-working"></a><span data-ttu-id="7b97b-102">Spam filter, ki ne deluje</span><span class="sxs-lookup"><span data-stu-id="7b97b-102">Spam filter not working</span></span>
+# <a name="spam-filter-not-working"></a><span data-ttu-id="9c6c9-102">Spam filter, ki ne deluje</span><span class="sxs-lookup"><span data-stu-id="9c6c9-102">Spam filter not working</span></span>
 
-<span data-ttu-id="7b97b-103">Če menite, da ste prejeli sporočilo je lažno predstavlja ali prevara scam, sporočilo označite kot neželena, nato pa pojdite na **Neželeno e-pošto**, izberite sporočilo in **želena** \> **Phishing** označite kot phishing prevara.</span><span class="sxs-lookup"><span data-stu-id="7b97b-103">If you believe a message you've received is a phishing or spoofing scam, mark the message as junk, then go to **Junk Email**, select the message, and select **Not junk** \> **Phishing** to mark it as a phishing scam.</span></span> <span data-ttu-id="7b97b-104">Če želite izvedeti več o zlorabi, phishing ter prevara, [preberite tole](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7b97b-104">To learn more about abuse, phishing, and spoofing, [read this](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy).</span></span> <span data-ttu-id="7b97b-105">Blokiranje e-poštne naslove, naslove ali domene dodate na seznam varnih pošiljateljev ali uporablja druge možnosti neželene e-pošte, izberite **možnosti neželene e-pošte**.</span><span class="sxs-lookup"><span data-stu-id="7b97b-105">To block email addresses, add addresses or domains to your Safe senders list, or apply other junk email options, select **Junk email options**.</span></span>
+<span data-ttu-id="9c6c9-103">Če menite, da je sporočilo, ki ste jih prejeli v Outlook.com, phishing ali prevara scam, izberite sporočilo in izberite **neželeno** \> **Phishing** označite kot phishing prevara.</span><span class="sxs-lookup"><span data-stu-id="9c6c9-103">If you believe a message you've received in Outlook.com is a phishing or spoofing scam, select the message, and select **Junk** \> **Phishing** to mark it as a phishing scam.</span></span> <span data-ttu-id="9c6c9-104">Če želite izvedeti več o zlorabi, phishing ter prevara, [preberite tole](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="9c6c9-104">To learn more about abuse, phishing, and spoofing, [read this](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy).</span></span> <span data-ttu-id="9c6c9-105">Blokiranje e-poštne naslove, naslove ali domene dodate na seznam varnih pošiljateljev ali uporablja druge možnosti neželene e-pošte, izberite **možnosti neželene e-pošte**.</span><span class="sxs-lookup"><span data-stu-id="9c6c9-105">To block email addresses, add addresses or domains to your Safe senders list, or apply other junk email options, select **Junk email options**.</span></span>
   
