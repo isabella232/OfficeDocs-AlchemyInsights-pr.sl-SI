@@ -9,15 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 17554fdefd4ac8a9248e3e375301edf25edebf05
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 4106ed60ab79bd393906a08b29bfb7c1f996672a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35115611"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513699"
 ---
-# <a name="delete-a-sharepoint-site"></a>Izbrisati SharePointovega mesta
-**Brisanje mesta iz novega centra admin SharePoint** Z uporabo novega centra admin SharePoint, lahko izbrišete klasičnih in sodobnih mest. Izberite **aktivna mesta**, izberite stran, in izberite **Izbriši**. [Pogled in postaviti v prejšnje stanje izbrisati mesta v centru nove admin SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), izberite **izbrisane strani**. Za več informacij, glejte [mesta v centru nove admin SharePoint izbrisati](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
+# <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>Izbriši stran od centra nove SharePoint admin
+
+Z uporabo novega centra admin SharePoint, lahko izbrišete klasičnih in sodobnih mest. Izberite **aktivna mesta**, izberite stran, in izberite **Izbriši**. [Pogled in postaviti v prejšnje stanje izbrisati mesta v centru nove admin SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), izberite **izbrisane strani**. Za več informacij, glejte [mesta v centru nove admin SharePoint izbrisati](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
 **Pomembno:** Če spletna stran je del pravilnika o hranjenju, morda ne boste mogli izbrisati, dokler stran je odstranjena iz je [varnost &amp; politika skladnosti Admin Center](https://protection.office.com/?rfr=AdminCenter#/homepage). Za več informacij, glejte [Pregled pravilnikov o hranjenju](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) . 
 

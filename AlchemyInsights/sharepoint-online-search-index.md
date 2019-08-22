@@ -7,14 +7,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: fc49978fbd2c07381dae83061b1a1868cd1df0d0
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36059268"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507647"
 ---
-# <a name="search-in-sharepoint-online"></a>Išči v SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Vsebine iskanje in indeksiranje v SharePoint Online
 
 Vsebina mora preiskati in doda v kazalo iskanja za uporabnike, da bi našli tisto, kar oni iščejo v SharePoint Online. Samodejno vsebini temelji na vnaprej določenih iskanja razpored (razpored iskanja po vsebini ni mogoče spremeniti). Iskalnik dvigne vsebine, ki se je spremenilo od zadnjega iskanja po vsebini in posodobi kazalo. Za zagotovitev vsebini in je kazalo posodobljeno, upoštevajte naslednje:
 
@@ -30,7 +30,8 @@ Vsebina mora preiskati in doda v kazalo iskanja za uporabnike, da bi našli tist
 
     Če več kot 24 ur je minilo, odkar si začel plazijo in poln ponovnega indeksiranja, se prijavite na primer podporo. V mnogih primerih, že delamo na rešitev. Prosimo, da nam vsaj 24 ur za dokončanje rešitev.
 
->[! Pomembno!]: če stran, dokument (knjižnice) ali seznam je bil izbrisan in še vedno prikazuje v rezultatih iskanja, uporabnik should sprejemati **Napaka 404 datoteke ni mogoče najti** čas težaven v postranski to. To vprašanje, naj zapišejo kot primer podporo za dodatne preiskave. 
+> [!IMPORTANT]
+> Če stran, dokument (knjižnice), ali seznam je bil izbrisan in še vedno prikazuje v rezultatih iskanja, uporabnik should sprejemati **Napaka 404 datoteke ni mogoče najti** čas težaven v postranski to. To vprašanje, naj zapišejo kot primer podporo za dodatne preiskave. 
 
 
 

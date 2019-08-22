@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 5ac8c629c98f6dbd716b0076f2e203a95263fe4f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3b4377cb54cf6892e5e04b61b7cce203ebe89855
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389101"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526695"
 ---
 # <a name="expired-subscription"></a>Poteklo naročniško
 
@@ -26,18 +26,16 @@ Zdi se, da imate eno ali več potekel naročnine. Če bi želeli še storitev, m
   
 **Znova aktiviraj**
   
-1. V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
 
 2. Izberite naročnine na aktivi.
 
-3. Na desni strani, izberite **reaktivirati**.
+3. V razdelku **zaračunavanje** izberite **reaktivirati**.
 
-Ali uporabljate nov admin center? Nova navodila najdete [aktivirati naročnino](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Če želite več informacij, glejte [znova aktivirajte naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Nov nakup**
   
-1. V središču admin, pojdite na **zaračunavanje** \> [Nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) strani.
+1. V središču admin, pojdite na **zaračunavanje** \> [nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) strani.
 
-2. Izberite naročnine, ki bi želeli kupiti.
-
-3. Omahovanje nad ploščice, in izberite **kupi**.
+2. Izberite naročnine, ki bi želeli nakup, in izberite **kupiti**.
