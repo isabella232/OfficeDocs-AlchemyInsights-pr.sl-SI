@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 994d71ca6f140008336d7edb8387f6e044c22d2d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: fc718d6a5907fd97d0a7fc55c5dc8a31d4959d13
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422731"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531045"
 ---
 # <a name="who-has-a-file-checked-out"></a>Ki je datoteka rezervirana?
 
-Za prikaz, ki je datoteka rezervirana storite eno od naslednjih korakov:
+Za prikaz, ki je datoteko, ki je rezerviran v SharePoint, storite eno od naslednjih korakov:
   
 1. Omahovanje nad **Rezerviral** videti namig, ki pove, kdo je rezervirati datoteko. 
     
-2. Dodaj v ** preveriti ven z ** stolpec v privzeti pogled knjižnice. Na ta način vsakdo lahko vidite, kdo je dokument rezerviran. 
+2. **Preveri, s** stolpec dodati privzeti pogled knjižnice. Na ta način vsakdo lahko vidite, kdo je dokument rezerviran. 
     
 Želite izvedeti, kako dodati preveriti ven z stolpec v SharePoint, glejte [ustvarjanje stolpca na seznamu ali v knjižnici](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
