@@ -13,20 +13,20 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388832"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522447"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Kako povečati ali zmanjšati licenc
 
-Evo, kako odstraniti ali nakup več licenc.
+Evo, kako odstraniti ali kupiti več licence Office 365.
   
-1. V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
 
-2. Na levi, izberite naročnine, iz katerega želite dodati/odstraniti licenc
+2. Izberite naročnine, iz katerega želite dodati/odstraniti dovoljenja.
 
 3. Izberite **Dodaj/odstrani licence**.
 
@@ -34,19 +34,17 @@ Evo, kako odstraniti ali nakup več licenc.
 
     Na primer, če imate trenutno 25 licenc in želite odstraniti 5, vstop 20 na tem področju.
 
-5. Izberite **predloži**.
+5. Izberite **Pošlji spremeniti**.
 
 > [!NOTE]
 > Vse nove dajatve (licenco povečanje) ali kreditno (licenco zmanjšanje) bo prikazal na naslednjem računu.
 
-Ali uporabljate nov admin center? Nove korake, glejte [nakup licenc za vaš Office 365 za podjetja naročnino](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).
+Če želite več informacij, glejte [nakup licenc za vaš Office 365 za podjetja naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
- **Virov**
+ **Dodatni viri**
   
-- [Licence odstranite vaš Office 365 za podjetja naročnino](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [Licence odstranite vaš Office 365 za podjetja naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [Nakup licenc za vaš Office 365 za podjetja naročnino](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
+- [Prekliči Office 365 Beta za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [Prekliči Office 365 Beta za podjetja](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
-
-- [Kupiti drugo Office 365 za podjetja naročnino](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [Kupiti drugo Office 365 za podjetja naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)

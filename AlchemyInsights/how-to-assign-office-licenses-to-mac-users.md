@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385414"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522519"
 ---
 # <a name="how-to-assign-office-licenses-to-mac-users"></a>Z dodeljevanjem licenc Office uporabnikom Mac
 
-- V centru Microsoft 365 admin, pojdite na stran [aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) , ali izberite **Uporabniki** \> **aktivnih uporabnikov**.
+1. V skrbniškem središču, iti k **uporabnik** \> [aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) strani.
 
-- Potrdite polje poleg imena uporabnika, kateremu želite dodeliti licenco.
+2. Izberite ime uporabnika, kateremu želite dodeliti, spremeniti ali odstraniti dovoljenja.
 
-- Na desni, v vrstici **proizvod dovoljenja** izberite **Uredi**.
+3. Na kartici **dovoljenja in Apps** izberite dovoljenje, ki ga želite dodeliti temu uporabniku.
 
-- V podoknu s **zmnožek dati dovoljenje**, preklopite na preklop **na** položaj za licence, ki mu želite dodeliti temu uporabniku.
+    Privzeto so vse storitve, povezane s to dovoljenje samodejno dodeljena uporabniku. Če želite omejiti, katere storitve so na voljo uporabniku, počistite potrditveno polje za storitev, ki jih ne želite, da uporabnik imeti.
 
-- Na dnu podokna **proizvod dovoljenja** , izberite **Shrani** \> **blizu** \> **blizu**.
+4. Na dnu podokna, izberite **Shrani spremembe**.
 
 Za več informacij: [dodelite dovoljenja za uporabnike v Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
   

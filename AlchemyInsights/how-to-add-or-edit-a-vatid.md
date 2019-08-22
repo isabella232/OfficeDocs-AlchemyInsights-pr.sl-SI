@@ -12,23 +12,23 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 870f81742c13b143a0b99e2ce126d9b696e72d28
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386420"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522627"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Dodajanje in urejanje z VatID
 
-- V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1.  V centru Microsoft 365 admin, pojdite na **zaračunavanje** \> [izdelki & servicces](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
 
-- Na strani **naročnine** , izberite naročnine, ki jo želite urediti, in izberite **Več dejanj** \> **Urejanje DDV številko**.
+2. Poišči naročniško kartico za vpis, ki ga želite posodobiti.
 
-- Na dnu podokna **uredite naslov uporabe storitev** , vnesite ali uredite vaš ID DDV v polje **številka DDV** in izberite **Pošlji**.
+3. V razdelku **Nastavitve & dejanja** , izberite **Uredi naslov uporabe storitve**.
+
+4. Stran **uredite naslov uporabe storitev** , vnesite ID DDV v polje **DDV številko** in izberite **Shrani**.
 
     Ko končate, DDV ne zaračuna na naslednjem računu.
 
-Če želite več informacij, glejte [kaj davka mi boste zaračunali za Office 365?](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
-
-Ali uporabljate nov admin center? Za nove korake, glejte [Dodajanje ID DDV](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
+Če želite več informacij, glejte [kaj davka mi boste zaračunali za Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged) ali [Dodaj ID DDV](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).

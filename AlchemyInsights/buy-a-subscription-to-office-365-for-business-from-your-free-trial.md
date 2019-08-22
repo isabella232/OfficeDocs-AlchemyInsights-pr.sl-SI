@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: e6681268c3932fd96cb05ffd41149c890f37c6c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386924"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36518019"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>Nakup naročnino za Office 365 iz vaše poskusne
 
@@ -26,16 +26,14 @@ Ste že poskusili Office 365, in sedaj ste pripravljeni kupiti. Imate dve možno
   
  **Kupite lahko enak načrt, kot vaš poskus**
   
-1. V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
 
-2. Izberite **zdaj kupiti** za preskusno naročnino, ki jih želite, in sledite navodilom, da preverite.
+2. Poišči naročnino, ki ga želite kupiti. V odseku **dovoljenja** izberite **nakup naročnino**in sledite korakom, da preverite.
 
 ali **lahko kupite drugo**
   
-1. V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V središču admin, pojdite na **zaračunavanje** \> [nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) strani.
 
-2. **Naročnina** na strani, izberite **Dodaj naročnine**.
+3. Poišči naročnino, ki ga želite kupiti, izberite **nakup**, in sledite navodilom, da preverite.
 
-3. Poišči naročnino, ki ga želite kupiti, **Kupi zdaj**izberite in sledite korakom, da preverite.
-
-Ali uporabljate nov admin center? Nova navodila najdete [kupiti naročnina na Office 365 za podjetja iz vaše brezplačno sojenje](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+Če želite več informacij, glejte [nakup naročnina na Office 365 za podjetja iz vaše brezplačno sojenje](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

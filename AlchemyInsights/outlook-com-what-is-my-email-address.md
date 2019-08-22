@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: 385865b4ff8827a2f26dac5ba61af9a12a555f5c
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: b7cd4910bea61f438e23dd2a520570d58d42bc22
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36166096"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36511532"
 ---
-# <a name="see-your-own-email-address"></a>Glejte svoj e-poštni naslov
+# <a name="see-your-own-outlookcom-email-address"></a>Glejte svoj e-poštni naslov Outlook.com
 
 Videti privzeti e-poštni naslov uporabljate pri pošiljanju e-pošte, pojdite na vaš [email nastavitev sinhronizacije](https://outlook.live.com/mail/options/mail/accounts) in pod **nastavite privzeti naslov**.
 
