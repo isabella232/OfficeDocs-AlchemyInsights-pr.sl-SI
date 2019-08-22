@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1586"
-ms.openlocfilehash: 49c510668f4c73a71495b89ee9f810d4e7244da3
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 261fe1b1bc815dd4ad568051cfefad1e214b957e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270688"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36530906"
 ---
-# <a name="workflow-email-is-not-being-sent"></a>Potek dela email ni poslan
+# <a name="workflow-email-is-not-being-sent-for-a-sharepoint-list-or-library"></a>Potek dela email ne pošiljajo v SharePointov seznam ali knjižnico
 
 1. Email s poteki dela se ne pošljejo vse uporabnike ali samo določenim uporabnikom, ali vidite napake **e-poštnega sporočila ni mogoče poslati. Preverite, ali je e-mail veljaven prejemnik**.
 
@@ -30,10 +30,10 @@ ms.locfileid: "36270688"
     - Če uporabnik obstaja v skupini dovoljenja, poskrbite, da naslov ni pravilen.
     - Če uporabniki e-poštni naslov ni nastavljena tukaj, ustvarite vzorec Opozorilo za tega uporabnika, ki sili sinhronizacijo uporabniški račun od uporabnikov profil SharePoint v tej zbirki mest.
  
-2. Email s poteki dela pošiljajo skrbniki zbirke ne pa drugim uporabnikom in vidim napako **HTTP prepovedano za <spam> <spam> ** <spam> <spam>.
+2. Email s poteki dela pošiljajo skrbniki zbirke ne pa drugim uporabnikom in vidim napako **HTTP prepovedano za <span>https:</span>//URL/_vti_bin/client.xvc.sp.utilities.utility.SendEmail**.
  
 
-    Glej [Dostop zavrnjen, ko sent email v skupine](https://docs.microsoft.com/sharepoint/support/server-admin/access-denied-when-send-an-email-to-groups).
+    Glej [Dostop zavrnjen, ko pošljete e-poštno skupino SharePoint](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/access-denied-when-send-an-email-to-groups).
 
     Prav tako, preverite, ali funkcija zbirke mest **dostop omejen uporabnik dovoljenje lockdown način** ni aktivna.
 

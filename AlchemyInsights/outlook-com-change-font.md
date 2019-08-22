@@ -14,16 +14,16 @@ ms.custom:
 - "1919"
 - "8000013"
 ms.assetid: 824035f6-90d3-4ea2-a92b-6b73b4ec0076
-ms.openlocfilehash: 69a6b5ccf8cbae6e29b99580df58a736176bb6b3
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: e60bf163d00bcffc9fde96b06941c56576b60ce8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36044724"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36547722"
 ---
 # <a name="change-font-or-font-size"></a>Sprememba pisave ali velikost pisave
 
-Ko berete e-pošto, lahko uporabite vaš brskalnik zoom funkcijo, da bi bilo besedilo na zaslonu večje ali manjše.
+Ko berete e-pošto v Outlook.com, uporabljate vaš brskalnik zoom funkcijo, da bi bilo besedilo na zaslonu večje ali manjše.
   
 Če želite spremeniti pisavo ali velikost pisave, med ustvarjanjem sporočila:
   
