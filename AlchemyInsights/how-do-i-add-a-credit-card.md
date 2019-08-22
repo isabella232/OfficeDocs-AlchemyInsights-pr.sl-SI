@@ -13,21 +13,21 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: c65d8606b749c76c90271c1d81d78d1c843618a3
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 99e8ff13470058dfeeb27b682a0f214c940ca8bd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390456"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523059"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>Kako dodam kreditno kartico?
 
-1. V skrbniškem središču odprite stran **Obračunavanje** \> [Naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. V skrbniškem središču Microsoft 365 odprite stran **Obračunavanje** \> [Načini plačila](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Izberite naročnino, ki jo želite plačati z novo kreditno kartico ali bančnim računom, nato pa izberite **Posodobitev podrobnosti plačila**.
+2. Izberite **Dodaj način plačila**.
 
-3. Kliknite puščico spustnega menija v razdelku **Dodajanje ali izbira načina plačila** in izberite **Nova kreditna kartica** ali **Nov bančni račun**.
+3. Iz spustnega menija na strani **Načini plačila** izberite način plačila.
 
-4. Vnesite podatke za novo kreditno kartico ali bančni račun, nato pa izberite »Pošlji«.
+4. Vnesite podatke o novi kreditni kartici ali bančnem računu in nato izberite **Shrani**.
 
-Ali uporabljate novo skrbniško središče? Če želite izvedeti nova navodila, preberite [Dodajanje, posodabljanje ali odstranjevanje kreditne kartice ali bančnega računa v storitvi Office 365 za podjetja](https://docs.microsoft.com/sl-SI/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+Če želite več informacij, glejte [Dodajanje, posodabljanje ali odstranjevanje kreditne kartice ali bančnega računa v storitvi Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).

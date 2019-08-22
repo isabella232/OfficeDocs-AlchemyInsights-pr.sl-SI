@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405824"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514157"
 ---
 # <a name="delete-a-communication-site"></a>Izbriši sporočilo stran
 
@@ -25,14 +25,12 @@ ms.locfileid: "32405824"
   
 3. **Informacije**, kliknite **Izbriši ta stran**, in nato kliknite **Izbriši**. 
   
-Skrbniki lahko tudi izbrišete sporočilo stran od centra sodobnih Admin z naslednjim korakom: 
+Skrbniki lahko tudi izbrišete sporočilo stran od centra nove admin z naslednjim korakom: 
   
-1. Poskusite nov Admin Center kliknete gumb **poskusite zdaj,** v zgornjem desnem kotu. 
+1. Na levi izberite **aktivna mesta** . 
   
-2. Izberite **aktivna mesta**. 
+2. Kliknite mesto izbrisati in **izbrisati** možnost se prikaže v zgornjem meniju. 
   
-3. Kliknite mesto izbrisati in **izbrisati** možnost se prikaže v zgornjem meniju. 
-  
- **Opomba:** Če želite trajno izbrisati sporočilo stran (ga odstranite iz koša) tako da lahko ponovno uporabite spletni naslov, uporabite [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) oceniti koš in [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) odstraniti mesta iz koša. 
+ **Opomba:** Če želite trajno izbrisati sporočilo stran (ga odstranite iz koša) tako da lahko ponovno uporabite spletni naslov, uporabite [Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) za oceno koš in [Odstrani SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) odstraniti mesta iz koša. 
   
 

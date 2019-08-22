@@ -13,13 +13,13 @@ ms.custom:
 - "483"
 - "1500029"
 ms.assetid: 1df85825-1276-4ef9-af24-0907895b25a7
-ms.openlocfilehash: 17e37f939c199120b85637eb889bb22432e85325
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: bd6b3ed9354394761cb6168a538a5c8b46cf5459
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388004"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507251"
 ---
 # <a name="trouble-completing-a-purchase-in-the-office-365-portal"></a>Težave pri dokončanju nakupa v portalu storitve Office 365
 
-Če ste med poskusom nakupa večkrat prejeli poziv za vpis v portal storitve Office 365 ali pa prejmete sporočilo, da je prišlo do težave, najprej poskusite uporabiti način brskanja inprivate/incognito. Ko odprete okno inprivate/incognito, pojdite na spletno mesto [portal.office.com](https://portal.office.com) in se prijavite s skrbniškimi poverilnicami. Nato dokončajte nakup.
+Če ste med poskusom nakupa večkrat prejeli poziv za vpis v skrbniško središče Microsoft 365 ali pa prejmete sporočilo, da je prišlo do težave, najprej poskusite uporabiti način brskanja InPrivate/brez beleženja zgodovine. Ko odprete okno inprivate/incognito, pojdite na spletno mesto [portal.office.com](https://portal.office.com) in se prijavite s skrbniškimi poverilnicami. Nato dokončajte nakup.

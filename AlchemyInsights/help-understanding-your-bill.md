@@ -13,23 +13,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: 3a0b1c52c54773d51467c6c427374c9270ac6938
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b58ec93be19f42bf0fe04c71d615c7b680a599e6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389120"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36523095"
 ---
 # <a name="help-understanding-your-bill"></a>Pomoč pri razumevanju vaš račun
 
-Zaračunani znesek odraža licenco ceno, pomnoženo s številom licenc, kupiti in vse potrebno davkov/pristojbine.
+Zaračunana za vaš Office 365 za podjetja naročnino odraža licenco ceno, pomnoženo s številom licenc, kupiti in vse potrebno davkov/pristojbine.
   
-Če zaračunani znesek se razlikuje, potem pričakovati, obstaja nekaj razlogov, to se lahko zgodi:
+Če zaračunani znesek se razlikuje potem pričakovati, obstaja nekaj razlogov, to se lahko zgodi:
   
-- Licence dodati ali odstraniti iz naročnine. Ko licence so spremenjene vmesni, to se odraža na naslednjem izplačilu. Vidite lahko, kreditne in ponovno račun za prejšnje obdobje računa za to spremembo.
+- Licence so bile dodane ali odstranjene iz naročnine. Ko licence so spremenjene vmesni, to se odraža na naslednjem izplačilu. Vidite lahko, kreditne in ponovno račun za prejšnje obdobje računa za to spremembo.
 
 - Vpis je bil odpovedan. Račun boste prejeli po preklicu z vsak neplačani znesek minus vse kredite.
 
 - Naročnino podaljšati za novo obdobje in dati dovoljenje cenik spremenila.
 
-Če želite več informacij o računu, glejte: [razumem vaš račun](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/understand-your-invoice)
+Če želite več informacij o vašem računu, glejte: [razumem vaš račun](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice)

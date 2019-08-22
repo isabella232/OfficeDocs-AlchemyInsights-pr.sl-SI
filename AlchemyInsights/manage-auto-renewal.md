@@ -13,21 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389808"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542454"
 ---
 # <a name="manage-recurring-billing"></a>Upravljanje ponavljajočih zaračunavanja
 
-Za upravljanje ponavljajoče se zaračunavanje, vas lahko vklopi, **ponavljajoče se zaračunavanje** ali izklopi.
+Lahko pa ponavljajoče se zaračunavanje izklop v skrbniškem središču Microsoft 365.
   
-1. V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. Pojdi na **račun** > [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
 
-2. Izberite naročnine, ki ga želite upravljati ponavljajočih zaračunavanja.
+2. Pod **obračun**, ob **Renews na** ali **Expiring na**, izberite **Uredi**.
 
-3. **Ponavljanje zaračunavanje** preklop preklopiti **naprej** ali **ne sveže**.
+3. V podoknu **ponavljajoči zaračunavanja nastavitve** , izberite **ponavljanje zaračunavanje OFF** zavoj to ne sveže. Če **ponavljajoči obračun** je že izklopljen, izberite **mesečno** ali **ko** ga vklopite.
 
-Če želite več informacij, glejte [Vklop ponavljajoče se zaračunavanje off ali na](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+4. Izberite **Pošlji spremeniti**.
+
+Če želite več informacij, glejte [Vklop ponavljajoče se zaračunavanje off ali na](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

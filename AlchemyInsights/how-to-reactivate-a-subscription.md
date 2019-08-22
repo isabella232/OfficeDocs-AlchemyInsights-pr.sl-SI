@@ -13,27 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 886f6933daed7fc21c858591286b05b7093d627e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390852"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539945"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>Kako znova aktivirati naročnino
 
 Če je vaša naročnina potekla, je bila preklicana ali jo je Microsoft onemogočil, jo lahko znova aktivirate v Skrbniškem središču za Microsoft 365.
   
-1. V skrbniškem središču odprite stran **Obračunavanje** \> [Naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. V skrbniškem središču odprite stran **Obračunavanje** \> [Izdelki in storitve](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Izberite naročnino, ki jo želite znova aktivirati.
+2. V razdelku **Obračunavanje**, poleg možnosti **Datum podaljšanja:** ali **Poteče dne:**, izberite **Uredi**.
 
-3. Izberite gumb **Znova aktiviraj** na desni strani.
+3. V podoknu **Nastavitve ponavljajočega se obračunavanja** izberite želeno možnost. Če je ponavljajoče se obračunavanje že izklopljeno, izberite **Mesečno** ali **Enkrat**, da ga vklopite.
 
-4. Pozvani boste k posodobitvi podrobnosti plačila. Ko so vsi podatki ustrezni, izberite **Pošlji**.
+4. Izberite **Pošlji spremembo**.
 
-5. na dnu zaslona se prikaže potrditveno sporočilo. Izberite **Zapri**, da se vrnete na stran **Naročnine**.
-
-6. Če naročnina po nekaj minutah ni prikazana kot aktivna, osvežite stran.
-
-Če želite več informacij, glejte: [Podaljšanje naročnine na Office 365 za podjetja](https://docs.microsoft.com/sl-SI/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Če želite več informacij, glejte: [Podaljšanje naročnine na Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

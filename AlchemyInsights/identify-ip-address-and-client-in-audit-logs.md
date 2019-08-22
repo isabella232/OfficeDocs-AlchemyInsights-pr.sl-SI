@@ -12,20 +12,20 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a91778c006531371b85116f5c97485d42e6cc5be
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35382969"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539045"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Prepoznati IP naslov odjemalca v dnevnikih nadzora in
 
-IP naslov, ki ustreza dejavnost uporabnika ali skrbnik je prikazan v dnevnikov. Zabeleženo je tudi odjemalec informacije. Tu so koraki za prepoznavanje teh informacij
+IP naslov, ki ustreza dejavnosti z Office 365 uporabnik ali oskrbnik je prikazan v dnevnikov. Zabeleženo je tudi odjemalec informacije. Tu so koraki za prepoznavanje teh informacij
 
-1. Prijavite se v [Office 365 varnost & skladnosti Center](https://protection.office.com/)
+1. Prijavite se v [Office 365 varnost & skladnosti Center](https://protection.office.com/).
 
-2. Kliknite **Išči ter preiskave** in izberite **Išči dnevnika nadzora**.
+2. Pojdi na **Iskanje** > **revizije dnevnik iskalna** stran.
 
    Če ste zainteresirani za posebne dejavnosti, ga izberite iz seznama **dejavnosti** . Če ne, se izpišejo vse dejavnosti za izbranega uporabnika (privzeta nastavitev).
 

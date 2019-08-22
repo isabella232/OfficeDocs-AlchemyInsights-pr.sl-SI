@@ -11,12 +11,12 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: 8215b0a5cde5adffa3bec37d6699418557f914dd
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ffb6bf349f9e8c2323186a8fc3183325d1d7e1bf
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35363837"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517047"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Vsebine ne pojavi v rezultatih iskanja za SharePoint
 
@@ -28,7 +28,7 @@ Upoštevajte te korake za odpravljanje težav, ko pričakovani vsebine ne pojavi
 
 3. Preverite, da stran, dokument ali postavitev po meri strani je objavljen kot v **glavno različico.** Slediti stopnja 3 v [Iskanje ne vrne vse rezultate v SharePoint Online](https://go.microsoft.com/fwlink/?linkid=874525).
 
-4. Preverite, da uporabnik nima **dovoljenja** za ogled vsebine. Sledite korakom v [razumevanje ravni dovoljenj v SharePoint](https://docs.microsoft.com/en-us/sharepoint/understanding-permission-levels).
+4. Preverite, da uporabnik nima **dovoljenja** za ogled vsebine. Sledite korakom v [razumevanje ravni dovoljenj v SharePoint](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
     
 5. Če shemo iskanja je bila spremenjena z dodajanjem novo upravljano lastnost, urejanje upravljano lastnost ali odstranjevanje upravljane lastnosti, nato zahteva iskanje in ponovno indeksiranje bo potrebno. **Ponovno indeksiranje** vsebine z sledeč lestev v [ročen zahteva iskanje in ponovno indeksiranje strani, knjižnico ali seznam](https://docs.microsoft.com/sharepoint/crawl-site-content). To lahko traja nekaj časa, počakajte 24 ur pred vnovičnim preverjanjem rezultatov.
 
