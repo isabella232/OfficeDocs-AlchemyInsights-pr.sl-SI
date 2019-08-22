@@ -13,31 +13,29 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 5ac8c629c98f6dbd716b0076f2e203a95263fe4f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3b4377cb54cf6892e5e04b61b7cce203ebe89855
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389101"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526695"
 ---
-# <a name="expired-subscription"></a><span data-ttu-id="59c25-102">Poteklo naročniško</span><span class="sxs-lookup"><span data-stu-id="59c25-102">Expired subscription</span></span>
+# <a name="expired-subscription"></a><span data-ttu-id="2375c-102">Poteklo naročniško</span><span class="sxs-lookup"><span data-stu-id="2375c-102">Expired subscription</span></span>
 
-<span data-ttu-id="59c25-103">Zdi se, da imate eno ali več potekel naročnine.</span><span class="sxs-lookup"><span data-stu-id="59c25-103">It appears you have one or more expired subscriptions.</span></span> <span data-ttu-id="59c25-104">Če bi želeli še storitev, morate aktivirati naročnino, ali nov nakup.</span><span class="sxs-lookup"><span data-stu-id="59c25-104">If you would like to continue service, you must reactivate the subscription, or make a new purchase.</span></span>
+<span data-ttu-id="2375c-103">Zdi se, da imate eno ali več potekel naročnine.</span><span class="sxs-lookup"><span data-stu-id="2375c-103">It appears you have one or more expired subscriptions.</span></span> <span data-ttu-id="2375c-104">Če bi želeli še storitev, morate aktivirati naročnino, ali nov nakup.</span><span class="sxs-lookup"><span data-stu-id="2375c-104">If you would like to continue service, you must reactivate the subscription, or make a new purchase.</span></span>
   
-<span data-ttu-id="59c25-105">**Znova aktiviraj**</span><span class="sxs-lookup"><span data-stu-id="59c25-105">**Reactivate**</span></span>
+<span data-ttu-id="2375c-105">**Znova aktiviraj**</span><span class="sxs-lookup"><span data-stu-id="2375c-105">**Reactivate**</span></span>
   
-1. <span data-ttu-id="59c25-106">V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="59c25-106">In the admin center, go to the **Billing** \> [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="2375c-106">V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.</span><span class="sxs-lookup"><span data-stu-id="2375c-106">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="59c25-107">Izberite naročnine na aktivi.</span><span class="sxs-lookup"><span data-stu-id="59c25-107">Choose the subscription to be reactivated.</span></span>
+2. <span data-ttu-id="2375c-107">Izberite naročnine na aktivi.</span><span class="sxs-lookup"><span data-stu-id="2375c-107">Choose the subscription to be reactivated.</span></span>
 
-3. <span data-ttu-id="59c25-108">Na desni strani, izberite **reaktivirati**.</span><span class="sxs-lookup"><span data-stu-id="59c25-108">On the right, choose **Reactivate**.</span></span>
+3. <span data-ttu-id="2375c-108">V razdelku **zaračunavanje** izberite **reaktivirati**.</span><span class="sxs-lookup"><span data-stu-id="2375c-108">In the **Billing** section, select **Reactivate**.</span></span>
 
-<span data-ttu-id="59c25-109">Ali uporabljate nov admin center?</span><span class="sxs-lookup"><span data-stu-id="59c25-109">Are you using the new admin center?</span></span> <span data-ttu-id="59c25-110">Nova navodila najdete [aktivirati naročnino](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="59c25-110">For new steps, see [Reactivate your subscription](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
+<span data-ttu-id="2375c-109">Če želite več informacij, glejte [znova aktivirajte naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="2375c-109">For more information, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
 
-<span data-ttu-id="59c25-111">**Nov nakup**</span><span class="sxs-lookup"><span data-stu-id="59c25-111">**Make a new purchase**</span></span>
+<span data-ttu-id="2375c-110">**Nov nakup**</span><span class="sxs-lookup"><span data-stu-id="2375c-110">**Make a new purchase**</span></span>
   
-1. <span data-ttu-id="59c25-112">V središču admin, pojdite na **zaračunavanje** \> [Nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) strani.</span><span class="sxs-lookup"><span data-stu-id="59c25-112">In the admin center, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
+1. <span data-ttu-id="2375c-111">V središču admin, pojdite na **zaračunavanje** \> [nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) strani.</span><span class="sxs-lookup"><span data-stu-id="2375c-111">In the admin center, go to the **Billing** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span>
 
-2. <span data-ttu-id="59c25-113">Izberite naročnine, ki bi želeli kupiti.</span><span class="sxs-lookup"><span data-stu-id="59c25-113">Choose a subscription you would like to purchase.</span></span>
-
-3. <span data-ttu-id="59c25-114">Omahovanje nad ploščice, in izberite **kupi**.</span><span class="sxs-lookup"><span data-stu-id="59c25-114">Hover over the tile, and choose **Buy now**.</span></span>
+2. <span data-ttu-id="2375c-112">Izberite naročnine, ki bi želeli nakup, in izberite **kupiti**.</span><span class="sxs-lookup"><span data-stu-id="2375c-112">Select a subscription you would like to purchase, and then select **Buy**.</span></span>
