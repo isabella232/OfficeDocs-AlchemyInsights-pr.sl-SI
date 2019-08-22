@@ -14,19 +14,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 5bd6c32a246db9dfcdb475368ade0441df4dc9c3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3dd96a9731cfd75882dd3bb397005b19d471c882
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365433"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531375"
 ---
-# <a name="verify-your-domain"></a><span data-ttu-id="2ae16-102">Preverjanje domene</span><span class="sxs-lookup"><span data-stu-id="2ae16-102">Verify your domain</span></span>
+# <a name="verify-your-domain"></a><span data-ttu-id="2ea5c-102">Preverjanje domene</span><span class="sxs-lookup"><span data-stu-id="2ea5c-102">Verify your domain</span></span>
 
- <span data-ttu-id="2ae16-103">**Zapis verjetno ni posodobljen prek interneta.**</span><span class="sxs-lookup"><span data-stu-id="2ae16-103">**The record probably hasn't updated across the Internet.**</span></span>
+ <span data-ttu-id="2ea5c-103">**Zapis verjetno ni posodobljen prek interneta.**</span><span class="sxs-lookup"><span data-stu-id="2ea5c-103">**The record probably hasn't updated across the Internet.**</span></span>
   
-<span data-ttu-id="2ae16-104">To običajno traja le nekaj minut za nas, da lahko videli nov zapis, vendar občasno lahko traja tako dolgo, kot nekaj ur.</span><span class="sxs-lookup"><span data-stu-id="2ae16-104">It typically only takes a few minutes for us to be able to see the new record, but occasionally it can take as long as a few hours.</span></span> 
+<span data-ttu-id="2ea5c-104">To običajno traja le nekaj minut za nas, da lahko videli nov zapis, vendar občasno lahko traja tako dolgo, kot nekaj ur.</span><span class="sxs-lookup"><span data-stu-id="2ea5c-104">It typically only takes a few minutes for us to be able to see the new record, but occasionally it can take as long as a few hours.</span></span> 
   
-- <span data-ttu-id="2ae16-105">Če ste čakali tako dolgo že, še enkrat preverite, da ste kopirali in prilepili natančna vrednost v zapisu TXT preverjanje na vaš DNS strežnik.</span><span class="sxs-lookup"><span data-stu-id="2ae16-105">If you've waited that long already, double-check that you've copied and pasted the exact value into the TXT verification record at your DNS host.</span></span> <span data-ttu-id="2ae16-106">Eno skupno težavo ne vključuje v "MS =" del zapisa.</span><span class="sxs-lookup"><span data-stu-id="2ae16-106">One common issue is not including the "MS=" part of the record.</span></span> <span data-ttu-id="2ae16-107">Moramo, da preveč!</span><span class="sxs-lookup"><span data-stu-id="2ae16-107">We need that too!</span></span>
+- <span data-ttu-id="2ea5c-105">Če ste čakali tako dolgo že, še enkrat preverite, da ste kopirali in prilepili natančna vrednost v zapisu TXT preverjanje na vaš DNS strežnik.</span><span class="sxs-lookup"><span data-stu-id="2ea5c-105">If you've waited that long already, double-check that you've copied and pasted the exact value into the TXT verification record at your DNS host.</span></span> <span data-ttu-id="2ea5c-106">Eno skupno težavo ne vključuje v "MS =" del zapisa.</span><span class="sxs-lookup"><span data-stu-id="2ea5c-106">One common issue is not including the "MS=" part of the record.</span></span> <span data-ttu-id="2ea5c-107">Moramo, da preveč!</span><span class="sxs-lookup"><span data-stu-id="2ea5c-107">We need that too!</span></span>
 
-- <span data-ttu-id="2ae16-108">Na nekaterih DNS gostiteljev, moraš sprejeti dodaten korak, da shranite pas (kjer DNS zapis se shrani) tako, da bo posodobitev prek interneta.</span><span class="sxs-lookup"><span data-stu-id="2ae16-108">At some DNS hosts, you have to take an extra step to save the zone file (where the DNS record is stored) so that it will update across the Internet.</span></span> <span data-ttu-id="2ae16-109">Preverite, ali ste shranili spremembe tako Office 365 lahko videli in preverjanje zapisa.</span><span class="sxs-lookup"><span data-stu-id="2ae16-109">Make sure you've saved your changes so Office 365 can see and verify the record.</span></span>
+- <span data-ttu-id="2ea5c-108">Na nekaterih DNS gostiteljev, moraš sprejeti dodaten korak, da shranite pas (kjer DNS zapis se shrani) tako, da bo posodobitev prek interneta.</span><span class="sxs-lookup"><span data-stu-id="2ea5c-108">At some DNS hosts, you have to take an extra step to save the zone file (where the DNS record is stored) so that it will update across the Internet.</span></span> <span data-ttu-id="2ea5c-109">Preverite, ali ste shranili spremembe tako Office 365 lahko videli in preverjanje zapisa.</span><span class="sxs-lookup"><span data-stu-id="2ea5c-109">Make sure you've saved your changes so Office 365 can see and verify the record.</span></span>
