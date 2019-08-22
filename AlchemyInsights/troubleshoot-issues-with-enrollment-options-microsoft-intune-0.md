@@ -12,21 +12,21 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: e25f544b9f94eaa6a9d090c4d21a37add5b4bdc5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9249fc562ef73078d508d7548275f336cc13caa1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353445"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36506747"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="17a9d-102">Odpravljanje težav z vpis možnosti Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="17a9d-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a><span data-ttu-id="0fb03-102">Odpravljanje težav z vpis možnosti Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="0fb03-102">Troubleshoot issues with enrollment options Microsoft Intune</span></span>
 
-<span data-ttu-id="17a9d-103">Pregledati vire spodaj za zdaj rešiti težavo.</span><span class="sxs-lookup"><span data-stu-id="17a9d-103">Review the resources listed below to resolve your issue now.</span></span>
+<span data-ttu-id="0fb03-103">Pregledati vire spodaj za zdaj rešiti težavo.</span><span class="sxs-lookup"><span data-stu-id="0fb03-103">Review the resources listed below to resolve your issue now.</span></span>
   
-- <span data-ttu-id="17a9d-104">[Pregled Intune TechNet najti odgovore in rešitve za pogoste težave](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span><span class="sxs-lookup"><span data-stu-id="17a9d-104">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
+- <span data-ttu-id="0fb03-104">[Pregled Intune TechNet najti odgovore in rešitve za pogoste težave](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span><span class="sxs-lookup"><span data-stu-id="0fb03-104">[Review Intune TechNet to find answers and solutions to common issues](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).</span></span>
 
-- <span data-ttu-id="17a9d-105">Uporabite [Intune odpravljanje težav Portal](https://aka.ms/intunetroubleshooting) diagnosticirati in odpraviti skupni vpis napak.</span><span class="sxs-lookup"><span data-stu-id="17a9d-105">Use [Intune Troubleshooting Portal](https://aka.ms/intunetroubleshooting) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="17a9d-106">Pregled [tega dokumenta](https://docs.microsoft.com/intune/help-desk-operators) za več podrobnosti.</span><span class="sxs-lookup"><span data-stu-id="17a9d-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
+- <span data-ttu-id="0fb03-105">Uporabite [Intune odpravljanje težav Portal](https://aka.ms/intunetroubleshooting) diagnosticirati in odpraviti skupni vpis napak.</span><span class="sxs-lookup"><span data-stu-id="0fb03-105">Use [Intune Troubleshooting Portal](https://aka.ms/intunetroubleshooting) to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="0fb03-106">Pregled [tega dokumenta](https://docs.microsoft.com/intune/help-desk-operators) za več podrobnosti.</span><span class="sxs-lookup"><span data-stu-id="0fb03-106">Review [this document](https://docs.microsoft.com/intune/help-desk-operators) for more details.</span></span>
 
-- <span data-ttu-id="17a9d-107">Pregled [tega dokumenta](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) za seznam pogostih napak, ki preprečujejo včlanitev in resolucije za vsako.</span><span class="sxs-lookup"><span data-stu-id="17a9d-107">Review [this document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span>
+- <span data-ttu-id="0fb03-107">Pregled [tega dokumenta](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) za seznam pogostih napak, ki preprečujejo včlanitev in resolucije za vsako.</span><span class="sxs-lookup"><span data-stu-id="0fb03-107">Review [this document](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) for a list of common errors that prevent enrollment and resolutions to each.</span></span>
 
-- <span data-ttu-id="17a9d-108">[Več o možnostih včlanitve v Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span><span class="sxs-lookup"><span data-stu-id="17a9d-108">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>
+- <span data-ttu-id="0fb03-108">[Več o možnostih včlanitve v Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span><span class="sxs-lookup"><span data-stu-id="0fb03-108">[Learn about enrollment options in Microsoft Intune](https://docs.microsoft.com/intune/enrollment-options).</span></span>
