@@ -13,19 +13,19 @@ ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: 0ee6319e09d08815d6fd96d68fc193bdbe2998a6
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 660a581ada8e7146abf366d83450171b2f440f8f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384625"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540449"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="02e04-102">Kako namestiti Mac urad iz portala</span><span class="sxs-lookup"><span data-stu-id="02e04-102">How to install Mac Office from the portal</span></span>
+# <a name="how-to-install-mac-office-from-the-portal"></a><span data-ttu-id="05cca-102">Kako namestiti Mac urad iz portala</span><span class="sxs-lookup"><span data-stu-id="05cca-102">How to install Mac Office from the portal</span></span>
 
-1. <span data-ttu-id="02e04-103">[Uninstall urad 2011 zakaj Škot s vaš računalo](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="02e04-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
+1. <span data-ttu-id="05cca-103">[Uninstall urad 2011 zakaj Škot s vaš računalo](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="05cca-103">[Uninstall Office 2011 for Mac from your computers](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-2. <span data-ttu-id="02e04-104">[Zagotovitev Mac Software downloads omogočene na portalu Office 365 admin](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="02e04-104">[Ensure Mac Software downloads are enabled on the Office 365 admin portal](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).</span></span>
+2. <span data-ttu-id="05cca-104">[Zagotovitev Mac Software downloads omogočene na portalu Office 365 admin](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="05cca-104">[Ensure Mac Software downloads are enabled on the Office 365 admin portal](https://support.office.com/article/c13051e6-f75c-4737-bc0d-7685dcedf360?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-3. <span data-ttu-id="02e04-105">[Dodeliti licenco za Office na vašem Mac uporabniki](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="02e04-105">[Assign an Office license to your Mac users](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span>
+3. <span data-ttu-id="05cca-105">[Dodeliti licenco za Office na vašem Mac uporabniki](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="05cca-105">[Assign an Office license to your Mac users](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA).</span></span>
 
-4. <span data-ttu-id="02e04-106">Uporabnik moči torej napeljati urad software sami, ali pa uporabite [Uvajanje urad za Mac uporabnike](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span><span class="sxs-lookup"><span data-stu-id="02e04-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>
+4. <span data-ttu-id="05cca-106">Uporabnik moči torej napeljati urad software sami, ali pa uporabite [Uvajanje urad za Mac uporabnike](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span><span class="sxs-lookup"><span data-stu-id="05cca-106">Users can then install the Office software themselves, or you can use [Deploy Office to your Mac users](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).</span></span>
