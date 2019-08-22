@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: f1a4803838b6511ef4fe7f03cafa4aa13b3c9734
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e4fea7188bd77ba876e2a245414372c3ff836059
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420716"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36500436"
 ---
 # <a name="troubleshoot-access-denied-messages"></a>Odpravljanje težav s postranski tajivec vest
 
-Če nekdo dobil sporočilo "Dostop zavrnjen" mapi v skupni rabi, lahko skrbnik zbirke mest omogočeno "dostop omejen uporabnik dovoljenje lockdown način." Vrteti to ne sveže: 
+Če nekdo dobil sporočilo o napaki »Dostop zavrnjen« za mape v skupni rabi v SharePoint, lahko skrbnik zbirke mest omogočeno "dostop omejen uporabnik dovoljenje lockdown način." Vrteti to ne sveže: 
   
 1. Prebrskajte do mesta, kliknite ikono in nato kliknite **Nastavitve mesta**.
     
