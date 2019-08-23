@@ -13,14 +13,14 @@ ms.custom:
 - "1639"
 - "9000134"
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
-ms.openlocfilehash: fbdbdec10ddc5724122c02ad1350c11aaf63867e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 74cec40931491a9194252dd44894c602b3c849cd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388688"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555285"
 ---
-# <a name="payment-options"></a>Možnosti plačila
+# <a name="payment-options-for-office-365-for-business-subscriptions"></a>Možnosti plačila naročnine na Office 365 za podjetja
 
 **Možnosti plačila**
   
@@ -30,7 +30,7 @@ Kreditna kartica, bančni račun (direktna obremenitev) in račun (plačilo s č
   
 Pri plačilu s kreditno kartico ali z nakazilom prek bančnega računa vam bomo en dan po datumu izstavitve računa samodejno zaračunali naročnino do konca naročniškega obdobja. [Podatke o kreditni kartici ali bančnem računu](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) lahko kadar koli posodobite. Izberete lahko tudi možnost [prejemanja kopije računa po e-pošti](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#receive-a-copy-of-your-billing-statement-in-email).
   
-Če je bila vaša kreditna kartica zavrnjena ali imate zapadli znesek, lahko izberete možnost **Takojšnje plačilo** na strani **Obračunavanje** \> [Naročnine](https://portal.office.com/adminportal/home#/subscriptions).
+Če je bila vaša kreditna kartica zavrnjena ali imate zapadli znesek, lahko izberete možnost **Poravnava zapadlega zneska** na strani **Obračunavanje** \> [Izdelki in storitve](https://portal.office.com/adminportal/home#/subscriptions).
   
 **Plačilo prek računa (ček ali elektronsko nakazilo)**
   
