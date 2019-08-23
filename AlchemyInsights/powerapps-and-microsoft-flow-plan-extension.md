@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2ed0157aff72c42a63898b03cdf8bd5ea3f980a5
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371225"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554745"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a><span data-ttu-id="b8fae-102">PowerApps in Microsoft Flow načrt razširitve</span><span class="sxs-lookup"><span data-stu-id="b8fae-102">PowerApps and Microsoft Flow plan extension</span></span>
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a><span data-ttu-id="2d397-102">PowerApps in Microsoft Flow načrt razširitve</span><span class="sxs-lookup"><span data-stu-id="2d397-102">PowerApps and Microsoft Flow plan extension</span></span>
 
-<span data-ttu-id="b8fae-103">Če nameravate zaprositi načrt razširitve za **Microsoft tok** ali **PowerApps** in vaš najemnik že aktivnih uporabnikov ene od te funkcije, je treba vložiti prošnjo za podporo.</span><span class="sxs-lookup"><span data-stu-id="b8fae-103">If you intend to request a plan extension for **Microsoft Flow** or **PowerApps** and your tenant already has active users of one of the following features, there is no need to file a support request.</span></span>
+<span data-ttu-id="2d397-103">Če nameravate zaprositi načrt razširitve za **Microsoft tok** ali **PowerApps** in vaš najemnik že aktivnih uporabnikov ene od te funkcije, je treba vložiti prošnjo za podporo.</span><span class="sxs-lookup"><span data-stu-id="2d397-103">If you intend to request a plan extension for **Microsoft Flow** or **PowerApps** and your tenant already has active users of one of the following features, there is no need to file a support request.</span></span>
 
-- <span data-ttu-id="b8fae-104">Oblikovanje in objava priključkov po meri v PowerApps in Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="b8fae-104">Creation and publication of custom connectors in PowerApps and Microsoft Flow</span></span>
-- <span data-ttu-id="b8fae-105">HTTP dejanja po meri, ki so vključeni v pretok zunaj SharePoint in OneDrive</span><span class="sxs-lookup"><span data-stu-id="b8fae-105">HTTP custom actions integrated into Flow outside SharePoint and OneDrive</span></span>
-- <span data-ttu-id="b8fae-106">Vključevanje krajevne podatkov skozi prehod podatkov krajevne</span><span class="sxs-lookup"><span data-stu-id="b8fae-106">Integration of on-premises data through the on-premises  data gateway</span></span>
+- <span data-ttu-id="2d397-104">Oblikovanje in objava priključkov po meri v PowerApps in Microsoft Flow</span><span class="sxs-lookup"><span data-stu-id="2d397-104">Creation and publication of custom connectors in PowerApps and Microsoft Flow</span></span>
+- <span data-ttu-id="2d397-105">HTTP dejanja po meri, ki so vključeni v pretok zunaj SharePoint in OneDrive</span><span class="sxs-lookup"><span data-stu-id="2d397-105">HTTP custom actions integrated into Flow outside SharePoint and OneDrive</span></span>
+- <span data-ttu-id="2d397-106">Vključevanje krajevne podatkov skozi prehod podatkov krajevne</span><span class="sxs-lookup"><span data-stu-id="2d397-106">Integration of on-premises data through the on-premises  data gateway</span></span>
 
-<span data-ttu-id="b8fae-107">Stranke z aktivnih uporabnikov, od teh funkcij bo samodejno podaljšanje do januar 31, leta 2020, ali po poteku mandata obstoječe Office 365 naročnino, kar je dlje.</span><span class="sxs-lookup"><span data-stu-id="b8fae-107">Customers with active users of these features will get an automatic extension until January 31, 2020, or the expiration of their existing Office 365 subscription term, whichever is longer.</span></span>
+<span data-ttu-id="2d397-107">Stranke z aktivnih uporabnikov, od teh funkcij bo samodejno podaljšanje do januar 31, leta 2020, ali po poteku mandata obstoječe Office 365 naročnino, kar je dlje.</span><span class="sxs-lookup"><span data-stu-id="2d397-107">Customers with active users of these features will get an automatic extension until January 31, 2020, or the expiration of their existing Office 365 subscription term, whichever is longer.</span></span>

@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: ab392a174358fc9c3da7a3c7272973743a6c4002
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: bcb53573d31b274f73f25b61f74ac127c73984a6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371134"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553520"
 ---
-# <a name="issues-with-room-mailboxes"></a><span data-ttu-id="b2d75-102">Vprašanja z sobni nabiralniki</span><span class="sxs-lookup"><span data-stu-id="b2d75-102">Issues with room mailboxes</span></span>
+# <a name="about-room-mailboxes"></a><span data-ttu-id="d29cd-102">O sobni nabiralniki</span><span class="sxs-lookup"><span data-stu-id="d29cd-102">About room mailboxes</span></span>
 
-<span data-ttu-id="b2d75-103">Če želite več informacij o sobni nabiralniki, glejte [Ustvarjanje in upravljanje nabiralnikov](https://go.microsoft.com/fwlink/p/?linkid=717533).</span><span class="sxs-lookup"><span data-stu-id="b2d75-103">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>
+<span data-ttu-id="d29cd-103">Nabiralnik je poštni nabiralnik sredstva, ki je dodeljen fizični lokaciji, konferenčna dvorana, avditorij ali soba za usposabljanje.</span><span class="sxs-lookup"><span data-stu-id="d29cd-103">A room mailbox is a resource mailbox that's assigned to a physical location, such as a conference room, an auditorium, or a training room.</span></span> <span data-ttu-id="d29cd-104">Če želite več informacij o sobni nabiralniki, glejte [Ustvarjanje in upravljanje nabiralnikov](https://go.microsoft.com/fwlink/p/?linkid=717533).</span><span class="sxs-lookup"><span data-stu-id="d29cd-104">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>
