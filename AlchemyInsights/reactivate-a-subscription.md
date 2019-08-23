@@ -13,23 +13,23 @@ ms.custom:
 - "482"
 - "1500028"
 ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
-ms.openlocfilehash: 8e64c5f315fd52a34d735ba653e9cb28821f2031
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 846fa7ebdfed5d9160f97556451e4c6d557b2a8c
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391068"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553376"
 ---
-# <a name="reactivate-a-subscription"></a>Znova aktivirajte naročnino
+# <a name="reactivate-an-office-365-subscription"></a>Znova aktivirajte naročnino na Office 365
 
 Če vam naročnina poteče, je onemogočil Microsoft, ali ste preklicali sredi trajanjem naročnine, lahko aktiviral v skrbniškem središču.
   
-1. V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
 
-2. Izberite naročnine, ki jih želite aktivirati, nato pa izberite **reaktivirati**.
+2. Izberite naročnine, ki jih želite aktivirati. V razdelku obračunavanje izberite **reaktivirati**.
 
-    Če vi nikar ne zagledati **reaktivirati** kot tožbo na voljo, uporabite možnost "naj nas pokličeš" govoriti z inženirjem za podporo aktivirati naročnino.
+    Če ne vidite **ponovno** kot tožbo, ki so na voljo, [obrnite se na podporo](https://docs.microsoft.com/office365/admin/contact-support-for-business-products?view=o365-worldwide) za ponovno aktiviranje naročnine.
 
-3. Vpišite svoje podatke za plačilo. Lahko posodobite obstoječe podatke za plačilo tukaj.
+3. Potrditev vaše plačilne podatke. Lahko posodobite obstoječe podatke za plačilo tukaj. Ko končate z vstop vaš način plačila, izberite **reaktivirati**.
 
-Ali uporabljate nov admin center? Nova navodila najdete [aktivirati naročnino](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Če želite več informacij, glejte [znova aktivirajte naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

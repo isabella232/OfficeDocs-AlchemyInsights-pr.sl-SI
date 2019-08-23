@@ -13,27 +13,30 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 93010b4923e86122fefea973c4653af827280ed4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36385628"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495047"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>Sedeži dodate predplačane naročnino
 
-1. V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+Predplačniške licence Office 365 izdajajo vam kot 25-znakov alfanumerično kodo. Ko kupite licence, ki jih potrebujete, jih lahko dodate v vaš abomna. 
 
-2. Izberite predplačniške naročnino, ki bi želeli dodati uporabnike za.
+1. V središču admin, pojdite na **zaračunavanje** > [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
 
-3. V meniju **»več dejanj«** izberite **Obnovi ali dodati licenco z žetonom**.
+2. Poišči naročnino, v katero želite dodati dovoljenja. Izberite **več dejanj** spustni seznam in izberite **Obnovi ali dodati licenco z žetonom**.
 
-4. Izberite **novo, nerabljeno zmnožek zakleniti** . (Če to naročnino je bil ustvarjen s zmnožek zakleniti kupil na drobno lokacijo, vi oblast življati predkupna pravica prišteti uporabnik s drugi načini plačila.)
+3. Na v **Obnovi ali dodajanje uporabniških licenc** stran, izberite **uporabi novo, nerabljeno zmnožek zakleniti**, nato pa izberite **naslednjo**.
 
-5. Izberite **naslednjo**.
+4. Vnesite ključ izdelka, nato izberite **naslednji**.
 
-6. Vnesite ključ izdelka, in izberite **naslednjo**.
+    > [!NOTE]
+    > Če imate več kot en ključ izdelka, lahko izberete, **povečati še eden zmnožek zakleniti** vanje.
 
-7. Izberite možnost, da dodate več uporabnikov, izberite **naslednji**, nato pa izberite **izkoristi**.
+5. Izberite Dodaj uporabnike naročnini, torej izbrati **naslednjo**.
 
-Ali uporabljate nov admin center? Nove korake, glejte [Dodajanje licenc za ali razširiti naročnino, ki se plača za uporabo a zmnožek zakleniti](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+6. Pregled vaš podrobnosti o naročilu, potem izberite **izkoristi**.
+
+Če želite več informacij, glejte [Dodajanje licenc za ali razširiti naročnino, ki se plača za uporabo a zmnožek zakleniti](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

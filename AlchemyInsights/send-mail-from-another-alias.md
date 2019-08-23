@@ -13,12 +13,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 97191c9d0f267935485ccbdeaf5243c3b4e12a97
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c84e56a7b8077698f20ca269218f684fba23f191
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388400"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551539"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>Pošljite e-pošto iz vzdevek ali sekundarni naslov
 
@@ -26,4 +26,4 @@ Office 365 trenutno ne podpira pošiljanja e-poštni vzdevek ali sekundarni e-po
   
 - [Pojdi tukaj, da ustvarite nabiralnik v skupni rabi](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-Vi moči tudi čitanje člen [Ustvari nabiralnik v skupni rabi](https://docs.microsoft.com/en-us/office365/admin/email/create-a-shared-mailbox) , ki vam bo povedal vse, kar morate vedeti o nabiralniki v skupni rabi, vključno z njihovo uporabo.
+Vi moči tudi čitanje člen [Ustvari nabiralnik v skupni rabi](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) , ki vam bo povedal vse, kar morate vedeti o nabiralniki v skupni rabi, vključno z njihovo uporabo.

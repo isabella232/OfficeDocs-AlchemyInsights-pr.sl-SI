@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d9e30e18f9821f689878867b1619d01767c34274
-ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.openlocfilehash: 2a9f35dc83e82bc169e89404ae5e697792821b79
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36171374"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36557517"
 ---
-# <a name="change-the-look-of-your-mailbox"></a>Spremenite videz vašega nabiralnika
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Spremenite videz vašega nabiralnika Outlook
 
 Spremenite lahko videz podokna seznam, ter čitanje sporočilo tako izgleda in se obnaša po želji. Izberite, ali naj bo prikazana sporočil, posamezno ali kot pogovorov, če nova sporočila se prikaže na vrhu ali na dnu seznama sporočil, in več.
 
