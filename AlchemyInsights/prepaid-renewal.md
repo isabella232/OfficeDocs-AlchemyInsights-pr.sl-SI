@@ -13,25 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: db7b3094291c476afde2769a9c803a53d4432319
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 79bbf01dde6020a18a9693d5ad0f4ae62390a245
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388616"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36554637"
 ---
-# <a name="prepaid-renewal"></a>Predplačniške podaljšanje
+# <a name="prepaid-office-365-renewal"></a>Predplačniške Office 365 podaljšanje
 
-1. V središču Admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
 
-2. Izberite predplačniške naročnino, ki bi želeli razširiti, nato pa izberite možnost **razširi**.
+2. Poišči naročnino, ki ga želite razširiti. V razdelku **zaračunavanje** izberite **razširi končni datum**.
 
-3. Izberite možnost za **zmnožek zakleniti**. (Če to je a zmnožek zakleniti kupil na drobno lokacijo, imate morda možnost, da razširi z drugih načinov plačevanja.)
+3. V **naročnino razširi** podokno, izberite **uporabi novo, nerabljeno zmnožek zakleniti**, nato pa izberite **naslednjo**.
 
-4. Vnesite ključ izdelka.
+4. Vnesite ključ izdelka, nato izberite **naslednji**.
 
-5. Preverite, ali so podatki pravilni, in izberite **naslednjo**.
+> [!NOTE]
+> Če imate več kot en ključ izdelka, lahko izberete, **povečati še eden zmnožek zakleniti** vanje.
 
-6. Izberite izbirni gumb, podaljša končni datum obstoječe licence, nato izberite **naslednji**.
+5. Pregled vaš podrobnosti o naročilu, potem izberite **izkoristi**.
 
-Ali uporabljate nov admin center? Nove korake, glejte [Dodajanje licenc za ali razširiti naročnino, ki se plača za uporabo a zmnožek zakleniti](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).
+Če želite več informacij, glejte [Dodajanje licenc za ali razširiti naročnino, ki se plača za uporabo a zmnožek zakleniti](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
