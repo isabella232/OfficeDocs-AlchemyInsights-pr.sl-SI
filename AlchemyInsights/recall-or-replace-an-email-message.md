@@ -13,20 +13,20 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 170fbd632f0289a45d9497ac26fbe7f90cf88318
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35356613"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553448"
 ---
-# <a name="recall-or-replace-an-email-message"></a>Preklic ali zamenjava e-pošto
+# <a name="recall-or-replace-an-email-message-in-office-365"></a>Preklic ali zamenjava email vest v Office 365
 
 - Lahko **samo Preklic sporočila, ki so poslana ljudem v organizaciji**. Če je bilo sporočilo poslano na Gmail naslov, na primer, lahko ne spomnim to.
 - Lahko **samo Preklic sporočila, poslana iz Outlook 2016 za PC**. Če uporabnik pošlje sporočilo z uporabo Outlook za Mac ali Outlook v spletu, lahko spomnim.
 - Če ste admin, lahko **odpoklic sporočila v imenu uporabnikov z uporabo PowerShell**. Sporočila iz centra za admin ne more spomniti. Če želite več informacij, se pomaknite navzdol do "Iskanje in brisanje e-poštnih sporočil v vaši organizaciji".
 
-***Preklic ali zamenjava e-poštno sporočilo, ki ste jo poslali***
+**Preklic ali zamenjava e-poštno sporočilo, ki ste jo poslali**
 
 1. V podoknu z mapami na levi strani Outlookovega okna, izberite mapo Poslano.
 2. Odprite sporočilo, ki ga želite spomniti. Morate klikniti dvakrat, da odprete sporočilo. Izbiri sporočila, tako da se prikaže v podoknu za branje ne omogočajo Preklic sporočila.

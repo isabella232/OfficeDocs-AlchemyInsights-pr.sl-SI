@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 956cf333f83dc681b7d74e984fdeb4c6c273d703
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34769523"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36544627"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Težave s storitvijo oblak?
 
-Če imate težave s storitvijo oblak, preverite [zdravstvene službe](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ugotoviti, ali je znana težava z ločljivostjo v teku, preden pokličite podporo ali preživijo čas za odpravljanje težav. Vprašanje je lahko zelo začasno in že določene z mikroskop, pa morda zapadejo v času med vprašanje identifikacije in napotitve na armaturno ploščo zdravstvenih storitev. Prosim še za preverjanje nadzorne plošče storitev za nadaljnje posodobitve.
+Če imate težave s storitvijo oblak, preverite [zdravstvene službe](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) v centru Microsoft 365 admin ugotoviti, ali je znana težava z ločljivostjo v teku, preden pokličite podporo ali preživijo čas za odpravljanje težav. Vprašanje je lahko zelo začasno in že določene z mikroskop, pa morda zapadejo v času med vprašanje identifikacije in napotitve na armaturno ploščo zdravstvenih storitev. Prosim še za preverjanje nadzorne plošče storitev za nadaljnje posodobitve.
 
 **Politiko priglasitev**
 

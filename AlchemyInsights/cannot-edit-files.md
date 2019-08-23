@@ -8,22 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 149bf3f8d261c2c2945ec47c47cf9ca694f7aec9
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 546d9c63d0ed37403d602e942c18d1b35caf6075
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222972"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36519704"
 ---
-# <a name="why-you-might-not-be-able-to-edit-files"></a>Zakaj morda ne boste mogli urejati datoteke?
+# <a name="cant-edit-files"></a>Ni mogoče urejati datoteke?
 
-Če dokument, delovni zvezek ali predstavitev je za urejanje zaklenil in ni mogoče odpreti, je lahko, da datoteke ne morete urejati že nekdo drug, ali imajo rezervirati datoteko. Let's sprejme hiter pogled na nekatere od razlogov, [zakaj morda ne boste mogli urediti datoteko](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Če dokument, delovni zvezek ali predstavitev je za urejanje zaklenil in ni mogoče odpreti v namiznih aplikacij Windows, lahko, da datoteke ne morete urejati že nekdo drug, ali imajo rezervirati datoteko. Let's sprejme hiter pogled na nekatere od razlogov, [zakaj morda ne boste mogli urediti datoteko](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Opomba: Knjižnice s Checkout, zahteva stolpce/metapodatkov, ali ko zaščita za elemente osnutkov nastavljen samo uporabnikom, ki lahko urejate ali le uporabniki, ki lahko odobri elemente v različico nastavitve knjižnice.
+Če imate knjižnice s **Checkout, zahteva** ali **potrditev** stolpce in metapodatkov, ali ko **Zaščita za elemente osnutkov** , ki **samo uporabnikom, ki lahko urejate** ali **samo uporabnikom, ki lahko odobri elemente** v različico nastavitve na Knjižnica:
 
-Za OneDrive knjižnice, OneDrive prikaže ikono ključavnice, poleg stanja sinhronizacije in uporabnik ne bodo mogli sinhronizirati knjižnici, dokler navedene nastavitve so bili odstranjeni.
+- Za SharePointove knjižnice dokumentov, elemente sinhronizira samo za branje.
 
-Za več informacij o zaklenjene datoteke za Word/Excel prosimo navedite vir člene spodaj.
+- Za OneDrive knjižnice, OneDrive prikaže ikono ključavnice (OneDrive datoteka zaklenjena ikona) Poleg sinhronizacijo status in uporabnik ne bo sposobna sinhronizirati knjižnici, dokler navedene nastavitve so bili odstranjeni. 
+
+Za več informacij o zaklenjene datoteke za Word ali Excel, navedite vir člene spodaj.
 
 - [Excelovo datoteko je za urejanje zaklenil drug uporabnik](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 

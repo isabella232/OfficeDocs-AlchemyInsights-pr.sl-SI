@@ -13,25 +13,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: ddc8e78f7f56110b11521f60d9c68e6fae241f5e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3f3f4f6df43a5937b10093887b703627d9cb8eeb
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388472"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36553592"
 ---
-# <a name="question-about-licenses"></a>Vprašanje o licence
+# <a name="questions-about-your-office-365-license"></a>Vprašanja o licenca za Office 365
 
 Če želite vedeti, koliko licence, ki ste ga kupili, ali koliko licence so dodeljena iz naročnino:
   
-1. V središču admin, pojdite na **zaračunavanje** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
 
-2. Izberite naročnine, ki želite več vedeti o.
+2. Pod imenom naročnino, ki želite izvedeti več o tem, lahko vidite število licenc, plačaš zakaj in koliko so na voljo dodeljena.
 
-3. Na levi strani kartice naročnina je informacije o licenc:
-
-  - **Nakup** številka je število licenc, ki jo plačujejo.
-
-  - **Dodeljena** številka je številka licence, dodeljene uporabniku.
-
-4. Če želite dodati več licenc, ali če imate preveč veliko, izberite **Dodaj/odstrani licence** prilagoditi znesek kupljene.
+Če želite dodati več licenc, ali če imate preveč veliko, izberite **Dodaj/odstrani licence** prilagoditi znesek kupljene.
