@@ -13,20 +13,20 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 9a88c1e0d66eaff5fe942de55cf2c2c3525b5602
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e654137489609da2273d199b4eedb9227c7db011
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35355389"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36549955"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Preverite email odpošiljanje nastavitve nabiralnika
 
-To je enostavno za preverjanje e-pošte, posredovanje nastavitve nabiralnika! Samo sledite tem korakom.
+To je enostavno za preverjanje e-pošte, posredovanje nastavitve na Office 365 nabiralnik! Samo sledite tem korakom.
   
-> Če je nabiralnik uporabnika, pojdite na **Uporabniki** \> **aktivnih uporabnikov** in izberite uporabnika ki ima nabiralniku naslovnika. Pod nastavitve e-pošte, izberite **Uredi** za posredovanje e-pošte.
+> Če je nabiralnik uporabnika, pojdite na **Uporabniki** \> **aktivnih uporabnikov** in izberite uporabnika ki ima nabiralniku naslovnika. Na kartici **pošta** izberite **upravljanje emaill posredovanje**.
     
-> Če je nabiralnik v skupni rabi, pojdite na **skupine** \> **nabiralniki v skupni rabi** in izberite nabiralnik v skupni rabi, naslovnika. Izberite **Uredi** za posredovanje e-pošte.
+> Če je nabiralnik v skupni rabi, pojdite na **skupine** \> **nabiralniki v skupni rabi** in izberite nabiralnik v skupni rabi, naslovnika. Urejanje **Urejanje** za posredovanje e-pošte.
 
 Za več podrobnosti, glejte [Konfiguracija e-pošte, posredovanje v Office 365](https://support.office.com/article/Configure-email-forwarding-in-Office-365-ab5eb117-0f22-4fa7-a662-3a6bdb0add74).
   
