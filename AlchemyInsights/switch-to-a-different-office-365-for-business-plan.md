@@ -13,12 +13,12 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: f87e3e019427a18ea3de7b4a764414877aec7112
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8177f08163c85856cf4446592d10177170ba1e28
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534183"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576000"
 ---
 # <a name="switch-to-a-different-office-365-for-business-plan"></a>Preklopite na različnih Office 365 za poslovni načrt
 
@@ -34,4 +34,4 @@ Ko poslovne spremembe, ali vi potreba več zunanja oblika Office 365, vi moči v
 
 5. Vnesite številko licence, ki jo potrebujete, izberite, ali želite plačati vsak mesec ali za celo leto, nato pa izberite **Checkout**.
    
-Če želite več informacij, glejte [vzpenjajoč se v drug načrt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+Ali uporabljate staro admin center? Stara navodila ali več, glej [vzpenjajoč se v drug načrt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  

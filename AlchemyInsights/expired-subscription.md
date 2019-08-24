@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 3b4377cb54cf6892e5e04b61b7cce203ebe89855
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526695"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575604"
 ---
 # <a name="expired-subscription"></a>Poteklo naročniško
 
@@ -28,14 +28,22 @@ Zdi se, da imate eno ali več potekel naročnine. Če bi želeli še storitev, m
   
 1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
 
-2. Izberite naročnine na aktivi.
+2. Poišči naročnino, ki jih želite aktivirati. V odseku **zaračunavanje** izberite **reaktivirati**.
 
-3. V razdelku **zaračunavanje** izberite **reaktivirati**.
+Če ne vidite **ponovno** kot tožbo na voljo, obrnite se na podporo za ponovno aktiviranje naročnine.
 
-Če želite več informacij, glejte [znova aktivirajte naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+3. Potrditev vaše plačilne podatke. Lahko posodobite obstoječe podatke za plačilo tukaj. Ko končate z vstop vaš način plačila, izberite **reaktivirati**.
+
+Ali uporabljate staro admin center? Stara navodila ali več, glej [aktivirati naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Nov nakup**
   
 1. V središču admin, pojdite na **zaračunavanje** \> [nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) strani.
 
-2. Izberite naročnine, ki bi želeli nakup, in izberite **kupiti**.
+2. Izberite naročnine, ki ga želite kupiti, nato pa izberite **kupiti**.
+
+3. Vnesite številko licence, da jih potrebujete, in izberite, ali želite plačati vsak mesec ali celo leto. Izberite, ali želite samodejno dodeli dovoljenja vsem, ki trenutno nima licence. Izberite, **Oglejte si zdaj**.
+
+4. Sledite preostalim korakom za dokončanje odjaviti.
+
+Ali uporabljate staro admin center? Stara navodila ali več, videti, [kupiti drugo naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

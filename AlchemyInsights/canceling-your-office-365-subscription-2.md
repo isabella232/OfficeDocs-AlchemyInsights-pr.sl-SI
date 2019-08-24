@@ -13,19 +13,19 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 18cacee394e7f1be20002cc64a9db8dd9afc61a3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75ce59fedadc22291062affd2220b08057910966
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520971"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36576108"
 ---
 # <a name="canceling-your-office-365-subscription"></a>Preklic naročnine Office 365?
 
 Smo žal da si šel!
   
-Glede na podatke, verjamemo, da vse vaše trenutne naročnine so več kot 25 dodeljene licence. Odstranite lahko uporabnike dokler imate manj kot 25, potem pojdite na **zaračunavanje** \> [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) stran in izberite **več dejanj** \> **preklicati naročnino**.
+Glede na podatke, verjamemo, da vse vaše trenutne naročnine so več kot 25 dodeljene licence. Odstranite lahko uporabnike dokler imate manj kot 25, potem pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani. V odseku **Nastavitve & dejanja** izberite **Prekliči naročnino**.
   
-Izmeničen, raba "naj nas pokličeš" možnost govoriti z inženirjem za podporo.
+Pa izberite **potrebujejo pomoč** pogovoriti z inženirjem za podporo.
   
-Če želite izvedeti več o preklic naročnine ali podrobna navodila, glejte ta članek: [Prekliči naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+Ali uporabljate staro admin center? Za stare korake, ali če želite izvedeti več, glejte [preklicati naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
