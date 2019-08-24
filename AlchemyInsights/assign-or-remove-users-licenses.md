@@ -1,7 +1,7 @@
 ---
 title: Dodelite ali odstranite dovoljenja uporabnikov
-ms.author: pebaum
-author: pebaum
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 2/24/2018
 ms.audience: Admin
@@ -11,21 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: c1658db24741e91a2ed789d172dda50e3d6bae09
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8d2b79f9a58a32a521022887ba59203c79bfd566
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517875"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574450"
 ---
-# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="ae943-102">Dodelite ali odstranite dovoljenja uporabnikov</span><span class="sxs-lookup"><span data-stu-id="ae943-102">Assign or remove users' licenses</span></span>
+# <a name="assign-or-remove-users-licenses"></a><span data-ttu-id="034f0-102">Dodelite ali odstranite dovoljenja uporabnikov</span><span class="sxs-lookup"><span data-stu-id="034f0-102">Assign or remove users' licenses</span></span>
 
-<span data-ttu-id="ae943-103">Kot admin, lahko prilagodite uporabnikov licence, kot je potrebno.</span><span class="sxs-lookup"><span data-stu-id="ae943-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="ae943-104">Člene spodaj vam bo pokazal, kako upravljati uporabnikov licence, vključno:</span><span class="sxs-lookup"><span data-stu-id="ae943-104">The articles below will show you how to manage your users' licenses, including:</span></span>
+<span data-ttu-id="034f0-103">Kot admin, lahko prilagodite uporabnikov licence, kot je potrebno.</span><span class="sxs-lookup"><span data-stu-id="034f0-103">As an admin, you can adjust your users' licenses as needed.</span></span> <span data-ttu-id="034f0-104">Člene spodaj vam bo pokazal, kako upravljati uporabnikov licence, vključno:</span><span class="sxs-lookup"><span data-stu-id="034f0-104">The articles below will show you how to manage your users' licenses, including:</span></span>
   
-- [<span data-ttu-id="ae943-105">Dodelite licence za uporabnike v Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="ae943-105">Assign licenses to users in Office 365 for business</span></span>](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc)
-    
-- [<span data-ttu-id="ae943-106">Odstraniti dovoljenja uporabnikov v Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="ae943-106">Remove licenses from users in Office 365 for business</span></span>](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1)
-    
-<span data-ttu-id="ae943-107">Ni odgovor na vaše vprašanje?</span><span class="sxs-lookup"><span data-stu-id="ae943-107">Didn't answer your question?</span></span> <span data-ttu-id="ae943-108">brez težav!</span><span class="sxs-lookup"><span data-stu-id="ae943-108">No problem!</span></span> <span data-ttu-id="ae943-109">Z možnostjo "naj nas pokličeš" govoriti inženir za podporo.</span><span class="sxs-lookup"><span data-stu-id="ae943-109">Use the "Let us call you" option to talk to a support engineer.</span></span>
-  
+- [<span data-ttu-id="034f0-105">Dodelite licence za uporabnike v Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="034f0-105">Assign licenses to users in Office 365 for business</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
+- [<span data-ttu-id="034f0-106">Odvzem licence iz uporabnikov v Office 365 za podjetja</span><span class="sxs-lookup"><span data-stu-id="034f0-106">Unassign licenses from users in Office 365 for business</span></span>](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-users)
+
+<span data-ttu-id="034f0-107">Ni odgovor na vaše vprašanje?</span><span class="sxs-lookup"><span data-stu-id="034f0-107">Didn't answer your question?</span></span> <span data-ttu-id="034f0-108">brez težav!</span><span class="sxs-lookup"><span data-stu-id="034f0-108">No problem!</span></span> <span data-ttu-id="034f0-109">Uporabite gumb "Potrebujejo pomoč" govoriti z inženirjem za podporo.</span><span class="sxs-lookup"><span data-stu-id="034f0-109">Use the "Need help" button to talk to a support engineer.</span></span>
