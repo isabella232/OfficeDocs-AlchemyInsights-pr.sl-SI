@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 7e8c31c8a1047c669cd4a8f551d8f9c8bff0dd4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9b5d4de2a39e7af0a91c5de758f6f98c5fd8457a
+ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520359"
+ms.lasthandoff: 08/26/2019
+ms.locfileid: "36631746"
 ---
 # <a name="check-in-several-files-at-once"></a>Preverite v več datotek naenkrat
 
-Preverite v več datotek v več mapah, izberite **Prikaži vse elemente brez map** iz **mape** na strani za **Urejanje pogleda** . 
+Če želite preveriti v več datotek v mapah v SharePointovi knjižnici, izberite **Prikaži vse elemente brez map** iz **mape** na strani za **Urejanje pogleda** . 
   
  **Opomba**: SharePoint Online in Office 365 trenutno ne dovoljuje več datotek pri preverjanju z sodoben način. 
   
