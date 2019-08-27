@@ -13,23 +13,23 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539945"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574778"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="fe1a0-102">Kako znova aktivirati naročnino</span><span class="sxs-lookup"><span data-stu-id="fe1a0-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="58d05-102">Kako znova aktivirati naročnino</span><span class="sxs-lookup"><span data-stu-id="58d05-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="fe1a0-103">Če je vaša naročnina potekla, je bila preklicana ali jo je Microsoft onemogočil, jo lahko znova aktivirate v Skrbniškem središču za Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="fe1a0-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="58d05-103">Če je vaša naročnina potekla, je bila preklicana ali jo je Microsoft onemogočil, jo lahko znova aktivirate v Skrbniškem središču za Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="58d05-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="fe1a0-104">V skrbniškem središču odprite stran **Obračunavanje** \> [Izdelki in storitve](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="fe1a0-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="58d05-104">V skrbniškem središču odprite stran **Obračunavanje** \> [Izdelki in storitve](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="58d05-104">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="fe1a0-105">V razdelku **Obračunavanje**, poleg možnosti **Datum podaljšanja:** ali **Poteče dne:**, izberite **Uredi**.</span><span class="sxs-lookup"><span data-stu-id="fe1a0-105">Under **Billing**, next to **Renews on** or **Expiring on**, select **Edit**.</span></span>
+2. <span data-ttu-id="58d05-105">Poiščite naročnino, ki jo želite znova aktivirati.</span><span class="sxs-lookup"><span data-stu-id="58d05-105">Find the subscription that you want to reactivate.</span></span> <span data-ttu-id="58d05-106">V razdelku **Obračunavanje** izberite **Znova aktiviraj**.</span><span class="sxs-lookup"><span data-stu-id="58d05-106">In the **Billing** section, choose **Reactivate**.</span></span>
 
-3. <span data-ttu-id="fe1a0-106">V podoknu **Nastavitve ponavljajočega se obračunavanja** izberite želeno možnost.</span><span class="sxs-lookup"><span data-stu-id="fe1a0-106">In the **Recurring billing settings** pane, select the option you want.</span></span> <span data-ttu-id="fe1a0-107">Če je ponavljajoče se obračunavanje že izklopljeno, izberite **Mesečno** ali **Enkrat**, da ga vklopite.</span><span class="sxs-lookup"><span data-stu-id="fe1a0-107">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
+    <span data-ttu-id="58d05-107">Če možnost **Znova aktiviraj** ni prikazana, pokličite podporo, naj vam znova aktivira vašo naročnino.</span><span class="sxs-lookup"><span data-stu-id="58d05-107">If you don't see **Reactivate** as an available action, call support to reactivate your subscription.</span></span>
 
-4. <span data-ttu-id="fe1a0-108">Izberite **Pošlji spremembo**.</span><span class="sxs-lookup"><span data-stu-id="fe1a0-108">Select **Submit change**.</span></span>
+3. <span data-ttu-id="58d05-108">Potrdite podrobnosti plačila.</span><span class="sxs-lookup"><span data-stu-id="58d05-108">Confirm your payment details.</span></span> <span data-ttu-id="58d05-109">Tukaj lahko posodobite informacije o plačilu.</span><span class="sxs-lookup"><span data-stu-id="58d05-109">You can update your existing payment information here.</span></span> <span data-ttu-id="58d05-110">Ko ste vnesli način plačila, izberite možnost **Znova aktiviraj**.</span><span class="sxs-lookup"><span data-stu-id="58d05-110">When you're finished entering your payment method, choose **Reactivate**.</span></span>
 
-<span data-ttu-id="fe1a0-109">Če želite več informacij, glejte: [Podaljšanje naročnine na Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="fe1a0-109">For more information, see: [Renew Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)</span></span>
+<span data-ttu-id="58d05-111">Še vedno uporabljate staro skrbniško središče?</span><span class="sxs-lookup"><span data-stu-id="58d05-111">Are you using the old admin center?</span></span> <span data-ttu-id="58d05-112">Če želite prikazati stare korake ali izvedeti več o tem, preberite članek [Vnovična aktivacija naročnine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="58d05-112">For old steps, or to learn more, see [Reactivate your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span>
