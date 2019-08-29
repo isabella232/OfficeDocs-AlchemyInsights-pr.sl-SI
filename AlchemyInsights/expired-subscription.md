@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 37f1cc48d328b1307f528124695529b30a5f0c65
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 9c2d0ec8723235eb666cff01789817a531213df9
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575604"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665056"
 ---
 # <a name="expired-subscription"></a>Poteklo naročniško
 
@@ -34,7 +34,7 @@ Zdi se, da imate eno ali več potekel naročnine. Če bi želeli še storitev, m
 
 3. Potrditev vaše plačilne podatke. Lahko posodobite obstoječe podatke za plačilo tukaj. Ko končate z vstop vaš način plačila, izberite **reaktivirati**.
 
-Ali uporabljate staro admin center? Stara navodila ali več, glej [aktivirati naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Če želite izvedeti več, glejte [znova aktivirajte naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
 
 **Nov nakup**
   
@@ -46,4 +46,4 @@ Ali uporabljate staro admin center? Stara navodila ali več, glej [aktivirati na
 
 4. Sledite preostalim korakom za dokončanje odjaviti.
 
-Ali uporabljate staro admin center? Stara navodila ali več, videti, [kupiti drugo naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Če želite izvedeti več, glejte [kupiti drugo naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).

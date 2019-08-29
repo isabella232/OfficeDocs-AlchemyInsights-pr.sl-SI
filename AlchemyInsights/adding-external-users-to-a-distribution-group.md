@@ -1,23 +1,22 @@
 ---
 title: Zunanje uporabnike dodate skupine prejemnikov
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/22/2017
+ms.author: chrisda
+author: chrisda
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: ce0c589e1661fb4607452fe2e8f897758b2718e8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 641636add2069fc395df9af156d8c011493a634a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494543"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660808"
 ---
-# <a name="add-external-users-to-a-distribution-group"></a>Zunanji uporabniki dodati skupine prejemnikov?
+# <a name="add-external-users-to-a-distribution-group"></a>Zunanji uporabniki dodati skupine prejemnikov
 
-Dodajanje zunanji stik za distribucijo skupine (direktorata) je 2 korakih:
+Dodajanje zunanji stik za distribucijo skupine (direktorata) je dvostopenjski proces:
   
 1. Ustvarite poštni stik za zunanjega uporabnika:
     

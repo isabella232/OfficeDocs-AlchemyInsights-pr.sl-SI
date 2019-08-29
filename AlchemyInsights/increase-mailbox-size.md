@@ -1,9 +1,8 @@
 ---
-title: Povečanje velikosti nabiralnika
+title: Povečajte velikost nabiralnika
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/27/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +12,31 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 67575a64090b013e9cd65123100c77f6f3599cdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8e5e674c2e214c6c4d8f964006853d7ab18527e5
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499331"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661780"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>Stikalo načrte za povečanje velikosti nabiralnika
+# <a name="switch-plans-to-increase-mailbox-size"></a>Preklapljanje med načrti za povečanje velikosti nabiralnika
 
-Če velikost nabiralnika je že 100 GB, ni nikakor ne poveča. V tem primeru sledite [ta nasvet](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71).
+Če je vaš Office 365 nabiralnik velikost že 100 GB, ni načina, da ga povečate. V tem primeru upoštevajte [ta nasvet](https://support.office.com/client/e57572ff-0ba7-4782-ba5d-cdac3142ea71).
   
-Če velikost nabiralnika je 50 GB, boste lahko povečali 100 GB s prehodom na [Office 365 podjetje E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ali [Office 365 podjetje E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tu so koraki, da preklopite v drug načrt Office 365:
+Če je velikost nabiralnika 50 GB, jo lahko povečate na 100 GB tako, da preklopite na [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ali [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tukaj so koraki za preklop na drug paket Office 365:
   
-1. V centru Microsoft 365 admin, pojdite na stran za [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) ali izberite **zaračunavanje** \> **naročnine**.
+1. V skrbniškem središču Microsoft 365 pojdite na stran za **obračunavanje** \> [izdelkov _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Če si želite ogledati seznam novih načrtov, ki so na voljo izberite **stikalo načrtov** .
+2. Izberite naročnino, ki jo želite nadgraditi.
 
-3. Izberite načrt za prikaz novih skupnih stroškov na mesec. Bodite prepričani, da preberite **ključne informacije**, nato izberite **naslednji** odjaviti.
+3. Na strani s podrobnostmi o naročnini izberite **Nadgradnja**.
 
-4. Ko končate checkout, Office 365 traja nekaj minut za dokončanje stikalo. Lahko začnete uporabljati novo naročnino takoj.
+4. Poiščite načrt, ki ga želite nadgraditi, nato pa izberite gumb **nadgradi** .
 
-Za več podrobnosti, glejte [preklopite na drug načrt Office 365](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
+5. Vnesite število licenc, ki jih potrebujete, izberite, ali želite plačati vsak mesec ali celo leto, nato pa izberite **Checkout**.
+
+Če želite več podrobnosti, glejte [Nadgradnja na drug načrt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+
+Ali uporabljate staro skrbniško središče? Za podrobnosti glejte [preklop na drug načrt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan). 
   
-Če imate [O365 načrt, ki podpira Arhiv v mesto](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), lahko dobite tudi shranjevanje dodatne e-pošte za omogočanje arhivskega nabiralnika.  Arhivskega nabiralnika vam dodatni prostor za shranjevanje in vam omogoča premikanje, kopiranje in iskanje sporočil v obeh primarnega in arhivskega nabiralnika. Navodila po korakih za omogočanje arhivskega nabiralnika, glejte [Omogočanje arhivskega nabiralnika](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+Če imate [načrt O365, ki podpira Arhiv v mestu](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description), lahko dobite tudi dodatno shrambo za e-pošto, tako da omogočite arhivski nabiralnik.  Arhivski nabiralnik vam nudi dodatno shrambo in omogoča premikanje, kopiranje in iskanje sporočil v primarnem in arhivskem nabiralniku. Če želite navodila za omogočanje arhivskega nabiralnika, glejte [Omogočanje arhivskega nabiralnika](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

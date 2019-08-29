@@ -3,25 +3,24 @@ title: 305 poveča velikost arhivskega nabiralnika
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391537"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661816"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>Povečati velikost arhivskega nabiralnika
 
 Office 365 [omejitve](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) velikosti arhivski nabiralniki, ki temelji na licenco, ki je dodeljeno uporabniškemu računu. Ko arhivskega nabiralnika doseže 90 % dovoljene velikosti, uporabnik prejme obvestilo. Ko arhivskega nabiralnika doseže omejitev velikosti, uporabnik ne more premakniti več elementov v arhivski nabiralnik. Office 365 ne poveča velikost arhivskega nabiralnika, ko je dosežena omejitev velikosti. Namesto tega, uporabnik lahko posluži naslednjih dejanj sprostiti prostor v arhivski nabiralnik:
 
-- Izvoz na elemente v datoteko .pst z uporabo Outlooka
+- Izvoz na elemente v datoteko .pst z uporabo Outlooka.
 
 - Izbrišite elemente iz arhivskega nabiralnika.
 

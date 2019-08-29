@@ -2,7 +2,6 @@
 title: Vzpostavitev projekta
 ms.author: pebaum
 author: pebaum
-ms.date: 6/12/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +11,17 @@ ms.custom:
 - "1600006"
 ms.assetid: e0fcdfdb-288e-43d2-a445-7b63e594afc6
 description: Cilj več kot 500 besed za članek.
-ms.openlocfilehash: 551ccbb34135b415fa90893ac3e6230762e718b6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0a9d519b34dad0519cc2a1dbf6a8ed26e73b04d8
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508871"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666208"
 ---
 # <a name="setting-up-project"></a>Vzpostavitev projekta
 
-Izgleda, da potrebujete pomoč pri pripravi projekta z naročnino Office 365.
-Obvestilo za uporabnike Mac: projekt izdelek trenutno ni na voljo za MacOS. Če imate računalnik mora biti zmožen umestiti software using lestev spodaj.
+ Nastavite Microsoft Project, sledite korakom v [tem članku](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx).
+
+**Obvestilo za uporabnike Mac:** Projekt izdelek trenutno ni na voljo za MacOS. 
   
-Sledite korakom v [tem članku](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281.aspx)zadobiti vaš dokončala.
-  
-Če tečeš v napake med namestitvijo, [namestite projekt s podporo in regres pomočnika](https://aka.ms/SaRA-ProjectSetupScenario)
+Če zaženete v napake med namestitvijo, [namestite projekt s podporo in regres pomočnika](https://aka.ms/SaRA-ProjectSetupScenario).

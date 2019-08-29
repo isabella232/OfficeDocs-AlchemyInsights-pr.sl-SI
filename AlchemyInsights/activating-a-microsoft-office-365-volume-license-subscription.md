@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574486"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661204"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktiviranje Microsoft Office 365 zvitek dati dovoljenje abomna
 
@@ -30,6 +30,6 @@ ms.locfileid: "36574486"
 
 4. Aktivacijo email vam dve možnosti: **prijavite se**, ali **vpisati**. Če ste že ustvarili sojenja, izberite **prijava**. Če še nimate Office 365 najemnik, izberite **prijavite**.
 
-5. Prijavite se v Office 365 ([https://portal.office.com](https://portal.office.com)) s skrbniškimi poverilnicami obstoječe Office 365. Ko se boste uspešno vpisali, boste prejeli drugo sporočilo, ki potrjuje vaš nakup.
+5. Prijavite se v skrbniško središče Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) s skrbniškimi poverilnicami obstoječe Office 365. Ko se boste uspešno vpisali, boste prejeli drugo sporočilo, ki potrjuje vaš nakup.
 
 6. Ko ste prijavljeni, lahko greš na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani za preverjanje vaše kupljene Office 365 naročnine so vkljuèene v vaš najemnik. (Izberete lahko tudi zavihek **naročnina** v VLSC, če si želite ogledati podrobnosti, preverjanje, da se vaša naročnina deponirala.)

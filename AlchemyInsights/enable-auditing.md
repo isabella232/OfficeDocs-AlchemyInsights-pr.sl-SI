@@ -3,7 +3,6 @@ title: Omogoči in iskanje dnevnika nadzora
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +12,16 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 37ffbe6a3c94edc3b9888b1544e9e29097d3425a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527739"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665092"
 ---
 # <a name="enable-and-search-the-audit-log"></a>Omogoči in iskanje dnevnik nadzora
+
+**Office 365**
 
 Iskanje dnevnik nadzora Office 365, sledite [tem korakom](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -28,7 +29,7 @@ Iskanje dnevnik nadzora Office 365, sledite [tem korakom](https://docs.microsoft
 
 - Admin dejavnosti izmenjave so nadzorovani z ne izpolniti obveznosti.
 
-- Mi smo v procesu, ki omogoča nabiralnik nadzor privzeto v Office 365. Do takrat, da bi omogočili nadzor za en nabiralnik ali za vse nabiralnike v organizaciji, glejte [Ta članek](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Omogočen je nadzor nabiralnika privzeto v Office 365. Če želite več informacij, glejte [Ta članek](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
 - Office 365 skupina nabiralnikov in nabiralnikov javno mapo v Exchange Online ne podpira zapisovanja.
 
