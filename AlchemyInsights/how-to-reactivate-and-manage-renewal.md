@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574558"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663976"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kako aktivirati in upravljanje ponavljajočih zaračunavanja
 
@@ -32,7 +32,7 @@ Izgleda, da imate naročnino, ki se je iztekel. Če želite aktivirati to, tukaj
 
 3. Potrditev vaše plačilne podatke. Lahko posodobite obstoječe podatke za plačilo tukaj. Ko končate z vstop vaš način plačila, izberite **reaktivirati**.
 
-Ali uporabljate staro admin center? Stara navodila ali več, glej [aktivirati naročnino](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Če želite izvedeti več, glejte [znova aktivirajte naročnino](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 Obvladovati, mesečno ali letno plačevanja vam lahko vklopi **ponavljanje zaračunavanje** ali izklopi.
   
@@ -46,4 +46,4 @@ Obvladovati, mesečno ali letno plačevanja vam lahko vklopi **ponavljanje zara�
 
 5. Izberite **Pošlji spremeniti**.
 
-Ali uporabljate staro admin center? Za stare korake, ali če želite izvedeti več, glejte [Vklop ponavljajoče se zaračunavanje off ali na](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Če želite izvedeti več, glejte [Vklop ponavljajoče se zaračunavanje off ali na](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

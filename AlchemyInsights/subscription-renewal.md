@@ -13,12 +13,12 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 5514117e56daeb9098c5d90caccc230261f3177c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501381"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666028"
 ---
 # <a name="subscription-recurring-billing"></a>Ponavljajoče se zaračunavanje naročnine
 
@@ -30,4 +30,4 @@ ms.locfileid: "36501381"
 
 4. Spremeniti, izberite **Uredi** in nato v podoknu nastavitve **ponavljajoči zaračunavanje** , izberite **Možnost izklopi** vrteti to ne sveže. Če ponavljajoče se zaračunavanje že izklopljen, izberite **mesečno** ali **ko** ga vklopite.
 
-Če želite več informacij, glejte [Vklop ponavljajoče se zaračunavanje off ali na](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Če želite izvedeti več, glejte [Vklop ponavljajoče se zaračunavanje off ali na](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

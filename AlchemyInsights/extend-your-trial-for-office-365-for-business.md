@@ -1,9 +1,8 @@
 ---
-title: Podaljšanje vaš poskus za Office 365 Beta za podjetja
+title: Razširiti vaš poskus zakaj urad 365 zakaj posel
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 52e65c95ec8ac0176d30ae8a13a62ba843fbcf34
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575655"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665020"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>Podaljšanje vaš poskus za Office 365 Beta za podjetja
+# <a name="extend-your-trial-for-office-365-for-business"></a>Podaljšanje sojenja za Office 365 za podjetja
 
-Če vaša preskusna naročnina je v 15 dneh od izteče in postopka ni bil razširjen pred, lahko razširite vaš poskus za drugo 30-dnevnem obdobju. Naredite lahko samo tokrat.
+Če vaš poskus abomna je notranja stran 15 days od izteče ter poskus hasnt ' been razširiti spredaj, vi moči razširiti vaš poskus zakaj še eden 30-dan rok. To lahko storiš samo enkrat.
   
-1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
+1. V skrbniškem središču pojdite na stran za **obračunavanje** \> [izdelkov _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Izberite preskusne naročnine, ki jo želite razširiti.
+2. Izberite preskusno naročnino, ki jo želite razširiti.
 
-3. V **oddelkih & dejanja** , izberite možnost **razširi poskus** in nadaljujte s preostalimi koraki.
+3. V odseku razdelka **_ Amp_ dejanja** izberite **razširi preskusno različico** in dokončajte preostale korake.
 
-4. Boste potrebovali podatke o kreditni kartici za podaljšanje vaš poskus. Mi ne zaračuna kreditno kartico za poskus razširitve.
+4. Za podaljšanje sojenja morate posredovati podatke o kreditni kartici. Vaše kreditne kartice ne bomo zaračunali za poskusno podaljšanje.
 
-Ali uporabljate staro admin center? Stara navodila ali več, glej [razširiti vaš poskus za Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+Če želite izvedeti več, glejte [razširitev preskušanja za Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).

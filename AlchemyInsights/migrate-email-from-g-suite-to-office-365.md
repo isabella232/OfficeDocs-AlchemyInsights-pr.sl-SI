@@ -13,14 +13,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: 748196bc9244f06c50e3fdd2ecfc23f607422f23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d09df8227678f9e9ab7f4cf995782aa0085aa129
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544601"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666928"
 ---
 # <a name="migrate-email-from-g-suite-to-office-365"></a>Selitev e-pošte iz G Suite v Office 365
 
-Selitev e-pošte iz G Suite v Office 365, uporabite orodja za selitev selitev e-pošte, koledarja in bele¾k: [Izvedi G Suite migracije](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
+Selitev e-pošte iz G Suite v Office 365, uporabite orodja za selitev za selitev e-pošte, koledarja in bele¾k: [Izvedi G Suite migracije](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
   

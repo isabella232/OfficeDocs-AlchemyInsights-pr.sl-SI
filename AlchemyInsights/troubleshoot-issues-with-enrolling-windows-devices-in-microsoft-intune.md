@@ -1,9 +1,8 @@
 ---
-title: Odpravljanje težav z vpisom naprav Windows Microsoft Intune
+title: Odpravljanje težav z včlanjanjem v naprave s sistemom Windows v programu Microsoft InTune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +11,35 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: be66135b80f32f78266ef2b6a7b3f5b30e24d5fc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b298360fe31d3f52ef382e5b8f25ee3588c36c8
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559677"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665848"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Odpravljanje težav z vpisom naprav Windows Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Odpravljanje težav z včlanjanjem v naprave s sistemom Windows v programu Microsoft InTune
 
-Pregledati vire spodaj za zdaj rešiti težavo.
+Preglejte spodaj navedene vire, da odpravite težavo zdaj.
   
-Neki splošen zmota vest ter odložnost lestev:
+Nekatera pogosta sporočila o napakah in koraki reševanja:
   
- **Programske opreme ni mogoče namestiti, 0x80cf4017:** Vaš račun potrdilo je poteklo. Drugi ton oktave-travnato gričevje PC odjemalca programski paket v Admin konzoli Intune. Pregled ta dokumentacija za več informacij.
+ **Programske opreme ni mogoče namestiti, 0x80cf4017:** Potrdilo o računu je poteklo. Re-Download PC Client paket programske opreme v InTune admin Console. Za več informacij preglejte to dokumentacijo.
   
- **Zmota zbornik 0x801c0003:** Napaka se lahko pojavi v naslednjih primerih:
+ **Koda napake 0x801c0003:** Napaka se lahko pojavi v naslednjih scenarijih:
   
-1. Uporabnik ima več naprav, ki so vpisani presega omejitev naprave. Pregled teh dokumentov [odstranite napravo](https://docs.microsoft.com/intune/devices-wipe) ali [spremeniti omejitev naprave](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+-  Uporabnik ima več naprav, vpisanih kot omejitev naprave. Preglejte te dokumente, če želite [odstraniti napravo](https://docs.microsoft.com/intune/devices-wipe) ali [spremeniti omejitev naprave](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
 
-2. »Uporabniki lahko pridružijo naprave Azure oglas« nastavljen na "brez". Jo nastavite na vse ali izberite Uporabniki. Pregled [ta dokumentacija](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) za več informacij.
+-  "Uporabnik maj združiti načrt v Azure AD" je število enakih oseb v "nič". Nastavite jo na vse ali izberite uporabnike. Če želite več informacij, preglejte [to dokumentacijo](https://docs.microsoft.com/azure/active-directory/device-management-azure-portal#configure-device-settings) .
 
-3. Naprava je vpisan že drug uporabnik. Če je temu tako, odstranite napravo iz Azure Intune konzole ali ročno izpisati napravo, preden poskusite znova.
+-  Napravo je že vpisal drug uporabnik. V tem primeru odstranite napravo iz konzole Azure InTune ali ročno izvlecite napravo, preden znova poskušate.
 
-4. Naprava je Windows 10 domov. Samo okno 10 Pro, izobraževanje in podjetja SKUs lahko pridruži Azure storitve Active Directory.
+-  Naprava je Windows 10 Home. V Azure Active Directory se lahko pridružijo samo Windows 10 Pro, izobraževanje in Enterprise SKUs.
 
-Dodatna sredstva za pomoč pri reševanju težave:
+Dodatni viri, ki vam pomagajo odpraviti težavo:
   
-1. Uporabite [Intune odpravljanje težav Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnosticirati in odpraviti skupni vpis napak. Pregled [tega dokumenta](https://docs.microsoft.com/intune/help-desk-operators) za več podrobnosti.
+-  Uporabite [InTune odpravljanje težav portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) za diagnosticiranje in reševanje pogostih napak včlanitve. Za več podrobnosti preglejte [ta dokument](https://docs.microsoft.com/intune/help-desk-operators) .
 
-2. Pregled teh dokumentov seznam pogostih napak, ki preprečujejo včlanitev in resolucije posameznim: [Priročnik za odpravljanje težav](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) in [Odpravljanje težav doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+-  Preglejte te dokumente za seznam pogostih napak, ki preprečujejo včlanitev in resolucije vsakemu: [vodnik za odpravljanje težav](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) in [Odpravljanje težav z zdravnikom](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
 
-[Naučite se, kako vpisati naprav Windows Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
+[Naučite se včlaniti naprave Windows v Microsoft InTune](https://docs.microsoft.com/intune/windows-enroll).

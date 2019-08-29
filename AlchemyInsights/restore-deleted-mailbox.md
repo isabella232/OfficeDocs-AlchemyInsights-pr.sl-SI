@@ -2,7 +2,6 @@
 title: Obnovitev izbrisan nabiralnik
 ms.author: pebaum
 author: pebaum
-ms.date: 9/12/2017
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -16,24 +15,22 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 9fc1980b5c1d5a0bd9df032b14e2010b7f0d5873
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 44b23be5e75a0669821bbeb07b0f064eeef6d021
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551863"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666388"
 ---
 # <a name="restore-a-deleted-mailbox"></a>Obnovitev izbrisanega nabiralnika
 
-Ko uporabnik izgubi svoj Exchange Online licenco, svoj nabiralnik ohrani za 30 dni in preprosto ponovno dodelite dovoljenje za uporabnika je mogoče izterjati.
+Ko uporabnik izgubi licenco za Exchange Online, svoj nabiralnik ohrani za 30 dni in preprosto ponovno dodelite dovoljenje za uporabnika je mogoče izterjati.
   
- *Bo to delo le v 30 dneh.*  V portalu Admin, pojdite na:
+ *Bo to delo le v 30 dneh.*  
   
-1. **Uporabniki** \> **Aktivnih** uporabnikov. Izberite zadevni uporabnik.
+1. V centru Microsoft 365 admin, pojdite na **Uporabniki** \> **aktivnih uporabnikov** strani. Izberite zadevni uporabnik.
 
-2. Pritisnite **Uredi** spremeniti licencah izdelkov
+2. Na kartici **dovoljenja in Apps** dodelite Exchange Online licenco in izberite **Shrani spremembe**.
 
-3. Dodelite Exchange Online licenco in pritisnite **Shrani**
-
-Če poskušate obnoviti nabiralnik v skupni rabi, je tudi mogoče predelati za 30 dni. Najdete jih pod **uporabnik** \> **Izbrisano** uporabnikov; nabiralniki v skupni rabi zahteva licenco. Če se zavedaš, da boste morali obnoviti z izbrisanim uporabnikom, prosimo, glejte [obnovitev uporabnik v Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
+Če poskušate obnoviti nabiralnik v skupni rabi, je tudi mogoče predelati za 30 dni. Najdete jih pod **uporabnik** \> **Izbrisano uporabnikov**; nabiralniki v skupni rabi zahteva licenco. Če se zavedaš, da boste morali obnoviti z izbrisanim uporabnikom, prosimo, glejte [obnovitev uporabnik v Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user).
   

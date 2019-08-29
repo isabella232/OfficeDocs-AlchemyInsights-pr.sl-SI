@@ -1,9 +1,8 @@
 ---
-title: Alkimija - Outlook error "ne more zagnati Microsoft Outlook"
+title: Alchemy-Outlook napaka "ne morem zagnati Microsoft Outlook"
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
-ms.date: 9/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "457"
 - "1800017"
 ms.assetid: ebdbdce7-6366-4dc0-84e0-54dacb938680
-ms.openlocfilehash: ad7663fbc4d62ab880905b8911eac2cac3ac0740
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f17ff5ccd11ca5769885f10a596cde85677ba5a3
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505631"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664552"
 ---
-# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlook error: "Ne more zagnati Microsoft Outlook"
+# <a name="outlook-error-cannot-start-microsoft-outlook"></a>Outlookova napaka:» Microsoft Outlook ne more zagnati «
 
-Ali imate težave začne Outlook 2016, Outlook 2013 ali Outlook 2010, ali prejemanje "ne more zagnati Microsoft Outlook. Ni mogoče odpreti Outlookovo okno"zmota vest?
+Ali imate težave z zagonom Outlooka 2016, Outlook 2013 ali Outlook 2010, ali prejemanje "ne morem zagnati Microsoft Outlook. Ni mogoče odpreti Outlookovega okna» sporočila o napakah «?
   
-Najprej uporabite korake za odpravljanje težav v [tem članku](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) za pomoč pri reševanju teh vprašanj za začetek. 
+Najprej uporabite korake za odpravljanje težav v [tem članku](https://support.office.com/article/I-can-t-start-Microsoft-Outlook-2016-2013-or-2010-or-receive-the-error-Cannot-start-Microsoft-Office-Outlook-Cannot-open-the-Outlook-Window-d1f69da6-b333-4650-97bf-4d77bd7abb85) , da odpravite težave pri odpravljanju teh zagonskih težav. 
   
-Zaženete lahko tudi [Orodja za dodatno diagnostiko](https://aka.ms/SaRA-OutlookAdvDiagnostics) na prizadetih stroj. 
+[Orodje za napredno diagnostiko](https://aka.ms/SaRA-OutlookAdvDiagnostics) lahko zaženete tudi v prizadetem računalniku. 
   
 

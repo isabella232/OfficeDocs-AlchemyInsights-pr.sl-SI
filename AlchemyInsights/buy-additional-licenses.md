@@ -3,7 +3,6 @@ title: Kupiti dodatne licence
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +12,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: f41cfd77ce1173e6786f25316f04e84bfa35af07
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36575964"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664732"
 ---
 # <a name="buy-additional-office-365-licenses"></a>Kupiti dodatne licence Office 365
 
@@ -28,14 +27,13 @@ ms.locfileid: "36575964"
 
     [Kaj pa, če ne vidite povezavo Dodaj/odstrani?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses#what-if-i-dont-see-the-addremove-licenses-link)
 
-3. V polje **Skupna licence** vpiše skupno število licenc, ki jih potrebujete za to naročnino, in izberite **Pošlji* spremembo **. Na primer, če imate 100 licence, morate dodati več 5 vnesite 105.
+3. V polje **Skupna licence** vpiše skupno število licenc, ki jih potrebujete za to naročnino, in izberite **Pošlji spremeniti**. Na primer, če imate 100 licence, morate dodati več 5 vnesite 105.
 
     > [!NOTE]
     > Če plačujete naročnino s kreditno kartico ali bančni račun, nove licence, ki jih kupite so na voljo takoj, ko prejmete prejeli potrdilo o naročilu. Če boste plačali račun, boste morali čakati za preverjanje kredita, preden vaše nove licence so na voljo za uporabo.
 
-Ali uporabljate staro admin center? Za stare korake ali če želite izvedeti več videti, [kupiti licence za vaš Office 365 za podjetja naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+Če želite izvedeti več, glejte [nakup licenc za vaš Office 365 za podjetja naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
 
 **Dodatni viri**
 
 - [Dodelitev dovoljenj uporabnikom v Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
-

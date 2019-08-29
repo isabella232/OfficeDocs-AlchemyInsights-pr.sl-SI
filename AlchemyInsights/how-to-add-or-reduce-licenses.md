@@ -3,7 +3,6 @@ title: Kako povečati ali zmanjšati licenc
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +12,16 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 64a7566ff4e1759e8687179d49bac47f7e28bf6a
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574958"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36664300"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>Kako povečati ali zmanjšati licenc
 
-Evo, kako odstraniti ali kupiti več licence Office 365.
+Evo, kako odstraniti Office 365 licence ali nakup več licenc.
   
 1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
 
@@ -39,7 +38,7 @@ Evo, kako odstraniti ali kupiti več licence Office 365.
 > [!NOTE]
 > Vse nove dajatve (licenco povečanje) ali kreditno (licenco zmanjšanje) bo prikazal na naslednjem računu.
 
-Ali uporabljate staro admin center? Za stare korake ali če želite izvedeti več videti, [kupiti licence za vaš Office 365 za podjetja naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Če želite izvedeti več, glejte [nakup licenc za vaš Office 365 za podjetja naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
  **Dodatni viri**
   
