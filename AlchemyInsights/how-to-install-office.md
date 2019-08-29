@@ -3,7 +3,6 @@ title: Namestitev sistema Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,18 +12,18 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 8283183eb4f151711180dd4aebc187cb7be42fe0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a200db8ea5dcfc4a1da0c984f299028ebc3b0f6
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540269"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663903"
 ---
 # <a name="how-to-install-office"></a>Namestitev sistema Office
 
 Če želite namestiti Officeove odjemalske aplikacije, morate imeti naročnino za podjetja, kot je Office 365 Business Premium, Office 365 Business ali Office 365 Education.
   
-*OPOMBA: [Office Home and Business 2016](https://products.office.com/home-and-business) je izdelek [Office za domačo uporabo](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) in ni del naročnine za podjetja. Podrobna navodila za Visio ali Project so na voljo v članku [namestitev Visia](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ali [Projecta](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*
+*OPOMBA: [Office Home and Business](https://products.office.com/home-and-business) je izdelek [Office za domačo uporabo](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) in ni del naročnine za podjetja. Podrobnejša navodila za program Visio ali Project so na voljo v članku [Namestitev programa Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) ali [Namestitev programa Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 
 Ustvarite uporabniški račun in dodajte svojo domeno. Zagotovite, da ima uporabnik [dodeljeno licenco](https://support.office.com/article/997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=Alchemy_ClientDIA).
 
@@ -35,4 +34,4 @@ Vsak uporabnik naj naredi to:
 3. V razdelku »Office« izbere jezik. Izbere **Dodatno**, kjer izbere 32-bitno ali 64-bitno različico.
 4. Izbere **Namesti**.
 
-Za podrobna navodila in odpravljanje napak pri nameščanju Officea glejte: [Prenos in namestitev ali vnovična namestitev Officea v računalnik s sistemom Windows ali računalnik Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).
+Za podrobnejša navodila in odpravljanje napak pri nameščanju Officea preberite članek [Prenos in namestitev ali vnovična namestitev Officea v računalnik s sistemom Windows ali računalnik Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA).

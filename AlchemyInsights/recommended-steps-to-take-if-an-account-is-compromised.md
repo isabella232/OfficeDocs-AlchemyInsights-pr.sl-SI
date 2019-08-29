@@ -2,7 +2,6 @@
 title: Priporočeni koraki v primeru ogroženega računa
 ms.author: pebaum
 author: pebaum
-ms.date: 10/2/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,12 +9,12 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 71ccb6c4bd3c9f3d229a391f820df72e2d01ee37
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 6c18059616c0900f330e0cdb5d1076ff28a5b76c
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35904206"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36666568"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Priporočeni koraki v primeru ogroženega računa
 
@@ -27,7 +26,7 @@ ms.locfileid: "35904206"
 
 3. Odstranite vsa sumljiva [pravila nabiralnika](https://support.office.com/article/1433E3A0-7FB0-4999-B536-50E05CB67FED), nastavljena v nabiralniku.
 
-4. Če je uporabnik blokiran in ne more pošiljati e-pošte, [izberite razdelek »Omejeni uporabniki« in deblokirajte račun](https://protection.office.com/?hash=/restrictedusers). Ko dokončate ta postopek, bi morala biti za uporabnika v 1 uri znova omogočena funkcija pošiljanja sporočil.
+4. Če je uporabnik blokiran in ne more pošiljati e-pošte, [pojdite v razdelek »Omejeni uporabniki« in odblokirajte račun](https://protection.office.com/?hash=/restrictedusers). Ko dokončate ta postopek, bi morala biti za uporabnika v 1 uri znova omogočena funkcija pošiljanja sporočil.
 
 5. Odstranite uporabniški račun iz katerih koli [skupin skrbniških vlog](https://support.office.com/article/eac4d046-1afd-4f1a-85fc-8219c79e1504), dokler niste prepričani, da račun ni več ogrožen.
 
