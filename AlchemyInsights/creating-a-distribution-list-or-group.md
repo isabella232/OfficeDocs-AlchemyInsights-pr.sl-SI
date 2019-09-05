@@ -1,5 +1,5 @@
 ---
-title: Ustvarjanje seznama prejemnikov ali skupine 711
+title: 711 ustvarjanje distribucijskega seznama ali skupine
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: d2fda9d8dd238b5c7881930b02bdd04de6bff3bf
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ed2e30b37f521d3c93fcffed281dbbb0c355d305
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665272"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740769"
 ---
-# <a name="create-distribution-groups"></a>Ustvarjanje skupin prejemnikov
+# <a name="create-distribution-groups"></a>Ustvarjanje distribucijskih skupin
 
-Uporabite skupine prejemnikov (znan tudi kot Distribucijski seznami) v Office 365 za dostavo e-poštnih sporočil skupinam ljudi znotraj in zunaj organizacije. Ustvarja jih je enostavno! Za navodila glejte [Ustvarjanje distribucijskih seznamov v skrbniškem središču Microsoft 365](https://support.office.com/article/b1ffe755-59e5-4369-826d-825f145a8400).
+Distribucijske skupine (imenovane tudi seznami prejemnikov) v Officeu 365 za dostavo e-poštnih sporočil skupinam oseb znotraj in zunaj organizacije. Ustvarjanje jih je enostavno! Če želite navodila, glejte [ustvarjanje seznamov prejemnikov v skrbniškem središču za Microsoft 365](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).
 
-**Opomba**: admin mora upravljanje članstva skupine prejemnikov. Če želite, da uporabniki upravljate svoje članstvo v skupini seznami, boste morda želeli razmisliti [Office 365 skupine](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) namesto.
+**Opomba**: skrbnik mora upravljati članstvo v distribucijski skupini. Če želite, da uporabniki upravljajo lastne sezname članov skupine, lahko namesto tega razmislite o [skupini Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) .

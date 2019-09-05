@@ -1,5 +1,5 @@
 ---
-title: Nastavi gesla nikoli ne potečejo
+title: Nastavitev gesel za nikoli ne poteče
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f5383fc3-d7fc-4efb-93b7-a520b374099a
-ms.openlocfilehash: 835998c6adfbd7c0f0024aecaa5181fc5d1d89a5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b74e12a2618ff34d27886eb6b8cf628f689307b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550099"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741129"
 ---
-# <a name="set-passwords-to-never-expire"></a>Nastavi gesla nikoli ne potečejo
+# <a name="set-passwords-to-never-expire"></a>Nastavitev gesel za nikoli ne poteče
 
-Nastavite gesla nikoli ne preneha s [varnost &amp; zasebnosti](https://portal.office.com/adminportal/home#/settings/security). Poleg politike v gesla kliknite "Edit", in pa drsnik za "naprej".
+Nastavite gesla, ki nikoli ne potečejo iz [varnostne &amp; zasebnosti](https://portal.office.com/adminportal/home#/settings/security). Kliknite» Uredi «ob pravilniku o geslu in zavrtite drsnik na» on «.
   
-Za podrobnejše informacije glej: [Nastavi geslo politiko poteka v organizaciji](https://support.office.com/article/set-the-password-expiration-policy-for-your-organization-0f54736f-eb22-414c-8273-498a0918678f).
+Za podrobnejše informacije glejte: [nastavite pravilnik o poteku gesla za vašo organizacijo](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
   
 

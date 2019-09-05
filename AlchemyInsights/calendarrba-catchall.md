@@ -1,5 +1,5 @@
 ---
-title: 1081 koledar - RBA CatchAll
+title: 1081 koledar-RBA CatchAll
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "1081"
 - "3800012"
 ms.assetid: cac06cc1-fcf0-4223-b431-22a3b8ae9fe0
-ms.openlocfilehash: 9dca67b4cab81f564256d40e91750fc2ce217fd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1649ff6579895a79f6fd0f96db698d40e61ba3b8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505883"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737637"
 ---
 # <a name="create-and-manage-room-mailboxes"></a>Ustvarjanje in upravljanje nabiralnikov
 
-Za ustvarjanje in spreminjanje sobni nabiralniki, glej [Ustvarjanje in upravljanje nabiralnikov](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
+Če želite ustvariti in spremeniti sobno nabiralnike, glejte [Ustvarjanje in upravljanje nabiralnikov](https://docs.microsoft.com/Exchange/recipients/room-mailboxes).
 
-Če želite izvedeti več o sobi nabiralnikih in nabiralnikih opreme (znan tudi kot nabiralnike sredstev), glej [nabiralniki prostora in opreme](https://support.office.com/article/9f518a6d-1e2c-4d44-93f3-e19013a1552b.aspx).
+Če želite izvedeti več o nabiralnikih prostora in opreme (znanih tudi kot nabiralniki virov), glejte [nabiralnike in opreme](https://docs.microsoft.com/office365/admin/manage/room-and-equipment-mailboxes).

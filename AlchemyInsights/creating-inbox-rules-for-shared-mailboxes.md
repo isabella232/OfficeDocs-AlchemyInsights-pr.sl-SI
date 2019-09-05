@@ -1,5 +1,5 @@
 ---
-title: Ustvarjanje pravila za prejeto pošto za nabiralniki v skupni rabi
+title: Ustvarjanje pravil» Prejeto «za nabiralnike v skupni rabi
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -13,16 +13,16 @@ ms.custom:
 - "1800021"
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: d64e7441bb1a701144921b9b2345bfeea005d090
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9182ff22f183385cf6577f911bc37cd3d22c8f84
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514851"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740733"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a>Ustvarjanje pravila za prejeto pošto za nabiralniki v skupni rabi
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a>Ustvarjanje pravil» Prejeto «za nabiralnike v skupni rabi
 
-Dodate lahko pravila na nabiralnik v skupni rabi, boste imeli dostop do na podoben način, kako dodati pravila na svoj račun.
+V nabiralnik v skupni rabi lahko dodate pravila, do katerih imate dostop na podoben način, kako dodate pravila v svoj račun.
   
-Preverite, ali ste član v nabiralnik v skupni rabi, in nato sledite korakom v tem članku: [Dodaj pravila za nabiralnik v skupni rabi](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)
+Prepričajte se, da ste član zadevnega nabiralnika v skupni rabi in sledite korakom v tem članku: [Dodajanje pravil v nabiralnik v skupni rabi](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)
   

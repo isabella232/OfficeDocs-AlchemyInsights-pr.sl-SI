@@ -1,5 +1,5 @@
 ---
-title: Nastaviti ali spremeniti dovoljenja za javne mape
+title: Nastavljanje ali spreminjanje dovoljenj za javno mapo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cffdf9bf-34ce-40f6-a69e-d02f17d9caef
-ms.openlocfilehash: 3f891beeba8303b05d6730f608034e22b2bcdb92
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1015c2203406e15d6b418c387b6632a182d6d2ff
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550171"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734685"
 ---
 # <a name="permissions-and-public-folders"></a>Dovoljenja in javne mape
 
-Lahko spremenite dovoljenja na javne mape z Outlookom, izmenjavo admin center (EAC), ali PowerShell:
+Dovoljenja v javnih mapah lahko spremenite z Outlookom, skrbniškim centrom Exchange (EAC) ali lupino PowerShell:
   
-- Outlook navodila, [Kliknite tukaj](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
+- Za Outlookova navodila [Kliknite tukaj](https://support.office.com/article/Set-or-change-permissions-for-a-public-folder-b2e0440c-7873-48ec-9ff2-b1a20b723005.aspx).
     
-- EAC, si oglejte [Ta članek](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) za navodila. Lahko kliknete [tukaj](https://support.office.com/article/ https://outlook.office365.com/ecp/.aspx) za navigacijo EAC. 
+- Za EAC glejte [Ta članek](https://technet.microsoft.com/library/jj651147%28v=exchg.150%29.aspx.aspx#Anchor_1) za navodila. 
     
-- Powershell, glejte [Ta članek](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) za navodila o uporabi Dodaj-PublicFolderClientPermission commandlet. Če potrebujete navodila za povezavo za izmenjavo Powershell, kliknite [tukaj](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
+- Zakaj PowerShell, nanašati se na [to člen](https://technet.microsoft.com/library/bb124743%28v=exchg.160%29.aspx.aspx) zakaj navodila naprej using povečati-PublicFolderClientPermission commandlet. Če potrebujete navodila za vzpostavljanje povezave z Exchangeevim PowerShell, kliknite [tukaj](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx.aspx).
     
-Če **zunanji uporabniki ne more poslati e-pošte za poštne javno mapo**, je razlog morda da javne mape manjka dovoljenja zahteva za zunanji elektronski pošti. Lahko to popravimo z uporabo Outlook navodila [tukaj](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1), ali PowerShell navodila [tukaj](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
+Če **zunanji uporabniki ne morejo pošiljati e-poštnih sporočil v javno mapo z omogočeno pošto**, je morda razlog za to, da javna mapa manjka dovoljenja, potrebna za zunanjo dostavo e-pošte. To lahko odpravite s pomočjo Outlookovih navodil [tukaj](https://technet.microsoft.com/library/aa997560%28v=exchg.150%29.aspx.aspx#Anchor_1)ali navodilom PowerShell [tukaj](https://support.microsoft.com/help/2984402/-5.7.1-smtp-550-5.7.1-resolver.rst.authrequired-nondelivery-report-when-external-users-try-to-send-mail-to-mail-enabled-public-folders-in-office-365.aspx).
   
 

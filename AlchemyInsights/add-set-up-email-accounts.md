@@ -1,5 +1,5 @@
 ---
-title: 1800018 Dodaj/nastavitev e-poštnih računov
+title: 1800018 Dodaj/nastavi e-poštne račune
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 26e4840f0feb38d8e12c593c00953c376d0817f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 67420eb543762a42a93c7f727ea5bb5345e00bc8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494975"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737997"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Težave vzpostavitev izmenjave e-poštni račun v Outlook
+# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Težave pri nastavljanju e-poštnega računa Exchange v programu Outlook
 
-Če imate težave vzpostavitev računa Exchange v Outlooku, lahko zaženete [orodje Setup račun Outlook](https://aka.ms/SaRA-OutlookSetupProfile) v računalniku prizadetih. To bo izvajanje preverjanj in možne rešitve za vaš račun setup vprašanje.
+Če imate težave pri nastavljanju Exchangeevega računa v programu Outlook, lahko zaženete [orodje za nastavitev Outlookovega računa](https://aka.ms/SaRA-OutlookSetupProfile) v prizadetem računalniku. Izvedla bo različne preglede in zagotovila možne rešitve za vašo težavo z nastavitvijo računa.
   
-Če imate še vedno vprašanja, glejte [Outlook ne morete nastaviti nov profil z uporabo Exchange Autodiscover za nabiralnikom Exchange Online v Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).
+Če imate še vedno težave, glejte [Outlook ne more nastaviti novega profila tako, da uporabi Exchange Autodiscover za nabiralnik Exchange Online v Officeu 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
   
