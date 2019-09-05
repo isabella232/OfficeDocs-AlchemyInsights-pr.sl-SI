@@ -1,6 +1,6 @@
 ---
-title: Objavljanje infrastrukture s strani, komunikacijske
-ms.author: kirks
+title: Objavljanje infrastrukture s komunikacijskim mestom
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/14/2019
 ms.audience: ITPro
@@ -9,18 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: fb6607f90369f2b98aa3e957132c8c97182cc13b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 66e133f427913282e21fb8edb9f9b2b2294734f8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553689"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752408"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a><span data-ttu-id="a6cd2-102">Objavljanje infrastrukture s strani, komunikacijske</span><span class="sxs-lookup"><span data-stu-id="a6cd2-102">Publishing Infrastructure with a Communication Site</span></span>
+# <a name="publishing-infrastructure-with-a-communication-site"></a><span data-ttu-id="f32e2-102">Objavljanje infrastrukture s komunikacijskim mestom</span><span class="sxs-lookup"><span data-stu-id="f32e2-102">Publishing Infrastructure with a Communication Site</span></span>
 
 
-<span data-ttu-id="a6cd2-103">SharePoint Server Publishing infrastrukture funkcijo je **ne podpira** komunikacijo mesta.</span><span class="sxs-lookup"><span data-stu-id="a6cd2-103">Enabling the SharePoint Server Publishing Infrastructure feature is **not supported** with Communication Sites.</span></span> 
+<span data-ttu-id="f32e2-103">Omogočanje funkcije za objavljanje infrastrukture SharePoint Server **ni podprto** s komunikacijskimi mesti.</span><span class="sxs-lookup"><span data-stu-id="f32e2-103">Enabling the SharePoint Server Publishing Infrastructure feature is **not supported** with Communication Sites.</span></span> 
   
-<span data-ttu-id="a6cd2-104">Več informacij, glejte [selitev iz založništvo lokacij za sporočilo mesta](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience).</span><span class="sxs-lookup"><span data-stu-id="a6cd2-104">For more info, see [Moving from Publishing sites to Communication sites](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience).</span></span> 
+<span data-ttu-id="f32e2-104">Če želite več informacij, glejte [premikanje od mest za objavljanje do komunikacijskih mest](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience).</span><span class="sxs-lookup"><span data-stu-id="f32e2-104">For more info, see [Moving from Publishing sites to Communication sites](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience).</span></span> 
   
 

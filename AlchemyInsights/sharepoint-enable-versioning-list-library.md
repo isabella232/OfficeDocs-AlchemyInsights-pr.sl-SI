@@ -1,5 +1,5 @@
 ---
-title: Različice v SharePoint in OneDrive
+title: Različice v SharePointu in storitvi OneDrive
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -12,33 +12,33 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 9c1ffe8c384a76d3df425623285fa4f9ebf757f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 606dcbb1523e54d6edeeb59573d1e98dda0ac88e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503975"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744369"
 ---
-# <a name="versioning-in-sharepoint-and-onedrive"></a><span data-ttu-id="e9d5f-102">Različice v SharePoint in OneDrive</span><span class="sxs-lookup"><span data-stu-id="e9d5f-102">Versioning in SharePoint and OneDrive</span></span> 
+# <a name="versioning-in-sharepoint-and-onedrive"></a><span data-ttu-id="1f73f-102">Različice v SharePointu in storitvi OneDrive</span><span class="sxs-lookup"><span data-stu-id="1f73f-102">Versioning in SharePoint and OneDrive</span></span> 
 
 
-<span data-ttu-id="e9d5f-103">Ko je omogočeno shranjevanje različic na SharePointovem seznamu ali v knjižnici, lahko shranjevanje, sledenje in obnavljanje elementov na seznamu in datoteke v knjižnici, vsakič, ko se spreminjajo.</span><span class="sxs-lookup"><span data-stu-id="e9d5f-103">When versioning is enabled in your SharePoint list or library, you can store, track, and restore items in a list and files in a library whenever they change.</span></span> <span data-ttu-id="e9d5f-104">Različic, v kombinaciji z drugimi nastavitvami, na primer checkout, vam daje veliko nadzora nad vsebino, ki je objavljen na vašo spletno stran in lahko zagotovi realne vrednosti, če imate kdaj treba gledati ali obnoviti staro različico element ali datoteko.</span><span class="sxs-lookup"><span data-stu-id="e9d5f-104">Versioning, combined with other settings, such as checkout, gives you a lot of control of the content that is posted on your site and can provide real value if you ever have a need to look at or restore an old version of an item or file.</span></span>
+<span data-ttu-id="1f73f-103">Ko je na SharePointovem seznamu ali v knjižnici omogočeno shranjevanje različic, lahko elemente na seznamu in datotekah v knjižnici shranjujete, spremljate in obnavljanja, kadar koli se spremenijo.</span><span class="sxs-lookup"><span data-stu-id="1f73f-103">When versioning is enabled in your SharePoint list or library, you can store, track, and restore items in a list and files in a library whenever they change.</span></span> <span data-ttu-id="1f73f-104">Različic, v kombinaciji z drugimi nastavitvami, kot je Checkout, vam daje veliko nadzora nad vsebino, ki je objavljen na vašem spletnem mestu in lahko zagotovi realno vrednost, če ste kdaj morali pogledati ali obnoviti staro različico elementa ali datoteke.</span><span class="sxs-lookup"><span data-stu-id="1f73f-104">Versioning, combined with other settings, such as checkout, gives you a lot of control of the content that is posted on your site and can provide real value if you ever have a need to look at or restore an old version of an item or file.</span></span>
 
-<span data-ttu-id="e9d5f-105">Za več informacij o različic obiščite je pod članki.</span><span class="sxs-lookup"><span data-stu-id="e9d5f-105">For more information on versioning please visit the below articles.</span></span>
+<span data-ttu-id="1f73f-105">Za več informacij o različic obiščite spodnje članke.</span><span class="sxs-lookup"><span data-stu-id="1f73f-105">For more information on versioning please visit the below articles.</span></span>
 
-- [<span data-ttu-id="e9d5f-106">Kako deluje različic na SharePointovem seznamu ali v knjižnici</span><span class="sxs-lookup"><span data-stu-id="e9d5f-106">How does versioning work in a SharePoint list or library</span></span>](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
+- [<span data-ttu-id="1f73f-106">Kako deluje različic na SharePointovem seznamu ali v knjižnici</span><span class="sxs-lookup"><span data-stu-id="1f73f-106">How does versioning work in a SharePoint list or library</span></span>](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 
-- [<span data-ttu-id="e9d5f-107">Omogočanje in konfiguriranje različic za seznam ali knjižnico</span><span class="sxs-lookup"><span data-stu-id="e9d5f-107">Enable and configure versioning for a list or library</span></span>](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f&amp;ui=en-US&amp;rs=en-US&amp;ad=US)
+- [<span data-ttu-id="1f73f-107">Omogočanje in konfiguriranje različic za seznam ali knjižnico</span><span class="sxs-lookup"><span data-stu-id="1f73f-107">Enable and configure versioning for a list or library</span></span>](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f)
 
-- [<span data-ttu-id="e9d5f-108">Ogled zgodovine različic</span><span class="sxs-lookup"><span data-stu-id="e9d5f-108">How to view version history</span></span>](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
+- [<span data-ttu-id="1f73f-108">Ogled zgodovine različic</span><span class="sxs-lookup"><span data-stu-id="1f73f-108">How to view version history</span></span>](https://support.office.com/article/View-the-version-history-of-an-item-or-file-in-a-list-or-library-53262060-5092-424D-A50B-C798B0EC32B1)
 
-- [<span data-ttu-id="e9d5f-109">Obnovite prejšnjo različico datoteke v OneDrive</span><span class="sxs-lookup"><span data-stu-id="e9d5f-109">Restore a previous version of a file in OneDrive</span></span>](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [<span data-ttu-id="1f73f-109">Obnovitev prejšnje različice datoteke v storitvi OneDrive</span><span class="sxs-lookup"><span data-stu-id="1f73f-109">Restore a previous version of a file in OneDrive</span></span>](https://support.office.com/article/restore-a-previous-version-of-a-file-in-onedrive-159cad6d-d76e-4981-88ef-de6e96c93893)
 
-- [<span data-ttu-id="e9d5f-110">Oglejte si prejšnje različice Officeovih datotek</span><span class="sxs-lookup"><span data-stu-id="e9d5f-110">View previous versions of Office files</span></span>](https://support.office.com/article/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
+- [<span data-ttu-id="1f73f-110">Oglejte si prejšnje različice Officeovih datotek</span><span class="sxs-lookup"><span data-stu-id="1f73f-110">View previous versions of Office files</span></span>](https://support.office.com/article/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
-- [<span data-ttu-id="e9d5f-111">Omejitev različic</span><span class="sxs-lookup"><span data-stu-id="e9d5f-111">Versioning limits</span></span>](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+- [<span data-ttu-id="1f73f-111">Omejitve različic</span><span class="sxs-lookup"><span data-stu-id="1f73f-111">Versioning limits</span></span>](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
-><span data-ttu-id="e9d5f-112">Če ste Office 365 kupca, različic je zdaj privzeto vklopljen ko ustvarite nov OneDrive za poslovne knjižnice, in bo samodejno shranjevanje zadnjih 500 različice dokumenta.</span><span class="sxs-lookup"><span data-stu-id="e9d5f-112">If you are an Office 365 customer, versioning is now turned on by default when you create new OneDrive for Business libraries, and it will automatically save the last 500 versions of a document.</span></span> <span data-ttu-id="e9d5f-113">To bo pomagalo preprečiti izgubo pomembnih dokumentov ali podatkov.</span><span class="sxs-lookup"><span data-stu-id="e9d5f-113">This will help you prevent losing important documents or data.</span></span> <span data-ttu-id="e9d5f-114">Če imate obstoječe knjižnice na vaš OneDrive za poslovne spletne strani ali na spletnem mestu skupine ki nimajo omogočenega shranjevanja različic, lahko vklopite različic za njih kadarkoli.</span><span class="sxs-lookup"><span data-stu-id="e9d5f-114">If you have existing libraries on your OneDrive for Business site or on your team site that do not have versioning enabled, you can turn versioning on for them at any time.</span></span>
+><span data-ttu-id="1f73f-112">Če ste stranka Office 365, je pri ustvarjanju novih knjižnic v storitvi OneDrive za podjetja privzeta nastavitev različic privzeto vklopljena in samodejno shrani zadnje 500 različice dokumenta.</span><span class="sxs-lookup"><span data-stu-id="1f73f-112">If you are an Office 365 customer, versioning is now turned on by default when you create new OneDrive for Business libraries, and it will automatically save the last 500 versions of a document.</span></span> <span data-ttu-id="1f73f-113">To vam bo pomagalo preprečiti izgubo pomembnih dokumentov ali podatkov.</span><span class="sxs-lookup"><span data-stu-id="1f73f-113">This will help you prevent losing important documents or data.</span></span> <span data-ttu-id="1f73f-114">Če imate obstoječe knjižnice na spletnem mestu OneDrive za podjetja ali na mestu ekipe, ki nima omogočenih različic, lahko kadar koli vklopite različice.</span><span class="sxs-lookup"><span data-stu-id="1f73f-114">If you have existing libraries on your OneDrive for Business site or on your team site that do not have versioning enabled, you can turn versioning on for them at any time.</span></span>
 
 

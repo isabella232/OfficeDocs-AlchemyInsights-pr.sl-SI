@@ -1,6 +1,6 @@
 ---
-title: Upravljanje iskanja slovarji v SharePoint Online
-ms.author: kirks
+title: Upravljanje iskalnih slovarjev v SharePoint online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 78aaf013c3fa8f5ed4c91b1c651ba2328ed73402
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542132"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754424"
 ---
-# <a name="manage-search-dictionaries"></a><span data-ttu-id="725f6-102">Upravljanje iskanja slovarji</span><span class="sxs-lookup"><span data-stu-id="725f6-102">Manage search dictionaries</span></span>
+# <a name="manage-search-dictionaries"></a><span data-ttu-id="8d08a-102">Upravljanje iskalnih slovarjev</span><span class="sxs-lookup"><span data-stu-id="8d08a-102">Manage search dictionaries</span></span>
 
-<span data-ttu-id="725f6-103">Išči slovarji v SharePoint online upravlja v shrambi izrazov SharePoint Online, ki se nahaja v središču nove admin SharePoint.</span><span class="sxs-lookup"><span data-stu-id="725f6-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="725f6-104">Če želite več informacij o tem, kako dodati ali urediti iskanje slovarji, glejte [upravljanje Išči slovarji](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="725f6-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
+<span data-ttu-id="8d08a-103">Iskalne slovarje v SharePointu v spletu upravljate v trgovini SharePoint online Term Store, ki je v novem skrbniškem središču SharePoint.</span><span class="sxs-lookup"><span data-stu-id="8d08a-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="8d08a-104">Če želite več informacij o dodajanju ali urejanju iskalnih slovarjev, glejte [upravljanje iskalnih slovarjev](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="8d08a-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="725f6-105">Če ne vidite Išči slovar nabor izrazov se pojavljajo v shrambi izrazov, počakajte 24 ur.</span><span class="sxs-lookup"><span data-stu-id="725f6-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="725f6-106">Če je slovar, ki še vedno ne pojavljajo po 24 ur, prijavite podporo vozovnice.</span><span class="sxs-lookup"><span data-stu-id="725f6-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
+<span data-ttu-id="8d08a-105">Če v trgovini z izrazom ne vidite nabora izraza za iskalni slovar, počakajte 24 ur.</span><span class="sxs-lookup"><span data-stu-id="8d08a-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="8d08a-106">Če se slovar še vedno ne pojavlja po 24 urah, prosimo, prijavite podporo vozovnice.</span><span class="sxs-lookup"><span data-stu-id="8d08a-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
   

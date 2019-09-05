@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav Setup za Stream - upravljanje tok licenciranja
+title: Odpravljanje težav z nastavitvijo za tok – upravljanje licenciranja toka
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 7c1a870c8dff53c937e98bc3f690b237762b1638
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559209"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742641"
 ---
-# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="54de9-102">Upravljanje licenc Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="54de9-102">Managing Microsoft Stream licenses</span></span>
+# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="6e1cc-102">Upravljanje licenc za Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="6e1cc-102">Managing Microsoft Stream licenses</span></span>
 
-<span data-ttu-id="54de9-103">**Pomembno:** Moraš biti v vlogi najemniškega skrbnika opraviti postopke, opisane v tej temi.</span><span class="sxs-lookup"><span data-stu-id="54de9-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
+<span data-ttu-id="6e1cc-103">**Pomembno:** Če želite izvesti operacije, opisane v tej temi, morate biti v vlogi skrbnika najemnika.</span><span class="sxs-lookup"><span data-stu-id="6e1cc-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
 
-<span data-ttu-id="54de9-104">Moraš biti svetovnih admin ali upravljanje uporabnikov admin. Če želite več informacij, glejte [o Office 365 admin vloge](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).</span><span class="sxs-lookup"><span data-stu-id="54de9-104">You need to be either a Global admin or a User Management admin. For more information, see [About Office 365 admin roles](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).</span></span>
+<span data-ttu-id="6e1cc-104">Vi potreba v obstati vsak izmed obeh a kroglast pomoč ali a uporabnik uprava pomoč. Če želite več informacij, glejte [o vlogah skrbnika](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="6e1cc-104">You need to be either a Global admin or a User Management admin. For more information, see [About admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).</span></span>
 
-<span data-ttu-id="54de9-105">Dodelite [dovoljenja za uporabniške račune z Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span><span class="sxs-lookup"><span data-stu-id="54de9-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>
+<span data-ttu-id="6e1cc-105">[Za uporabniške račune lahko dodelite licence za Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span><span class="sxs-lookup"><span data-stu-id="6e1cc-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>

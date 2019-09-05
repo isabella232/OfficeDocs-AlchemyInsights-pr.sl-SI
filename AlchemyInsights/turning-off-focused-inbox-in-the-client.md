@@ -1,5 +1,5 @@
 ---
-title: 911 izklop osredotočen Prejeto v odjemalcu
+title: 911 izklop usmerjenega nabiralnika v odjemalcu
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "911"
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
-ms.openlocfilehash: 4c16029e3266638a618305d8e548172f48266f03
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 20f28659b2b4a3d8920c2143cfa25bc109fc0096
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559029"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742389"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a><span data-ttu-id="c6448-102">Izklopite osredotočena Prejeto v email varovanci</span><span class="sxs-lookup"><span data-stu-id="c6448-102">Turn off Focused Inbox in email clients</span></span>
+# <a name="turn-off-focused-inbox-in-email-clients"></a><span data-ttu-id="fd9d0-102">Izklop usmerjenega nabiralnika v e-poštnih odjemalcih</span><span class="sxs-lookup"><span data-stu-id="fd9d0-102">Turn off Focused Inbox in email clients</span></span>
 
-<span data-ttu-id="c6448-103">Ugasniti osredotočena Prejeto leta Outlook 2016, Outlook v spletu, Outlook.com/Hotmail.com, 2016 Outlook za Mac, ali pošte za Windows 10, glej, [izklopite osredotočena Prejeto](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span><span class="sxs-lookup"><span data-stu-id="c6448-103">To turn off Focused Inbox in Outlook 2016, Outlook on the web, Outlook.com/Hotmail.com, Outlook 2016 for Mac, or Mail for Windows 10, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span></span>
+<span data-ttu-id="fd9d0-103">Če želite izklopiti ciljno mapo» Prejeto «v programu Outlook 2016, Outlook v spletu, Outlook.com/Hotmail.com, Outlook 2016 za Mac ali mail za Windows 10, glejte [izklop usmerjenega nabiralnika](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span><span class="sxs-lookup"><span data-stu-id="fd9d0-103">To turn off Focused Inbox in Outlook 2016, Outlook on the web, Outlook.com/Hotmail.com, Outlook 2016 for Mac, or Mail for Windows 10, see [Turn off Focused Inbox](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).</span></span>
 
-<span data-ttu-id="c6448-104">Če želite izklopiti osredotočena Prejeto za vsakogar v organizaciji, glej [Oblikovati osredotočeno Prejeto za vsakogar v vaši organizaciji](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span><span class="sxs-lookup"><span data-stu-id="c6448-104">To turn off Focused Inbox for everyone in the organization, see [Configure Focused Inbox for everyone in your organization](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).</span></span>
+<span data-ttu-id="fd9d0-104">Če želite izklopiti ciljno mapo» Prejeto «za vse v organizaciji, glejte [Konfiguracija usmerjenega nabiralnika za vse v vaši organizaciji](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="fd9d0-104">To turn off Focused Inbox for everyone in the organization, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
