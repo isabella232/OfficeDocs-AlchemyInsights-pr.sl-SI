@@ -1,6 +1,6 @@
 ---
-title: Dovoljenja vprašanj med selitvijo
-ms.author: kirks
+title: Težave z dovoljenji med migracijo
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/18/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbec51a7-5513-4848-a9ae-cdf993e000a8
-ms.openlocfilehash: 50f98fad1c4e37af1e8dacb76e0af1addafe0dc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33e605ff3019f52bbd0be876d485ff389b260a44
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554921"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752637"
 ---
-# <a name="user-profile-and-photo-synchronization"></a>Sinhronizacija uporabniškega profila in fotografija
+# <a name="user-profile-and-photo-synchronization"></a>Uporabniški profil in sinhronizacija fotografij
 
- **Foto sinhronizacijo profila** - uporabniki lahko opazite, da svoj profil fotografija ne sinhronizira v SharePoint. Ali, morda ste poskusili posodobiti svoj profil fotografija in fotografija še vedno zdi, kot staro fotografijo. Za zagotovitev profil fotografija kaže, kot je bilo pričakovano, uporabnik morali začeti foto sinhronizacijo. 
+ **Profil foto sinhronizacija** -uporabniki lahko opazite, da njihova fotografija profila ni sinhroniziranje s SharePointom. Morda so poskušali posodobiti fotografijo profila, fotografija pa je še vedno prikazana kot stara fotografija. Če želite zagotoviti, da je fotografija profila prikazana po pričakovanjih, bo uporabnik moral sprožiti sinhronizacijo fotografij. 
   
-Če želite več informacij o postopek sinhronizacije fotografijo, vidite [informacije o sinhronizacijo profila slik v Office 365](https://go.microsoft.com/fwlink/?linkid=2022634)
+Če želite več informacij o postopku sinhronizacije fotografij, si oglejte [informacije o sinhronizaciji slike profila v Officeu 365](https://go.microsoft.com/fwlink/?linkid=2022634)
   
-- **Sinhronizacijo profila** - čas, ki je potreben za dokončanje sinhronizacije profila je odvisna od števila sprememb (delo) posel uvoza AD je proces. Če obstaja veliko sprememb, posel razporejevalnika je veliko dela storiti, in bo trajalo dlje, za spremembe se odražajo v program uporabniškega profila. Če je posel razporejevalnika je majhni količini dela, spremembe odrazijo v veliko hitreje programa uporabniškega profila. 
+- **Sinhronizacija profila** – čas, ki je potreben za dokončanje sinhronizacije profila, je odvisen od števila sprememb (dela), ki jih mora obdelati posel uvoza oglasa. Če obstaja veliko sprememb, ima delo razporejevalnika veliko dela in bo trajalo dlje, da se spremembe odražajo v aplikaciji uporabniškega profila. Če ima posel razporejevalnika majhen obseg dela, se bodo spremembe odražale v aplikaciji uporabniški profil veliko hitreje. 
   
-Če želite več informacij o postopek sinhronizacije profila, vidite [informacije o sinhronizacije uporabniškega profila v SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022639)
+Če želite več informacij o postopku sinhronizacije profila, si oglejte [informacije o sinhronizaciji uporabniških profilov v spletnem mestu SharePoint online](https://go.microsoft.com/fwlink/?linkid=2022639)
     
-- **Posodobitev profila v urad jama** - jama uporabniki lahko upravljate svoj profil Office 365. Če želite več informacij, glejte [ogledate in posodobite svoj profil v urad jama](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
+- **Modernizirati profil v urad delve** -delve uporabnik moči jahalna šola svoj urad 365 profil. Če želite več informacij, glejte [Ogled in posodabljanje profila v Officeu Delve](https://support.office.com/article/View-and-update-your-profile-in-Office-Delve-4e84343b-eedf-45a1-aeb9-8627ccca14ba).
     
 

@@ -1,6 +1,6 @@
 ---
-title: Preverite v več datotek naenkrat
-ms.author: kirks
+title: Preverite v več datotekah hkrati
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 9b5d4de2a39e7af0a91c5de758f6f98c5fd8457a
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 70b441ca4c8751a84603e923adabd56c87f3ea92
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631746"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755036"
 ---
-# <a name="check-in-several-files-at-once"></a>Preverite v več datotek naenkrat
+# <a name="check-in-several-files-at-once"></a>Preverite v več datotekah hkrati
 
-Če želite preveriti v več datotek v mapah v SharePointovi knjižnici, izberite **Prikaži vse elemente brez map** iz **mape** na strani za **Urejanje pogleda** . 
+Če želite preveriti v več datotekah v več mapah v SharePointovi knjižnici, izberite **Prikaži vse elemente brez map** pod **mapami** na strani s **pogledom za urejanje** . 
   
- **Opomba**: SharePoint Online in Office 365 trenutno ne dovoljuje več datotek pri preverjanju z sodoben način. 
+ **Opomba**: SharePoint online in Office 365 trenutno ne omogočata več datotek pri preverjanju s sodobnim načinom. 
   
-Glej bolj pogosto zastavljena vprašanja o check-in/check-out, glej [vprašanja o preverite, preverite v, Top in različice](https://go.microsoft.com/fwlink/?linkid=2018786).
+Oglejte si pogosta vprašanja o prijavi/odjava, glejte [najpogostejša vprašanja o prijavi, prijavi in različicah](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

@@ -1,6 +1,6 @@
 ---
-title: Uvod v SharePoint Online
-ms.author: kirks
+title: Uvod v SharePoint online
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,17 +10,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: fe51f40ed8bf5dc9394535ab74ac7157f84ffc34
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b589888bed37a3733b6bf2148070b46ff874ddc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502355"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749600"
 ---
-# <a name="workflows-in-sharepoint"></a>Poteke dela v SharePointu
+# <a name="workflows-in-sharepoint"></a>Poteki dela v SharePointu
 
-Poteke dela v SharePointu lahko model in avtomatizacijo poslovnih procesov. SharePoint podpira dve primarni poteka razvoj okolja za ustvarjanje poteki dela: SharePoint Designer in Visual Studio. 
+Poteki dela v SharePointu omogočajo modeliranje in avtomatizacijo poslovnih procesov. SharePoint podpira dve primarni razvojni okolji za ustvarjanje potekov dela: SharePoint Designer in Visual Studio. 
 
-Glej [razvoj SharePoint potekov dela v SharePoint Designer in Visio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) ali [razviti SharePoint potekov dela z uporabo Visual Studio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) za oceno prednosti in slabosti vsakega. 
+Glejte [razvijanje potekov dela SharePoint v programu SharePoint Designer in Visio](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) ali [razvijanje potekov dela SharePoint z Visual Studiem](https://docs.microsoft.com/sharepoint/dev/general-development/develop-sharepoint-workflows-using-visual-studio) , da ocenite prednosti in slabosti vsakega. 
 
-Če poskušate ugotoviti, če so poteki dela so za uporabo v vašem okolju SharePoint ali iščete splošne informacije za uvod, si oglejte [pregled potekov dela v SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).
+Če poskušate ugotoviti, ali so poteki dela rešitev za uporabo v vašem SharePointovem okolju ali iščete splošne informacije o začetku, glejte [pregled potekov dela v SharePointu](https://docs.microsoft.com/sharepoint/dev/general-development/get-started-with-workflows-in-sharepoint#overview-of-workflows-in-sharepoint).

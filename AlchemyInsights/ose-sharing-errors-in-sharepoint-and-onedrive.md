@@ -1,6 +1,6 @@
 ---
-title: OSE delitev napake v SharePoint in OneDrive
-ms.author: kirks
+title: OSE deljenje napak v SharePointu in storitvi OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -9,15 +9,15 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: 18de4ff4b738f289084e7d533ddfc6339204efdb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543149"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752984"
 ---
-# <a name="ose-sharing-errors"></a>OSE delitev napake
+# <a name="ose-sharing-errors"></a>OSE delitev napak
 
-Članek zajema različne napake, ki lahko naletite, ko skupno rabo datotek ali map iz SharePoint Online ali OneDrive za poslovanje v Office 365. Moraš biti globalni ali SharePoint admin v organizaciji popraviti te napake. Če niste skrbnik, se obrnite na center za pomoč in jim kodo napake.
+V članku so zajete različne napake, ki jih lahko naletite pri skupni rabi datotek ali map iz storitve SharePoint online ali OneDrive za podjetja v Officeu 365. Če želite odpraviti te napake, morate biti globalni ali SharePointov skrbnik v organizaciji. Če niste skrbnik, se obrnite na pomoč in jim dajte kodo napake.
 
-Za več informacij o kodah napak OSE, glejte [Skupna raba napak v SharePoint in OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+Če želite več informacij o kodah napak OSE, glejte [Skupna raba napak v SharePointu in storitvi OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

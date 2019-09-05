@@ -1,6 +1,6 @@
 ---
-title: Omogočiti skupno rabo zunanje
-ms.author: kirks
+title: Omogočanje zunanje skupne rabe
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/4/2018
 ms.audience: ITPro
@@ -8,35 +8,35 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: de0a6940680bc4ec5193c8aa9345b0b214b5fd5b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 53eadea43e4ac9365bd7f434b1db254ccf224e4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527667"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36756044"
 ---
-# <a name="enable-external-sharing"></a>Omogočiti skupno rabo zunanje
+# <a name="enable-external-sharing"></a>Omogočanje zunanje skupne rabe
 
- Za zagotovitev, da skupna raba omogočena za SharePoint Online:
+ Če želite zagotoviti, da je skupna raba omogočena za SharePoint online:
   
-- **Globalno delitev**
+- **Globalna skupna raba**
     
-  - Portal -\> zunanje delitve -\> delitev pregled - mesta, naj zunanje ljudi dostop do vaše spletne strani: O
+  - Portal-\> zunanja skupna raba\> -pregled delitve-mesta, naj zunanji ljudje dostop do vaših spletnih strani: na
     
-  - Portal -\> zunanje delitve -\> mest - "Naj zunanji ljudje dostop do vaše spletne strani" polje
+  - Portal-\> zunanja skupna raba\> -Sites-"naj zunanji ljudje dostop do vaših spletnih mest" potrditveno polje
     
-- **Upravna delitev - SharePoint Admin Center**
+- **Upravna skupna raba-SharePointova skrbniška središča**
     
-    Zunanje delitve - zagotovili eno od dveh možnosti so izbrali:
+    Zunanja skupna raba-zagotoviti eno od dveh možnosti so izbrani:
     
-  - »Dovoli zunanje uporabnike, ki sprejemajo delitev vabila in prijava kot uporabniki s preverjeno pristnostjo«
+  - "Dovoli zunanjim uporabnikom, ki sprejemajo povabila v skupno rabo in se vpišite kot Preverjeni uporabniki"
     
-  - "Dovoli tako zunanjim uporabnikom, ki sprejemajo delitev vabila in ocene anonimne povezave"
+  - "Dovoli tako zunanjim uporabnikom, ki sprejemajo vabila za izmenjavo in anonimnih gost povezave"
     
-- **Zbirke posameznih mest**
+- **Posamezne zbirke mest**
     
-  - Stran zbirke - izbira mesta zbiranja zadevnih, in kliknite Skupna raba - od trak -\> zagotoviti bodisi možnosti skupne rabe so izbrani.
+  - Zbirke mest-izberite zbirko mest v vprašanju in nato kliknite Skupna raba-iz traku-\> zagotovite, da so izbrane možnosti skupne rabe.
     
-Dodatne informacije o tem, kako vrteti na zunanje delitev, [pa zunanje, delitev ali izklop za SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
+Če želite več informacij o vklopu zunanje skupne rabe, glejte [Vklop ali izklop zunanje skupne rabe za SharePoint online.](https://go.microsoft.com/fwlink/?linkid=2047681&amp;clcid=0x409)
   
 

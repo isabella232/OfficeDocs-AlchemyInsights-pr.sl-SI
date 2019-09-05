@@ -1,5 +1,5 @@
 ---
-title: Predloge za odpravljanje napake "Nelicencirani izdelek"
+title: Predlogi za reševanje napak» nelicenciranega izdelka «
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,26 +13,26 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: 45e91670ade842cd89c56c1acadc941d8d51e657
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 34095fa2ec0dae9864b4209f537ecf6e1d6fa4e7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501059"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36743289"
 ---
-# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Predloge za odpravljanje napake "Nelicencirani izdelek"
+# <a name="suggestions-for-solving-unlicensed-product-errors"></a>Predlogi za reševanje napak» nelicenciranega izdelka «
 
-Zagotoviti, da imate naročnino, ki omogoča odjemalske licence Office 365 Business ali Business Premium, in [zagotovi uporabnik je dovoljenje dodeljeno](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA). [Deaktiviraj za namestitev](https://support.office.com/article/9b497c85-d0a4-4735-80fa-d3565bc05bd1?wt.mc_id=Alchemy_ClientDIA) preveriti, če ste presegli število namesti, podprta z naročnino.
+Zagotovite, da imate naročnino, ki omogoča odjemalske licence, na primer Office 365 Business ali Business Premium, in zagotovite, da [ima uporabnik dodeljeno licenco](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users). [Deaktivirajte namestitev](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users) , da preverite, ali ste presegli število namestitvami, ki jih podpira vaša naročnina.
   
-Zagotovi uporabnik vpišete z istega računa, ki je dovoljenje dodeljeno.
+Zagotovite, da se uporabnik prijavi z istim računom, ki ima dodeljeno licenco.
   
-Zaženite [svetovalca za aktiviranje](https://aka.ms/SARA-OfficeActivation-Alchemy).
+Zaženite [orodje za odpravljanje težav z aktiviranjem](https://aka.ms/SARA-OfficeActivation-Alchemy).
   
-Preverite, če stanje naročnina je potekla
+Preverjanje, ali je stanje naročnine poteklo
   
-Preverite [stran Office 365 zdravstvene službe](https://docs.microsoft.com/office365/enterprise/view-service-health) , da vidim, če obstajajo kakršne koli znane težave s storitvijo.
+Če želite preveriti, ali obstajajo kakršne koli znane težave s storitvijo, preverite [stran» zdravje storitve Office 365 «](https://docs.microsoft.com/office365/enterprise/view-service-health) .
   
-[Izvršiti nalogo Online popravilo urada](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
+[Opravite spletno popravilo Officea](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA).
   
-Dodatne rešitve za odpravljanje težav, si oglejte: [Nelicencirani izdelek in activation zmota v pisarni](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
+Za dodatne rešitve za odpravljanje težav glejte: [Nelicencirani izdelek in napake pri aktiviranju v Officeu](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA).
   

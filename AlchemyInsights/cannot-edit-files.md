@@ -1,6 +1,6 @@
 ---
-title: Datoteke so zaklenjeni za urejanje
-ms.author: kirks
+title: Datoteke so zaklenjene za urejanje
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: 243179d0501089ee4865aeaf6b340a68f428d6c1
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 4a1edf25cfcabb0e7f89978812624a86dab7c196
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631643"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755000"
 ---
-# <a name="cant-edit-files"></a>Ni mogoče urejati datoteke? 
+# <a name="cant-edit-files"></a>Ne morete urejati datotek? 
 
-Če dokument, delovni zvezek ali predstavitev je za urejanje zaklenil in ni mogoče odpreti v namiznih aplikacij Windows, lahko, da datoteke ne morete urejati že nekdo drug, ali imajo rezervirati datoteko. Let's sprejme hiter pogled na nekatere od razlogov, [zakaj morda ne boste mogli urediti datoteko](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Če je dokument, delovni list ali predstavitev zaklenjen za urejanje in ga ni mogoče odpreti v namiznih aplikacijah sistema Windows, je morda to, da datoteko že ureja nekdo drug, ali pa je datoteka odjavila. Oglejmo si Kratek pogled na nekatere od razlogov, [zakaj morda ne boste mogli urejati datoteke](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
-Če imate knjižnice s **Checkout, zahteva** ali **potrditev** stolpce in metapodatkov, ali ko **Zaščita za elemente osnutkov** , ki **samo uporabnikom, ki lahko urejate** ali **samo uporabnikom, ki lahko odobri elemente** v različico nastavitve na Knjižnica:
+Če imate knjižnice s stolpci ali metapodatki za **prevzem, zahtevano** ali **validacijo** ali ko je **osnutek varnosti artikla** nastavljen na **samo uporabnike, ki lahko urejajo** ali **samo uporabniki, ki lahko odobrijo elemente** v nastavitvah različic Knjižnica:
 
-- Za SharePointove knjižnice dokumentov, elemente sinhronizira samo za branje.
+- Za SharePointove knjižnice dokumentov bodo ti elementi sinhronizirani kot samo za branje.
 
-- Za OneDrive knjižnice, OneDrive prikaže ikono ključavnice (OneDrive datoteka zaklenjena ikona) Poleg sinhronizacijo status in uporabnik ne bo sposobna sinhronizirati knjižnici, dokler navedene nastavitve so bili odstranjeni. 
+- Pri knjižnicah v storitvi onedrive bo OneDrive prikazal ikono ključavnice (ikona zaklenjene datoteke v storitvi OneDrive) Poleg stanja sinhronizacije in uporabnik ne bo mogel sinhronizirati knjižnice, dokler niso odstranjene omenjene nastavitve. 
 
-Za več informacij o zaklenjene datoteke za Word ali Excel, navedite vir člene spodaj.
+Če želite več informacij o zaklenjenih datotekah za Word ali Excel, se sklicite na spodnje članke.
 
-- [Excelovo datoteko je za urejanje zaklenil drug uporabnik](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [Excelova datoteka je zaklenjena za urejanje z drugim uporabnikom](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [Word datoteka je zaklenjena za urejanje drug uporabnik](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [Wordova datoteka je zaklenjena za urejanje z drugim uporabnikom](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)

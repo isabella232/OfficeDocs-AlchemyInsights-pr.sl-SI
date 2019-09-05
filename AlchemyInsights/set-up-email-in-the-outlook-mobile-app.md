@@ -1,5 +1,5 @@
 ---
-title: 1800014 nastavitev e-pošte v Outlook mobile app
+title: 1800014 nastavitev e-pošte v aplikaciji Outlook Mobile
 ms.author: anahitab
 author: anahitab
 manager: dansimp
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: f636c0b6bef3ec779a6393f3a4cd489a467c4bc5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509233"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734181"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>Nastavite e-pošto v Outlook mobile app
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>Nastavitev e-pošte v aplikaciji Outlook Mobile
 
-1. Izberite **Začetek** , če je to vaš prvi čas postavljanje ki gre gor email v prenosen app. Drugače, tapnite **meni** in nato **Nastavitve** \> **Dodaj račun** \> **Dodajte e-poštni račun**.
+1. Izberite **Začni** , če prvič nastavite e-poštno sporočilo v aplikaciji za mobilne naprave. V nasprotnem primeru tapnite **meni** , nato pa tapnite **Nastavitve** \> **Dodaj račun** \> **Dodaj e-poštni račun**.
 
-2. Vnesite svoj polni e-poštni naslov in tapnite **naprej** ali **Dodati račun**.
+2. Vnesite celoten e-poštni naslov in tapnite **Nadaljuj** ali **Dodaj račun**.
 
-3. Vnesite geslo za email račun in tapnite **Vpis** ali **naslednji**.
+3. Vnesite geslo za e-poštni račun in tapnite **vpis** ali **naprej**.
 
-4. Če je omogočeno [preverjanje pristnosti multifaktorske](https://support.office.com/article/8f0454b2-f51a-4d9c-bcde-2c48e41621c6.aspx) , preverite, ali po metodi, nastavite (6 mestno kodo, telefonski klic ali Microsoft Authenticator app).
+4. Če je omogočeno [preverjanje pristnosti z več faktorji](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) , preverite z metodo, ki ste jo nastavili (6-mestna koda, telefonski klic ali aplikacija Microsoft Authenticator).
 
-5. Če dodatne politike IT admin v mesto, tapnite **vključi** v usposobiti jih.
+5. Če so vzpostavljene dodatne pravilnike skrbnika za IT, tapnite **Aktiviraj** , da jih omogočite.
 
-6. Outlook lahko zahteva dovoljenje za dostop do koledarja, stikov in druge informacije. Izberite **da** , ali **Dovoli**.
+6. Outlook lahko zahteva dovoljenje za dostop do koledarja, stikov in drugih informacij. Izberite **da** ali **Dovoli**.
 
-Zaslužiti nadroben vzpostaviti navodila za [Outlook za Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) ali [Outlook za iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) tukaj.
+Pridobite podrobna navodila za nastavitev za [Outlook za Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) ali [Outlook za iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) tukaj.
   
- **Potrebujete pomoč?**
+ **Potrebuješ pomoč?**
   
-- [Odpravljanje težav z e-pošto setup na mobilni](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [Odpravljanje težav z nastavitvijo e-pošte v mobilnih napravah](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [V app pomoč za Outlook za iOS in Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [Pridobite pomoč v aplikaciji za Outlook za iOS in Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

@@ -1,6 +1,6 @@
 ---
-title: 1491-Search-not-Returning-expected-Results
-ms.author: kirks
+title: 1491-iskanje-ne vrača-pričakovani-rezultati
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: ce55961326ca15fbe15386455be94f800b5861bf
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 9432ba267e423ea5bbcfbc40f4ea914901207140
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132703"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753880"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>Vsebine preiskava orodje za iskanje ustreznih informacij
+# <a name="content-search-tool-to-find-relevant-info"></a>Orodje za iskanje vsebine za iskanje ustreznih informacij
 
-Uporaba vsebine preiskava orodje v varnost & skladnosti Center za hitro iskanje e-pošte v Exchangevih nabiralnikih, dokumente v SharePointovih mest in OneDrive mesta in takojšnje sporočanje pogovorov v Skype za poslovanje. Zadovoljen preiskava orodje lahko uporabite za iskanje e-pošto, dokumente in takojšnje sporočanje pogovorov v Office 365 sodelovanje orodja, kot so Microsoft Teams in Office 365 skupine.
+Uporabite orodje za iskanje vsebine v središču za varnost _ Amp_ skladnost, da hitro poiščete e-pošto v Exchangeevih nabiralnikih, dokumentih na SharePointovih mestih in lokacijah v storitvi OneDrive ter pogovorih za takojšnje sporočanje v Skypu za podjetja. Orodje za iskanje vsebine lahko uporabite za iskanje e-pošte, dokumentov in pogovorov za takojšnje sporočanje v orodjih za sodelovanje v Officeu 365, kot so Microsoft Teams in Office 365 skupine.
 
 
-Pred uporabo [Vsebino](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) iz [varnostno & Center skladnosti](https://sip.protection.office.com/homepage), boste želeli dokončati nastavitve konfiguracije, vključno z [nastaviti dovoljenja](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [nastavitev prenosa hitrosti](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) in [izvoz nastavitev](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
+Preden uporabite [Iskanje po vsebini](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) iz [središča za skladnost z varnostjo _ amp_](https://sip.protection.office.com/homepage), boste želeli dokončati konfiguracijske nastavitve, vključno s [konfiguriranjem dovoljenj](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [nastavitvijo hitrosti prenosa](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) in [nastavitvami izvoza](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
 
-Razumeti več o iskanju vsebine s pregledom [zahtev in omejitev](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [preiskovalne delno indeksirane postavke](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) in druge rezultate zavedati.
+Več o iskanju vsebine si lahko ogledate tako, da pregledate [zahteve in omejitve](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [raziskujete delno indeksirane elemente](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) in druge rezultate, ki jih je treba poznati.
 
-Po pregledu konfiguracijske nastavitve in omejitvah vsebino, se nanašajo na [z uporabo vsebine Išči</a> iskati mestu predmete, kot so e-pošta, dokumenti in takojšnje sporočanje pogovorov v organizaciji Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Po pregledu konfiguracijskih nastavitev in omejitev iskanja vsebine glejte [Uporaba iskanja</a> po vsebini za iskanje elementov v mestu, kot so e-pošta, dokumenti in pogovori za takojšnje sporočanje v organizaciji Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
-Za popoln korak za korakom vsebine iskanja, glejte [Iskanje vsebin v Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) za več informacij.
+Za popoln korak za korakom iskanja vsebine glejte [Iskanje vsebine v Officeu 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) za več informacij.

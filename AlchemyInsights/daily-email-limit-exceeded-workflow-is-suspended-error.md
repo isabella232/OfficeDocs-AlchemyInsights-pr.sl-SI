@@ -1,6 +1,6 @@
 ---
-title: Dnevni email prekoračena. Potek dela je prekinjena napake
-ms.author: kirks
+title: Dnevna omejitev e-pošte je presežena. Potek dela je prekinjena napaka
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -8,22 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: f3bed6ed-48c1-47af-9e6f-29f716aa8d6b
-ms.openlocfilehash: 3a96a8a58672c6fb3f9d34c525a3734a48daf8de
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6cce569133d97e9fefea3834a63be1f1b756b417
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514482"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755360"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>Dnevni email prekoračena. Potek dela je prekinjena napake
+# <a name="daily-email-limit-exceeded-workflow-is-suspended-error"></a>Dnevna omejitev e-pošte je presežena. Potek dela je prekinjena napaka
 
- **Dnevni email prekoračena. Potek dela začasno** napake lahko pride, če imate eno od naslednjih postavk: 
+ **Dnevna omejitev e-pošte presežena. Potek dela je prekinjena** zmota vest maj dogoditi se če vi življati nedoločni zaimek od sledeč reč: 
   
-- Imate potek dela v SharePoint Online, ki uporablja SharePoint 2010 ali tip platforme SharePoint 2013 poteka dela.
+- V programu SharePoint online poteka potek dela, ki uporablja vrsto platforme za potek dela SharePoint 2010 ali SharePoint 2013.
     
-- Potek dela je nastavljen tako, da po meri email sporočilo poslati več kot 200 uporabnikov naenkrat, več kot 10.000 prejemniki na dan ali več kot 30 sporočil na minuto.
+- Potek dela je konfiguriran tako, da pošlje e-poštno sporočilo po meri več kot 200 uporabnikom naenkrat, več kot 10.000 prejemnikov na dan ali več kot 30 sporočil na minuto.
     
-- Ko zaženete potek dela, e-poštno sporočilo ni poslano, in boste opazili sporočilo o napaki, **notranje stanje nastavljeno na prekinjena ali ni mogoče poslati prejemniku** prikažejo. 
+- Ko zaženete potek dela, e-poštno sporočilo ni poslano in opazite sporočilo o napaki, **je notranje stanje nastavljeno na začasno ali ni mogoče poslati prejemniku** . 
     
-Za dodatne informacije, glejte [dnevni email je prekoračena in potek dela je bila prekinjena](https://go.microsoft.com/fwlink/?Linkid=2031137).
+Če želite dodatne informacije, glejte [omejitev dnevnega e-poštnega sporočila in potek dela je bil prekinjen](https://go.microsoft.com/fwlink/?Linkid=2031137).
   

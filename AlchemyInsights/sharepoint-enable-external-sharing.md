@@ -1,5 +1,5 @@
 ---
-title: Omogoči zunanje delitev v SharePoint Online
+title: Omogočanje zunanje skupne rabe v SharePoint online
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -8,43 +8,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: b5e546329fa05620b927db4742c3023f45289efc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503903"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744441"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a>Omogoči zunanje delitev v SharePoint Online
+# <a name="enable-external-sharing-in-sharepoint-online"></a>Omogočanje zunanje skupne rabe v SharePoint online
 
-Če vaša organizacija opravlja delo, ki vključuje skupno rabo dokumentov ali sodelovanje neposredno z dobavitelji, stranke ali stranke, potem lahko uporabite v [zunanjih delitev funkcij SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) za skupno rabo vsebine z ljudmi zunaj vaše organizacija.
+Če vaša organizacija opravlja delo, ki vključuje skupno rabo dokumentov ali neposredno sodelovanje s prodajalci, odjemalci ali strankami, lahko z [zunanjimi funkcijami za skupno rabo v SharePointu online](https://docs.microsoft.com/sharepoint/external-sharing-overview) daste vsebino v skupno rabo z osebami zunaj Organizacija.
 
-Za več informacij o zunanjih delitev (goste) obiščite spodnjo povezavo.
+Če želite več informacij o zunanji delitvi (gosti), obiščite spodnje povezave.
 
 - [Kaj je zunanji uporabnik?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [Kaj se zgodi, ko delim na spletno stran ali dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [Kaj se zgodi, ko delim spletno mesto ali dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [Pa zunanje, delitev ali izklop za SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Vklop ali izklop zunanje skupne rabe za SharePoint online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [Pa zunanje, delitev ali izklop za mesto](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Vklop ali izklop zunanje skupne rabe za spletno mesto](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Upravljanje dostopa Ocene v Office 365 skupine](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Upravljanje dostopa za goste v skupini Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-- [Uporabo Sharepoint Online kot Ekstranet rešitev business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Uporaba spletnega mesta SharePoint online kot rešitve Ekstranet med podjetji in podjetji (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [Delež SharePoint datoteke ali mape](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Skupna raba SharePointovih datotek ali map](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [Ustavi skupno rabo OneDrive ali SharePoint datoteke ali mape, ali spremeniti dovoljenja](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Ustavitev skupne rabe datotek ali map v storitvi OneDrive ali SharePoint ali spreminjanje dovoljenj](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
-- [Izbrisati zunanjega uporabnika](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+- [Brisanje zunanjega uporabnika](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-**Prejemajo napake z zunanjo uporabnik (gost)?**
+**Prejemanje napake pri zunanjem uporabniku (gost)?**
 
 Preverite spodnje povezave. 
 
-- [OSE delitev napake v Sharepoint ali OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [OSE deljenje napak v SharePointu ali storitvi OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [Sporočilo o napaki, ko zunanjo uporabnik sprejme povabilo za SharePoint Online z uporabo drugega računa](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [Sporočilo o napaki, ko zunanji uporabnik sprejme povabilo v SharePoint online z drugim računom](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Postranski tajivec mapi v skupni rabi](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+- [Dostop zavrnjen v mapo v skupni rabi](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

@@ -1,5 +1,5 @@
 ---
-title: Občutljivost oznake ne pokazati se
+title: Oznake občutljivosti, ki se ne pojavljajo
 ms.author: stephow
 author: stephow-MSFT
 manager: laurawi
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: be5fac4cf4f1516575b8310347dd1d1948010538
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504551"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744837"
 ---
-# <a name="sensitivity-labels-not-appearing"></a>Občutljivost oznake ne pokazati se
+# <a name="sensitivity-labels-not-appearing"></a>Oznake občutljivosti, ki se ne pojavljajo
 
-Občutljivost nalepke lahko razvrstite in Zaščitite vaše občutljive vsebine. Če želite izvedeti več o tej funkciji, si oglejte [pregled oznak občutljivost](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Oznake občutljivosti vam omogočajo razvrščanje in pomoč pri zaščiti občutljive vsebine. Če želite izvedeti več o tej funkciji, glejte [pregled oznak občutljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
-Če ste konfigurirali nalepk občutljivost, vendar se ne pojavljajo v Office aplikacije, preverite naslednje:
+Če ste konfigurirali oznake občutljivosti, vendar se ne prikazujejo v Officeovih aplikacijah, preverite naslednje:
 
-- Potrditev, da oznako občutljivost je bil [objavljen](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) za uporabnike in skupine, ki jih želite.
+- Potrdite, da je bila oznaka občutljivosti [objavljena](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) uporabnikom in skupinam, ki jih želite.
 
-- Potrditev, da je uporabnik z uporabo app, ki podpira občutljivosti oznake - glej [občutljivost oznake v dokumentu](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Potrdite, da uporabnik uporablja aplikacijo, ki podpira oznake občutljivosti-glejte [oznake občutljivosti v dokumentu](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
 
-- Če ste [selitev Azure varovanje informacij](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), se zavedajo v ugotovitve navedenih [tukaj](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
+- Če želite [preseliti nalepke za zaščito podatkov Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), se zavedajte pomislekov, naštetih [tukaj](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
-- Preprečevanje izgube podatkov (DLP) podpirajo: trenutno samo hranjenje oznake lahko uporabite kot pogoj v DLP pravila.  Podporo za občutljivost oznake v DLP politika še ni na voljo, vendar delamo na njem.
+- Podpora za preprečevanje izgub podatkov (DLP): trenutno lahko v pravilnikih DLP uporabite samo oznake za hranjenje.  Podpora za oznake občutljivosti v pravilniku DLP še ni na voljo, vendar delamo na njem.
 
-Več informacij o možnih vprašanj, si oglejte [znane težave z občutljivostjo oznake](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc?ui=en-US&rs=en-US&ad=US).
+Če želite več informacij o možnih vprašanjih, glejte [znane težave z oznakami občutljivosti](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).

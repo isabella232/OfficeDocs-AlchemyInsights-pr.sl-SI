@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online, so ukinjena javnih spletnih strani
-ms.author: kirks
+title: Spletna mesta SharePoint online se ukinijo
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 1/2/2019
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 079a63defe8b5e21d84f042ef32231a2e34d1c2c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a499e71407df388ef30b0bdd4d2c46184f13d0e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534615"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750320"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>SharePoint Online javnih spletnih strani so bila prekinjena
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>Javne spletne strani SharePoint online so bile prekinjeno
 
-SharePoint Online javnih spletnih strani so bili opuščeni.
+Javne spletne strani SharePoint online so bile prekinjeno.
 
-Če ste ustvarili SharePoint Online javne spletne strani, si lahko še naprej uporabljajo do 31. marca 2018. Če želite nadaljevati z javne spletne strani, morate ustvariti novega z novega ponudnika. Vsebine na vašo SharePoint Online javno spletno stran, je bila izbrisana.
+Če ste ustvarili javno spletno mesto SharePoint online, ste lahko nadaljevali z uporabo prek marca 31, 2018. Če želite nadaljevati z javnim spletnim mestom, morate ustvariti novega z novim ponudnikom. Vsebina na javnem spletnem mestu SharePoint online je bila izbrisana.
 
-Info o tem javno spletno stran, si oglejte [podrobnosti o funkcija prekinitev procesa](https://go.microsoft.com/fwlink/?linkid=866980).
+Za informacije o prekinitvi javne spletne strani glejte [podrobnosti o postopku prekinitve funkcije](https://go.microsoft.com/fwlink/?linkid=866980).

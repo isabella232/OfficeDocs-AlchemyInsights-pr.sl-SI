@@ -1,6 +1,6 @@
 ---
-title: Omejevanje dostopa v SharePoint ali OneDrive
-ms.author: kirks
+title: Omejevanje dostopa v SharePointu ali storitvi OneDrive
+ms.author: pebaum
 author: Techwriter40
 ms.date: 8/7/2018
 ms.audience: ITPro
@@ -8,40 +8,40 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 84f2d4b6e5fd2380a2fa96e30953c68aab203cd3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bef0612903b9bb455aa34e90d35d6b7b9093b4e0
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559893"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750680"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Omejevanje dostopa v SharePoint ali OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Omejevanje dostopa v SharePointu ali storitvi OneDrive
 
-Obstaja veliko načinov za preprečevanje dostopa do storitve SharePoint Online/OneDrive. Te različne metode za omejitev dostopa so opisani spodaj. 
+Dostop do storitev SharePoint online/OneDrive lahko omejite na več načinov. Te različne metode omejevanja dostopa so opisane spodaj. 
 
-**Dovoljenje omejitve**
+**Omejitev dovoljenja**
 
-V SharePoint Online in OneDrive za poslovanje, smo omejiti dostop do predmetov, kot so spletna mesta, datoteke in mape samo odobri dostop do tistim skupinam/posameznikom, ki bi morali imeti dostop.
+V SharePoint online in OneDrive za podjetja omejimo dostop do elementov, kot so mesta, datoteke in mape, tako da dovoljujemo dostop le tistim skupinam/posameznikom, ki bi morali imeti dostop.
 
-- [Prilagodite dovoljenj za SharePointov seznam ali knjižnico](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [Prilagajanje dovoljenj za SharePointov seznam ali knjižnico](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
-- [Prilagodite dovoljenja mesta SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
+- [Prilagajanje dovoljenj za SharePointovo mesto](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [Spremenite dovoljenja, podmape](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [Spreminjanje dovoljenj v podmapi](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-- [Nadzor dostopa iz neupravljane naprave](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Nadzor dostopa iz neupravljanih naprav](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-Kot SharePoint ali svetovnih admin v Office 365, lahko blokirate ali omejiti dostop do vsebin, SharePoint in OneDrive iz neupravljane naprave (teh hibridnih AD pridružil ali ustrežljiv v Intune).
+Kot SharePointov ali globalni skrbnik v Officeu 365 lahko blokirate ali omejite dostop do vsebine SharePointa in storitve OneDrive iz neupravljanih naprav (tisti, ki niso združeni ali združljivi z AD v InTune).
 
-**Omrežno mesto omejitev**
+**Omejitev omrežne lokacije**
 
-Kot IT admin, lahko nadzor dostopa do virov SharePoint in OneDrive, na osnovi določenih omrežnih mest, ki jim zaupate. To je znana tudi kot namestitev-osnova politike. Če želite več informacij, si oglejte [pregled postranski v SharePoint Online in OneDrive podatke, ki temeljijo na omrežno mesto](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+Kot skrbnik IT-ja lahko nadzirate dostop do virov SharePoint in OneDrive, ki temeljijo na definiranih omrežnih lokacijah, ki jim zaupate. To je znano tudi kot pravilnik, ki temelji na lokaciji. Če želite več informacij, glejte [nadzor dostopa do podatkov SharePoint online in storitve OneDrive na podlagi omrežnega mesta](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-**Omejitve mesta Lock** 
+**Omejitev zaklepanja spletnega mesta** 
 
-V SharePoint Online imate sposobnost za zaklepanje določitvi mest, tako da nihče ni dostopa. To se nahaja preko PowerShell in [SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) uporabite lastnost - LockState [Set-SPOSite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) .
+V spletnem mestu SharePoint online lahko zaklenete zbirko mest, tako da nima dostopa nihče. To je nastavljeno prek lupine PowerShell in [SharePoint online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) z lastnini [set-sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -lockstate.
 
-**Določim, da ustvarjanje mest ali podmesta**
+**Omejevanje uporabnikov z ustvarjanjem spletnih mest ali podmest**
 
-Kot SharePoint admin ali Office 365 svetovnih admin, lahko pustite vaš uporabnik ustvariti in upravljati svoje lastne SharePointovih mest, ugotoviti, kakšne strani, ki jih lahko ustvarite, določite lokacijo mesta. Če želite več informacij, si oglejte [Ustvarjanje upravljanje mesta v SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
+Kot globalni skrbnik za SharePoint admin ali Office 365 lahko uporabniki ustvarijo in upravljajo lastna SharePointova mesta, določijo, katere vrste mest lahko ustvarijo, in določite lokacijo mest. Če želite več informacij, glejte [upravljanje ustvarjanja mest v SharePoint online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

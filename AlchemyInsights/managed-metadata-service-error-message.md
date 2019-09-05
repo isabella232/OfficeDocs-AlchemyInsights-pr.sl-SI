@@ -1,6 +1,6 @@
 ---
-title: Upravljano storitev za metapodatke sporočilo o napaki
-ms.author: kirks
+title: Sporočilo o napaki storitve upravljanih metapodatkov
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 58a5d88ad529baee19538d1ac5c1974b0c01abc4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b21bb5339e34e3ddd9c5f052fc1a2a098b25667a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542027"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754316"
 ---
-# <a name="managed-metadata-service-error-message"></a>Upravljano storitev za metapodatke sporočilo o napaki
+# <a name="managed-metadata-service-error-message"></a>Sporočilo o napaki storitve upravljanih metapodatkov
 
-Ko odprete shrambe izrazov, lahko vidite sporočilo o napaki: "storitev za upravljane metapodatke ali povezava trenutno ni na voljo. Skupina programov ali spletna storitev upravljanih podatkov morda ni bila zagnana. Se obrnite na skrbnika. «
+Ko odprete trgovino Term, se lahko prikaže sporočilo o napaki:» storitev upravljanih metapodatkov ali povezava trenutno ni na voljo. Skupina aplikacij ali spletna storitev z upravljanimi metapodatki morda ni bila zagnana. Obrnite se na skrbnika. "
   
-Če več kot 24 ur je minilo, odkar je prvič videl to vprašanje, se prijavite na primer podporo. Razumemo, da 24 ur lahko zdi dolgo časa. V mnogih primerih, že delamo na rešitev tako prosimo, da nam vsaj 24 ur.
+Če je minilo več kot 24 ur, odkar ste prvič videli to težavo, prosimo, prijavite primer podpore. Razumemo, da se lahko 24 ur zdi kot dolgo časa. V mnogih primerih smo že delajo na rešitev, zato vas prosimo, da nam vsaj 24 ur.
   

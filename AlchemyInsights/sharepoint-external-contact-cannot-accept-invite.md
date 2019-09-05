@@ -1,27 +1,26 @@
 ---
-title: Zunanji stik, ne more sprejeti povabilo k skupni rabi
+title: Zunanji stik ne more sprejeti povabila za skupno rabo
 ms.author: efrene
 author: efrene
-ms.date: 8/7/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 1ff796e8e2db928bba997167271505d67cdc0740
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2e777db93bfba4ff5ad6f17afdb8d820e2d5594
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508511"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744225"
 ---
-# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>Zunanji stik, ne more sprejeti povabilo za SharePoint
+# <a name="external-contact-is-unable-to-accept-a-sharepoint-invitation"></a>Zunanji stik ne more sprejeti SharePointovega povabila
 
-Če zunanji ne more sprejeti povabilo k skupni rabi, poskusite obiskom spodnje povezave.
+Če zunanji ne more sprejeti povabila za skupno rabo, poskusite obiskati spodnje povezave.
 
-- [Sporočilo o napaki, ko zunanjo uporabnik sprejme povabilo za SharePoint Online z uporabo drugega računa](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [Sporočilo o napaki, ko zunanji uporabnik sprejme povabilo v SharePoint online z drugim računom](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [Postranski tajivec mapi v skupni rabi](https://support.office.com/article/users-can-t-access-a-shared-folder-in-sharepoint-online-b5923bcb-a944-44c4-96c5-6312377040de?ui=en-US&rs=en-US&ad=US)
+- [Dostop zavrnjen v mapo v skupni rabi](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)
 
-- [Delitev napake v SharePoint in OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [Deljenje napak v SharePointu in storitvi OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 

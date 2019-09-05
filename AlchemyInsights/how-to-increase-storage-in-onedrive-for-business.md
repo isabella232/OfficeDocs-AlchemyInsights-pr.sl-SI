@@ -1,6 +1,6 @@
 ---
-title: Kako povečati shranjevanje v OneDrive za podjetja
-ms.author: kirks
+title: Kako povečati shranjevanje v storitvi OneDrive za podjetja
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/14/2018
 ms.audience: ITPro
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: ab43df8415f84d2cb289d8f3f93fa002faf783c2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2cf4b8c4e2cd2e5e6b91d609b34fde700c408fba
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540737"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755828"
 ---
-# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Kako povečati shranjevanje v OneDrive za podjetja
+# <a name="how-to-increase-storage-in-onedrive-for-business"></a>Kako povečati shranjevanje v storitvi OneDrive za podjetja
 
-Če želite spremeniti privzeto shranjevanje za nove in obstoječe OneDrive uporabnike:
+Če želite spremeniti privzeti pomnilnik za nove in obstoječe uporabnike storitve OneDrive:
   
-- Pojdite na [skladiščenja strani admin center OneDrive](https://admin.onedrive.com/?v=StorageSettings), in nato vnesite nov znesek v GB.
+- Pojdite na [stran za shranjevanje v skrbniškem središču storitve OneDrive](https://admin.onedrive.com/?v=StorageSettings)in vnesite nov znesek v GB.
     
-Shranjevanje prostora nastavitev velja za vse uporabnike, za katere niste nastavili posebne skladiščne. Če želite spremeniti prostor za shranjevanje za določene uporabnike, morate uporabiti Microsoft PowerShell. Info o tem, kako to storiti, glejte [Spreminjanje uporabnikov OneDrive prostora, z uporabo PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
+Nastavitev prostora za shranjevanje velja za vse uporabnike, za katere niste nastavili določenih omejitev shranjevanja. Če želite spremeniti prostor za shranjevanje določenih uporabnikov, morate uporabiti Microsoft PowerShell. Če želite več informacij o tem, glejte [Spreminjanje prostora za shranjevanje v storitvi OneDrive za uporabnike z lupino PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
   
- **Opomba**: izgleda, da nimate načrta, ki vključuje neomejeno shranjevanje. Za info o skladiščenju, ki prihaja z vsak načrt, glej [OneDrive za opis poslovne storitve](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+ **Opomba**: izgleda, da nimate načrta, ki vključuje neomejeno shranjevanje. Če želite informacije o shranjevanju, ki je priložen vsakemu programu, glejte [Opis storitve OneDrive za podjetja](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
-Povišati vaš prostor za shranjevanje v OneDrive za podjetja, izberite načrt Office 365, ki vključuje **OneDrive za poslovni načrt 2** ali **Office 365 podjetje E3**. 
+Če želite povečati shrambo v storitvi OneDrive za podjetja, izberite paket Office 365, ki vključuje **storitev OneDrive za podjetja Business plan 2** ali **Office 365 Enterprise E3**. 
   
-Spremeniti načrte, v centru Microsoft 365 admin, pojdite na **zaračunavanje** \> **naročnine**, in izberite **udarec s šibo načrte.**
+Če želite spremeniti načrte, v skrbniškem središču za Microsoft 365 pojdite na **naročnine**za **obračunavanje** \> in izberite možnost **stikala.**
   
-Če želite več informacij o prehodu načrti in OneDrive za poslovne shranjevanje, glej [prehod na različnih Office 365 za poslovni načrt](https://go.microsoft.com/fwlink/?LinkId=2031117) in [OneDrive za opis poslovne storitve](https://go.microsoft.com/fwlink/?LinkId-2031122).
+Če želite več informacij o preklopnih načrtih in shranjevanju v storitvi OneDrive za podjetja, glejte [preklop na drug urad 365 za poslovni načrt](https://go.microsoft.com/fwlink/?LinkId=2031117) in [Opis storitve onedrive za podjetja](https://go.microsoft.com/fwlink/?LinkId-2031122).
   
 

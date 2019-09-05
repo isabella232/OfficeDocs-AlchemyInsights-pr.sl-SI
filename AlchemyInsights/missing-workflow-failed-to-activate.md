@@ -1,6 +1,6 @@
 ---
-title: Manjka poteka dela ni bilo mogoče aktivirati
-ms.author: kirks
+title: Manjkajoč potek dela ni uspel aktivirati
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/3/2018
 ms.audience: ITPro
@@ -8,37 +8,37 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e46ae8c5-3d81-457e-8c77-f7c1cbe267c4
-ms.openlocfilehash: 44fd3c2d1e8b278b47c0fde6d48c7cbcbaa5c324
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f03d7e1441465050c4b0608f4100f217b183d2e2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543941"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753812"
 ---
-# <a name="missing-workflow-failed-to-activate"></a>Manjka poteka dela ni bilo mogoče aktivirati
+# <a name="missing-workflow-failed-to-activate"></a>Manjkajoč potek dela ni uspel aktivirati
 
-V zbirki mest Microsoft SharePoint, ne morete dodati globalno enkratno uporabo poteka dela (na primer "odobritev - SharePoint 2010") na seznam ali v knjižnico.
+V zbirki mest Microsoft SharePoint ne morete dodati globalnega poteka dela za enkratno uporabo (na primer» homologacija – SharePoint 2010 «) na seznam ali v knjižnico.
   
 Če želite odpraviti to težavo, sledite tem korakom: 
   
-1. Odprite spletni koren zbirke mest v SharePoint Designer 2013.
+1. Odprite korensko spletno mesto zbirke mest v programu SharePoint Designer 2013.
   
-2. Pod **Stran predmetov**, izberite **potek dela**. 
+2. V razdelku **predmeti mesta**izberite **poteke dela**. 
   
-3. V razdelku **Nova** **poteki dela** traku, izberite **Potek dela za vnovično uporabo**. 
+3. V **novem** odseku traku **potekov dela** izberite **potek dela za večkratno uporabo**. 
   
-4. **Ustvarite potek dela za vnovično uporabo** obrazcu, vnesite ime ** *Repair2010* **. **Tip platforme**, kliknite **SharePoint 2010 poteka dela**in nato kliknite v **redu**. 
+4. V obrazcu **Ustvari večkratno uporabo** vnesite ime * * *Repair2010* * *. Za **vrsto platforme**kliknite **SharePoint 2010 potek dela**in nato kliknite **v redu**. 
   
-1. V razdelku **shranjevanje** **potek dela** traku izberite **objavi**. 
+1. V odseku **Shrani** v traku **poteka dela** izberite **objavi**. 
   
-2. V razdelku **upravljanje** **poteka dela** traku izberite **Objavi globalno**. V pogovornem oknu potrditve, ki se prikaže, izberite **OK**. 
+2. V odseku **upravljanje** traku **poteka dela** izberite **objavi globalno**. V potrditvenem pogovornem oknu, ki se prikaže, izberite **v redu**. 
   
-3. V spletnem brskalniku, poiščite korenski spletni strani zbirke mest in nato dostopate do **Nastavitev mesta** \> **Funkcij zbirke mest**. Nato, zatik zunanja oblika **potekov dela** : 
+3. V spletnem brskalniku poiščite korensko spletno mesto zbirke mest in nato dostopite do **funkcij zbirke**mest za **Nastavitve** \> mesta. Nato preklopite funkcijo **potekov dela** : 
   
-· Če zunanja oblika je *Activated* , kliknite **Deactivate,** in nato kliknite **Aktiviraj**. 
+· Če je funkcija *aktivirana* , kliknite **Deaktiviraj** in nato kliknite **Aktiviraj**. 
   
-· Če funkcija je *deaktivirani* , kliknite **Aktiviraj**. 
+· Če je funkcija *deaktivirana* , kliknite **Aktiviraj**. 
   
-Za več informacij si oglejte [članek](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+Več informacij najdete v naslednjem [članku](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
 

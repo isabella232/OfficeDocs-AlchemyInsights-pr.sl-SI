@@ -1,6 +1,6 @@
 ---
-title: Zadaviti med selitvijo SharePoint
-ms.author: kirks
+title: Throttling med selitvijo SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -10,21 +10,21 @@ ms.custom:
 - "1987"
 - "9000353"
 ms.assetid: ''
-ms.openlocfilehash: d57a2b3a94736771f82630f6d48e0a62074f8709
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6958e9ae6ed322bdbdcfa49d977eafd420a68c31
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507107"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749132"
 ---
-# <a name="sharepoint-throttling"></a>SharePoint zadaviti
+# <a name="sharepoint-throttling"></a>SharePointovo zadaviti
 
-SharePoint Online uporablja zadaviti ohraniti optimalno delovanje in zanesljivost storitev SharePoint Online. Zadaviti omejitve številka dejanja uporabnika ali sočasnih klicev (z skript ali koda) preprečuje prekomerno virov.
+SharePoint online uporablja zadaviti za ohranjanje optimalne učinkovitosti in zanesljivosti storitve SharePoint online. Throttling omejuje število uporabniških dejanj ali sočasnih klicev (po skriptu ali kodi), da se prepreči prekomerna uporaba virov.
 
-Za več informacij obiščite spodnjo povezavo:
+Za več informacij obiščite spodnje povezave:
 
-- [Izogibajte se omeji ali blokira v SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-- [Selitev podatkov in SPO zadaviti](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
-- [SharePoint Online in OneDrive migracije hitrost](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
-- [Ročaj SharePoint Online zadaviti z uporabo eksponentno nazaj](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
-[sposobnost načrtovanja in naložiti testiranja SharePoint Online](https://support.office.com/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)
+- [Izogibajte se temu, da bi v SharePoint online dobili ali blokirali](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [Podatki migracije in SPO Throttling](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
+- [Hitrost selitve storitve SharePoint online in OneDrive](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Rokovanje s storitvijo SharePoint online z uporabo eksponentne nazaj](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
+- [Načrtovanje zmogljivosti in preskušanje obremenitve SharePoint online](https://support.office.com/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)

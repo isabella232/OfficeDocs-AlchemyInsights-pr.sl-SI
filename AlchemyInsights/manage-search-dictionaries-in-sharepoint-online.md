@@ -1,6 +1,6 @@
 ---
-title: Upravljanje iskanja slovarji v SharePoint Online
-ms.author: kirks
+title: Upravljanje iskalnih slovarjev v SharePoint online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "1244"
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 78aaf013c3fa8f5ed4c91b1c651ba2328ed73402
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542132"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754424"
 ---
-# <a name="manage-search-dictionaries"></a>Upravljanje iskanja slovarji
+# <a name="manage-search-dictionaries"></a>Upravljanje iskalnih slovarjev
 
-Išči slovarji v SharePoint online upravlja v shrambi izrazov SharePoint Online, ki se nahaja v središču nove admin SharePoint. Če želite več informacij o tem, kako dodati ali urediti iskanje slovarji, glejte [upravljanje Išči slovarji](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+Iskalne slovarje v SharePointu v spletu upravljate v trgovini SharePoint online Term Store, ki je v novem skrbniškem središču SharePoint. Če želite več informacij o dodajanju ali urejanju iskalnih slovarjev, glejte [upravljanje iskalnih slovarjev](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
   
-Če ne vidite Išči slovar nabor izrazov se pojavljajo v shrambi izrazov, počakajte 24 ur. Če je slovar, ki še vedno ne pojavljajo po 24 ur, prijavite podporo vozovnice.
+Če v trgovini z izrazom ne vidite nabora izraza za iskalni slovar, počakajte 24 ur. Če se slovar še vedno ne pojavlja po 24 urah, prosimo, prijavite podporo vozovnice.
   

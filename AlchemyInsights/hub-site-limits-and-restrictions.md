@@ -1,26 +1,26 @@
 ---
-title: Središče mesta omejitve in omejitve
-ms.author: kirks
+title: Omejitve in omejitve na mestu središča
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: be714787d426164e9e0d03050c8fe3fc8d858124
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa44561d2e49944d4f9de5995499a961faa2b07b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539297"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754712"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a>SharePoint vozlišče stran meje in omejitve
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>Omejitve in omejitve mesta središča SharePoint
 
-- Priporočljivo je izbrati sporočilo mesto ali mesto ekipe, ki uporablja novo sodobno predlogo. Če uporabljate stran, classic ekipa, vozlišča za krmarjenje prikaže samo na straneh, sodobne in nastavitve središče mesta prikazana le na sodobno strani.
+- Priporočljivo je, da izberete spletno mesto za komunikacijo ali spletno mesto skupine, ki uporablja novo moderno predlogo. Če uporabljate klasično spletno mesto skupine, se navigacija po zvezdišču prikaže samo na sodobnih straneh, nastavitve mesta zvezdišča pa bodo prikazane samo na sodobnih straneh.
 
-- Mesta, ki so že povezane z drugo vozlišče **ni** mogoče pretvoriti v središče mesta.
+- Mest, ki so že povezana z drugim zvezdiščem, **ni** mogoče pretvoriti v mesto zvezdišča.
 
-- V organizaciji, lahko ustvarite do 100 vozlišče straneh. Ni omejitve na število mest, ki so povezane z središče mesta.
+- Ustvarite lahko do 100 vozlišč mest za vašo organizacijo. Število spletnih mest, ki so lahko povezane z mestom zvezdišča, ni omejeno.
 
-- Ko uporabniki povezati svoje strani z središče mesta, ne vplivajo na dovoljenja zvezdišča ali pridružena mesta. To je pomembno zagotoviti vsem uporabnikom dovolite povezati mesta z zvezdiščem so dovoljenja na pesto.
+- Ko uporabniki povežejo svoja spletna mesta z mestom zvezdišča, ne vplivajo na dovoljenja mesta zvezdišča ali povezanih spletnih mest. Pomembno je, da se prepričate, da imajo vsi uporabniki, ki jih dovolite, da povežejo mesta z zvezdiščem, dovoljenje za zvezdišče.
 

@@ -1,6 +1,6 @@
 ---
-title: Deliti mesto komunikacije z zunanjim uporabnikom
-ms.author: kirks
+title: Skupna raba komunikacijskega mesta z zunanjimi Uporabniki
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 0bdcc0c42cf73f6538de1613d710dd2143dbf887
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e41b296f3ac02d766c55133c1d31f687f7854641
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508727"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751976"
 ---
-# <a name="share-a-communication-site-with-external-users"></a>Deliti mesto komunikacije z zunanjim uporabnikom
+# <a name="share-a-communication-site-with-external-users"></a>Skupna raba komunikacijskega mesta z zunanjimi Uporabniki
 
-Vklop zunanjih uporabnikov, izmenjavo za strani, komunikacijske, sledite tem korakom: 
+Če želite vklopiti skupno rabo zunanjih uporabnikov za komunikacijska mesta, sledite tem korakom: 
   
-1. Odprt **Sodobni Admin Center** - če ste v centru klasičnih Admin boste videli **poskusite zdaj** ali ** poskusite predogled ** gumb v zgornjem desnem kotu. To vas bo popeljal do centra sodobnega Admin. 
+1. Open **Modern admin center** -če ste v klasični admin Center boste videli **poskusiti zdaj** ali * * poskusite predogled * * gumb od zgoraj desno. To vas bo odpeljal do modernega skrbniškega centra. 
   
 2. Izberite **aktivna mesta.**
   
-3. Izberite stran, ki je **sporočilo stran predlogo**. 
+3. Izberite mesto, ki ima **predlogo mesta za komunikacijo**. 
   
-4. Izberite gumb **delitev** iz glavnega menija. 
+4. V zgornjem meniju izberite gumb za **skupno rabo** . 
   
- **Opomba:** Če imate več strani izbranih, gumb **delitve** se prikaže invalidov. Izberite le eno stran. 
+ **Opomba:** Če imate več kot eno mesto, se bo gumb za **skupno rabo** prikazal onemogočen. Izberite samo eno mesto. 
   
 

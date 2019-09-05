@@ -1,6 +1,6 @@
 ---
-title: Ki je datoteka rezervirana?
-ms.author: kirks
+title: Kdo ima datoteko odjavil?
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: fc718d6a5907fd97d0a7fc55c5dc8a31d4959d13
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 56aa04f7866227c4b5a1e1828d3c10ea3746d00a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531045"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748340"
 ---
-# <a name="who-has-a-file-checked-out"></a>Ki je datoteka rezervirana?
+# <a name="who-has-a-file-checked-out"></a>Kdo ima datoteko odjavil?
 
-Za prikaz, ki je datoteko, ki je rezerviran v SharePoint, storite eno od naslednjih korakov:
+Če želite videti, kdo je v SharePointu odjavil datoteko, lahko naredite enega od teh korakov:
   
-1. Omahovanje nad **Rezerviral** videti namig, ki pove, kdo je rezervirati datoteko. 
+1. Hover nad **odjavil** za prikaz namig, ki vam pove, kdo je datoteka odjavil. 
     
-2. **Preveri, s** stolpec dodati privzeti pogled knjižnice. Na ta način vsakdo lahko vidite, kdo je dokument rezerviran. 
+2. Dodajte stolpec» **odjaviti po «** v privzeti pogled knjižnice. Na ta način lahko vsakdo zlahka vidi, kdo ima dokument rezerviran. 
     
-Želite izvedeti, kako dodati preveriti ven z stolpec v SharePoint, glejte [ustvarjanje stolpca na seznamu ali v knjižnici](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Če želite izvedeti, kako dodati stolpec odjavite po v SharePointu, glejte [ustvarjanje stolpca na seznamu ali v knjižnici](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
-Glej več pogosto zastavljena vprašanja o prijavi ali odjaviti, glejte [vprašanja o preverite, preverite v Top](https://go.microsoft.com/fwlink/?linkid=2018786).
+Oglejte si več pogostih vprašanj o prijavi ali odjaviti se, glejte [najpogostejša vprašanja o odjaviti, check in](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

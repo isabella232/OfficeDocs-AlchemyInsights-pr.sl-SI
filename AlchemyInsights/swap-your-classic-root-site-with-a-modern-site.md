@@ -1,5 +1,5 @@
 ---
-title: Swap vaš Classic korensko mesto z moderno mesto
+title: Zamenjajte svojo klasično korensko stran s sodobno spletno stran
 ms.author: efrene
 author: efrene
 ms.date: 8/6/2019
@@ -12,31 +12,31 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd477d90ab7e6737aafffc57d931aad2bd0351e8
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501095"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749276"
 ---
-# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Swap vaš Classic korensko mesto z moderno mesto
+# <a name="swap-your-classic-root-site-with-a-modern-site"></a>Zamenjajte svojo klasično korensko stran s sodobno spletno stran
 
-Če vaš okolja je bil ustanovljen pred aprila 2019, lahko spremenite korensko mesto na sodobno spletno stran z uporabo Microsoft PowerShell:
+Če je bilo vaše okolje nastavljeno pred aprilom 2019, lahko korensko mesto spremenite na moderno spletno mesto z uporabo Microsoft PowerShell:
 
-- Če imate drugo mesto, ki ga želite uporabiti kot korensko mesto, lahko zamenjate (swap) je koren mesto z njim. 
-    - Uporabite [Invoke-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) da zamenjate mesto mesto z drugim mestom med arhiviranjem na izvirno mesto. Na voljo za mesto ekipe (ne povezani skupini) in komunikacija stran. 
+- Če imate drugačno spletno mesto, ki ga želite uporabiti kot korensko mesto, lahko z njim zamenjate [(swap) korensko mesto](https://docs.microsoft.com/sharepoint/modern-root-site) . 
+    - Uporaba [sklicevati-SPOSiteSwap](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) zamenjati lokacijo mesta z drugo spletno stran, medtem ko arhiviranje izvirno mesto. Na voljo za obe strani skupine (ni povezan s skupino) in mesto za komunikacijo. 
 
-- Bo treba uvesti dodatne zmožnosti kmalu ki vam bo omogočilo, da še naprej uporabljati vsebino na mestu, ampak spremeniti obstoječega mesta na mesto komunikacije. 
+- Dodatne zmogljivosti bodo uvedene kmalu, da vam bo omogočilo, da uporabljajo vsebino na spletni strani, vendar pretvoriti obstoječe mesto na komunikacijsko mesto. 
 >[!Important]
->Te zmogljivosti bo valjani ven postopoma. Nadaljuj, da preverite Office 365 vest središče za posodobitve. 
+>Te zmogljivosti bodo postopoma izpeljali. Še naprej preverite Office 365 Message center za posodobitve. 
 
-## <a name="known-issues-with-swapping-sites"></a>Znane težave z zamenjavo strani
+## <a name="known-issues-with-swapping-sites"></a>Znane težave s zamenjavo strani
 
-- Ciljno mesto lahko vrne "not found" napaka (HTTP 404) za kratek čas.
-- Vsebino morate recrawled želite posodobiti kazalo iskanja. Ni noben priročnik korak zahteva - to hoteti obstati velja automatically.
-- Vse, kar je odvisno od "statična" povezave (na primer datoteka sinhronizacijo in OneNote datoteke) morali ročno popraviti.
-- Če se vir organizacijske novicami, posodobite URL.Dobili seznam vseh organizacijskih novicami.
-- Projekt strežnika straneh morda morali potrditi, da se zagotovi, da so še vedno povezani pravilno.
+- Ciljna stran lahko za kratek čas vrne napako» ni mogoče najti «(HTTP 404).
+- Vsebino bo treba ponovno prejeti, da posodobite indeks iskanja. Ni potreben ročni korak-to se bo zgodilo samodejno.
+- Vse odvisno od "statičnih" povezav (kot so file Sync in OneNote datoteke) bo treba ročno popraviti.
+- Če je izvorna stran organizacijska stran z novicami, posodobite URL.Pridobite seznam vseh strani z organizacijskimi novicami.
+- Mesta strežnika Project Server je morda treba potrditi, da se zagotovi, da so še vedno pravilno povezani.
 
 
 

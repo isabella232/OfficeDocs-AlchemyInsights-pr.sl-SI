@@ -1,6 +1,6 @@
 ---
-title: Ustvarite sporočilo mesto
-ms.author: kirks
+title: Ustvarjanje spletnega mesta za komunikacijo
+ms.author: pebaum
 author: Techwriter40
 ms.date: 11/13/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: 0ab2877a6192af1bf88016ca9cff5ec0aa967e5f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ffc67fd4aae62862167784c676d6d80390f5617e
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516292"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755432"
 ---
-# <a name="create-a-communication-site"></a>Ustvarite sporočilo mesto
+# <a name="create-a-communication-site"></a>Ustvarjanje spletnega mesta za komunikacijo
 
-Ustvariti spletno stran komunikacije v SharePoint Online, dokončajte te korake: 
+Če želite ustvariti spletno mesto za komunikacijo v programu SharePoint online, izpolnite naslednje korake: 
   
-1. V zgornjem levem kotu strani, kliknite app zaganjalnik in izberite SharePoint ploščice. Če ne vidite SharePoint ploščice, kliknite **mesta** ali **vse aplikacije** , če SharePoint ni vidna. 
+1. V zgornjem levem kotu strani kliknite zaganjalnik aplikacij in izberite SharePointovo ploščico. Če SharePointove ploščice ne vidite, kliknite **mesta** ali **vse aplikacije** , če SharePoint ni viden. 
     
-2. Na vrhu strani SharePoint, kliknite **Ustvari strani** in izberite **Sporočilo stran**. Sledite korakom v čarovniku za ustvarjanje strani. 
+2. Na vrhu SharePointove strani kliknite **Ustvari spletno mesto** in izberite **spletno mesto za komunikacijo**. Sledite korakom čarovnika za ustvarjanje mesta. 
     
- **Opomba**: če ne vidite možnosti za **Ustvarjanje strani**, samopostrežno ustvarjanje mesta bodo delovale v Office 365. Stik je oseba, ki daje Office 365 v organizaciji ustvariti mesto ekipe. Če ste skrbnik najemnik, glej [upravlja ustvarjanje mesta v SharePoint Online omogočiti ustvarjanje samopostrežnega mesta za vašo organizacijo.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **Opomba**: če ne vidite možnosti za **ustvarjanje mesta**, je lahko ustvarjanje samopostrežnega mesta onemogočeno v Officeu 365. Če želite ustvariti spletno mesto ekipe, se obrnite na osebo, ki upravlja Office 365 v vaši organizaciji. Če ste skrbnik najemnika, glejte [upravljanje ustvarjanja mest v storitvi SharePoint online, da omogočite ustvarjanje samopostrežnega mesta za vašo organizacijo.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **Opomba:** Če ste poskušali ustvariti mesto komunikacije in je že dodana URL z naključnimi števili, je verjetno mesto z istega URL že obstaja v okolju SharePoint ali je bila izbrisana in še vedno obstaja v izbrisati strani (koš). Uporabo [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) za oceno koš in [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) odstraniti mesta iz koša. 
+ **Opomba:** Če poskušate ustvariti spletno mesto s sporočilom in je URL dodan z naključnimi številkami, je verjetno, da mesto s tem istim URL-jem že obstaja v SharePointovem okolju ali pa je bilo izbrisano in še vedno obstaja v izbrisanih mestih (koš). Uporabite [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) , če želite ovrednotiti koš in [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) odstraniti mesto iz koša. 
   
 

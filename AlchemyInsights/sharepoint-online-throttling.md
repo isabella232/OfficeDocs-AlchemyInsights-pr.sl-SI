@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online zadaviti
-ms.author: kirks
+title: SharePoint online Throttling
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 9e29823dd40cf9353ade9e32cf5ac4bc7794d154
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4b144e951b1997f9464522d3052dfcba0fa5d198
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503219"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750248"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Online, omejevanje
+# <a name="sharepoint-online-throttling"></a>Spletno mesto za zadaviti SharePoint
 
-SharePoint Online uporablja zadaviti ohraniti optimalno delovanje in zanesljivost storitev SharePoint Online. Zadaviti omejitve številka dejanja uporabnika ali sočasnih klicev (z skript ali koda) preprečuje prekomerno virov. Če ste dobili zadaviti, 99 % časa, je zaradi kodo po meri.
+SharePoint online uporablja zadaviti za ohranjanje optimalne učinkovitosti in zanesljivosti storitve SharePoint online. Throttling omejuje število uporabniških dejanj ali sočasnih klicev (po skriptu ali kodi), da se prepreči prekomerna uporaba virov. Če vi delati zaslužiti Throttled, 99% od čas ono je zaradi šega zbornik.
   
-Za več informacij o zadaviti glej [izogniti pridobivanje omejil ali blokirana v SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2022019)
+Za več informacij o zadaviti glej, [ne pridobivanje zadaviti ali blokiran v SharePoint online](https://go.microsoft.com/fwlink/?linkid=2022019)
   
 

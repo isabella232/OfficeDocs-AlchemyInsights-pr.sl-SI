@@ -1,6 +1,6 @@
 ---
-title: Slediti ali un-sledijo na SharePointovo mesto
-ms.author: kirks
+title: Sledite ali un-sledite SharePointovem mestu
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ebbb69c987b331fb92e5149f972a4489288f8334
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524607"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755720"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Slediti ali un-sledijo na SharePointovo mesto
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Sledite ali un-sledite SharePointovem mestu
 
-Obstaja več načinov slediti stran, ki vas zanima v SharePoint. To bo vam omogočajo, da lažje našli mesto v svoj seznam, in lahko videli dejavnosti iz mesta. 
+Spletno mesto, ki vas zanima v SharePointu, lahko spremljate na več načinov. To vam bo omogočilo, da preprosto poiščete spletno mesto na seznamu in vam omogočite ogled dejavnosti s spletnega mesta. 
 
-Oglejte si video slediti [s SharePointovim mestom](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
+Oglejte si videoposnetek, če želite [slediti SharePointovemu mestu](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
 
-Če si ne morejo slediti ali un-sledijo mesto in občutek rezultati niso izpolnjevali, glej, če je težava povezana z enega uporabnika ali vse uporabnike v organizaciji. Če vsi uporabniki je naletel na vprašanje, je morda začasno storitev težave. 
+Če ne morete slediti ali pa slediti mestu in začutiti, da rezultati niso pričakovani, preverite, ali je težava povezana z enim samim uporabnikom ali vsemi uporabniki v vaši organizaciji. Če se težava pojavlja pri vseh uporabnikih, lahko pride do začasne izdaje storitve. 
 
-Preverite [Nadzorna plošča storitev za zdravje](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , da vidim, če vaša organizacija je vplivala.
+Če želite preveriti, ali je vaša organizacija vplivala, preverite [Nadzorna plošča storitve](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) .
