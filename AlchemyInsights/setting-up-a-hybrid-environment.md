@@ -1,5 +1,5 @@
 ---
-title: Vzpostavitev okolju hibrid
+title: Nastavitev hibridnega okolja
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -12,14 +12,14 @@ ms.custom:
 - "690"
 - "3500010"
 ms.assetid: 08b866c0-aaff-4d6d-821f-97dc238dbd21
-ms.openlocfilehash: 041ba1c8e235bc9adf4f951b8ff7688dcf12e826
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cf623c3b7e9fe2e31b285607181e3120ff590cd7
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509160"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36741021"
 ---
-# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="1f88b-102">Vzpostavitev okolju hibrid</span><span class="sxs-lookup"><span data-stu-id="1f88b-102">Setting up a hybrid environment</span></span>
+# <a name="setting-up-a-hybrid-environment"></a><span data-ttu-id="f8dda-102">Vzpostavitev hibridnega okolja</span><span class="sxs-lookup"><span data-stu-id="f8dda-102">Setting up a hybrid environment</span></span>
 
-<span data-ttu-id="1f88b-103">Pustiti uporabniki delujejo brezhibno skupaj ni važno če njihovi podatki shranjeni na krajevne strežnike ali v Office 365, boste morali nastaviti hibridni okolje.</span><span class="sxs-lookup"><span data-stu-id="1f88b-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="1f88b-104">Pregledujete vaše možnosti, si oglejte [Office 365 integracija s krajevnim okoljem](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span><span class="sxs-lookup"><span data-stu-id="1f88b-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://support.office.com/article/263faf8d-aa21-428b-aed3-2021837a4b65.aspx).</span></span>
+<span data-ttu-id="f8dda-103">Če želite uporabnikom dovoliti, da delujejo nemoteno, ne glede na to, ali so njihovi podatki shranjeni na krajevnih strežnikih ali v Officeu 365, boste morda morali nastaviti hibridno okolje.</span><span class="sxs-lookup"><span data-stu-id="f8dda-103">To let your users work seamlessly together no matter if their data is stored on on-premises servers or in Office 365, you might need to set up a hybrid environment.</span></span> <span data-ttu-id="f8dda-104">Če želite dobiti pregled nad možnostmi, si oglejte [integracijo officea 365 s krajevnim okoljem](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span><span class="sxs-lookup"><span data-stu-id="f8dda-104">To get an overview of your options, check out [Office 365 integration with on-premises environments](https://docs.microsoft.com/office365/enterprise/office-365-integration).</span></span>
   

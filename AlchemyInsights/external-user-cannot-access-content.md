@@ -1,5 +1,5 @@
 ---
-title: Zunanjo uporabnik nima dostopa do vsebine
+title: Zunanji uporabnik ne more dostopati do vsebine
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 067756fb7a411a2c75de1c61c3b57e78a07046da
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9638ce92fc0cda83999f64da278a827e0ba32584
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526047"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740049"
 ---
-# <a name="external-user-cannot-access-content"></a><span data-ttu-id="00322-102">Zunanjo uporabnik nima dostopa do vsebine</span><span class="sxs-lookup"><span data-stu-id="00322-102">External user cannot access content</span></span>
+# <a name="external-user-cannot-access-content"></a><span data-ttu-id="770e0-102">Zunanji uporabnik ne more dostopati do vsebine</span><span class="sxs-lookup"><span data-stu-id="770e0-102">External user cannot access content</span></span>
 
-<span data-ttu-id="00322-103">Če zunanjega uporabnika je bil povabljen in ne more priti do vsebine, poskusite obiskom spodnje povezave:</span><span class="sxs-lookup"><span data-stu-id="00322-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
+<span data-ttu-id="770e0-103">Če je bil zunanji uporabnik povabljen in ne more dostopati do vsebine, poskusite obiskati spodnje povezave:</span><span class="sxs-lookup"><span data-stu-id="770e0-103">If an external user has been invited and is unable to access content, please try visiting the links below:</span></span>
 
-- [<span data-ttu-id="00322-104">"Dostop zavrnjen", "Moraš dovoljenje za dostop do te strani", ali "Uporabnika ni mogoče najti v imeniku" napake v SharePoint Online in OneDrive za podjetja</span><span class="sxs-lookup"><span data-stu-id="00322-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [<span data-ttu-id="00322-105">"Vaša organizacija pravila ne omogočajo deliti z uporabniki" Napaka pri delitvi element ali mestu SharePoint Online ali OneDrive za poslovne</span><span class="sxs-lookup"><span data-stu-id="00322-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [<span data-ttu-id="00322-106">Možnosti skupne rabe so siv jasno, ko delitev iz SharePoint Online ali OneDrive</span><span class="sxs-lookup"><span data-stu-id="00322-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [<span data-ttu-id="00322-107">Sporočilo o napaki, ko zunanjo uporabnik sprejme povabilo za SharePoint Online z uporabo drugega računa</span><span class="sxs-lookup"><span data-stu-id="00322-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [<span data-ttu-id="00322-108">OSE, delitev napak v SharePoint in OneDrive</span><span class="sxs-lookup"><span data-stu-id="00322-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [<span data-ttu-id="770e0-104">"Dostop zavrnjen", "potrebujete dovoljenje za dostop do te spletne strani", ali "uporabnik ni bilo mogoče najti v imeniku" napake v SharePoint online in OneDrive za podjetja</span><span class="sxs-lookup"><span data-stu-id="770e0-104">“Access Denied”, “You need permission to access this site”, or “User not found in the directory” errors in SharePoint Online and OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [<span data-ttu-id="770e0-105">» Pravilniki vaše organizacije vam ne dovoljujejo, da se pri skupni rabi elementa ali spletnega mesta v storitvi SharePoint online ali OneDrive za podjetja delijo s temi Uporabniki «</span><span class="sxs-lookup"><span data-stu-id="770e0-105">“Your organization's policies do not allow you to share with these users” error when sharing an item or site in SharePoint Online or OneDrive for Business</span></span>](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [<span data-ttu-id="770e0-106">Možnosti skupne rabe so zatemnjene, ko delite s storitvijo SharePoint online ali storitvijo OneDrive</span><span class="sxs-lookup"><span data-stu-id="770e0-106">Sharing options are greyed out when sharing from SharePoint Online or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [<span data-ttu-id="770e0-107">Sporočilo o napaki, ko zunanji uporabnik sprejme povabilo v SharePoint online z drugim računom</span><span class="sxs-lookup"><span data-stu-id="770e0-107">Error message when an external user accepts a SharePoint Online invitation by using another account</span></span>](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [<span data-ttu-id="770e0-108">Napake pri delitvi OSE v SharePointu in storitvi OneDrive</span><span class="sxs-lookup"><span data-stu-id="770e0-108">OSE sharing errors in SharePoint and OneDrive</span></span>](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 
