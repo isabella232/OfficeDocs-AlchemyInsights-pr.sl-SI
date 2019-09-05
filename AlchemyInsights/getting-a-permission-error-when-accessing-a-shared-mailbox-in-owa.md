@@ -1,5 +1,5 @@
 ---
-title: 124 dobili dovoljenje zmota čas postranski v nabiralnik v skupni rabi v Outlook?
+title: 124 pridobivanje a dovoljenje zmota čas postranski a porazdeliti poštni nabiralnik v OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,14 +13,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: af3f4f55332d5332d00fddd3f7d6a3bf60523ada
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc682538ae8683c8b419d33bfccf96ac080304a6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523923"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735800"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Dobili dovoljenje napake pri odpiranju nabiralnik v skupni rabi v Outlook v spletu?
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>Ali želite pri odpiranju nabiralnika v skupni rabi v programu Outlook v spletu dobiti napako pri dovoljenju?
 
-Če vi zaslužiti zmota **Kaj je šlo narobe. Nimate dovoljenja za odpiranje tega nabiralnika.** Ko poskusite odpreti nabiralnik v skupni rabi v Outlook v spletu, vaš račun morda nimate dovoljenja za dostop do nabiralnika v skupni rabi. Organizacija skrbnika lahko dodelite dovoljenja račun nabiralnik v skupni rabi po navodilih v temi [Ustvarjanje nabiralnika v skupni rabi](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9).
+Če vi zaslužiti zmota **nekaj went biti krivičen. Nimate dovoljenja za odpiranje nabiralnika.** Ko poskušate odpreti nabiralnik v skupni rabi v Outlooku v spletu, vaš račun morda nima dovoljenja za dostop do nabiralnika v skupni rabi. Skrbnik organizacije lahko dodeli dovoljenja za račun v nabiralnik v skupni rabi tako, da sledi navodilom v temi [Ustvarjanje nabiralnika v skupni rabi](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
   

@@ -1,6 +1,6 @@
 ---
-title: Objavljanje infrastrukture s strani, komunikacijske
-ms.author: kirks
+title: Objavljanje infrastrukture s komunikacijskim mestom
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
@@ -8,27 +8,27 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: 10a5f2f1d01d4b49bbcbe35b71aaeb6cc0f28c74
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 1d5eca87678ad0588c3dcd7edbf499e13baf09d9
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502967"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750104"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a>SharePointovega objavljanja infrastrukture
+# <a name="sharepoint-publishing-infrastructure"></a>SharePointova založniška infrastruktura
 
 
-SharePoint vključuje klasični nabor funkcij, ki omogočajo, da avtor in objavi bogate spletne strani za intranetu. Aktiviranje SharePoint objavljanje infrastrukture na ravni zbirke mest, če jih želite vklopiti.
+SharePoint vključuje klasičen nabor funkcij, ki vam omogočajo, da avtorjem in objavite bogate spletne strani za vaš intranet. Vključite SharePointovo založniško infrastrukturo na ravni zbirke mest, da jih vklopite.
 
-Za več informacij obiščite spodnjo povezavo.
+Za več informacij obiščite spodnje povezave.
 
-[Omogočanje funkcije objavljanja](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
+[Omogočanje funkcij objavljanja](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518)
 
 [Funkcije objavljanja](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
 
 Opombe:
 
-- Klasična objavljanje predloge mest je privzeto vključen funkcije objavljanja.
+- Klasične predloge mesta objavljanja privzeto vključujejo funkcije objavljanja.
 
-- Klasične funkcije objavljanja niso na voljo na sodobnih mest. Sodobnih mestih zagotoviti novejša možnost privzeto.
+- Klasične založniške funkcije niso na voljo na sodobnih spletnih mestih. Sodobna spletna mesta privzeto zagotavljajo novejšo alternativo.
 

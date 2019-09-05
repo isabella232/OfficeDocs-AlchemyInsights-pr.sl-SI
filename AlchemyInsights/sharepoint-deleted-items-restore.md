@@ -12,18 +12,18 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: 544e65430cce72329933933927883521b2d79e7c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d68581fed677d2578e92b667e1fd29ee27c53336
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666136"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744585"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>Obnovitev izbrisanih elementov iz SharePointa
 
-Ko izbrišete element ali mesto iz SharePointa, ga ne boste takoj odstranili. Izbrisani elementi gredo v koš za določen čas. V tem času lahko elemente, ki ste jih izbrisali, obnovite na izvirno mesto. Za več informacij obiščite spodnje povezave.
+Ko izbrišete element ali mesto iz SharePointa, ga ne odstranite takoj. Izbrisani elementi gredo v koš za določen čas. V tem času lahko elemente, ki ste jih izbrisali, obnovite na izvirno mesto. Za več informacij obiščite spodnje povezave.
 
-- [Obnavljanje elementov v košu SharePointovega mesta](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Obnavljanje elementov v košu SharePointovega mesta](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b)
 
 - [Obnovite izbrisane datoteke ali mape v storitvi OneDrive](https://support.office.com/article/Restore-deleted-files-or-folders-in-OneDrive-949ada80-0026-4db3-a953-c99083e6a84f)
 
@@ -41,4 +41,4 @@ Ko izbrišete element ali mesto iz SharePointa, ga ne boste takoj odstranili. Iz
 
 - [Obnovitev knjižnice v storitvi OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 
-- [Obnavljanje knjižnice dokumentov](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [Obnavljanje knjižnice dokumentov](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)

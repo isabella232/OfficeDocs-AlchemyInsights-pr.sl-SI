@@ -1,5 +1,5 @@
 ---
-title: Zunanjo uporabnik ne more sprejeti povabilo k skupni rabi
+title: Zunanji uporabnik ne more sprejeti povabila za skupno rabo
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -12,22 +12,22 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 7b5253c94a177e27745a921bcc4b478229ad4c26
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525831"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735909"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Zunanjo uporabnik ne more sprejeti povabilo k skupni rabi
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>Zunanji uporabnik ne more sprejeti povabila za skupno rabo
 
-Če zunanji uporabnik ne more sprejeti povabilo k skupni rabi, poskusite obiskom spodnje povezave: 
+Če zunanji uporabnik ne more sprejeti povabila za skupno rabo, poskusite obiskati spodnje povezave: 
 
-- ["Dostop zavrnjen", "Moraš dovoljenje za dostop do te strani", ali "Uporabnika ni mogoče najti v imeniku" napake v SharePoint Online in OneDrive za podjetja](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["Vaša organizacija pravila ne omogočajo deliti z uporabniki" Napaka pri delitvi element ali mestu SharePoint Online ali OneDrive za poslovne](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Možnosti skupne rabe so siv jasno, ko delitev iz SharePoint Online ali OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Sporočilo o napaki, ko zunanjo uporabnik sprejme povabilo za SharePoint Online z uporabo drugega računa](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [OSE, delitev napak v SharePoint in OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Dostop zavrnjen", "potrebujete dovoljenje za dostop do te spletne strani", ali "uporabnik ni bilo mogoče najti v imeniku" napake v SharePoint online in OneDrive za podjetja](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [» Pravilniki vaše organizacije vam ne dovoljujejo, da se pri skupni rabi elementa ali spletnega mesta v storitvi SharePoint online ali OneDrive za podjetja delijo s temi Uporabniki «](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Možnosti skupne rabe so zatemnjene, ko delite s storitvijo SharePoint online ali storitvijo OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Sporočilo o napaki, ko zunanji uporabnik sprejme povabilo v SharePoint online z drugim računom](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Napake pri delitvi OSE v SharePointu in storitvi OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

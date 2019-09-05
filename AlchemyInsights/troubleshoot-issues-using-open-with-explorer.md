@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav z odprto Explorer
+title: Odpravljanje težav z uporabo odprte z raziskovalcem
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 6e67c2916e0c5739f6126064d45e175a7fd6f8d4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a9ab7dd27e4dc1bd76c93cc81260616063e638ed
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500231"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742749"
 ---
-# <a name="fix-problems-with-open-with-explorer"></a>Odpravljanje težav z odprto s raziskovalec
+# <a name="fix-problems-with-open-with-explorer"></a>Odpravljanje težav z odprtimi z raziskovalcem
 
-Odpravite pogoste težave z odprtjem knjižnice dokumentov SharePoint ali OneDrive, uporabite ukaz **Odpri v Raziskovalcu** : 
+Odpravljanje pogostih težav pri odpiranju knjižnice dokumentov v SharePointu ali storitvi OneDrive z ukazom» **Odpri z raziskovalcem** «: 
   
-- Z Internet Explorerjem 10 ali Internet Explorer 11. **Odpri v Raziskovalcu** ni združljiv z Microsoft Edge, Google Chrome, Firefox in drugi. **Odpri v Raziskovalcu** onemogočena v vseh brskalnikih razen Internet Explorer. 
+- Uporabite Internet Explorer 10 ali Internet Explorer 11. **Plan s raziskovalec** isnt ' združljiv s mikroskop rob, varljiva žoga rumena barva, kresnica ter drugi. **Plan s raziskovalec** je nesposoben v vsi browsers razen stažist v bolnišnici raziskovalec. 
     
-- **Odpri v Raziskovalcu** ni na voljo v moderno izkušnjo za SharePointove knjižnice. Namesto tega uporabite **pogled v Raziskovalcu datoteke** . Izberite **možnosti pogleda** \> **pogled v Raziskovalcu datoteke**. Pogled v Raziskovalcu datoteke ni združljiva z Microsoft Edge, Google Chrome, Firefox in drugi. **Pogled v Raziskovalcu datoteke** na voljo le v Internet Explorerju. 
+- **Odprto z raziskovalcem** ni na voljo v sodobni izkušnji za SharePointove knjižnice. Namesto tega uporabite **pogled v Raziskovalcu** . **V Raziskovalcu izberite pogled** **možnosti** \> pogleda. Pogled v Raziskovalcu ni združljiv z Microsoft Edge, Google Chrome, Firefox in drugi. **Pogled v Raziskovalcu** , ki je na voljo samo v Internet Explorerju. 
     
-- Preverite, ali je zagnana storitev, od WebClient. V Windows iskalno polje, vnesite Zaženi, izberite prost dostop pult app, vnesite services.msc in pritisnite Enter. Se pomaknite navzdol do WebClient storitev in se prepričajte v stolpcu **stanje** prikaže "Teče". Če ne, dvokliknite storitve, kliknite **Start**in nato kliknite v **redu**. (Morda boste morali najprej omogočiti storitev tako, da izberete **ročno** ali **avtomatsko** v polje **Vrsta zagona** .) 
+- Preverite, ali se storitev WebClient izvaja. V iskalno polje Windows vnesite Zaženi, izberite Zaženi namizno aplikacijo, vnesite Services. msc in pritisnite ENTER. Pomaknite se navzdol do storitve WebClient in se prepričajte, da je v stolpcu **stanje** prikazano» tek «. Če ne, dvokliknite storitev, kliknite **Start**in nato **v redu**. (Morda boste morali najprej omogočiti storitev tako, da v polju **Vrsta zagona** izberete bodisi **ročno** bodisi **samodejno** .) 
     
 > [!NOTE]
-> Otvoritev knjižnice v datoteko Explorer je priročno, če želite kopirati ali premakniti več datotek in map, ko, vendar če želite redno delo v knjižnici, priporočamo, da sinhronizirate. Odpravljanje težav v datoteko Explorer, glejte [plan v raziskovalec](https://go.microsoft.com/fwlink/?linkid=871665). Informacij o nastavitev sinhronizacije, glejte [Sinhroniziranje SharePointovih datotek z novo OneDrive sinhronizacijo odjemalca](https://go.microsoft.com/fwlink/?linkid=871666).
+> Odpiranje knjižnice v raziskovalcu je priročno, če morate enkrat kopirati ali premikati več datotek in map, če pa želite redno delati v knjižnici, priporočamo, da jo sinhronizirate. Če želite odpraviti težave pri odpiranju v Raziskovalcu, glejte [Odpri v Raziskovalcu](https://go.microsoft.com/fwlink/?linkid=871665). Če želite več informacij o nastavitvi sinhronizacije, glejte [sinhronizacija SharePointovih datotek z novim odjemalcem za sinhronizacijo storitve OneDrive](https://go.microsoft.com/fwlink/?linkid=871666).
   
-Prosimo, glejte članek [kako uporabite ukaz »Odpri z Explorer« težave v SharePoint Online](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) za več informacij. 
+Prosimo, glejte članek [Kako uporabljati ukaz» Odpri z raziskovalcem «, da odpravite težave v SharePoint online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/troubleshoot-issues-using-open-with-explorer) za več informacij. 
   
 

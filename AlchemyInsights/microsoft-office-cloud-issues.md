@@ -1,6 +1,6 @@
 ---
-title: Admin vlogo in kako dodeliti
-ms.author: kirks
+title: Skrbniška vloga in kako dodeliti
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.audience: Admin
@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: 5cf8c1b3e632fdf5c454d8b2d393d0a98d5a3989
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6092a1222734666807509dff0d86b8a822f37922
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544627"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754100"
 ---
-# <a name="experiencing-problems-with-a-cloud-service"></a>Težave s storitvijo oblak?
+# <a name="experiencing-problems-with-a-cloud-service"></a>Imate težave s storitvijo v oblaku?
 
-Če imate težave s storitvijo oblak, preverite [zdravstvene službe](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) v centru Microsoft 365 admin ugotoviti, ali je znana težava z ločljivostjo v teku, preden pokličite podporo ali preživijo čas za odpravljanje težav. Vprašanje je lahko zelo začasno in že določene z mikroskop, pa morda zapadejo v času med vprašanje identifikacije in napotitve na armaturno ploščo zdravstvenih storitev. Prosim še za preverjanje nadzorne plošče storitev za nadaljnje posodobitve.
+Če imate težave s [storitvijo v oblaku, lahko v](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) skrbniškem središču za Microsoft 365 preverite, ali gre za znano težavo z resolucijo, ki se izvaja, preden pokličete podporo ali preživite težave z odpravljanjem časa. Vprašanje je lahko zelo začasno in je že identificiran s strani Microsofta, vendar lahko pride do časovnega zamika med identifikacijo izdaje in objavo na nadzorni plošči storitve. Prosimo, da še naprej preverite nadzorno ploščo storitve za nadaljnje posodobitve.
 
-**Politiko priglasitev**
+**Pravilnik o obveščanju**
 
-Ko storitev incident zgodi, Microsoft priznava, da je pravočasen, ciljno in natančno komunikacije so ključnega pomena za stranke. Microsoft Office 365 skrbniki obvesti s posodobitvijo najemnik značilne [Storitev zdravje armaturni plošči (SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na portalu Office 365 Admin. Storitev incident posodobitve so na voljo na uro ritmom ali če različnih Kadenca, bo navedel v SHD sporočilo knjiženja. Za več informacij, glejte [Kako preveriti Office 365 zdravstvene službe](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Ko pride do storitve, Microsoft prepozna, da so pravočasne, ciljno usmerjene in točne komunikacije ključne za kupce. Microsoft obvesti skrbnike sistema Office 365 tako, da posodobi nadzorno ploščo storitve za posamezne najemnike [(SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na skrbniškem portalu Office 365. Posodobitve servisnih incidentov so na voljo na urni kadenci ali, če je potrebna drugačna Kadenca, bo navedeno v komunikaciji SHD komunikacije. Če želite več informacij, glejte [kako preverite Office 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

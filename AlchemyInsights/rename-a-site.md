@@ -1,6 +1,6 @@
 ---
-title: Preimenujte mesto
-ms.author: kirks
+title: Preimenovanje spletnega mesta
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/7/2018
 ms.audience: ITPro
@@ -11,16 +11,16 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 3523b50a0d0eba7c65cd9e740bd4adcc918130ff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee92e2687da9e72d8551e74a0d179bf2c50f2adb
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552907"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752192"
 ---
-# <a name="rename-a-sharepoint-site"></a>Preimenujte na SharePointovo mesto
+# <a name="rename-a-sharepoint-site"></a>Preimenovanje SharePointovega mesta
 
-Če želite spremeniti ime mesta, na primer, iz https://contoso.sharepoint.com/sites/sample1 za https://contoso.sharepoint.com/sites/sample2, morate ustvariti novo mesto in premaknite vse vsebine s starega mesta na novo. Informacij o premikanje elementov v knjižnicah dokumentov, glejte [premikanje ali kopiranje elementov iz knjižnice dokumentov SharePoint](https://go.microsoft.com/fwlink/?Linkid=2018691).
+Če želite spremeniti ime mesta, na primer od https://contoso.sharepoint.com/sites/sample1 tega https://contoso.sharepoint.com/sites/sample2, morate ustvariti novo spletno mesto in nato premakniti vso vsebino iz starega mesta v novo. Če želite informacije o premikanju elementov v knjižnicah dokumentov, glejte [premikanje ali kopiranje elementov iz SharePointove knjižnice dokumentov](https://go.microsoft.com/fwlink/?Linkid=2018691).
   
-Opomba: Če želite spremeniti ime domene (to je contoso del URL zgoraj) v SharePoint Online URL, to ni mogoče. Glejte [Spreminjanje vaše domene](https://go.microsoft.com/fwlink/?Linkid=2018696).
+Opomba: Če poskušate spremeniti ime domene (to je contoso del URL zgoraj) v URL-ju SharePoint online, to ni mogoče. Glejte [Spreminjanje domen](https://go.microsoft.com/fwlink/?Linkid=2018696).
   

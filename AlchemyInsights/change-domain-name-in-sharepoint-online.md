@@ -1,6 +1,6 @@
 ---
-title: Spremenite ime domene v SharePoint Online
-ms.author: kirks
+title: Spreminjanje imena domene v SharePoint online
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "978"
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
-ms.openlocfilehash: f5fa4509542dd28fa4749ab995350ce876195ee8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519207"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36747656"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>Spremenite ime domene v SharePoint Online
+# <a name="change-domain-name-in-sharepoint-online"></a>Spreminjanje imena domene v SharePoint online
 
-Na žalost, ni mogoče spremeniti ime domene SharePoint Online za vaše organizacije v Office 365. Na primer, če je ime vaše organizacije spremeni iz »Contoso« v "Četrti kava", ne morete spremeniti contoso.sharepoint.com fourthcoffee.sharepoint.com.
+Na žalost ni mogoče spremeniti imena domene SharePoint online za vašo organizacijo v Officeu 365. Če se na primer ime vaše organizacije spremeni iz» contoso «v» četrta kava «, contoso.sharepoint.com ne morete spremeniti v fourthcoffee.sharepoint.com.
   
-Uporaba domensko ime fourthcoffee.sharepoint.com, bi morali kupiti novo Office 365 naročnino in premakniti vse e-pošte, datotek, ter vse druge podatke, ki želite ohraniti novo naročnino.
+Če želite uporabiti domensko ime fourthcoffee.sharepoint.com, boste morali kupiti novo naročnino na Office 365 in premakniti vso e-poštno sporočilo, datoteke in vse druge podatke, ki jih želite obdržati pri novi naročnini.
   
- **Opomba**: na primer, če želite spremeniti ime mesta, iz https://contoso.sharepoint.com/sites/sample1 za https://contoso.sharepoint.com/sites/sample2, ustvarite novo mesto, in premaknite vse vsebine s starega mesta na novo.
+ **Opomba**: Če želite na primer spremeniti ime mesta https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2, ustvarite novo spletno mesto in premaknite vso vsebino iz starega mesta v novo.
   
-Informacij o premikanje elementov v knjižnicah dokumentov, glejte [premikanje ali kopiranje elementov iz knjižnice dokumentov SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
+Če želite informacije o premikanju elementov v knjižnicah dokumentov, glejte [premikanje ali kopiranje elementov iz SharePointove knjižnice dokumentov](https://go.microsoft.com/fwlink/?linkid=2025831).
   

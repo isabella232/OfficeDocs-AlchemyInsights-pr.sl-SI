@@ -1,5 +1,5 @@
 ---
-title: Zunanje delitev v SharePoint Online
+title: Zunanja skupna raba v SharePoint online
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -11,34 +11,34 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: 1369df853da594d679d5850fbd032111bdf277fe
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d4342c203dd60bea0a26ef9f5f281a62a0abf20e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664948"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735981"
 ---
-# <a name="external-sharing-in-sharepoint-online"></a>Zunanje delitev v SharePoint Online
+# <a name="external-sharing-in-sharepoint-online"></a>Zunanja skupna raba v SharePoint online
 
-Če vaša organizacija opravlja delo, ki vključuje skupno rabo dokumentov ali sodelovanje neposredno z dobavitelji, stranke ali stranke, potem lahko uporabite v [zunanjih delitev funkcij SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) za skupno rabo vsebine z ljudmi zunaj vaše organizacija.
+Če vaša organizacija opravlja delo, ki vključuje skupno rabo dokumentov ali neposredno sodelovanje s prodajalci, odjemalci ali strankami, lahko z [zunanjimi funkcijami za skupno rabo v SharePointu online](https://docs.microsoft.com/sharepoint/external-sharing-overview) daste vsebino v skupno rabo z osebami zunaj Organizacija.
 
-Če želite več informacij o zunanjih delitev, obiščite spodnjo povezavo:
+Za več informacij o zunanji delitvi, prosimo, obiščite spodnje povezave:
 
-- [Pa zunanje, delitev ali izklop za SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
-- [Pa zunanje, delitev ali izklop za mesto](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
-- [Privzeta nastavitev skupne rabe na vrsto mesta](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
-- [Uporabo Sharepoint Online kot Ekstranet rešitev business-to-business (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
-- [Delež SharePoint datoteke ali mape](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
-- [Ustavi skupno rabo OneDrive ali SharePoint datoteke ali mape, ali spremeniti dovoljenja](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&rs=en-US&ad=US)
-- [Dostop za komentarje v Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
-- [Microsoft Ocene delitev referenčne nastavitve (Azure storitve Active Directory, Microsoft 365 in SharePoint Online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
+- [Vklop ali izklop zunanje skupne rabe za SharePoint online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Vklop ali izklop zunanje skupne rabe za spletno mesto](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [Privzete nastavitve skupne rabe na vrsto mesta](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings#sharepoint-site-level)
+- [Uporaba spletnega mesta SharePoint online kot rešitve Ekstranet med podjetji in podjetji (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [Skupna raba SharePointovih datotek ali map](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [Ustavitev skupne rabe datotek ali map v storitvi OneDrive ali SharePoint ali spreminjanje dovoljenj](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+- [Dostop za goste v storitvi Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/guest-access)
+- [Sklic na Microsoftove nastavitve skupne rabe za goste (Azure Active Directory, Microsoft 365 in SharePoint online)](https://docs.microsoft.com/Office365/Enterprise/microsoft-365-guest-settings)
 
-Z zunanjo uporabnik prejme napako?Preverite spodnje povezave:
+Prejemanje napake z zunanjim uporabnikom?Preverite spodnje povezave:
 
-- ["Dostop zavrnjen", "Moraš dovoljenje za dostop do te strani", ali "Uporabnika ni mogoče najti v imeniku" napake v SharePoint Online in OneDrive za podjetja](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["Vaša organizacija pravila ne omogočajo deliti z uporabniki" Napaka pri delitvi element ali mestu SharePoint Online ali OneDrive za poslovne](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [Možnosti skupne rabe so siv jasno, ko delitev iz SharePoint Online ali OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [Sporočilo o napaki, ko zunanjo uporabnik sprejme povabilo za SharePoint Online z uporabo drugega računa](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
-- [OSE, delitev napak v SharePoint in OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["Dostop zavrnjen", "potrebujete dovoljenje za dostop do te spletne strani", ali "uporabnik ni bilo mogoče najti v imeniku" napake v SharePoint online in OneDrive za podjetja](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [» Pravilniki vaše organizacije vam ne dovoljujejo, da se pri skupni rabi elementa ali spletnega mesta v storitvi SharePoint online ali OneDrive za podjetja delijo s temi Uporabniki «](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [Možnosti skupne rabe so zatemnjene, ko delite s storitvijo SharePoint online ali storitvijo OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [Sporočilo o napaki, ko zunanji uporabnik sprejme povabilo v SharePoint online z drugim računom](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [Napake pri delitvi OSE v SharePointu in storitvi OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 

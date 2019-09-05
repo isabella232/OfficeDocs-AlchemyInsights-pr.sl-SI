@@ -1,6 +1,6 @@
 ---
-title: Možnost zahteve za dostop
-ms.author: kirks
+title: Funkcija za dostop do zahtev
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 11/14/2018
@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 059eeab6cc3aa14f90258edc39144bc6bce928c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14ae1064de9e26a4b9d9540205020af11ca2daee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503831"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751544"
 ---
-# <a name="give-users-access-to-sharepoint-site"></a>Uporabnikom dostop do SharePointovega mesta
+# <a name="give-users-access-to-sharepoint-site"></a>Uporabnikom omogočajo dostop do SharePointovega mesta
 
-Funkcijo zahtevo dostop ljudem omogoča, da želijo dostopati do vsebine, ki trenutno nimajo dovoljenja za ogled. Kot lastnik mesta lahko nastavite funkcijo za pošiljanje pošte vam, ko nekdo zahteva dostop do mesta. Če želite več informacij, obiščite [Set up in upravlja z zahtevami dostopa](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
+Funkcija zahteve za dostop ljudem omogoča, da zahtevajo dostop do vsebine, ki je trenutno nimajo dovoljenja za ogled. Kot lastnik mesta lahko konfigurirate funkcijo za pošiljanje pošte, ko nekdo zahteva dostop do spletnega mesta. Več informacij najdete v temi [nastavitev in upravljanje zahtev za dostop](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
 
-Tukaj je nekaj skupnih povezav glede zahteve za dostop:
+Tukaj je nekaj pogostih povezav glede zahtev za dostop:
 
-- [Dostop zavrnjen"zahteve za dostop ali"Zahteva odobritev ni uspela"ko izvedete postopek Čakajoče zahteve v SharePoint Online](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [Dostop zavrnjen "na seznam zahtev za dostop" ali "zahteva odobritev ni uspela", ko obdelali čakajočo zahtevo v SharePoint online](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [Zahteva dovoljenje za spreminjanje nastavitev](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [Spreminjanje nastavitev zahtev za dostop](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [Odobrite ali zavrnite zahteve za dostop za mesto](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [Odobritev ali zavrnitev zahtev za dostop do spletnega mesta](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [Upravljanje vabila za zunanje uporabnike (SharePoint Online samo)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [Upravljanje povabil zunanjim uporabnikom (samo SharePoint online)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [Poslati vabilo](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [Vnovično pošiljanje povabila](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 

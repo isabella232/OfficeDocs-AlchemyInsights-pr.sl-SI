@@ -1,26 +1,26 @@
 ---
-title: Mesta in strukture odstranjena
-ms.author: kirks
+title: Odstranjena struktura strani in vsebine
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 55060d5c-fb1c-4812-bc66-181a7aa2cdea
-ms.openlocfilehash: 4cb7bd92ab2833d746da308277e3b2117fa1bb57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4301fd892e82f2d41c69f0e65b319b92f676be2
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502283"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749492"
 ---
-# <a name="site-and-content-structure-removed"></a>Mesta in strukture odstranjena
+# <a name="site-and-content-structure-removed"></a>Odstranjena struktura strani in vsebine
 
-Zagon v oktobra 2018, vsebine mesta in strukturo strani ne pokrije ali posodabljanje funkcijo. Nastavitve povezave do SiteManager.aspx strani bo odstranjen iz SharePoint Online in neposreden dostop je omejen na mestu zbiranja administratorji do marca 2019, v tem času bo vsebino in strukturo mesta strani popolnoma odstopil. 
+Začenši z oktobrom 2018, stran vsebina in zgradba strani ne bo več podprta ali prejemanje posodobitev funkcij. Postavljanje člen v SiteManager. aspx stran hoteti obstati daljni s SharePoint online ter neposreden postranski hoteti obstati omejen v položaj zbirjanje Admins do marec 2019, v kateri čas položaj zadovoljen ter zgradba stran hoteti obstati popolnoma upokojen. 
 
-Opomba: Kot a workaround dokler funkcija celoti odstopil, skrbniki zbirke lahko krmarite do portalu Office 365-> kliknite na SharePoint ploščice - > za dodajanje ali urejanje URL z zamenjavo "/ Sharepoint.aspx" z "/ Sitemanager.aspx". 
+Opomba: kot rešitev, dokler funkcija ni v celoti upokojena, skrbniki zbirke mest lahko krmarite do skrbniškega središča Microsoft 365, izberite SharePointovo ploščico in dodajte ali uredite URL tako, da zamenjate»/SharePoint.aspx «z»/Sitemanager.aspx «. 
 
 
-Uporabite datoteko premakniti in kopijo za upravljanje struktura in vsebina mesta. Če želite več informacij, glejte [kopiranje datotek in map med OneDrive in SharePoint](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
+Za upravljanje vsebine in strukture mesta uporabite datoteko Premakni in Kopiraj. Če želite več informacij, glejte [kopiranje datotek in map med mesti OneDrive in SharePoint](https://support.office.com/article/copy-files-and-folders-between-onedrive-and-sharepoint-sites-67a6323e-7fd4-4254-99a8-35613492a82f). 
 
-Če želite več informacij, glejte [delo s strani vsebine in strukture](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).
+Za več informacij [si oglejte delo z vsebino in strukturo spletnega mesta](https://support.office.com/article/Work-with-site-content-and-structure-30fcaad9-02b1-4347-8b03-e1ccc5a4c19f).

@@ -12,28 +12,28 @@ ms.custom:
 - "851"
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
-ms.openlocfilehash: 321f357f97f4cf1031e5485a6a3f91397b0fbcab
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498647"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735441"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>Namestitev Office preneha odzivati ali se zatakne
+# <a name="office-installation-hangs-or-gets-stuck"></a>Namestitev Officea visi ali gets zaljubljen
 
-To vedenje zaradi omrežje vezen, protivirusne programske opreme ali nastavitve storitve Windows Update morda videti na vašem računalniku. Tukaj je nekaj stvari, poskusite odpraviti težavo.
+To obnašanje boste morda videli zaradi omrežne povezljivosti, protivirusne programske opreme ali nastavitev sistema Windows Update v računalniku. Tukaj je nekaj stvari, ki jih lahko poskusite odpraviti težavo.
   
-- Znova zaženite računalnik in preverite, če je Office nameščen
+- Znova zaženite računalnik in preverite, ali je Office nameščen
 
-- Uporabite žično povezavo
+- Uporaba žične povezave
 
-- Če ste na počasno, namestite Office [z uporabo Office offline umestiti](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)[](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA.aspx)
+- Če uporabljate počasno internetno povezavo, namestite Office [s programom Office offline Installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
 - Začasno izklopite protivirusno programsko opremo
 
-- Teči online popravila z nadzorne plošče
+- Zaženite spletno popravilo iz nadzorne plošče
 
-- Odstranite in znova namestite Office
+- Odstranjevanje in vnovična namestitev Officea
 
-[Urad je ob dolgo namestiti](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[Urad je taking dolg umestiti](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

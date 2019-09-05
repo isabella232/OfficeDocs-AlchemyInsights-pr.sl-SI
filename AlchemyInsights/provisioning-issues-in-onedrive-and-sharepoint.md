@@ -1,24 +1,21 @@
 ---
-title: Omogočanje uporabe vprašanja v OneDrive in SharePoint
-ms.author: kirks
+title: Omogočanje težav v storitvi OneDrive in SharePointu
+ms.author: pebaum
 author: Techwriter40
-ms.date: 9/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: b9b129996837f646c951f2d0b29c28dd1ecb0728
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9dd38f3db7e74a82748e6db526f48b8e1c28c63d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422402"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752480"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Omogočanje uporabe vprašanja v OneDrive in SharePoint
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>Omogočanje težav v storitvi OneDrive in SharePointu
 
-Ko uporabnik dodati obstoječe uporabniške Office 365, lahko vidijo SharePoint Online ali OneDrive za poslovne ikone, ki so navedene kot "Ustanovitev", dokler ni bil zaključen postopek omogočanja uporabe. Za novo ustvarjene konte, uporabniki morali vpisati na portalu Office 365 s svoj račun, in nato kliknite OneDrive začeti predvajati ročno zagotavljanje mesta OneDrive.
+Ko je uporabnik dodan obstoječemu najemniku Officea 365, lahko vidijo ikone SharePoint online ali OneDrive za podjetja, ki so navedene kot» nastavitev «, dokler postopek omogočanja uporabe ni dokončan. Za novo ustvarjene račune se morajo uporabniki prijaviti v skrbniško središče Microsoft 365 z lastnim računom in nato kliknite OneDrive, da ročno zaženete zagotavljanje mesta OneDrive.
   
-Če več kot 24 ur je minilo, odkar je prvič videl to vprašanje, se prijavite na primer podporo. V mnogih primerih, že delamo na rešitev. Prosimo, da nam vsaj 24 ur za dokončanje rešitev.
+Če je minilo več kot 24 ur, odkar ste prvič videli to težavo, prosimo, prijavite primer podpore. V mnogih primerih že delamo na rešitvi. Prosimo, dajte nam vsaj 24 ur, da dokončate rešitev.
   
-

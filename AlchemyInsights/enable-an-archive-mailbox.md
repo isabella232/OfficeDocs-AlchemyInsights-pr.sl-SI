@@ -10,33 +10,33 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: f7b18ebd330c764c73a8f760a0d837686b9c5c72
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5ee3bcc9ea1c4734958d5c404ce89e2bda6f5e63
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665161"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736305"
 ---
 # <a name="enable-an-archive-mailbox"></a>Omogočanje arhivskega nabiralnika
 
-Arhivski nabiralniki v Office 365 (imenovane tudi *Spletni arhiv*) uporabnikom s dodatnih email uskladiščenje. Uporabniki lahko premikanje ali kopiranje elementov da njihovega arhivskega nabiralnika in administratorji lahko ustvarite pravilnik arhiviranja, ki samodejno premakne elemente v Arhiv nabiralnikov.
+Arhivski nabiralniki v Officeu 365 (imenovane tudi *spletni arhivi*) uporabnikom nudijo dodatno shrambo za e-pošto. Uporabniki lahko premaknejo ali kopirajo elemente v arhivski nabiralnik, skrbniki pa lahko ustvarijo pravilnik arhiva, ki samodejno premakne elemente v arhivske nabiralnike.
   
-Vsepovsod je kako tvoriti arhivskega nabiralnika:
+Arhivski nabiralnik ustvarite tako:
   
-1. Pojdi na [https://protection.office.com](https://protection.office.com).
+1. Pojdi [https://protection.office.com](https://protection.office.com).
 
-2. Prijavite se v programu Office 365 prek vaše admin računa.
+2. Vpišite se v Office 365 z uporabo skrbniškega računa.
 
-3. V levem podoknu varnostnega &amp; skladnost Center, izberite **upravljanje podatkov** \> **Arhiv**.
+3. V levem podoknu središča za preverjanje varnosti &amp; izberite \> **Arhiv** **upravljanja podatkov** .
 
-4. Izberite uporabnika, katerega arhivskega nabiralnika, ki ga želite omogočiti.
+4. Izberite uporabnika, čigar arhivski nabiralnik želite omogočiti.
 
-5. V podoknu s podrobnostmi na desni izberite **Omogoči** in nato izberite **ja** v Opozorilo za omogočanje arhivskega nabiralnika.
+5. V podoknu s podrobnostmi na desni izberite **Omogoči** in nato v opozorilnem sporočilu izberite **da** , da omogočite arhivski nabiralnik.
 
-Lahko tudi večji-omogočite arhivskih nabiralnik z izbiro več uporabnikov (s tipko **Shift** ali **Ctrl** ) in nato izberete **Omogoči** v podoknu s podrobnostmi.
+Prav tako lahko množično omogočite arhivske nabiralnike tako, da izberete več uporabnikov (z uporabo tipk **SHIFT** ali **CTRL** ) in nato v podoknu s podrobnostmi izberete **Omogoči** .
   
 Če želite več informacij, glejte:
   
-- [Omogoči arhivski nabiralniki v Office 365](https://support.office.com/article/enable-archive-mailboxes-in-the-office-365-security-compliance-center-268a109e-7843-405b-bb3d-b9393b2342ce)
+- [Omogočanje arhivskih nabiralnikov v Officeu 365](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
 
-- [Nastavite Arhiv in izbris politike v Office 365](https://support.office.com/article/Set-up-an-archive-and-deletion-policy-for-mailboxes-in-your-Office-365-organization-ec3587e4-7b4a-40fb-8fb8-8aa05aeae2ce)
+- [Nastavitev pravilnika o arhiviranju in brisanju v Officeu 365](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

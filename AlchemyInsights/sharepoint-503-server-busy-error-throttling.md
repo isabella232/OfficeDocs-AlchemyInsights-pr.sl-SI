@@ -1,6 +1,6 @@
 ---
-title: SharePoint Online zadaviti
-ms.author: kirks
+title: SharePoint online Throttling
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/17/2018
 ms.audience: ITPro
@@ -8,22 +8,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: c7881c0c7331e0aa74fcc439f52157bb75a56160
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d9e1400697b1e6435fea78703d2ecadc6733a57f
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559857"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751904"
 ---
-# <a name="sharepoint-online-throttling"></a>SharePoint Online zadaviti
+# <a name="sharepoint-online-throttling"></a>SharePoint online Throttling
 
-Uporabniki lahko prejeli 503 strežnik je zaseden Napaka pri poskusu krmarite do mesta SharePoint ali OneDrive. 
+Uporabnik maj sprejemati a 503 pomočnik je zaposlen zmota čas poskus v pluti v SharePoint ali OneDrive položaj. 
 
-To napako lahko povzročijo zadaviti v storitev SharePoint. SharePoint Online uporablja zadaviti ohraniti optimalno delovanje in zanesljivost storitev SharePoint Online. Zadaviti omejitve številka dejanja uporabnika ali sočasnih klicev (z skript ali koda) preprečuje prekomerno virov. Če ste dobili zadaviti, 99 % časa, je zaradi kodo po meri.
+To napako lahko povzroči zadavljenje znotraj storitve SharePoint. SharePoint online uporablja zadaviti za ohranjanje optimalne učinkovitosti in zanesljivosti storitve SharePoint online. Throttling omejuje število uporabniških dejanj ali sočasnih klicev (po skriptu ali kodi), da se prepreči prekomerna uporaba virov. Če vi delati zaslužiti Throttled, 99% od čas ono je zaradi šega zbornik.
 
-Če želite več informacij o zadaviti glej [izogniti pridobivanje omejil ali blokirana v SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+Za več informacij o zadaviti glej, [ne pridobivanje zadaviti ali blokiran v SharePoint online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 
-Če menite, da ta napaka ni povezana z zadaviti, lahko preverite, če obstaja aktivno vzdrževanje, ki se pojavljajo na vaš najemnik z navigacijo [vest središče](https://portal.office.com/adminportal/home#/MessageCenter).
+Če menite, da ta napaka ni povezana z Throttling, lahko preverite, ali je aktivno vzdrževanje, ki se pojavljajo na vašem najemniku z navigacijo do [centra za sporočila](https://portal.office.com/adminportal/home#/MessageCenter).
 
- Končno, zagotovi obiščete stran [Zdravstvene službe](https://portal.office.com/adminportal/home#/servicehealth) v ček zakaj poljuben opozorila/incidentov, ki se lahko zgodijo.
+ Slednjič, zavarovati vi kratek obisk [usluga zdravje](https://portal.office.com/adminportal/home#/servicehealth) stran v ček zakaj poljuben Advisories/nezgoda to maj obstati dogodek.
 

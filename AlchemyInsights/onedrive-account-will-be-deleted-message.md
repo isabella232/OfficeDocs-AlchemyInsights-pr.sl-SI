@@ -1,6 +1,6 @@
 ---
-title: Sporočilo "OneDrive račun hoteti obstati izbrisati"
-ms.author: kirks
+title: "' Račun storitve OneDrive bo izbrisan ' sporočilo"
+ms.author: pebaum
 author: Techwriter40
 ms.date: 10/30/2018
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: 93d86ecb14623480f8566b9b20372a9688e76d28
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e9027e4bf2baa9b1a04177651ec627723ba4a4b
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521403"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36753524"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>Sporočilo "OneDrive račun hoteti obstati izbrisati"
+# <a name="onedrive-account-will-be-deleted-message"></a>"Račun storitve OneDrive bo izbrisan" sporočilo
 
-Če ste prejeli pošto iz email@mail.onedrive.com opozorilo, da "vaš OneDrive račun hoteti obstati izbrisati" Prosimo, upoštevajte, to je vaš osebni račun OneDrive.com, ne vaš OneDrive za poslovni račun. 
+Če ste prejeli e-poštno sporočilo iz email@mail.onedrive.com opozorila, da bo "vaš račun storitve OneDrive izbrisan", upoštevajte to je vaš osebni OneDrive.com račun, ne vaš račun OneDrive za podjetja. 
   
-Če ne veste, ali uporabljate osebno OneDrive, prijavite se v onedrive.com v reaktivirati ter pregled svoj račun.
+Če niste prepričani, ali uporabljate osebno OneDrive, se vpišite v onedrive.com, da znova aktivirate in preverite svoj račun.
   
-Če želite več informacij, glejte [zakaj did jaz zaslužiti email rek vaš račun bo izbrisan?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+Če želite več informacij, glejte [zakaj sem dobil e-poštno sporočilo, ki pravi, da bo vaš račun izbrisan?](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
   
 
