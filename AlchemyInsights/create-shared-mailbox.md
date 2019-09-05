@@ -1,5 +1,5 @@
 ---
-title: Ustvarite nabiralnik v skupni rabi
+title: Ustvarjanje nabiralnika v skupni rabi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2329ee5-86b7-4803-990e-f4222120faf2
-ms.openlocfilehash: 82c3d79554db65161f55486003c3299ef1e160ec
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: b6ad094a291169bfc76d4c46e8fac1f268684fe6
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631850"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740949"
 ---
 # <a name="create-a-shared-mailbox"></a>Ustvarjanje nabiralnika v skupni rabi
 
-Nabiralnik v skupni rabi omogoča več osebam pošiljanje in prejemanje e-pošte za vzdevek, kot sales@contoso.com, brez dodelitve še eden dati dovoljenje. 
+Nabiralnik v skupni rabi omogoča več kot eni osebi pošiljanje in prejemanje e-pošte za vzdevek, kot je sales@contoso.com, ne da bi dodelili drugo licenco. 
 
-Glejte članek [Ustvari nabiralnik v skupni rabi](https://support.office.com/article/Create-a-shared-mailbox-871a246d-3acd-4bba-948e-5de8be0544c9) za nasvete in več informacij o uporabi nabiralnik v skupni rabi. 
+Oglejte si članek [Ustvarjanje nabiralnika v skupni rabi](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) za namige in več informacij o uporabi nabiralnika v skupni rabi. 
   
 

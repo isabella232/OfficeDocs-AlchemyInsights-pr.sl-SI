@@ -1,5 +1,5 @@
 ---
-title: Postranski tajivec čas kartiranje pogon za SharePoint
+title: Dostop zavrnjen pri preslikavi pogona v SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495875"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737493"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Odpravljanje težav s SharePointove knjižnice preslikanih omrežnih pogonov
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>Odpravljanje težav s SharePointovimi knjižnicami, preslikanimi v omrežne pogone
 
-Ko brskate za preslikan omrežni pogon, lahko vidite eno od teh sporočil:
+Ko brskate po preslikanem omrežnem pogonu, se lahko prikaže eno od teh sporočil:
   
-- **\\Pot ni dostopna. Morda nimate dovoljenja za uporabo tega omrežnega sredstva. Obrnite se na skrbnika strežnika, da ugotovite, če imate dovoljenja za dostop.**
+- **\\Pot ni dostopna. Morda nimate dovoljenja za uporabo tega omrežnega sredstva. Če želite izvedeti, ali imate dovoljenja za dostop, se obrnite na skrbnika tega strežnika.**
 
-- **Dostop zavrnjen. Pred odpiranjem datotek na tem mestu, morate najprej dodati spletno mesto na seznam zaupanja vrednih strani, poiščite na spletnem mestu, in izberite možnost za samodejno prijavo.**
+- **Dostop zavrnjen. Pred odpiranjem datotek na tem mestu morate najprej dodati spletno mesto na seznam zaupanja vrednih mest, prebrskati do spletnega mesta in izbrati možnost samodejnega vpisa.**
 
-[Pomoč, odpravljanje težav preslikanih omrežnih pogonov](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[Pridobite pomoč pri odpravljanju težav preslikanih omrežnih pogonov](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-Kartiranje knjižnico kot omrežnega pogona je začasno in podprte samo v Internet Explorerju. Namesto tega, [sinhronizacijo datotek SharePoint z novo OneDrive sinhronizacijo stranko](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) ki vključuje [Datoteke na zahtevo](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Dostop do vseh datotek v OneDrive brez uporabe lokalnih prostora.
+Preslikavanje knjižnice kot omrežnega pogona je začasno in podprto samo v Internet Explorerju. Namesto tega [sinhronizirajte SharePointove datoteke z novim odjemalcem za sinhronizacijo storitve OneDrive](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) , ki vključuje [datoteke na zahtevo](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). Dostopajte do vseh datotek v storitvi OneDrive brez uporabe lokalnega prostora za shranjevanje.
   

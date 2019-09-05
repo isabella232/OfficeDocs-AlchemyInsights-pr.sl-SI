@@ -1,5 +1,5 @@
 ---
-title: Alkimija - ustvarite in dodajte podpis za sporočila v Outlook
+title: Alchemy-ustvarjanje in dodajanje podpisa sporočil v Outlooku
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,24 +12,24 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: baefa04a536e71358f1a6cd143c4c727c290e28c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664660"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737385"
 ---
-# <a name="creating-email-signatures"></a>Ustvarjanje e-poštni podpisi
+# <a name="creating-email-signatures"></a>Ustvarjanje e-poštnih podpisov
 
-Ti izdelki vam lahko pomagajo ustvariti e-poštni podpisi v Outlooku.
+Ti članki vam pomagajo ustvariti e-poštne podpise v programu Outlook.
   
-- Želim ustvariti e-poštni podpis, z uporabo Outlook na Windows: [Ustvarjanje in dodajanje podpisa za sporočila](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
+- Želim ustvariti e-poštni podpis z Outlookom v operacijskem sistemu Windows: [Ustvarjanje in dodajanje podpisa sporočilom](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
   
-- Želim ustvariti e-poštni podpis, z uporabo Outlook na spletu: [Ustvari in dodate e-poštni podpis v Outlooku na spletu](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
+- Želim ustvariti e-poštni podpis z Outlookom v spletu: [Ustvarjanje in dodajanje e-poštnega podpisa v programu Outlook v spletu](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
 
-- Želim ustvariti e-poštni podpis, z uporabo Outlook.com: [Ustvari in dodate e-poštni podpis v Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
+- Želim ustvariti e-poštni podpis z uporabo Outlook.com: [Ustvarjanje in dodajanje e-poštnega podpisa v Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- Želim ustvariti globalni e-poštni podpis za vsa sporočila, poslana iz moje podjetje: [Ustvari celotno organizacijo podpisov in odgovornosti v Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)
+- Želim ustvariti globalni e-poštni podpis za vsa e-poštna sporočila, poslana iz mojega podjetja: [Ustvarjanje podpisov na ravni organizacije in zavrnitve odgovornosti](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers)
 
- **Nasvet:** Celotno organizacijo podpisov se uporablja kot "odgovornosti."
+ **Namig:** Podpisi po vsej organizaciji se imenujejo» zavrnitve odgovornosti «.
   

@@ -1,5 +1,5 @@
 ---
-title: Upravljanje uporabnikov Bastard
+title: Upravljanje uporabnikov storitev Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -11,29 +11,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497063"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734937"
 ---
-# <a name="managing-yammer-users"></a>Upravljanje uporabnikov Bastard
+# <a name="managing-yammer-users"></a>Upravljanje uporabnikov storitev Yammer
 
-1. Informacije o upravljanju Bastard uporabnikov iz Office 365, glejte [upravljanje Kukati uporabnikov njihovega življenjskega cikla iz Office 365](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039). To vključuje podrobnosti na:
+1. Če želite več informacij o upravljanju uporabnikov storitev Yammer iz Officea 365, glejte [upravljanje uporabnikov storitev yammer v njihovem življenjskem ciklu iz officea 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). To vključuje podrobnosti o:
 
   - Ustvarjanje uporabnika
 
   - Brisanje uporabnikov
 
-  - Upravljanje Bastard uporabnikov iz Office 365
+  - Upravljanje uporabnikov storitev Yammer iz Officea 365
 
-2. Prosimo, glejte [Dodajanje, blok, ali odstranite uporabnike Bastard](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) podatkov o upravljanju uporabnikov od admin konzole Bastard. To vključuje:
+2. Če želite informacije o upravljanju uporabnikov iz skrbniške konzole Yammer [, glejte Dodajanje, blokiranje ali odstranjevanje uporabnikov storitev yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) . To vključuje:
 
-  - Vabi ali odstranjevanje uporabnikov
+  - Povabilo ali odstranjevanje uporabnikov
 
-  - Vabi ocene uporabnikov
+  - Vabljiv gost uporabnik
 
-  - Izvoz seznam uporabnikov
+  - Izvažanje uporabniškega seznama
 
-3. Več informacij o dodajanje, odstranjevanje in upravljanje zunanjih uporabnikov, glejte [Dodaj zunanje sporočila udeležencev v omrežju Bastard](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c).
+3. Če želite več informacij o dodajanju, odstranjevanju in upravljanju zunanjih uporabnikov, glejte [Dodajanje zunanjih sporočil udeležencem v omrežje Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

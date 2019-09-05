@@ -1,5 +1,5 @@
 ---
-title: 959 spremembe prikazno ime
+title: 959 spremeni prikazno ime
 ms.author: pdigia
 author: pebaum
 ms.date: 7/17/2018
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 351eb11c01984162468322e9f776238b76a34680
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519819"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736737"
 ---
 # <a name="change-your-display-name"></a>Spreminjanje prikaznega imena
   
-Če želite spremeniti ime za prikaz v Outlook, sledite naslednjim korakom.
+Če želite spremeniti prikazno ime v Outlooku, uporabite naslednje korake.
   
-1. V Outlook, izberite **datoteko** \> **Nastavitve računa** \> **Nastavitve računa**.
+1. V Outlooku izberite \> **Nastavitve računa**za **Nastavitve računa** **datoteke** \> .
 
-2. Izberite e-poštni račun in nato **Spremeni**.
+2. Izberite e-poštni račun in nato izberite **Spremeni**.
 
     > [!NOTE]
-    > Če ne vidite možnost, da spremeni svoje prikazno ime, verjetno uporabljate Microsoft Exchangeev e-poštni račun. V tem primeru boste morali obrnite na skrbnika, če želite spremeniti ime za prikaz. Glej [spremeniti uporabniško ime in e-poštni naslov v Office 365](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx).
+    > Če ne vidite možnosti spreminjanja prikaznega imena, verjetno uporabljate e-poštni račun Microsoft Exchange. V tem primeru se morate obrniti na skrbnika, da spremenite prikazno ime. Glejte [Spreminjanje uporabniškega imena in e-poštnega naslova v Officeu 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. Ko ste spremenili svoje prikazno ime, kliknite **»v redu«** , da shranite spremembe. To lahko traja nekaj ur spremembe odražajo v celotni organizaciji.
+3. Ko spremenite prikazno ime, kliknite **v redu** , da shranite spremembe. Za spremembe, ki odražajo celotno organizacijo, lahko traja nekaj ur.
 
-Če želite več informacij, glejte [Spreminjanje prikazno ime, ki je e-poštni Prejemniki vidijo](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+Če želite več informacij, glejte [Spreminjanje prikaznega imena, ki ga prejemniki e-pošte vidijo](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

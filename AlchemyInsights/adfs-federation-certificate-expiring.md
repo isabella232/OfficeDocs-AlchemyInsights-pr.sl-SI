@@ -1,5 +1,5 @@
 ---
-title: ADF federacije potrdilo poteče
+title: ADFS Federation certifikat poteče
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: c9922258c2d203cc07c1a1055ffa36c23a756115
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499907"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737205"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>ADF federacije potrdilo poteče
+# <a name="adfs-federation-certificate-expiring"></a>ADFS Federation certifikat poteče
 
 Če želite odpraviti to težavo, sledite tem korakom:
   
-1. Namestitev na Microsoft Azure Active Directory Module for Windows PowerShell v računalniku (če je modul ni že nameščen). Uganjati to, pojdite na [upravljanje Azure AD z lupino Windows PowerShell](https://aka.ms/aadposh).
+1. Namestite modul Microsoft Azure Active Directory za lupino Windows PowerShell v računalniku (če modul še ni nameščen). Če želite to narediti, pojdite na [upravljanje programa AZURE ad z lupino Windows PowerShell](https://aka.ms/aadposh).
 
-2. Sledite korakom v je "scenarij 1: AD FS žeton podpisno potrdilo poteklo" oddelek [»Ni bilo problem dostop do strani« napaka iz AD FS, ko zunanji uporabnik prijavi v Office 365, Azure, ali Intune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Sledite korakom v razdelku» scenarij 1: potekla je veljavnost potrdila za podpisovanje žetonov AD FS «iz [» prišlo je do napake pri dostopu do mesta «iz AD FS, ko se je Združeno uporabnik prijavil v Office 365, Azure ali InTune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
 
-3. Sledite korakom kako [posodobite ali popravite nastavitve združeno domeno v Office 365, Azure, ali Intune](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
+3. Sledite korakom v [posodobitvi ali popravite nastavitve federirane domene v Officeu 365, Azure ali InTune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
 
-    Če želite izvedeti več o podaljšanju federacije potrdila, glej [Obnovi federacije potrdila za Office 365 in Azure storitve Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Če želite izvedeti več o podaljšanju potrdil federacije, glejte [obnovitev potrdil federacije za Office 365 in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).

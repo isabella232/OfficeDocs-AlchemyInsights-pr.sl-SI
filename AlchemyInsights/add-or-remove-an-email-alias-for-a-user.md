@@ -1,5 +1,5 @@
 ---
-title: Dodajanje ali odstranjevanje e-poštni vzdevek za uporabnika
+title: Dodajanje ali odstranjevanje e-poštnega vzdevka za uporabnika
 ms.author: dianef
 author: dianef77
 ms.date: 4/16/2018
@@ -11,16 +11,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: 45e9e734a7b7f1fed42d52b48fd329dc43633c1d
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 4e0ce3d7c12ecad04e13a179fd833e6b935fadfa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661168"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737241"
 ---
-# <a name="add-or-remove-an-email-address-for-a-user"></a>Dodajanje ali odstranjevanje e-poštni naslov za uporabnika
+# <a name="add-or-remove-an-email-address-for-a-user"></a>Dodajanje ali odstranjevanje e-poštnega naslova za uporabnika
 
-[Sledite tem korakom](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) v centru Microsoft 365 admin da bi začeli.
+Če želite začeti, [sledite tem korakom](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) v skrbniškem središču za Microsoft 365.
 
- **Opomba**: lahko imate več kot en e-poštni naslov za uporabnika, vendar dodatne *email alias* se lahko uporabijo samo za prejemanje e-pošte. Če morate poslati e-pošto z vzdevkom, ustvariti [nabiralnik v skupni rabi](https://support.office.com/article/871a246d-3acd-4bba-948e-5de8be0544c9). Na ta način boste dobili vzdevek za pošiljanje in prejemanje pošte.
+ **Opomba**: za uporabnika lahko imate več kot en e-poštni naslov, vendar lahko dodatne *e-poštne vzdevke* uporabite samo za prejemanje e-pošte. Če morate poslati e-poštno sporočilo z vzdevkom, ustvarite [nabiralnik v skupni rabi](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox). Na ta način boste dobili vzdevek za pošiljanje in prejemanje pošte.
   

@@ -1,5 +1,5 @@
 ---
-title: Ustvarite SharePointovo mesto
+title: Ustvarjanje SharePointovega mesta
 ms.author: efrene
 author: efrene
 ms.date: 1/16/2019
@@ -14,27 +14,27 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 96780bd2f4182c1385406ec2a31cd62745137985
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515823"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738213"
 ---
-# <a name="create-a-sharepoint-site"></a>Ustvarite SharePointovo mesto
+# <a name="create-a-sharepoint-site"></a>Ustvarjanje SharePointovega mesta
 
-Ogledate si lahko naslednje informacije o ustvarjanje SharePoint mesta:
-- [Upravljanje mesta v centru nove SharePoint admin](https://docs.microsoft.com/sharepoint/manage-site-creation): več o možnostih oblikovanja mesta, ustvarjanju klasična stran ali stran ekipe, ki ne vključuje skupino Office 365.
-- [Ustvari mesta skupine SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): Naučite se ustvariti mesto ekipa.
-- [Ustvari sporočilo mestu SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Naučite se, kako ustvariti spletno stran komunikacije.
-- [Upravljanje mesta v centru nove SharePoint admin](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Naučite se ustvariti klasična stran ali mesto ekipe, ki ne vključuje skupino Office 365.
+Za informacije o ustvarjanju mesta SharePoint si lahko ogledate naslednje:
+- [Upravljajte mesta v novem skrbniškem središču SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation): Preberite več o možnostih ustvarjanja mest, vključno s tem, kako ustvariti klasično spletno mesto ali mesto ekip, ki ne vključuje skupine Office 365.
+- [Ustvarite spletno mesto ekipe v SharePointu](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): Naučite se ustvariti spletno mesto skupine.
+- [Ustvarite spletno mesto za komunikacijo v SharePointu online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): Naučite se ustvariti spletno mesto za komunikacijo.
+- [Upravljajte mesta v novem skrbniškem središču SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): Naučite se ustvariti klasično spletno mesto ali spletno mesto skupine, ki ne vključuje skupine Office 365.
 
 
   
-> [! Nasveti]
-> - Mesta ni mogoče ustvariti z istega URL obstoječega mesta. Če izbrisati mesto in se želijo ponovno uporabiti URL, je mogoče izbrisati mesto še vedno obstaja pod **Izbrisano mesta**. Za upravljanje izbrisane strani glej, [izbrišite mesto](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). V čisto premestitev stran z Powershell, glej primer [Odstrani-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet.
-> - Nekateri uporabniki lahko ne morete ustvariti spletno stran. Glejte [upravljanje ustvarjanje mesta v SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - Je mogoče, stran se prikaže zaljubljen v **Ustvarjanje** dlje kot pričakovano. Če več kot 24 ur je minilo, odkar je prvič videl to vprašanje, se prijavite podporo vozovnice. V mnogih primerih, že delamo na rešitev. Prosimo, da nam vsaj 24 ur za dokončanje rešitev.
-> - Če morate ustvariti novo mesto ekipe, ki ne vključuje skupino Office 365 
+> [! Nasveti
+> - Mesta ne morete ustvariti z istim URL-jem obstoječega mesta. Če ste izbrisali spletno mesto in želite ponovno uporabiti URL, je možno, da izbrisano mesto še vedno obstaja pod **izbrisanimi spletnimi mesti**. Če želite upravljati izbrisana mesta, glejte [brisanje mesta](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). Če želite v celoti odstraniti spletno mesto z lupino PowerShell, glejte primer ukaza» cmdlet « [Remove-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
+> - Nekateri uporabniki morda ne bodo mogli ustvariti spletnega mesta. Glejte [upravljanje ustvarjanja mest v programu SharePoint online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+> - Možno je, da je stran videti obtičala pri **ustvarjanju** dlje, kot je bilo pričakovano. Če je minilo več kot 24 ur, odkar ste prvič videli to težavo, prosimo, prijavite vozovnico za podporo. V mnogih primerih že delamo na rešitvi. Prosimo, dajte nam vsaj 24 ur, da dokončate rešitev.
+> - Če morate ustvariti novo spletno mesto skupine, ki ne vključuje skupine Office 365, 
 
 

@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: d4bfdb44c04eb6838f4a265e55a4873d14c78f6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2d85dcf9111d48cb529c583c733823b404eb3188
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558001"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738105"
 ---
 # <a name="workflow-is-not-starting"></a>Potek dela se ne začenja
 
-- SharePoint 2010 in SharePoint 2013 poteki dela ne začenjajo.
+- Poteki dela SharePoint 2010 in SharePoint 2013 se ne začenjajo.
 
-    - Če vaš potek dela ne zažene, lahko pride do začasnih storitev vprašanje če uporabnik pride do občasne zakasnitve z napredkom poteka dela. Preverite [Nadzorna plošča storitev za zdravje](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) , da vidim, če vaša organizacija je vplivala.
+    - Če se potek dela ne začne, lahko pride do začasne težave s storitvijo, kjer lahko uporabniki občasno povzročijo zamude pri poteku dela. Če želite preveriti, ali je vaša organizacija vplivala, preverite [Nadzorna plošča storitve](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) .
 
-    - Če več kot 24 ur je minilo, odkar je prvič videl to vprašanje, se prijavite podporo vozovnice. V mnogih primerih, že delamo na rešitev. Prosimo, da nam vsaj 24 ur za dokončanje rešitev.
+    - Če je minilo več kot 24 ur, odkar ste prvič videli to težavo, prosimo, prijavite vozovnico za podporo. V mnogih primerih že delamo na rešitvi. Prosimo, dajte nam vsaj 24 ur, da dokončate rešitev.
 
-- Poteki dela za SharePoint 2010 odloži na začetek.
+- Poteki dela SharePoint 2010 so bili ob zagonu zakasnjeni.
 
-    - To se zgodi, če je potek dela sprožen v velikih serijah. (na primer, ko več so dodani elementi naenkrat).
+    - To se zgodi, če je potek dela sprožen v velikih serijah. (na primer, ko je več elementov dodanih naenkrat).
 
-    - Poteki dela so niso konstruirani za vožnjo v realnem času, tako da zamude pri načrtovanju vedenje.
+    - Poteki dela niso zasnovani za zagon v realnem času, zato je zakasnitev po-design vedenje.
 
-   -  Če poteka kompleksna Extensible predmet označevalni jezik (XMOL), lahko počasno urejanje. Preverite [ta](https://support.microsoft.com/en-us/kb/3043697) članek.
+   -  Če je potek dela kompleksen Extensible Object Markup Language (XMOL), lahko kompilacija je počasna. Preverite [ta](https://support.microsoft.com//kb/3043697) članek.
 
-    - Naj poenostavaiti workflow ali preoblikovanje z tip platforme Microsoft SharePoint 2013 poteka dela.
+    - Potek dela ali preoblikovanje je treba poenostaviti z vrsto platforme Microsoft SharePoint 2013 Workflow.
 
-    - Če zgodovine poteka dela je zrasel velik, morda boste želeli Počisti elemente ali ustvarite nov seznam zgodovine.
+    - Če se je zgodovina poteka dela povečala, boste morda želeli Počisti elemente ali ustvariti nov seznam zgodovine.
 
-        Več informacij: [Počisti zgodovino poteka dela](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Več informacij: [purge zgodovina poteka dela](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Sorodne teme
-Želite poskusiti Microsoft Flow v SharePoint Online?
-- [Ustvari tok](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint in pretok](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Želite poskusiti Microsoft Flow v SharePoint online?
+- [Ustvari potek](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint in Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 

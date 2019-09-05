@@ -1,5 +1,5 @@
 ---
-title: Dodaj drug e-poštni Vzdevek
+title: Dodajanje drugega e-poštnega vzdevka
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: c6ac69ab9a6063b2f42542c05cd7d21ec7d7be57
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: db27f599f3b3182495c4308c05cb3567f9299c80
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495119"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737349"
 ---
-# <a name="create-or-add-an-email-alias-for-a-user"></a>Ustvarite ali dodate e-poštni vzdevek za uporabnika
+# <a name="create-or-add-an-email-alias-for-a-user"></a>Ustvarjanje ali dodajanje e-poštnega vzdevka za uporabnika
 
-Morate ustvariti e-poštni vzdevek za uporabnika, ali Dodaj dodatni e-poštni naslov? Samo sledite tem korakom!
+Ali želite ustvariti e-poštni vzdevek za uporabnika ali dodati dodaten e-poštni naslov? Samo sledite tem korakom!
   
-1. V centru Microsoft 365 admin, pojdite na stran z [Uporabniki](https://go.microsoft.com/fwlink/p/?linkid=834822) , ali izberite **Uporabniki** \> **Aktivnih uporabnikov**.
+1. V skrbniškem središču Microsoft 365 pojdite na stran» [Uporabniki](https://go.microsoft.com/fwlink/p/?linkid=834822) «ali izberite **uporabnike** \> **aktivnih uporabnikov**.
     
-2. **Aktivnih uporabnikov** na strani, izberite ime osebe, ki jo želite urediti. 
+2. Na strani **aktivni uporabniki** izberite ime osebe, ki jo želite urediti. 
     
-3. Na desni, v v **Username / Email alias** vrstice, izberite **Uredi**.
+3. Na desni strani v vrstici **uporabniško ime/email vzdevki** izberite **Uredi**.
     
-4. V polje **Vzdevek** vnesite nov email in izberite **Dodaj**. Če ste kupili vaš abomna od GoDaddy ali drugega partnerja, zaiti nov vzdevek kot primarni, morate iti za konzolo za upravljanje GoDaddy/partnerja. 
+4. V polje **Vzdevek** vnesite novo e-poštno sporočilo in nato izberite **Dodaj**. Če ste kupili naročnino od GoDaddy ali drugega partnerja, da nastavite novo alias kot primarni, morate iti k GoDaddy/partner upravljanje konzolo. 
     
-    **Pomembno**: če vi zaslužiti zmota vest " **ni mogoče najti parameter, ki se ujema z imenom parametra" EmailAddresses**"to pomeni, da traja malo dlje, za Office 365 do konca postavljanje ki gre gor vaš najemnik ali šega področje, če ste nedavno dodali eno . Namestitev lahko traja do 4 ure za dokončanje. Počakajte nekaj časa, tako ustanovi proces je čas do konca, in nato poskusite znova. Če težave ne morete odpraviti, pokličite podporo in ne bo popolno sinhronizacijo za vas.
+    **Pomembno**: Če se prikaže sporočilo o napaki» **parametra ni mogoče najti, ki se ujema z imenom parametra» EmailAddresses**«, to pomeni, da je pri uradu 365 za dokončanje nastavljanja najemnika ali domene po meri, če ste pred kratkim dodali eno . Namestitveni postopek lahko traja do 4 ure za dokončanje. Počakajte nekaj časa, tako da je postopek nastavljen tako, da konča, nato pa poskusite znova. Če težave ne odpravite, pokličite podporo in za vas bodo naredili popolno sinhronizacijo.
     
-    To ponavadi traja približno 30 minut za nov vzdevek v veljavo.
+    Običajno traja približno 30 minut, da novi Vzdevek začne učinkovati.
     
-    **Za več podrobnosti, glejte ta članek:** [Dodaj dodatni e-poštni vzdevki uporabniku](https://support.office.com/article/Add-additional-email-aliases-to-a-user-0b0bd900-68b1-4bf5-808b-5d240a7739f4.aspx)
+    **Za več podrobnosti si oglejte ta članek:** [Dodajanje drugega e-poštnega vzdevka za uporabnika](https://docs.microsoft.com/office365/admin/email/add-another-email-alias-for-a-user)
     
 

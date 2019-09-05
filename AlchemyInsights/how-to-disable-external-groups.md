@@ -1,5 +1,5 @@
 ---
-title: Kako v onesposobiti zunanjih skupin
+title: Kako onemogočiti zunanje skupine
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -11,24 +11,24 @@ ms.custom:
 - "966"
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
-ms.openlocfilehash: 4683a71438ec31f9e9211404a9c66c4e45e0e1df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540917"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739509"
 ---
-# <a name="how-to-disable-external-groups"></a>Kako v onesposobiti zunanjih skupin
+# <a name="how-to-disable-external-groups"></a>Kako onemogočiti zunanje skupine
 
-Kukati, zunanjih sporočil uporablja pravila izmenjave prevoza (ETRs), niz proaktivne ukrepe, da preprečijo podatki podjetja skupne rabe. Da bi določim ustvarjanje zunanjih skupin, boste morali oblikovati pravilo za izmenjavo prometa ("ETR"), ter torej oblikovati Bastard rabiti Exchangeev prenos pravilo v tnalo zunanja sporočila.
+Za zunanje sporočanje yammer veljajo pravila Exchangeevega prenosa (ETRs), niz proaktivnih kontrolnikov, ki preprečujejo skupno rabo podatkov podjetja. Če želite uporabnikom omejiti ustvarjanje zunanjih skupin, morate konfigurirati pravilo za Exchangeeva pravila (ETR) in nato konfigurirati storitev Yammer, če želite blokirati zunanje sporočanje s pravilom Exchangevega transporta.
   
-Ko ustvarite pravilo v Exchange Online admin center, sledite tem korakom nastaviti ETR v Bastard:
+Ko ustvarite pravilo v skrbniškem središču za Exchange Online, sledite tem korakom, da nastavite ETR za uporabo v storitvi Yammer:
   
-- Prijaviti Bastard kot preverjene admin in **Kukati skrbniško središče**, pojdite na C **vsebino in varnost \> varnostne nastavitve.**
+- Prijavite se v storitev Yammer kot preverjen skrbnik in v **skrbniškem središču yammer**pojdite na vsebino C **in varnostne \> varnostne nastavitve.**
 
-- Pod, **Zunanjih sporočil**, izberite **vsili Exchange Online izmenjavo prometa pravila (ETRs) v Bastard.**
+- V razdelku **zunanje sporočanje** **v storitvi Yammer izberite uveljavi pravila za prenos Exchange Online Exchange (etrs).**
 
 - Izberite **Shrani**.
 
-Če želite več informacij, glejte [nadzor zunanjih sporočil v mrežo Bastard pravilom Exchangeev prenos](https://support.office.com/article/Control-external-messaging-in-a-Yammer-network-with-Exchange-Transport-Rules-f8fd6403-c8f3-4307-9230-65304d6000d9)
+Če želite več informacij, glejte [Onemogočanje zunanjega sporočanja v omrežju Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   

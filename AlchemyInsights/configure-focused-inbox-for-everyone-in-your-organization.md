@@ -1,5 +1,5 @@
 ---
-title: 912 Konfiguriraj osredotočenost na Prejeto za vsakogar v vaši organizaciji
+title: 912 konfiguriranje usmerjenega nabiralnika za vse v vaši organizaciji
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "912"
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
-ms.openlocfilehash: d5b8825bede8ff17a10dba09f269320e17b13354
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504731"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738429"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Pa usmerjena Prejeto ali izklop za vsakogar
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>Vklop ali izklop usmerjenega nabiralnika za vse
 
-Navodila, si oglejte [Konfiguriranje osredotočena Prejeto za vsakogar v vaši organizaciji](https://support.office.com/article/613a845c-4b71-41de-b331-acdcf5b6625d.aspx).
+Za navodila glejte [Konfiguracija usmerjenega nabiralnika za vse v vaši organizaciji](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
 
-**Opomba**: ta postopek zahteva Exchange Online PowerShell. Ali želite to narediti v skrbniškem središču Microsoft 365 namesto? [Glasovanje tukaj!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**Opombe**: ta postopek zahteva PowerShell Exchange Online. Hoteti vi všeč biti uganjati to v mikroskop 365 pomoč središče namesto tega? [Glasujte tukaj!](https://go.microsoft.com/fwlink/p/?linkid=862489)

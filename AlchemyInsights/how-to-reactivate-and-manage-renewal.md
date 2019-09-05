@@ -1,5 +1,5 @@
 ---
-title: Kako aktivirati in upravljanje podaljšanje
+title: Kako aktivirati in upravljati obnovo
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663976"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739329"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kako aktivirati in upravljanje ponavljajočih zaračunavanja
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a>Kako aktivirati in upravljati ponavljajoče se obračunavanje
 
-Izgleda, da imate naročnino, ki se je iztekel. Če želite aktivirati to, tukaj je kako.
+Videti je, da imate naročnino, ki je potekla. Če želite aktivirati to, tukaj je, kako.
   
-1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
+1. V skrbniškem središču pojdite na stran za **obračunavanje** \> [izdelkov _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Poišči naročnino, ki jih želite aktivirati. V razdelku **zaračunavanje** izberite **reaktivirati**.
+2. Poiščite naročnino, ki jo želite znova aktivirati. V razdelku **obračunavanje** izberite **Znova aktiviraj**.
 
-    Če vi nikar ne zagledati **reaktivirati** kot opcija, uporabite gumb "Potrebujejo pomoč" govoriti z inženirjem za podporo aktivirati naročnino.
+    Če ne vidite **ponovno aktivirati** kot možnost, uporabite gumb "Rabite pomoč", da se pogovorite s podpornim inženirjem, da znova aktivirate naročnino.
 
-3. Potrditev vaše plačilne podatke. Lahko posodobite obstoječe podatke za plačilo tukaj. Ko končate z vstop vaš način plačila, izberite **reaktivirati**.
+3. Potrdite podatke o plačilu. Obstoječe podatke o plačilu lahko posodobite tukaj. Ko končate z vnosom plačilnega načina, izberite **Znova aktiviraj**.
 
-Če želite izvedeti več, glejte [znova aktivirajte naročnino](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+Če želite izvedeti več, glejte [vnovično aktiviranje naročnine](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
-Obvladovati, mesečno ali letno plačevanja vam lahko vklopi **ponavljanje zaračunavanje** ali izklopi.
+Če želite upravljati mesečno ali letno obračunavanje, lahko vklopite ali izklopite **ponavljajoče se obračunavanje** .
   
-1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
+1. V skrbniškem središču pojdite na stran za **obračunavanje** \> [izdelkov _ amp_ Services](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. Izberite naročnine, ki ga želite upravljati ponavljajočih zaračunavanja.
+2. Izberite naročnino, za katero želite upravljati ponavljajoče se obračunavanje.
 
-3. Pod **obračun**, ob **Renews na** ali **Expiring na**, izberite **Uredi**.
+3. Pod možnostjo **obračunavanje**, poleg možnosti **Obnovi** ali **poteče**, izberite **Uredi**.
 
-4. V podoknu **ponavljajoči zaračunavanja nastavitve** , izberite **Možnost izklopi** vrteti to ne sveže. Če ponavljajoče se zaračunavanje že izklopljen, izberite **mesečno** ali **ko** ga vklopite.
+4. V podoknu z **nastavitvami ponavljajočega se obračunavanja** izberite **Izklopi** , da ga izklopite. Če je ponavljajoče se obračunavanje že izklopljeno, izberite **mesečno** ali **enkrat** , da ga vklopite.
 
-5. Izberite **Pošlji spremeniti**.
+5. Izberite **Pošlji spremembo**.
 
-Če želite izvedeti več, glejte [Vklop ponavljajoče se zaračunavanje off ali na](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+Če želite izvedeti več, glejte [Vklop ali izklop ponavljajočega se obračunavanja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

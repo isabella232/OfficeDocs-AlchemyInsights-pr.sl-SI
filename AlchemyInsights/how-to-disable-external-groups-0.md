@@ -1,5 +1,5 @@
 ---
-title: Kako v onesposobiti zunanjih skupin
+title: Kako onemogočiti zunanje skupine
 ms.author: pebaum
 author: pebaum
 ms.date: 8/1/2018
@@ -11,24 +11,24 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a467cc5deea6ae3a6f12832d238928daf4800039
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541241"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739581"
 ---
-# <a name="how-to-disable-external-groups"></a>Kako v onesposobiti zunanjih skupin
+# <a name="how-to-disable-external-groups"></a>Kako onemogočiti zunanje skupine
 
-Obstajajo štirje načini zunanji uporabniki dostopajo do omrežja v Bastard.
+Na voljo so štirje načini, kako lahko zunanji uporabniki dostopajo do vašega omrežja v storitvi Yammer.
   
-1. **Mnenja uporabnikov** - Kukati administratorji lahko povabite stike iz zunanjih domen kot uporabniki v domačem omrežju. Ti uporabniki bodo videli vse družbe krme in lahko pridružijo druge skupine v omrežjih tudi.
+1. **Uporabniki gostov** -skrbniki storitev yammer lahko povabijo stike iz zunanjih domen kot uporabnike v domačem omrežju. Ti uporabniki bodo videli vir vseh podjetij in se lahko pridružijo tudi drugim skupinam v omrežjih.
 
-2. **Zunanji uporabniki v skupini zunanjih** - zunanje skupine zunanjim uporabnikom. Področje dostop zunanjih uporabnikov je omejeno na zunanje skupine. Z zunanjimi skupinami, lahko povabite samo stike iz Bastard omrežij, ki omogočajo uporabnikom, da sodelujejo v zunanjih pogovorov.
+2. **Zunanji uporabniki v zunanji skupini** -zunanje skupine omogočajo zunanjim uporabnikom. Obseg dostopa zunanjega uporabnika je omejen na zunanjo skupino. Z zunanjimi skupinami lahko povabite samo stike iz omrežij Yammer, ki uporabnikom omogočajo sodelovanje v zunanjih pogovorih.
 
-3. **Zunanji uporabniki v Bastard pogovor v skupini notranje** - ta možnost omogoča zunanji udeleženci dodati v določenem pogovoru. Zunanji udeleženci lahko sodelujejo samo v pogovorih, ki so bili izrecno povabljeni k in vse priloge v ta pogovor. Bodo dostop do teh pogovorov prek svojih Bastard Prejeto (na njihovem omrežju). Nimajo dostopa v vašem omrežju.
+3. **Zunanji uporabniki v pogovoru Yammer v notranji skupini** -ta možnost omogoča, da se zunanji udeleženci dodajo določenemu pogovoru. Zunanji udeleženci lahko sodelujejo le v pogovorih, ki so bili izrecno povabljeni in v vse priloge v tem pogovoru. Te pogovore dostopajo prek mape» Prejeto «v storitvi Yammer (v svojem omrežju). Nimajo dostopa do preostalega omrežja.
 
-4. **Zunanjih omrežij** - ta možnost vam omogoča, da povabi zunanje uporabnike zunanjega omrežja, da preveri administratorji lahko ustvarite v omrežju. Ta možnost je najbolj primerna za gostovanje zunanje Skupnosti.
+4. **Zunanja omrežja** -ta možnost vam omogoča, da povabi zunanje uporabnike v zunanje omrežje, ki preverja skrbniki lahko ustvarijo v vašem omrežju. Ta možnost je najbolj primerna za gostovanje zunanjih Skupnosti.
 
-Če želite več informacij, si oglejte [Dodaj zunanje sporočila udeležencev v pogovore Bastard](https://support.office.com/article/add-external-messaging-participants-to-your-yammer-conversations-423653bb-86b2-4eac-9d7e-dca121f7c16c?ui=en-US&amp;rs=en-US&amp;ad=US) in [Zunanjih sporočil FAQ (Bastard)](https://support.office.com/article/External-messaging-FAQ-Yammer-35b59d6c-bb1c-4541-bf19-9f67d2f2b199)
+Če želite več informacij, glejte [Dodajanje zunanjih sporočil udeležencem v pogovore yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants) in [pogosta vprašanja o zunanjem sporočanjem (yammer)](https://docs.microsoft.com/yammer/work-with-external-users/external-messaging-faq)
   
