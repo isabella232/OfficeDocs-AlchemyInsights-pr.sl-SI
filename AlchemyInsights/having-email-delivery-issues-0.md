@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: a18878032c2da76c930c6d4d3fa572f46350de39
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523383"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739797"
 ---
 # <a name="having-email-delivery-issues"></a>Ali imate težave z dostavo e-pošte?
 
@@ -26,9 +26,8 @@ Opazili smo, da vaši uporabniki ne morejo prejemati e-poštnih sporočil, posla
   
 {HealthCheckString}
   
-Zapisi NS ali MX v nastavitvah domene (DNS) niso pravilno konfigurirani za dostavo e-pošte v storitev Office 365. Podrobna navodila najdete v članku [Posodabljanje zapisov DSN v storitvi Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx).
+Zapisi NS ali MX v nastavitvah domene (DNS) niso pravilno konfigurirani za dostavo e-pošte v storitev Office 365. Podrobna navodila najdete v članku [Ustvarjanje zapisov DNS pri poljubnem ponudniku gostovanja zapisov DNS za Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
   
 Če jih želite popraviti, odprite stran [Domene](https://admin.microsoft.com/adminportal/home#/Domains) v Skrbniškem središču za Microsoft 365, kjer vam bomo pomagali.
   
-Druge pogoste rešitve najdete v članku [Pogosta vprašanja o domenah](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).
   
