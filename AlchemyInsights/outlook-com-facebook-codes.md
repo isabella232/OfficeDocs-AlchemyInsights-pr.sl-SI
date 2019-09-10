@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1967"
 - "9000338"
-ms.openlocfilehash: fba761178e08a09f0e5f4e4ffb6212e8c9395fdc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d94d9c528d5b53833add783af612442853737740
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546787"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822322"
 ---
 # <a name="not-receiving-facebook-codes-using-outlookcom"></a>Ne prejemajo Facebook kode z uporabo Outlook.com
 
-Če ste zahtevali novo geslo iz Facebook, vendar ni prejel geslo ponastavite email:
+Če ste zahtevali novo geslo iz Facebooka, vendar niste prejeli e-poštnega sporočila za ponastavitev gesla:
 
-- Preverite [spam ali junk mail mapo](https://outlook.live.com/mail/junkemail).
-- Poskusite [ponastaviti geslo Facebook znova](https://www.facebook.com/help/213395615347144?helpref=faq_content).
+- Preverite [mapo z vsiljeno pošto ali neželeno pošto](https://outlook.live.com/mail/junkemail).
+- Poskusite [znova ponastaviti Facebook geslo](https://aka.ms/facebook-password-reset).
 
-Če ni mogoče ponastaviti geslo, ker nimate dostopa do e-pošte ali številko mobilnega telefona na vaš račun, začeti [Facebook parola prikrivati Nasveti](https://www.facebook.com/help/218815984812734).
+Če gesla ne morete ponastaviti, ker ne morete dostopati do e-poštnega sporočila ali številke mobilnega telefona v računu, poskusite [nasvete za ponastavitev gesla za Facebook](https://aka.ms/facebook-password-help).

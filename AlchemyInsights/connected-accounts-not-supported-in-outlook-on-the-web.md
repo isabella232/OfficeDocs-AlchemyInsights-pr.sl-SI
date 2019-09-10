@@ -1,5 +1,5 @@
 ---
-title: 1800029 povezanih računov, ni podprta v Outlook v spletu
+title: 1800029 povezani računi, ki niso podprti v Outlooku v spletu
 ms.author: daeite
 author: daeite
 ms.date: 12/17/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504797"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821818"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a>Povezanih računov niso več podprti
+# <a name="connected-accounts-are-no-longer-supported"></a>Povezani računi niso več podprti
 
-Microsoft odstranil možnost, da dodate nove račune Outlook v spletu funkcijo povezanih računov na 15 September 2018 in bo ustavil sinhronizacijo obstoječe račune na 30 oktober 2018, ki so bile priključene pred 15 September 2018. Na November 15, možnost povezanih računov ( **Nastavitve** \> **Mail** \> **računov**) bo odstranjen iz Outlooka na spletu.Za več informacij, glejte, [povezanih računov ni več podprta v Outlook v spletu (Office 365 za poslovne račune)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+Microsoft je odstranil možnost dodajanja novih računov v Outlook v spletu z uporabo povezanih računov funkcija na september 15, 2018 in bo ustavil sinhronizacijo obstoječih računov na oktober 30, 2018, ki so bili povezani pred septembrom 15, 2018. 15. novembra bo možnost povezanih računov ( **Nastavitve** \> e- **poštnih** \> **računov**) odstranjena iz Outlooka v spletu.Če želite več informacij, glejte [povezani računi niso več podprti v Outlooku v spletu (Office 365 za poslovne račune)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-Še naprej videli e-pošto iz drugih računov: še vedno lahko posredujete email iz teh računov v Outlook v spletu. Če želite več informacij, glejte:
+Če želite nadaljevati prikazovanje e-pošte iz drugih računov: še vedno lahko posredujete e-pošto iz teh računov v Outlook v spletu. Če želite več informacij, glejte:
   
-[Vklopiti ali izklopiti samodejno posredovanje v Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
+[Vklopite ali izklopite samodejno posredovanje v Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[Samodejno posredovanje sporočil Gmail v še eden račun](https://support.google.com/mail/answer/10957?hl=en)
+[Samodejno posredovanje sporočil v Gmailu drugemu računu](https://aka.ms/forward-gmail-messages)
   
-[Samodejno elektronsko posredovanje v brutalen človek verižna srajca](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[Samodejno posredovanje e-pošte v Yahoo Mail](https://aka.ms/yahoo-email-forwarding)
   

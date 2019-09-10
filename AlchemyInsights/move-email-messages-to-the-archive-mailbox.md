@@ -1,5 +1,5 @@
 ---
-title: E-poštnih sporočil premakniti arhivskega nabiralnika
+title: Premikanje e-poštnih sporočil v arhivski nabiralnik
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,26 +12,26 @@ ms.custom:
 - "1083"
 - "3100008"
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: ce52df446fc4c23c06476e8836ade6a6810d158f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5592bc7d4566e3498c33bbf9488db7f46ec58842
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549020"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822178"
 ---
-# <a name="move-email-to-the-archive-mailbox"></a>Premakniti email arhivskega nabiralnika
+# <a name="move-email-to-the-archive-mailbox"></a>Premakni e-poštno sporočilo v arhivski nabiralnik
 
-1. Potrditev, da je bila omogočena **Arhiv nabiralnik** . V nasprotnem primeru, sledite korakom v [tem članku](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) za omogočanje arhivskega nabiralnika.
+1. Potrdite, da je bil omogočen **arhivski nabiralnik** . Če ne, uporabite korake v [tem članku](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) , da omogočite arhivski nabiralnik.
 
-2. V arhiv sporočil samodejno arhivskega nabiralnika, oznako za hranjenje z dejanjem **Premakni v Arhiv** mora biti nastavljena na **samodejno dodati oznako celoten predal (privzeto)**. Sledite korakom tukaj ustvariti oznako: [Arhiv privzeto oznako](https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Foffice365%2Fsecuritycompliance%2Fset-up-an-archive-and-deletion-policy-for-mailboxes%23create-a-custom-archive-default-policy-tag&data=04%7C01%7Cstephow%40microsoft.com%7C89934e16dbd84ebdef6708d6b319b348%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C636893320296576506%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C-1&sdata=UibWi%2BtrO3ITZ6iF%2FtKQj5JyxzEb9Mu9frBJPT6FNFI%3D&reserved=0).
+2. Če želite samodejno arhivirati sporočila v arhivski nabiralnik, mora biti oznaka za hranjenje z dejanjem **Premakni v arhiviranje** nastavljena tako, da se **samodejno uporabi za celoten nabiralnik (privzeta) oznaka**. Uporabite korake tukaj za ustvarjanje oznake: [Arhiv privzeta oznaka](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#create-a-custom-archive-default-policy-tag).
 
-3. Nato dodajte oznako **Arhiv** pravilnik o hranjenju. V skrbniškem središču za izmenjavo, izberite **Zadrževanja** > dodati, **premakniti za oznako Arhiv** politike >, **shranite**.
+3. Nato dodajte **arhivsko** oznako v pravilnik o hranjenju. V skrbniškem središču za Exchange izberite **Pravilniki o hranjenju** > dodajte **oznako Premakni v arhiv** v pravilnik > **Shrani**.
 
-4. Zdaj [dodelite pravilnik o hranjenju](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) posebne uporabnikovega nabiralnika. Istega pravilnika veljajo na **primarnega** in **arhivskega** nabiralnika.
+4. Zdaj [dodelite pravilnik o hranjenju](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) za nabiralnik določenega uporabnika. Ista politika bo uporabljena za **primarni** in **arhivski** nabiralnik.
 
-Je potrebno za vsiljevanje uspelo mapo pomočnika (MFA) teči ter uveljavil nove nastavitve uporabnikovega nabiralnika. Zaženite ta ukaz, medtem ko [povezati EKSO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) začeti pomočnik za upravljane mape za določen nabiralnik:
+Morda bo potrebno prisiliti pomočnika za upravljane mape (MFA), da zažene in uporabi nove nastavitve v nabiralniku uporabnika. Zaženite ta ukaz, medtem ko je [povezan z lupino EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) , da zaženete pomočnika za upravljane mape za določen nabiralnik:
   
-Začetek-ManagedFolderAssistant-identitete<name of the mailbox>
+Start-ManagedFolderAssistant-identiteta<name of the mailbox>
 
-Če želite več informacij o nastavljanju pravilnik arhiviranja, glejte [Nastavitev Arhiv in izbris pravilnika za nabiralnike](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+Če želite več informacij o nastavitvi pravilnika arhiva, glejte [nastavitev pravilnika o arhiviranju in brisanju nabiralnikov](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   

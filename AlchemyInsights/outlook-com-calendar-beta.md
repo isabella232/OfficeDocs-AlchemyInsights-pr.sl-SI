@@ -1,5 +1,5 @@
 ---
-title: 9000198 Outlook.com Calendar različica Beta
+title: 9000198 Outlook.com koledar beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 8e76edd920a86445b2edc4745d39538233413c04
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75622ce992347e11dee57b3ba1b080bc498cda5b
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548155"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821998"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>Nov koledar izkušnje prihajajo Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>New koledar izkušnje, ki prihajajo na Outlook.com
 
-Nov videz prinaša najboljše modele in learnings iz Mail izkušnje na koledar.
+Nov videz prinaša najboljše modele in learnings iz izkušnje mail na koledar.
 
-Sodoben dizajn, ki zmanjšuje vizualen nered in omogoča hitrejši načini za navigacijo koledar boste uživali. Prav tako je lažje najti zanimive koledarje za vaš najljubši dejavnosti – iz TV kaže, športne ekipe in dogodkov.
+Uživali boste v sodobnem dizajni, ki zmanjšuje vizualno nereda in omogoča hitrejše krmarjenje po koledarju. Prav tako je lažje najti zanimive koledarje za vaše najljubše dejavnosti – od televizijskih oddaj do športnih ekip in dogodkov.
 
-Smo razširili našo zbirko ikon za dogodek in posodobljen videz obstoječih — in zdaj samodejno dodamo ustrezne ikone za vaše dogodke, tako da lahko vidite, kaj se dogaja na prvi pogled.
+Razširili smo našo zbirko ikon dogodkov in posodobili videz in občutek obstoječih-in zdaj samodejno dodamo ustrezne ikone na vaše dogodke, tako da lahko preprosto vidite, kaj se dogaja na kratko.
 
-Lahko daje povratne informacije o nove funkcije skozi [Outlook.com koledar UserVoice kanal](https://outlook.uservoice.com/forums/601444-new-experiences-in-outlook-com?category_id=209197).
+Lahko dajo povratne informacije o novih funkcijah prek [Outlook.com koledar UserVoice kanal](https://go.microsoft.com/fwlink/?linkid=2103075).
