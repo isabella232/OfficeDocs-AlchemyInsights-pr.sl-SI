@@ -1,5 +1,5 @@
 ---
-title: Kako preveriti vaše domene Office 365
+title: Preverjanje domene z Officeom 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,16 +13,16 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1621b58ca82f91645c7b46d962bd76290161b39f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 7e6586f4ba0b7f65fe16a040208ff56ec4ca1985
+ms.sourcegitcommit: 52605656a92e31d3bf65f90ba427f56e87d6a221
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664092"
+ms.lasthandoff: 09/11/2019
+ms.locfileid: "36851736"
 ---
-# <a name="how-to-verify-your-domain-with-office-365"></a>Kako preveriti vaše domene Office 365
+# <a name="how-to-verify-your-domain-with-office-365"></a>Preverjanje domene z Officeom 365
 
-Želite preveriti vaše domene, boste morali dodati zapis TXT, da svojo domeno registrarju za preverjanje, da ste lastnik domene. Prvič, slediti [Add Domain čarovnika](https://portal.office.com/adminportal/home#/Domains) tako, da izberete **Nastavitve** \> **Domaisn**, in nato **Dodaj domeno**.
+Če želite preveriti domeno, boste morali registrarju domene dodati zapis TXT, da preverite, ali ste lastnik domene. Najprej uporabite čarovnika za [Dodajanje domen](https://portal.office.com/adminportal/home#/Domains) , tako da izberete **domene**z **nastavitvami** \> in nato **dodate domeno**.
   
-Sledite navodilom v [ustvarite DNS zapise v katero koli DNS gostovanje storitev za Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) dodati zapis TXT za preverjanje vaše domene.
+Sledite navodilom v [ustvarjanju zapisov DNS pri katerem koli ponudniku gostovanja DNS za Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , če želite dodati zapis txt za preverjanje vaše domene.
   
