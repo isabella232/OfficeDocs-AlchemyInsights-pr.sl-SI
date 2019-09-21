@@ -1,5 +1,5 @@
 ---
-title: Klasična SharePoint poročila o dnevniku nadzora
+title: Poročila o klasičnem SharePointovem dnevniku revizij
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,35 +12,38 @@ ms.custom:
 - "1372"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: dea8f2ab0f99e493d68aa074532f26f7ed8026aa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: af5b3c76b82db13bc89c917247e41fa1d8779b68
+ms.sourcegitcommit: d5bf97a0bf0547f36b6da9684ce9f16a13a7749e
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504407"
+ms.lasthandoff: 09/20/2019
+ms.locfileid: "37068039"
 ---
-# <a name="sharepoint-and-onedrive-audit-logs"></a>SharePoint in OneDrive revizijskih dnevnikov
+# <a name="sharepoint-and-onedrive-audit-logs"></a>Dnevniki revizij v SharePointu in storitvi OneDrive
 
-**SharePoint in OneDrive sodobne Unified revizijske dnevnike iz skladnosti**
+**Iz skladnosti se dnevniki programa SharePoint in OneDrive Modern Unified Audit**
 
-- [Vklop/izklop poenoteno prijavo revizije](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
+- [Vklop/izklop pisanja dnevnika poenotenega nadzora](https://docs.microsoft.com/office365/securitycompliance/turn-audit-log-search-on-or-off) 
 
-Dodatnih konfiguracija je zahtevano v SharePoint ali OneDrive.
+V SharePointu ali storitvi OneDrive ni potrebna nobena dodatna konfiguracija.
 
-- Zapisovanje v dnevnike nadzora iskanja uporabite za preverjanje dejavnosti datoteke, mape, uporabnike, dovoljenja:
+- Uporaba iskanja dnevnika nadzora za preverjanje dejavnosti datotek, map, uporabnikov, dovoljenj:
 
-    - [Datoteke in strani dejavnosti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
-    - [Mapo dejavnosti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
-    - [Izmenjavo in dostop zahtevo dejavnosti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
-    - [Sinhronizacija dejavnosti](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
-    - [Dejavnosti upravljanja mesta](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
-- Če želite več informacij o tem, kako pridobiti teh dogodkov, glejte [Iskanje dnevnik nadzora](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+    - [Dejavnosti datotek in strani](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)
+    - [Dejavnosti mape](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#folder-activities)
+    - [Skupna raba in dostop do dejavnosti zahteve](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#sharing-and-access-request-activities)
+    - [Dejavnosti sinhronizacije](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#synchronization-activities)
+    - [Dejavnosti upravljanja spletnega mesta](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#site-administration-activities)
+- Če želite več informacij o tem, kako pridobite te dogodke, glejte [iskanje dnevnika revizij](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-**SharePoint klasičnih revizijskih dnevnikov**
+**Dnevniki klasičnih revizij v SharePointu**
 
-- [Poglej si in omogoči klasični SharePoint dnevnikov](https://support.office.com/article/view-audit-log-reports-b37c5869-1b47-4a82-a30d-ea20070fe527)
+V dnevnik poenotenih revizij (UAL) smo preselili starejšo revizijo SPO. To v bistvu pomeni, da se bodo vsa zapuščina revizijskih poročil SPO zdaj napajala prek UAL, podedovani revizijski signali pa so bili preseljeni v UAL.
 
-Nadzor treba omogočiti na vsako zbirko mest. 
+Ključne spremembe:
 
-**Opomba**: priporočamo uporabo sodobne Unified revizijskih dnevnikov za nadzor bolje in napredne možnosti od teh klasičnih dnevnikov.
+- Obrezovanje kot zmožnost ni na voljo.
+- Odsek, v katerem izberete specifične dogodke za revizijo, ni na voljo. Prosimo, glejte [ta dokument](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) za popoln seznam revidiranih dogodkov, ki so privzeto na voljo.
+- Možnost» lokacija «v **poročilih po meri** ni na voljo. 
+- Dogodki» odpiranje ali prenašanje dokumentov «niso na voljo. 
 
