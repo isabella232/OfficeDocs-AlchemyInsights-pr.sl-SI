@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: eea2d28b754ec87289984068b9e3330b9f10dd5b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 4bf8e02246c966f22648467386a7862f0521fecf
+ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36744837"
+ms.lasthandoff: 09/26/2019
+ms.locfileid: "37207241"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Oznake občutljivosti, ki se ne pojavljajo
 
-Oznake občutljivosti vam omogočajo razvrščanje in pomoč pri zaščiti občutljive vsebine. Če želite izvedeti več o tej funkciji, glejte [pregled oznak občutljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Oznake občutljivosti vam omogočajo razvrščanje in pomoč pri zaščiti občutljive vsebine. Ustvarjene so lahko v središču za skladnost z Microsoft 365, Microsoft 365 Security Center ali Office 365 Security & center za skladnost v razdelku razvrstitev > oznake občutljivosti. Če želite izvedeti več o tej funkciji, glejte [pregled oznak občutljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Če ste konfigurirali oznake občutljivosti, vendar se ne prikazujejo v Officeovih aplikacijah, preverite naslednje:
 
@@ -32,5 +32,10 @@ Oznake občutljivosti vam omogočajo razvrščanje in pomoč pri zaščiti obču
 - Če želite [preseliti nalepke za zaščito podatkov Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), se zavedajte pomislekov, naštetih [tukaj](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 
 - Podpora za preprečevanje izgub podatkov (DLP): trenutno lahko v pravilnikih DLP uporabite samo oznake za hranjenje.  Podpora za oznake občutljivosti v pravilniku DLP še ni na voljo, vendar delamo na njem.
+
+- Ko je šifriranje omogočeno na oznaki občutljivosti, lahko izberete:
+    - Dodeljevanje dovoljenj zdaj
+    - Dovoli uporabnikom dodeljevanje dovoljenj
+
 
 Če želite več informacij o možnih vprašanjih, glejte [znane težave z oznakami občutljivosti](https://support.office.com/article/known-issues-with-sensitivity-labels-in-office-b169d687-2bbd-4e21-a440-7da1b2743edc).
