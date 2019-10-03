@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 5fa39c87550e6bacf60299c6420f5318ed99a73b
-ms.sourcegitcommit: 89b8d982f83ff8d269624e5745d3a186f1e3e6c1
+ms.openlocfilehash: 09cbbc28e3ad826dc3ed69a89e5ab3983c1aea24
+ms.sourcegitcommit: 3a7c40c232294878ac0c91302e86599ec6f5209e
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37350883"
+ms.lasthandoff: 10/02/2019
+ms.locfileid: "37373127"
 ---
-#   <a name="teams-common-issues-and-resolutions"></a>Pogosta vprašanja in resolucije ekip
+# <a name="teams-common-issues-and-resolutions"></a>Pogosta vprašanja in resolucije ekip
 
 Če želite natančnejši odgovor o izdaji Microsoft Teams, na kratko preoblikujte vprašanje in vključite morebitne napake, ki jih vidite, ali funkcije, ki jih uporabljate.
 
@@ -32,7 +32,7 @@ Tukaj je nekaj dodatnih virov:
     - Če želite obnoviti izbrisani kanal, glejte [arhiviranje ali obnavljanje ekipe](https://support.office.com/article/archive-or-restore-a-team-dc161cfd-b328-440f-974b-5da5bd98b5a7).
 - **Obnovite izbrisane datoteke:** Glejte [obnovitev izbrisanih datotek v skupinah](https://support.office.com/article/recover-deleted-files-in-teams-a591d771-89a6-49e2-ab7e-271936fe3c4e).
 - **Odpravljanje težav z manjkajočo klicno ploščico:**  
-    1. Prepričajte se, da je bila uporabniku dodeljena [licenca ekip](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
-    2. Prepričajte se, da ima uporabnik dodeljen [načrt klicanja](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
-    3. Omogočite uporabnikom za [podjetje Voice](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
+    - Prepričajte se, da je bila uporabniku dodeljena [licenca ekip](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
+    - Prepričajte se, da ima uporabnik dodeljen [načrt klicanja](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) .
+    - Omogočite uporabnikom za [podjetje Voice](https://docs.microsoft.com/en-us/skypeforbusiness/skype-for-business-hybrid-solutions/plan-your-phone-system-cloud-pbx-solution/enable-users-for-enterprise-voice-online-and-phone-system-voicemail#to-enable-your-users-for-phone-system-in-office-365-voice-and-voicemail).
 - **Znane težave z Teams:** Preberite [znana vprašanja za Microsoft Teams](https://docs.microsoft.com/microsoftteams/known-issues).
