@@ -11,23 +11,27 @@ localization_priority: Normal
 ms.custom:
 - "1350"
 - "8000084"
-ms.openlocfilehash: b54c7d21dc3cc8f027f7c5d9136a361657d416f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bcfbe9cc479a36c4d1ffd9d19a403e146794f024
+ms.sourcegitcommit: 488ba34cccad1ead27318df01732e06cdac2ba93
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546067"
+ms.lasthandoff: 10/07/2019
+ms.locfileid: "37414099"
 ---
-# <a name="email-and-storage-quota-in-outlookcom"></a>E-pošto in shranjevanje kvote v Outlook.com
+# <a name="email-and-storage-quota-in-outlookcom"></a>E-poštna in skladiščna kvota v Outlook.com
 
-**Pošiljanje omejitve**
+**Omejitve pošiljanja**
 
-Da bi zmanjšali spam, Outlook.com je dnevni email pošiljanje omejitev. Če želite izvedeti, kako lahko povečate vaše dnevne omejitve pošiljanja, glejte [pošiljanje omejitev Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e?wt.mc_id=Office_Outlook_com_Alchemy).
+V pomoč zmanjšati spam, Outlook.com has a vsakdanji email spodbuda višek. Če želite izvedeti, kako lahko povečate dnevno omejitev pošiljanja, glejte [omejitve pošiljanja v Outlook.com](https://support.office.com/article/279ee200-594c-40f0-9ec8-bb6af7735c2e?wt.mc_id=Office_Outlook_com_Alchemy).
 
-**Skladiščne**
+**Omejitve shranjevanja**
 
-Če vaš nabiralnik je poln, ne boste mogli pošiljati ali prejemati sporočil, in ljudi, ki elektronsko dobili sporočilo o napaki, da vaš nabiralnik je poln. Lahko vidite, koliko prostora imate na voljo, ki jih bo <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+Če je nabiralnik poln, ne boste mogli pošiljati ali prejemati sporočil, Uporabniki, ki vam pošiljajo e-pošto, pa prejmejo sporočilo o napaki, da je vaš nabiralnik poln. Ogledate si lahko, koliko prostora za shranjevanje imate na voljo <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
  [**Nastavitve**
- > **Poglej si vse Outlookove nastavitve** > **splošno**> **shranjevanje**] (https://outlook.live.com/mail/options/general/storage), ali boste lahko [naučili, kako narediti prostor v vaš poštni nabiralnik](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e?wt.mc_id=Office_Outlook_com_Alchemy).
+ > **Oglejte si vse nastavitve** > **splošno**> **shranjevanje**]https://outlook.live.com/mail/options/general/storage)(, ali se lahko [naučite, kako narediti prostor v nabiralniku](https://support.office.com/article/7ac99134-69e5-4619-ac0b-2d313bba5e9e?wt.mc_id=Office_Outlook_com_Alchemy).
 
-Če vi življati nagrada račun, lahko vidite vaš prostor za shranjevanje bo [ **Nastavitve** > **Poglej si vse Outlookove nastavitve** > **premije**> funkcije](https://outlook.live.com/mail/options/premium/features).
+**Izprazni izbrisane elemente** E-pošta v izbrisanih elementih šteje do velikosti nabiralnika. [Mapo z izbrisanimi elementi](https://go.microsoft.com/fwlink/?linkid=2029241) lahko izpraznite tako, da izberete mapo in izberete **prazno mapo**.
+
+**Kako trajno izbrisati e-pošto** Če želite trajno izbrisati e-pošto, izberite ali označite sporočilo in pritisnite **SHIFT** in **del** na tipkovnici.
+
+Če vi življati a nagrada račun, vi moči krajšava za vaš uskladiščenje z tekoč v [ **postavljanje** > **krajšava za vsi razgled postavljanje** > **nagrada**> zunanja oblika](https://outlook.live.com/mail/options/premium/features).
