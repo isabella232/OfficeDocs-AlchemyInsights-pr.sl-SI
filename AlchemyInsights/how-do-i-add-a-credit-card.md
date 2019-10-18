@@ -20,14 +20,14 @@ ms.contentlocale: sl-SI
 ms.lasthandoff: 08/29/2019
 ms.locfileid: "36664480"
 ---
-# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="c331c-102">Kako dodam kreditno kartico?</span><span class="sxs-lookup"><span data-stu-id="c331c-102">How do I add a credit card?</span></span>
+# <a name="how-do-i-add-a-credit-card"></a><span data-ttu-id="c7486-102">Kako dodam kreditno kartico?</span><span class="sxs-lookup"><span data-stu-id="c7486-102">How do I add a credit card?</span></span>
 
-1. <span data-ttu-id="c331c-103">V skrbniškem središču Microsoft 365 odprite stran **Obračunavanje** \> [Načini plačila](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="c331c-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+1. <span data-ttu-id="c7486-103">V skrbniškem središču Microsoft 365 odprite stran **Obračunavanje** \> [Načini plačila](https://go.microsoft.com/fwlink/p/?linkid=2018806).</span><span class="sxs-lookup"><span data-stu-id="c7486-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
 
-2. <span data-ttu-id="c331c-104">Izberite **Dodaj način plačila**.</span><span class="sxs-lookup"><span data-stu-id="c331c-104">Select **Add a payment method**.</span></span>
+2. <span data-ttu-id="c7486-104">Izberite **Dodaj način plačila**.</span><span class="sxs-lookup"><span data-stu-id="c7486-104">Select **Add a payment method**.</span></span>
 
-3. <span data-ttu-id="c331c-105">Iz spustnega menija na strani **Načini plačila** izberite način plačila.</span><span class="sxs-lookup"><span data-stu-id="c331c-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
+3. <span data-ttu-id="c7486-105">Iz spustnega menija na strani **Načini plačila** izberite način plačila.</span><span class="sxs-lookup"><span data-stu-id="c7486-105">On the **Payment methods** page, pick a payment method from the drop-down menu.</span></span>
 
-4. <span data-ttu-id="c331c-106">Vnesite podatke o novi kreditni kartici ali bančnem računu in nato izberite **Shrani**.</span><span class="sxs-lookup"><span data-stu-id="c331c-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
+4. <span data-ttu-id="c7486-106">Vnesite podatke o novi kreditni kartici ali bančnem računu in nato izberite **Shrani**.</span><span class="sxs-lookup"><span data-stu-id="c7486-106">Enter the information for the new credit card or bank account, then choose Submit.</span></span>
 
-<span data-ttu-id="c331c-107">Če želite več informacij, preberite članek [Dodajanje, posodabljanje ali odstranjevanje kreditne kartice ali bančnega računa v storitvi Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="c331c-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and Troubleshooting credit cards and bank accounts.</span></span>
+<span data-ttu-id="c7486-107">Če želite več informacij, preberite članek [Dodajanje, posodabljanje ali odstranjevanje kreditne kartice ali bančnega računa v storitvi Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="c7486-107">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) and Troubleshooting credit cards and bank accounts.</span></span>

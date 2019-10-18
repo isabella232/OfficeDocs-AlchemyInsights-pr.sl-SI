@@ -19,13 +19,13 @@ ms.contentlocale: sl-SI
 ms.lasthandoff: 09/04/2019
 ms.locfileid: "36737853"
 ---
-# <a name="add-a-user-to-office-365"></a><span data-ttu-id="95362-102">Dodajanje uporabnika v storitev Office 365</span><span class="sxs-lookup"><span data-stu-id="95362-102">Add a user to Office 365</span></span>
+# <a name="add-a-user-to-office-365"></a><span data-ttu-id="91791-102">Dodajanje uporabnika v storitev Office 365</span><span class="sxs-lookup"><span data-stu-id="91791-102">Add a user to Office 365</span></span>
 
-1. <span data-ttu-id="95362-103">V skrbniškem središču za Microsoft 365 izberite **Uporabniki** >  [Dejavni uporabniki](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span><span class="sxs-lookup"><span data-stu-id="95362-103">In the Microsoft 365 admin center, go to **Users** >  [Active users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span></span>
+1. <span data-ttu-id="91791-103">V skrbniškem središču za Microsoft 365 izberite **Uporabniki** >  [Dejavni uporabniki](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span><span class="sxs-lookup"><span data-stu-id="91791-103">In the Microsoft 365 admin center, go to **Users** >  [Active users](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).</span></span>
 
-2. <span data-ttu-id="95362-104">Kliknite **Dodaj uporabnika**.</span><span class="sxs-lookup"><span data-stu-id="95362-104">Click **Add a user**.</span></span>
+2. <span data-ttu-id="91791-104">Kliknite **Dodaj uporabnika**.</span><span class="sxs-lookup"><span data-stu-id="91791-104">Click **Add a user**.</span></span>
 
-3. <span data-ttu-id="95362-105">Izpolnite informacije za uporabnika.</span><span class="sxs-lookup"><span data-stu-id="95362-105">Fill in the information for the user.</span></span> <span data-ttu-id="95362-106">Ko končate, izberite **Dokončaj dodajanje**.</span><span class="sxs-lookup"><span data-stu-id="95362-106">Choose **Add** when you are done.</span></span>
+3. <span data-ttu-id="91791-105">Izpolnite informacije za uporabnika.</span><span class="sxs-lookup"><span data-stu-id="91791-105">Fill in the information for the user.</span></span> <span data-ttu-id="91791-106">Ko končate, izberite **Dokončaj dodajanje**.</span><span class="sxs-lookup"><span data-stu-id="91791-106">Choose **Add** when you are done.</span></span>
 
-<span data-ttu-id="95362-107">Še vedno uporabljate staro skrbniško središče?</span><span class="sxs-lookup"><span data-stu-id="95362-107">Are you using the old admin center?</span></span> <span data-ttu-id="95362-108">Če želite stara navodila ali več informacij, preberite [Dodajanje posameznih uporabnikov ali več uporabnikov skupaj v Office 365](https://docs.microsoft.com/office365/admin/add-users/add-users).</span><span class="sxs-lookup"><span data-stu-id="95362-108">For old steps, or to learn more, see [ Add users individually or in bulk to Office 365](https://docs.microsoft.com/office365/admin/add-users/add-users).</span></span>
+<span data-ttu-id="91791-107">Še vedno uporabljate staro skrbniško središče?</span><span class="sxs-lookup"><span data-stu-id="91791-107">Are you using the old admin center?</span></span> <span data-ttu-id="91791-108">Če želite stara navodila ali več informacij, preberite [Dodajanje posameznih uporabnikov ali več uporabnikov skupaj v Office 365](https://docs.microsoft.com/office365/admin/add-users/add-users).</span><span class="sxs-lookup"><span data-stu-id="91791-108">For old steps, or to learn more, see [ Add users individually or in bulk to Office 365](https://docs.microsoft.com/office365/admin/add-users/add-users).</span></span>
   
