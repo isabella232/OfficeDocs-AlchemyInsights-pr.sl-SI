@@ -1,5 +1,5 @@
 ---
-title: Outlook.com osebno e-poštni naslov ni pošilja ali prejema
+title: Outlook.com osebni e-poštni naslov ne pošilja ali sprejema
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
 ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545887"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Moje osebno Outlook.com e-poštni naslov ni pošilja ali prejema
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a>Moj osebni Outlook.com e-poštni naslov ne pošilja ali sprejema
 
-Izberite ikono diamant na orodno vrstico odprete nadzorno ploščo nagrada.
+Izberite ikono diamanta v orodni vrstici, da odprete premijsko nadzorno ploščo.
 
-Če ne vidite ikono diamant v vaš poštni predal (in videli oglase), to pomeni, da vaš Office 365 naročnina je potekla. Pojdi na [https://account.microsoft.com/services](https://account.microsoft.com/services) ponovno aktivirati naročnino, nato znova priključite domeno s korakom v "Začetek".
+Če v mapi» Prejeto «ne vidite ikone diamanta (in vidite oglase), to pomeni, da je potekla naročnina na Office 365.  [https://account.microsoft.com/services](https://account.microsoft.com/services) Če želite znova aktivirati naročnino, znova povežite domeno z uporabo korakov v» Začni «.
 
-Če zavihek "Personalized e-poštni naslov" rdeče stalež zasova, morda je potekla veljavnost vaše domene.
+Če ima zavihek» prilagojeni e-poštni naslov «rdečo statusno vrstico, je vaša domena morda potekla.
 
-Preberite več za odpravljanje na [osebno e-poštni naslovi v Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).
+Preberite več o korakih za odpravljanje težav na [prilagojenih e-poštnih naslovih v Officeu 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).

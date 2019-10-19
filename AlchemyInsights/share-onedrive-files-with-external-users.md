@@ -1,5 +1,5 @@
 ---
-title: Delež OneDrive datotek z zunanjim uporabnikom
+title: Skupna raba datotek v storitvi OneDrive z zunanjimi Uporabniki
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,32 +12,32 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
 ms.openlocfilehash: da2e654a40cfb3a802a77526706b5093e2a6ac2d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549235"
 ---
-# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Skupna raba datotek v OneDrive ljudje zunaj vaše organizacije
+# <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>Skupna raba datotek v storitvi OneDrive z osebami zunaj organizacije
 
-1. Uporaba lansirne app iti OneDrive v spletnem brskalniku. 
+1. Uporabite Zaganjalnik aplikacij za odhod v OneDrive v spletnem brskalniku. 
     
-2. Izberite datoteke ali mape, ki jih želite deliti, in nato izberite **Skupna raba**. 
+2. Izberite datoteko ali mapo, ki jo želite deliti, in nato izberite **Skupna raba**. 
     
-3. Če je vrsta povezave nastavljena na "ljudi v \<organizaciji\>," kliknite puščico dol in izberite eno od naslednjih: 
+3. Če je vrsta povezave nastavljena na» osebe v \<vaši organizaciji\>«, kliknite puščico dol in izberite nekaj od tega: 
     
-  - **Kdo** daje dostop do vsakogar, ki prejme to povezavo, ali so prejeli neposredno od vas ali posredovano od nekdo drug. To lahko vključuje ljudi izven organizacije. 
+  - **Vsakdo** izročiti postranski v kdorkoli kdo sprejemati to člen, ali oni sprejemati to naravnost s vi ali posredovati s nekateri drugi. To lahko vključuje osebe zunaj vaše organizacije. 
     
-  - **Določenim osebam** omogoča dostop samo za določite, čeprav drugi ljudje imajo lahko že dostop. Če ljudje najprej delitev vabilo, samo ljudje, ki že imajo dostop do elementa bo lahko uporabite povezavo. 
+  - **Določeni ljudje** imajo dostop samo do oseb, ki jih navedete, čeprav imajo lahko drugi ljudje že dostop. Če ljudje posredujejo povabilo za skupno rabo, lahko uporabite povezavo samo osebe, ki že imajo dostop do elementa. 
     
     > [!NOTE]
-    > Če eno od teh možnosti ni na voljo, ali če želite vrsto različnih povezavo pojavi privzeto, lahko spremenite nastavitev za celotno organizacijo bo OneDrive admin center in v levem podoknu kliknite **Skupna raba** . [več](https://go.microsoft.com/fwlink/?linkid=871961)
+    > Če ena od teh možnosti ni na voljo ali če želite privzeto prikazati drugačno vrsto povezave, lahko spremenite nastavitve za celotno organizacijo tako, da greste v skrbniško središče OneDrive in kliknete **Skupna raba** v levem podoknu. [več](https://go.microsoft.com/fwlink/?linkid=871961)
   
-4. Privzeto **Dovoli urejanje** vklopljena. Če želite, da samo ogled datotek, počistite potrditveno polje. 
+4. **Omogočanje urejanja** je privzeto vklopljeno. Če želite, da si uporabniki ogledajo le vaše datoteke, počistite potrditveno polje. 
     
-5. Vnesite imena ljudi, ki jih želite deliti z in sporočilo, če želite.
+5. Vnesite imena oseb, ki jih želite deliti z drugimi, in sporočilo, če želite.
     
-6. Ko ste pripravljeni, da pošljete povezavo, kliknite **Pošlji**. 
+6. Ko ste pripravljeni na pošiljanje povezave, kliknite **Pošlji**. 
     
 [več](https://go.microsoft.com/fwlink/?linkid=871861)
   

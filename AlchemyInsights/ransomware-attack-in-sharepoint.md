@@ -1,5 +1,5 @@
 ---
-title: Ransomware napad v SharePoint ali OneDrive
+title: Izsiljevalska napad v SharePointu ali storitvi OneDrive
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4f8e77cbbf7385fefbd30ca0e5e59134fd2a2f4e
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553412"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745557"
 ---
-# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Ransomware napad v SharePoint ali OneDrive
+# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Izsiljevalska napad v SharePointu ali storitvi OneDrive
 
-1.  Če iščete pomoč o tem, kaj storiti, ko je zlonamerno datoteko najdete na OneDrive ali SharePoint ali ekip, videli, [kaj storiti, ko najde zlonamerne datoteke](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
-2. Če iščete kako varuje vaše podatke pred ransomware, glej:
-    - [Varovanje podatkov v SharePoint in OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
-    - [Ransomware grožnja varstvo](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
+1.  Če iščete pomoč pri tem, kaj storiti, ko je zlonamerna datoteka najdena v storitvi OneDrive ali SharePoint ali Teams, si oglejte, [kaj storiti, ko je najdena zlonamerna datoteka](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
+2. Če iščete, kako zaščititi svoje podatke iz izsiljevalske programske opreme, glejte:
+    - [Varovanje podatkov v SharePointu in storitvi OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
+    - [Ransomware zaščita pred grožnjami](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  So vse datoteke na vaš OneDrive ali SharePoint, ki Ransomware ali Malware ali kripto virus? 
+3.  Ali so vse datoteke v storitvi OneDrive ali SharePointu prizadete zaradi ransomware ali malware ali crypto virus? 
 
-Takoj ustavi/pavza omedlevičen OneDrive (če sploh) ali prekiniti pogled v Explorerju preslikana v knjižnici od vplivati računalo (če obstaja), in potem lahko obnovite vaše celotno knjižnico OneDrive ali SharePoint zadnjič s funkcijo obnovitev datotek. 
+Takoj ustavite/zaustavite OneDrive Sync (če obstaja) ali izključite raziskovalec pogled preslikani v knjižnico iz prizadetega računalnika (če obstaja), nato pa lahko obnovite celotno OneDrive ali SharePoint knjižnico do prejšnjega časa z uporabo datotek obnovitev funkcijo. 
 
-Če želite več informacij o tem, kako obnoviti, glejte:
+Če želite več informacij o obnovitvi, glejte:
 
-- [Obnovitev knjižnice OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [Obnovitev knjižnice dokumentov](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
+- [Obnovitev knjižnice v storitvi OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [Obnavljanje knjižnice dokumentov](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-Če želite več informacij o Advanced grožnja varstvo (ATP), glejte:
+Če želite več informacij o napredni zaščiti pred grožnjami (ATP), glejte:
 - [ATP za SharePoint, OneDrive in ekipe](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [Grožnja Explorer ogledov](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [Pogledi raziskovalca o grožnjah](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
 Dodatne informacije:
 
-- [Kačji strup odkritje v SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [Odkrivanje virusov v SPO](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
 - [Šifriranje podatkov v ODB in SPO](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [Ransomware odkrivanje in obnovitev datotek](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [Odkritje grožnja Explorer in posrednik](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [Izsiljevalska programska oprema za odkrivanje in obnavljanje datotek](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
+- [Grožnja raziskovalec in Realtime detekcije](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

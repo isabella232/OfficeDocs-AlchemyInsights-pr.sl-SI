@@ -1,5 +1,5 @@
 ---
-title: ProxyAddress nepravilne
+title: Netočen ProxyAddress
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
 ms.openlocfilehash: 1f908b6fca813ff6cbc4d05d08ee2eb9c49f3515
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554240"
 ---
-# <a name="proxyaddress-incorrect"></a>ProxyAddress nepravilne
+# <a name="proxyaddress-incorrect"></a>Netočen ProxyAddress
 
-Ko predmet je sinhroniziranih s sinje AD, vrednosti, ki so navedene v atributu proxyAddresses v storitvi Active Directory so v primerjavi z modro AD pravila, in nato atributu proxyAddresses poseljena v sinje AD. Zato vrednosti atributa proxyAddresses za predmet v storitvi Active Directory ne sme biti enaka vrednosti atributa proxyAddresses v sinje AD.
+Ko je predmet sinhroniziran s storitvijo Azure AD, se vrednosti, ki so določene v atributu proxyAddresses v imeniku Active Directory, primerjajo s pravili Azure AD, nato pa je atribut proxyAddresses naseljen v storitvi Azure AD. Zato vrednosti atributa proxyAddresses za predmet v imeniku Active Directory morda niso enake kot vrednosti atributa proxyAddresses v storitvi Azure AD.
   
-Če želite izvedeti več o tem, kako je proxyaddress je poseljena, glej [Kako atribut proxyAddress je poseljena v sinje AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
+Če želite izvedeti več o tem, kako je bil proxyAddress naseljen, glejte [Kako je atribut proxyAddress naseljen v storitvi AZURE ad](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
   
 

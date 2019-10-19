@@ -14,10 +14,10 @@ ms.custom:
 - "9000118"
 - "1655"
 ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36744657"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePointova obvestila o opozorilih niso bila dostavljena
@@ -27,7 +27,7 @@ Prosimo, preverite JUNK mapo v e-poštnem sporočilu, kot včasih opozorila mord
 Ugotovite **, ali vsa opozorila niso dostavljena** ali če **posamezno opozorilo** iz določene datoteke ali knjižnice ni podano.
 
 - **Posamezna opozorila niso dostavljena**: Če posamezno opozorilo iz določene datoteke ali knjižnice ni podano, ga lahko poskusite izbrisati in znova ustvariti. Če želite znova ustvariti opozorilo, glejte [upravljanje, ogled ali brisanje SharePointovih opozoril](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) .
-- **Vsa opozorila niso dostavljena**: če vsa opozorila iz več datotek ali knjižnic niso dostavljena, obiščite [nadzorno ploščo storitve Health](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , da preverite morebitne advisorije/incidente, ki se lahko zgodijo s storitvijo SharePoint ali Exchange. Težava je lahko s storitvijo za opozarjanje v SharePointu ali zakasnitvami v e-poštnih sporočilih prek Exchangeevega. Prav tako bo pomembno opozoriti, ali je bila izdana druga e-pošta, in če ne, vprašanje je verjetno z zamudami Exchange.
+- **Vsa opozorila niso dostavljena**: če vsa opozorila iz več datotek ali knjižnic niso dostavljena, obiščite [nadzorno ploščo storitve Health](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , da preverite morebitne advisorije/incidente, ki se lahko zgodijo s SharePointom ali Exchangeem. Težava je lahko s storitvijo za opozarjanje v SharePointu ali zakasnitvami v e-poštnih sporočilih prek Exchangeevega. Prav tako bo pomembno opozoriti, ali je bila izdana druga e-pošta, in če ne, vprašanje je verjetno z zamudami Exchange.
 
 Pogosta vprašanja o opozorilih:
 

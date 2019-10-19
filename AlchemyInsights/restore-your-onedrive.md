@@ -1,5 +1,5 @@
 ---
-title: Obnoviti vaš OneDrive
+title: Obnovitev storitve OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
 ms.openlocfilehash: 2750a91a243543df073b016e41d3332a968123a1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36551683"
 ---
-# <a name="restore-your-onedrive"></a>Obnoviti vaš OneDrive
+# <a name="restore-your-onedrive"></a>Obnovitev storitve OneDrive
 
-Če veliko od vaš OneDrive pila zaslužiti izbrisati, overwritted, poškodovane ali okužene z malware, lahko obnovite vaše celotno OneDrive zadnjič v zadnjih 30 dneh.
+Če se veliko datotek v storitvi OneDrive izbriše, overwritted, poškoduje ali okuži z zlonamerno programsko opremo, lahko celotno OneDrive obnovite v prejšnjem času v zadnjih 30 dneh.
   
-1. Iti k vaš OneDrive v spletnem brskalniku.
+1. Odprite storitev OneDrive v spletnem brskalniku.
     
-2. Kliknite ikono v zgornjem desnem, in nato izberite **Obnovi vaš OneDrive**.
+2. V zgornjem desnem kotu kliknite ikono nastavitve, nato pa izberite **Obnovi OneDrive**.
     
-3. S seznama izberite datum, ali izberite **po meri datum in čas**.
+3. Izberite datum s seznama ali izberite **datum in čas po meri**.
     
-4. Kliknite **obnovitev** razveljavite vse dejavnosti po datumu, ki ste jo izbrali. 
+4. Kliknite **Obnovi** , če želite razveljaviti vse dejavnosti po izbranem datumu. 
     
-[Več pomoč s programom za obnovitev datotek](https://go.microsoft.com/fwlink/?linkid=872874)
+[Več pomoči pri uporabi obnovitve datotek](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

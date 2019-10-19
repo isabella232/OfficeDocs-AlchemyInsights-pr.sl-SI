@@ -15,16 +15,16 @@ ms.custom:
 - "9000203"
 - "9000215"
 ms.openlocfilehash: 4835b3996651ccdbd390a1ece2555ffe7f0fe430
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36546700"
 ---
 # <a name="filtering-in-outlookcom"></a>Filtriranje v Outlook.com
 
-Filtrirate lahko vaš e-poštnih sporočil v več načinov v Outlook.com:
+E-poštna sporočila lahko filtrirate na več načinov v Outlook.com:
 
-1. [Spremeniti razvrstitev vaš email](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
-2. [Blokirati e-poštni naslov ali e-poštni domeni](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
-3. [Advanced Query Search uporabite, če želite izboljšati rezultate](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)
+1. [Spreminjanje načina razvršča e-poštnega sporočila](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
+2. [Blokiranje e-poštnega naslova ali domene e-pošte](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+3. [Izboljšajte rezultate z naprednim iskanjem poizvedb](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)

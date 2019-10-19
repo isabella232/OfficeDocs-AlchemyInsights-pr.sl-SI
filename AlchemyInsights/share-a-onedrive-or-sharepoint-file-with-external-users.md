@@ -1,5 +1,5 @@
 ---
-title: Deliti datoteko OneDrive ali SharePoint z zunanjim uporabnikom
+title: Skupna raba datoteke OneDrive ali SharePointa z zunanjimi Uporabniki
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8f5c866b-ec51-45ea-b2da-4ce4ff551041
 ms.openlocfilehash: 3db4ed57a1daf32cf8bcc95c716baf4a06380874
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549631"
 ---
-# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>Delež OneDrive ali SharePoint datoteko ali mapo z zunanjim uporabnikom
+# <a name="share-a-onedrive-or-sharepoint-file-or-folder-with-external-users"></a>Skupna raba datoteke ali mape storitve OneDrive ali SharePointa z zunanjimi Uporabniki
 
-1. V brskalniku, odprite datoteke ali mape, ki jih želite deliti, jo izberite, in kliknite **Skupna raba**.
+1. V brskalniku pojdite v datoteko ali mapo, ki jo želite deliti, jo izberite in kliknite **Skupna raba**.
     
-2. V pogovornem oknu Pošlji povezavo kliknite puščico dol spremeniti vrsto povezave.
+2. V pogovornem oknu Pošlji povezavo kliknite puščico dol, da spremenite vrsto povezave.
     
-3. Pod, **ki bi radi ta povezava delovala za**, izberite **vsakogar,** če želite, da prejemniki lahko deliti povezavo ali **določenih oseb** , da dostop samo do ljudi si določite. 
+3. V razdelku **kdo bi vam bil všeč ta povezava za delo**, izberite **kogar koli** , če želite, da prejemniki lahko delijo povezavo ali **določene osebe** , da dajo dostop samo osebam, ki jih navedete. 
     
-    Če te možnosti niso na voljo, boste morali poskrbite, da jim je dovoljeno v organizaciji in za zbirko mest. Uganjati to, glej [pa zunanje, delitev ali izklop za SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866426).
+    Če te možnosti niso na voljo, se morate prepričati, da so dovoljeni za vašo organizacijo in za zbirko mest. Če želite to narediti, glejte [Vklop ali izklop zunanje skupne rabe za SharePoint online](https://go.microsoft.com/fwlink/?linkid=866426).
     
 4. Kliknite **uporabi**.
     
-5. Vnesite imena ljudi, ki jih želite deliti s, in nato kliknite **Pošlji**.
+5. Vnesite imena oseb, s katerimi želite deliti skupno rabo, in kliknite **Pošlji**.
     
 

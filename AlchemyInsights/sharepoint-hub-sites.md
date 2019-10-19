@@ -1,5 +1,5 @@
 ---
-title: SharePoint zvezdišče strani pregled
+title: Pregled mest središča mesta SharePoint
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -7,27 +7,30 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4583259b-acb2-45a0-9469-2abe496011ab
-ms.openlocfilehash: ee8c20bff9bf22f8b3eeacf085bce4a7f2d1b0e7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.custom:
+- "1591"
+- "5300012"
+ms.openlocfilehash: 189eef97019776b52c8f4f12aaaa303f79704a7a
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503579"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818910"
 ---
-# <a name="sharepoint-hub-sites-overview"></a>SharePoint zvezdišče strani pregled
+# <a name="sharepoint-hub-sites-overview"></a>Pregled mest središča mesta SharePoint
 
-SharePoint središče mesta vam ustrezajo potrebam organizacije povezovanje in organiziranje mesta na osnovi projekta, oddelek, oddelek, regija, itd, zaradi česar je lažje:
+Mesta središča SharePoint vam pomagajo izpolniti potrebe vaše organizacije s povezovanjem in organiziranjem spletnih mest na podlagi projekta, oddelka, delitve, regije itd., kar olajša:
 
-- Odkrijte sorodne vsebine, kot so novice in druge dejavnosti mesta.
+- Odkrijte sorodne vsebine, kot so novice in druge dejavnosti na mestu.
 
-- Uporabljajo skupne navigacijo in blagovnih znamk prek povezanih mest. 
+- Uporabite skupno navigacijo in blagovne znamke v povezanih spletnih mestih. 
 
-- Iskanje po vseh povezanih strani.
+- Iščite po vseh povezanih spletnih mestih.
 
-Glejte spodaj za več informacij o vozlišče straneh:
-- [Ustvari zvezdišča v SharePoint Online](https://docs.microsoft.com/sharepoint/create-hub-site): Naučite se ustvariti zvezdiščno mesto iz nova Admin Center ali PowerShell.
+Za več informacij o mestih v zvezdišču si oglejte naslednje:
+- [Ustvarjanje mesta zvezdišča v SharePointu online](https://docs.microsoft.com/sharepoint/create-hub-site): Naučite se ustvariti mesto zvezdišča iz novega skrbniškega središča ali lupine PowerShell.
 
-- [Povezati s SharePointovim mestom s središče mesta](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): spoznajo povezovanje obstoječih mestih v središče mesta novi Admin Center ali PowerShell.
+- [Povezovanje SharePointovega mesta z mestom zvezdišča](https://support.office.com/article/associate-a-sharepoint-site-with-a-hub-site-ae0009fd-af04-4d3d-917d-88edb43efc05): več o povezovanju obstoječih mest na mesto zvezdišča iz novega skrbniškega središča ali lupine PowerShell.
 
-- [Odstranite zvezdiščno mesto](https://docs.microsoft.com/sharepoint/remove-hub-site): izvedeti, kako odstraniti obstoječe mesto zvezdišča v novi Admin Center ali PowerShell.
+- [Odstranjevanje mesta zvezdišča](https://docs.microsoft.com/sharepoint/remove-hub-site): Naučite se odstraniti obstoječe mesto zvezdišča v novem skrbniškem središču ali PowerShell.
 

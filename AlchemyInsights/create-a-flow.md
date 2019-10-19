@@ -1,5 +1,5 @@
 ---
-title: Ustvari tok
+title: Ustvarjanje toka
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4924fef5-d4ba-471b-84ec-1f9c4c0b59b3
 ms.openlocfilehash: c9a874c1b2a5d6c7d5e22aeb23b50d61b88c9da3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516219"
 ---
-# <a name="microsoft-flow"></a>Microsoft pretoka
+# <a name="microsoft-flow"></a>Microsoft Flow
 
-Microsoft Flow omogoča avtomatiziranje pogostih opravil. Raba to zaiti ki gre gor poteki dela za sezname in knjižnice. Želite izvedeti, kako dodati pretok na seznamu ali v knjižnici SharePoint Online ali OneDrive, glejte [Ustvarjanje tok](https://go.microsoft.com/fwlink/?linkid=869408).
+Microsoft Flow vam pomaga avtomatizirati pogosta opravila. Uporabite ga za nastavitev potekov dela za sezname in knjižnice. Če želite izvedeti, kako dodati tok na seznam ali v knjižnico v SharePointu online ali storitvi OneDrive, glejte [ustvarjanje toka](https://go.microsoft.com/fwlink/?linkid=869408).
   
-[Video posnetki o Microsoft pretoka](https://go.microsoft.com/fwlink/?linkid=864641)
+[Videoposnetki o Microsoftovem toku](https://go.microsoft.com/fwlink/?linkid=864641)
   
-[Spletno mesto Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864642)
+[Spletno mesto za Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=864642)
   
 

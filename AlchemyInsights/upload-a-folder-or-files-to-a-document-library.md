@@ -1,5 +1,5 @@
 ---
-title: Upload mapo ali datoteke v knjižnico dokumentov
+title: Nalaganje mape ali datotek v knjižnico dokumentov
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: df1ffdf0-8e08-4a56-880e-8ef162ec8431
 ms.openlocfilehash: 8f97f905f2db71cff299ee27d78138f254ed32f6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36532635"
 ---
-# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Upload mapo ali datoteke v SharePointovi knjižnici dokumentov
+# <a name="upload-a-folder-or-files-to-a-sharepoint-document-library"></a>Nalaganje mape ali datotek v SharePointovo knjižnico dokumentov
 
-Upload mapo, morate uporabiti Microsoft Edge, Google Chrome in Mozilla FireFox. Ne morete prenesti mape v klasični knjižnica izkušnje, ali z uporabo Internet Explorer 10 ali 11.
+Če želite naložiti mapo, morate uporabiti Microsoft Edge, Google Chrome ali Mozilla FireFox. Map v klasični knjižnici ne morete naložiti ali uporabljati Internet Explorer 10 ali 11.
   
-1. Odprite knjižnico dokumentov, kamor želite naložiti mape ali datoteke.
+1. Odprite knjižnico dokumentov, kamor želite naložiti mapo ali datoteke.
     
-2. Plan pila raziskovalec v računalniku in prebrskajte do mape ali datoteke, ki jo želite prenesti.
+2. Odprite raziskovalca v računalniku in prebrskajte do mape ali datotek, ki jih želite naložiti.
     
-3. Povlecite mapo ali datoteke v knjižnico dokumentov. Če ne vidite postavke, ki ste jo naložili pojavijo v knjižnici, osvežite stran. 
+3. Mapo ali datoteke povlecite v knjižnico dokumentov. Če v knjižnici ne vidite elementov, ki ste jih naložili, osvežite stran. 
     
-Če ne želite prenesti tako, da povlečete elemente med windows, lahko uporabite tudi gumb **Upload** v knjižnici dokumentov izberite mapo ali datoteke, ki jo želite prenesti. 
+Če ne želite naložiti, da povlečete elemente med okni, lahko uporabite tudi gumb za **nalaganje** v knjižnici dokumentov, da izberete mapo ali datoteke, ki jih želite naložiti. 
   
 
