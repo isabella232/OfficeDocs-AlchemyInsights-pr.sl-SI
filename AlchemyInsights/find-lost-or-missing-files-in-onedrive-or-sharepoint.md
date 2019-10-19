@@ -1,5 +1,5 @@
 ---
-title: Našli izgubljen ali odsoten pila v OneDrive ali SharePoint
+title: Iskanje izgubljenih ali manjkajočih datotek v storitvi OneDrive ali SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
 ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525435"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a><span data-ttu-id="e1d21-102">Našli izgubljen ali odsoten pila v OneDrive ali SharePoint</span><span class="sxs-lookup"><span data-stu-id="e1d21-102">Find lost or missing files in OneDrive or SharePoint</span></span>
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a><span data-ttu-id="6e4f7-102">Iskanje izgubljenih ali manjkajočih datotek v storitvi OneDrive ali SharePoint</span><span class="sxs-lookup"><span data-stu-id="6e4f7-102">Find lost or missing files in OneDrive or SharePoint</span></span>
 
-- <span data-ttu-id="e1d21-103">Brskanje za vaše OneDrive ali mesta SharePoint, na spletu in kliknete koš v levem podoknu preverite recycle zaboj.</span><span class="sxs-lookup"><span data-stu-id="e1d21-103">Check the recycle bin by browsing to your OneDrive or the SharePoint site on the web and clicking Recycle bin in the left pane.</span></span> <span data-ttu-id="e1d21-104">(Če ne vidite Recycle bin v levem podoknu kliknite ikono nastavitve in izberite **vsebino spletne strani**.</span><span class="sxs-lookup"><span data-stu-id="e1d21-104">(If you don't see Recycle bin in the left pane, click the Settings icon, and then select **Site contents**.</span></span> <span data-ttu-id="e1d21-105">**Koš** je na skrajni desni strani ukazno vrstico na vrhu.)</span><span class="sxs-lookup"><span data-stu-id="e1d21-105">**Recycle Bin** is on the far right of the command bar at the top.)</span></span> 
+- <span data-ttu-id="6e4f7-103">Preverite koš tako, da brskate v storitvi OneDrive ali SharePointovem mestu v spletu in kliknete koš v levem podoknu.</span><span class="sxs-lookup"><span data-stu-id="6e4f7-103">Check the recycle bin by browsing to your OneDrive or the SharePoint site on the web and clicking Recycle bin in the left pane.</span></span> <span data-ttu-id="6e4f7-104">(Če v levem podoknu ne vidite koša, kliknite ikono nastavitve, nato pa izberite **vsebino mesta**.</span><span class="sxs-lookup"><span data-stu-id="6e4f7-104">(If you don't see Recycle bin in the left pane, click the Settings icon, and then select **Site contents**.</span></span> <span data-ttu-id="6e4f7-105">**Koš** je na skrajni desni strani ukazne vrstice na vrhu.)</span><span class="sxs-lookup"><span data-stu-id="6e4f7-105">**Recycle Bin** is on the far right of the command bar at the top.)</span></span> 
     
-- <span data-ttu-id="e1d21-106">Če ste sinhronizacijo datotek v računalniku, preverite koš v računalniku.</span><span class="sxs-lookup"><span data-stu-id="e1d21-106">If you're syncing the files on your computer, check the Recycle bin on your computer.</span></span> 
+- <span data-ttu-id="6e4f7-106">Če sinhroniziranje datotek v računalniku, preverite koš v računalniku.</span><span class="sxs-lookup"><span data-stu-id="6e4f7-106">If you're syncing the files on your computer, check the Recycle bin on your computer.</span></span> 
     
-- <span data-ttu-id="e1d21-107">Če ne vidite element iščete, in to je bil nedavno izbrisan, skrbnike bi mogli obnoviti iz koš zbirke mest.</span><span class="sxs-lookup"><span data-stu-id="e1d21-107">If you don't see the item you're looking for, and it was deleted recently, a site collection administrator might be able to restore it from the site collection recycle bin.</span></span> <span data-ttu-id="e1d21-108">Če ste skrbnik zbirke mest, glejte [obnavljanje izbrisanih elementov iz koš zbirke mest](https://go.microsoft.com/fwlink/?linkid=866439).</span><span class="sxs-lookup"><span data-stu-id="e1d21-108">If you're the site collection administrator, see [Restore deleted items from the site collection recycle bin](https://go.microsoft.com/fwlink/?linkid=866439).</span></span>
+- <span data-ttu-id="6e4f7-107">Če elementa, ki ga iščete, ne vidite in je bil pred kratkim izbrisan, ga lahko skrbnik zbirke mest obnovi iz koša zbirke mest.</span><span class="sxs-lookup"><span data-stu-id="6e4f7-107">If you don't see the item you're looking for, and it was deleted recently, a site collection administrator might be able to restore it from the site collection recycle bin.</span></span> <span data-ttu-id="6e4f7-108">Če ste skrbnik zbirke mest, glejte [obnovitev izbrisanih elementov iz koša zbirke mest](https://go.microsoft.com/fwlink/?linkid=866439).</span><span class="sxs-lookup"><span data-stu-id="6e4f7-108">If you're the site collection administrator, see [Restore deleted items from the site collection recycle bin](https://go.microsoft.com/fwlink/?linkid=866439).</span></span>
     
-[<span data-ttu-id="e1d21-109">Pomoč obnovitev izbrisane datoteke in mape v OneDrive</span><span class="sxs-lookup"><span data-stu-id="e1d21-109">More help restoring deleted files and folders in OneDrive</span></span>](https://go.microsoft.com/fwlink/?linkid=872872)
+[<span data-ttu-id="6e4f7-109">Več pomoči pri obnavljanju izbrisanih datotek in map v storitvi OneDrive</span><span class="sxs-lookup"><span data-stu-id="6e4f7-109">More help restoring deleted files and folders in OneDrive</span></span>](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

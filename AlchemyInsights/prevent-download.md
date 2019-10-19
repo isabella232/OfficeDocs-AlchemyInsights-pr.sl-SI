@@ -1,5 +1,5 @@
 ---
-title: Datoteke preprečite, da bi se prenaša od SharePoint ali OneDrive
+title: Preprečite prenos datotek iz SharePointa ali storitve OneDrive
 ms.author: efrene
 author: efrene
 manager: matteva
@@ -12,18 +12,18 @@ ms.custom:
 - "2523"
 - "9000213"
 ms.openlocfilehash: 85db8d7525effc0ea84179b575d9f7aa56bb0e54
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554729"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a><span data-ttu-id="d1643-102">Datoteke preprečite, da bi se prenaša od SharePoint ali OneDrive</span><span class="sxs-lookup"><span data-stu-id="d1643-102">Prevent files from being downloaded from SharePoint or OneDrive</span></span>
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a><span data-ttu-id="9f32a-102">Preprečite prenos datotek iz SharePointa ali storitve OneDrive</span><span class="sxs-lookup"><span data-stu-id="9f32a-102">Prevent files from being downloaded from SharePoint or OneDrive</span></span>
 
-<span data-ttu-id="d1643-103">Obstajajo različne metode, ki se lahko uporablja za preprečevanje ali blok prenosi pojavljanje.</span><span class="sxs-lookup"><span data-stu-id="d1643-103">There are various methods that may be used to prevent or block downloads from occurring.</span></span> <span data-ttu-id="d1643-104">Prosimo, obiščite spodnje povezave za ustrezne metode:</span><span class="sxs-lookup"><span data-stu-id="d1643-104">Please visit the links below for the respective methods:</span></span>
+<span data-ttu-id="9f32a-103">Obstajajo različne metode, ki se lahko uporabijo za preprečevanje ali blokiranje prenosov iz pojavljajo.</span><span class="sxs-lookup"><span data-stu-id="9f32a-103">There are various methods that may be used to prevent or block downloads from occurring.</span></span> <span data-ttu-id="9f32a-104">Prosimo, obiščite spodnje povezave za ustrezne metode:</span><span class="sxs-lookup"><span data-stu-id="9f32a-104">Please visit the links below for the respective methods:</span></span>
 
-- [<span data-ttu-id="d1643-105">Prenos datoteke blok z Azure AD pogojni dostop</span><span class="sxs-lookup"><span data-stu-id="d1643-105">Block File download with Azure AD conditional access</span></span>](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [<span data-ttu-id="9f32a-105">Prenos bloka datoteke s pogojnim dostopom Azure AD</span><span class="sxs-lookup"><span data-stu-id="9f32a-105">Block File download with Azure AD conditional access</span></span>](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
-- [<span data-ttu-id="d1643-106">Nadzor dostopa iz neupravljane naprave</span><span class="sxs-lookup"><span data-stu-id="d1643-106">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [<span data-ttu-id="9f32a-106">Nadzor dostopa iz neupravljanih naprav</span><span class="sxs-lookup"><span data-stu-id="9f32a-106">Control access from unmanaged devices</span></span>](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [<span data-ttu-id="d1643-107">Konfigurirati pravilnike IRM SharePointove knjižnice dokumentov, da se omeji prenos vsebine</span><span class="sxs-lookup"><span data-stu-id="d1643-107">Configure IRM policies on SharePoint document libraries to limit download of content</span></span>](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)
+- [<span data-ttu-id="9f32a-107">Konfiguriranje pravilnikov IRM v knjižnicah dokumentov SharePoint za omejevanje prenosa vsebine</span><span class="sxs-lookup"><span data-stu-id="9f32a-107">Configure IRM policies on SharePoint document libraries to limit download of content</span></span>](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)

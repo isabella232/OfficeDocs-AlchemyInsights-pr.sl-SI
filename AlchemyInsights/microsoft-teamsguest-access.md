@@ -1,5 +1,5 @@
 ---
-title: Microsoft ekipe - Ocene dostop
+title: Microsoft Teams-dostop za goste
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -7,25 +7,24 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.collection: Adm_O365
 ms.custom:
-- "311"
+- "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 114b6402f7b2a6f33671cf90415ec142df096f67
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0f46024ed7460579da0095f437dfccc1ffa7cdda
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36667000"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37590402"
 ---
-# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="6e272-102">Microsoft ekipe - Ocene dostop</span><span class="sxs-lookup"><span data-stu-id="6e272-102">Microsoft Teams - Guest Access</span></span>
+# <a name="microsoft-teams---guest-access"></a><span data-ttu-id="097ed-102">Microsoft Teams-dostop za goste</span><span class="sxs-lookup"><span data-stu-id="097ed-102">Microsoft Teams - Guest Access</span></span>
 
-<span data-ttu-id="6e272-103">Potrebujete pomoč vklop in nastavitev Ocene dostop zunanja oblika v mikroskop Teams?</span><span class="sxs-lookup"><span data-stu-id="6e272-103">Do you need help turning on and setting up the Guest Access feature in Microsoft Teams?</span></span>
+<span data-ttu-id="097ed-103">Potrebujete pomoč pri vklopu in nastavitvi funkcije za dostop za goste v storitvi Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="097ed-103">Need help turning on and setting up the Guest Access feature in Microsoft Teams?</span></span>  
 
-<span data-ttu-id="6e272-104">Tukaj je, kaj morate storiti:</span><span class="sxs-lookup"><span data-stu-id="6e272-104">Here's what you need to do:</span></span>
+<span data-ttu-id="097ed-104">Najprej preverite, ali ste sledili vsem korakom v [kontrolnem seznamu za dostop do gostov](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist).</span><span class="sxs-lookup"><span data-stu-id="097ed-104">First, make sure you've followed all the steps in the [Guest Access Checklist](https://docs.microsoft.com/en-us/microsoftteams/guest-access-checklist).</span></span> <span data-ttu-id="097ed-105">Ko so vsi ti koraki končani, morate počakati do [24 ur](https://docs.microsoft.com/en-us/microsoftteams/manage-guests#guest-access-latencies) , da se nastavitve uveljavijo.</span><span class="sxs-lookup"><span data-stu-id="097ed-105">Once all those steps are completed, you need to [wait up to 24 hours](https://docs.microsoft.com/en-us/microsoftteams/manage-guests#guest-access-latencies) for the settings to take effect.</span></span>
 
-1. <span data-ttu-id="6e272-105">Dovoli komentarje dostop.</span><span class="sxs-lookup"><span data-stu-id="6e272-105">Authorize guest access.</span></span>
-1. <span data-ttu-id="6e272-106">Dodaj komentarje uporabnikov za svojo ekipo.</span><span class="sxs-lookup"><span data-stu-id="6e272-106">Add guest users to your team.</span></span>
-1. <span data-ttu-id="6e272-107">Nastavite dovoljenja ocene uporabnika.</span><span class="sxs-lookup"><span data-stu-id="6e272-107">Set up guest user permissions.</span></span>
+<span data-ttu-id="097ed-106">Če ste prepričani, da ste končali vse korake v kontrolnem seznamu in je minilo več kot 24 ur, nadaljujte in poskusite [dodati gosta v svojo ekipo](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).</span><span class="sxs-lookup"><span data-stu-id="097ed-106">If you’re confident you’ve completed all the steps in the Checklist, and it's been more than 24 hours, go ahead and try to [add a Guest to your Team](https://support.office.com/en-us/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).</span></span>
 
-<span data-ttu-id="6e272-108">Za več informacij, vključno z videoposnetki, glejte [Ocene dostopa v Microsoft ekipe](https://docs.microsoft.com/microsoftteams/guest-access).</span><span class="sxs-lookup"><span data-stu-id="6e272-108">For more information, including how-to videos, see [Guest access in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).</span></span>
+<span data-ttu-id="097ed-107">Če želite več informacij, vključno z videoposnetki, glejte [dostop za goste v storitvi Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).</span><span class="sxs-lookup"><span data-stu-id="097ed-107">For more information, including how-to videos, see [Guest access in Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).</span></span>

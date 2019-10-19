@@ -1,5 +1,5 @@
 ---
-title: Preverjanje črkovanja v Outlooku na spletu
+title: Preverjanje črkovanja v Outlooku v spletu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510567"
 ---
-# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="e140c-102">Uporabite vaš brskalnik za preverjanje črkovanja</span><span class="sxs-lookup"><span data-stu-id="e140c-102">Use your browser to check spelling</span></span>
+# <a name="use-your-browser-to-check-spelling"></a><span data-ttu-id="0a89d-102">Uporaba brskalnika za preverjanje črkovanja</span><span class="sxs-lookup"><span data-stu-id="0a89d-102">Use your browser to check spelling</span></span>
 
-<span data-ttu-id="e140c-103">Ni možnosti črkovanja potrdite v Outlooku na spletu.</span><span class="sxs-lookup"><span data-stu-id="e140c-103">There is no spell check option in Outlook on the web.</span></span> <span data-ttu-id="e140c-104">Če želite preveriti črkovanje, boste morali s spletnim brskalnikom.</span><span class="sxs-lookup"><span data-stu-id="e140c-104">To check your spelling, you'll need to use your web browser.</span></span> <span data-ttu-id="e140c-105">Preverjanje črkovanja je na voljo v Microsoft Edge, Internet Explorer 10 in novejše različice, in sedanje različice, Firefox, Chrome, Safari.</span><span class="sxs-lookup"><span data-stu-id="e140c-105">Spell checking is available in Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="e140c-106">Preverite možnosti za spletni brskalnik, če želite izvedeti več o preverjanju črkovanja.</span><span class="sxs-lookup"><span data-stu-id="e140c-106">Check the options for your web browser to learn more about how to check spelling.</span></span>
+<span data-ttu-id="0a89d-103">V Outlooku v spletu ni možnosti preverjanja črkovanja.</span><span class="sxs-lookup"><span data-stu-id="0a89d-103">There is no spell check option in Outlook on the web.</span></span> <span data-ttu-id="0a89d-104">Če želite preveriti črkovanje, morate uporabiti spletni brskalnik.</span><span class="sxs-lookup"><span data-stu-id="0a89d-104">To check your spelling, you'll need to use your web browser.</span></span> <span data-ttu-id="0a89d-105">Preverjanje črkovanja je na voljo v Microsoft Edge, Internet Explorerju 10 in novejših različicah ter trenutne različice Firefoxa, Chroma in Safarija.</span><span class="sxs-lookup"><span data-stu-id="0a89d-105">Spell checking is available in Microsoft Edge, Internet Explorer 10 and later versions, and current versions of Firefox, Chrome, and Safari.</span></span> <span data-ttu-id="0a89d-106">Če želite izvedeti več o tem, kako preveriti črkovanje, preverite možnosti za spletni brskalnik.</span><span class="sxs-lookup"><span data-stu-id="0a89d-106">Check the options for your web browser to learn more about how to check spelling.</span></span>
