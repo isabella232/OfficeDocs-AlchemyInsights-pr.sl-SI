@@ -1,5 +1,5 @@
 ---
-title: Uvod v SharePoint Online
+title: Uvod v SharePoint online
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
 ms.openlocfilehash: 235bc552a393980423044421b6d43f7e712fbc99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36524139"
 ---
-# <a name="get-started-with-sharepoint-online"></a>Uvod v SharePoint Online
+# <a name="get-started-with-sharepoint-online"></a>Uvod v SharePoint online
 
-Vstati in teče z našimi [SharePoint Online video usposabljanje](https://go.microsoft.com/fwlink/?linkid=866438) in [Hitri vodnik](https://go.microsoft.com/fwlink/?linkid=866437). Če iščete bolj obsežen, po korakih, sledite korakom v na [SharePoint Online uvajanje svetovalec.](https://portal.office.com/onboarding/sharepointonline#/)
+Vstati in prikazovati z našim [programom za video trening za SharePoint online](https://go.microsoft.com/fwlink/?linkid=866438) in [vodnik za hitri začetek](https://go.microsoft.com/fwlink/?linkid=866437). Če iščete celovitejši vodič po korakih, upoštevajte navodila v [svetovalcu za uvajanje v SharePoint online.](https://portal.office.com/onboarding/sharepointonline#/)
   
 

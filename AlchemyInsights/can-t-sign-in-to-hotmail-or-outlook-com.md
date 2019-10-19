@@ -1,5 +1,5 @@
 ---
-title: 8000077 ne morete prijaviti Hotmail ali Outlook.com?
+title: 8000077 se ne morete vpisati v Hotmail ali Outlook.com?
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,15 +13,15 @@ ms.custom:
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
 ms.openlocfilehash: 4e89fa1746360dc6b41f25b71558b1b957edd4d5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36518559"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Ne morete prijaviti Hotmail ali Outlook.com?
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>Se ne morete vpisati v Hotmail ali Outlook.com?
 
-Vzdrževati vaš račun Outlook.com aktivne, vpisati se morate na račun vsaj enkrat vsakih 365 dni. Po 365 dneh neaktivnosti, vaš email bo izbrisana in ne more biti povrnjen.
+Če želite, da bo vaš račun Outlook.com aktiven, se morate vpisati v račun vsaj enkrat na 365 dni. Po 365 dneh neaktivnosti bo vaš e-poštni naslov izbrisan in ga ni mogoče izterjati.
   
-Če ste vpisani v 365 dneh, vendar še vedno ne more dostopati do računa Hotmail ali Outlook.com, preberite, [Kako vpisati v ali iz Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Če ste se prijavili v 365 dneh, vendar še vedno ne morete dostopati do računa Hotmail ali Outlook.com, preberite, [Kako se vpišete v Outlook.com ali iz](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)njega.
   

@@ -1,5 +1,5 @@
 ---
-title: Upravljanje app licenc
+title: Upravljanje licenc za aplikacije
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,28 +13,28 @@ ms.custom:
 - "1500008"
 - "2443"
 ms.openlocfilehash: 0282917f473dbe0718953c8668c4730d8f3448fd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497387"
 ---
-# <a name="manage-office-365-app-licenses"></a>Upravljanje licenc Office 365 app
+# <a name="manage-office-365-app-licenses"></a>Upravljanje licenc za aplikacije za Office 365
 
-## <a name="to-change-license-quantity"></a>Če želite spremeniti količino dati dovoljenje
+## <a name="to-change-license-quantity"></a>Spreminjanje količine licence
 
-1. Pojdi na **zaračunavanje** > [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani, nato izberete jeziček **aplikacije** .
+1. Pojdite na stran izdelki za **obračunavanje** > [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) in nato izberite zavihek **aplikacije** .
 
-2. Poiščite in izberite app, ki ga želite upravljati.  
+2. Poiščite in izberite aplikacijo, ki jo želite upravljati.  
 
 3. Izberite **Dodaj/odstrani licence**.
 
-4. Vnesite novo številko licence, potrebne. Na primer, če trenutno ima 5 licenc in šele potreba 4, vnesite 4 v polju **Skupna licence** . Če ste trenutno 5 licenc in potrebujete 10 skupno licenc, vnesite 10 v polje **skupno licence** .
+4. Vnesite novo število potrebnih licenc. Če imate na primer trenutno 5 licenc in potrebujete samo 4, v polje **Skupna dovoljenja** vnesite 4. Če imate trenutno 5 licenc in potrebujete 10 celotnih licenc, v polje **Skupna dovoljenja** vnesite 10.
 
-## <a name="to-assign-app-licenses"></a>Če želite dodeliti dovoljenja app
+## <a name="to-assign-app-licenses"></a>Dodeljevanje licenc za aplikacije
 
-1. Pojdi na **zaračunavanje** > [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani, nato izberete jeziček **aplikacije** .
+1. Pojdite na stran izdelki za **obračunavanje** > [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) in nato izberite zavihek **aplikacije** .
 
-2. Poiščite in izberite app, ki ga želite upravljati.  
+2. Poiščite in izberite aplikacijo, ki jo želite upravljati.  
 
-3. Pod **Nastavitve & dejanja**, izberite povezavo na **upravljanje izdajatelja portalu**.
+3. Pod možnostjo **nastavitve & dejanja**izberite povezavo za **upravljanje v Publisherjevem portalu**.

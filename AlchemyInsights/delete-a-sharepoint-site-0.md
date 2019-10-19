@@ -1,5 +1,5 @@
 ---
-title: Izbrisati SharePointovega mesta
+title: Brisanje SharePointovega mesta
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
 ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36514078"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Izbrišite strani, ki pripadajo skupini Office 365
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>Brisanje mest, ki pripadajo skupini Office 365
 
-Ko uporabniki ustvarijo novo mesto ekipe od SharePoint doma ali ustvarite novo mesto ekipa iz novega centra SharePoint admin, se samodejno ustvari ustrezni skupini Office 365. Mesta Office 365 povezana skupina skupine so izdelali ko ustvarite skupino Office 365 ali ekipa v Microsoft Teams. Če želite izbrisati SharePointovega mesta, ki spada v skupino Office 365, morate izbrisati skupini Office 365, sama. 
+Ko uporabniki ustvarijo novo spletno mesto skupine iz SharePointovega doma ali ustvarite novo spletno mesto skupine iz novega skrbniškega središča SharePoint, se samodejno ustvari ustrezna skupina Office 365. Mesta skupin, povezanih s skupino Office 365, so ustvarjena tudi, ko ustvarite skupino Office 365 ali ekipo v programu Microsoft teams. Če želite izbrisati SharePointovo mesto, ki pripada skupini Office 365, morate izbrisati samo skupino Office 365. 
   
-1. Pojdite na [stran skupine Microsoft 365 admin center](https://portal.office.com/adminportal/home#/groups).
+1. Pojdite na [stran» skupine «v skrbniškem središču za Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Izberite potrditveno polje ob skupini.
+2. Potrdite potrditveno polje poleg skupine.
     
 3. Izberite **Izbriši**.
     
-Opomba: Če izbrišete skupine, ne more biti zamude pred mestom je odstranjena iz SharePointa.
+Opomba: Ko izbrišete skupino, lahko pride do zamude, preden se stran odstrani iz SharePointa.
   
-**Izbriši sporočilo mesta ali klasična mesta:**
+**Izbrišite spletna mesta za komunikacijo ali klasične spletne strani:**
 
-1. Pojdite na spletno stran.
+1. Pojdi na spletno stran.
   
-2. Kliknite **ikono v zgornjem desnem** . 
+2. Kliknite ikono **Nastavitve** v zgornjem desnem kotu. 
   
-3. Kliknite **Nastavitve mesta**. Pod **Informacije** ali **Dejanja mesta**, kliknite **Izbriši ta stran**, in nato kliknite **Izbriši**.
+3. Kliknite **Nastavitve mesta**. Pod možnostjo **informacije o spletnem mestu** ali **Dejanja mesta**kliknite **Izbriši to mesto**in nato **Izbriši**.
   
-**Izbriši zbirko mest SharePoint:**
+**Izbrišite zbirko SharePointovih mest:**
 
-Če želite izbrisati mesto:
+Če želite izbrisati spletno mesto:
   
-1. V nov center za admin SharePoint, na strani mest, kliknite **potrditveno polje** poleg mesta, ki ga želite izbrisati. 
+1. V novem skrbniškem središču SharePoint na strani mesta kliknite **potrditveno polje** zraven mesta, ki ga želite izbrisati. 
     
-2. Trak v orodni vrstici kliknite **izbrisati.**
+2. V orodni vrstici traku kliknite **Izbriši.**
     
-**Mesto izbriše po nesreči?**
+**Izbrisano mesto po nesreči?**
 
-Glejte [obnovitev izbrisane mest](https://go.microsoft.com/fwlink/?linkid=867660).
+Glejte [obnovitev izbrisane zbirke mest](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Razgled pult odpoklic ali Zamenjaj e-pošto
+title: Outlook Desktop se spomni ali zamenja e-poštno sporočilo
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,31 +10,31 @@ ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36496127"
 ---
-# <a name="recall-or-replace-an-outlook-email-message"></a>Preklic ali zamenjava Outlook e-sporočilo
+# <a name="recall-or-replace-an-outlook-email-message"></a>Odpoklic ali zamenjava Outlookovega e-poštnega sporočila
 
-- Kot admin, lahko **odpoklic sporočila v imenu uporabnik using PowerShell**. Sporočila iz centra za admin ne more spomniti.
-- Lahko **samo Preklic sporočila, ki so poslana ljudem v organizaciji**. Če je bilo sporočilo poslano na Gmail naslov, na primer, lahko ne spomnim to.
-- Lahko **samo Preklic sporočila, poslana iz Outlook 2016 na PC**. Če uporabnik pošlje sporočilo z uporabo Outlook za Mac ali Outlook v spletu, lahko spomnim.
+- Kot admin, lahko **odpoklic sporočil v imenu uporabnikov, ki uporabljajo PowerShell**. Ne morete se spomniti sporočil iz skrbniškega centra.
+- Prikličete lahko **samo sporočila, poslana osebam v vaši organizaciji**. Če je bilo sporočilo poslano v Gmailov naslov, ga na primer ne morete spomniti.
+- **V računalniku lahko odpokličejo samo sporočila, poslana iz outlooka 2016**. Če uporabnik pošlje sporočilo z Outlookom za Mac ali Outlook v spletu, ga ne morete spomniti.
 
-Preklicu ali zamenjavi e-pošto:
+Preklic ali zamenjava e-poštnega sporočila:
 
-1. V podoknu z mapami na levi strani Outlookovega okna, izberite mapo Poslano.
-1. Dvokliknite sporočilo, da želite preklicati razkleniti to.
-1. Izberite **sporočilo** , in nato izberite **dejanja** > **Opozoriti na to sporočilo**.
-1. Izberite **izbrisati neprebrane kopije tega sporočila** ali **izbrisati neprebrane kopije in zamenjati z novim sporočilom**in izberite **OK**.
-1. Če pošiljate sporočilo zamenjavo, sestaviti sporočilo in izberite **Pošlji**.
-1. Uspeh ali neuspeh Preklic sporočila je odvisna od prejemnika nastavitve v Outlooku. Koraki za preverjanje na odpoklic, glejte [Ta članek](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+1. V podoknu map na levi strani Outlookovega okna izberite mapo Poslani predmeti.
+1. Dvokliknite sporočilo, ki ga želite opomniti, da ga odprete.
+1. Izberite zavihek **sporočilo** in nato izberite **dejanja** > , ki se**odpokličejo v to sporočilo**.
+1. Izberite **Izbriši neprebrane kopije tega sporočila** ali **izbrišite neprebrane kopije in zamenjajte novo sporočilo**, nato pa izberite **v redu**.
+1. Če pošiljate nadomestno sporočilo, sestavite sporočilo in nato izberite **Pošlji**.
+1. Uspeh ali neuspeh odpoklica sporočila je odvisen od prejemnikov nastavitev v programu Outlook. Če želite preveriti odpoklic, si oglejte [Ta članek](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-Iskanje in brisanje e-poštnih sporočil v vaši organizaciji
+Iskanje in brisanje e-poštnih sporočil v organizaciji
 
-- Če niste svetovnih admin, mora vaš račun dodan eDiscovery vlogo upravitelja ali skladnost iskanje upravljalne vloge za iskanje sporočil. Èe ¾elite zbrisati sporoèila, boste morali pridružiti skupine vlog »Upravljanje organizacije «ali iskanje in Počisti upravljalne vloge. Dovoljenja za te vloge so dodeljeni v [center za varnost in skladnost](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Ustvari vsebino iskanje](https://docs.microsoft.com/office365/securitycompliance/content-search) najti sporočilo za brisanje.
-- [Povezati varnost in skladnost Center PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
+- Če niste globalni skrbnik, morate račun dodati vlogi upravitelja e-odkrivanja ali vlogi za upravljanje iskanja po skladnosti za iskanje sporočil. Če želite izbrisati sporočila, se morate pridružiti skupini vlog za upravljanje organizacije ali funkciji za upravljanje iskanja in čiščenja. Dovoljenja za te vloge so dodeljena v [središču za varnost in skladnost](https://go.microsoft.com/fwlink/?linkid=2083731).
+- [Ustvarite iskanje po vsebini](https://docs.microsoft.com/office365/securitycompliance/content-search) in poiščite sporočilo, ki ga želite izbrisati.
+- [Vzpostavite povezavo z lupino za varnostno in skladnost center PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
 
-Če uporabljate preverjanje pristnosti multifaktorske, glejte [povezovanje Office 365 varnost in skladnost Center PowerShell uporablja preverjanje pristnosti multifaktorske](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Če uporabljate večfaktorsko preverjanje pristnosti, glejte [Vzpostavljanje povezave z PowerShell za varnost in skladnost središča Office 365 z uporabo večfaktorskega preverjanja pristnosti](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).

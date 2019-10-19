@@ -1,5 +1,5 @@
 ---
-title: Omejitve datoteke
+title: Omejitve datotek
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
 ms.openlocfilehash: 122da4ef674cdb2f5ae4b8f1eb3991bd2a7d2cfc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36525795"
 ---
-# <a name="file-upload-limits-in-sharepoint-online"></a>File upload omejitev v SharePoint Online
+# <a name="file-upload-limits-in-sharepoint-online"></a>Omejitve nalaganja datotek v SharePoint online
 
-- Knjižnica je lahko do 30 milijonov datotek in map.
+- Knjižnica ima lahko do 30.000.000 datotek in map.
     
-- Skupna dolžina URL-ja, vključno z imenom datoteke, ne sme presegati 400 znakov.
+- Skupna dolžina URL-ja, vključno z imenom datoteke, ne more presegati 400 znakov.
     
-- Vsako datoteko žganci biti manj kot 15 GB. Datoteke, priložene elemente seznama lahko do 250 MB po velikosti.
+- Vsaka datoteka žganci je manj kot 15 GB. Pila privezati v zapisati v seznam reč moči obstati pod vodstvom 250 MB v velikost.
     
-- Za optimalno delovanje sinhroniziranje z novo OneDrive sinhronizacijo odjemalca, priporočamo shranjevanje več kot 100.000 datoteke v knjižnico. 
+- Za optimalno delovanje sinhronizacijo z novim odjemalcem sinhronizacijo OneDrive, priporočamo shranjevanje ne več kot 100.000 datotek v knjižnici. 
     
-[Znake, ki jih ni mogoče uporabiti v imenih datotek](https://go.microsoft.com/fwlink/?linkid=866430)
+[Znaki, ki jih ni mogoče uporabiti v imenih datotek](https://go.microsoft.com/fwlink/?linkid=866430)
   
 [Vrste datotek, ki jih ni mogoče dodati na seznam ali v knjižnico](https://go.microsoft.com/fwlink/?linkid=273757)
   
-[Več informacij o mejah SharePoint Online](https://go.microsoft.com/fwlink/?linkid=271273)
+[Več informacij o omejitvah za SharePoint online](https://go.microsoft.com/fwlink/?linkid=271273)
   
 

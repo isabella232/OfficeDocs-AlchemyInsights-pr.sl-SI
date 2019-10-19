@@ -1,5 +1,5 @@
 ---
-title: Omejevanje dostopa v SharePoint ali OneDrive
+title: Omejevanje dostopa v SharePointu ali storitvi OneDrive
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 8/7/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
 ms.openlocfilehash: e5458226fe33bd5cb3da1f608fb113b888fbfd16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36551467"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Omejevanje dostopa v SharePoint ali OneDrive
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>Omejevanje dostopa v SharePointu ali storitvi OneDrive
 
-V SharePoint in OneDrive, omejite dostop do predmetov, kot so datoteke, mape in sezname z odobritvijo dostopa le za skupine ali posamezniki, ki želite imeti dostop. Privzeto dovoljenja v SharePoint dedujejo iz višje v hierarhiji. Tako datoteko podeduje njena dovoljenja v mapi, ki podeduje njeno dovoljenja iz knjižnice, ki je njena dovoljenja podedovana.
+V SharePointu in storitvi OneDrive omejite dostop do elementov, kot so datoteke, mape in seznami, tako da omogočite dostop samo skupinam ali posameznikom, ki jih želite imeti dostop. Dovoljenja v SharePointu so privzeto podedovana od višje v hierarhiji. Torej datoteka dedi dovoljenja iz mape, ki dedi dovoljenja iz knjižnice, ki dedi svoja dovoljenja iz mesta.
   
-Delite na višji ravni (kot z delitvijo celotno spletno mesto) in nato prekiniti dedovanje, če ne želite, da delijo vse elemente na spletni strani. Vendar, ne priporočamo to saj omogoča ohranitev dovoljenja bolj kompleksnih in zavajajoče v prihodnosti. Tukaj je, kaj bi vam namesto tega:
+Lahko delite na višji ravni (na primer z delitvijo celotno mesto) in nato prekinil dedovanje, če ne želite deliti vse elemente na mestu. Vendar pa tega ne priporočamo, ker omogoča ohranitev dovoljenj bolj zapletena in nejasna v prihodnosti. Tukaj je, kaj lahko storite namesto tega:
   
-- Če na primer želite deliti vsebino mape, razen za eno datoteko, premakniti to datoteko na novo lokacijo, ki ni v skupni rabi.
+- Če želite na primer deliti vso vsebino mape, razen ene datoteke v njej, premaknite to datoteko na novo mesto, ki ni v skupni rabi.
     
-- Če imate dva podmape v mapi, in želite deliti eno podmapo z skupin A in B in dovoljujejo le skupina A drugi podmapo, delež nadrejeno mapo s skupino A in skupine B dodati prvo podmapo.
+- Če imate v mapi dve podmapi in želite deliti eno podmapo s skupinami A in B in dovoliti samo skupini A dostop do druge podmape, delite nadrejeno mapo s skupino A in dodajte skupino B v prvo podmapo.
     
-[Ustavi skupno rabo datoteko ali mapo](https://go.microsoft.com/fwlink/?linkid=2008861)
+[Ustavitev skupne rabe datoteke ali mape](https://go.microsoft.com/fwlink/?linkid=2008861)
   
 

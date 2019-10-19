@@ -1,5 +1,5 @@
 ---
-title: Sprememba MDM organ
+title: Spremeni organ MDM
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519315"
 ---
-# <a name="change-intune-mdm-authority"></a>Sprememba Intune MDM organ
+# <a name="change-intune-mdm-authority"></a>Spremeni InTune MDM organ
 
-Spremenite lahko MDM organ brez odpiranja primer podporo. Glej naslednje dokumente za navodila:
+Organ MDM lahko spremenite, ne da bi odprli primer podpore. Za navodila glejte naslednje dokumente:
   
-- [Spremenite MDM organ od zunanja podoba šef na Intune samostojno](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Spreminjanje MDM organa iz upravitelja konfiguracije za InTune standalone](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Sprememba MDM organ iz Intune samostojni Upravitelj konfiguracije](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Sprememba MDM pooblastilo s InTune standalone v Upravitelj konfiguracije](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **MDM organ soobstoj**
+ **Soobstoj organa MDM**
   
-- Lahko imate tako MDM organi aktivno sočasno če že imate Office 365 MDM, omogočeno pa boste želeli poskusiti Intune MDM.
+- Lahko imajo tako MDM organi aktivni hkrati, če že imate Office 365 MDM omogočen, vendar želite poskusiti InTune MDM.
     
-- Administratorji, ki že imajo O365 MDM aktivno lahko preprosto označite Intune MDM kot aktivno s sinje portala.
+- Administratorji, ki že imajo O365 MDM aktivna lahko preprosto označite InTune MDM kot aktivne iz portala Azure.
     
-- Če imate Intune MDM, vendar želite uporabiti Office 365 MDM: Prosimo, odprt vozovnico spodaj in podporo agent bo pomagal usposobiti to za vas.
+- Če vi življati InTune MDM šele biti brez rabiti od urad 365 MDM: prosim plan a karta spodaj ter a zaslomba senzal hoteti pomoč usposobiti to zakaj vi.
     
 

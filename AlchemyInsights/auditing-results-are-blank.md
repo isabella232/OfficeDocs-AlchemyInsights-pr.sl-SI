@@ -1,5 +1,5 @@
 ---
-title: Nadzor rezultatov so prazne
+title: Rezultati revizij so prazni
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
 ms.openlocfilehash: befbb9d2de29231f5346284485aa55613d4f687b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517443"
 ---
-# <a name="auditing-results-are-blank"></a>Nadzor rezultatov so prazne
+# <a name="auditing-results-are-blank"></a>Rezultati revizij so prazni
 
- **Revizijska poročila za klasična mesta**
+ **Revizijska poročila za klasične spletne strani**
   
-Za ogled revizijsko poročilo za zbirko mest SharePoint, morate biti skrbnik za zbirko mest. Dodati sami kot skrbnik, glejte [Dodaj stran zbirka administratorji kot globalni ali SharePoint admin](https://go.microsoft.com/fwlink/?linkid=869390). Informacij o delu z dnevnik nadzora, glejte [Ogled dnevnika poročil o presojah](https://go.microsoft.com/fwlink/?linkid=395237). 
+Če si želite ogledati revizijsko poročilo za zbirko SharePointovih mest, morate biti skrbnik za zbirko mest. Če se želite dodati kot skrbnik, glejte [Dodajanje skrbnikov zbirke mest kot globalnega ali SharePointovega skrbnika](https://go.microsoft.com/fwlink/?linkid=869390). Če želite več informacij o delu z dnevnikom nadzora, glejte [Ogled poročil dnevnika revizij](https://go.microsoft.com/fwlink/?linkid=395237). 
   
- **Iskanje dnevnik nadzora Office 365**
+ **Iskanje dnevnika revizij Office 365**
   
-Moraš biti svetovnih admin v Office 365 za delo z dnevnik nadzora v je [varnost &amp; skladnost Center](https://protection.office.com). Preden začnete, vklopi zapisovanje v dnevnike nadzora. Potem, lahko zaženete iskanje dnevnik je revizijo. 
+Vi potreba v obstati a kroglast pomoč v urad 365 obdelovati s pregled poleno v [ &amp; varnost skladnost središče](https://protection.office.com). Preden začnete, vklopite beleženje dnevnika nadzora. Nato lahko zaženete iskanje dnevnika revizij. 
   
-[Naučite se iskanje dnevnik nadzora](https://go.microsoft.com/fwlink/?linkid=708432).
+[Preberite, kako poiščete dnevnik revizij](https://go.microsoft.com/fwlink/?linkid=708432).
   
 

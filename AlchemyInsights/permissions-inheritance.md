@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
 ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36554977"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Kako dedovanje dovoljenj deluje v SharePoint
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>Kako dovoljenja dedovanja deluje v SharePointu
 
-Privzeto dovoljenja v SharePoint dedujejo iz višje v hierarhiji. Tako datoteko podeduje njena dovoljenja v mapi, ki podeduje njeno dovoljenja iz knjižnice, ki podeduje njeno dovoljenja s strani, ki podeduje njeno dovoljenja iz zbirke mest.
+Dovoljenja v SharePointu so privzeto podedovana od višje v hierarhiji. Torej datoteka dedi dovoljenja iz mape, ki dedi dovoljenja iz knjižnice, ki dedi dovoljenja iz mesta, ki dedi dovoljenja iz zbirke mest.
   
-Informacije o odstranjevanju enolična dovoljenja in obnavljanje dedovanje, glejte [Urejanje in upravljanje dovoljenj za seznam ali knjižnico](https://go.microsoft.com/fwlink/?linkid=869946).
+Če želite več informacij o odstranjevanju edinstvenih dovoljenj in obnovi dedovanja, glejte [Urejanje in upravljanje dovoljenj za seznam ali knjižnico](https://go.microsoft.com/fwlink/?linkid=869946).
   
 

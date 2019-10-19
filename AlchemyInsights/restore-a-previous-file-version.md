@@ -1,5 +1,5 @@
 ---
-title: Obnovite prejšnjo različico datoteke
+title: Obnovitev prejšnje različice datoteke
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8117dea-2111-4275-9ca1-9c1f3e5667cf
 ms.openlocfilehash: 3d612b3e729b471cafd8304d8afe0f569f257e49
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36552367"
 ---
-# <a name="restore-a-previous-file-version"></a>Obnovite prejšnjo različico datoteke
+# <a name="restore-a-previous-file-version"></a>Obnovitev prejšnje različice datoteke
 
-Z elektronsko različico zgodovine, lahko vidite in postaviti v prejšnje stanje starejši prevod od vaš pila v OneDrive ali SharePoint. Zgodovina različic deluje z vseh vrst datotek, vključno z PDF, CAD datoteke, fotografije in video posnetke. Če želite obnoviti prejšnjo različico datoteke:
+S spletno zgodovino različic lahko vidite in obnovite starejše različice datotek v storitvi OneDrive ali SharePoint. Zgodovina različic deluje z vsemi vrstami datotek, vključno z dokumenti PDF, CAD datotekami, fotografijami in videi. Če želite obnoviti prejšnjo različico datoteke:
   
-1. Odprite knjižnico dokumentov SharePoint ali OneDrive mesto.
+1. Odprite SharePointovo knjižnico dokumentov ali mesto OneDrive.
     
-2. Kliknite levo od datoteke, da jo izberete in nato **zgodovino različic**. Če ne vidite zgodovino različice v ukazni vrstici, kliknite več ( **...** ). 
+2. Kliknite levo od datoteke, da jo izberete, in nato kliknite **Zgodovina različic**. Če v ukazni vrstici ne vidite zgodovine različic, kliknite več ( **...** ). 
     
-3. Kliknite različico, ki jo želite ogledati, ali kliknite več ( **...** ) za pravico različico in nato kliknite **Obnovi**.
+3. Kliknite različico, ki si jo želite ogledati, ali kliknite več ( **...** ) na desni strani različice in nato kliknite **Obnovi**.
     
 

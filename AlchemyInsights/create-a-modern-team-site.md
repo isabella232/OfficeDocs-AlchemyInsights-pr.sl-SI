@@ -1,5 +1,5 @@
 ---
-title: Ustvariti mesto Modern Team
+title: Ustvarjanje spletne strani Modern Team
 ms.author: clake
 author: spowriter
 ms.date: 11/9/2018
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
 ms.openlocfilehash: caeb3d464ecb528f3ffc87cf75be4a3f9b410798
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36516333"
 ---
-# <a name="create-an-office-365-group-connected-team-site"></a>Ustvarite mesto Office 365 skupina povezana skupina
+# <a name="create-an-office-365-group-connected-team-site"></a>Ustvarjanje mesta skupine, povezane s skupino Office 365
 
-1. Kliknite zaganjalnik app v zgornjem levem kotu in izberite **SharePoint**. Če ne vidite SharePoint ploščice, kliknite **vse aplikacije**.
+1. V zgornjem levem kotu kliknite zaganjalnik aplikacij in izberite **SharePoint**. Če SharePointove ploščice ne vidite, kliknite **vse aplikacije**.
     
-2. Na vrhu domače strani SharePoint, kliknite **Ustvari strani** in izberite **mesto ekipe** . 
+2. Na vrhu SharePointove domače strani kliknite **Ustvari spletno mesto** in izberite možnost **mesta ekipe** . 
     
     > [!NOTE]
-    > Če ne vidite ukaza ustvari mesto, ustvarjanje mesta ne bo omogočen v vaši organizaciji. V usposobiti to, glejte [Ustvarjanje upravljanje mesta](https://go.microsoft.com/fwlink/?linkid=2009644). 
+    > Če ukaza CREATE site ne vidite, ustvarjanje mesta morda ne bo omogočeno v vaši organizaciji. Če ga želite omogočiti, glejte [upravljanje ustvarjanja](https://go.microsoft.com/fwlink/?linkid=2009644)mest. 
   
-3. Sledite navodilom na zaslonu, da ime mesta in ustvarite e-poštni naslov za Office 365 skupino, in nato kliknite **naprej**. Dodate lahko tudi druge skupine lastnikov in člani. Kliknite **Dokončaj**.
+3. Sledite navodilom na zaslonu, da poimenujete spletno mesto in ustvarite e-poštni naslov za skupino Office 365 in nato kliknite **naprej**. Dodate lahko tudi druge lastnike skupin in člane. Kliknite **Dokončaj**.
   
- **Opomba:** Ustvariti mesto ekipe brez skupine povezan, sledite navodilom zgoraj, vendar namesto da izberete mesto ekipe v korak 2. Izberite druge možnosti. To vas bo vodil skozi postopek ustvarjanja mesta skupine brez skupine. 
+ **Opomba:** Če želite ustvariti spletno mesto skupine brez povezane skupine, upoštevajte zgornja navodila, namesto da izberete mesto skupine v koraku 2. Izberite druge mo3/4nosti. To vas bo vodilo skozi ustvarjanje Team site brez skupine. 
     
 

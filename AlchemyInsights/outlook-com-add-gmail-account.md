@@ -1,5 +1,5 @@
 ---
-title: Gmail račun dodati Outlook.com
+title: Dodaj račun Gmail na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,22 +12,22 @@ ms.custom:
 - "1820"
 - "9000236"
 ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538144"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>Vaš Gmail račun dodati Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>Dodajte svoj račun Gmail na Outlook.com
 
-1. Odprite [nastavitve za sinhronizacijo e-pošte](https://go.microsoft.com/fwlink/?linkid=875264).
-2. Pod **povezan račun**, izberite **Gmail**.
-3. Vnesite prikazno ime (ime prejemniki bo videti, ko prejmejo e-pošto od vas).
-4. Izberite, če mora Outlook.com uvoz vaš email s Gmail ter shranjeni uvoženo e-poštna.
-5. Izberite **OK** , da gredo na Google stran.
+1. Odprite [nastavitve e-poštnega sporočila za sinhronizacijo](https://go.microsoft.com/fwlink/?linkid=875264).
+2. V razdelku **povezani računi**izberite **Gmail**.
+3. Vnesite prikazno ime (prejemniki imena bodo videli, kdaj prejmete e-poštno sporočilo od vas).
+4. Izbrati če Outlook.com should uvoz vaš email s Gmail ter kraj uvoz email hoteti obstati trgovina.
+5. Izberite **v redu** , če želite iti na Googlovo stran za vpis.
 
-Sinhronizacijo iz povezanega računa račun Outlook.com je enosmerna samo. E-poštno poslano iz računa Gmail, z uporabo Outlook.com ne prikažejo v poslano v Gmail.
+Sinhronizacija iz povezanega računa v račun Outlook.com je enosmerna. E-pošta poslana iz vašega računa Gmail z uporabo Outlook.com ne bo prikazana v poslani predmeti v Gmailu.
 
-Moči spodbuda email v Outlook.com od Gmail računa. Ko skladanjem email, **izbirate** in izberete vaš Gmailov naslov, ali [posodobiti vaš ne izpolniti obveznosti iz naslova](https://go.microsoft.com/fwlink/?linkid=875264).
+E-pošto lahko pošljete v Outlook.com iz povezanega Gmailovega računa. Ko sestavljate e-poštno sporočilo, izberite **iz** in izberite svoj Gmailov naslov ali [posodobite privzeti naslov](https://go.microsoft.com/fwlink/?linkid=875264).
 
-Če želite več informacij, glejte [Dodaj vaš drugi email račun Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+Če želite več informacij, glejte [Dodajanje drugih e-poštnih računov v Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

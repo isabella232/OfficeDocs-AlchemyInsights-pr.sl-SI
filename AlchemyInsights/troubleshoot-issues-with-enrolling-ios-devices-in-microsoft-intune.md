@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav z vpisom iOS naprave v Microsoft Intune
+title: Odpravljanje težav z včlanjanjem naprav iOS v Microsoft InTune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,30 +10,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d717bcc9-1cc1-44f6-b5e6-c1bc059c1973
 ms.openlocfilehash: bdbfe7bae00a4c5cfa0edbe9a37522cc98e52401
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36507019"
 ---
-# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Odpravljanje težav z vpisom iOS naprave v Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune"></a>Odpravljanje težav z včlanjanjem naprav iOS v Microsoft InTune
 
-Pregledati vire spodaj za zdaj rešiti težavo. 
+Preglejte spodaj navedene vire, da odpravite težavo zdaj. 
   
-Neki splošen zmota vest ter odložnost lestev:
+Nekatera pogosta sporočila o napakah in koraki reševanja:
   
-- **Naprava SKP dosegel** Uporabnik ima več naprav, ki so vpisani presega omejitev naprave. Pregled teh dokumentov [odstranite napravo](https://docs.microsoft.com/intune/devices-wipe) ali [spremeniti omejitev naprave](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
+- **Naprava SKP dosežena** Uporabnik ima več naprav, vpisanih kot omejitev naprave. Preglejte te dokumente, če želite [odstraniti napravo](https://docs.microsoft.com/intune/devices-wipe) ali [spremeniti omejitev naprave](https://docs.microsoft.com/intune/enrollment-restrictions-set#set-device-limit-restrictions).
     
-- **Ta storitev ni podprta. Noben vpis pravilnik:** Apple Push obvestila storitev (APNS) mora biti nastavljen ali podaljšati. Pregled [tega dokumenta](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) za navodila o tem, kako to storiti. 
+- **Ta storitev ni podprta. Št vpis politika:** Apple push obvestilo Service (APNS) je treba konfigurirati ali obnoviti. Preglejte [ta dokument](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) , če želite navodila za to. 
     
-- **Uporabnik dati dovoljenje vrsta neveljavne ali uporabniško ime ni prepoznano:** Uporabnik potrebuje, dodelijo licenco Intune ali EMS. Pregled teh dokumentov dodeliti licenco skozi: [Office Admin Center](https://docs.microsoft.com/intune/licenses-assign) ali [sinje portal](https://docs.microsoft.com/azure/active-directory/license-users-groups).
+- **Uporabniška licenčna vrsta neveljavna ali uporabniško ime ni bilo prepoznano:** Uporabniku je treba dodeliti licenco InTune ali EMS. Preglejte te dokumente, če želite dodeliti licenco prek: [Officeovega skrbniškega središča](https://docs.microsoft.com/intune/licenses-assign) ali [portala Azure](https://docs.microsoft.com/azure/active-directory/license-users-groups).
     
-Dodatna sredstva za pomoč pri reševanju težave:
+Dodatni viri, ki vam pomagajo odpraviti težavo:
   
-1. Uporabite [Intune odpravljanje težav Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnosticirati in odpraviti skupni vpis napak. Pregled [tega dokumenta](https://docs.microsoft.com/intune/help-desk-operators) za več podrobnosti. 
+1. Uporabite [InTune odpravljanje težav portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) za diagnosticiranje in reševanje pogostih napak včlanitve. Za več podrobnosti preglejte [ta dokument](https://docs.microsoft.com/intune/help-desk-operators) . 
     
-2. Pregled teh dokumentov seznam pogostih napak, ki preprečujejo včlanitev in resolucije posameznim: [Priročnik za odpravljanje težav](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) in [Odpravljanje težav doc](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
+2. Preglejte te dokumente za seznam pogostih napak, ki preprečujejo včlanitev in resolucije vsakemu: [vodnik za odpravljanje težav](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) in [Odpravljanje težav z zdravnikom](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
     
-3. [Naučite se, kako vpisati iOS naprave v Microsoft Intune](https://docs.microsoft.com/intune/ios-enroll).
+3. [Naučite se včlaniti naprave IOS v Microsoft InTune](https://docs.microsoft.com/intune/ios-enroll).
     
 

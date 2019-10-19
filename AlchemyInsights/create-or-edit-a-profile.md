@@ -1,5 +1,5 @@
 ---
-title: 1800001 ustvari ali uredi profil
+title: 1800001 ustvarjanje ali urejanje profila
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
 ms.openlocfilehash: 3effe20e8831571a34983a1f7a1addd8295551f2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515175"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Ustvarite ali uredite profil Outlook
+# <a name="create-or-edit-an-outlook-profile"></a>Ustvarjanje ali urejanje Outlookovega profila
 
-Ustvariti nov profil Outlook, urediti profil, ali preimenovati profil, sledite naslednjim korakom.
+Če želite ustvariti nov Outlookov profil, urediti profil ali preimenovati profil, uporabite naslednje korake.
   
-1. V Outlook, izberite **datoteko** \> **Nastavitve računa** \> **Upravljanje profilov**.
+1. V Outlooku izberite **Nastavitve** \> računa **datoteke** \> **upravljanje profilov**.
     
-2. Pogovorno okno **Nastavitev pošte** , izberite **Pokaži profile**.
+2. V pogovornem oknu **Nastavitev pošte** izberite **Pokaži profile**.
     
 3. Naredite nekaj od tega:
     
@@ -32,6 +32,6 @@ Ustvariti nov profil Outlook, urediti profil, ali preimenovati profil, sledite n
     
   - Če želite urediti ali preimenovati profil, izberite **lastnosti**.
     
-Če imate težave, ustvarjanje ali urejanje Outlook profil, lahko zaženete [Outlook profil orodje](https://aka.ms/SaRA-OutlookSetupProfile) v računalniku prizadetih. To bo opravil nekaj pregledov, in ko ste pripravljeni ustvariti Outlook profil s vaš e-poštni naslov. 
+Če imate težave pri ustvarjanju ali urejanju Outlookovega profila, lahko zaženete [Outlookovo orodje za profiliranje](https://aka.ms/SaRA-OutlookSetupProfile) v prizadetem računalniku. To hoteti izvršiti nalogo neki ček, ter čas vaš ' radovoljen hoteti zagnati krik in vik razgled profil s vaš email ogovor. 
   
 

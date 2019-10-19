@@ -1,5 +1,5 @@
 ---
-title: 9000238 Outlook.com dodati alias
+title: 9000238 Outlook.com Dodaj Vzdevek
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542717"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>Dodajte e-poštni vzdevek v Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>Dodajanje e-poštnega vzdevka v Outlook.com
 
-Vzdevek je dodatni e-poštni naslov, ki uporablja isti Prejeto, seznam stikov in nastavitve računa kot vaš primarni e-poštni naslov. Izberete lahko, kateri e-poštni naslov za pošiljanje pošte, in boste lahko prijavite Outlook.com račun s katerim koli od vaše vzdevki-vsi uporabljati isto geslo.
+Vzdevek je dodaten e-poštni naslov, ki uporablja isti nabiralnik, seznam stikov in nastavitve računa kot primarni e-poštni naslov. Lahko izberete, kateri e-poštni naslov za pošiljanje pošte, in se lahko vpišete v svoj Outlook.com račun s katero koli od vaših vzdevkov-vsi uporabljajo isto geslo.
 
 Če želite dodati e-poštni naslov:
 
-1. Iti k [povečati vzdevku](https://go.microsoft.com/fwlink/p/?linkid=864833). Prijavite se v svoj račun Microsoft, če sufler.
-2. Pod **Dodaj vzdevku**, bodisi:
-    1. Ustvariti nov email naslov Outlook.com in ga dodajte kot vzdevek.
-    2. Dodaj obstoječi e-poštni naslov za vzdevek.
-3. Izberite **Dodaj vzdevka**.
+1. Pojdite na [Dodajanje vzdevka](https://go.microsoft.com/fwlink/p/?linkid=864833). Prijavite se v svoj Microsoftov račun, če ste pozvani.
+2. V razdelku **Dodajanje vzdevka**:
+    1. Ustvarite nov e-poštni naslov Outlook.com in ga dodajte kot vzdevek.
+    2. Dodajte obstoječi e-poštni naslov kot vzdevek.
+3. Izberite **Dodaj Vzdevek**.
 
-Preberite več o tem, kako [dodati](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)ali odstraniti e-poštni vzdevek v Outlook.com.  
+Preberite več o [dodajanju ali odstranjevanju e-poštnega vzdevka v Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-Preberite, [Kako povezati drug e-poštni račun](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) račun Outlook.com.
+Preberite, [Kako povezati drug e-poštni račun](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) na svoj Outlook.com račun.

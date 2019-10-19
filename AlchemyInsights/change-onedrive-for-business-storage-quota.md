@@ -1,5 +1,5 @@
 ---
-title: Sprememba OneDrive za poslovne shranjevanje kvote
+title: Spreminjanje količinske omejitve shrambe za OneDrive za podjetja
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
 ms.openlocfilehash: 52d8fd39b21b2ac8f1a9965981e8fdc536ea18f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519279"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Spremenite privzeta OneDrive prostora za uporabnike
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>Spreminjanje privzetega prostora za shranjevanje v storitvi OneDrive za uporabnike
 
-1. Pojdite na [skladiščenja strani admin center OneDrive](https://admin.onedrive.com/?v=StorageSettings).
+1. Pojdite na [stran za shranjevanje v skrbniškem središču za OneDrive](https://admin.onedrive.com/?v=StorageSettings).
     
-2. Vnesite količino prostora za shranjevanje privzeto (v GB) v polje **privzeto za shranjevanje** , in nato kliknite **Shrani**.
+2. V privzeto polje za **shranjevanje** vnesite privzeti znesek shrambe (v GB) in kliknite **Shrani**.
     
-Shranjevanje prostora nastavitev velja za vse uporabnike, za katere niste nastavili posebne skladiščne. Če želite spremeniti prostor za shranjevanje za določene uporabnike, morate uporabiti Microsoft PowerShell. Info o tem, kako to narediti, glejte [sprememba uporabnikov OneDrive prostora, z uporabo PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
+Nastavitev prostora za shranjevanje velja za vse uporabnike, za katere niste nastavili določenih omejitev shranjevanja. Če želite spremeniti prostor za shranjevanje določenih uporabnikov, morate uporabiti Microsoft PowerShell. Če želite več informacij o tem, glejte [Spreminjanje prostora za shranjevanje v storitvi OneDrive za uporabnike z uporabo lupine PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
   
 

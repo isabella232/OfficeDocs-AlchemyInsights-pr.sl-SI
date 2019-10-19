@@ -1,5 +1,5 @@
 ---
-title: Preverjanje črkovanja v Outlooku na spletu
+title: Preverjanje črkovanja v Outlooku v spletu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,12 +13,12 @@ ms.custom:
 - "8000007"
 - "1992"
 ms.openlocfilehash: 945d3168352bd00259a14508434243028720d6f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36510567"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>Uporabite vaš brskalnik za preverjanje črkovanja
+# <a name="use-your-browser-to-check-spelling"></a>Uporaba brskalnika za preverjanje črkovanja
 
-Ni možnosti črkovanja potrdite v Outlooku na spletu. Če želite preveriti črkovanje, boste morali s spletnim brskalnikom. Preverjanje črkovanja je na voljo v Microsoft Edge, Internet Explorer 10 in novejše različice, in sedanje različice, Firefox, Chrome, Safari. Preverite možnosti za spletni brskalnik, če želite izvedeti več o preverjanju črkovanja.
+V Outlooku v spletu ni možnosti preverjanja črkovanja. Če želite preveriti črkovanje, morate uporabiti spletni brskalnik. Preverjanje črkovanja je na voljo v Microsoft Edge, Internet Explorerju 10 in novejših različicah ter trenutne različice Firefoxa, Chroma in Safarija. Če želite izvedeti več o tem, kako preveriti črkovanje, preverite možnosti za spletni brskalnik.

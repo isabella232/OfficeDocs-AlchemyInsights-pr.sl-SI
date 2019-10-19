@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 - narobe armaturni plošči kaže v enotni vmesniku Dynamics 365
+title: Dynamics 365-napačna Nadzorna plošča kaže v Dynamics 365 poenoteni vmesnik
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,34 +10,34 @@ ms.custom:
 - "1484"
 - "6200024"
 ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36528567"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Narobe armaturni plošči kaže v enotni vmesniku Dynamics 365
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Napačna Nadzorna plošča je prikazana v poenotenem vmesniku Dynamics 365
 
-Obstaja več razlogov, zakaj lahko vidite različne nadzorne plošče kot tisti, ki pričakujete:
+Obstaja več razlogov, zakaj se lahko prikaže drugačna Nadzorna plošča kot tista, ki jo pričakujete:
 
-## <a name="the-user-has-set-a-user-default-dashboard"></a>Uporabnik je nastavite privzeti uporabniški nadzorni plošči 
+## <a name="the-user-has-set-a-user-default-dashboard"></a>Uporabnik je nastavil privzeto nadzorno ploščo uporabnika 
 
-Običajno lahko prepoznavanje uporabnika privzeto nadzorno ploščo je nastavljena, če **Nastavite kot privzeti** gumb ne Prikaži v blatnik ukazno vrstico. Privzete nadzorne plošče uporabnika bo razveljavila vse druge privzete nadzorne plošče, tudi če uporabnikove privzete nadzorne plošče ni v trenutni app.
+Značilno je, da lahko prepoznate uporabniško privzeto nadzorno ploščo je nastavljena, če se **Nastavi kot privzeto** gumb ne prikaže v ukazni vrstici nadzorne plošče. Privzeta Nadzorna plošča za uporabnika bo preglasitev vseh drugih privzetih nadzornih plošč, tudi če uporabnikova privzeta Nadzorna plošča ni v trenutni aplikaciji.
 
-Raba sledeč workaround v izključeno njihovo privzeto nadzorno ploščo.
+Če želite razdružiti privzeto nadzorno ploščo, uporabite to rešitev.
 
-1. Ustvarite novo osebno armaturno ploščo.
+1. Ustvarite novo osebno nadzorno ploščo.
 
-2. Nastavite to novo nadzorno ploščo kot uporabniško privzeto.
+2. Nastavite novo nadzorno ploščo kot privzeti uporabnik.
 
-3. Brisanje te nadzorne plošče.
+3. Izbrišite nadzorno ploščo.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Armaturni plošči se nahaja v kazalo
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Nadzorna plošča je nastavljena na kazalo
 
-Lahko nastavite za organizacijo privzeto nadzorno ploščo z izbiro nadzorno ploščo in izberete "Nastavi kot privzeto" pod "Šega sistem". Vendar blatnik, opredeljen v kazalo oblikovalec hoteti zalotiti predhodnost nad to nadzorno ploščo, če uporabnik ima dostop do njega.
+Morda ste nastavili privzeto nadzorno ploščo organizacije tako, da izberete nadzorno ploščo in izberete» Nastavi kot privzeto «pod možnostjo» prilagodi sistem «. Vendar pa bo Nadzorna plošča, določena v Oblikovalniku kazalo, prevladala nad to nadzorno ploščo, če ima uporabnik dostop do njega.
 
-Da imajo uporabniki videli armaturni plošči, ki ste jo nastavili kot privzeti organizacije, lahko bodisi:
+Če želite, da bodo uporabniki videli nadzorno ploščo, ki ste jo nastavili kot privzeto organizacijo, lahko:
 
-* Nastavite to nadzorno ploščo v kazalo
+* Nastavitev nadzorne plošče na zemljevidu
 
-* Odstranjevanje dostopa do kazalo določene nadzorne plošče za tiste uporabnike
+* Odstranitev dostopa do zemljevida, ki je določena za te uporabnike

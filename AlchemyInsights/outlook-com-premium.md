@@ -12,19 +12,19 @@ ms.custom:
 - "1831"
 - "9000243"
 ms.openlocfilehash: ad9d095803fae20865bf0161cf4ddc36f86dbaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545815"
 ---
 # <a name="outlookcom-premium"></a>Outlook.com Premium
 
-**Obstoječe naročnike Premium**
+**Obstoječi Premium naročniki**
 
-- Če že imate Outlook.com Premium Naročnina, čitanje [Outlook.com Premium FAQs](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
+- Če že imate naročnino na Outlook.com Premium, preberite [pogosta vprašanja o Outlook.com Premium](https://support.office.com/article/cd5f03f6-1407-456a-9410-f8f24804746b?wt.mc_id=Office_Outlook_com_Alchemy).
 
-**Novih naročnikov**
+**Novi naročniki**
 
-- Žal, ampak Outlook.com Premium je zdaj zaprt za nove naročnike.
-- Številne [funkcije in koristi](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) so zdaj vključene z [naročnine na Office 365 domov in Office 365 osebne](https://go.microsoft.com/fwlink/?linkid=2017122).
+- Mi smo žal, ampak Outlook.com Premium je zdaj zaprta za nove naročnike.
+- Veliko od [zunanja oblika ter prid](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) ste zdaj vštet s [abomna v urad 365 dom ter urad 365 oseben](https://go.microsoft.com/fwlink/?linkid=2017122).

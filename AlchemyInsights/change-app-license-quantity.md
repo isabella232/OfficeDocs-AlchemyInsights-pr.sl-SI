@@ -1,5 +1,5 @@
 ---
-title: Spremeniti količino dati dovoljenje za app
+title: Spreminjanje količine licence za aplikacijo
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,30 +13,30 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 86a61336da218fb64876401741f4babe8958f64c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519783"
 ---
-# <a name="change-app-license-quantity"></a>Spremeniti količino dati dovoljenje za app
+# <a name="change-app-license-quantity"></a>Spreminjanje količine licence za aplikacijo
 
-Lahko ogledati ali spremeniti števnik od dati dovoljenje ste in dodelite uporabnikom v skrbniškem središču Microsoft 365. 
+Lahko si ogledate ali spremenite število licenc, ki jih imate, in jih dodelite uporabnikom v skrbniškem središču Microsoft 365. 
 
-## <a name="to-change-license-quantity"></a>Če želite spremeniti količino dati dovoljenje
+## <a name="to-change-license-quantity"></a>Spreminjanje količine licence
 
-1. Pojdi na **zaračunavanje** > [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani, nato izberete jeziček **aplikacije** .
+1. Pojdite na stran izdelki za **obračunavanje** > [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) in nato izberite zavihek **aplikacije** .
 
-2. Poiščite in izberite app, ki ga želite upravljati.  
+2. Poiščite in izberite aplikacijo, ki jo želite upravljati.  
 
 3. Izberite **Dodaj/odstrani licence**.
 
-4. Vnesite novo številko licence, potrebne. Na primer, če trenutno ima 5 licenc in šele potreba 4, vnesite 4 v polju **Skupna licence** . Če ste trenutno 5 licenc in potrebujete 10 skupno licenc, vnesite 10 v polje **skupno licence** .
+4. Vnesite novo število potrebnih licenc. Če imate na primer trenutno 5 licenc in potrebujete samo 4, v polje **Skupna dovoljenja** vnesite 4. Če imate trenutno 5 licenc in potrebujete 10 celotnih licenc, v polje **Skupna dovoljenja** vnesite 10.
 
-## <a name="to-assign-app-licenses"></a>Če želite dodeliti dovoljenja app
+## <a name="to-assign-app-licenses"></a>Dodeljevanje licenc za aplikacije
 
-1. Pojdi na **zaračunavanje** > [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani, nato izberete jeziček **aplikacije** .
+1. Pojdite na stran izdelki za **obračunavanje** > [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) in nato izberite zavihek **aplikacije** .
 
-2. Poiščite in izberite app, ki ga želite upravljati.  
+2. Poiščite in izberite aplikacijo, ki jo želite upravljati.  
 
-3. Pod **Nastavitve & dejanja**, izberite povezavo na **upravljanje izdajatelja portalu**.
+3. Pod možnostjo **nastavitve & dejanja**izberite povezavo za **upravljanje v Publisherjevem portalu**.

@@ -1,5 +1,5 @@
 ---
-title: Dodaj skupino na SharePointovo mesto
+title: Dodajanje skupine na SharePointovo mesto
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
 ms.openlocfilehash: c2bb1ce655e994054278927dfe346c0decd09f19
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495227"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Dodaj skupino na SharePointovo mesto
+# <a name="add-a-group-to-a-sharepoint-site"></a>Dodajanje skupine na SharePointovo mesto
 
-Nekaj SharePointovimi mesti skupine (vključno s tistimi, ustvarjena v Microsoft Teams) upravljajo lastniki skupine Office 365. SharePointova mesta in vsebine se lahko delijo tudi, z Office 365 skupine in skupine SharePoint. SharePointovi skupini je zbirka uporabnikov, ki vse imajo isti nabor dovoljenj za mesta in vsebino. Za klasična mesta, vam priporočamo, da dodelite skupine priročno isto raven dovoljenja za veliko ljudi naenkrat, namesto dodeljevanje dovoljenj ena oseba naenkrat.
+Nekatera spletna mesta skupine SharePoint (vključno s tistimi, ki so ustvarjena v programu Microsoft Teams) upravljajo lastniki skupine Office 365. SharePointova mesta in vsebina se lahko delijo tudi s skupinami Office 365 in SharePointovimi skupinami. SharePointova skupina je zbirka uporabnikov, ki imajo enak nabor dovoljenj za spletna mesta in vsebino. Za klasične spletne strani priporočamo, da skupine uporabite za priročno dodeljevanje iste ravni dovoljenja Mnogim ljudem hkrati, namesto da dodelite dovoljenja eni osebi hkrati.
   
-Upravljanje Office 365 člani skupine:
+Upravljanje članov skupine Office 365:
   
-1. Pojdite na [stran skupine v skrbniškem središču Microsoft 365](https://portal.office.com/adminportal/home#/groups).
+1. Pojdite na [stran skupine v skrbniškem središču za Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Izberite skupino za prikaz svojih lastnikov in člani. Dodajanje ali odstranjevanje ljudi, kliknite povezavo **Uredi** v **lastniki** ali **člani** . 
+2. Izberite skupino za ogled lastnikov in članov. Če želite dodati ali odstraniti osebe, kliknite povezavo **Uredi** v vrstici» **lastniki** «ali» **člani** «. 
     
-Deliti mesto komunikacije z Office 365 skupino:
+Skupna raba komunikacijskega mesta s skupino Office 365:
   
-1. Pojdite na spletno stran v brskalniku in kliknite **delež strani** v zgornjem desnem. 
+1. Pojdite na spletno mesto v brskalniku in kliknite **Skupna raba mesta** v zgornjem desnem kotu. 
     
-2. Vnesite ime skupine, in nato izberite raven dovoljenj (branje, urejanje ali popoln nadzor).
+2. Vnesite ime skupine in nato izberite raven dovoljenja (branje, urejanje ali popoln nadzor).
     
-Ustvarite SharePointovo skupino rabiti s klasična stran:
+Ustvarite SharePointovo skupino za uporabo s klasičnim mestom:
   
-1. Pojdite na spletno stran v brskalniku in kliknite nastavitve ikono v zgornjem desnem.
+1. Pojdite na spletno mesto v brskalniku in kliknite ikono nastavitve v zgornjem desnem kotu.
     
-2. Kliknite **Nastavitve mesta**in nato pod **uporabnike in dovoljenja**, kliknite **dovoljenja mesta**.
+2. Kliknite **Nastavitve mesta**, nato pa pod možnostjo **Uporabniki in dovoljenja**kliknite **dovoljenja mesta**.
     
 3. Na kartici dovoljenja kliknite **Ustvari skupino**.
     
-[Mesto classic ekipa vzpostaviti novo skupino Office 365](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Povezovanje klasične skupine mest v novo skupino Office 365](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Želite izvedeti več o delu s SharePointovim skupinam](https://go.microsoft.com/fwlink/?linkid=874658)
+[Preberite več o delu s SharePointovimi skupinami](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

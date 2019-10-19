@@ -1,5 +1,5 @@
 ---
-title: Omogoči zadolžitev Microsoftove
+title: Omogoči Microsoft to-do
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
 ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527559"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>Kako omogočiti Microsoft To-Do
+# <a name="how-to-enable-microsoft-to-do"></a>Kako omogočiti Microsoft to-do
 
-Če želite uporabljati Microsoft To-Do, admin mora omogočati app na vsak uporabniški račun. Pojdi na [storitev &amp; dodatki stran](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) Office 365 strani admin nastavitve omogočiti zadolžitev za vsakega uporabnika. 
+Če želite uporabiti Microsoft to-do, mora skrbnik omogočiti aplikacijo na računu vsakega uporabnika. Pojdite na stran [z &amp; dodatki storitve](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) Office 365 skrbniške nastavitve, da omogočite to-do za vsakega uporabnika. 
   
-To-Do Microsoft uporablja funkcije v storitvi Exchange Online sync in shranjevanje uporabnikov zadolžitvami. Če želite uporabljati Microsoft To-Do, uporabnik potrebuje veljavno nabiralnik Exchange Online.
+Microsoft to-do uporablja funkcije v programu Exchange Online za sinhronizacijo in shranjevanje artiklov uporabnikov. Če želite uporabljati Microsoft to-do, uporabnik potrebuje veljaven nabiralnik Exchange Online.
   
-Za dodatne informacije, glejte [Predogled zadolžitev Microsoftove uprave](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+Če želite več informacij, glejte [skrbništvo za Microsoft to-do preview](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   
- **Opomba**: Če prejmete napako 501, ko poskuša prijaviti v [http://todo.microsoft.com](http://todo.microsoft.com), poskusite [https://to-do.microsoft.com](https://to-do.microsoft.com).
+ **Pismo**če vi sprejemati a 501 zmota čas težaven v poleno v [http://todo.microsoft.com](http://todo.microsoft.com), začeti. [https://to-do.microsoft.com](https://to-do.microsoft.com)
   
 

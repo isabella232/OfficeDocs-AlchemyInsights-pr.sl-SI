@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
 ms.openlocfilehash: 5ac56fa78c66cf3b246bc0cc01f040e27310d629
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527059"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Napaka: AttributeValueMustBeUnique
 
-Najpogostejši razlog za AttributeValueMustBeUnique napaka je dveh predmetov z različnimi SourceAnchor (immutableId) imajo enako vrednost za ProxyAddresses in/ali UserPrincipalName atribute. Popraviti napako AttributeValueMustBeUnique:
+Najpogostejši razlog za atribut» AttributeValueMustBeUnique «je dva predmeta z različnimi SourceAnchor (immutableId) imajo enako vrednost za atribute ProxyAddresses in/ali UserPrincipalName. Če želite popraviti napako» AttributeValueMustBeUnique «:
   
-1. Prepoznavanje podvojiti proxyAddresses, userPrincipalName ali druge vrednosti atributa, ki povzroča napako. Tudi opredelijo dva (ali več) predmetov, ki so vključeni v spor. Poročila, ki ga Azure AD povezavo zdravje za sinhronizacijo lahko prepoznate dveh predmetov.
+1. Prepoznajte podvojeni proxyAddresses, userPrincipalName ali drugo vrednost atributa, ki povzroča napako. Ugotovite tudi, kateri dve (ali več) predmeti so vpleteni v konflikt. Poročilo, ki ga ustvari Azure AD Connect Health za sinhronizacijo, vam lahko pomaga prepoznati dva predmeta.
     
-2. Opredelitev predmeta, ki naj imajo še naprej podvojene vrednosti in predmeta, ki ne bi smela.
+2. Ugotovite, kateri predmet mora še naprej imeti Podvojena vrednost in kateri predmet ne bi smel.
     
-3. Odstranite podvojene vrednosti iz predmeta, ki ne bi smel imeti to vrednost. Upoštevajte, da morate narediti spremembo v imenik, kjer je predmet izvirajo iz. V nekaterih primerih boste morali izbrisati enega od predmetov v konflikt.
+3. Odstranite Podvojena vrednost iz predmeta, ki ne bi smel imeti te vrednosti. Upoštevajte, da bi morali spremeniti v imeniku, od koder je predmet izvirajo. V nekaterih primerih boste morda morali izbrisati enega od predmetov v sporu.
     
-4. Če ste naredili spremembe v prostorih na oglas, naj Azure AD povezave sinhronizirati sprememb za napake, ki se določi.
+4. Če ste naredili spremembo v prostorih oglasa, naj Azure AD Connect sinhronizira spremembo napake, da se določi.
     
 

@@ -1,5 +1,5 @@
 ---
-title: Delež v SharePoint
+title: Skupna raba v SharePointu
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
 ms.openlocfilehash: e9b05de875969ac8fa1876898069f134e2bd96bb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36549487"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>Kako deliti v SharePoint Online
+# <a name="how-to-share-in-sharepoint-online"></a>Kako deliti v SharePoint online
 
-Deliti mesto:
+Če želite deliti spletno mesto:
   
-1. Odprete stran v spletnem brskalniku.
+1. Odprite spletno mesto v spletnem brskalniku.
     
-2. Če mesto pripada skupini Office 365, kliknite ikono v zgornjem desnem, in nato kliknite **stran dovoljenja**. Kliknite **povabite ljudi**, in nato izberite Dodaj člane skupini Office 365 ali delite samo mesto. 
+2. Če mesto pripada skupini Office 365, kliknite ikono nastavitve v zgornjem desnem kotu in nato kliknite **dovoljenja mesta**. Kliknite **povabi osebe**in nato dodajte člane v skupino Office 365 ali pa delite samo mesto. 
     
-    Za mesto sporočilo, kliknite **mesto delež** v zgornjem desnem, vnesite ime osebe in izberite raven dovoljenj (branje, urejanje ali popoln nadzor). 
+    Če želite spletno mesto za komunikacijo, v zgornjem desnem kotu kliknite **Skupna raba mesta** , vnesite ime osebe in nato izberite raven dovoljenja (branje, urejanje ali popoln nadzor). 
     
-    Za mesto classic ekipa, kliknite **Skupna raba** v zgornjem desnem. Vnesite ime osebe, ki jih želite povabiti ali vnesite vse deliti z vsemi v organizaciji. Kliknite **Skupna raba**.
+    Za klasično spletno mesto skupine kliknite **Skupna raba** v zgornjem desnem kotu. Vnesite ime osebe, ki jo želite povabiti, ali vnesite vsi, ki jih želite deliti z vsemi v vaši organizaciji. Kliknite **Skupna raba**.
     
-[Naučite izmenjavati datoteke ali mape](https://go.microsoft.com/fwlink/?linkid=511430)
+[Naučite se deliti datoteko ali mapo](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

@@ -1,5 +1,5 @@
 ---
-title: ConsistencyGuid / sourceAnchor vedenje
+title: Konsistenciin GUID/sourceAnchor obnašanje
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
 ms.openlocfilehash: f0ff94a8e46f1fb4e0ac8653c51f8f651e29498b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36517011"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / sourceAnchor vedenje
+# <a name="consistencyguid--sourceanchor-behavior"></a>Konsistenciin GUID/sourceAnchor obnašanje
 
-Sinje AD Connect (različica 1.1.524.0 in je po) zdaj omogoča uporabo kostno-ConsistencyGuid kot atribut sourceAnchor. Pri uporabi te funkcije, Azure AD povezavo samodejno konfigurira pravili sinhronizacije za:
+Azure AD Connect (različica 1.1.524.0 in pozneje) zdaj olajšuje uporabo msDS-doslednosti GUID kot atribut sourceAnchor. Ko uporabljate to funkcijo, Azure AD Connect samodejno konfigurira pravila sinhronizacije tako, da:
   
-- Uporabite kostno-ConsistencyGuid kot atribut sourceAnchor za uporabniški predmeti. »ObjectGUID «se uporablja za druge vrste predmetov.
+- Uporabite msDS-Konsistenciuuguid kot atribut sourceAnchor za uporabniške predmete. ObjectGUID se uporablja za druge vrste predmetov.
     
-- Za vse krajevne AD uporabniški predmet katerih kostno-ConsistencyGuid atribut ni vneseno, Azure AD povezavo piše vrednost »objectGUID« nazaj do kostno-ConsistencyGuid atributa v krajevnem imeniku Active Directory. Po kostno-ConsistencyGuid atribut je poseljena, Azure AD povezavo nato izvoz predmeta v sinje AD.
+- V katerem koli danem krajevnem uporabniškem predmetu AD, katerega atribut msDS-Konsistencyguid ni poseljen, Azure AD Connect zapiše svojo vrednost objectGUID nazaj v atribut msDS-Konsistencyguid v krajevnem imeniku Active Directory. Ko je atribut msDS-Konsistencyguid naseljen, Azure AD Connect nato izvozi predmet v Azure AD.
     
- **Opomba:** Enkrat krajevni predmet AD je uvozi Azure AD povezavo (namreč uvažajo v prostor za konektor AD in projicirani v Metaverse), svoje sourceAnchor vrednosti ne morete več spremeniti. Določite vrednost sourceAnchor je glede krajevne AD predmet, nastavite njen atribut kostno-ConsistencyGuid, preden jo uvozite v Azure AD povezavo. 
+ **Opomba:** Ko se krajevni predmet oglasa uvozi v Azure AD Connect (to je uvoženo v prostor AD Connector in napovedano v metaverse), ne morete več spreminjati vrednosti sourceAnchor. Če želite določiti vrednost sourceAnchor za dani krajevni predmet oglasa, konfigurirajte atribut msDS-Konsistencyguid, preden ga uvozite v Azure AD Connect. 
   
-Če želite več informacij o SourceAnchor in ConsistencyGuid, bodite pozorni na naslednje: [Azure AD povezavo: oblikovalski](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+Če želite več informacij o SourceAnchor in doslednosti GUID-a, glejte naslednje: [AZURE ad Connect: oblikovalni koncepti](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 
