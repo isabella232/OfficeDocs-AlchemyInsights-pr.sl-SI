@@ -1,5 +1,5 @@
 ---
-title: Word datoteke ni odprt na dvojni
+title: Wordova datoteka se ni odprla na dvokliknem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "850"
 - "2100002"
 ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558201"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Wordov dokument odpre v napačnem app ali ni odprte
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Wordov dokument, odprt v napačni aplikaciji ali pa se ni odprl
 
-Poskusite eno od teh predlogov:
+Preizkusite enega od teh predlogov:
 
-**Izberite besedo kot privzeto**
+**Izberite Word kot privzeto**
 
-- Desni klik na dokument, izberite **Odpri z**in nato izberite **besedo**
+- Z desno miškino tipko kliknite dokument, izberite **Odpri**in nato izberite **Word**
 
-**Teči hitro popravilo**
+**Zaženi hitro popravilo**
 
-1. Pojdi na **Control Panel > programe > programi in funkcije**.
+1. Pojdite na **nadzorno ploščo > programi > programi in funkcije**.
 
-2. Izberite Officeovega izdelka, ki jo želite popraviti, in nato izberite **Change**.
+2. Izberite Officeov izdelek, ki ga želite popraviti, in nato izberite **Spremeni**.
 
-3. Izberite **Hitro popravilo** , in nato izberite **Popravi**.
+3. Izberite možnost **hitro popravljanje** in nato izberite **Popravi**.
 
-**Odstranite različic Officea, ki jih ne uporabljate**
+**Odstranitev različic Officea, ki jih ne uporabljate**
 
-1. Iti k **pregled slika na lesu > Uninstall Program**, in nato izberite različico Officea, ki jih želite odstraniti.
+1. Pojdite na **nadzorno ploščo > odstranite program**in izberite različico Officea, ki jo želite odstraniti.
 
-2. Kliknite **Uninstall**.
+2. Kliknite **Odstrani**.
 
 3. Znova zaženite računalnik.
 
-**Zagon tega svetovalca nastaviti Office pripone razkleniti v pisarni**
+**Zaženite to orodje za odpravljanje težav, če želite nastaviti Officeove razširitve za odpiranje v Officeu**
 
-1. Zagon tega svetovalca: https://aka.ms/diag_officefile.
+1. Zaženite to orodje za https://aka.ms/diag_officefileodpravljanje težav:.
 
-2. Glede na vaš brskalnik, **Odpri** ali **Shrani** svetovalca na namizju in nato **vodijo** .
+2. Glede na brskalnik **odprite** ali **shranite** orodje za odpravljanje težav na namizje in ga **zaženite** .

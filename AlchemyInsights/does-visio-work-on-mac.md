@@ -1,5 +1,5 @@
 ---
-title: Deluje Visio na Mac
+title: Ali Visio deluje v računalniku Mac
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
@@ -13,14 +13,14 @@ ms.custom:
 - "1799"
 - "9000201"
 ms.openlocfilehash: c1c544cf9e9ccafc6623c686e639051af56d32d7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529683"
 ---
-# <a name="does-visio-work-on-a-mac"></a>Deluje Visio na Mac?
+# <a name="does-visio-work-on-a-mac"></a>Ali Visio deluje v računalniku Mac?
 
-Ni nobenega programa Visio pult zakaj Škot. Vendar, dokler uporabnik, ki potrebuje app je [Visio Online licence, dodeljene](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), lahko [pogled, ustvarjanje, in urejanje diagrame v Visio Online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) v spletnem brskalniku.
+Visiovega namiznega programa za Mac ni. Vendar, dokler ima uporabnik, ki potrebuje aplikacijo, [dodeljeno licenco za Visio online](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799), si lahko v spletnem brskalniku [ogledajo, ustvarjajo in urejajo diagrame v Visiu online](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1799) .
   
   

@@ -1,5 +1,5 @@
 ---
-title: XLS datoteka ni odprta na dvojni
+title: Datoteka XLS ni bila odprta na dvokliknem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,38 +12,38 @@ ms.custom:
 - "776"
 - "2100015"
 ms.openlocfilehash: 7d2356ff2c688dd4f1ec1ca3751c45246eae1ba0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530763"
 ---
-# <a name="excel-file-doesnt-open"></a>Excel datoteke ne odpre
+# <a name="excel-file-doesnt-open"></a>Excelova datoteka se ne odpre
 
-Poskusite eno od teh predlogov:
+Preizkusite enega od teh predlogov:
 
-**Izberite Excel privzeto**
+**Izberite Excel kot privzeti**
 
-* Desni klik na delovni list, izberite **Odpri z**in nato izberite **Excel**
+* Z desno miškino tipko kliknite delovni list, izberite **Odpri**in nato izberite **Excel**
 
-**Teči hitro popravilo**
+**Zaženi hitro popravilo**
 
-1. Pojdi na **Control Panel > programe > programi in funkcije**.
+1. Pojdite na **nadzorno ploščo > programi > programi in funkcije**.
 
-2. Izberite Officeovega izdelka, ki jo želite popraviti, in nato izberite **Change**.
+2. Izberite Officeov izdelek, ki ga želite popraviti, in nato izberite **Spremeni**.
 
-3. Izberite **Hitro popravilo** , in nato izberite **Popravi**.
+3. Izberite možnost **hitro popravljanje** in nato izberite **Popravi**.
 
-**Odstranite različic Officea, ki jih ne uporabljate**
+**Odstranitev različic Officea, ki jih ne uporabljate**
 
-1. Iti k **pregled slika na lesu > Uninstall Program**, in nato izberite različico Officea, ki jih želite odstraniti.
+1. Pojdite na **nadzorno ploščo > odstranite program**in izberite različico Officea, ki jo želite odstraniti.
 
-2. Kliknite **Uninstall**.
+2. Kliknite **Odstrani**.
 
 3. Znova zaženite računalnik.
 
-**Zagon tega svetovalca nastaviti Office pripone razkleniti v pisarni**
+**Zaženite to orodje za odpravljanje težav, če želite nastaviti Officeove razširitve za odpiranje v Officeu**
 
-1. Zagon tega svetovalca: https://aka.ms/diag_officefile.
+1. Zaženite to orodje za https://aka.ms/diag_officefileodpravljanje težav:.
 
-2. Glede na vaš brskalnik, **Odpri** ali **Shrani** svetovalca na namizju in nato **vodijo** .
+2. Glede na brskalnik **odprite** ali **shranite** orodje za odpravljanje težav na namizje in ga **zaženite** .

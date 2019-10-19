@@ -1,5 +1,5 @@
 ---
-title: Kje lahko dobim software-as-a-service (SaaS) apps?
+title: Kraj delati jaz zaslužiti software-kot-a-usluga (SaaS) apps?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,12 +13,12 @@ ms.custom:
 - "9000562"
 - "2421"
 ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558561"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Kje lahko dobim software-as-a-service (SaaS) apps iz Microsoftovih partnerjev?
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>Kraj delati jaz zaslužiti software-kot-a-usluga (SaaS) apps s mikroskop združenje?
 
-Uporabniki lahko iskanje, raziskave in nakup SaaS aplikacije iz [AppSource](http://www.appsource.com/).
+Šega moči težnja po, raziskovanje, ter nakup SaaS apps s [Appsource](http://www.appsource.com/).

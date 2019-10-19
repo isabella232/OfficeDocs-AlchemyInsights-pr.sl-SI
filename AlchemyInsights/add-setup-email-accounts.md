@@ -1,5 +1,5 @@
 ---
-title: 764 Dodaj/nastavitev e-poštnih računov
+title: 764 Add/setup e-poštne račune
 ms.author: pdigia
 author: pebaum
 ms.date: 6/8/2018
@@ -12,22 +12,22 @@ ms.custom:
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
 ms.openlocfilehash: 1aa03a534b224c1629b480d53648b4982eebd31a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36660916"
 ---
 # <a name="setup-email-accounts"></a>Nastavitev e-poštnih računov
 
-1. V Outlook, izberite **datoteko** > **Info** > **Dodaj račun**.
+1. V Outlooku, izberite **File** > **info** > **Dodaj račun**.
 
-2. Vpišite vaš e-poštni naslov in izberite **Connect**.
+2. Vnesite svoj e-poštni naslov in nato izberite **vzpostavi povezavo**.
 
-3. Vnesite geslo in izberite **OK**.
+3. Vnesite geslo in nato izberite **v redu**.
 
-4. Lahko ponovite korake, da dodate več računov.
+4. Če želite dodati več računov, lahko ponovite te korake.
 
     > [!NOTE]
-    > Nekaj e-poštnih računov, kot so Gmail, Yahoo, in iCloud, zahtevajo, da nastavite two-factor pristnosti želite uporabljati Outlook za pošiljanje in prejemanje e-pošte. Če želite več informacij, glejte [Dodajanje e-poštni račun v Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
+    > Nekateri e-poštni računi, kot so Gmail, Yahoo in iCloud, zahtevajo, da nastavite preverjanje pristnosti v dveh faktorjih, da uporabite Outlook za pošiljanje in prejemanje e-pošte. Če želite več informacij, glejte [Dodajanje e-poštnega računa v Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) .
   

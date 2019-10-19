@@ -13,23 +13,23 @@ ms.custom:
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
 ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661744"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Odpravljanje težav delegacije v Outlook in Outlook na spletu
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>Odpravljanje težav z delegacijo v Outlooku in Outlooku v spletu
 
 **Odpravljanje težav z orodjem SaRA:**
 
-1. Prenesite in namestite orodje SaRA [tukaj](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-1. Izberite **Outlook**, potem **sem imetje izdaja s svoj koledar**.
-1. Reči **da** za prizadete stroj.
-1. Dodajte e-poštni naslov uporabnika, ki je prizadeta.
-1. Izberite **imam težave z delegat dovoljenja**.
-1. V naslednjo vrstico, če ste oseba, ki daje dovoljenja, nastopiti email ogovor od vaš pooblaščenec. Če ste prejeli dovoljenja in ste pooblaščenec, vnesite e-poštni naslov osebe, ki ti je dal dovoljenja.
-1. V naslednji meni, izberite možnost, ki ustreza vašem scenariju.
-1. V naslednji meni, izberite raven dovoljenj.
-1. Na tej stopnji, SaRA orodje bo avtomatsko preverjajo in to vam bo priskrbel mogoč odložnost ali pa bo diagnostični dnevnik, ki se lahko uporabijo za nadaljnje odpravljanje težav.
-1. Dnevnike najdete v mapi SaRA rezultate, ki se nahajajo na C:\Users\Username\AppData\Local\SaraResults.
+1. Prenesite in namestite SaRA orodje [tukaj](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+1. Izberite **Outlook**, nato pa **Imam težave s koledarjem**.
+1. Recimo **da** za prizadeti stroj.
+1. Dodajte e-poštni naslov prizadetega uporabnika.
+1. Izberite **težave z dovoljenji za delegate**.
+1. Če ste oseba, ki daje dovoljenja, v naslednjem pozivu vnesite e-poštni naslov pooblaščenca. Če ste prejeli dovoljenja in ste pooblaščenec, vnesite e-poštni naslov osebe, ki vam je dala dovoljenja.
+1. V naslednjem meniju izberite možnost, ki ustreza vašemu scenariju.
+1. V naslednjem meniju izberite raven dovoljenja.
+1. Na tej stopnji bo SaRA orodje opravlja avtomatizirane preglede in vam bo z možno resolucijo ali pa bo zagotovila diagnostični dnevnik, ki se lahko uporablja za nadaljnje odpravljanje težav.
+1. Dnevnike najdete v mapi SaRA Results, ki se nahaja na C:\Users\Username\AppData\Local\SaraResults.

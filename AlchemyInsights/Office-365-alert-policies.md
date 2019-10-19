@@ -1,5 +1,5 @@
 ---
-title: 1385-office-365-opozorilo-pravila
+title: 1385-Office-365-opozorilo-pravilniki
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,35 +13,35 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661312"
 ---
-# <a name="office-365-alert-policies"></a>Office 365 Alert pravila
+# <a name="office-365-alert-policies"></a>Pravilniki o opozorilu na Office 365
 
-Office 365 varnost & skladnosti Center ponuja [Opozorilo privzete pravilnike](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , ki sprožijo opozorila za organizacije z naročnino na Office 365 podjetja ali Office 365 nas vlada E1/G1, E3/G3 ali E5/G5. Zato administratorji lahko prikaže opozorilo email obvestilo pošlje Office365Alerts@microsoft.com z vrstico zadeve kot so "majhna tveganja Opozorilo: *ime opozoril politike*". Opozorila so poslana obvestila, ko so opozorila sproži za skupne dejavnosti, na primer uporabniki:
+Urad 365 varnost & skladnost središče oferirati ne [izpolniti obveznosti buden policija](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) to petelin na puški buden zakaj društvo s urad 365 lotitev ali urad 365 nas vlada E1/G1, E3/G3, ali E5/G5 abomna. Zato lahko skrbniki prejmejo opozorilno e-poštno obvestilo, ki ga je poslala Office365Alerts@microsoft.com z zadevo, kot je» opozorilo o nizki resnosti: *ime pravilnika o alarmu*«. Obvestila o opozorilih so poslana, ko so opozorila sprožena za pogoste dejavnosti, na primer pri uporabnikih:
 
-- Ustvarite pravila za prejeto pošto, ki posreduje e-pošto.
-- Dodeljevanje dovoljenj nabiralnika.
-- Delež ali izbrisati veliko število datotek v skupno rabo datotek SharePoint.
-- Ustvarite eDiscovery iskanja in izvozite rezultate iskanja.
+- Ustvarite pravila nabiralnika, ki posredujejo e-pošto.
+- Dodelite dovoljenja njihovemu nabiralniku.
+- Delite ali izbrišite veliko število datotek v SharePointovi skupni rabi datotek.
+- Ustvarite iskanja e-odkrivanja in izvozite rezultate iskanja.
 
-Pregled in deluje na opozorilo:
+Če želite pregledati in ukrepati na razpisu ukrepa:
 
-1. [Varnostno središče & skladnost](https://protection.office.com) in vpisati.
-2. Kliknite **opozorila** > **pogled opozorila**.
-3. Kliknite Opozorilo za prikaz pojavnega stran z informacijami o opozorilu.
+1. Pojdite na [varnostno & središče za skladnost](https://protection.office.com) in se vpišite.
+2. Kliknite opozorila**pogled** **opozoril** > .
+3. Kliknite opozorilo, če želite prikazati pojavno stran z informacijami o opozorilu.
 
-Lahko ukrepa na opozorilo, na primer [odstraniti praviloma sumljivih Prejeto](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Ali lahko preprosto zaprete opozorilo kliknete **rešiti** na strani opozorilo Pojavni meni.
+Dejanje lahko ukrepite na podlagi opozorila, na primer [odstranite sumljivo pravilo nabiralnika](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). Opozorilo lahko preprosto zaprete tako, da kliknete **razreši** na strani za Pojavni meni opozorila.
 
-Če želite več informacij o konfiguraciji in upravljanju opozoril politike, glejte [Ta članek](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+Če želite več informacij o konfiguriranju in upravljanju pravilnikov opozoril, si oglejte [Ta članek](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
 
-**Pomembno**: opozorilo email obvestila iz Microsoft bo nikoli vas prosim, da naredite nekaj od tega:
+**Pomembno**: opozorilna e-poštna obvestila od Microsofta nikoli ne bodo prosila, da naredite naslednje:
 
-- Zagotoviti geslo
-- Preverite varnost podrobnosti računa
-- Ponovno avtentificirati sami
+- Zagotavljanje gesla
+- Preverjanje varnostnih podrobnosti računa
+- Ponovno preverjanje pristnosti
 
-Če prejmete e-poštno sporočilo kot to, to ni bil poslan z mikroskop in obravnavati phishing prevara. Če se to zgodi, prosimo, [prijavite Microsoftu](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+Če prejmete e-poštno sporočilo, kot je ta, ga Microsoft ni poslal in ga je treba obravnavati kot lažno predstavljanje. Če se to zgodi, [to sporočite Microsoftu](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

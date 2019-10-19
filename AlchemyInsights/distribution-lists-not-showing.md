@@ -1,5 +1,5 @@
 ---
-title: Distribucijski seznami ne prikazuje
+title: Seznami prejemnikov, ki se ne prikazujejo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ccb3e76a-557e-42fa-a9fc-95e396a1a74d
 ms.openlocfilehash: a44e4ccd61d34c2514d23e93b202b47c39ac48d0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36530475"
 ---
-# <a name="distribution-group-not-showing-in-groups-list"></a>Ne prikazuje seznamu skupin prejemnikov
+# <a name="distribution-group-not-showing-in-groups-list"></a>Distribucijska skupina se ne prikazuje na seznamu skupine
 
-To lahko traja do 60 minut pred vaš nov seznam prejemnikov se prikaže v središču izmenjavo admin center.
+To moči zalotiti pod vodstvom 60 minuta spredaj vaš nov razdaja zapisati v seznam pokazati se v mena pomoč središče središče.
   
-Če želite dodati člane ali bi druge urejanja zdaj, prosimo, uporabite funkcijo skupine v [Skrbniškem središču za izmenjavo](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+Če želite dodati člane ali narediti druge popravke, uporabite funkcijo skupine v [skrbniškem središču za Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 
