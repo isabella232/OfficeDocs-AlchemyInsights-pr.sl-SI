@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376837"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637793"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>Nadzor nastavitev lobistov in raven udeležbe
 
-Te nastavitve nadzorujejo, kateri Udeleženci sestanka čakajo v preddverju, preden so sprejeti na sestanek, in raven udeležbe, ki so jim dovoljene na sestanku. Z lupino PowerShell lahko posodobite nastavitve pravilnika za sestanke, ki še niso bile izvedene (z oznako» kmalu «) v skrbniškem središču ekip.  Glej spodaj za primer cmdlet PowerShell, ki omogoča vsem uporabnikom, da zaobide lobby.  
+Če želite dovoliti vsem, vključno z dial-in, zunanjimi in anonimnimi Uporabniki, da zaobide preddverje, lahko uporabite PowerShell za to. Tukaj je primer spreminjanja globalne politike srečanja za vašo organizacijo:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+Ta ukaz» cmdlet «trenutno zahteva uporabo modula Skype za podjetja PowerShell. Če želite dobiti nastavitev za uporabo tega ukaza» cmdlet «, si oglejte upravljanje pravilnikov prek lupine PowerShell.
+
+Nastavite lahko novo politiko, ki jo boste nato morali uporabiti za uporabnike. Če spremenite globalno politiko, bo samodejno veljala za uporabnike. Za vsako spremembo pravilnika morate počakati vsaj 4 ure in do 24 ur, da se bodo pravilniki uveljavili.
+
+Bodite prepričani, da pregleda dokumentacijo spodaj, preden te spremembe razumeti, kaj to omogoča.
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Razumevanje ekip, ki izpolnjujejo nadzorne politike lobistov
 
 - [Samodejno priznam](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) , da so ljudje po-organizator politike, ki nadzoruje, ali se ljudje pridružijo srečanju neposredno ali čakati v preddverju, dokler jih ne sprejme overjeni uporabnik.
 
@@ -30,15 +40,4 @@ Te nastavitve nadzorujejo, kateri Udeleženci sestanka čakajo v preddverju, pre
 
 - [Dovolite organizatorjem, da preglasijo nastavitve v preddverju](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**kmalu**) je pravilnik za organizatorja, ki nadzira, ali lahko organizator srečanja preglasi nastavitve v preddverju, ki jih admin Nastavi v **samodejno prizna ljudi** in **Dovoli klicanje uporabnikom, da obidejo preddverje** , ko načrtujete nov sestanek.
 
-**Opomba:** Preberite [upravljanje pravilnikov za sestanke v storitvi Teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) za popoln pregled pravilnikov za sestanke programa Microsoft teams. 
-
-
-**Primer lupine**
-
-Če želite vsem, vključno z zunanjimi ali anonimnimi Uporabniki, dovoliti, da zaobide čakalnico, lahko za dokončanje te naloge uporabite tudi lupino PowerShell.  Tukaj je primer spreminjanja globalne politike srečanja za vašo organizacijo.   
-
-(Bodite prepričani, da pregleda dokumentacijo zgoraj, preden te spremembe razumeti, kaj to omogoča.)
-
-Set-CsTeamsMeetingPolicy-identiteta Global-Autovključitvi Tedusers "vsakdo"-AllowPSTNUsersToBypassLobby $True
-
-Če želite več informacij, glejte [set-CsTeamsMeetingPolicy](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps).
+**Opomba:** Preberite [upravljanje pravilnikov za sestanke v storitvi Teams](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) za popoln pregled pravilnikov za sestanke programa Microsoft teams.
