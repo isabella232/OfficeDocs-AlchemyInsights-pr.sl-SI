@@ -1,9 +1,8 @@
 ---
-title: Shranjevanje SharePoint
+title: Shranjevanje v SharePointu
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 5/17/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 400dba3564aa48d7141f674dddea86cc39e2ba0a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
+ms.sourcegitcommit: f1493a9eea7bb6df2a284adecf4349fc6416958f
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502744"
+ms.lasthandoff: 10/24/2019
+ms.locfileid: "37658273"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a>Upravljanje SharePoint Online shranjevanje
+# <a name="manage-your-sharepoint-online-storage"></a>Upravljanje shrambe za SharePoint online
 
-Večini organizacij, shranjevanje SharePoint upravlja samodejno tako da vam ni treba nastaviti omejitev na zbirke mest. Preverite, koliko prostora SharePoint morate:
-  
-- V novo SharePoint admin center, v zgornjem desnem kotu strani strani, Poglej za vaš pri roki in skupno skladiščenje.
+Preberite [, kako je shramba najemnika izračunana](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) glede na vaš načrt.
 
-Informacije o tem, kako se izračuna mapama, glejte [SharePoint Online meje](https://go.microsoft.com/fwlink/p/?LinkID=856113). Za nakup dodatne shrambe, glej [spremembo prostora za vašo naročnino](https://go.microsoft.com/fwlink/?linkid=866428).
-  
-Informacij o spremljanju skladiščenje posameznih območij z uporabo PowerShell in upravljanje shrambe zbirke stran ročno, glejte [upravljanje mesta zbiranja skladiščne](https://go.microsoft.com/fwlink/?linkid=867833)
+Za večino organizacij je shranjevanje v SharePointu samodejno upravljano, zato vam ni treba nastaviti omejitev na zbirko mest.
+
+Preberite več [o ogledu skupnega in razpoložljivega prostora za shranjevanje v organizaciji](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).
+
+Naučite se [upravljati posamezne omejitve shrambe za zbirko mest](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
+
+Če je vaše spletno mesto izven prostora ali če želite izvedeti, katera knjižnica ali seznam uporablja prostor, odprite > **meritve shrambe za** **Nastavitve mesta**(skrbniške pravice za zbirko mest so potrebne).
+
+Preberite, kako [nadzirate omejitve shranjevanja mesta z uporabo lupine PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
+
+Preberite več o [nakupu dodatnega shranjevanja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
   
