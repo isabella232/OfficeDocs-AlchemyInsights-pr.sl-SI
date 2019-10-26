@@ -11,25 +11,25 @@ ms.custom:
 - "2009"
 ms.assetid: ''
 ms.openlocfilehash: 197366882468ebc87fc26f2fe2733371790d1871
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36747801"
 ---
-# <a name="access-services-retirement"></a><span data-ttu-id="ef4ea-102">Upokojitev za dostop do storitev</span><span class="sxs-lookup"><span data-stu-id="ef4ea-102">Access services retirement</span></span>
+# <a name="access-services-retirement"></a><span data-ttu-id="901af-102">Upokojitev za dostop do storitev</span><span class="sxs-lookup"><span data-stu-id="901af-102">Access services retirement</span></span>
 
-<span data-ttu-id="ef4ea-103">Kot smo sprva napovedala v MC97576, marec 2017, in še naprej komunicirati v zadnjem letu Access Services so upokojeni iz urada 365.</span><span class="sxs-lookup"><span data-stu-id="ef4ea-103">As we originally announced in MC97576, in March 2017, and continued to communicate over the past year Access Services are being retired from Office 365.</span></span> <span data-ttu-id="ef4ea-104">Naslednja faza v tem procesu bo odstranitev Accessove spletne zbirke podatkov, ki uporabljajo SharePointove sezname kot osnovno shrambo podatkov.</span><span class="sxs-lookup"><span data-stu-id="ef4ea-104">The next phase in this process will be the removal of Access Web Databases that use SharePoint lists as their underlying data storage.</span></span>
+<span data-ttu-id="901af-103">Kot smo sprva napovedala v MC97576, marec 2017, in še naprej komunicirati v zadnjem letu Access Services so upokojeni iz urada 365.</span><span class="sxs-lookup"><span data-stu-id="901af-103">As we originally announced in MC97576, in March 2017, and continued to communicate over the past year Access Services are being retired from Office 365.</span></span> <span data-ttu-id="901af-104">Naslednja faza v tem procesu bo odstranitev Accessove spletne zbirke podatkov, ki uporabljajo SharePointove sezname kot osnovno shrambo podatkov.</span><span class="sxs-lookup"><span data-stu-id="901af-104">The next phase in this process will be the removal of Access Web Databases that use SharePoint lists as their underlying data storage.</span></span>
 
-<span data-ttu-id="ef4ea-105">**Kako to vpliva name?**</span><span class="sxs-lookup"><span data-stu-id="ef4ea-105">**How does this affect me?**</span></span>
+<span data-ttu-id="901af-105">**Kako to vpliva name?**</span><span class="sxs-lookup"><span data-stu-id="901af-105">**How does this affect me?**</span></span>
 
-<span data-ttu-id="ef4ea-106">Začenši junij 2019, bomo prenehali ustvarjanje novih Accessove zbirke podatkov v SharePoint online in zaustavite storitev in vse preostale aplikacije do aprila 2020.</span><span class="sxs-lookup"><span data-stu-id="ef4ea-106">Starting June 2019, we will stop creation of new Access databases in SharePoint Online and shut down the service and any remaining apps by April 2020.</span></span>
+<span data-ttu-id="901af-106">Začenši junij 2019, bomo prenehali ustvarjanje novih Accessove zbirke podatkov v SharePoint online in zaustavite storitev in vse preostale aplikacije do aprila 2020.</span><span class="sxs-lookup"><span data-stu-id="901af-106">Starting June 2019, we will stop creation of new Access databases in SharePoint Online and shut down the service and any remaining apps by April 2020.</span></span>
 
-<span data-ttu-id="ef4ea-107">**Kaj moram storiti, da se pripravim na to spremembo?**</span><span class="sxs-lookup"><span data-stu-id="ef4ea-107">**What do I need to do to prepare for this change?**</span></span>
+<span data-ttu-id="901af-107">**Kaj moram storiti, da se pripravim na to spremembo?**</span><span class="sxs-lookup"><span data-stu-id="901af-107">**What do I need to do to prepare for this change?**</span></span>
 
-<span data-ttu-id="ef4ea-108">Spodbujamo vas, da ustvarite prehodni načrt za Accessove spletne zbirke podatkov organizacije.</span><span class="sxs-lookup"><span data-stu-id="ef4ea-108">We encourage you to create a transition plan for your organization’s Access web databases.</span></span> <span data-ttu-id="ef4ea-109">Skrbniki lahko s [skenerjem aplikacije SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) pridobijo popis Accessove aplikacije, ki jih uporabljajo spletna mesta.</span><span class="sxs-lookup"><span data-stu-id="ef4ea-109">Admins can use the [SharePoint Access app scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) to obtain an inventory of the Access apps that sites are using.</span></span>
+<span data-ttu-id="901af-108">Spodbujamo vas, da ustvarite prehodni načrt za Accessove spletne zbirke podatkov organizacije.</span><span class="sxs-lookup"><span data-stu-id="901af-108">We encourage you to create a transition plan for your organization’s Access web databases.</span></span> <span data-ttu-id="901af-109">Skrbniki lahko s [skenerjem aplikacije SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) pridobijo popis Accessove aplikacije, ki jih uporabljajo spletna mesta.</span><span class="sxs-lookup"><span data-stu-id="901af-109">Admins can use the [SharePoint Access app scanner](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) to obtain an inventory of the Access apps that sites are using.</span></span>
 
-<span data-ttu-id="ef4ea-110">Podatke Accessove spletne zbirke podatkov lahko preselite na več načinov:</span><span class="sxs-lookup"><span data-stu-id="ef4ea-110">There are several ways to migrate Access web databases data:</span></span>
+<span data-ttu-id="901af-110">Podatke Accessove spletne zbirke podatkov lahko preselite na več načinov:</span><span class="sxs-lookup"><span data-stu-id="901af-110">There are several ways to migrate Access web databases data:</span></span>
 
-- <span data-ttu-id="ef4ea-111">Uvoz v lokalno Accessovo zbirko podatkov (. ACCDB) ali v Excelovo datoteko.</span><span class="sxs-lookup"><span data-stu-id="ef4ea-111">Importing to a local Access database (.ACCDB) or to an Excel file.</span></span>
-- <span data-ttu-id="ef4ea-112">Priporočamo tudi raziskovanje Microsoft PowerApps kot alternativne platforme za ustvarjanje brez kode poslovnih rešitev za spletne in mobilne naprave.</span><span class="sxs-lookup"><span data-stu-id="ef4ea-112">We also recommend exploring Microsoft PowerApps as an alternative platform to create no-code business solutions for web and mobile devices.</span></span>
+- <span data-ttu-id="901af-111">Uvoz v lokalno Accessovo zbirko podatkov (. ACCDB) ali v Excelovo datoteko.</span><span class="sxs-lookup"><span data-stu-id="901af-111">Importing to a local Access database (.ACCDB) or to an Excel file.</span></span>
+- <span data-ttu-id="901af-112">Priporočamo tudi raziskovanje Microsoft PowerApps kot alternativne platforme za ustvarjanje brez kode poslovnih rešitev za spletne in mobilne naprave.</span><span class="sxs-lookup"><span data-stu-id="901af-112">We also recommend exploring Microsoft PowerApps as an alternative platform to create no-code business solutions for web and mobile devices.</span></span>
