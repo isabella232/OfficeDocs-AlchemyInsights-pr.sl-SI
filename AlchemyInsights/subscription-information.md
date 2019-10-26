@@ -1,5 +1,5 @@
 ---
-title: Podatki o prijavi
+title: Informacije o naročnini
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,29 +13,29 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5b24fbd56cb410265f19a0c06a37c40392c72731
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501262"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "36576892"
 ---
-# <a name="subscription-information"></a>Podatki o prijavi
+# <a name="subscription-information"></a>Informacije o naročnini
 
-Za informacije o Office 365 naročnine, imate v skrbniškem središču, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
+Če želite več informacij o naročnini, pojdite na stran izdelki za **obračunavanje** \> [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) .
   
-Ključne informacije o vsaki naročnine:
+Ključne informacije o vsaki naročnini:
   
 - Stanje vsakega
 
-- Licenc, kupiti
+- Kupljene licence
 
-- Licence, dodeljene
+- Dodeljene licence
 
-- Stanje ponavljajočih zaračunavanja
+- Stanje ponavljajočega se obračunavanja
 
-- Ravnovesje
+- Ravnotežje
 
 - Način plačila
 
-- Naslednji datum zaračunavanja ali potek
+- Naslednje obračunavanje ali datum poteka
