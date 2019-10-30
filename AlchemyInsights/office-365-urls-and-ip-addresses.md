@@ -1,5 +1,5 @@
 ---
-title: Office 365 URL in IP naslovi
+title: Office 365 URL-ji in naslovi IP
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,13 +14,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: d4cb6e1b2db4fa44305600163cc6bb173972c0a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 31d32b007e478afe74554f96529248ccb709f570
+ms.sourcegitcommit: 0fb0a4c9ac5aa2b9d0d9dcce2dba2d2f343b5847
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522051"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37775331"
 ---
-# <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 URL in IP naslov razponi
+# <a name="office-365-urls-and-ip-address-ranges"></a>Office 365 URL-ji in obsegi naslovov IP
 
-Office 365 zahteva povezavo z internetom. Končne točke tega člena, [Office 365 URL in IP naslov razponi](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service), morajo biti dosegljiv uporabniki dostop Office 365.
+Office 365 zahteva povezljivost z internetom prek določenih IP naslovov, imenovanih *opazovani dogodki*.
+Če želite seznam končnih točk, ki jih je treba dosegat, glejte razdelek [URL-ji Office 365 in obsegi naslovov IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+
+Spletna storitev Office 365 IP Address in URL vam pomaga bolje prepoznati in razlikovati omrežni promet sistema Office 365, kar olajša ocenjevanje, konfiguriranje in bivanje na tekočem s spremembami. Glejte [spletno storitev Office 365 IP naslov in URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).

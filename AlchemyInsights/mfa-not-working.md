@@ -11,15 +11,15 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36545197"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768853"
 ---
-# <a name="issues-with-mfa"></a>Težave z MFP
-So nekaj stvari v ček če uporabnik ne morem prepričevalnost using mnogo-činitelj Authentication (MFA)
+# <a name="issues-with-azure-mfa"></a>Težave s storitvijo Azure MFA
+Obstaja nekaj stvari, ki jih je treba preveriti, če se uporabniki ne morejo prijaviti z uporabo večfaktorskega preverjanja pristnosti (MFP)
 
 1. Prizadeti uporabnik je morda blokiran v portalu Azure Active Directory. V tem primeru bodo poskusi preverjanja pristnosti za tega določenega uporabnika samodejno zavrnjeni. [Prosimo, upoštevajte navodila v tem članku, da jih odblokirate.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 

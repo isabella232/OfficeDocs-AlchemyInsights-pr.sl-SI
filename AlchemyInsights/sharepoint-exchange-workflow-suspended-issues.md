@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 4c0220dd2535a1ef41aeef99e2bfc3fe28bac03a
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 5e61491b626bfe75fd26a15ee54be82d9efa19a7
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36751688"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766907"
 ---
 # <a name="workflows-in-sharepoint"></a>Poteki dela v SharePointu
 
 Če SharePointovi poteki dela ne pošiljajo e-poštnih sporočil, je morda vaša organizacija naletela na omejitve pošiljatelja Exchange Online.
 
-Sporočilo o napaki» potek dela je Prekineno «se lahko pojavi, če imate enega od teh elementov:
+Sporočilo o napaki» potek dela je zaustavljeno «se lahko pojavi, če imate eno od teh elementov:
 
 - V programu SharePoint online poteka potek dela, ki uporablja vrsto platforme za potek dela SharePoint 2010 ali SharePoint 2013.
 

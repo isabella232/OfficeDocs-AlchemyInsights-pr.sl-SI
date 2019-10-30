@@ -1,8 +1,7 @@
 ---
-title: 1800021 kako tvoriti a pravilo v Outlook za Mac
+title: 1800021 kako ustvariti pravilo v Outlooku za Mac
 ms.author: supravee
 author: supravee
-ms.date: 7/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +10,22 @@ ms.custom:
 - "923"
 - "1800021"
 ms.assetid: e3b275ac-09b6-47de-94d2-cf3e29cef446
-ms.openlocfilehash: 117abe766b7831d38b861a218a539c7487c5a67a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 80e1bba8b07b13077a984699353adfca9d56f0e0
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36541133"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769103"
 ---
-# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Kako tvoriti a pravilo v Outlook za Mac
+# <a name="how-to-create-a-rule-in-outlook-for-mac"></a>Kako ustvariti pravilo v programu Outlook za Mac
 
-1. Za ustvarjanje mape za e-poštna sporočila, poslana s pravilom, izberite nabiralnik koren, zavihek **Organiziraj** , kliknite **Nova mapa**, natipkajte ime mape in pritisnite Enter.
+1. Če želite ustvariti mapo, ki bo imela e-poštna sporočila, poslana po pravilu, izberite korenski nabiralnik, na **Organiziraj** jeziček, kliknite **Nova mapa**, vnesite ime mape in pritisnite ENTER.
 
-    Če ste 
+2. Na seznamu sporočil kliknite e-poštno sporočilo, za katerega želite ustvariti pravilo.
 
-2. Na seznamu sporočil kliknite e-poštno sporočilo, ki mu želite o ustvarite pravilo.
+3. Na kartici **osnovno** kliknite **pravila**in nato kliknite **ustvari pravilo**.
 
-3. Zavihek **Domov** , kliknite **pravila**in nato kliknite **Ustvari pravilo**.
+4. Pod pogojem, da **novo sporočilo prispe** uredite merila, ki ustrezajo vašim potrebam. 
 
-4. Pod **Ko prispe novo sporočilo** Uredi merila, da ustrezajo vašim potrebam. 
-
-Podrobna navodila o ustvarjanju pravil, po meri, glejte [Ustvarjanje pravilo v Outlook za Mac](https://aka.ms/AA1uy0v)
+Če želite podrobna navodila za ustvarjanje pravil po meri, glejte [Ustvarjanje pravila v programu Outlook for Mac](https://aka.ms/AA1uy0v)
   

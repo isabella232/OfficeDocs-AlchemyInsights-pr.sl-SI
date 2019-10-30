@@ -1,9 +1,8 @@
 ---
-title: 713 dodatni e-poštni naslov dodate seznam prejemnikov
+title: 713 dodajanje dodatnega e-poštnega naslova na distribucijski seznam
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494795"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766223"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>Dodajte e-poštni naslov za skupino prejemnikov
+# <a name="add-an-email-address-for-a-distribution-group"></a>Dodajanje e-poštnega naslova za skupino prejemnikov
 
-Dodati naslove za obstoječo skupino prejemnikov, sledite tem korakom:
+Če želite dodati e-poštne naslove za obstoječo distribucijsko skupino, sledite tem korakom:
 
-1. V [skrbniškem središču za izmenjavo](https://outlook.office365.com/ecp/), iti **prejemniki** \> **skupine**.
+1. V [skrbniškem središču za Exchange](https://outlook.office365.com/ecp/)pojdite na **** \> **skupine**prejemnikov.
 
-2. Izberite skupino prejemnikov, ki ga želite spremeniti, in nato kliknite **Uredi**.
+2. Izberite skupino prejemnikov, ki jo želite spremeniti, in kliknite **Uredi**.
 
-3. Lastnosti skupine, pojdite na jeziček **možnosti Email** dodati e-poštni naslovi. 
+3. V lastnostih skupine pojdite na zavihek **možnosti e-pošte** , da dodate e-poštne naslove. 
 
 Če želite več informacij, glejte [možnosti e-pošte](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).

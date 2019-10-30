@@ -1,9 +1,8 @@
 ---
-title: Nov naroènino s zmnožek zakleniti
+title: Aktiviranje nove naročnine s ključem izdelka
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: e371f550f7dd8e1716f55cbabfff2ae598c9a47d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495659"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766403"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a>Nov naroènino s zmnožek zakleniti
+# <a name="activate-a-new-subscription-with-a-product-key"></a>Aktiviranje nove naročnine s ključem izdelka
 
-1. V activate nov abomna s vaš zmnožek zakleniti, iti na [https://office.com/setupkey](https://office.com/setupkey) strani.
+1. V activate a nov urad 365 abomna s vaš zmnožek zakleniti, [https://office.com/setupkey](https://office.com/setupkey)iti k.
 
-2. Vnesite ključ izdelka za Office 365 in sledite pozivom komu activate vaš abomna. Če imate težave z aktiviranjem, odjaviti ta [seznam skupnih proizvodov ključne napake in rešitve](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. Vnesite svoj ključ izdelka Office 365 in sledite navodilom za aktiviranje naročnine. Če imate težave z aktiviranjem, si oglejte ta [seznam pogostih napak in rešitev ključa izdelka](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).

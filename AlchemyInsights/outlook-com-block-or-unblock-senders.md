@@ -1,5 +1,5 @@
 ---
-title: Blokiranje ali deblokiranje pošiljateljev v Outlook.com
+title: Blokiranje ali odblokiranje pošiljateljev v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,29 +15,29 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: b4c2aeca8eec19487fec6957ba42df2a80c0da20
-ms.sourcegitcommit: 7a95ae38cfceb6c9d8218a50c3ce026fe506530e
+ms.openlocfilehash: af1daa00bbb2ec93622ac8f4dc9004bb3b65b761
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/27/2019
-ms.locfileid: "36643710"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768744"
 ---
-# <a name="block-or-unblock-senders"></a>Blokiranje ali deblokiranje pošiljateljev
+# <a name="block-or-unblock-senders"></a>Blokiranje ali odblokiranje pošiljateljev
 
-Sporočila iz e-poštnih naslovov ali domen na blokirani pošiljatelji iti neposredno v mapo Neželena e-pošta. E-pošte se samodejno odstrani iz mape neželena e-pošta po 30 dneh in ga ni mogoče obnoviti. Se; ect element za prikaz, ko bo odstranjen.
+Sporočila iz e-poštnih naslovov ali domen na blokiranih pošiljateljih gredo neposredno v mapo Outlookove neželene e-pošte. E-pošta se samodejno odstrani iz mape neželena e-pošta po 30 dneh in se ne povrne. Izberite element, ki ga želite videti, ko bo odstranjen.
 
-**Iz mape inbox:**
+**Iz mape» Prejeto «:**
 
-- Na seznamu sporočil, izberite sporočilo in izberite **neželeno** > **blok**.
-- **Opomba:** Blokiranje element že v mapi Junk Email hoteti ne izbrisati to.
+- Na seznamu sporočil Izberite sporočilo in nato izberite**blok** **junk** > .
+- **Opomba:** Če blokirate element, ki je že v mapi» Neželena e-pošta «, ga ne boste izbrisali.
 
-**Od nastavitve:**
+**Iz nastavitve:**
 
 1. Odprite nastavitve [neželene e-pošte](https://outlook.live.com/mail/options/mail/junkEmail) .
-2. **Blokirani pošiljatelji in domene**, izberite **Dodaj**.
-3. Vnesite e-poštni naslov domene, ki jo želite blokirati, in pritisnite Enter.
+2. Pod **blokiranimi pošiljatelji in domenami**izberite **Dodaj**.
+3. Vnesite e-poštni naslov domene, ki jo želite blokirati, in pritisnite ENTER.
 4. Izberite **Shrani**.
 
-Odblokirati pošiljatelja, izberite ikono smeti ob e-poštni naslov ali domeno, ki ga želite deblokirati.
+Če želite odblokirati pošiljatelja, izberite ikono smetnjaka Poleg e-poštnega naslova ali domene, ki jo želite odblokirati.
 
-Če želite izvedeti več, glejte [Označi e-pošto kot neželeno ali blok pošiljateljev v Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Če želite izvedeti več, glejte [označite e-poštno sporočilo kot neželeno ali blokiraj pošiljatelje v Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

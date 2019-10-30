@@ -1,9 +1,8 @@
 ---
-title: 714 dopustitev zunanjih pošiljateljev email seznami prejemnikov
+title: 714 omogočanje zunanjim pošiljateljem na sezname prejemnikov e-pošte
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 1978e27e605c124299e5737315e7e2926e7238c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506567"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768240"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Omogočajo zunanjih pošiljateljev skupinam prejemnikov sporočila
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Dovoli zunanjim pošiljateljem pošiljanje sporočil skupinam prejemnikov
 
-Če uporabniki zunaj podjetja prikaže napake, ko so pošiljanje sporočil na distribucijske skupine, ali želite preveriti, da so vaše skupine prejemnikov konfiguriran za prejemanje pošte iz zunanjih pošiljateljev, sledite tem korakom:
+Če uporabniki zunaj vaše organizacije prejmejo napake, ko pošiljajo sporočila v skupine prejemnikov, ali pa želite preveriti, ali so vaše distribucijske skupine konfigurirane za prejemanje pošte iz zunanjih pošiljateljev, sledite tem korakom:
 
-1. Iti vozlišča **skupin** v [skrbniškem portalu Office 365](https://portal.office.com/adminportal/home#/groups).
+1. V skrbniškem središču za Office 365 pojdite[na stran skupine](https://portal.office.com/adminportal/home#/groups) **skupin** > .  
 
-2. Izberite skupino prejemnikov, in na skupino lastnosti letijo ven ki se prikaže, kliknite **Uredi** v razdelku, ki vsebuje **omogočajo zunanjih pošiljateljev**.
+2. Izberite distribucijsko skupino in v podoknu lastnosti skupine izberite zavihek **Nastavitve** .
 
-3. V **Urejanje podrobnosti** letijo ven ki se prikaže, preverite, da **lahko ljudje zunaj moje organizacije pošljite e-pošto tej skupini prejemnikov.** je **na**, in nato kliknite **Shrani**.
+3. Izberite **Dovoli zunanjim pošiljateljem, da e-poštno sporočilo to skupino**, in nato izberite **Shrani**.

@@ -2,19 +2,18 @@
 title: 'Napaka 404: datoteke ni bilo mogoče najti'
 ms.author: efrene
 author: efrene
-ms.date: 9/18/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: d05755133bd3e335bea74c69f599b66e1c6017da
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36740229"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769283"
 ---
-# <a name="error-404-file-not-found"></a>Napaka 404: datoteke ni bilo mogoče najti
+# <a name="error-404-file-not-found-in-sharepoint-or-onedrive"></a>Napaka 404: datoteke ni mogoče najti v SharePointu ali storitvi OneDrive
 
 **Napaka 404: datoteka ni bila najdena** , ko uporabniki poskušajo dostopati do mesta ali datoteke v SharePointu ali storitvi OneDrive. To pogosto povzroča mesto ali datoteka ali skupina, ki se preimenuje, premakne ali izbriše.
 Uporabnik hoteti doživetje zmota čas poskus v postranski trš položaj zbirjanje ter je been izbrisati.

@@ -1,8 +1,7 @@
 ---
-title: Spreminjanje velikosti sporočilo ali Prilogo
+title: Spreminjanje velikosti sporočila ali Priloge
 ms.author: pebaum
 author: pebaum
-ms.date: 6/8/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +10,19 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: 7c891034ac8d41bca4c4ee32130bcff306f9ed24
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520683"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769679"
 ---
-# <a name="changing-message-or-attachment-size"></a>Spreminjanje velikosti sporočilo ali Prilogo
+# <a name="changing-message-or-attachment-size"></a>Spreminjanje velikosti sporočila ali Priloge
 
-Kot Office 365 admin, lahko spremenite največjo / najmanjšo velikost sporočil (ki vključujejo Priloge) vaše pošte poslane. To lahko storite za posameznim uporabnikom ali vsem uporabnikom (organizacija privzeto). Ko spremenite to nastavitev, traja približno 30 minut, da začne veljati.
+Kot skrbnik sistema Office 365 lahko spremenite najvišjo/najmanjšo velikost sporočil (ki vključuje Priloge), ki jih uporabniki pošljejo. To lahko storite za posamezne uporabnike ali vse uporabnike (privzeta organizacija). Ko spremenite to nastavitev, traja približno 30 minut, da začne veljati.
   
-- Če želite spremeniti velikost sporočila za določenega uporabnika, pojdite na **Admin centri** \> **izmenjavo** \> **prejemniki** \> **nabiralnikov**. Izberite nabiralnik uporabnika. Kliknite ikono za urejanje, nato pod **Omejitve velikosti sporočila**, izberite **pogled podrobnosti** in določite novo velikost največje sporočila.
+- Če želite spremeniti velikost sporočila za določenega uporabnika, pojdite v **skrbniške Centre** \> **Exchange** \> **prejemnikov** \> **nabiralnike**. Izberite uporabnikovo nabiralnik. Izberite ikono za urejanje, izberite **funkcije nabiralnika**in nato pod **omejitve velikosti sporočila**izberite **Ogled podrobnosti** in določite novo največjo velikost sporočila.
 
-- Zvedeti kako v sprememba to za vse nabiralnike, preberite [Ta članek](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- Če želite izvedeti, kako to spremeniti za vse nabiralnike, si oglejte [Ta članek](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 
-- O mejne vrednosti, z uporabo Outlook ali Outlook v spletu, glejte [Ta članek](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile je omejeno na 25MB. Da bi dobili Outlook iOS in Android podporo, [Kliknite tukaj](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
+- Če želite prebrati o najvišjih omejitvah z Outlookom ali Outlookom v spletu, si oglejte [Ta članek](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook Mobile ima najvišjo mejo 25MB. Če želite dobiti podporo za Outlook iOS in Android, [Kliknite tukaj](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).

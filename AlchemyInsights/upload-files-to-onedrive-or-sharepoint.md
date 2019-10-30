@@ -1,5 +1,5 @@
 ---
-title: Upload pila v OneDrive ali SharePoint
+title: Nalaganje datotek v OneDrive ali SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532527"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769895"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>Upload pila v OneDrive ali SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Nalaganje datotek v OneDrive ali SharePoint
 
-1. V spletnem brskalniku, pojdite na mesto, kjer želite, da nalaganje datotek.
+1. V spletnem brskalniku pojdite na mesto, kamor želite naložiti datoteke.
     
-2. Plan pila raziskovalec in prebrskajte do datoteke, ki jo želite prenesti.
+2. Odprite raziskovalec datotek in prebrskajte do datotek, ki jih želite naložiti.
     
-3. Izberite datoteke in jih povlecite na želeno mesto v OneDrive ali SharePoint. Opomba: Če uporabljate Microsoft Edge, Mozilla FireFox ali Google Chrome, lahko tudi naložite mapo in vse datoteke v njej.
+3. Izberite datoteke in jih povlecite na mesto v storitvi OneDrive ali SharePoint. Opomba: Če uporabljate Microsoft Edge, Mozilla FireFox ali Google Chrome, lahko tudi naložite mapo in vse datoteke v njej.
     
-> [!NOTE]
->  Lahko nalaganje datotek do 15 GB po velikosti. > celotno pot za datoteko (tudi ime datoteke), ne more biti več kot 400 znakov. >, če morate naložiti več kot 100 datotek, [uporabite odjemalca za sinhronizacijo OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
+**Opombe:**
+- Lahko naložite datoteke do 15 GB v velikosti. 
+- Celotna pot datoteke (vključno z imenom datoteke) ne more biti več kot 400 znakov v dolžini. 
+- Če morate naložiti več kot 100 datotek, [uporabite odjemalca za sinhronizacijo storitve OneDrive](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

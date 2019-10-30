@@ -1,9 +1,8 @@
 ---
-title: Vprašanje o licence
+title: Vprašanje o dovoljenjih
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +12,19 @@ ms.custom:
 - "491"
 - "1500032"
 ms.assetid: b69fea1b-0542-4b75-bea0-53d7be294e7a
-ms.openlocfilehash: bc7a921e107b0514e7b922dc146196dc1aff537b
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f4a3aa0f932f9f87175b1b67e16c8186e90d1c7b
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666676"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768636"
 ---
-# <a name="questions-about-your-office-365-license"></a>Vprašanja o licenca za Office 365
+# <a name="questions-about-your-office-365-license"></a>Vprašanja o licenci za Office 365
 
-Če želite vedeti, koliko licence, ki ste ga kupili, ali koliko licence so dodeljena iz naročnino:
+Če želite vedeti, koliko licenc ste kupili ali koliko licenc je dodeljenih iz naročnine:
   
-1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
+1. V skrbniškem središču odprite stran **Obračunavanje** \> [Izdelki in storitve](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Poišči naročnino, ki želite izvedeti več o tem. Lahko vidite število licenc, plačaš zakaj in koliko so na voljo dodeljena.
+2. Poiščite naročnino, o kateri želite izvedeti več. Ogledate si lahko število licenc, ki jih plačate, in koliko jih je na voljo za dodeljeno.
 
-Če želite dodati več licenc, ali če imate preveč veliko, izberite **Dodaj/odstrani licence** prilagoditi znesek kupljene.
+Če želite dodati več licenc ali če imate preveč, izberite **Dodaj/odstrani licence** za prilagoditev kupljenega zneska.

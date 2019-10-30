@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: fc222b2ea469f4f4d5233e87f7c9fd291bb5794c
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 39efd34a8eb163758bcb2ac9a3d45c3fac9b67d2
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344218"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768889"
 ---
 # <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Nameščanje ekip kot samostojnih ali z novimi ali obstoječimi Officeovimi namestitvami
 
-Mikroskop skupina je zdaj vštet kot del od *nov umestitev* od urad 365 Proplus, urad 365 posel, ter urad zakaj Škot. Če želite več informacij, glejte [Kdaj bo Microsoft Teams začel biti vključen v nove namestitve Officea?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams je vključen kot del *novih naprav* sistema Office 365 proplus, Office 365 Business in Office for Mac. Če želite več informacij, glejte [Kdaj bo Microsoft Teams začel biti vključen v nove namestitve Officea?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
 Poleg tega, začenši z različico 1906 v mesečnem kanalu, bodo ekipe *dodane obstoječim napravam* Office 365 proplus (in Office 365 Business) v napravah s sistemom Windows, ko posodobite obstoječo namestitev na najnovejšo različico. Če želite več informacij, preberite [kaj o obstoječih namestitvah Officea?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
