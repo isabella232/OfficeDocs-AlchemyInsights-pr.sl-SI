@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
 ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36515931"
 ---
-# <a name="create-a-site"></a><span data-ttu-id="706ac-102">Ustvarjanje spletnega mesta</span><span class="sxs-lookup"><span data-stu-id="706ac-102">Create a site</span></span>
+# <a name="create-a-site"></a><span data-ttu-id="93d7e-102">Ustvarjanje spletnega mesta</span><span class="sxs-lookup"><span data-stu-id="93d7e-102">Create a site</span></span>
 
-<span data-ttu-id="706ac-103">Ustvarite lahko različne vrste mest v SharePoint online.</span><span class="sxs-lookup"><span data-stu-id="706ac-103">You can create different types of sites in SharePoint Online.</span></span> <span data-ttu-id="706ac-104">Če želite izvedeti, kako to naredite v novem skrbniškem središču SharePoint, glejte [Ustvarjanje spletnega mesta](https://go.microsoft.com/fwlink/?linkid=866295).</span><span class="sxs-lookup"><span data-stu-id="706ac-104">To learn how to do this in the new SharePoint admin center, see [Create a site](https://go.microsoft.com/fwlink/?linkid=866295).</span></span> <span data-ttu-id="706ac-105">Če želite več informacij o omogočanju uporabnikom, da ustvarijo svoja spletna mesta, glejte [upravljanje ustvarjanja mest v SharePoint online](https://go.microsoft.com/fwlink/?linkid=866296).</span><span class="sxs-lookup"><span data-stu-id="706ac-105">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
+<span data-ttu-id="93d7e-103">Ustvarite lahko različne vrste mest v SharePoint online.</span><span class="sxs-lookup"><span data-stu-id="93d7e-103">You can create different types of sites in SharePoint Online.</span></span> <span data-ttu-id="93d7e-104">Če želite izvedeti, kako to naredite v novem skrbniškem središču SharePoint, glejte [Ustvarjanje spletnega mesta](https://go.microsoft.com/fwlink/?linkid=866295).</span><span class="sxs-lookup"><span data-stu-id="93d7e-104">To learn how to do this in the new SharePoint admin center, see [Create a site](https://go.microsoft.com/fwlink/?linkid=866295).</span></span> <span data-ttu-id="93d7e-105">Če želite več informacij o omogočanju uporabnikom, da ustvarijo svoja spletna mesta, glejte [upravljanje ustvarjanja mest v SharePoint online](https://go.microsoft.com/fwlink/?linkid=866296).</span><span class="sxs-lookup"><span data-stu-id="93d7e-105">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
  
-<span data-ttu-id="706ac-106">Če želite več informacij o novih vrstah spletnih mest, glejte [skupina povezanih mest](https://go.microsoft.com/fwlink/?linkid=866292) skupine ali [komunikacijska mesta](https://go.microsoft.com/fwlink/?linkid=866294).</span><span class="sxs-lookup"><span data-stu-id="706ac-106">For info about the new site types, see [Group connected team sites](https://go.microsoft.com/fwlink/?linkid=866292) or [Communication sites](https://go.microsoft.com/fwlink/?linkid=866294).</span></span>
+<span data-ttu-id="93d7e-106">Če želite več informacij o novih vrstah spletnih mest, glejte [skupina povezanih mest](https://go.microsoft.com/fwlink/?linkid=866292) skupine ali [komunikacijska mesta](https://go.microsoft.com/fwlink/?linkid=866294).</span><span class="sxs-lookup"><span data-stu-id="93d7e-106">For info about the new site types, see [Group connected team sites](https://go.microsoft.com/fwlink/?linkid=866292) or [Communication sites](https://go.microsoft.com/fwlink/?linkid=866294).</span></span>
     
 
 
