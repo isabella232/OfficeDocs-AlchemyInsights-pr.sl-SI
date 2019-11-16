@@ -12,15 +12,15 @@ ms.custom:
 - "9000751"
 - "2689"
 ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768708"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Izprazni mapo» izbrisani predmeti «
 
-Če želite izbrisati vsa izbrisana Outlookova sporočila , pojdite v [mapo z izbrisanimi predmeti](https://outlook.live.com/mail/deleteditems)in izberite **prazna mapa**, nato pa izberite **Obnovi elemente, izbrisane iz te mape** nad seznamom sporočil in izberite **prazna mapa**  še enkrat.
+Če želite izbrisati vsa izbrisana Outlookova sporočila, pojdite v [mapo z izbrisanimi predmeti](https://outlook.live.com/mail/deleteditems)in izberite **prazna mapa**, nato pa izberite **Obnovi elemente, izbrisane iz te mape** nad seznamom sporočil in znova izberite **prazna mapa** .
 
 Če ste izbrisali veliko sporočil, lahko traja nekaj časa, da se ti elementi premaknejo ali izbrišejo iz mape» izbrisani predmeti «. Prosimo, pustite okno brskalnika odprto, dokler se elementi ne izbrišejo.
 
