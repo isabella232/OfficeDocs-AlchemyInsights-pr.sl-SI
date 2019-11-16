@@ -14,14 +14,14 @@ ms.custom:
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
 ms.openlocfilehash: e9f5143edeb71ac69c71ecbbcecde35252994ac1
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/29/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37768420"
 ---
-# <a name="block-email-forwarding"></a><span data-ttu-id="06fd5-102">Blokiraj posredovanje e-pošte</span><span class="sxs-lookup"><span data-stu-id="06fd5-102">Block email forwarding</span></span>
+# <a name="block-email-forwarding"></a><span data-ttu-id="2a19b-102">Blokiraj posredovanje e-pošte</span><span class="sxs-lookup"><span data-stu-id="2a19b-102">Block email forwarding</span></span>
 
-<span data-ttu-id="06fd5-103">Če želite onemogočiti posredovanje e-pošte za določen nabiralnik, glejte [Konfiguriranje posredovanja e-pošte v Officeu 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span><span class="sxs-lookup"><span data-stu-id="06fd5-103">To disable email forwarding for a specific mailbox, see [Configure email forwarding in Office 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span></span>
+<span data-ttu-id="2a19b-103">Če želite onemogočiti posredovanje e-pošte za določen nabiralnik, glejte [Konfiguriranje posredovanja e-pošte v Officeu 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span><span class="sxs-lookup"><span data-stu-id="2a19b-103">To disable email forwarding for a specific mailbox, see [Configure email forwarding in Office 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).</span></span>
 
-<span data-ttu-id="06fd5-104">Če želite blokirati e-poštno posredovanje za celotno organizacijo, [je na mnogih načinih za blokiranje samodejnega posredovanja e-pošte v Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span><span class="sxs-lookup"><span data-stu-id="06fd5-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>
+<span data-ttu-id="2a19b-104">Če želite blokirati e-poštno posredovanje za celotno organizacijo, [je na mnogih načinih za blokiranje samodejnega posredovanja e-pošte v Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span><span class="sxs-lookup"><span data-stu-id="2a19b-104">To block email forwarding for the whole organization, [The many ways to block automatic email forwarding in Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).</span></span>
