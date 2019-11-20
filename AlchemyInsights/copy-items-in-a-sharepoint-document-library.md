@@ -1,5 +1,5 @@
 ---
-title: Prekopirajte elemente v knjižnico dokumentov SharePoint
+title: Kopiranje elementov v SharePointovi knjižnici dokumentov
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -13,29 +13,33 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 3b63262a289261bc1e040f745096645e7f2c784c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5f9e1fdc74d4d2264d6daacbb96d03cd1b98bd82
+ms.sourcegitcommit: efdde3c24a0c1adfb8b6f5f59dcae435fb5c53a8
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516373"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38711808"
 ---
-# <a name="copy-items-in-a-sharepoint-document-library"></a>Prekopirajte elemente v knjižnico dokumentov SharePoint
+# <a name="copy-items-in-a-sharepoint-document-library"></a>Kopiranje elementov v SharePointovi knjižnici dokumentov
 
-1. V spletnem brskalniku, prebrskajte do datoteke, mape ali povezave, ki jih želite kopirati, in kliknite **Kopiraj v**.
-
-    > [!NOTE]
-    > **Kopirajte** ni na voljo, če uporabljate klasičen izkušnje SharePoint Online.
-  
-2. Pod **izberite destinacijo**, izberite mesto, na katerega želite kopirati postavke. Če ste kopiranje v drugo mesto ali podmesta in ne videli je na seznamu, kliknite **Brskaj po mestih** videti celoten seznam mest, ki lahko kopirate.
+1. V spletnem brskalniku prebrskajte do datotek, map ali povezav, ki jih želite kopirati, in kliknite **Kopiraj v**.
 
     > [!NOTE]
-    > Če ne vidite druga spletna mesta, ko kopirate elemente na seznamu, ulitek čez mest ni konfigurirana. V usposobiti to, pojdite na stran z nastavitvami SharePoint admin center in kliknite v **redu**.
+    > **Kopiranje** ni na voljo, če uporabljate klasično izkušnjo s storitvijo SharePoint online.
   
-    Če želite ustvariti novo mapo prepisati datotek izberite mesto v hierarhiji map, kliknite **novo mapo**, vnesite ime mape in kliknite kljukico za shrani ime.
+2. Pod **Izberite cilj**izberite mesto, kamor želite kopirati artikle. Če kopirate na drugo mesto ali podmesto in ga ne vidite na seznamu, kliknite **Prebrskaj mesta** , da si ogledate celoten seznam mest, ki jih lahko kopirate.
+
+    > [!NOTE]
+    > Če ne vidite drugih spletnih mest, ki so navedena med kopiranjem elementov, kopiranje po spletnih mestih ni bilo konfigurirano. Če ga želite omogočiti, pojdite na stran z nastavitvami v skrbniškem središču za SharePoint in kliknite **v redu**.
+  
+    Če želite ustvariti novo mapo za kopiranje datotek, izberite mesto v hierarhiji map, kliknite **Nova mapa**, vnesite ime za mapo in kliknite kljukico, da shranite ime.
 
 3. Kliknite **Kopiraj tukaj**.
 
 > [!NOTE]
-> Naenkrat lahko kopirate do 500 MB datotek in map. > pri uporabi **kopijo** z dokumenti, ki imajo zgodovino različice, ki postaja latenten prevod je kopiran.
+> Hkrati lahko kopirate do 500 MB datotek in map. > ko uporabite **Kopiraj v** dokumente z zgodovino različic, se kopira samo najnovejša različica.
   
+Če želite več informacij, glejte:
+
+ - [Premikanje ali kopiranje datotek v SharePointu](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (članek s podporo za Office)
+ - [Premikanje datotek iz katere koli mape v Officeu 365](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft tech Community Blog članek)   
