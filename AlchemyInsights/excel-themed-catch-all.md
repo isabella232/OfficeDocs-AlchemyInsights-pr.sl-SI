@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2723"
 - "9000779"
-ms.openlocfilehash: 286269f2a1171abfc76384c950564682742b26cd
-ms.sourcegitcommit: b4484881c6058c472c42856a49e95122fd133aa8
+ms.openlocfilehash: 7bbdce60f71016a6acee3818905e6dc13d0ab3bd
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/11/2019
-ms.locfileid: "37466282"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627826"
 ---
 # <a name="commonly-requested-content-for-excel"></a>Pogosto zahtevana vsebina za Excel
 
@@ -32,4 +32,4 @@ Tukaj je nekaj pogosto zahtevanih Excelovih tem:
 - ["Ni dovolj pomnilnika za dokončanje tega dejanja" napaka](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)
 - [Kaj je samodejno shranjevanje?](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
 - [Datoteka odpre samo za branje](https://support.office.com/article/why-did-my-file-open-read-only-3ab4b792-da50-4b38-8628-14c64e1f1d15)
-- [Pomoč pri PowerBI](https://powerbi.microsoft.com/en-us/support/)
+- [Pomoč pri PowerBI](https://powerbi.microsoft.com/support/)

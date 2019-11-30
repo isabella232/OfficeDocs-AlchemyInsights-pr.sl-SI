@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2667"
 - "9000735"
-ms.openlocfilehash: d85206cd0fc4844187665369191839da54f49d84
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 005e2ce7b0aa8711b6d8073e2a771ca415918715
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376834"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627626"
 ---
 # <a name="join-a-meeting-in-teams"></a>Pridružite se srečanju v skupini Teams
 
@@ -24,6 +24,6 @@ ms.locfileid: "37376834"
 
 - Nastavite pravilnike za sestanke, ki nadzorujejo, kdo se bo lahko pridružil sestanku kot [udeležencem ali gostom](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#meeting-policy-settings---participants--guests). 
 
-- Če želite spremeniti pravilnik, uporabite [ukaze» cmdlet «](https://docs.microsoft.com/en-us/microsoftteams/teams-powershell-overview) Microsoft Teams PowerShell.    
+- Če želite spremeniti pravilnik, uporabite [ukaze» cmdlet «](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) Microsoft Teams PowerShell.    
 
 **Opomba:** Za uveljavitev sprememb pravilnika lahko traja do 24 ur.

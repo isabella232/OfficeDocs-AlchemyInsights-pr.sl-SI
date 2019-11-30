@@ -10,12 +10,12 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: 0e683c8266d425be95e87c590d4cb5d56108721a
-ms.sourcegitcommit: 71978e2bb779b5955fd113f84512b83321b26912
+ms.openlocfilehash: ec8fb91dfe77cb251579ce23eb0579b114b101d9
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/26/2019
-ms.locfileid: "37207277"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627862"
 ---
 # <a name="data-location"></a>Lokacija podatkov
 
@@ -30,7 +30,7 @@ Lokacijo vašega najemnika Office 365 si lahko ogledate v skrbniškem središču
 
 **Powershell:**
 1. Z lupino Windows PowerShell vzpostavite povezavo s storitvijo Exchange Online.
-2. Izvršiti [zaslužiti-OrganizationalUnit](https://docs.microsoft.com/en-us/powershell/module/exchange/active-directory/get-organizationalunit) cmdlet razpoložiti a zapisati v seznam od vaš najemnik ' premožen. 
+2. Izvršiti [zaslužiti-OrganizationalUnit](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) cmdlet razpoložiti a zapisati v seznam od vaš najemnik ' premožen. 
 3. Poglejte lastnost OrganizationId.
 
 Ko imate podatkovno lokacijo za EXO in SPO, lahko določite lokacijo podatkov za druge storitve, ki jih lahko uporabljate od koder se [nahajajo vaši podatki](https://products.office.com/where-is-your-data-located).
