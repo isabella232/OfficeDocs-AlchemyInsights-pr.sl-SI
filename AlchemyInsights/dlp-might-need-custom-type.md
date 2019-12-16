@@ -1,7 +1,7 @@
 ---
-title: DLP bi morali vrsto po meri
-ms.author: stephow
-author: stephow-MSFT
+title: DLP bo morda potreboval vrsto po meri
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 612b6652b445914063ac825847f5698d3afc3a00
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 872fca326065ada002300061c951620b3d9a8d0e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530367"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052917"
 ---
-# <a name="dlp-might-need-a-custom-type"></a>DLP bi morali vrsto po meri
+# <a name="dlp-might-need-a-custom-type"></a>DLP bo morda potreboval vrsto po meri
 
-Z izgubo podatkov politika preprečevanja (DLP), lahko prepoznavanje in zaščito občutljivih podatkov v organizaciji. V nekaterih primerih, boste morali ustvariti lastne vrste **po meri** občutljive informacije za zaščito podatkov vaše organizacije.
+S pravilnikom za preprečevanje izgub podatkov (DLP) lahko prepoznate in zaščitite občutljive podatke v organizaciji. V nekaterih primerih boste morda morali ustvariti lastne občutljive vrste podatkov **po meri** za zaščito podatkov organizacije.
 
-Na primer, organizaciji morali opredelitvi in zaščiti zaposlenih ID ali druge podatke v neki obliki, ki je specifična za vaš org. Če je tako, glejte te članke za več informacij.
+Vaša organizacija bo morda morala na primer identificirati in zaščititi ID-je zaposlenih ali druge podatke v neki obliki, ki je specifična za vašo org. Če je tako, si oglejte naslednje članke za več informacij.
   
- **Prilagodite vrsto vgrajenega občutljivih podatkov**
+ **Prilagajanje vgrajene občutljive vrste informacij**
   
-Če vrsto vgrajenega občutljivih informacij bi svojim potrebam z nekaj tweaks, lahko [prilagodite vrsto vgrajenega občutljivih informacij](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Na primer, lahko dodate ali odstranite ključne besede, ali dodati ali odstranite dokazila, kot so datum ali naslov.
+Če bi vgrajena vrsta občutljivih informacij zadovoljila vaše potrebe s samo nekaj poteg, lahko [prilagodite vgrajeno vrsto občutljivih podatkov](https://docs.microsoft.com/office365/securitycompliance/customize-a-built-in-sensitive-information-type). Dodajate ali odstranjujete lahko na primer ključne besede ali dodajate ali odstranjujete dokazila, kot sta datum ali naslov.
   
- **Ustvarite vrsto meri občutljivih podatkov**
+ **Ustvarjanje vrste občutljivih podatkov po meri**
   
-Vendar če morate opredelitvi in zaščiti povsem drugačne vrste občutljivih podatkov, lahko [ustvarite vrsto meri občutljive informacije](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) v UI varnost & skladnosti Center.
+Če pa morate v celoti prepoznati in zaščititi drugačno vrsto občutljivih informacij, lahko [ustvarite vrsto občutljive informacije po meri](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type) v uporabniškem vmesniku varnostnega & središča za skladnost.
   
-**Ustvarite vrsto meri občutljive informacije v varnost & skladnosti Center PowerShell**
+**Ustvarjanje občutljive vrste podatkov po meri v varnostnem & PowerShell center za skladnost**
 
-Končno, če UI ne zagotavlja vse možnosti, ki jih potrebujete, lahko [ustvarite vrsto meri občutljivih podatkov v varnostno & Center PowerShell skladnosti](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Z začetkom z datoteko XML, lahko uporabite vse možnosti, ki so na voljo.
+Končno, če UI ne zagotavlja vseh možnosti, ki jih potrebujete, lahko [ustvarite po meri občutljive informacije vrsto v Security & skladnost center PowerShell](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type-in-scc-powershell). Z začetkom z datoteko XML lahko uporabite vse razpoložljive možnosti.

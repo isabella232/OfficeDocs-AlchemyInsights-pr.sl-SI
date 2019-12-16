@@ -1,7 +1,7 @@
 ---
-title: Zbriši skupino mesta
-ms.author: kaarins
-author: kaarins
+title: Izbriši spletno mesto skupine
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.date: 1/24/2019
 ms.audience: Admin
@@ -14,21 +14,21 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d1677fe1734386e38992811ec994c62286510eaa
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36513735"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053061"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Izbrisati SharePointovega mesta, ki spada v skupino Office 365
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>Brisanje SharePointovega mesta, ki pripada skupini Office 365
 
-Globalno administratorji in SharePoint administratorji lahko sedaj izbrišete mest, ki pripadajo skupini Office 365. Brisanje teh straneh boste izbrisali skupino in vsa svoja sredstva, vključno z nabiralnika Outlook koledar in vse ekipe kanalov.
+Globalni skrbniki in skrbniki SharePoint lahko zdaj izbrišejo mesta, ki pripadajo skupini Office 365. Če izbrišete ta spletna mesta, boste izbrisali skupino in vse njene vire, vključno z Outlookom in koledarjem v Outlooku, ter vsemi kanali ekip.
   
 Pomembno:
 
-- Obnovite izbrisane strani 93 dni. Za več informacij, glejte Ogled in obnovite izbrisane strani. Upoštevajte, da je treba obnoviti izbrisanih skupin v 30 dneh.
-- Če spletna stran je del pravilnika o hranjenju, morda ne boste mogli izbrisati, dokler stran je odstranjena iz je [varnost &amp; skladnost Admin Center](https://protection.office.com/?rfr=AdminCenter#/retention). Za več informacij, glejte [Pregled pravilnikov o hranjenju](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .
+- Izbrisane strani lahko obnovite za 93 dni. Če želite več informacij, glejte Ogled in obnovitev izbrisanih spletnih mest. Izbrisane skupine morate obnoviti v 30 dneh.
+- Če je mesto del pravilnika o hranjenju, ga morda ne boste mogli izbrisati, dokler se mesto ne odstrani iz [skrbniškega središča za varnostne &amp; obveznosti](https://protection.office.com/?rfr=AdminCenter#/retention). Za več informacij glejte [pregled pravilnikov o hranjenju](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) .
   
-[Pogled in postaviti v prejšnje stanje izbrisati mesta v centru nove admin SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), izberite **izbrisane strani**. Izberite stran, ki je bil izbrisan in obnoviti ali izbrisati, (ki bo trajno izbrisati stran). Aktivno mesto encima, izberite **aktivni** strani, izberite mesto in izberite **Izbriši**. Za več informacij, glejte [upravljanje mesta v centru nove admin SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Če [si želite ogledati in obnoviti izbrisana mesta v novem skrbniškem središču SharePoint](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center), izberite **izbrisana mesta**. Izberite mesto, ki je bilo izbrisano, in izberite Obnovi ali Izbriši (ki bo trajno izbrisati stran). Če želite izbrisati aktivno spletno mesto, izberite **aktivna** mesta, izberite mesto in izberite **Izbriši**. Če želite več informacij, glejte [upravljanje spletnih mest v novem skrbniškem središču SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   

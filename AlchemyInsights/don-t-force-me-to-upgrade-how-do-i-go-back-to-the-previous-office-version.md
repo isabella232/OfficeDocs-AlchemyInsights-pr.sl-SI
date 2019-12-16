@@ -1,7 +1,7 @@
 ---
-title: Ne prisili me, da nadgradnjo. Kako naj grem nazaj na prejšnjo različico Officea?
-ms.author: dludwig
-author: dludwig
+title: Ne prisili me, da nadgradim. Kako se vrnem v prejšnjo različico Officea?
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.date: 2/26/2018
 ms.audience: Admin
@@ -13,17 +13,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: 8bba17b61485f6d856affde2c52b45522d0051dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4caf3e3c3a72b2ae59bb13982a2e45c53a7911f2
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529539"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052881"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ne prisili me, da nadgradnjo. Kako naj grem nazaj na prejšnjo različico Officea?
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ne prisili me, da nadgradim. Kako se vrnem v prejšnjo različico Officea?
 
-Čas predrtina urad pila, poskus prevod od urad app lahko odprete, namesto drugo različico. To se bo zgodilo, če imate Office 365 sojenja.
+Ko odprete Officeovo datoteko, se lahko odpre preizkusna različica Officeove aplikacije namesto druge različice. To se bo zgodilo, če imate Office 365 sojenja.
   
-Ko namestite Office 365 sojenja, 2016 poskus prevod od apps so nameščeni. Te preskusne različice postanejo privzete za odpiranje datotek, Word, Excel in PowerPoint. Na primer, če imate nameščen Excel 2013 in tudi vi umestiti poskus Office 365, potem vaš zvezki v poskus prevod od Excel 2016.
+Ko namestite preskušanje Officea 365, se namestijo preizkusna različica aplikacije 2016. Te preizkusne različice postanejo privzete za odpiranje Wordovih, Excelovih in PowerPointovih datotek. Če imate na primer nameščen Excel 2013 in ste namestili tudi preskušanje Officea 365, se bodo delovni zvezki odprli v poskusni različici Excela 2016.
   
-Če imate težavo, lahko [odstranite](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016 apps, in uporabo starejše različice aplikacije, ki ste že namestili. Ali lahko [odstranite](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) starejše različice apps in nadgraditi z novejšimi različicami, ki so vključeni v Office 365.
+Če imate to težavo, lahko [odstranite](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) 2016 aplikacije in uporabite starejše različice aplikacij, ki ste jih že namestili. Lahko pa [odstranite](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) starejše različice aplikacij in nadgradite na novejše različice, ki so vključene v Office 365.

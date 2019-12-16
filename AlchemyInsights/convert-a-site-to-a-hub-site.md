@@ -1,7 +1,7 @@
 ---
-title: Spremeniti mesto v središče mesta
-ms.author: kaarins
-author: kaarins
+title: Pretvarjanje mesta na mesto zvezdišča
+ms.author: pebaum
+author: pebaum
 ms.date: 12/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,23 +11,23 @@ ms.custom:
 - "710"
 - "5300012"
 ms.assetid: 837996e6-802f-4745-a590-500207835d11
-ms.openlocfilehash: 5d2f0ded6e32c62f880dce6314b5869231d6955d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d5b8bb4d7a492db44888bb99bb21c59985295e13
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516759"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049965"
 ---
-# <a name="create-a-sharepoint-hub-site"></a>Ustvarite SharePointovo mesto zvezdišča
+# <a name="create-a-sharepoint-hub-site"></a>Ustvarjanje SharePointovega mesta z zvezdiščem
 
-1. V novi admin center za SharePoint, pod **mesta**, kliknite **aktivna mesta**.
+1. V novem skrbniškem središču SharePoint v razdelku **mesta**kliknite **aktivna mesta**.
 
-2. Izberite mesto, ki si želite biti središče mesta, kliknite **središče mesta**in nato **Register kot središče mesta**.
+2. Izberite mesto, na katerem želite biti mesto zvezdišča, kliknite **mesto zvezdišča**in nato kliknite **Registriraj kot mesto zvezdišča**.
 
-3. Vnesite prikazno ime za središče mesta in določiti posameznega uporabnika ali varnostne skupine dovolite mesta povežete z zvezdiščem.
+3. Vnesite prikazno ime za mesto zvezdišča in določite posamezne uporabnike ali varnostne skupine, ki jih želite omogočiti za povezovanje mest z zvezdiščem.
 
     > [!NOTE]
-    >  Priporočamo, da izberete sporočilo mesto ali mesto ekipe, ki uporablja novo predlogo. Če uporabljate stran, classic ekipa, vozlišča za krmarjenje prikaže samo na straneh, sodobne in nastavitve središče mesta prikazana le na sodobno strani. Mesta, ki so že povezane z drugo vozlišče ni mogoče registrirati kot središče mesta.
+    >  Priporočamo, da izberete spletno mesto za komunikacijo ali spletno mesto skupine, ki uporablja novo predlogo. Če uporabljate klasično spletno mesto skupine, se navigacija po zvezdišču prikaže samo na sodobnih straneh, nastavitve mesta zvezdišča pa bodo prikazane samo na sodobnih straneh. Mest, ki so že povezana z drugim zvezdiščem, ni mogoče registrirati kot mesto zvezdišča.
   
-[Več o vozlišče straneh](https://go.microsoft.com/fwlink/?linkid=869149)
+[Preberite več o spletnih mestih zvezdišča](https://go.microsoft.com/fwlink/?linkid=869149)
   

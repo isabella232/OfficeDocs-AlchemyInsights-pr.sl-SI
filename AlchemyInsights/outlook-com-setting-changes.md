@@ -1,7 +1,7 @@
 ---
 title: Nastavitve Outlook.com
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 3/21/2019
 ms.audience: Admin
@@ -9,16 +9,16 @@ ms.topic: article
 ms.custom: 9000302
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d1b6eb0846796a484cd60335737a3ecc373266dd
-ms.sourcegitcommit: 582c8868e948e39db1e8d0bd8986f8087c4a1319
+ms.openlocfilehash: 915d2ea36b7e1dcb4b9c5b6c57559b295f0b2f06
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37386381"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053277"
 ---
 # <a name="settings-in-outlookcom"></a>Nastavitve v Outlook.com
 
-Če je prejemnik notranji ali zunanji za vašo organizacijo in če uporabljate e-poštni račun Office 365 ali Outlook.com, naslednje stranke ne bi smele storiti ničesar posebnega, da bi odprli sporočilo: **outlook 2016, Outlook v spletu/Outlook Web App, Outlookova mobilna aplikacija**
+Če je prejemnik notranji ali zunanji v vaši organizaciji in če uporabljate e-poštni račun Office 365 ali Outlook.com, naslednje stranke ne bi smele storiti ničesar posebnega, da bi odprli sporočilo: **outlook 2016, Outlook v spletu/Outlook Web App, Outlook Mobile app**
 
 **Delegati** uporabnikov, ki so bili poslani na zaščiteno e-pošto, ne morejo odpreti zaščitenih sporočil. Informacije v e-poštnem sporočilu si lahko ogledajo samo izvirni prejemniki (oseba, ki je bila poslana na zaščiteno e-pošto).
 

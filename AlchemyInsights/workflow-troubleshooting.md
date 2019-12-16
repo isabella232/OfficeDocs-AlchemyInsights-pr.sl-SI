@@ -1,7 +1,7 @@
 ---
-title: Potek dela za odpravljanje težav
-ms.author: efrene
-author: efrene
+title: Odpravljanje težav s potekom dela
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,24 +12,24 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: d156c414d741003f2ebddc63b2bc95167027169d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bda58c3e7f186fec2057258ed17747690c7a3248
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36558093"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049317"
 ---
-# <a name="workflow-troubleshooting"></a>Potek dela za odpravljanje težav
+# <a name="workflow-troubleshooting"></a>Odpravljanje težav s potekom dela
 
-Za informacije o odpravljanje napak SharePoint poteke dela, pregled naslednje:
-- Odpravljanje napak poteki dela spominja na prejšnje različice.  Če želite več informacij, glejte [Debugging SharePoint poteki dela](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- Če želite več informacij o odpravljanju težav, glejte [Odpravljanje SharePoint Server poteka dela napake pri preverjanju veljavnosti](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Če želite več informacij o odpravljanju napak v SharePointovem poteku dela, preglejte naslednje:
+- Potek dela za odpravljanje napak je podoben prejšnjemu različicam.  Če želite več informacij, glejte [Odpravljanje napak v SharePointovem poteku dela](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+- Če želite več informacij o odpravljanju težav, glejte [Odpravljanje napak pri preverjanju poteka dela strežnika SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>Sorodne teme
-Želite poskusiti Microsoft Flow v SharePoint Online?
-- [Ustvari tok](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
-- [SharePoint in pretok](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
+Želite poskusiti Microsoft Flow v SharePoint online?
+- [Ustvari potek](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+- [SharePoint in Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
 

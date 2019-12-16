@@ -1,7 +1,7 @@
 ---
-title: Upravljanje skupine brez licenco za izmenjavo
-ms.author: dianef
-author: dianef77
+title: Upravljanje skupine brez Exchangevega dovoljenja
+ms.author: pebaum
+author: pebaum
 ms.date: 5/23/2018
 ms.audience: ITPro
 ms.topic: article
@@ -11,18 +11,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: b974217fa53efe943f8e2e44313c5679c0faa9b3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f117cc1dc55e1786a9f6bc500314877e97df3f5e
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497476"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40049281"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>Upravljanje skupine brez licenco za izmenjavo
+# <a name="manage-a-group-without-an-exchange-license"></a>Upravljanje skupine brez Exchangevega dovoljenja
 
-Če vaš Office 365 admin račun nima nabiralnika, lahko dobili napako o manjka licenco izdelka, ko ste poskušali urediti skupino Office 365.
+Če vaš skrbniški račun za Office 365 nima nabiralnika, boste morda dobili napako glede manjkajočega dovoljenja za izdelek, ko poskušate urediti skupino Office 365.
   
-Ker ste najemnik admin, je mogoče za vas, da uredite skupino, čeprav nimate licenco za izmenjavo. Šele iti k [Izmenjavi Admin Center](https://outlook.office365.com/ecp.aspx) \> **skupine** za upravljanje skupini Office 365.
+Ker ste skrbnik najemnika, je možno, da uredite skupino, čeprav nimate licence Exchange. Samo pojdite na [Exchangeove skrbniške center](https://outlook.office365.com/ecp.aspx) \> **skupine** za upravljanje skupine Office 365.
   
-Če želite urediti skupin v skrbniškem središču, dodati licenco za izmenjavo račun admin. Boste morali čakati do nabiralnika popolnoma ustvarili, preden lahko urejate skupine.
+Če želite urejati skupine v skrbniškem središču, v skrbniški račun dodajte licenco Exchange. Preden lahko uredite skupino, morate počakati, da je nabiralnik popolnoma ustvarjen.
   

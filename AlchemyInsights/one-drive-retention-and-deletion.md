@@ -1,7 +1,7 @@
 ---
-title: OneDrive hranjenje in izbris
-ms.author: efrene
-author: efrene
+title: Hranjenje in izbris storitve OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521583"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053349"
 ---
-# <a name="onedrive-retention-and-deletion"></a>OneDrive hranjenje in izbris
+# <a name="onedrive-retention-and-deletion"></a>Hranjenje in izbris storitve OneDrive
 
-- Lahko [obnovite izbrisane uporabniki OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) sami. So v koš za 93 dni. 
+- [Izbrisane uporabnike storitve OneDrive lahko obnovite](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) sami. Oni so v Recycle zaboj zakaj 93 days. 
 
-- Glej [članek](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) lahko preberete:
-    - Kako lahko drugemu uporabniku dostop do z izbrisanim uporabnikom OneDrive.
-    - Kaj se zgodi, da uporabnika OneDrive, ko izbrišete račun Office 365 za vašo organizacijo.
-    - Kako nastaviti samodejni dostop delegacije.
-    - Kako OneDrive brisanje proces dela.
+- Oglejte si [Ta članek](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) , če želite izvedeti:
+    - Kako dati drugemu uporabniku dostop do izbrisane uporabnikove storitve OneDrive.
+    - Kaj se zgodi z uporabnikovo storitvijo OneDrive, ko izbrišete uporabniški račun za Office 365 za vašo organizacijo.
+    - Kako konfigurirati samodejni dostop delegacijo.
+    - Kako deluje postopek brisanja v storitvi OneDrive.
 
-- Zanima varnost in skladnost Center zadrževanja in držite?:
-    - [Pravilniki o hranjenju za OneDrive in SharePointovega mesta](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [eDiscovery imajo za OneDrive in SharePointovega mesta](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Zainteresirani za varnost in skladnost center zadrževanje in držite?:
+    - [Pravilniki o hranjenju za OneDrive in SharePointova mesta](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [e-discovery pridržite za mesta OneDrive in SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 
