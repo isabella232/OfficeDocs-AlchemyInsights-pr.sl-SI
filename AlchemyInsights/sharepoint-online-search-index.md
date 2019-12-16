@@ -1,37 +1,37 @@
 ---
-title: Išči v SharePoint Online
-ms.author: efrene
-author: efrene
+title: Iskanje v SharePointovem spletu
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: 3c3f6384172b2b4d59db6059618572db11059228
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c4ff98f0cf928834c803542340b32da15a40d583
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507647"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044059"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Vsebine iskanje in indeksiranje v SharePoint Online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Vsebina, ki se plazi in indeksira v SharePoint online
 
-Vsebina mora preiskati in doda v kazalo iskanja za uporabnike, da bi našli tisto, kar oni iščejo v SharePoint Online. Samodejno vsebini temelji na vnaprej določenih iskanja razpored (razpored iskanja po vsebini ni mogoče spremeniti). Iskalnik dvigne vsebine, ki se je spremenilo od zadnjega iskanja po vsebini in posodobi kazalo. Za zagotovitev vsebini in je kazalo posodobljeno, upoštevajte naslednje:
+Vsebino je treba preiskati in dodati v indeks iskanja za uporabnike, da najdejo tisto, kar iščejo v SharePoint online. Vsebina je samodejno preiskana na podlagi vnaprej določenega razporeda iskanja po vsebini (razporeda iskanja po vsebini ni mogoče spremeniti). Iskalnik pobere vsebino, ki se je od zadnjega iskanja po vsebini spremenila, in posodobi indeks. Če želite zagotoviti, da je vsebina preiskana in je indeks posodobljen, upoštevajte naslednje:
 
-- Poskrbite, da vsebine najdete tako, [da vsebino strani iskanje](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Prepričajte se, da je vsebina mogoče najti tako, [da se vsebina spletnega mesta omogoči iskanje](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
 
-- Ko spremenite upravljane lastnosti, ali ko ste spremenili kartiranje obiskal in upravljati lastnosti, mesta morajo biti ponovno obiskal, preden se spremembe odrazijo v kazalu iskanja. 
+- Ko ste spremenili upravljano lastnost ali ko ste spremenili preslikavo preiskanih in vodenih lastnosti, je treba mesto ponovno preiskati, preden se bodo spremembe odražale v indeksu iskanja. 
 
-    Ker so vaše spremembe v shemi iskanje, in ne do dejanskih strani, iskalnik ne bo samodejno ponovno indeksiranje strani. 
+    Ker so vaše spremembe narejene v iskalni shemi in ne na dejanskem mestu, iskalnik ne bo samodejno ponovno indeksira mesta. 
 
-    Za več informacij, glejte [zahteva ročno iskanje in ponovno indeksiranje strani, knjižnico ali seznam](https://docs.microsoft.com/sharepoint/crawl-site-conten).
+    Če želite več informacij, glejte [ročno iskanje po vsebini in vnovično indeksiranje spletnega mesta, knjižnice ali seznama](https://docs.microsoft.com/sharepoint/crawl-site-conten).
 
-- Počakajte vsaj 24 ur po ročno zahteva iskanja in poln ponovnega indeksiranja, da vidim, če ste še vedno prihaja do težave. 
+- Počakajte vsaj 24 ur po tem, ko ročno zahtevate iskanje po vsebini in celoten ponovni indeks, da preverite, ali še vedno naletite na težavo. 
 
-    Če več kot 24 ur je minilo, odkar si začel plazijo in poln ponovnega indeksiranja, se prijavite na primer podporo. V mnogih primerih, že delamo na rešitev. Prosimo, da nam vsaj 24 ur za dokončanje rešitev.
+    Če je minilo več kot 24 ur od začetka iskanja po vsebini in polnem ponovnem indeksu, prosimo, prijavite primer podpore. V mnogih primerih že delamo na rešitvi. Prosimo, dajte nam vsaj 24 ur, da dokončate rešitev.
 
 > [!IMPORTANT]
-> Če stran, dokument (knjižnice), ali seznam je bil izbrisan in še vedno prikazuje v rezultatih iskanja, uporabnik should sprejemati **Napaka 404 datoteke ni mogoče najti** čas težaven v postranski to. To vprašanje, naj zapišejo kot primer podporo za dodatne preiskave. 
+> Če je bilo mesto, dokument (knjižnica) ali seznam izbrisan in še vedno kaže v rezultatih iskanja, morajo uporabniki prejeti **napako 404 datoteka ni bilo mogoče najti** , ko poskušate dostopati do nje. To vprašanje bi bilo treba prijaviti kot podporni primer za nadaljnjo preiskavo. 
 
 
 
