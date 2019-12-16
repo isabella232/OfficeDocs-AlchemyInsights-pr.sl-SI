@@ -1,7 +1,7 @@
 ---
 title: Shranjevanje v SharePointu
-ms.author: kaarins
-author: kaarins
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -12,26 +12,26 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 8a1892e5eb6fa11b69cca63a3d8465583ddb185c
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 37cdc6943b28dc6823044957691767351d4ac246
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37658273"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051045"
 ---
-# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="de150-102">Upravljanje shrambe za SharePoint online</span><span class="sxs-lookup"><span data-stu-id="de150-102">Manage your SharePoint Online storage</span></span>
+# <a name="manage-your-sharepoint-online-storage"></a><span data-ttu-id="96f99-102">Upravljanje shrambe za SharePoint online</span><span class="sxs-lookup"><span data-stu-id="96f99-102">Manage your SharePoint Online storage</span></span>
 
-<span data-ttu-id="de150-103">Preberite [, kako je shramba najemnika izračunana](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) glede na vaš načrt.</span><span class="sxs-lookup"><span data-stu-id="de150-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
+<span data-ttu-id="96f99-103">Preberite [, kako je shramba najemnika izračunana](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) glede na vaš načrt.</span><span class="sxs-lookup"><span data-stu-id="96f99-103">Learn how [tenant storage is calculated](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectedfrom=MSDN#limits-by-plan) based on your plan.</span></span>
 
-<span data-ttu-id="de150-104">Za večino organizacij je shranjevanje v SharePointu samodejno upravljano, zato vam ni treba nastaviti omejitev na zbirko mest.</span><span class="sxs-lookup"><span data-stu-id="de150-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
+<span data-ttu-id="96f99-104">Za večino organizacij je shranjevanje v SharePointu samodejno upravljano, zato vam ni treba nastaviti omejitev na zbirko mest.</span><span class="sxs-lookup"><span data-stu-id="96f99-104">For most organizations, SharePoint storage is managed automatically, so you don't need to set limits per site collection.</span></span>
 
-<span data-ttu-id="de150-105">Preberite več [o ogledu skupnega in razpoložljivega prostora za shranjevanje v organizaciji](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="de150-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
+<span data-ttu-id="96f99-105">Preberite več [o ogledu skupnega in razpoložljivega prostora za shranjevanje v organizaciji](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="96f99-105">Learn how to [view the total and available storage space for your organization](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits).</span></span>
 
-<span data-ttu-id="de150-106">Naučite se [upravljati posamezne omejitve shrambe za zbirko mest](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="de150-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
+<span data-ttu-id="96f99-106">Naučite se [upravljati posamezne omejitve shrambe za zbirko mest](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span><span class="sxs-lookup"><span data-stu-id="96f99-106">Learn how to [manage individual site collection storage limits](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).</span></span>
 
-<span data-ttu-id="de150-107">Če je vaše spletno mesto izven prostora ali če želite izvedeti, katera knjižnica ali seznam uporablja prostor, odprite > **meritve shrambe za** **Nastavitve mesta**(skrbniške pravice za zbirko mest so potrebne).</span><span class="sxs-lookup"><span data-stu-id="de150-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
+<span data-ttu-id="96f99-107">Če je vaše spletno mesto izven prostora ali če želite izvedeti, katera knjižnica ali seznam uporablja prostor, odprite > **meritve shrambe za** **Nastavitve mesta**(skrbniške pravice za zbirko mest so potrebne).</span><span class="sxs-lookup"><span data-stu-id="96f99-107">If your site is out of space or you want to learn which library or list is utilizing the space, go to **Site Settings** > **Storage Metrics** (Site Collection administrator permissions are required).</span></span>
 
-<span data-ttu-id="de150-108">Preberite, kako [nadzirate omejitve shranjevanja mesta z uporabo lupine PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span><span class="sxs-lookup"><span data-stu-id="de150-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
+<span data-ttu-id="96f99-108">Preberite, kako [nadzirate omejitve shranjevanja mesta z uporabo lupine PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span><span class="sxs-lookup"><span data-stu-id="96f99-108">Learn how to [monitor site storage limits by using PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).</span></span>
 
-<span data-ttu-id="de150-109">Preberite več o [nakupu dodatnega shranjevanja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space).</span><span class="sxs-lookup"><span data-stu-id="de150-109">Learn how to [buy extra storage](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space).</span></span> 
+<span data-ttu-id="96f99-109">Preberite več o [nakupu dodatnega shranjevanja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space).</span><span class="sxs-lookup"><span data-stu-id="96f99-109">Learn how to [buy extra storage](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space).</span></span> 
   
