@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626364"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889098"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>Nadzor nastavitev lobistov in raven udeležbe
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Nadzor nastavitev lobistov in raven udeležbe v ekipah
 
-Če želite vsem, vključno z dial-in, zunanjimi in anonimnimi Uporabniki, dovoliti, da obidejo preddverje v storitvi Microsoft Teams, lahko to storite z lupino PowerShell. Tukaj je primer spreminjanja globalne politike srečanja za vašo organizacijo:
+Če želite omogočiti vsem, vključno z dial-in, zunanjimi in anonimnimi Uporabniki, da **zaobide preddverje**, uporabite PowerShell za dokončanje te naloge. Tukaj je primer spreminjanja globalne politike srečanja za vašo organizacijo.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Ta ukaz» cmdlet «trenutno zahteva uporabo modula Skype za podjetja PowerShell. Če želite dobiti nastavitev za uporabo tega ukaza» cmdlet «, si oglejte [pravilnike upravljanja prek lupine PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Ta ukaz» cmdlet «trenutno zahteva uporabo modula Skype za podjetja PowerShell. Če želite nastaviti uporabo tega ukaza» cmdlet «, preverite [pravilnike upravljanja prek lupine PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-Nastavite lahko novo politiko, ki jo boste nato morali uporabiti za uporabnike. Če spremenite globalno politiko, bo samodejno veljala za uporabnike. Za vsako spremembo pravilnika morate počakati vsaj 4 ure in do 24 ur, da se bodo pravilniki uveljavili.
+Ko nastavite pravilnik, ga morate uporabiti za uporabnike; ali, če ste spremenili globalno politiko, se bo samodejno uporabljal za uporabnike. Za vsako spremembo pravilnika morate počakati vsaj **4 ure do 24 ur** , da se bodo pravilniki uveljavili. 
 
 Bodite prepričani, da pregleda dokumentacijo spodaj, preden te spremembe razumeti, kaj to omogoča.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Razumevanje ekip, ki izpolnjujejo nadzorne politike lobistov
+
+Te nastavitve nadzorujejo, kateri Udeleženci sestanka čakajo v preddverju, preden so sprejeti na sestanek, in raven udeležbe, ki so jim dovoljene na sestanku. Z lupino PowerShell lahko posodobite nastavitve pravilnika za sestanke, ki še niso bile izvedene (z oznako» kmalu «) v skrbniškem središču ekip. Glej spodaj za primer cmdlet PowerShell, ki omogoča vsem uporabnikom, da zaobide lobby.
 
 - [Samodejno priznam](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) , da so ljudje po-organizator politike, ki nadzoruje, ali se ljudje pridružijo srečanju neposredno ali čakati v preddverju, dokler jih ne sprejme overjeni uporabnik.
 
