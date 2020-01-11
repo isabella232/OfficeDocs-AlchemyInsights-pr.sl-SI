@@ -3,7 +3,6 @@ title: Spreminjanje dovoljenj za javno mapo
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +11,26 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: 488567efb7e96b6eef52e87fc96670ab3ea91c20
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: 9d043e81b66cea1fcb985b0e1e79078409ba0b93
+ms.sourcegitcommit: f23c39009d988228213fdb2bb7350bf4a0194194
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631743"
+ms.lasthandoff: 01/11/2020
+ms.locfileid: "41022213"
 ---
-# <a name="changing-public-folder-permissions"></a><span data-ttu-id="24009-102">Spreminjanje dovoljenj za javno mapo</span><span class="sxs-lookup"><span data-stu-id="24009-102">Changing public folder permissions</span></span>
+# <a name="changing-public-folder-permissions"></a><span data-ttu-id="42fa9-102">Spreminjanje dovoljenj za javno mapo</span><span class="sxs-lookup"><span data-stu-id="42fa9-102">Changing public folder permissions</span></span>
 
-<span data-ttu-id="24009-103">Javne mape dovoljenja mogoče spremeniti z uporabniki in skrbniki v Outlooku.</span><span class="sxs-lookup"><span data-stu-id="24009-103">Public folder permissions can be changed by users and administrators in Outlook.</span></span> <span data-ttu-id="24009-104">Skrbniki lahko nadzirate dovoljenja iz Exchange Admin Center (EAC), naredite naslednje:</span><span class="sxs-lookup"><span data-stu-id="24009-104">Administrators can also control permissions from the Exchange Admin Center (EAC), by doing the following:</span></span>
+<span data-ttu-id="42fa9-103">Dovoljenja za javno mapo lahko uporabniki in skrbniki spremenijo v Outlooku.</span><span class="sxs-lookup"><span data-stu-id="42fa9-103">Public folder permissions can be changed by users and administrators in Outlook.</span></span> <span data-ttu-id="42fa9-104">Skrbniki lahko tudi nadzorujejo dovoljenja iz skrbniškega središča za Exchange (EAC), tako da storijo naslednje:</span><span class="sxs-lookup"><span data-stu-id="42fa9-104">Administrators can also control permissions from the Exchange Admin Center (EAC), by doing the following:</span></span>
   
-1. <span data-ttu-id="24009-105">Vv Microsoft 365 skrbniško središče, pojdite na **Admin centri** \> **Exchange**.</span><span class="sxs-lookup"><span data-stu-id="24009-105">IIn the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
+1. <span data-ttu-id="42fa9-105">V Microsoft 365 admin center, pojdite na **admin centri** \> **Exchange**.</span><span class="sxs-lookup"><span data-stu-id="42fa9-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
 
-2. <span data-ttu-id="24009-106">Izberite **javne mape**.</span><span class="sxs-lookup"><span data-stu-id="24009-106">Select **Public folders**.</span></span>
+2. <span data-ttu-id="42fa9-106">Izberite **javne mape**.</span><span class="sxs-lookup"><span data-stu-id="42fa9-106">Select **Public folders**.</span></span>
 
-3. <span data-ttu-id="24009-107">Od tam, lahko spremenite dovoljenja za posamezne javne mape z varnostnim skupinam dodelite dovoljenja.</span><span class="sxs-lookup"><span data-stu-id="24009-107">From there, you can change permissions for individual public folders by assigning security groups to permissions.</span></span> <span data-ttu-id="24009-108">Za končnega uporabnika za spreminjanje dovoljenj za javno mapo, uporabnik mora imeti lastnik pravic na mapi.</span><span class="sxs-lookup"><span data-stu-id="24009-108">For an end user to change public folder permissions, the user needs to have Owner rights on the folder.</span></span>
+3. <span data-ttu-id="42fa9-107">Od tam lahko spremenite dovoljenja za posamezne javne mape tako, da dodelite varnostnim skupinam dovoljenja.</span><span class="sxs-lookup"><span data-stu-id="42fa9-107">From there, you can change permissions for individual public folders by assigning security groups to permissions.</span></span> <span data-ttu-id="42fa9-108">Za končnega uporabnika, da spremenite dovoljenja javnih map, mora uporabnik imeti pravice lastnika v mapi.</span><span class="sxs-lookup"><span data-stu-id="42fa9-108">For an end user to change public folder permissions, the user needs to have Owner rights on the folder.</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="42fa9-109">Ko poskušate spremeniti dovoljenja v javnih mapah, lahko naletite na več znanih težav.</span><span class="sxs-lookup"><span data-stu-id="42fa9-109">There are several known issues you might encounter when you try to change permissions on public folders.</span></span> <span data-ttu-id="42fa9-110">Za več informacij si oglejte naslednje članke.</span><span class="sxs-lookup"><span data-stu-id="42fa9-110">See the following articles for more information.</span></span>
+>
+> [<span data-ttu-id="42fa9-111">Dovoljenj za podmape javnih map v EAC ni mogoče uporabiti</span><span class="sxs-lookup"><span data-stu-id="42fa9-111">Can’t apply permissions to public folder subfolders in EAC</span></span>](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+>
+> [<span data-ttu-id="42fa9-112">"Nabiralnika ni mogoče najti v lokalnem gozdu" napaka, ko dostopate do javnih map</span><span class="sxs-lookup"><span data-stu-id="42fa9-112">"The mailbox is not found in the local forest" error when you access public folders</span></span>](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
