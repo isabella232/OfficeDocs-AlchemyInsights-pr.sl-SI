@@ -10,16 +10,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 03b450640ba5ca62bf05e7365d1759ed478648f8
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 2bc6f684916bebecfdcc60a26890ed212cec5795
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051549"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771195"
 ---
 # <a name="sharepoint-online-common-issues-and-resolutions"></a>Pogosta vprašanja in resolucije za SharePoint online
 
 Tukaj je nekaj pogosto zahtevanih tem za vprašanja SharePoint online:
+
+- **Kako začeti**: uporabite [SharePointovo knjigo Poglej](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) , če želite zgraditi lep, zmogljiv intranet, ki povezuje delovno mesto. Oglejte si [primere](https://lookbook.microsoft.com/) in pridobite [navodila za oblikovanje](https://spdesign.azurewebsites.net/). Oglejte si [Uvod v SharePoint online](https://docs.microsoft.com/sharepoint/introduction) za splošen uvod v SharePoint online.
 
 - **Dovoljenja**: [ustvarite strategijo dovoljenj](https://docs.microsoft.com/sharepoint/default-sharepoint-groups) in [razumite ravni dovoljenj](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
@@ -33,4 +35,4 @@ Tukaj je nekaj pogosto zahtevanih tem za vprašanja SharePoint online:
 
 - **Modernizirati SharePoint**: obzornik vodič v [Modern doživetje v SharePoint](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience) ter [modernizirati vaš vzoren SharePoint položaj](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites) začeti korak.
 
-- Kako **začeti**: Naučite se [začeti s programom SharePoint online](https://docs.microsoft.com/sharepoint/introduction) s strategijami upravljanja mest.
+**Opomba:** Če želite bolj specifičen odgovor o izdaji SharePointa, na kratko preoblikujte vprašanje in vključite morebitne napake, ki jih vidite ali funkcije, ki jih uporabljate.

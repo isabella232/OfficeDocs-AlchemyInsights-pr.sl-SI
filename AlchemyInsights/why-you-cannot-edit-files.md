@@ -13,16 +13,16 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049425"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771159"
 ---
 # <a name="why-cant-i-edit-files"></a>Zakaj ne morem urejati datotek?
 
-Če je dokument, delovni list ali predstavitev zaklenjen za urejanje in ga ni mogoče odpreti v namiznih aplikacijah sistema Windows, je morda to, da datoteko že ureja nekdo drug, ali pa je datoteka odjavila. Oglejmo si Kratek pogled na nekatere od razlogov, [zakaj morda ne boste mogli urejati datoteke](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
+Na hitro si oglejte nekaj razlogov, [zakaj morda ne boste mogli urejati datoteke](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).
 
 Če imate knjižnice s stolpci ali metapodatki za **prevzem, zahtevano** ali **validacijo** ali ko je **osnutek varnosti artikla** nastavljen na **samo uporabnike, ki lahko urejajo** ali **samo uporabniki, ki lahko odobrijo elemente** v različicah nastavitve knjižnice:
 

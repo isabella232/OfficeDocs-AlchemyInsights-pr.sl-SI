@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: 458990889d3c074820527982cbfa6e2d198d3e66
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b9009fdbdc2a5e7443151446daade1685d2f5d45
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052485"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770439"
 ---
 # <a name="create-sharepoint-sites-using-templates"></a>Ustvarjanje SharePointovih mest s predlogami
 
-SharePointove predloge mest so vnaprej zgrajene definicije, zasnovane za določeno poslovno potrebo. Če želite več informacij, glejte [Uporaba predlog za ustvarjanje različnih vrst SharePointovih mest](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+Zmožnost shranjevanja spletnega mesta kot predloge ni podprta s sodobnimi komunikacijskimi ali skupinskega mesta. Če želite več informacij o uporabi predlog [, glejte shranjevanje, prenos in nalaganje SharePointovega mesta kot predloge](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
 Tukaj je nekaj pogostih težav/rešitev v zvezi s shranjevanjem mesta ali seznama kot predloge v programu SharePoint online. 
 

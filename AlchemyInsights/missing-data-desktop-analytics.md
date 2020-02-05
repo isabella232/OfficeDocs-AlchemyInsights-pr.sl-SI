@@ -1,5 +1,5 @@
 ---
-title: Ni mogoče ustvariti oceno združljivosti
+title: Ocene združljivosti ni mogoče ustvariti
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: 320216b234eeee13345590add994bbca9a882991
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800610"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771087"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Ni mogoče ustvariti oceno združljivosti
+# <a name="cant-create-a-compatibility-assessment"></a>Ocene združljivosti ni mogoče ustvariti
 
-Upravitelj konfiguracije uspešno konfigurirati napravo, vendar namizja Analytics ni mogoče ustvariti oceno združljivosti. Nima popolnih podatkov za konfiguracijo naprave (popis) ali nameščene aplikacije (zaloge).
+Microsoft Endpoint Configuration Manager je uspešno konfiguriral napravo, vendar namizna analitika ne more ustvariti Ocene združljivosti. Nima popolnega nabora podatkov za konfiguracijo naprave (popis) ali nameščenih aplikacij (inventar).
 
-To vprašanje je pogosto določi samodejno, ko napravo poskusov. Če to vztrajati pri čem, preverite, ali naprava lahko komunicira s storitvijo. Če želite več informacij, glejte [končne točke](https://docs.microsoft.com/sccm/desktop-analytics/enable-data-sharing#endpoints) in [Manjkajoče podatke](https://docs.microsoft.com/sccm/desktop-analytics/monitor-connection-health#missing-data).
+Ta težava se pogosto samodejno določi, ko se naprava znova poskuša. Če se to ne ponovi, se prepričajte, da naprava lahko komunicira s storitvijo. Če želite več informacij, glejte [končne točke](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) in [manjkajoče podatke](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).

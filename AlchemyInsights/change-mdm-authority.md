@@ -8,20 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 91ccb74e00ab6d2b5e78c7b0f5a0b1c4790defb8
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519315"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770979"
 ---
 # <a name="change-intune-mdm-authority"></a>Spremeni InTune MDM organ
 
 Organ MDM lahko spremenite, ne da bi odprli primer podpore. Za navodila glejte naslednje dokumente:
   
-- [Spreminjanje MDM organa iz upravitelja konfiguracije za InTune standalone](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [Sprememba vaš MDM pooblastilo s zunanja podoba šef v InTune standalone](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Sprememba MDM pooblastilo s InTune standalone v Upravitelj konfiguracije](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [Spremenite svoj organ MDM iz InTune standalone v Upravitelj konfiguracije](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
  **Soobstoj organa MDM**
   
