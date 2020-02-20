@@ -11,21 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 9ae5014aef14dc6478282348cf89f75062129ab7
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: ff0f38b760007eef92aee394caacf01710031a68
+ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42033923"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42162928"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>e-odkrivanje v omrežjih Yammer
 
 Zdaj lahko izvedete iskanje e-discovery za vsebino Yammer v Officeu 365.  Izvedba iskanja e-odkrivanja ali izvoza v vsebino Yammer zahteva naslednje:
 
-1. Najprej morate preseliti svoje omrežje Yammer Enterprise v izvorni način, da bodo sporočila in datoteke podjetja Yammer lahko odkriti.
-
-   > [!NOTE] 
-   >Če ste Office 365 nova stranka od januar 9th 2020 in vaše omrežje Yammer je že v native mode, vaši podatki so zdaj odkriti s eDiscovery.
+1. Najprej morate preseliti svoje omrežje Yammer Enterprise v izvorni način, da bodo sporočila in datoteke podjetja Yammer lahko odkriti. **Opomba: Če ste nov urad 365 stranka od Jan. 9th 2020 in vaše omrežje Yammer je že v native mode, vaši podatki so zdaj odkriti s eDiscovery**.
 
 2. Za stranke, ki izstopajo, bo e-discovery za Yammer na voljo, ko se sprosti orodje native mode poravnava in selitev v izvorni način dokonča za Yammer v najemniku.
 
