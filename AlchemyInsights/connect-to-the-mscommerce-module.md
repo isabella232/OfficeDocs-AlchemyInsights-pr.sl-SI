@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 95721f9bb554dcf1c45c1e444b59ec431a7e27b2
-ms.sourcegitcommit: 9db3be25d088b8d4b2d476aeace79e653ca0a421
+ms.openlocfilehash: 0589f698958d4e26bba92f4feca455cf2fd7ecb5
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/17/2020
-ms.locfileid: "42093631"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158648"
 ---
 # <a name="connect-to-the-mscommerce-module"></a>Vzpostavljanje povezave z modulom MSCommerce
 
@@ -24,7 +24,7 @@ Preden si lahko ogledate ali nastavite pravilnik Allowselfservicenabava, morate 
 
 Če se želite povezati z modulom MSCommerce, v pozivu PowerShell (PS\)C: vnesite ta ukaz:
 
-    Connect-MSCommerce
+`Connect-MSCommerce`
 
 Odprlo se bo pogovorno okno za vpis. Vpišite svoje uporabniško ime in geslo za vpis.
 
