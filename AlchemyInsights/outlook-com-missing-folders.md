@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536199"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260258"
 ---
-# <a name="find-missing-folders"></a>Iskanje manjkajoče mape
+# <a name="find-missing-folders"></a>Iskanje manjkajočih map
 
-Če ne vidite vaše mape, preverite, da mape niso propadla. V levem podoknu izberite puščico poleg **mape** .
-  
-Če pomotoma izbrišete mapo, jo lahko obnovite, če je še vedno v mapi Izbrisano. Če želite izvedeti več, preberite [obnova izbrisana e-poštna sporočila v Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
-  
-Tam je znano vprašanje, kjer manjkajo mape. Delamo to popraviti. Še vedno lahko najdete elemente, shranjene v manjkajoče mape z **iskanjem** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />, in čeprav izpisati in ponovno vpisati. [Kliknite tukaj, če želite izpisati.](https://login.live.com/logout.srf)
+Nekateri uporabniki pri ogledu na majhnem zaslonu morda ne bodo mogli videti levega podokna z mapami.
+
+- Podokno map razširite samo, ko ga potrebujete. V levi stranski vrstici izberite ikono tri črte, da prikažete ali skrijete mape.
+- Odprite [Nastavitve postavitve](https://outlook.live.com/mail/options/mail/layout) in izberite **Skrij podokno za branje** in nato **Shrani**. To bo zaslon več prostora za prikaz mape.
+
+Če pomotoma izbrišete mapo, jo lahko obnovite, če je še vedno v mapi» izbrisani predmeti «. Če želite izvedeti več, preberite [obnavljanje izbrisanih e-poštnih sporočil v Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
