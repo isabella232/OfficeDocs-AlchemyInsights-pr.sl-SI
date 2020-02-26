@@ -3,6 +3,7 @@ title: Izpraznite mapo» izbrisani predmeti «v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768708"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277947"
 ---
 # <a name="empty-the-deleted-items-folder"></a>Izprazni mapo» izbrisani predmeti «
 
-Če želite izbrisati vsa izbrisana Outlookova sporočila, pojdite v [mapo z izbrisanimi predmeti](https://outlook.live.com/mail/deleteditems)in izberite **prazna mapa**, nato pa izberite **Obnovi elemente, izbrisane iz te mape** nad seznamom sporočil in znova izberite **prazna mapa** .
+1. Odprite mapo» izbrisani predmeti «in izberite **prazna mapa**.
+2. Na vrhu strani izberite **obnovljive elemente** in znova izberite **prazna mapa** .
 
-Če ste izbrisali veliko sporočil, lahko traja nekaj časa, da se ti elementi premaknejo ali izbrišejo iz mape» izbrisani predmeti «. Prosimo, pustite okno brskalnika odprto, dokler se elementi ne izbrišejo.
+**Mape» izbrisani predmeti «ni mogoče izprazniti**
 
-Če se sporočila ne izbrišejo pravilno, poskusite izbrisati manjše število sporočil.
+- Če ste izbrisali veliko e-pošte, lahko traja nekaj časa, da se ti elementi premaknejo ali izbrišejo iz mape» izbrisani predmeti «. Med izbrisom se odpre okno brskalnika.
+- Če e-poštno sporočilo še vedno ne uspe pravilno izbrisati, izberite manjšo serijo, ki jo želite izbrisati.
+- Če se izbrisana e-pošta vrne, je to lahko zato, ker ste pred kratkim izbrisali veliko e-pošte. Prosimo, poskusite znova kasneje.
