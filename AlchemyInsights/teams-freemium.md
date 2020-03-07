@@ -1,5 +1,5 @@
 ---
-title: Ekipe Freemium
+title: Ekipe freemium
 ms.author: heidip
 author: heidip
 ms.date: 3/6/2019
@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35354021"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556684"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>Rad bi da se prijavite za ekipe, ki je prosta, vendar ne morem.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>Rad bi se podpisal za ekipe zastonj
 
-- Če uporabljate Office 365 delo ali šolo račun, to brezplačno ponudbo ni na voljo. Organizacije, čeprav, morda že uporabljate ekipe. Če ne, pojdite na [Microsoft ekipe](https://products.office.com/microsoft-teams/group-chat-software) , da vidim, če izpolnjuje pogoje za brezplačno sojenje.
+Ekipe so na voljo brezplačno prek nekaj različnih programov. Ker se s to zahtevo obrnete na podporo, že imate obstoječega najemnika Microsoft 365, kar pomeni, da že imate Microsoft teams.
 
-- Akademske institucije niso upravičeni za to brezplačno ponudbo. Učitelji in študentje, čeprav, lahko dobite brezplačno različico Office 365, ki vključuje polno različico Microsoft Teams. Glej [Office 365 licenciranja za Microsoft ekipe](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+V večini primerov so ekipe privzeto vklopljene za vse uporabnike. Ko je vklopljen, lahko uporabniki vodijo ekipe, bodisi z namestitvijo [namiznih](https://office.visualstudio.com/MAX/_workitems/edit/desktop) in [mobilnih](https://office.visualstudio.com/MAX/_workitems/edit/desktop) odjemalcev ali [iz brskalnika](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients)  https://teams.microsoft.com.
 
-- Ameriških vladnih institucij niso upravičeni za to brezplačno ponudbo. Spoznati Office 365 načrte za vladne organizacije (vključno z brezplačno poskusno), preberite [Office 365 licenciranja za Microsoft ekipe](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+Izjema od tega je Microsoft Teams za šolstvo (EDU). Če imate licenco EDU, morate Microsoft Teams omogočiti ročno. Če želite to narediti, obiščite Microsoftovo 365 skrbniško središče **> storitve in dodatke > Microsoft Teams**. Če uporabljate novo skrbniško središče ekip, boste morali izklopiti **preizkusite novo skrbniško središče** , da poiščete **storitve in dodatke**. POMEMBNO: morda boste morali počakati do 24 ur, da se spremembe uveljavijo.
+
+Ne zamudite vseh naših navodil za [podporo oddaljenih delavcev z Teams](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams).
