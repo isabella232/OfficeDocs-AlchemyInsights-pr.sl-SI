@@ -12,15 +12,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 9c4f776cb0162ff2aa95ff53fdeaef3d54d1b7e2
-ms.sourcegitcommit: d682713aa9581a8b40209fd890048ffb8af57fa9
+ms.openlocfilehash: 7b561101ebdea51c5968a777c488f61dc4dd206b
+ms.sourcegitcommit: ef2abd2221398dea14e9bdbd19bf6ac3823a5f9b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/13/2020
-ms.locfileid: "41962313"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42573148"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="b122b-102">Zamujaš!</span><span class="sxs-lookup"><span data-stu-id="b122b-102">You're missing out!</span></span> <span data-ttu-id="b122b-103">Prosite skrbnika, da omogoči Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="b122b-103">Ask your admin to enable Microsoft Teams</span></span>
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a><span data-ttu-id="1ec2a-102">Zamujaš!</span><span class="sxs-lookup"><span data-stu-id="1ec2a-102">You're missing out!</span></span> <span data-ttu-id="1ec2a-103">Prosite skrbnika, da omogoči Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="1ec2a-103">Ask your admin to enable Microsoft Teams</span></span>
 
-<span data-ttu-id="b122b-104">Ali so fakulteta in osebje, ki lahko dostopajo do ekip, vendar študenti ne morejo, ali so vaši F1 licencirani uporabniki ne morejo dostopati do ekip?</span><span class="sxs-lookup"><span data-stu-id="b122b-104">Are faculty and staff able to access Teams but students cannot, or are your F1 licensed users unable to access Teams?</span></span>
+<span data-ttu-id="1ec2a-104">Če imate najemnika EDU, morate Microsoft Teams omogočiti ročno.</span><span class="sxs-lookup"><span data-stu-id="1ec2a-104">If you have an EDU tenant, you need to enable Microsoft Teams manually.</span></span> <span data-ttu-id="1ec2a-105">Če želite to narediti, obiščite Microsoftovo 365 skrbniško središče > **storitve in dodatke > Microsoft Teams**.</span><span class="sxs-lookup"><span data-stu-id="1ec2a-105">To do this, go to the Microsoft 365 admin center > **Services and add-ins > Microsoft Teams**.</span></span> <span data-ttu-id="1ec2a-106">Če uporabljate novo skrbniško središče ekip, boste morali izklopiti **preizkusite novo skrbniško središče** , da poiščete **storitve in dodatke**.</span><span class="sxs-lookup"><span data-stu-id="1ec2a-106">If you're using the new Teams admin center, you'll have to turn off **Try the new admin center** to find **Services and add-ins**.</span></span> 
 
-<span data-ttu-id="b122b-105">Ekipe morajo biti izrecno omogočene za študente in F1 licence.</span><span class="sxs-lookup"><span data-stu-id="b122b-105">Teams must be explicitly enabled for students and F1 licenses.</span></span> <span data-ttu-id="b122b-106">Podrobnejše informacije o tem, kako omogočiti skupinam za vašo šolo, najdete v [razdelku konfiguriranje ekip za izobraževanje](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span><span class="sxs-lookup"><span data-stu-id="b122b-106">You can find more detailed instructions about how to enable Teams for your school in [Configure Teams for Education](https://docs.microsoft.com/microsoft-365/education/deploy/set-up-teams-for-education).</span></span> 
+<span data-ttu-id="1ec2a-107">**Pomembno**: morda boste morali počakati do 24 ur, da se spremembe uveljavijo.</span><span class="sxs-lookup"><span data-stu-id="1ec2a-107">**IMPORTANT**: You may have to wait up to 24 hours for your changes to take effect.</span></span>
