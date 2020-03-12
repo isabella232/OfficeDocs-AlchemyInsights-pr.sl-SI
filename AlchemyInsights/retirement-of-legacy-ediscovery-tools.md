@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: c4632b52dde579b7d5b2e6e15f1583300a0bd136
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: af9a0bd8ff4294575ac68f37d4997bb50b132ce7
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157716"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600400"
 ---
 # <a name="retirement-of-legacy-ediscovery-tools"></a>Upokojitev Legacy orodja e-odkrivanja
 
@@ -37,7 +37,7 @@ Zaradi nove in izboljšane funkcionalnosti e-odkrivanja v Microsoftovem 365 cent
     - [Setholdonnabiralniki](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
     - [Getholdonnabiralniki](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [Urad 365 napreden eDiscovery v 1.0](https://docs.microsoft.com/en-us/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [Urad 365 napreden eDiscovery v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
 **Časovna premica za upokojitev**:
 - 1. april 2020: ne boste mogli ustvariti novih iskanj in zadržanj, vendar lahko še vedno zaženete, urejate in izbrišete obstoječa iskanja na lastno odgovornost. Microsoftova podpora ne bo več podpirala in-Place eDiscovery & zadržki v EAC.
@@ -46,9 +46,9 @@ Zaradi nove in izboljšane funkcionalnosti e-odkrivanja v Microsoftovem 365 cent
 
 **Za več informacij glejte**:
 
- - [Selitev podedovanih iskanj e-odkrivanja in skladišč v središče za skladnost z Microsoft 365](https://docs.microsoft.com/en-us/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [Upokojitev starejših orodij e-odkrivanja](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [Pogosta vprašanja o eDiscovery v mestu in kraju](https://docs.microsoft.com/en-us/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [Selitev podedovanih iskanj e-odkrivanja in skladišč v središče za skladnost z Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [Upokojitev starejših orodij e-odkrivanja](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [Pogosta vprašanja o eDiscovery v mestu in kraju](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 

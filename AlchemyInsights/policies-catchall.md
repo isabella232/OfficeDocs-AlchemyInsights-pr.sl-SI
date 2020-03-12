@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "3207"
-ms.openlocfilehash: c4694399b9ae5aa459357ed1610cccae762c0374
-ms.sourcegitcommit: 01c4ee1339ea5303de48d51d22da5ce6073549f3
+ms.openlocfilehash: 7c0c5becb7cd3182357e1a9c83e76215c3ab6b44
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38274979"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599968"
 ---
 # <a name="teams-policies"></a>Pravilniki skupin
 
@@ -27,7 +27,7 @@ Nastavitve programa Microsoft Teams nadzirajo pravilniki. Če želite narediti s
 Politike ekip so razdeljene na naslednja področja:
 
 - [Pravilniki skupin](https://docs.microsoft.com/MicrosoftTeams/teams-policies) nadzorujejo odkrivanje uporabnikov zasebnih ekip v iskanju in ustvarjanju zasebnih kanalov.  
-- [Pravilniki o srečanju](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) nadzorujejo, kaj lahko uporabniki storijo s sestanki ekip, vključno z nadzorovanjem čakalnice. Za pomoč pri težavah v preddverju, kot je konfiguriranje ekip za sprejem vseh, glejte [nadzor nastavitev v preddverju in ravni udeležbe](https://docs.microsoft.com/en-us/alchemyinsights/bypass-lobby).
+- [Pravilniki o srečanju](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) nadzorujejo, kaj lahko uporabniki storijo s sestanki ekip, vključno z nadzorovanjem čakalnice. Za pomoč pri težavah v preddverju, kot je konfiguriranje ekip za sprejem vseh, glejte [nadzor nastavitev v preddverju in ravni udeležbe](https://docs.microsoft.com/alchemyinsights/bypass-lobby).
 - [Pravilniki o sporočilih](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) nadzorujejo, kaj lahko uporabniki storijo s klepetom in sporočili, vključno z obračanjem klepeta ali izklopom, brisanjem klepetov, zahtevanjem potrdil o branju, z uporabo giphys in nalepk ter še več.
 - [Pravilniki o nastavitvi aplikacije](https://docs.microsoft.com/MicrosoftTeams/teams-app-setup-policies) nadzorujejo, katere aplikacije so na voljo uporabnikom, vključno z aplikacijami po meri in drugimi programi, ter vrstni red, v katerem se prikažejo.  
 - [Pravilniki o hranjenju](https://docs.microsoft.com/microsoftteams/retention-policies) podatkov za ekipe so na voljo v centru za varnost in skladnost sistema Office 365.

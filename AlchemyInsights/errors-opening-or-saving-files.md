@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42031630"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600148"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>Odpravljanje napak pri odpiranju ali shranjevanju Wordovih datotek
 
@@ -25,7 +25,7 @@ ms.locfileid: "42031630"
 - [Namestite posodobitve Officea](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). Če si želite ogledati seznam najnovejših posodobitev za Office, glejte [najnovejše posodobitve](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [Odpravite težave s poškodovanimi dokumenti v Wordu](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word).
 - [Popravite Officeovo aplikacijo](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- Če dokument vsebuje sledene spremembe, uporabite predloge v [Wordu upočasnjuje ali preneha odzivati, če obstajajo pretirane sledene spremembe ali komentarje](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding) za rešitev težave.
+- Če dokument vsebuje sledene spremembe, uporabite predloge v [Wordu upočasnjuje ali preneha odzivati, če obstajajo pretirane sledene spremembe ali komentarje](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) za rešitev težave.
 
 Če ste prejeli napako, kot je nekaj od tega, uporabite predloge v [sporočilu o napaki v Officeu, ko je datoteka blokirana z nastavitvami pravilnika registra](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office):
 

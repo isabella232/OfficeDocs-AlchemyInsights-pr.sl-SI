@@ -13,12 +13,12 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: d523ab51852cf771fb260d0050fbe92d4578ff76
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908760"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42599500"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams, nameščene s posodobitvami za Office
 
@@ -32,6 +32,6 @@ Poleg tega se bodo ekipe, začenši z različico 1906 v mesečnem kanalu, postop
 
 Če želite ***odstraniti ekipe*** iz naprave, v kateri se izvaja sistem Windows, glejte [odstranjevanje Microsoftovih ekip](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81). Če želite počistiti Microsoft Teams iz več ciljnih naprav ali uporabnikov, glejte [čiščenje uvajanja Microsoft Teams](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
 
-Če uporabljate računalnike v skupni rabi, storitve oddaljenega namizja (RDS) ali infrastrukturo navideznega namizja (VDI), si oglejte [okolja v skupni rabi in VDI z Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Če uporabljate Office for Mac, glejte [naprave Microsoft Teams v računalniku Mac](https://docs.microsoft.com/en-us/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Če uporabljate računalnike v skupni rabi, storitve oddaljenega namizja (RDS) ali infrastrukturo navideznega namizja (VDI), si oglejte [okolja v skupni rabi in VDI z Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams). Če uporabljate Office for Mac, glejte [naprave Microsoft Teams v računalniku Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
 
 **Opomba:** Ko je program Teams nameščen, se [samodejno posodablja](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) približno vsaka dva tedna z novimi funkcijami in posodobitvami kakovosti. 

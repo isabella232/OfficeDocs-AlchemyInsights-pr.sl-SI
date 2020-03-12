@@ -11,13 +11,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 07df61fdc78cc66bff530b85239f10c4a7cde498
-ms.sourcegitcommit: ff9e8e27415cc7f24f1bc5fcbd477d293e460d9d
+ms.openlocfilehash: ce053dc513ab8aadfad13ce3c0bb812a844e6f92
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42164199"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600004"
 ---
 # <a name="implement-qos-and-monitor-call-quality-in-teams"></a>Implementirajte QoS in spremljajte kakovost klica v skupinah
 
-Google Analytics in Nadzorna plošča za kakovost klica lahko pomagata pri odpravljanju težav s kakovostjo klicev v storitvi Microsoft teams. Če želite izvedeti več o kakovosti storitve (QoS), storitvi Analytics za klic in nadzorni plošči za kakovost klica (CQD), glejte [izvajanje kakovosti storitev QoS in monitorja v programu Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/monitor-call-quality-qos). 
+Google Analytics in Nadzorna plošča za kakovost klica lahko pomagata pri odpravljanju težav s kakovostjo klicev v storitvi Microsoft teams. Če želite izvedeti več o kakovosti storitve (QoS), storitvi Analytics za klic in nadzorni plošči za kakovost klica (CQD), glejte [izvajanje kakovosti storitev QoS in monitorja v programu Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos). 
