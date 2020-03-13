@@ -11,15 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: e899d29da78b2820c4384252af162092b81e9391
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
+ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564361"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42612363"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>Raziskovalna izkušnja programa Microsoft Teams
 
 Raziskovalna izkušnja programa Microsoft Teams omogoča uporabnikom v vaši organizaciji, ki imajo Azure Active Directory (AAD) in niso licencirani za ekipe, sproži raziskovalno izkušnjo ekip. Skrbniki lahko to funkcijo vklopijo ali izklopijo za uporabnike v njihovi organizaciji. (Prejšnja Microsoft Commercial Cloud Trial se zdaj imenuje ekipe raziskovalne izkušnje.)
+
+Raziskovalna izkušnja programa Microsoft Teams je na voljo brez dodatnih stroškov, dokler se naslednji dogovor o podjetju ne podaljša ali obnovi na januar 2021 ali po njem. Takrat bodo morali končni uporabniki v licenci za izkušnjo Microsoft raziskovalnega dovoljenja preseliti v plačano licenco, ki vključuje skupine teams.
 
 Če želite več informacij, glejte [upravljanje raziskovalne licence za Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
