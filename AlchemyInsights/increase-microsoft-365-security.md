@@ -1,29 +1,30 @@
 ---
-title: Povečajte Microsoft 365 Security
+title: Izboljšajte varnost okolja Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001681"
 - "3746"
-ms.openlocfilehash: 998eadb49068b0ca8001498efb97fc29c912c2a6
-ms.sourcegitcommit: 6df4460313ca033d18b59669506de1dbb7482ef9
-ms.translationtype: MT
+- "3821"
+ms.openlocfilehash: 5c1e43e6c49eda244dfdefedcd99a0cb17f74d67
+ms.sourcegitcommit: 09a46448411022829e4b83879c113c0ccfc29625
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2020
-ms.locfileid: "42573571"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42707459"
 ---
-# <a name="increase-microsoft-365-security"></a>Povečajte Microsoft 365 Security
+# <a name="increase-microsoft-365-security"></a>Izboljšajte varnost okolja Microsoft 365
 
-Preglejte [priporočeno konfiguracijo varnosti](https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-wide-setup-for-increased-security?view=o365-worldwide) za vašega Microsoftovega 365 najemnika.
+Preglejte [priporočeno konfiguracijo varnosti](https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-wide-setup-for-increased-security?view=o365-worldwide) za svojega najemnika okolja Microsoft 365.
 
-- Preberite več o [Microsoftovem programu varnih točk](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide) in [izvedite ukrepe](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide#take-action-to-improve-your-score) za **izboljšanje rezultata**.
+- Dobite več informacij o storitvi [Microsoft Secure Score](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide) in [sprejmite ukrepe](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score?view=o365-worldwide#take-action-to-improve-your-score) za **izboljšanje ocene**.
 
-- Preberite več o [odzivanju na varnostne incidente](https://docs.microsoft.com/microsoft-365/security/office-365-security/office365-security-incident-response-overview?view=o365-worldwide), vključno z **ogrovnjenimi računi**.
+- Dobite več informacij o [odzivanju na varnostne primere](https://docs.microsoft.com/microsoft-365/security/office-365-security/office365-security-incident-response-overview?view=o365-worldwide), vključno z **ogroženimi računi**.
 
-Če želite več informacij, glejte [Uvod v Microsoft 365 Security](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap?view=o365-worldwide). 
+Če želite več informacij, glejte [Uvod v varnost okolja Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/security-roadmap?view=o365-worldwide). 
