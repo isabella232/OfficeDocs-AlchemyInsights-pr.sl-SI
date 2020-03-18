@@ -1,24 +1,42 @@
 ---
-title: Kako nastavim zvočne konference za ekipe
+title: Nastavitev zvočnih konferenc za aplikacijo Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: eb875a0659327e0669c449a4b16037f2c7fc0eb2
-ms.sourcegitcommit: 60166417054fddd68750f1ce5898af79d9de1dfa
-ms.translationtype: MT
+ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
+ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/03/2019
-ms.locfileid: "37383966"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42692411"
 ---
-# <a name="phone-systems-and-audio-conferencing-for-teams"></a>Telefonski sistemi in avdio konference za ekipe
+# <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – zvočne konference
 
-Če želite več informacij o sestankih in konferencah v storitvi Microsoft Teams, glejte [srečanja in konference v storitvi Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page).
+Ali potrebujete pomoč pri vklopi ali nastavitvi zvočnih konferenc v aplikaciji Microsoft Teams? Ali je bil ta uporabnik nedavno ustvarjen?  Če je, boste morali počakati 2–24 h, preden bodo spremembe začele delovati.    
+
+Če želite preveriti, ali ima uporabnik licenco za zvočne konference in ali ima privzeto plačljivo telefonsko številko:
+
+1. Pojdite v razdelek [Aktivni uporabniki](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) in izberite želenega uporabnika.
+
+2. Glede na različico Skrbniškega središča izberite **Licence in aplikacije** ali kliknite **Urejanje** v razdelku **Različice izdelkov**.
+
+3. Preverite, ali ima uporabnik licence, izbrane za **zvočne konference, Microsoft Teams** in **Skype za podjetja Online (paket 2)**.
+
+4. Uporabniki kliknite **Skrbniško središče**, **Pokaži vse** in nato **Teams**.
+
+5. V **Skrbniškem središču za Microsoft Teams** kliknite **Podedovani portal**.
+
+6. V **Skrbniškem središču za Skype za podjetja** kliknite **zvočne konference** in nato **uporabniki**.
+
+7. Izberite želenega uporabnika in preverite, ali ima **privzeto plačljivo telefonsko številko**.
+
+Če želite več informacij, glejte [Načrti klicanja za Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ali pokličite ekipo za Microsoft Commerce Billing, ki vam bo pomagala pri vprašanjih, povezanih z licenciranjem.
