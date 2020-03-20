@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: c7f7e14b17b51b916b7acb4a485eaed07f5be53b
-ms.sourcegitcommit: 45b50760c00b5639b7199cb3812e44404ba04695
+ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
+ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/18/2020
-ms.locfileid: "42745020"
+ms.lasthandoff: 03/19/2020
+ms.locfileid: "42856483"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Pogoste težave aplikacije Teams in rešitve
 
@@ -36,11 +36,11 @@ Za vse uporabnike aplikacije Teams:
 
     Če želite preveriti, ali ima uporabnik licenco za zvočne konference in ali ima privzeto plačljivo telefonsko številko:
     1.    Pojdite v razdelek Aktivni uporabniki in izberite želenega uporabnika.
-    2.    Glede na različico Skrbniškega središča izberite »Licence in aplikacije« ali kliknite »Urejanje« v razdelku »Različice izdelkov«.
+    2.    Glede na različico Skrbniškega središča izberite **Licence in aplikacije** ali kliknite **Urejanje** v razdelku **Različice izdelkov**.
     3.    Preverite, ali ima uporabnik licence, izbrane za zvočne konference, Microsoft Teams in Skype za podjetja Online (paket 2).
-    4.    Uporabniki v skrbniškem središču kliknite Pokaži vse in nato Teams.
-    5.    V Skrbniškem središču za Microsoft Teams kliknite Podedovani portal.
-    6.    V Skrbniškem središču za Skype za podjetja kliknite zvočne konference in nato uporabniki.
+    4.    Skrbniška središča za uporabnike kliknite **Prikaži vse** in nato **skupin**.
+    5.    V skrbniškem središču za Microsoft Teams kliknite **Legacy portal**.
+    6.    V skrbniškem središču za Skype za podjetja kliknite **zvočnih konferenc** in nato **uporabniki**.
     7.    Izberite želenega uporabnika in preverite, ali ima privzeto plačljivo telefonsko številko.
     
     Če želite več informacij, glejte [Načrti klicanja za Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) ali pokličite ekipo za Microsoft Commerce Billing, ki vam bo pomagala pri vprašanjih, povezanih z licenciranjem.
