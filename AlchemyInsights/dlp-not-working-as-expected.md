@@ -1,5 +1,5 @@
 ---
-title: DLP, ki ne deluje po pričakovanjih
+title: DLP ne deluje po pričakovanjih
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,39 +13,43 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 102c8025571f840cf64091d75295acec50661df2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a56e18ddadef3a2f9056978b8542c1dba8f29665
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530311"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932638"
 ---
-# <a name="dlp-not-working-as-expected"></a>DLP, ki ne deluje po pričakovanjih
+# <a name="dlp-not-working-as-expected"></a>DLP ne deluje po pričakovanjih
 
-Ali imate težave s **Podatki Loss preprečevanje (DLP)** v Office 365, ki ne deluje po pričakovanjih? Če je tako, se prepričajte, da vaš **DLP politike** pravilno nastavljen, in da podatki vsebujejo kaj **DLP politika** išče, ko to ocenjujejo.
+**Pomembno**: mnogi uporabniki storitve SharePoint online in OneDrive vodijo aplikacije, ki so kritične za podjetja, proti storitvi, ki se zažene v ozadju. Ti vključujejo vsebino migracije, preprečevanje izgube podatkov (DLP), in backup rešitve. V teh neprimerljivo času, smo sprejeti ukrepe za zagotovitev, da SharePoint online in storitve OneDrive ostajajo zelo na voljo in zanesljive za vaše uporabnike, ki so odvisni od storitve bolj kot kdajkoli prej v oddaljenih delovnih scenarijev.
+
+V podporo temu cilju smo izvedli strožje omejitve omejevanja osnovnih aplikacij (migracije, DLP in varnostne rešitve) med tednom podnevi. Pričakovati je, da bodo te aplikacije dosegle zelo omejene prepustne čase v teh časih. Vendar pa bo v večernih urah in vikendih za regijo, storitev pripravljena obdelati bistveno večji obseg zahtevkov iz ozadja aplikacij.
+
+ **Nastavitev DLP**
+
+Ali imate težave s **preprečevanjem izgube podatkov (DLP)** v officeu 365 ne deluje po pričakovanjih? Če je tako, se prepričajte, da je **pravilnik DLP** pravilno nastavljen in da podatki vsebujejo tisto, kar išče **pravilnik DLP** , ko se ovrednoti.
   
- **Nastavljanje DLP**
+Pravilniki DLP omogočajo prepoznavanje in zaščito občutljivih informacij v organizaciji. Če želite nastaviti pravilnike DLP, uporabite informacije [tukaj](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
   
-DLP politike omogoča prepoznavanje in zaščito občutljivih podatkov v organizaciji. Setup DLP politike, uporabljajo informacije [tukaj](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+ **Katere politike DLP iščejo**
   
- **Kaj DLP pravila iskati**
+Pri uporabi **vgrajenih občutljivih vrst informacij** v središču Office 365 varnost in skladnost center, pravilniki DLP pri odkrivanju teh občutljivih tipov iščejo določene vzorce in elemente.
   
-Ko uporabljate **vgrajeno občutljivih podatkov vrste** Office 365 varnost in skladnost center, DLP pravila iskati določene vzorce in elementi pri odkrivanju teh občutljivih vrst.
-  
-- **Vgrajeno občutljivih podatkov vrste**
+- **Vgrajene vrste občutljivih informacij**
 
-    Informacije o vgrajeni občutljivih vrst in kaj DLP politika išče, ko zazna občutljive vrste, glejte: [iskati kakšne vrste občutljivih informacij](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+    Če želite več informacij o vgrajenih vrstah občutljivih in o tem, kaj je videti v pravilniku o DLP pri odkrivanju občutljive vrste, glejte: [Kaj iščejo občutljive vrste informacij](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- **Vrste po meri občutljivih informacij**
+- **Vrste občutljivih informacij po meri**
 
-    Če želite ustvariti vrste po meri občutljive informacije, uporabite naslednji članek za informacije o tem, kako ustvariti po meri občutljive vrste: [Ustvari vrsto meri občutljivih informacij](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
+    Če poskušate ustvariti občutljive vrste informacij po meri, uporabite ta članek za informacije o tem, kako ustvariti občutljivo vrsto po meri: [ustvarite vrsto občutljive informacije po meri](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type).
 
-**Test DLP politike**
+**Preskusite pravilnik DLP**
 
-Preizkusiti svoje podatke z vrsto vgrajenih ali prilagojenih občutljive informacije, uporabite **preskus tipa** možnost iz **klasifikacije** > **vrst občutljivih informacij**. Če želite več informacij, glejte [Test meri občutljivih podatkov vrste](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+Če želite podatke preskusiti z vgrajenim ali po meri občutljivim informacijskim tipom, uporabite možnost **Vrsta preskusa** pod **razvrstitvami** > **občutljivih vrst**informacij. Če želite več informacij, glejte [preizkušanje občutljivih vrst informacij po meri](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
 
  **Poročila**
   
-- Dobili vpogled občutljivih podatkov s [DLP poročila.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
+- Pridobite občutljive vpoglede podatkov s [poročili DLP.](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#dlp-reports)
 
-- Glej podrobnosti o dogodku, [Poročilo o incidentu](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).
+- Oglejte si posebne podrobnosti dogodka s [poročilom o incidentu](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies#incident-reports).

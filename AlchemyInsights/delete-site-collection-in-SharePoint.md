@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 01290defa0c12ba92707bf7368b371c14f2eae56
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042896"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931314"
 ---
 # <a name="delete-a-site"></a>Brisanje spletnega mesta
 
-Ko izbrišete spletno mesto, se premakne na [izbrisana mesta](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) in zadrži za 93 dni. Če želite izbrisati spletno mesto, pojdite na [aktivna mesta](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+Ko izbrišete spletno mesto, se premakne na izbrisana mesta in se obdrži za 93 dni. Če želite izbrisati spletno mesto, pojdite na [aktivna mesta](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
 Ko izbrišete spletno mesto, je vse v njem izbrisano, vključno z:
 
