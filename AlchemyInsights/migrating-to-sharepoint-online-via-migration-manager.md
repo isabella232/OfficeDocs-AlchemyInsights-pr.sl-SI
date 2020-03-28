@@ -11,18 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: 5aebf7903670e74f616c8f151749d760caf1d642
-ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
+ms.openlocfilehash: b25bf02e0ccddbb7524816cab0933f026a6a9224
+ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/24/2020
-ms.locfileid: "42932372"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959022"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>Selitev v SharePoint Online z upraviteljem selitve
 
-**Pomembno**: veliko uporabnikov storitev SharePoint Online in OneDrive zaganjajo aplikacije, ključne za delovanje podjetja, v storitvi, ki se izvaja v ozadju. Med te sodijo selitev vsebine, storitev preprečevanja izgube podatkov (DLP) in rešite za varnostno kopiranje. Med temi nepredvidljivimi časi želimo poskrbeti, da storitvi SharePoint Online in OneDrive ostaneta razpoložljivi in zanesljivi za uporabnike, ki se bolj kot kdaj koli prej zanašajo na te storitve pri scenarijih oddaljenega dela.
-
-Kot podporo temu cilju smo uvedli bolj stroge omejitve dušenja za aplikacije v ozadju (selitev, DLP in rešitve varnostnega kopiranja) med dnevnim časom delovnih dni. Pričakujete lahko, da bo prepustnost teh aplikacij med tem obdobjem zelo nizka. Toda med koncem tedna v regiji pa bo storitev pripravljena na obdelavo znatno večje količine zahtev aplikacij v ozadju.
+**Pomembno**: med temi nepredvidljivimi časi sprejemamo ukrepe, s katerimi skrbimo, da storitvi SharePoint Online in OneDrive ostajata dobro razpoložljivi. Če želite več informacij, si oglejte razdelek [Začasne prilagoditve funkcij storitve SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **Upravitelj selitve**
 
