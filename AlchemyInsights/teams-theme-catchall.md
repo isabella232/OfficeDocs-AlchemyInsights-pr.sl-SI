@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856483"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030416"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>Pogoste težave aplikacije Teams in rešitve
+
+**Pomembno**: zaradi nedavnega povečanja uporabe aplikacije Teams, ko uporabniku dodelite licenco aplikacije Teams, lahko traja približno 24 ur, preden bodo te v celoti nastavljene. Do takrat jim ne boste mogli dodeliti pravilnikov aplikacije Teams in morda ne bodo imeli dostopa do nekaterih funkcij aplikacije Teams, kot sta klicanje in zvočne konference.
+
+**Pogoste težave in rešitve**
 
 Če želite bolj specifičen odgovor, preoblikujte vprašanje tako, da bo vsebovalo morebitne napake, ki jih vidite, ali napake funkcij aplikacije Teams, ki jih uporabljate.
 
