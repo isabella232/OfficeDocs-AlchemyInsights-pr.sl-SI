@@ -13,19 +13,17 @@ ms.custom:
 - "126"
 - "1600020"
 ms.assetid: e85bffec-e5ad-418a-8561-dab6257e1864
-ms.openlocfilehash: 136337c2791c69bf97ffd6a1498917015d348f8d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e061ad6b74b27e3f0d597586cb2c8e31b8fa5d23
+ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523887"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43105255"
 ---
-# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Pridobivanje nabiralnika ni bilo mogoče najti napake v Outlooku na spletu?
+# <a name="getting-a-mailbox-not-found-error-in-outlook-on-the-web"></a>Kako nabiralnik ni našel napake v programu Outlook v spletu?
 
-Če uporabljate Outlook v spletu, boste dobili napako **nabiralnika ni bilo mogoče najti za** račun, ki ste ga uporabili za povezavo v Outlook na spletu nima licenco za Exchange Online in zato ni predal je povezan z računom. Admin lahko licenco dodelite vaš račun z naslednjim korakom:
+Če uporabljate Outlook v spletu in niste **našli nabiralnika, ni bilo mogoče najti** napake, račun, s katerim ste se povezali z Outlookom v spletu, nima licence za Exchange Online in zato ni nabiralnika povezan z računom. Skrbnik vam lahko dodeli licenco za vaš račun tako, da sledite tem korakom:
 
-1. Odprite [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) in pod **aktivnih uporabnikov**, izberite **Uredi uporabnik**.
+1. Odprite [skrbniško središče Microsoft 365](https://portal.office.com/adminportal/home#/homepage) in pojdite na **aktivne uporabnike** pod razdelek **Uporabniki** in izberite uporabnika, ki vidi napako.
 
-2. Na strani **Urejanje uporabnik** , ki se odpre, izberite uporabnika. Uporabnik lastnosti strani, ki se odpre, kliknite **Uredi** za **licence izdelka**.
-
-3. V **licencah izdelkov** strani, ki se odpre, izberite ustrezno **mesto** vrednost in dodelite licence, ki vsebuje Exchange Online (razširiti dovoljenje za prikaz podrobnosti). Ko končate, kliknite **Shrani**.
+2. Na strani uporabnika, ki se odpre, pojdite v razdelek **licence in aplikacije** , izberite ustrezno vrednost **lokacije** in dodelite licenco, ki vsebuje Exchange Online (razširite licenco za prikaz njenih podrobnosti). Ko končate, kliknite **Shrani spremembe**.
