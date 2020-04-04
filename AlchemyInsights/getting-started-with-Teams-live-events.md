@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 66c9cb9f95ff83df9e50189971411d82484b7707
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 4b131f7d0cd39070bbc878823a47496bd6b3c99b
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034395"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43143011"
 ---
 # <a name="getting-started-with-teams-live-events"></a>Uvod v prireditve v živo aplikacije Teams
 
@@ -24,7 +24,7 @@ Dogodki v storitvi Microsoft Teams Live so razširitev sestanka skupin, s kateri
 
 Če želite ustvariti dogodek v živo, boste potrebovali to:
 
-- Licenca za [Office 365 Enterprise E1, E3 ali E5 ali licenca za Office 365 a3 ali a5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses).
+- Licenca za [Office 365 Enterprise E1, E3 ali E5 ali licenca za Office 365 a3 ali a5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **Opomba**: zaradi nedavnega povečanja uporabe aplikacije Teams, ko uporabniku dodelite licenco aplikacije Teams, lahko traja približno 24 ur, preden bodo te v celoti nastavljene. Do takrat jim ne boste mogli dodeliti pravilnikov aplikacije Teams in morda ne bodo imeli dostopa do nekaterih funkcij aplikacije Teams, kot sta klicanje in zvočne konference.
 
 - Dovoljenje za [ustvarjanje dogodkov v živo v skrbniškem središču za Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 
