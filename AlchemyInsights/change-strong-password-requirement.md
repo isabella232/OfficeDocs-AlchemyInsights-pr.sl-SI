@@ -1,5 +1,5 @@
 ---
-title: Sprememba zahteva močno geslo
+title: Spremeni močno geslo zahteva
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000105"
 - "1600"
-ms.openlocfilehash: f8790a26ec7c5de57f5dbfc9e1c162767c599f03
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 21f80a7cc8b00ac56acdb05add1e1bfdfac9d827
+ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518775"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43286294"
 ---
-# <a name="change-strong-password-requirement"></a>Sprememba zahteva močno geslo
+# <a name="change-strong-password-requirement"></a>Spreminjanje zahteve po trdnem geslu
 
-Microsoft zahteva močnih gesel, privzeto. 
+Microsoft privzeto zahteva zapletena gesla. 
 
-Z uporabo PowerShell, lahko onemogočite močnih gesel za določene uporabnike, s tem ukazom:<br>
-*Set-MsolUser-UserPrincipalName <UserPrincipalName> -StrongPasswordRequired $false*
+Z uporabo lupine PowerShell lahko onemogočite zapletena gesla za določene uporabnike s tem ukazom:<br>
+*Set-MsolUser-UserPrincipalName <UserPrincipalName> -strongpasswordzahtevani $FALSE*
 
-- [Če želite več informacij o politiki geslo](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
-- [Kako povezati Office 365 v PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
-- [Več informacij o PowerShell MsolUser ukaze](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [Več informacij o pravilniku o geslih](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy#password-policies-that-only-apply-to-cloud-user-accounts)
+- [Kako povezati z Office 365 z PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/connect-to-office-365-powershell#connect-with-the-microsoft-azure-active-directory-module-for-windows-powershell)
+- [Več informacij o ukazih lupine MsolUser](https://docs.microsoft.com/powershell/module/msonline/set-msoluser?view=azureadps-1.0)
+- [Nastavitev gesla posameznega uporabnika, da nikoli ne poteče](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
