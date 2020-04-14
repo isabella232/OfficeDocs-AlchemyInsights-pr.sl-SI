@@ -1,5 +1,5 @@
 ---
-title: Uvoz in izvoz Outlookovih e-poštnih sporočil, stikov in elementov koledarja
+title: Uvoz in izvoz Outlookovih e-poštnih sporočil, stikov ter elementov koledarja
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,7 +18,7 @@ ms.contentlocale: sl-SI
 ms.lasthandoff: 04/12/2020
 ms.locfileid: "43232786"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Uvoz in izvoz Outlookovih e-poštnih sporočil, stikov in elementov koledarja
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Uvoz in izvoz Outlookovih e-poštnih sporočil, stikov ter elementov koledarja
 
 1. V Outlooku kliknite **Datoteka**.
 
