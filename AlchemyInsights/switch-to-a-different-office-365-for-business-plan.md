@@ -1,5 +1,5 @@
 ---
-title: Preklopite na različnih Office 365 za poslovni načrt
+title: Preklop na drug urad 365 za poslovni načrt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,25 +12,25 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: 2374f8e0c38b63bb45921ba78a2b56ad065ed49c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
+ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665992"
+ms.lasthandoff: 04/17/2020
+ms.locfileid: "43548014"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Preklopite na različnih Office 365 za poslovni načrt
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>Preklop na drug urad 365 za poslovni načrt
 
-Ko poslovne spremembe, ali vi potreba več zunanja oblika Office 365, vi moči vzpenjajoč se v nov načrt.
+Ko se vaše podjetje spremeni ali potrebujete več funkcij funkcije Office 365, lahko nadgradite na nov načrt.
   
-1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
+1. V skrbniškem središču pojdite na **izdelke za \> obračunavanje [& storitve](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Izberite naročnine, ki ga želite nadgraditi.
+2. Izberite naročnino, ki jo želite nadgraditi.
 
-3. Na strani s podrobnostmi naročnino, izberite **nadgraditi**.
+3. Na [strani s podrobnostmi o naročnini](https://admin.microsoft.com/AdminPortal/Home#/subscriptions/webdirect%252F0dbaa202-d590-4529-98c2-a5e2ebaac702)izberite **Nadgradnja**.
 
-4. Najti načrt, ki ga želite nadgraditi, nato pa izberite gumb za **nadgradnjo** .
+4. Poiščite načrt, ki ga želite nadgraditi, nato pa izberite gumb **nadgradi** .
 
-5. Vnesite številko licence, ki jo potrebujete, izberite, ali želite plačati vsak mesec ali za celo leto, nato pa izberite **Checkout**.
+5. Vnesite število licenc, ki jih potrebujete, izberite, ali želite plačati vsak mesec ali celo leto, nato pa izberite **Checkout**.
 
-Če želite izvedeti več, glejte [vzpenjajoč se v drug načrt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).  
+Če želite izvedeti več, glejte [Nadgradnja na drug načrt](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).

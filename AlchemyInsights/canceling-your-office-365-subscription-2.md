@@ -1,5 +1,5 @@
 ---
-title: Preklic naročnine Office 365?
+title: Ali želite preklicati naročnino na Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,23 @@ ms.custom:
 - "87"
 - "1400001"
 ms.assetid: ec57734d-073d-4aee-8c7c-f4aa9e7130ae
-ms.openlocfilehash: 7bf1ae4696576155ac3df3356ebf5d32ec779dbb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: a3416ec86908d529fd5f2750344763de36363a08
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665488"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552613"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Preklic naročnine Office 365?
+# <a name="canceling-your-office-365-subscription"></a>Ali želite preklicati naročnino na Office 365?
 
-Smo žal da si šel!
+Žal nam je, ker vas vidim oditi!
   
-Glede na podatke, verjamemo, da vse vaše trenutne naročnine so več kot 25 dodeljene licence. Odstranite lahko uporabnike dokler imate manj kot 25, potem pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani. V odseku **Nastavitve & dejanja** izberite **Prekliči naročnino**.
+Glede na podatke vaše organizacije verjamemo, da imajo vse vaše trenutne naročnine več kot 25 dodeljenih licenc. Uporabnike lahko odstranite, dokler ne boste imeli manj kot 25, nato pa pojdite na stran izdelki za **obračunavanje** \> [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) . V razdelku **nastavitve & dejanja** izberite **Prekliči naročnino**.
   
-Pa izberite **potrebujejo pomoč** pogovoriti z inženirjem za podporo.
+Izmeničen, raje imeti **potreba pomoč** v pomenek v a zaslomba inženir.
   
-Če želite izvedeti več, glejte [preklicati naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Vračilo: vsak proporiran kredit bo vrnjen v naslednjem obračunskem ciklu.** 
+
+**Opomba**: če ne vidite možnosti za preklic, kliknite na naročnino za ogled podrobnosti in si oglejte **Prekliči naročnino** možnost v **Nastavitve & dejanja**. 
+
+Če želite izvedeti več, glejte [preklic naročnine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

@@ -1,5 +1,5 @@
 ---
-title: Preklic naročnine Office 365?
+title: Ali želite preklicati naročnino na Office 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,21 +12,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 54872bd5f3053e2ac72552feac122343e5afe54e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 05a20f539fbff1018b2869bc10fe597ff91187ce
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665452"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552577"
 ---
-# <a name="canceling-your-office-365-subscription"></a>Preklic naročnine Office 365?
+# <a name="canceling-your-office-365-subscription"></a>Ali želite preklicati naročnino na Office 365?
 
-Mi bomo žal da si šel, vendar če želite preklicati naročnino, tukaj so možnosti:
+Mi bomo žal, da vas vidim iti, če pa želite preklicati naročnino, tukaj so vaše možnosti:
   
-- Če ste poskus stranka, ni nič odpovedati. Preskusne naročnine samodejno zapadel, razen če vam način plačila.
+- Če ste stranka sojenja, ni nič za preklic. Preizkusne naročnine se samodejno potečejo, razen če predložite plačilno sredstvo.
 
-- Če imate manj kot 25 dodeljene licence, lahko prekličete naročnino na spletu. Pojdi na **račun** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani. V odseku **Nastavitve & dejanja** izberite **Prekliči naročnino**.
+- Če imate manj kot 25 dodeljenih licenc, lahko naročnino prekličete na spletu. Pojdite na stran izdelki za **obračunavanje** \> [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) . V razdelku **nastavitve & dejanja** izberite **Prekliči naročnino**.
 
-- Če imate več kot 25 dodeljene licence, lahko bodisi odstranite uporabnike, dokler imate manj kot 25, ali z možnostjo "naj nas pokličeš" govoriti inženir za podporo.
+- Če imate več kot 25 dodeljenih licenc, lahko uporabnike odstranite, dokler nimate manj kot 25, ali pa uporabite možnost» Dovolite nam klic «, da se pogovorite z inženirjem za podporo.
+  
+**Vračilo: vsak proporiran kredit bo vrnjen v naslednjem obračunskem ciklu.** 
 
-Če želite izvedeti več, glejte [preklicati naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**Opomba**: če ne vidite možnosti za preklic, kliknite na naročnino za ogled podrobnosti in si oglejte **Prekliči naročnino** možnost v **Nastavitve & dejanja**. 
+
+Če želite izvedeti več, glejte [preklic naročnine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

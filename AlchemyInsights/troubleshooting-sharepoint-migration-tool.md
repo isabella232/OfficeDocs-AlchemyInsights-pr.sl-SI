@@ -13,16 +13,14 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 6432d32a4424c13f38077b37aa5f689a573a876e
-ms.sourcegitcommit: 1173501899034ad5f6a432311bc3f1091ead3efa
+ms.openlocfilehash: c634596b42e672f635bb50d080429c94fe2da258
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43541905"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552901"
 ---
 # <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Odpravljanje težav z orodjem in napakami v SharePointovem orodju za selitev
-
-**Pomembno**: med temi nepredvidljivimi časi sprejemamo ukrepe, s katerimi skrbimo, da storitvi SharePoint Online in OneDrive ostajata dobro razpoložljivi. Če želite več informacij, si oglejte razdelek [Začasne prilagoditve funkcij storitve SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 Pri uporabi SharePointovega orodja za selitev (SPMT) lahko naletite na pogosta vprašanja in napake. Za več informacij se obrnite na spodnje povezave.
 
