@@ -1,9 +1,9 @@
 ---
-title: Pomoč razumevanje vrednosti doda davčne (DDV)
+title: Pomoč pri razumevanju davka na dodano vrednost (DDV)
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "435"
 - "1500005"
 ms.assetid: 3bb6fce9-2072-4380-9c05-6aad40792eea
-ms.openlocfilehash: a8512f753e4d74a274f30bf5191495ffcaf3a23b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: cfe38fa8406980c45bcf3604acd0b666dfe1ee7c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390528"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710135"
 ---
-# <a name="help-understanding-value-added-tax-vat"></a>Pomoč razumevanje vrednosti doda davčne (DDV)
+# <a name="help-understanding-value-added-tax-vat"></a>Pomoč pri razumevanju davka na dodano vrednost (DDV)
 
-Če ste v državi, ki uporablja vrednotijo dodano davka (DDV), kot so Velika Britanija, Microsoft Invoicing izračuna DDV za vas, in se uporablja znesek za svoje račune.
+Če ste v državi, ki uporablja davek na dodano vrednost (DDV), kot je Združeno kraljestvo, Microsoft fakturiranje izračuna DDV za vas in uporabi znesek za vaše račune.
   
-Davčnih razlogov, morate določiti tudi vašo davčno številko v nastavitvah za fakturiranje.
+Iz davčnih razlogov morate določiti tudi svojo registrsko številko za DDV v nastavitvah fakturiranja.
   
-Ni mogoče dodati ali odstraniti stopnje DDV, vendar lahko spremenite privzeto stopnjo DDV v nastavitve. Privzeto, fakturiranje uporablja storitev za preverjanje davčne številke, vendar vam priporočamo, da si preberete [VIES opozorilo](https://go.microsoft.com/fwlink/?LinkID=841741) objavila Evropska Komisija. Če želite onemogočiti storitev, morate preveriti vse davčne številke.
+Stopenj DDV ne morete dodajati ali odstranjevati, vendar lahko v nastavitvah spremenite privzeto stopnjo DDV-a. Fakturiranje privzeto uporablja storitev za potrjevanje registrskih številk za DDV, vendar priporočamo, da preberete [izjavo VIES o omejitvi odgovornosti](https://go.microsoft.com/fwlink/?LinkID=841741) , ki jo je objavila Evropska Komisija. Če se odločite onemogočiti storitev, morate preveriti vse registracijske številke za DDV.

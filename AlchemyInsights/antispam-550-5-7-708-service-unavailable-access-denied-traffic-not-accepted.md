@@ -1,9 +1,9 @@
 ---
-title: 1047 antiSpam 550 5.7.708 storitev ni na voljo. Dostop zavrnjen, ni sprejeta od tega IP prometa
+title: 1047 AntiSpam 550 5.7.708 storitev ni na voljo. Dostop zavrnjen, promet ni sprejet iz tega IP
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: 97a1e855730baba32768109f0fc4da29fe8e4e93
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cd4f3d7f3783c70a00a2575a297cb4d92cdac80d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505127"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707891"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 dostop zavrnjen, prometa ni sprejeta od tega IP
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 dostop zavrnjen, promet ni sprejet iz tega IP
 
-Do te napake pride, ko se pošiljanje e-pošte iz znane, nizek ugled IP naslovov, ki jih običajno uporabljajo nove stranke.
+To zmota dogoditi se čas spodbuda email s znana veličina, pritličen ugled IP naslovljenec to ste navadno že rabljen z nov šega.
 
-Če morate poslati e-pošto iz teh IP naslovov Preden kupite licence, se obrnite na podporo zahteva izjema, dokler ste sposobni za nakup licence.
+Če morate poslati e-pošto s teh naslovov IP, preden lahko kupite licence, se obrnite na podporo, da zahtevate izjemo, dokler ne boste mogli kupiti licenc.

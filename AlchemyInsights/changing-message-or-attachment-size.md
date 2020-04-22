@@ -10,16 +10,16 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: bbb8741fcb394d0951a1fb40400a7534737d3a7a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 18d136f1fdd67b4af89b0f81da19e052f5ea3ff8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769679"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706425"
 ---
 # <a name="changing-message-or-attachment-size"></a>Spreminjanje velikosti sporočila ali Priloge
 
-Kot skrbnik sistema Office 365 lahko spremenite najvišjo/najmanjšo velikost sporočil (ki vključuje Priloge), ki jih uporabniki pošljejo. To lahko storite za posamezne uporabnike ali vse uporabnike (privzeta organizacija). Ko spremenite to nastavitev, traja približno 30 minut, da začne veljati.
+Kot Microsoft 365 admin, lahko spremenite najvišjo/najmanjšo velikost sporočil (ki vključuje Priloge), ki jih uporabniki pošljejo. To lahko storite za posamezne uporabnike ali vse uporabnike (privzeta organizacija). Ko spremenite to nastavitev, traja približno 30 minut, da začne veljati.
   
 - Če želite spremeniti velikost sporočila za določenega uporabnika, pojdite v **skrbniške Centre** \> **Exchange** \> **prejemnikov** \> **nabiralnike**. Izberite uporabnikovo nabiralnik. Izberite ikono za urejanje, izberite **funkcije nabiralnika**in nato pod **omejitve velikosti sporočila**izberite **Ogled podrobnosti** in določite novo največjo velikost sporočila.
 

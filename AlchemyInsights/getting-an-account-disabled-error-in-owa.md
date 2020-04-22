@@ -1,9 +1,9 @@
 ---
-title: 123, dobili račun onemogočen napake v OWA?
+title: 123 Getting račun onemogočen napake v OWA?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 1972f12cdf2b6ce5ae4e4bdd458a220e2cfc1a18
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dbea425a8df14a07152dbcb36a40303a8cb821cc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523959"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708883"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Napaka v Outlooku na spletu dobili račun onemogočen?
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>Kako je prišlo do napake v računu v Outlooku v spletu?
 
-Če vi zaslužiti zmota, **vaš račun je bil onemogočen** s `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` ko poskušate odpreti Outlook na spletu (prej znan kot Outlook Web App), organizacija admin lahko onemogočili vaš dostop do Outlook na spletu. Admin lahko popraviti to napako, sledite korakom v temi, [omogočite ali onemogočite storitve Outlook Web App za nabiralnik](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+Če se prikaže napaka, da **je bil vaš račun onemogočen** , `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` ko poskušate odpreti Outlook v spletu (prej znan kot Outlook Web App), vam je skrbnik organizacije morda onemogočil dostop do Outlooka v spletu. Skrbnik lahko to napako popravi tako, da sledi korakom v temi [Omogočanje ali onemogočanje storitve Outlook Web App za nabiralnik](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 2d8f0be45b21db7295099b376959bfcafcd6ba38
-ms.sourcegitcommit: 6ecb6fcbd738b8896c5d616130074438a1a6e357
+ms.openlocfilehash: 88394297d391b7c8ec949cf2d82727f9def819c0
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43530438"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687418"
 ---
 # <a name="a1-license-for-microsoft-365"></a>Licenca A1 za Microsoft 365
 
@@ -25,9 +25,9 @@ ms.locfileid: "43530438"
 
 - Če ustanova še ni nastavila rešitve Microsoft 365 Education, vendar želite brezplačno dodati Office 365, lahko [začnete](https://www.microsoft.com/education/products/office) tako, da nam pošljete svoj e-poštni naslov. 
 
-- Če želite **zamenjati** paket Academic s paketom A1, glejte [Zamenjava paketa z drugim paketom](https://docs.microsoft.com/sl-SI/microsoft-365/commerce/subscriptions/switch-plans-manually). 
+- Če želite **zamenjati** paket Academic s paketom A1, glejte [Zamenjava paketa z drugim paketom](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually). 
 
-- Če želite dodeliti uporabnike paketu A1, glejte [Dodeljevanje licenc uporabnikom](https://docs.microsoft.com/sl-SI/microsoft-365/admin/manage/assign-licenses-to-users). 
+- Če želite dodeliti uporabnike paketu A1, glejte [Dodeljevanje licenc uporabnikom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users). 
 
 **Pomembno**: Morda boste morali počakati do 24 ur, preden bodo spremembe začele delovati. 
 

@@ -1,9 +1,9 @@
 ---
-title: Kako v postranski Outlook.com med potovanjem
+title: Kako dostopati do Outlook.com med potovanjem
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "921"
 - "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: b341642e2ad078e53829b3a34d238a68b73cd0a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c24722758fe023246bf37c3cc260735848c656ac
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522699"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709747"
 ---
-# <a name="how-to-access-outlookcom-while-traveling"></a>Kako v postranski Outlook.com med potovanjem
+# <a name="how-to-access-outlookcom-while-traveling"></a>Kako dostopati do Outlook.com med potovanjem
 
-V postranski Outlook.com, medtem ko potujete, poskrbite, da vaš račun Microsoft varnost info - nadomestni e-poštni naslov ali telefonsko številko kraj vi moči zaslužiti varnostne kode - je do datuma. Če želite izvedeti več, glejte [Kako do Outlook.com, ko potujejo](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).
+Za dostop do Outlook.com med potovanjem, se prepričajte, da vaš Microsoftov račun varnostne informacije-nadomestni e-poštni naslov ali telefonsko številko, kjer lahko dobite varnostne kode-je posodobljen. Če želite izvedeti več, glejte [kako dostopati do Outlook.com, ko potujete](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).

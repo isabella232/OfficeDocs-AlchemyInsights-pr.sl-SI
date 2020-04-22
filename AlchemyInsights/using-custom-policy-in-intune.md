@@ -1,9 +1,9 @@
 ---
-title: Uporabo custom profile v Intune
+title: Uporaba profilov po meri v InTune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1566"
 - "6700005"
-ms.openlocfilehash: def82b1a49afebd89e9b3cdca163f4159faf7972
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9c7908ef11a26fd83ca83e8c134708687f6d750f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531771"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710495"
 ---
-# <a name="using-custom-policy-in-intune"></a>Po meri pravilnikom v Intune
+# <a name="using-custom-policy-in-intune"></a>Uporaba pravilnika po meri v InTune
 
-InTune je veliko vgrajene nastavitve za naprave Android, iOS, macOS in Windows. Lahko tudi ustvarite profil po meri in nato razporedil nastavitve po meri za vaše naprave, ki uporabljajo Intune. Custom profile so namenjena načrt nastavitve in funkcije, ki niso zgrajene dodati Intune.
+InTune ima številne nastavitve vgrajeno za Android, iOS, macOS in Windows naprave. Ustvarite lahko tudi profil po meri in nato te nastavitve po meri razporedite v naprave z možnostjo InTune. Profili po meri so oblikovani tako, da dodajo nastavitve naprave in funkcije, ki niso vgrajene v InTune.
 
-[Nastavitev po meri za Android naprave v Intune](https://docs.microsoft.com/intune/custom-settings-android)
+[Nastavitve po meri za naprave Android v InTune](https://docs.microsoft.com/intune/custom-settings-android)
 
-[Nastavitev po meri za Android podjetje naprave v Intune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
+[Nastavitve po meri za naprave Android Enterprise v InTune](https://docs.microsoft.com/intune/custom-settings-android-for-work)
 
-[Nastavitev po meri za iOS naprave v Intune](https://docs.microsoft.com/intune/custom-settings-ios)
+[Nastavitve po meri za naprave iOS v InTune](https://docs.microsoft.com/intune/custom-settings-ios)
 
-[Nastavitev po meri za macOS naprave v Intune](https://docs.microsoft.com/intune/custom-settings-macos)
+[Nastavitve po meri za naprave macOS v InTune](https://docs.microsoft.com/intune/custom-settings-macos)
 
-[Nastavitev po meri za Windows 10 naprav v Intune](https://docs.microsoft.com/intune/custom-settings-windows-10)
+[Nastavitve po meri za naprave s sistemom Windows 10 v InTune](https://docs.microsoft.com/intune/custom-settings-windows-10)
 
-[Nastavitev po meri za Windows holografski za poslovni načrt v Intune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)
+[Nastavitve po meri za naprave Windows Holographic for Business v InTune](https://docs.microsoft.com/intune/custom-settings-windows-holographic)

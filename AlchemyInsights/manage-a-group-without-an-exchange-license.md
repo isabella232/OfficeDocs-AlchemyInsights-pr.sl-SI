@@ -2,7 +2,7 @@
 title: Upravljanje skupine brez Exchangevega dovoljenja
 ms.author: pebaum
 author: pebaum
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: f117cc1dc55e1786a9f6bc500314877e97df3f5e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7170f98a1f874f5f44badc82247e1e933f9972d8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049281"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671185"
 ---
 # <a name="manage-a-group-without-an-exchange-license"></a>Upravljanje skupine brez Exchangevega dovoljenja
 
-Če vaš skrbniški račun za Office 365 nima nabiralnika, boste morda dobili napako glede manjkajočega dovoljenja za izdelek, ko poskušate urediti skupino Office 365.
+Če skrbniški račun nima nabiralnika, boste morda dobili napako glede manjkajočega dovoljenja za izdelek, ko poskušate urediti skupino Office 365.
   
 Ker ste skrbnik najemnika, je možno, da uredite skupino, čeprav nimate licence Exchange. Samo pojdite na [Exchangeove skrbniške center](https://outlook.office365.com/ecp.aspx) \> **skupine** za upravljanje skupine Office 365.
   

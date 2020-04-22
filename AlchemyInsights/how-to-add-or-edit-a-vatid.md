@@ -3,7 +3,7 @@ title: Dodajanje ali urejanje VatID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/19/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: c7d998c56747799e139e8e2035cbccfe71cce14b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059752"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709639"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Dodajanje ali urejanje VatID
 
@@ -35,7 +35,7 @@ ms.locfileid: "43059752"
 
     Ko končate, DDV ne bo zaračunan na vaš naslednji račun.
 
-Če želite izvedeti več, si oglejte, [kateri davek bom zaračunal za Office 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+Če želite izvedeti več, si oglejte, [kateri davek bom zaračunal za Microsoft 365?](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
 **Dodatni viri**
 

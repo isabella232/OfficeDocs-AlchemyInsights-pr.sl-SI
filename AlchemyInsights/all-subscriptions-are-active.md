@@ -1,9 +1,9 @@
 ---
-title: Vse naročnine so aktivni
+title: Vse naročnine so aktivne
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b91e12002a58e206d03142b3ab8b9090dfafacd5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386240"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708263"
 ---
-# <a name="all-subscriptions-are-active"></a>Vse naročnine so aktivni
+# <a name="all-subscriptions-are-active"></a>Vse naročnine so aktivne
 
-Vaše naročnine so aktivni. To lahko potrdi, da, **zaračunavanja** \> strani [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) . Vaše naročnine Naročamo po statusu, z aktivno naročnine na vrhu. Dodatne informacije, na primer dati dovoljenje štetje in plačilo metodo, je razvidno z izbiro naročnine.
+Vaše naročnine so dejavne. To je mogoče preveriti tako, da greste na stran [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) za **obračunavanje** \> . Vaše naročnine so razvrščene po stanju, z Active naročnine na vrhu. Dodatne informacije, kot so število licenc in način plačila, lahko vidite z izbiro naročnine.
   
-Če imate težave z vašo storitev, z možnostjo "naj nas pokličeš" govoriti inženir za podporo.
+Če imate težave s storitvijo, uporabite možnost» Dovoli nam klic «, da se pogovoriš z inženirjem za podporo.

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: b28865ff1da434a254c9051183074be35cdd0252
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: ac760b417ad98b9d5bb6be4b92e60074ab93ceb3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547978"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708703"
 ---
 # <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>Popravljanje Officeovih aplikacij» vaš račun je v slabem stanju «
 
@@ -27,5 +27,5 @@ ms.locfileid: "43547978"
   **Opomba:** Registrske poti za Office 2016 so se spremenile v 16,0. Na primer \Software\Microsoft\Office\16.0\Common\Identity\
 - Če pride do napake med povezovanjem z Officeom 365 z Officeom 2013, [omogočite sodobno preverjanje pristnosti](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) za odjemalca Office.
 
-Če želite več informacij, glejte [Odpravljanje težav z aplikacijami brez brskalnika, ki se ne morejo prijaviti v Office 365, Azure ali InTune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
+Če želite več informacij, glejte [Odpravljanje težav z aplikacijami brez brskalnika, ki se ne morejo prijaviti v Microsoft 365, Azure ali InTune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
 

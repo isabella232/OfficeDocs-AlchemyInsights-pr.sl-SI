@@ -1,9 +1,9 @@
 ---
-title: 1575-PowerApps in Microsoft Flow načrt razširitve
+title: 1575-PowerApps in Microsoft Flow podaljšanje načrta
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 03/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554745"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667045"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps in Microsoft Flow načrt razširitve
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>Razširitev programa PowerApps in Microsoft Flow
 
-Če nameravate zaprositi načrt razširitve za **Microsoft tok** ali **PowerApps** in vaš najemnik že aktivnih uporabnikov ene od te funkcije, je treba vložiti prošnjo za podporo.
+Če nameravate zahtevati razširitev načrta za **Microsoft Flow** ali **powerapps** in vaš najemnik že ima aktivne uporabnike ene od teh funkcij, ni treba vložiti zahteve za podporo.
 
-- Oblikovanje in objava priključkov po meri v PowerApps in Microsoft Flow
-- HTTP dejanja po meri, ki so vključeni v pretok zunaj SharePoint in OneDrive
-- Vključevanje krajevne podatkov skozi prehod podatkov krajevne
+- Ustvarjanje in objava priključkov po meri v PowerApps in Microsoft Flow
+- Dejanja po meri HTTP, vključena v Flow zunaj SharePointa in OneDrive
+- Integracija krajevnih podatkov prek krajevnega podatkovnega prehoda
 
-Stranke z aktivnih uporabnikov, od teh funkcij bo samodejno podaljšanje do januar 31, leta 2020, ali po poteku mandata obstoječe Office 365 naročnino, kar je dlje.
+Kupci z aktivnimi uporabniki teh funkcij bodo dobili samodejno podaljšanje do januar 31, 2020, ali potek njihovega obstoječega Microsoft 365 naročnina izraz, kar je daljše.

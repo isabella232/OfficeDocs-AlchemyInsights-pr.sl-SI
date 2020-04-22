@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: 4453a9d62a63e980a9f9f56eb6ff2551c58e3e2b
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
+ms.openlocfilehash: 555f633601672084f0e3d56b674be4e425455749
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286675"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706217"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Pogoste težave in rešitve za ADFS
 
@@ -28,4 +28,4 @@ Konfiguracijo povezane domene je mogoče posodobiti, kot je opisano v teh člank
 
 - [2647020](https://support.microsoft.com/help/2647020)   Napaka »Imamo težave z vpisom« in »80041317« ali »80043431«, ko se skuša zunanji uporabnik vpisati v Office 365, Azure ali Intune.
 
-Če želite več informacij, glejte [Posodobite ali popravite nastavitve povezane domene v storitvah Office 365, Azure ali Intune](https://docs.microsoft.com/sl-SI/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Če želite več informacij, glejte [Posodobite ali popravite nastavitve povezane domene v storitvah Office 365, Azure ali Intune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

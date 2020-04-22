@@ -1,9 +1,9 @@
 ---
-title: Aktiviranje Microsoft Office 365 zvitek dati dovoljenje abomna
+title: Aktiviranje naročnine na Microsoftovo količinsko licenco
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661204"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708775"
 ---
-# <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>Aktiviranje Microsoft Office 365 zvitek dati dovoljenje abomna
+# <a name="activating-a-microsoft-volume-license-subscription"></a>Aktiviranje naročnine na Microsoftovo količinsko licenco
 
-1. Prijavite se v svoj [zvitek dati dovoljenje usluga središče (VLSC) portal](http://go.microsoft.com/fwlink/p/?LinkId=329762).
+1. Vpišite se v [portal Service Center za količinsko licenciranje (VLSC)](https://go.microsoft.com/fwlink/p/?LinkId=329762).
 
-2. Krmarite do naročnine Office 365 in izberite **vključi**.
+2. Pomaknite se do naročnine in izberite **Aktiviraj**.
 
-3. Email hoteti sent stikom spletne storitve (OLS).
+3. E-poštno sporočilo bo poslano v stik s spletnimi storitvami (OLS).
 
-4. Aktivacijo email vam dve možnosti: **prijavite se**, ali **vpisati**. Če ste že ustvarili sojenja, izberite **prijava**. Če še nimate Office 365 najemnik, izberite **prijavite**.
+4. Aktivacijska e-pošta vam bo **nudila**dve možnosti: Prijavite se ali **se vpišite**. Če ste pred tem ustvarili preskusno različico, izberite **vpis**. Če še nimate najemnika Microsoft 365, izberite **prijava**.
 
-5. Prijavite se v skrbniško središče Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) s skrbniškimi poverilnicami obstoječe Office 365. Ko se boste uspešno vpisali, boste prejeli drugo sporočilo, ki potrjuje vaš nakup.
+5. Prijavite se v skrbniško središče Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) z obstoječimi poverilnicami skrbnika. Ko se uspešno vpišete, prejmete še eno e-poštno sporočilo, ki potrjuje vaš nakup.
 
-6. Ko ste prijavljeni, lahko greš na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani za preverjanje vaše kupljene Office 365 naročnine so vkljuèene v vaš najemnik. (Izberete lahko tudi zavihek **naročnina** v VLSC, če si želite ogledati podrobnosti, preverjanje, da se vaša naročnina deponirala.)
+6. Ko ste prijavljeni, lahko greste na stran izdelki za **obračunavanje** \> [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) če želite preveriti, ali so kupljene naročnine aktivirane v vašem najemniku. (Izberete lahko tudi zavihek **naročnina** v VLSC, če si želite ogledati podrobnosti, ki preverjajo, ali je bila naročnina deponirana.)

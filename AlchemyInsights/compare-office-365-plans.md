@@ -1,9 +1,9 @@
 ---
-title: Primerjajte Office 365 načrtov
+title: Primerjava Microsoftovih naročnin
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: af35dbcf4995dda7faa11100d7f562a16079a3f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7f19715e6b036c9d8a5e44373aedc6e6aa11392
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520431"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706145"
 ---
-# <a name="compare-switch-or-purchase-office-365-plans"></a>Primerjati, udarec s šibo ali nakup Office 365 načrtov
+# <a name="compare-switch-or-purchase-subscriptions"></a>Primerjava, preklapljanje ali nakup naročnin
   
-Office 365 načrti so na voljo za [podjetja](https://products.office.com/compare-all-microsoft-office-products?tab=2)in [podjetništvo ravni podjetja](https://products.office.com/business/compare-more-office-365-for-business-plans). Poleg tega je Office 365 na voljo [akademske ustanove](https://products.office.com/academic/compare-office-365-education-plans), [vladne organizacije](https://products.office.com/government/compare-office-365-government-plans)in [neprofitne organizacije](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1).
+Naročnine so na voljo [za podjetja](https://products.office.com/compare-all-microsoft-office-products?tab=2), [podjetij na ravni](https://products.office.com/business/compare-more-office-365-for-business-plans)podjetja. Poleg tega je Microsoft 365 na voljo [akademskim ustanovam](https://products.office.com/academic/compare-office-365-education-plans), [vladnim organizacijam](https://products.office.com/government/compare-office-365-government-plans)in [neprofitnim](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)podjetjem.
   
-Če vaša organizacija zanima primerjava vseh načrtov in cen, pregled [primerjati vse načrte Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Če je vaša organizacija zainteresirana za primerjavo vseh načrtov in cen, preglejte [primerjava vseh naročnin](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-Če vaša organizacija je že kupila načrt Office 365 in zanima prehod na drug načrt, lahko to storite iz Microsoft 365 admin center. Pojdi na **zaračunavanje** \> [naročnine na](https://go.microsoft.com/fwlink/p/?linkid=842054) stran, nato pa izberite **stikalo načrtov** seznam novih načrtov, ki so na voljo.
+Če je vaša organizacija že kupila naročnine in je zainteresirana za prehod na drug načrt, ki ga lahko storite iz skrbniškega središča Microsoft 365. Pojdite na stran **Billing** \> [naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) za obračunavanje in izberite možnost **Preklopi načrte** , da si ogledate seznam novih načrtov, ki so na voljo.
   
-Organizaciji lahko tudi premeša in se ujemajo Office 365 načrte, da zadovoljijo potrebe in zahteve funkcijo uporabnikov. Iz centra za admin, pojdite na **zaračunavanje** \> [Nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) strani.
+Vaša organizacija lahko tudi premeša in se ujema z naročninami, da bi zadovoljili potrebe in zahteve uporabnikov. V skrbniškem središču pojdite na stran [nabavne storitve](https://go.microsoft.com/fwlink/p/?linkid=868433) za **obračunavanje** \> .

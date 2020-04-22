@@ -1,9 +1,9 @@
 ---
-title: 125 pridobivanje bolehen dati dovoljenje zmota v Outlooku na spletu?
+title: 125 pridobivanje neveljavne licenčne napake v programu Outlook v spletu?
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "125"
 - "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: d0f3fa354eb63c5a5f92d017694623c36fc6df30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9324726709423aeb290fcc1866ade5517f71c1ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523815"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708847"
 ---
-# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Pridobivanje bolehen dati dovoljenje zmota v Outlooku na spletu?
+# <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>Ali želite v Outlooku v spletu dobiti neveljavno licenčno napako?
 
-Če uporabljate Outlook v spletu, in boste dobili **nekaj je šlo narobe** napako, ki vsebuje **X-OWA-napaka: Microsoft.Exchange.Data.Storage.InvalidLicenseException**, Exchange Online licenca ni pravilno dodeljeni ali je pred kratkim potekel. Admin lahko dodelite dovoljenje vam z naslednjim korakom:
+Če uporabljate Outlook v spletu in dobite **nekaj narobe** napako, ki vsebuje **X-OWA-napaka: Microsoft. Exchange. data. Storage. InvalidLicenseException**, Vaša licenca za Exchange Online ni pravilno dodeljena ali je pred kratkim potekla. Skrbnik vam lahko dodeli licenco tako, da sledite tem korakom:
   
-1. Odprite [Microsoft 365 admin center](https://portal.office.com/adminportal/home#/homepage) in pod **aktivnih uporabnikov**, izberite **Uredi uporabnik**.
+1. Odprite [skrbniško središče Microsoft 365](https://portal.office.com/adminportal/home#/homepage) in pod **aktivnimi uporabniki**izberite **Uredi uporabnika**.
 
-2. Na strani **Urejanje uporabnik** , ki se odpre, izberite uporabnika. Uporabnik lastnosti strani, ki se odpre, kliknite **Uredi** za **licence izdelka**.
+2. V **uredite uporabniško** stran, ki se odpre, izberite uporabnika. Na strani z lastnostmi uporabnika, ki se odpre, kliknite **Uredi** za **licence za izdelke**.
 
-3. V **licencah izdelkov** strani, ki se odpre, izberite ustrezno **mesto** vrednost in dodelite licence, ki vsebuje Exchange Online (razširiti dovoljenje za prikaz podrobnosti). Ko končate, kliknite **Shrani**.
+3. Na strani z **licencami izdelka** , ki se odpre, izberite ustrezno vrednost **lokacije** in dodelite licenco, ki vsebuje Exchange Online (razširite licenco za prikaz njenih podrobnosti). Ko končate, kliknite **Shrani**.

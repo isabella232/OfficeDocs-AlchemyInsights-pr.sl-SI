@@ -1,9 +1,9 @@
 ---
-title: Spremenite profil organizacije
+title: Spremeni profil organizacije
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: 00faf0bae2f1f3a5b032cdd796867da8e7351c48
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f59aad4f971de7de55cc4a160c18b552527cd393
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519351"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706699"
 ---
-# <a name="change-organization-profile"></a>Spremenite profil organizacije
+# <a name="change-organization-profile"></a>Spremeni profil organizacije
 
-Spremenite ime podjetja, naslov, tehnične kontaktne informacije in več v skrbniškem središču na **Nastavitve** > [profil organizacije](https://go.microsoft.com/fwlink/p/?linkid=2067339) strani.
+Spremenite ime podjetja, naslov, tehnične podatke za stik in še več v skrbniškem središču na strani s[profilom organizacije](https://go.microsoft.com/fwlink/p/?linkid=2067339) **Nastavitev** > .
 
-Bodite prepričani, da izpolnite vsa zahtevana polja označena z za * omogočiti shranili spremembe.
+Prepričajte se, da izpolnite vsa zahtevana polja, označena z *, da omogočite shranjevanje sprememb.
 
-[Več informacij na naslov ali zaračunavanja naslov spremembe](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).
+[Preberite več o spremembah naslova ali naslova obračunavanja](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).
