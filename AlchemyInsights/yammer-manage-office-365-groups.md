@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0257be866d6f6c654a28a4109ca7c9e6c34fc376
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530965"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715864"
 ---
 # <a name="manage-office-365-groups-in-yammer"></a>Upravljanje skupin Office 365 v storitvi Yammer
 
@@ -30,4 +30,4 @@ Tukaj je nekaj odgovorov na najpogostejša vprašanja s skupinami Office 365 v s
 
   2. Prebrskajte do **skrbnika omrežja, varnostno nastavitev**in zagotovite, da bo **Office 365 Identity** uveljavil za uporabnike storitev yammer.
 
-Če želite več informacij o skupinah Office 365 in storitvi Yammer, glejte [yammer in Office 365 groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). Če želite več informacij o upravljanju skupine, glejte [Upravljanje skupine v storitvi Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Če želite več informacij o skupinah Office 365 in storitvi Yammer, glejte [yammer in Office 365 groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). Če želite več informacij o upravljanju skupine, glejte [Upravljanje skupine v storitvi Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

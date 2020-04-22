@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 7bbc6a5819b7d7bb879dd730637b90bbe458724d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053493"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713302"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Orodje za iskanje vsebine za iskanje ustreznih informacij
 
@@ -26,6 +26,6 @@ Preden uporabite [Iskanje po vsebini](https://sip.protection.office.com/contents
 
 Več o iskanju vsebine si lahko ogledate tako, da pregledate [zahteve in omejitve](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search), [raziskujete delno indeksirane elemente](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) in druge rezultate, ki jih je treba poznati.
 
-Po pregledu konfiguracijskih nastavitev in omejitev iskanja vsebine glejte [Uporaba iskanja</a> po vsebini za iskanje elementov v mestu, kot so e-pošta, dokumenti in pogovori za takojšnje sporočanje v organizaciji Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search).
+Po pregledu konfiguracijskih nastavitev in omejitev iskanja vsebine glejte [Uporaba iskanja</a> po vsebini za iskanje elementov v mestu, kot so e-pošta, dokumenti in pogovori za takojšnje sporočanje v organizaciji](https://docs.microsoft.com/office365/securitycompliance/content-search).
 
 Za popoln korak za korakom iskanja vsebine glejte [Iskanje vsebine v Officeu 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) za več informacij.

@@ -1,32 +1,32 @@
 ---
-title: Informacije na čakanje ali v-mesto-počakaj
+title: Informacije o zadrženem postopku ali na kraju zadržanja
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498971"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711035"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>O sporu ima in ima v mesto
+# <a name="about-litigation-holds-and-in-place-holds"></a>O zadržanj v sporu in na kraju
 
-- Uporabljati sodnih sporov imajo ali v-mesto imajo z nabiralnikom, za [Exchange Online načrt 2 dati dovoljenje](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) je potrebna. Če vi življati poljuben drugi načrt, konto dodelite ločene [Exchange Online arhiviranje](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) licence. 
+- Če želite uporabiti čakanje zaradi spora ali imeti v nabiralniku nabiralnik, je potrebna licenca za [Exchange Online (paket 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) ). Če imate kakšen drug načrt, v račun dodelite ločeno licenco za [arhiviranje Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) . 
     
-- **Omogočiti na čakanje** za enega uporabnika, sledite korakom, ki so opisani [tukaj](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). Ko je omogočeno čakanje, vse vsebine v nabiralnik je postavljena na čakanje.
+- **Če želite omogočiti** čakanje v sporu za enega uporabnika, sledite spodnjim [navodilom.](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold) Ko je omogočeno čakanje zaradi spora, se vsa vsebina v nabiralniku postavi na čakanje.
     
-- Prijaviti **v mesto imajo na posamezen uporabnik** ali imajo za **vse nabiralnike v celotni organizaciji**, lahko uporabite pravilnike o hranjenju v središču Office 365 varnost in skladnost po korakov orisane [tukaj](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
+- Če želite uporabiti zadržanje na **mestu za posamezne uporabnike** ali imeti **vse nabiralnike v celotni organizaciji**, lahko uporabite pravilnike o hranjenju v središču za varnost in skladnost Microsoft 365, tako da sledite spodnjim [navodilom.](https://docs.microsoft.com/Office365/securitycompliance/retention-policies )
     
     > [!NOTE]
-    > Za celotni Org pravilniki o hranjenju, nove uporabnike bo samodejno doda v zadržanje. 
+    > Za pravilnike o hranjenju na ravni org bodo novi uporabniki samodejno dodani v zadržanje. 
   
-- Za ogled ali Odkrijte vsebino nabiralnika, ki je postavljena na čakanje, uporabite **eDiscovery Išči in izvoz**. Za informacije o uporabi **eDiscovery Išči in izvoz**, sledite korakov orisane [tukaj](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+- Če si želite ogledati ali odkriti vsebino nabiralnika, ki je zadržala, uporabite **iskanje in izvoz e-odkrivanja**. Če želite informacije o uporabi **iskanja in izvoza e-odkrivanja**, sledite spodnjim [navodilom.](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
     
 

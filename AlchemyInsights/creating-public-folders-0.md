@@ -3,7 +3,6 @@ title: Ustvarjanje javnih map
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631848"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715376"
 ---
 # <a name="creating-public-folders"></a>Ustvarjanje javnih map
 
-Preden uporabniki lahko uporabljajo javne mape v Office 365, boste morali ustvariti vsaj eno javno mapo nabiralnik. Če želite ustvariti:
+Preden lahko uporabniki uporabljajo javne mape, boste morali ustvariti vsaj en nabiralnik javnih map. Če želite ustvariti:
   
-1. V centru Microsoft 365 admin, pojdite na **Admin centri** \> **Exchange**.
+1. V Microsoft 365 admin center, pojdite na **admin centri** \> **Exchange**.
 
-2. Krmarite do **javne mape** \> **nabiralnike javno mapo**in nato kliknite **Dodaj**.
+2. Krmarite do **javnih map** \> **nabiralnikov javne**mape in kliknite **Dodaj**.
 
-3. V **Javne mape nabiralnika**, vnesite ime za javno mapo nabiralnik.
+3. V **nabiralniku javne mape**navedite ime za nabiralnik javne mape.
 
 4. Kliknite **Shrani**.
 
-Ko je nabiralnik je bil ustvarjen, lahko začnete z ustvarjanjem posamezne mape ali povedati svojim uporabnikom, da [začnete ustvarjanje in uporabo javnih map v Outlooku](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+Ko je nabiralnik ustvarjen, lahko začnete ustvarjati posamezne mape ali pa uporabnikom sporočite, naj [začnejo ustvarjati in uporabljati javne mape v programu Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
   

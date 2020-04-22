@@ -1,9 +1,9 @@
 ---
-title: Prepoznati IP naslov odjemalca v dnevnikih nadzora in
+title: Identificirajte naslov IP in odjemalca v dnevniku revizij
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: e0119762d2a34bd2b0da827faf55c832e29d8a2b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d1a0d412fc0c6d79e50b101ca759127522f45dcd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539045"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716404"
 ---
-# <a name="identify-ip-address-and-client-in-audit-logs"></a>Prepoznati IP naslov odjemalca v dnevnikih nadzora in
+# <a name="identify-ip-address-and-client-in-audit-logs"></a>Identificirajte naslov IP in odjemalca v dnevniku revizij
 
-IP naslov, ki ustreza dejavnosti z Office 365 uporabnik ali oskrbnik je prikazan v dnevnikov. Zabeleženo je tudi odjemalec informacije. Tu so koraki za prepoznavanje teh informacij
+Naslov IP, ki ustreza dejavnosti uporabnika ali skrbnika Microsoft 365, je prikazan v dnevniku revizij. Podatki o odjemalcu so tudi prijavljeni. Tukaj so koraki za identifikacijo teh informacij
 
-1. Prijavite se v [Office 365 varnost & skladnosti Center](https://protection.office.com/).
+1. Prijavite se v [Microsoft 365 Security & center za skladnost](https://protection.office.com/).
 
-2. Pojdi na **Iskanje** > **revizije dnevnik iskalna** stran.
+2. Pojdite na stran za**iskanje dnevnika revizij** **iskanja** > .
 
-   Če ste zainteresirani za posebne dejavnosti, ga izberite iz seznama **dejavnosti** . Če ne, se izpišejo vse dejavnosti za izbranega uporabnika (privzeta nastavitev).
+   Če ste zainteresirani za določeno dejavnost, jo izberite s seznama **dejavnosti** . Če ne, bodo vse dejavnosti vrnjene za izbranega uporabnika (privzeta nastavitev).
 
-   **Opomba**: nekatere dejavnosti ne sme biti na voljo v meniju **dejavnosti** ; vendar pa navedeni revizijski elementi izpišejo, če **Prikaži rezultate za vse dejavnosti** je izbrano (privzeta nastavitev).
+   **Opomba**: nekatere dejavnosti morda niso na voljo v meniju **dejavnosti** ; vendar pa bodo ti revizijski elementi vrnjeni, če je izbran **prikaz rezultatov za vse dejavnosti** (privzeta nastavitev).
 
-3. V polju **Uporabniki** določite uporabniško ime, izberite ustrezno časovno obdobje za dejavnost, in nato kliknite **Išči**.
+3. Določite uporabniško ime v polju **Uporabniki** , izberite ustrezno časovno območje za dejavnost in kliknite **Iskanje**.
 
-V rezultatih, lahko vidite IP naslov za to dejavnost v podoknu z rezultati. Izberite revizijski zapis podrobne informacije v **podrobnosti** flyout (primer varovanec, uporabnik, ki izvede dejanje, itd.).
+V rezultatih lahko vidite naslov IP za to dejavnost v podoknu z rezultati. Izberite zapis o reviziji, če si želite ogledati podrobne informacije v pojavnem meniju **podrobnosti** (na primer odjemalec, uporabnik, ki je izvedel dejanje itd.).
 
-Če želite več informacij, glejte [Iskanje naslova IP računalnika za dostop do ogrožena račun](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).
+Če želite več informacij, glejte [Iskanje naslova IP računalnika, ki se uporablja za dostop do kompromitiranih računov](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#finding-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

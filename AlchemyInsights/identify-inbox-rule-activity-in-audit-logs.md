@@ -1,9 +1,9 @@
 ---
-title: Prepoznavanje Prejeto pravilo dejavnost v dnevnikih nadzora
+title: Prepoznavanje dejavnosti pravila» Prejeto «v dnevnikih revizij
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 1201a625948743cacfaa58410abeb4108ed2eb56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f946510539b3d28f2ceeec1546cbffce8bd352fd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539189"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716440"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Prepoznavanje Prejeto pravilo dejavnost v dnevnikih nadzora
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Prepoznavanje dejavnosti pravila» Prejeto «v dnevnikih revizij
 
-Uporabite revizijo dnevnik Išči v Office 365 varnost & skladnosti Center razgledati Prejeto pravilo dogodkov (ustvarjanje, spreminjanje in brisanje pravila za prejeto pošto).
+Če si želite ogledati dogodke pravil nabiralnika (ustvarjanje, spreminjanje in brisanje pravil nabiralnika), lahko uporabite iskanje dnevnika revizij v središču Microsoft 365 Security & center za skladnost.
 
-1. Prijavite se v [Office 365 varnost & skladnosti Center](https://protection.office.com/).
+1. Prijavite se v [Microsoft 365 Security & center za skladnost](https://protection.office.com/).
 
-2. Pojdi na **Iskanje** > **revizije dnevnik iskalna** stran.
+2. Pojdite na stran za**iskanje dnevnika revizij** **iskanja** > .
 
-3. Izberite datumski obseg v polji **Začetni datum** in **končni datum** .
+3. Izberite časovno območje v polji **Začetni datum** in **končni datum** .
 
-4. **Dejavnosti nabiralnik Exchange**, preverite polje **dejavnosti** nastavljeno na **New-InboxRule ustvari/spremeni/usposobiti/onesposobiti Prejeto pravilo**.
+4. V razdelku **dejavnosti Exchangeevega nabiralnika**preverite, ali je polje **dejavnosti** nastavljeno na **novo-inboxrule ustvari/spremeni/omogoči/onemogoči pravilo nabiralnika**.
 
-5. Kliknite **Išči**.
+5. Kliknite **Iskanje**.
 
-V rezultate, izberite revizijski zapis. V pojavni meni podrobnosti, kliknite **Več informacij**. V polju **parametre** so prikazane informacije o nastavitvah Prejeto pravilo.
+V rezultatih Izberite zapis o reviziji. V meniju podrobnosti kliknite **več informacij**. Informacije o nastavitvah pravila nabiralnika so prikazane v polju **Parametri** .
 
-Če želite več informacij, glejte [določanje, če uporabnik, ki je ustvaril pravilo za prejeto pošto](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Če želite več informacij, glejte [določanje, ali je uporabnik ustvaril pravilo» Prejeto «](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

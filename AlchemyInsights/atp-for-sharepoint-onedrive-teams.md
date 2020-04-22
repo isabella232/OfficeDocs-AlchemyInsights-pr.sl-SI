@@ -1,34 +1,34 @@
 ---
-title: ATP za SharePoint, OneDrive in Microsoft ekipe
+title: ATP za SharePoint, OneDrive in Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: b304f6c7d9959e49a8152c03f11c6c864a154ea5
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 28046c61e1aedbb2c07cca3fc01b118d0dc3c143
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34765410"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712474"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP za SharePoint, OneDrive in Microsoft ekipe
+# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP za SharePoint, OneDrive in Microsoft Teams
 
-Omogoči napredno grožnja varstvo takole:
+Če želite omogočiti napredno zaščito pred grožnjami, sledite tem korakom:
 
-1. Pojdi na [https://protection.office.com](https://protection.office.com) in se prijavite z globalno skrbnik ali skrbniški račun varnosti.
+1. Pojdite [https://protection.office.com](https://protection.office.com) in se vpišite z globalnim skrbnikom ali računom varnostnega skrbnika.
 
-2. V levem navigacijskem pod **grožnjo upravljanje**, izberite **pravilnik** \> **Varno Priloge**.
+2. V levem podoknu za krmarjenje pod **upravljanjem groženj**izberite **varne Priloge** **pravilnika** \> .
 
-3. Izberite **Vklop ATP za SharePoint, OneDrive, in Microsoft ekipe**.
+3. Izberite **Vklopi ATP za SharePoint, OneDrive in Microsoft Teams**.
 
-4. [Oblikovanje politike opozarjanja dejavnost](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) za prejemanje obvestil, ko zaznamo zlonamerne datoteke.
+4. Če želite prejemati obvestila, ko zaznamo zlonamerne datoteke, [ustvarite pravilnik o opozorilu o dejavnosti](https://docs.microsoft.com/office365/securitycompliance/create-activity-alerts) .
 
-Za popolna navodila, glejte [temo](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).
+Za popolna navodila glejte to [temo](https://docs.microsoft.com/office365/securitycompliance/turn-on-atp-for-spo-odb-and-teams).
 
-**Opomba**: pri načrtovanju, ATP ne pregleduje vsak eno datoteko v SharePoint Online, OneDrive za poslovne ali Microsoft Teams. Datoteke so pregledane asinhrono proces, ki uporablja delitev dejavnosti, Ocene dejavnost, in grožnja signalov za identifikacijo zlonamerne datoteke. Če želite več informacij, glejte to [temo](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+**Opomba**: po zasnovi ATP ne pregleda vsake posamezne datoteke v storitvi SharePoint online, OneDrive za podjetja ali Microsoft teams. Datoteke so asinhrono optično prebrane po postopku, ki uporablja dejavnost skupne rabe, dejavnosti gosta in grožnje za prepoznavanje zlonamernih datotek. Če želite več informacij, glejte to [temo](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).

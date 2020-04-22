@@ -1,9 +1,9 @@
 ---
-title: Prepoznavanje Izbriši sporočilo dogodkov v dnevnikih nadzora
+title: Prepoznavanje dogodkov brisanja sporočil v dnevnikih revizij
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: b358b7944b82182a8551d64701e6879a01816524
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 797a4b1146862faf91d2b9e8d74feade90f71650
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539225"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716512"
 ---
-# <a name="audit-logs-for-deleted-email-messages"></a>Dnevnikov za izbrisati email vest
+# <a name="audit-logs-for-deleted-email-messages"></a>Dnevniki revizij za izbrisana e-poštna sporočila
 
-Odhod v januarju 2019, Microsoft zavija na nabiralnik revizije prijavi privzeto. Drugače, pregled izbrisati sporočilo dogodkov za določenega uporabnika, boste morali ročno omogočiti dejanja delete za revidiranje. Če nabiralnik revizijo pisanje dnevnika je že omogočeno za organizacijo ali za določenega uporabnika, sledite spodnjim korakom.
+Od januarja 2019 se Microsoft samodejno obrača na beleženje dnevnika nadzora nabiralnika. V nasprotnem primeru, če želite pregledati brisanje dogodkov sporočila za določenega uporabnika, morate ročno omogočiti brisanje dejanj za nadzor. Če je beleženje revizij nabiralnika že omogočeno za vašo organizacijo ali za določenega uporabnika, sledite spodnjim korakom.
 
-1. Prijavite se v [Office 365 varnost & skladnosti Center](https://protection.office.com/)
+1. Prijavite se v [Microsoft 365 Security & center za skladnost](https://protection.office.com/)
 
-2. Kliknite **Išči ter preiskave** in izberite **Išči dnevnika nadzora**.
+2. Kliknite **iskanje in preiskovanje** ter izberite **iskanje dnevnika revizij**.
 
-3. Izberite datumski obseg v polji **Začetni datum** in **končni datum** . Določite uporabniško ime uporabnika, ki jo želite raziskati (uporabnik, ki je izbrisano). Na področju **dejavnosti** , izberite **izbrisana sporočila iz mape Izbrisano** in **premaknjeno sporočila v mapo Izbrisano**.
+3. Izberite časovno območje v polji **Začetni datum** in **končni datum** . Določite uporabniško ime za uporabnika, ki ga želite raziskati (uporabnik, ki je izbrisal elemente). V polju **dejavnosti** izberite **izbrisana sporočila iz mape» izbrisani predmeti «** in **premaknjena sporočila v mapo» izbrisani predmeti «**.
 
-4. Kliknite **Išči**.
+4. Kliknite **Iskanje**.
 
-V rezultate, izberite revizijski zapis. V pojavni meni podrobnosti, kliknite **Več informacij**. Dodatne informacije o izbrisanega elementa (na primer, zadevo in mesto elementa, ko je bila izbrisana) je prikazana v polju **AffectedItems** . Lastnost **ClientInfoString** prikaže, če izbris je prišlo v Outlooku, Outlook v spletu (prej znan kot Outlook Web App), ali katere koli druge naprave.
+V rezultatih Izberite zapis o reviziji. V meniju podrobnosti kliknite **več informacij**. Dodatne informacije o izbrisanem elementu (na primer vrstica z zadevo in mesto elementa, ko je bil izbrisan) so prikazane v polju» **Affecteditems** «. Lastnost **Clientinfostring** bo pokazala, ali je prišlo do brisanja v Outlooku, Outlooku v spletu (prej znan kot Outlook Web App) ali kateri koli drugi napravi.
 
-Če želite več informacij, glejte [določanje ki nastaviti e-pošte, posredovanje za nabiralnik](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
+Če želite več informacij, glejte [določanje, kdo je nastavil posredovanje e-pošte za nabiralnik](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-deleted-email-items).
 
-**Opomba**: ne more pridobiti izbrisano funkcijo dnevnika nadzora. Če naložite izbrisana sporočila v Outlook v spletu, glejte [obnavljanje izbrisanih elementov v storitvi Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Opomba**: izbrisanih elementov ni mogoče pridobiti z uporabo funkcije dnevnika revizij. Če želite pridobiti izbrisana sporočila v Outlooku v spletu, glejte [obnovitev izbrisanih elementov v storitvi Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).

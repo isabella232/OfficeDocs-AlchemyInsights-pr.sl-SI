@@ -1,9 +1,9 @@
 ---
-title: 1829-ediscovery-vprašanja
+title: 1829-eDiscovery-vprašanja
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,27 +11,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 96a473093c3de1a75f29f633890e08043f2b29b6
-ms.sourcegitcommit: a340858cfbe1c34b147cffd1b0d4573160200f1d
+ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/01/2019
-ms.locfileid: "33544581"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714494"
 ---
-# <a name="ediscovery-issues"></a>eDiscovery vprašanja
+# <a name="ediscovery-issues"></a>vprašanja e-odkrivanja
 
-Iščete eDiscovery možnosti? S ponovno namenjen plovbi v varnost & skladnosti Center, eDiscovery možnosti lahko preselili že.  EDiscovery možnosti najdete na teh mestih v & varnost, skladnost centru, ki temelji na kaj ste poskušali storiti:
+Iščete možnosti e-odkrivanja? Z vnovično načrtovano navigacijo v središču za preverjanje varnosti & se lahko možnosti e-odkrivanja že premaknejo.  Možnosti e-odkrivanja lahko najdete na naslednjih lokacijah v središču za preverjanje varnosti & glede na to, kaj poskušate narediti:
 
-- Uporabite vsebino iskanje iskanje organizaciji za vsebino v e-pošto, dokumente, Skype za poslovne pogovore, in nato izvoz podatkov - pojdite na **Išči vsebine >**
+- Uporabite iskanje po vsebini, če želite poiskati svojo organizacijo za vsebino v e-poštnem sporočilu, dokumentih, pogovorih Skype za podjetja in nato izvoziti podatke-Pojdi na **iskanje > iskanje po vsebini**
 
-- Ustvarite primer eDiscovery za iskanje vsebine in mesto vsebine mesta na čakanju - iti **eDiscovery > eDiscovery**
+- Ustvarjanje primera e-odkrivanja za iskanje vsebine in namestitev lokacij vsebine na Hold-Pojdi na **ediscovery > eDiscovery**
 
-- Uporabite novo napredno eDiscovery end-to-end rešitev za identifikacijo in komunikacijo s skrbniki, ohraniti skrbnik podatkov ustreza primeru, zbiranje podatkov in dodajte v skupino pregled, in zmanjša količino podatkov z uporabo analytics izločene iz nepotrebnih podatkov in osredotočiti na tisto, kar najbolj pomembna za zadevo - iti k **napreden eDiscovery eDiscovery >**
+- Uporabite novo napredno e-odkrivanje rešitev za prepoznavanje in komunikacijo z skrbniki, ohranjanje podatkov skrbnika, pomembnih za primer, zbiranje podatkov in dodajanje v nabor za pregled in zmanjšanje obsega podatkov z uporabo analitike za izločitev nepotrebnih podatkov in se osredotočiti na to, kar je najpomembnejše za primer-Pojdi na **ediscovery > Advanced eDiscovery**
 
-Če želite več informacij, glejte:
+Če želite več informacij, si oglejte:
 
-- [Vsebino iskanje v Office 365](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [Iskanje vsebine](https://docs.microsoft.com/office365/securitycompliance/content-search)
 
-- [eDiscovery primerih v varnost & skladnosti Center](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [primeri e-odkrivanja v središču za skladnost varnostnega &](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
 
-- [Napredno eDiscovery rešitve v Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [Napredna rešitev e-discovery v programu Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)

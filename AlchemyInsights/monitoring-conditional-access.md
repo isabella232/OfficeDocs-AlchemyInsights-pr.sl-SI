@@ -2,39 +2,39 @@
 title: Spremljanje pogojnega dostopa
 ms.author: pebaum
 author: pebaum
-ms.date: 8/1/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dcb86c54-769e-4832-9f88-bc45f1e5f36c
-ms.openlocfilehash: 374814f4eabd61433a15876ebf7f351819933c21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8b76d58791408037b5704b421d7afa166e3ea0be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538788"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713734"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>Spremljanje pogojnega dostopa za izmenjavo
+# <a name="monitoring-conditional-access-for-exchange"></a>Spremljanje pogojnega dostopa za Exchange
 
-Uporabniki, ki so usmerjena s pogojnim dostopom prejmejo oznanilo email, če izpolnjuje zahteve vaše organizacije. Odločiti, priporočamo, da eden ali več od naslednjih rešitev:
+Uporabniki, usmerjeni s pogojnim dostopom, prejmejo e-poštno sporočilo z obvestilom, če ne izpolnjujejo zahtev za dostop vaše organizacije. Za rešitev priporočamo eno ali več naslednjih rešitev:
   
-- Če naprava je domneva, da bodo vpisani, svetuje uporabnik iti podjetje Portal app in preveri, da se pojavi v portalu podjetja. Če ne, uporabnik vpisati naprave.
+- Če se domneva, da je naprava vpisana v program, Svetujte uporabniku, da gre v aplikacijo portal podjetja, in preverite, ali je v portalu podjetja. Če se ne, mora uporabnik vpisati napravo.
     
-- V portalu Azure iti **Intune \> skladnost naprave**. Pod **oknom** kliknite **napravo skladnosti**. Poglej si poročilo skladnost naprave za preverjanje, da uporabnikova naprava je označena kot skladna. 
+- V portalu Azure pojdite na ** \> prilagajanje skladnosti naprave**. Pod **monitor** kliknite **skladnost naprave**. Oglejte si poročilo o skladnosti naprave, da preverite, ali je uporabniška naprava označena kot skladna. 
     
-- V portalu Azure iti **Intune \> skladnost naprave**. Pod **upravljanje**, kliknite **pravila**. Na seznamu skladnost politik, preverite, ali da je dodeljen profil vaš uporabnik naprave. Če je dodeljena brez profila, Intune ne bo zmožen potrditi skladnost stanje naprave. 
+- V portalu Azure pojdite na ** \> prilagajanje skladnosti naprave**. V razdelku **upravljanje**kliknite **Pravilniki**. Na seznamu pravilnikov o skladnosti preverite, ali je profil dodeljen uporabnikovi napravi. Če profil ni dodeljen, InTune ne bo mogel potrditi stanja skladnosti naprave. 
     
-- Urejanje dodelitev pogojnega dostopa uporabnika.
+- Uredite uporabniški nalog za pogojni dostop.
     
-1. V portalu Azure iti **Intune \> pogojni dostop \> pravila**
+1. V portalu Azure pojdite na **InTune \> pravilniki pogojnega \> dostopa**
     
-2. Na seznamu izberite politike
+2. Izbiranje pravilnika s seznama
     
 3. Kliknite **Uporabniki in skupine**
     
-4. Cilj politike na nekoga, jih dodajte na seznam **vključitev** . Če želite zagotoviti, da oseba izpustite iz pravilnika, dodati na seznam **izključitev** . 
+4. Če želite na nekoga ciljati določeno politiko, jih dodajte na seznam **vključi** . Če želite zagotoviti, da je oseba izpuščena iz pravilnika, jo dodajte na seznam **izključitev** . 
     
-Preberite več: [Kako Monitor pogojnem dostopu naprave](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
+Preberite več: [kako nadzorovati naprave s pogojnim dostopom](https://docs.microsoft.com/intune/conditional-access-exchange-monitor)
   
 

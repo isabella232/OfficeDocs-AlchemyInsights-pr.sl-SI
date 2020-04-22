@@ -1,8 +1,8 @@
 ---
-title: InTune App uvajanje pravilo Id 991
+title: Nastavi ID pravila uvajanja aplikacije 991
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498287"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714022"
 ---
-# <a name="intune-app-deployment"></a>InTune App uvajanja
+# <a name="intune-app-deployment"></a>InTune uvajanje aplikacij
 
-Uvajanje aplikacij z Intune je postopek v treh korakih:
+Uvajanje aplikacij z InTune je proces treh korakov:
   
-1. **Dodajanje app** - lahko dodate App Store app ali prenesete app Line of Business.
+1. **Dodajanje aplikacije** -dodate lahko aplikacijo trgovina App Store ali naložite aplikacijo line of Business.
 
-2. **Dodeljevanje app** - obseg uvajanja uporabe.
+2. **Dodeljevanje aplikacije** -določi obseg uporabe aplikacije.
 
-3. **Spremljanje apps** - si lahko ogledate stanje napeljati apps, seznam odkritih apps, in upravljanje apps, kupljene od app trgovin.
+3. **Aplikacije za spremljanje** -Oglejte si stanje namestitve aplikacij, seznam odkritih aplikacij in upravljanje aplikacij, kupljenih v trgovinah z aplikacijami.
 
-Preberite [Kaj je upravljanje App Intune](https://docs.microsoft.com/intune/app-management) walkthroughs in informacije o konfiguriranju in zaščita aplikacij.
+Preberite, [Kaj je InTune app Management](https://docs.microsoft.com/intune/app-management) za walkthroughs in informacije o konfiguraciji in zaščito aplikacij.
   

@@ -1,9 +1,9 @@
 ---
-title: 2681 Attack simulator v uradu 365
+title: 2681 Attack simulator v Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 07d7622c00074f7bd0d567185824db448f1eeef3
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305347"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713482"
 ---
-# <a name="attack-simulator-in-office-365"></a>Attack simulator v uradu 365
+# <a name="attack-simulator-in-microsoft-365"></a>Attack simulator v Microsoft 365
 
-- Ali ste manjka Attack simulator? Attack simulator zahteva **office 365 napredno zaščito pred grožnjami načrt 2 (ATP načrt 2)** ali **Office 365 Enterprise E5**. Attack simulator ni **vključen v** Office 365 napredno zaščito pred grožnjami načrt 1 (ATP načrt 1), Office 365 Enterprise E3, ali kateri koli Office 365 poslovne naročnine.
+- Ali ste manjka Attack simulator? Attack simulator zahteva **office 365 napredno zaščito pred grožnjami načrt 2 (ATP načrt 2)** ali **Office 365 Enterprise E5**. Attack simulator ni **vključen v** Office 365 napredno zaščito pred grožnjami načrt 1 (ATP plan 1), Office 365 Enterprise E3, ali katere koli Microsoftove 365 apps za poslovne naročnine.
 
 - Račun, ki ga uporabljate za zagon simuliranih napadov, zahteva globalne skrbniške ali varnostne skrbniške pravice in večfaktorsko preverjanje pristnosti (MFA). Če želite več informacij o zahtevah za Attack simulator, si oglejte [to temo](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
 
@@ -38,4 +38,4 @@ ms.locfileid: "37305347"
 
 - Poročila: ko je simuliran napad končan, lahko kliknete **napad podrobnosti** , da si ogledate poročilo.
 
-- Za podrobna navodila in nove funkcije v Attack simulator, glej [Attack simulator v uradu 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Za podrobna navodila in nove funkcije v Attack simulator, glej [Attack simulator v Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
