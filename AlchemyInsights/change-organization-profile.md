@@ -1,9 +1,9 @@
 ---
-title: Spremenite profil organizacije
+title: Spremeni profil organizacije
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: 00faf0bae2f1f3a5b032cdd796867da8e7351c48
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f59aad4f971de7de55cc4a160c18b552527cd393
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36519351"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706699"
 ---
-# <a name="change-organization-profile"></a><span data-ttu-id="761f7-102">Spremenite profil organizacije</span><span class="sxs-lookup"><span data-stu-id="761f7-102">Change Organization profile</span></span>
+# <a name="change-organization-profile"></a><span data-ttu-id="0a4d8-102">Spremeni profil organizacije</span><span class="sxs-lookup"><span data-stu-id="0a4d8-102">Change Organization profile</span></span>
 
-<span data-ttu-id="761f7-103">Spremenite ime podjetja, naslov, tehnične kontaktne informacije in več v skrbniškem središču na **Nastavitve** > [profil organizacije](https://go.microsoft.com/fwlink/p/?linkid=2067339) strani.</span><span class="sxs-lookup"><span data-stu-id="761f7-103">Change your company name, address, technical contact information, and more in the admin center on the **Settings** > [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) page.</span></span>
+<span data-ttu-id="0a4d8-103">Spremenite ime podjetja, naslov, tehnične podatke za stik in še več v skrbniškem središču na strani s[profilom organizacije](https://go.microsoft.com/fwlink/p/?linkid=2067339) **Nastavitev** > .</span><span class="sxs-lookup"><span data-stu-id="0a4d8-103">Change your company name, address, technical contact information, and more in the admin center on the **Settings** > [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339) page.</span></span>
 
-<span data-ttu-id="761f7-104">Bodite prepričani, da izpolnite vsa zahtevana polja označena z za \* omogočiti shranili spremembe.</span><span class="sxs-lookup"><span data-stu-id="761f7-104">Be sure to fill in all required fields marked with an \* to enable saving your changes.</span></span>
+<span data-ttu-id="0a4d8-104">Prepričajte se, da izpolnite vsa zahtevana polja, označena z \*, da omogočite shranjevanje sprememb.</span><span class="sxs-lookup"><span data-stu-id="0a4d8-104">Be sure to fill in all required fields marked with an \* to enable saving your changes.</span></span>
 
-<span data-ttu-id="761f7-105">[Več informacij na naslov ali zaračunavanja naslov spremembe](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).</span><span class="sxs-lookup"><span data-stu-id="761f7-105">[See more information on address or billing address changes](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).</span></span>
+<span data-ttu-id="0a4d8-105">[Preberite več o spremembah naslova ali naslova obračunavanja](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).</span><span class="sxs-lookup"><span data-stu-id="0a4d8-105">[See more information on address or billing address changes](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).</span></span>
