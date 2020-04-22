@@ -1,28 +1,28 @@
 ---
-title: Outlook.com spremeniti videz vašega nabiralnika
+title: Outlook.com spremenite videz nabiralnika
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547712"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722009"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Spremenite videz vašega nabiralnika Outlook.com
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>Spreminjanje videz nabiralnika Outlook.com
 
-Spremenite lahko videz sporočilo seznam, ter čitanje šipa v Outlook.com.
+Videz seznama sporočil in podokna za branje lahko spremenite v Outlook.com.
 
-- Če želite spremeniti postavitev okna s sporočilom, odprite možnosti [podokna za branje](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- Če želite spremeniti razvrstitev vaš email, na vrhu seznama sporočil, izberite **Filter** > **Razvrsti po** in izberete, kako želite razvrstiti vaš email.
-- Združevanje sporočil po pogovorih, odprite [sporočilo organizacije](https://outlook.live.com/mail/options/mail/layout/conversations) možnosti.
-- Osredotočen Prejeto vklopiti ali izklopiti, odprite možnosti [postavitve](https://outlook.live.com/mail/options/mail/layout/focused) .
+- Če želite spremeniti postavitev okna sporočila, odprite možnosti podokna za [branje](https://outlook.live.com/mail/options/mail/layout/readingPane) .
+- Če želite spremeniti način razvrščanja e-poštnega sporočila, na vrhu seznama sporočil izberite **filtriranje** > **Razvrsti po** in izberite kako želite razvrstiti e-poštno sporočilo.
+- Če želite sporočila združiti po pogovoru, odprite možnosti [organizacije sporočil](https://outlook.live.com/mail/options/mail/layout/conversations) .
+- Če želite vklopiti ali izklopiti ciljno mapo» Prejeto «, odprite možnosti [postavitve](https://outlook.live.com/mail/options/mail/layout/focused) .

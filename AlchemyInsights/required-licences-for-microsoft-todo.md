@@ -1,9 +1,9 @@
 ---
-title: Potrebne licence za Microsoft ToDo
+title: Zahtevane licence za Microsoft ToDo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,50 +13,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 110bc5b949060387bbebb478538d9aeb77f26c85
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eb25746eff60463f7182df4785a3c34d958e6c39
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36552187"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722672"
 ---
-# <a name="required-licenses-for-microsoft-todo"></a>Potrebne licence za Microsoft ToDo
+# <a name="required-licenses-for-microsoft-todo"></a>Zahtevane licence za Microsoft ToDo
 
-[Potrebne licence za Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
+[Zahtevane licence za Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-Uporabnik mora imeti enega od naslednjih dovoljenj za uporabo Microsoft ToDo:
+Uporabnik mora imeti eno od teh licenc za uporabo Microsoft ToDo:
   
-- Business Essentials
+- Poslovni Essentials
 
-- Business Premium
+- Poslovna Premium
 
 - Microsoft 365 Firstline F1
 
-- Office 365 podjetje načrt
+- Poljuben urad 365 lotitev načrt
 
-- Varno produktivnih
+- Varno produktivno poslovanje
 
-- Varno produktivna podjetja E3
+- Secure produktivno Enterprise E3
 
-- Varno produktivna podjetja E5
+- Varno produktivno Enterprise E5
 
-- Office 365 izobraževanje načrt
+- Vsak urad 365 izobraževalni načrt
 
-- Microsoft 365 A3
+- Microsoft 365 a3
 
-- Microsoft 365 A5
+- Microsoft 365 a5
 
-Poleg veljavno licenco izdelka, eno od teh različic programa Exchange Online je potrebna za ToDo premoči sinhronizacije uporabniških podatkov:
+Poleg veljavnega dovoljenja za izdelek je za ToDo potrebna ena od naslednjih različic programa Exchange Online, da lahko sinhronizirate uporabniške podatke:
   
-- Exchange Online načrt 1
+- Exchange Online (paket 1)
 
 - Exchange Online načrt 2
 
-- Izmenjavo Essentials
+- Valutni Essentials
 
-- Exchange Online Kiosk
+- Kiosk Exchange Online
 
 - Exchange Online POP
 
-[Dodeljevanje licenc uporabniških računov z Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Dodeljevanje licenc uporabniškim računom z Officeom 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

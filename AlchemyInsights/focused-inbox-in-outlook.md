@@ -1,9 +1,9 @@
 ---
-title: 1800019 usmerjena »Prejeto« v Outlooku
+title: 1800019 osredotočen Prejeto v Outlooku
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/11/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: 9f647338efd63d78bafca3424fcf735cf4c4dbd1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8eb4f8c9eca75b68fdc5c32235f31b5c2c8bf2ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524571"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719937"
 ---
-# <a name="focused-inbox-in-outlook"></a>Osredotočen Prejeto v Outlooku
+# <a name="focused-inbox-in-outlook"></a>Osredotočen Inbox v Outlooku
 
-Osredotočenost na Prejeto loči Prejeto v dva jezička — osredotočenost in drugi. Najbolj pomembna sporočila so na kartici osredotočen, medtem ko ostali še vedno dostopni, vendar odročen-na jeziček drugo.
+Usmerjeni Inbox ločuje vaš nabiralnik v dveh zavihkih-osredotočen in drugo. Najpomembnejša sporočila so na kartici» osredotočen «, medtem ko so ostali lahko dostopni, vendar ne na način – na kartici drugo.
   
-[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook na spletu](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [2016 Outlook za Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [pošte za Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
+[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409) | [Outlook na spletni](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409) | [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409) | [Outlook 2016 za Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409) | [mail za Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
 več:
   
-- [Glej osredotočena Prejeto v akciji](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [Glejte razdelek» usmerjeno Prejeto «v akciji](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
 
-- [Nastaviti osredotočena Prejeto za vse zaposlence s PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [Konfiguriranje usmerjenega nabiralnika za vse v vaši organizaciji z lupino PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)

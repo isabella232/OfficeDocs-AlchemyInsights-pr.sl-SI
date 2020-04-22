@@ -1,8 +1,8 @@
 ---
-title: Posodobitev imenskih strežnikov domene za Office 365
+title: Posodobite svoje domenske imenske strežnike, da pokažete na Microsoft
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: 23d49c734148739ede0d5e5b53430a42b606c831
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36742202"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720009"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>Posodobitev imenskih strežnikov domene za Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>Posodobite svoje domenske imenske strežnike, da pokažete na Microsoft
 
 Opomba: preteče lahko do 48 ur, preden bodo spremembe imenskega strežnika uporabljene.
   
-Če želite nastaviti domeno v storitvi Office 365, morate posodobiti imenske strežnike v registratorju. Ustvarjajte ali urejajte zapise imenskega strežnika v registratorju domene.
+Če želite domeno nastaviti z Microsoftom, je treba posodobiti imenske strežnike na registratorju. Ustvarjajte ali urejajte zapise imenskega strežnika v registratorju domene.
   
 1. Pojdite na spletno mesto registratorja domene in poiščite mesto, kjer lahko urejate imenske strežnike.
 
@@ -34,5 +34,5 @@ Opomba: preteče lahko do 48 ur, preden bodo spremembe imenskega strežnika upo
 
 3. Shranite spremembe.
 
-Podrobna navodila lahko najdete tudi v tem članku: [Sprememba imenskih strežnikov za nastavitev storitve Office 365 na poljubne registratorje domene](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+Prav tako lahko najdete podrobna navodila v tem članku: [spremenite nameservers nastaviti Microsoft 365 s katero koli domeno registrar](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   
