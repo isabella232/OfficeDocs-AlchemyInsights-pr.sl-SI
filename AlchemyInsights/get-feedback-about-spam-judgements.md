@@ -1,24 +1,24 @@
 ---
-title: '2571 novost: dobijo povratno informacijo o spam sodb'
+title: '2571 nova funkcija: pridobite povratne informacije o nezaželeno sodb'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: a3ba1f5157242120c8690775125b5fbe04f7565f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 4eda7f42c01ddb8d40ab535c3db80b15ab17b632
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391525"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765032"
 ---
-# <a name="new-feature-get-feedback-about-spam-judgments"></a>Novost: dobijo povratno informacijo o spam sodb
+# <a name="get-feedback-about-spam-judgments"></a>Pridobite povratne informacije o nezaželeno sodb
 
-Kot admin, lahko zdaj preprosto prijavite sumljivo e-poštnih sporočil, URL, in vsebino Microsoft [Explorer stališča](https://protection.office.com/reportsubmission). Uporabite ga lahko tudi pomagati razumeti, zakaj je legitimno sporočilo označil nepravilno. Če želite več informacij, glejte ta [napoved](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
+Kot skrbnik lahko preprosto prijavite sumljiva e-poštna sporočila, URL-je in vsebino Microsoftu v [predstavitvah raziskovalca](https://protection.office.com/reportsubmission). Uporabite ga lahko tudi za pomoč pri razumevanju, zakaj je bilo legitimno sporočilo nepravilno označeno. Če želite več informacij, si oglejte to [obvestilo](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
 
-Da je udobnost, lahko uporabniki sporočijo neposredno Microsoftu prek je [poročilo sporočilo povečati-v](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Če želite, da se olajša, lahko uporabnikom dovolite, da neposredno poročajo Microsoftu prek [dodatka sporočilo za poročilo](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).

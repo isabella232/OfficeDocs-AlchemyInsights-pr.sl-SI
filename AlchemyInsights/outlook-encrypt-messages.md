@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 33e94eac6a2982b8036e13d17bf60015f244f2cb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053241"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764888"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Šifriranje e-poštnih sporočil v programu Outlook
 
-Šifriranje sporočil sistema Office 365 je zgrajeno v programu Microsoft Azure Rights Management (Azure RMS), ki je del programa Azure Information Protection. Če vaša naročnina vključuje upravljanje pravic Azure ali varstvo podatkov Azure, **vam ni treba sprejeti nobenih dejanj za ročno Omogočanje ali aktiviranje** storitve za upravljanje pravic.
+Microsoft 365 sporočilo encryption je zidava naprej mikroskop Azure pravilen uprava (Azure RMS), kateri je del od Azure sporočilo varstvo. Če vaša naročnina vključuje upravljanje pravic Azure ali varstvo podatkov Azure, **vam ni treba sprejeti nobenih dejanj za ročno Omogočanje ali aktiviranje** storitve za upravljanje pravic.
 
 Na podlagi povratnih informacij strank ne bomo več omogočali pravil o pretoku pošte Exchange za samodejno šifriranje odhodne e-pošte, ki vsebuje določene vrste občutljivih podatkov v vašem najemniku privzeto. Namesto tega ponujamo podrobna navodila o tem, kako lahko to storite sami. Če želite več podrobnosti o ustvarjanju pravila transporta za šifriranje občutljivih informacij, si oglejte [Ta članek](https://aka.ms/OmeEtr).
 

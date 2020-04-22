@@ -3,7 +3,7 @@ title: Selitev nabiralnikov med dvema različnima najemnikoma
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "684"
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
-ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 2bfce9766552fd55159fb87433ae4ff791c2e814
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36734469"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762297"
 ---
 # <a name="migrate-mailboxes-between-two-different-tenants"></a>Selitev nabiralnikov med dvema različnima najemnikoma
 
-Morda boste morali preseliti nabiralnike med dvema različnima najemnikoma v Officeu 365, na primer, kadar obstajajo združitve organizacije. Te migracije je treba skrbno načrtovati. Prosimo, glejte naslednje napotke:
+Morda boste morali preseliti nabiralnike med dvema različnima najemnikoma, na primer, kadar obstajajo združitve organizacije. Te migracije je treba skrbno načrtovati. Prosimo, glejte naslednje napotke:
   
-[Selitev nabiralnikov iz enega najemnika Office 365 v drugega](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[Selitev nabiralnikov iz enega najemnika v drugega](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

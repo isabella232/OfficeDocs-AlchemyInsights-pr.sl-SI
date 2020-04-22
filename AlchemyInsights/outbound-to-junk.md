@@ -3,7 +3,7 @@ title: Odhodna e-pošta v mapo» Neželena e-pošta «
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 371d2c46e9048365fd343145330536bd9cf1db82
-ms.sourcegitcommit: 1002f510fadb92c143cd6bbb60b42a851d5a38e1
+ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/20/2019
-ms.locfileid: "37062840"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761184"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Odhodna e-pošta v mapo» Neželena e-pošta «
 

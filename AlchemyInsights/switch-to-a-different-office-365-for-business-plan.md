@@ -1,5 +1,5 @@
 ---
-title: Preklop na drug urad 365 za poslovni načrt
+title: Preklop na drug Microsoftov 365 za poslovni načrt
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.custom:
 - "438"
 - "1400007"
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
-ms.openlocfilehash: fecb44a283b3c68611f4e2cbf9163b96ea806cd6
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: 1bc79393f28feae564ef02866143f25ca5791011
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43548014"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763809"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>Preklop na drug urad 365 za poslovni načrt
+# <a name="switch-to-a-different-microsoft-365-for-business-subscription"></a>Preklop na drug Microsoftov 365 za poslovno naročnino
 
-Ko se vaše podjetje spremeni ali potrebujete več funkcij funkcije Office 365, lahko nadgradite na nov načrt.
+Ko se vaše podjetje spremeni ali potrebujete več funkcij, lahko nadgradite na nov načrt.
   
 1. V skrbniškem središču pojdite na **izdelke za \> obračunavanje [& storitve](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 

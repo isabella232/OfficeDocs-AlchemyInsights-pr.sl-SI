@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 4b90f843843416408d7f3091325fe436dc3ec9df
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39628006"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764133"
 ---
 # <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>Popravljanje Officeovih aplikacij» Žal mi je, da imamo sporočilo o začasnih težavah v strežniku «
 
 Če prejmete to sporočilo, poskusite naslednje:
 
-1. Preverite požarni zid, protivirusno programsko opremo in nastavitve proxy, da potrdite, da ne blokira internetnega dostopa do Officeovih aplikacij. Glejte [URL-je sistema Office 365 in obsege naslovov IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Preverite požarni zid, protivirusno programsko opremo in nastavitve proxy, da potrdite, da ne blokira internetnega dostopa do Officeovih aplikacij. Glejte [URL-je in obsege naslovov IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 2. Iti k **začetek** > **prost dostop**, ter torej stavek **Services. msc**. Zagotovite, da se izvajajo naslednje storitve:
     - Samodejna nastavitev omrežne priključene naprave
@@ -36,4 +36,4 @@ ms.locfileid: "39628006"
 
 Ko se ta ukaz dokonča, znova zaženite računalnik.
 
-Za podrobnejše informacije glejte [» žal ne moremo vzpostaviti povezave z vašim računom. Poskusite znova pozneje "napako, ko aktivirate Office iz Officea 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Za podrobnejše informacije glejte [» žal ne moremo vzpostaviti povezave z vašim računom. Poskusite znova pozneje "Napaka pri aktiviranju](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
