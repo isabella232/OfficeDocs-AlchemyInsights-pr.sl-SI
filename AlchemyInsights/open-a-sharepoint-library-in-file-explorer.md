@@ -1,9 +1,9 @@
 ---
-title: Odprite knjižnico SharePoint v pila raziskovalec
+title: Odpiranje SharePointove knjižnice v Raziskovalcu
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 381326b9edc8e3f56f443551b95f1410fd3752a8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 231b026c42fddd3957b01fc7e383d7161f525e91
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548731"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698506"
 ---
-# <a name="open-a-sharepoint-library-in-file-explorer"></a>Odprite knjižnico SharePoint v pila raziskovalec
+# <a name="open-a-sharepoint-library-in-file-explorer"></a>Odpiranje SharePointove knjižnice v Raziskovalcu
 
-1. Prebrskaj knjižnico v Internet Explorer 10 ali Internet Explorer 11. 
+1. Prebrskajte do knjižnice v Internet Explorerju 10 ali Internet Explorerju 11. 
     
-2. Kliknite ikono pogled v zgornjem desnem, in nato kliknite **pogled v Raziskovalcu datoteke**.
+2. Kliknite ikono pogled v zgornjem desnem kotu in nato kliknite **pogled v Raziskovalcu**.
     
 > [!NOTE]
-> Otvoritev knjižnice v datoteko Explorer je priročno, če želite kopirati ali premakniti več datotek in map, ko, vendar če želite redno delo v knjižnici, priporočamo, da sinhronizirate. Odpravljanje težav v datoteko Explorer, glejte [plan v raziskovalec](https://go.microsoft.com/fwlink/?linkid=871665). Informacij o nastavitev sinhronizacije, glejte [Sinhroniziranje SharePointovih datotek z novo OneDrive sinhronizacijo odjemalca](https://go.microsoft.com/fwlink/?linkid=871666). 
+> Odpiranje knjižnice v raziskovalcu je priročno, če morate enkrat kopirati ali premikati več datotek in map, če pa želite redno delati v knjižnici, priporočamo, da jo sinhronizirate. Če želite odpraviti težave pri odpiranju v Raziskovalcu, glejte [Odpri v Raziskovalcu](https://go.microsoft.com/fwlink/?linkid=871665). Če želite več informacij o nastavitvi sinhronizacije, glejte [sinhronizacija SharePointovih datotek z novim odjemalcem za sinhronizacijo storitve OneDrive](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

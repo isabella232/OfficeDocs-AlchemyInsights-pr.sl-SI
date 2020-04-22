@@ -1,9 +1,9 @@
 ---
-title: 924 pravilo omejuje
+title: 924 omejitve pravil
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 5/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.custom:
 - "924"
 - "1800021"
 ms.assetid: d80318be-6e30-4cd9-a65e-e7dc55f69e69
-ms.openlocfilehash: 3cb63eafc066ada20da7eb3b762424a3ef9e0026
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8f26aac23cbcbc6b0b1d18f433467f90b666a4d2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551395"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681876"
 ---
-# <a name="rule-limits"></a>Pravilo omejuje
+# <a name="rule-limits"></a>Omejitve pravil
 
-Pravilo omejuje morda razlikuje Office 365 možnosti in samostojno. Če želite več informacij, glejte [listu, prevoz, in Prejeto pravilo omejuje](https://technet.microsoft.com/library/exchange-online-limits.aspx).
+Omejitve pravil se lahko razlikujejo med možnostmi načrta in samostojnimi možnostmi. Če želite več informacij, glejte [omejitve pravil temeljnice, transporta in nabiralnika](https://technet.microsoft.com/library/exchange-online-limits.aspx).

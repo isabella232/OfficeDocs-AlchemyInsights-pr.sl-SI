@@ -1,5 +1,5 @@
 ---
-title: Omogoči in iskanje dnevnika nadzora
+title: Omogočanje in iskanje dnevnika revizij
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 9c8f38e7bfac6d5ac6f82e5d8225c89530bd98b2
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665092"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703659"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Omogoči in iskanje dnevnik nadzora
+# <a name="enable-and-search-the-audit-log"></a>Omogočanje in iskanje dnevnika revizij
 
-**Office 365**
+**Microsoft 365**
 
-Iskanje dnevnik nadzora Office 365, sledite [tem korakom](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Če želite iskati v dnevniku revizij Microsoft 365, sledite [tem korakom](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
-**Izmenjava**
+**Izmenjavo**
 
-- Admin dejavnosti izmenjave so nadzorovani z ne izpolniti obveznosti.
+- Skrbniške dejavnosti Exchange so privzeto revidirane.
 
-- Omogočen je nadzor nabiralnika privzeto v Office 365. Če želite več informacij, glejte [Ta članek](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
+- Nadzor nabiralnika je privzeto omogočen v Microsoft 365. Če želite več informacij, glejte [Ta članek](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- Office 365 skupina nabiralnikov in nabiralnikov javno mapo v Exchange Online ne podpira zapisovanja.
+- Nabiralniki skupine Office 365 in nabiralniki javnih map v spletnem mestu Exchange Online ne podpirajo beleženja dnevnika nadzora.
 
 **SharePoint in OneDrive**
 
-- Ni dodatnih konfiguracija zahteva, da omogočite nadzor za SharePoint in OneDrive.
+- Za omogočanje revizije za SharePoint in OneDrive ni potrebna nobena dodatna konfiguracija.
 
-- SharePoint in OneDrive podporo, nadzor naslednje vrste dejavnosti:
+- SharePoint in OneDrive podpirata spremljanje naslednjih vrst dejavnosti:
 
-    - Datoteke, mape in strani dejavnosti
-    - Izmenjavo in dostop zahtevo dejavnosti
-    - Dejavnosti upravljanja mesta
-    - Datoteka sinhronizacijo dejavnosti
+    - Dejavnosti datoteke, mape in strani
+    - Skupna raba in dostop do dejavnosti zahteve
+    - Dejavnosti upravljanja spletnega mesta
+    - Dejavnosti sinhronizacije datotek
 
-- Za informacije o revidiranih dejavnosti v druge storitve Office 365, glej [tabelo v tem členu](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Če želite informacije o revidiranih dejavnostih v drugih storitvah, si oglejte [tabelo v tem članku](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#audited-activities).
 
-- Tukaj je seznam pogostih vprašanj [pogosto zastavljena vprašanja](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) o iskanju dnevnik nadzora.
+- Tukaj je na seznamu pogostih vprašanj [pogosto zastavljena vprašanja](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) o iskanju dnevnika revizij.

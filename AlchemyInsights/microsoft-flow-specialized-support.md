@@ -1,9 +1,9 @@
 ---
-title: Microsoft tok specializirano podporo
+title: Microsoft Flow specializirana podpora
 ms.author: pebaum
 author: pebaum
 manager: mnirke
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: 59cfe196492f90ff18902b8678b4322a0135533c
-ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
+ms.openlocfilehash: 6d40629c1259a78803302d6a23a96b50236561b5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "35199253"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698578"
 ---
-# <a name="microsoft-flow-specialized-support"></a>Microsoft tok specializirano podporo
+# <a name="microsoft-flow-specialized-support"></a>Microsoft Flow specializirana podpora
 
-Za specializirano podporo Microsoft Flow Prosimo, pojdite na novo [moč platforme admin center](https://aka.ms/flowadminsupport). Nov portal ponuja bolj neposredno pot do podpora, ki je optimizirana za Microsoft Flow in produktnega druge moči.
+Za specializirano podporo za Microsoft Flow Obiščite novo [skrbniško središče za električno platformo](https://aka.ms/flowadminsupport). Novi portal zagotavlja bolj neposredno pot do pomoči za podporo, ki je optimizirana za Microsoft Flow in druge izdelke za energijo platformo.
 
 več:
-- [Informacije o Microsoft tok brez dovoljenja](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [Tok v organizaciji FAQ](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Office 365 in Dynamics 365 načrte, ki vključujejo Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [Microsoft Flow zaračunavanja in merjenje vprašanja](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [Informacije o licenci Microsoft Flow Free](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [Pogosta vprašanja o toku v organizaciji](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [Paketi Microsoft 365 in Dynamics 365, ki vključujejo Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [Vprašanja obračunavanja in merjenja za Microsoft Flow](https://go.microsoft.com/fwlink/?linkid=2072612)

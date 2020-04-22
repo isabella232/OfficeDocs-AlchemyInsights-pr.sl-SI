@@ -1,9 +1,9 @@
 ---
-title: Predplačniške podaljšanje
+title: Predplačana obnova
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666712"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666793"
 ---
-# <a name="prepaid-office-365-renewal"></a>Predplačniške Office 365 podaljšanje
+# <a name="prepaid-microsoft-365-renewal"></a>Predplačniško Microsoft 365 obnovo
 
-1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
+1. V skrbniškem središču odprite stran **Obračunavanje** \> [Izdelki in storitve](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Poišči naročnino, ki ga želite razširiti. V razdelku **zaračunavanje** izberite **razširi končni datum**.
+2. Poiščite naročnino, ki jo želite razširiti. V razdelku **obračunavanje** izberite **razširi končni datum**.
 
-3. V **naročnino razširi** podokno, izberite **uporabi novo, nerabljeno zmnožek zakleniti**, nato pa izberite **naslednjo**.
+3. V podoknu za **podaljšanje naročnine** izberite **uporabi nov in neuporabljen ključ izdelka**, nato pa izberite **naprej**.
 
-4. Vnesite ključ izdelka, nato izberite **naslednji**.
+4. Vnesite ključ izdelka in nato izberite **naprej**.
 
 > [!NOTE]
-> Če imate več kot en ključ izdelka, lahko izberete, **povečati še eden zmnožek zakleniti** vanje.
+> Če imate več kot en ključ izdelka, lahko izberete **Dodaj drug ključ izdelka** , da jih vnesete.
 
-5. Pregled vaš podrobnosti o naročilu, potem izberite **izkoristi**.
+5. Preglejte podrobnosti naročila in izberite **unovčevanje**.
 
-Če želite izvedeti več, glejte [dodati licenc za ali razširiti naročnino, ki se plača za uporabo a zmnožek zakleniti](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+Če želite izvedeti več, glejte [Dodajanje licenc ali razširitev naročnine, plačane za uporabo ključa izdelka](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).

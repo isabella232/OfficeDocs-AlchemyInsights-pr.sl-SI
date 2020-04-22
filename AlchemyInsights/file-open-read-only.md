@@ -3,7 +3,7 @@ title: Odpri datoteko samo za branje
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: eddd427b159a782abf53adda934de8b15a02ed00
-ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
+ms.openlocfilehash: c045188af15fcec0f868eb0e5b399bd1fb42a09a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/10/2019
-ms.locfileid: "36822250"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702790"
 ---
 # <a name="file-open-read-only"></a>Odpri datoteko samo za branje
 
@@ -37,7 +37,7 @@ Datoteke iz interneta in drugih potencialno nevarnih lokacij lahko vsebujejo vir
   
  **Ali je OneDrive polna?**
   
-Če je datoteka shranjena v storitvi OneDrive in je prostor za shranjevanje v storitvi OneDrive poln, dokumenta ne boste mogli shraniti, dokler niste pod dodeljenim prostorom. Brezplačen prostor v storitvi OneDrive lahko preverite tako, da v središču za obvestila kliknete ikono storitve OneDrive in izberete upravljanje shrambe ali [http://onedrive.live.com](http://onedrive.live.com)pa se prijavite in zabeležite količino uporabljenega prostora v spodnjem levem kotu zaslona.
+Če je datoteka shranjena v storitvi OneDrive in je prostor za shranjevanje v storitvi OneDrive poln, dokumenta ne boste mogli shraniti, dokler niste pod dodeljenim prostorom. Brezplačen prostor v storitvi OneDrive lahko preverite tako, da v središču za obvestila kliknete ikono storitve OneDrive in izberete upravljanje shrambe ali [https://onedrive.live.com](https://onedrive.live.com)pa se prijavite in zabeležite količino uporabljenega prostora v spodnjem levem kotu zaslona.
   
  **Ali je Office aktiviran?**
   

@@ -1,9 +1,9 @@
 ---
-title: 1245-uvoz-PST-storitve
+title: 1245-Import-PST-storitve
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,27 +13,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: bab1a842d3c9c8ec32c066e7615e175c2e1d7a7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bac2f919f65d318fd669f97690a4543717ffc884
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36496379"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687778"
 ---
-# <a name="office-365-import-service"></a>Uvozne storitve Office 365
+# <a name="microsoft-365-import-service"></a>Microsoftova 365 uvozna storitev
 
-Office 365 uvoz storitev vam omogoča, da v razsutem stanju-uvoz več datotek PST do nabiralnikov Exchange Online.
+Mikroskop 365 uvoz usluga lets vi v telesnina-uvoz večkratnik PST pila v Exchange Online nabiralnikov.
 
-Za dostop do uvoza storitev in začel postopek uvoza:
+Če želite dostopati do storitve Import in začeti postopek uvažanja:
 
-1. Iti k [varnost & skladnosti Center](https://protection.office.com) in se prijavite v poverilnicami za skrbniški račun v organizaciji Office 365.
+1. Odprite središče za [skladnost varnostnega &](https://protection.office.com) in se vpišite s poverilnicami za skrbniški račun v organizaciji.
 
-2. V levem podoknu **varnostnega & skladnosti Center**, kliknite **> upravljanja podatkov uvoza**.
+2. V levem podoknu **središča za preverjanje varnosti &** kliknite **upravljanje podatkov > uvozi**.
 
-3. Na strani **uvoz** kliknite **New posel uvoza**.
+3. Na strani **Uvozi** kliknite **novo uvozno opravilo**.
 
-4. Če želite dokončati korake v čarovniku, upoštevajte ta [navodila](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+4. Če želite dokončati korake čarovnika, upoštevajte ta [navodila](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files)po korakih.
 
-**Pomembno**: za dostop do **uvoza** strani v varnostno & Center skladnosti, lahko dodelite [ustrezna dovoljenja](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
+**Pomembno**: Če želite dostopati do strani za **uvoz** v središču za skladnost varnostnega &, vam bodo dodeljena [ustrezna dovoljenja](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files#before-you-begin).
 
-Če želite uvoziti PST v vaš poštni nabiralnik, glejte [Ta članek](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+Če želite uvoziti PST v nabiralnik, si oglejte [Ta članek](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).

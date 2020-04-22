@@ -1,8 +1,8 @@
 ---
-title: Napaka 0-1036 namestitvi Officea
+title: Napaka 0-1036 pri nameščanju Officea
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: c9a591a4b853daeff4c92f4093dada5fbeb4e011
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c7c5e924255f9ed1f39690e5dc0da7857bac68eb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527523"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703262"
 ---
-# <a name="error-0-1036-when-installing-office"></a>Napaka 0-1036 namestitvi Officea
+# <a name="error-0-1036-when-installing-office"></a>Napaka 0-1036 pri nameščanju Officea
 
-Poskusite te rešitve popraviti vaš urad napako 0-1036:
+Poskusite s temi rešitvami, da odpravite napako v Officeu 0-1036:
   
-- Znova zaženite računalnik in znova [namestite Office](https://portal.office.com/OLS/MySoftware.aspx) .
+- Znova zaženite računalnik in znova poskusite [namestiti Office](https://portal.office.com/OLS/MySoftware.aspx) .
 
-- Prenesite in namestite [podporo in regres pomočnika](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- Prenesite in namestite [pomočnika za podporo in obnovitev](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Ko se odpre, **Uninstall urad** izdelkov izberite različico, ki jo želite odstraniti, in izberite **naslednjo**.
+1. Ko se odpre, iz **Odstrani Officeove izdelke** izberite različico, ki jo želite odstraniti, in izberite **naprej**.
 
-2. Nadaljuj z zasloni in znova zaženite računalnik, ko pozove.
+2. Pomikajte se po oknih in ob pozivu znova zaženite računalnik.
 
-    Po ponovnem zagonu, podporo in regres pomočnik samodejno ponovno odpre za dokončanje postopek odstranitve.
+    Čez zopet začeti, zaslomba ter regres pomočnik automatically drugi ton oktave-plan v celoten uninstall proces.
 
-3. Sledite preostalih uren, ter [zopet postaviti urad](https://portal.office.com/OLS/MySoftware.aspx) ali zaprite Officeov pomočnik.
+3. Sledite preostalim pozivom in [znova namestite Office](https://portal.office.com/OLS/MySoftware.aspx) ali zaprite pomočnika.
 
-- [Uporaba Office offline umestiti](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) umestiti urad
+- S programom Office [offline Installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) namestite Office

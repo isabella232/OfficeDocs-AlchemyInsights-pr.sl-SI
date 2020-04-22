@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770367"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642160"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Težave pri ustvarjanju skupine, povezane z mestom v SharePointu
 
@@ -26,7 +26,7 @@ ms.locfileid: "41770367"
    - Če želite več informacij o tem, kako začeti z lupino PowerShell, glejte [Uvod v SharePoint online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
    - Odstranite stran iz izbrisanih mest z ukazom» cmdlet « [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShell. PowerShell je treba trajno izbrisati skupine mest.
 
-1. Če ustvarjate skupinsko povezano mesto in prejmete opozorilo: **druga skupina z istim vzdevkom že obstaja**, preverite obstoječe skupine iz [Officea 365 iz skrbniškega središča](https://admin.microsoft.com/AdminPortal/Home#/groups). Če želite odpraviti težavo, izbrišite obstoječo skupino, če je ni več potrebno ali ustvarite mesto z drugim dodeljenim vzdevkom.
+1. Če ustvarjate skupinsko povezano mesto in prejmete opozorilo: **druga skupina z istim vzdevkom že obstaja**, preverite obstoječe skupine iz [skrbniškega središča Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Če želite odpraviti težavo, izbrišite obstoječo skupino, če je ni več potrebno ali ustvarite mesto z drugim dodeljenim vzdevkom.
 
 1. Obstajajo različni načini za ustvarjanje in uporabo sodobnih skupin s SharePointom.
 

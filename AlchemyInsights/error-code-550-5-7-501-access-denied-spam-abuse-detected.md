@@ -2,7 +2,7 @@
 title: Zmota zbornik 550 5.7.501 postranski tajivec, spam zloraba odkriti
 ms.author: chrisda
 author: chrisda
-ms.date: 6/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7be23f02878d12aa08cb4970af6f99539a9cefab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36740157"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703042"
 ---
 # <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 dostop zavrnjen, spam zloraba odkriti
 
-Običajno se to sporočilo zgodi, ko uporabniki pošiljajo e-poštna sporočila iz naslovov IP z uporabo začetnega *. onmicrosoft.com* domene, ki je dodeljena novim najemnikom v officeu 365. Najlažji način za rešitev te težave je:
+Običajno se to sporočilo zgodi, ko uporabniki pošiljajo e-poštna sporočila iz naslovov IP z uporabo začetnega *. onmicrosoft.com* domene, ki je dodeljena novim najemnikom v Microsoft 365. Najlažji način za rešitev te težave je:
 
 1. [Svojemu najemniku dodajte domeno](https://docs.microsoft.com//office365/admin/setup/add-domain).
 

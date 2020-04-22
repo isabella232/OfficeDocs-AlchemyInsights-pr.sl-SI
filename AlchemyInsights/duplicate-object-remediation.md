@@ -1,9 +1,9 @@
 ---
-title: 1314 dvojnik predmeta sanacije
+title: 1314 podvojena sanacija predmeta
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 12/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.custom:
 - "1314"
 - "1300024"
 ms.assetid: b8543b7e-fd00-4b3c-be68-a1758b8caf78
-ms.openlocfilehash: a37114097dbe7e3a3c8c13e9ddc53dc5c6b24a78
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 138ba305b872e8c0508ba673fb59324672d14997
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529456"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703983"
 ---
-# <a name="duplicate-object-synchronization-errors"></a>Podvojeni predmet sinhronizacijskih napak
+# <a name="duplicate-object-synchronization-errors"></a>Podvojene napake pri sinhronizaciji predmetov
 
-Če se prikaže eno od teh napak med sinhronizacije:
+Če med sinhronizacijo prejmete eno od teh napak:
 
-- Sinhroniziranega predmeta z isto zastopstvo ogovor že obstaja v imeniku Microsoft Online Services.
+- Sinhroniziran predmet z istim naslovom proxy že obstaja v imeniku Microsoft Online Services.
 
 - Podobno sporočilo za UserPrincipalName.
 
-Uporabite novo AADConnect zdravje diagnostičnih odločiti podvojeni predmet napake. Če želite več informacij, glejte [diagnosticiranje in sanacijo podvojiti atribut sinhronizacijske napake](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+Uporabite novo AADConnect Health diagnostike, da odpravite podvojene napake predmeta. Če želite več informacij, glejte [diagnosticiranje in odpravljanje podvojene napake pri sinhronizaciji atributov](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).

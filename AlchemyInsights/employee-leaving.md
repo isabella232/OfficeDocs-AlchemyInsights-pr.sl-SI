@@ -1,9 +1,9 @@
 ---
-title: Zaposlenih, pri čemer
+title: Odhod zaposlenih
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527847"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703731"
 ---
-# <a name="block-access-to-a-former-employee"></a>Tnalo postranski v nekdanji zaposleni
+# <a name="block-access-to-a-former-employee"></a>Blokiranje dostopa do nekdanjega zaposlenega
 
-Imajo zaposleni zapustijo in blokiranje dostopa do podatkov Office 365 in e-pošte? Delati sledeč.
+Ali delavec zapušča in je treba blokirati dostop do podatkov in e-pošte? Naredite naslednje.
   
-1. V skrbniškem središču, iti k **uporabnik** \> [Aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) strani.
+1. V skrbniškem središču pojdite na stran **Uporabniki** \> [aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
 2. Izberite ime uporabnika, ki ga želite blokirati.
 
-3. Pod ime uporabnika, izberite **Blokiraj tega uporabnika**.
+3. Pod uporabnikovo ime izberite **Blokiraj tega uporabnika**.
 
-4. Izberite **Blokiraj uporabnika iz podpis** \> **shraniti spremembe**.
+4. Izberite **Blokiraj uporabnika iz vpisa v** \> **shranjevanje sprememb**.
 
-**Opomba**: izpis za nekatere aplikacije lahko takoj. Nadaljevanje z več ukrepi v tem članku: [odstranite nekdanjega zaposlenega iz Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)
+**Opomba**: odjava za nekatere aplikacije morda ni takojšnja. Nadaljnje ukrepanje v tem članku: [odstranite nekdanjega zaposlenega](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

@@ -1,9 +1,9 @@
 ---
-title: Poročilo o skupni rabi datotek in map na SharePointovem mestu
+title: Poročilo o skupni rabi datoteke ali mape na SharePointovem mestu
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/16/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 8dbad3df0c53a1167d5399efcfd9c0f7a71f928a
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627374"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43693178"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Poročilo o skupni rabi datotek in map na SharePointovem mestu
+# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Poročilo o skupni rabi datoteke ali mape na SharePointovem mestu
 
 Datoteko CSV lahko ustvarite s podrobnostmi o vsaki edinstveni datoteki, uporabniku, dovoljenju in povezavi na danem SharePointovem mestu ali v knjižnici storitve OneDrive. To vam lahko pomaga razumeti, kako se uporablja skupna raba in ali so datoteke ali mape v skupni rabi z gosti.
 

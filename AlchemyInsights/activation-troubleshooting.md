@@ -1,8 +1,8 @@
 ---
-title: Aktiviranje odpravljanje težav
+title: Odpravljanje težav z aktivacijo
 ms.author: jillz
 author: jillz
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: a9dfbdd5b8b1dc34eded716ac7162f7188e622df
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495587"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676441"
 ---
-# <a name="activation-troubleshooting"></a>Aktiviranje odpravljanje težav
+# <a name="activation-troubleshooting"></a>Odpravljanje težav z aktivacijo
 
-V **Nadzorni plošči** \> **programi in funkcije**, poiščite urad. Vi should zagledati Microsoft Office 365 ProPlus ali Microsoft Office 365 Business. Če vidite več kot eno različico Officea, na seznamu, odstranite različico ne uporabljate.
+V **programih in funkcijah** **nadzorne plošče** \> poiščite Office. Microsoft 365 apps za podjetja ali Microsoft 365 aplikacije za podjetja bi morali videti. Če vidite, da je nameščena več kot ena različica Officea, odstranite različico, k je ne uporabljate.
   
-Če ne morete odstraniti uspešno nadzorni plošči, uporabite [podporo in regres pomočnika](https://aka.ms/SARA-OfficeUninstall-Alchemy) odstraniti različico, ki jih ne uporabljate.
+Če ne morete uspešno odstraniti z nadzorno ploščo, uporabite pomočnika za [podporo in obnovitev](https://aka.ms/SARA-OfficeUninstall-Alchemy) , da odstranite različico, ki je ne uporabljate.
   
-Če urad je še vedno brez licence, Pojdi nazaj v **Pregled slika na lesu** \> **programi in funkcije**. Desno tipko miške kliknite preostale urad napeljati, izberite **Spremeni** (ali sprememb) in nato izberite **Online popravila**. Online popravila lahko traja nekaj časa. Nato znova zaženite Office in prijava z vaše delo ali v šolo račun, če sufler.
+Če Office še vedno ni licenciran, se vrnite v **programe in funkcije** **nadzorne plošče** \> . Z desno miškino tipko kliknite preostalo namestitev Officea, izberite **Spremeni** (ali spremeni) in nato izberite **spletno popravilo**. Spletno popravilo bo morda trajalo nekaj časa. Nato znova zaženite Office in se vpišite s službenim ali šolskim računom, če ste pozvani k temu.
   
-Če urad je še vedno brez licence, prenesite in zaženite [svetovalca za aktiviranje](https://aka.ms/SARA-OfficeActivation-Alchemy) na prizadetih stroj popraviti težavah aktiviranja.
+Če Office še vedno ni licenciran, prenesite in zaženite [orodje za odpravljanje težav z aktiviranjem](https://aka.ms/SARA-OfficeActivation-Alchemy) v prizadetem računalniku, da odpravite težave z aktiviranjem.
   
-Če želite več informacij, glejte: [Nelicencirani izdelek in activation zmota v pisarni](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+Če želite več informacij, glejte: [Nelicencirani izdelek in napake pri aktiviranju v Officeu](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

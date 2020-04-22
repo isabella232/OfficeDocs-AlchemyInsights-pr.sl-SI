@@ -12,16 +12,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 1209e59668bbe69fe88408933ae11b357b8d4f1a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661312"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687634"
 ---
-# <a name="office-365-alert-policies"></a>Pravilniki o opozorilu na Office 365
+# <a name="alert-policies"></a>Pravilniki o opozorilu
 
-Urad 365 varnost & skladnost središče oferirati ne [izpolniti obveznosti buden policija](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) to petelin na puški buden zakaj društvo s urad 365 lotitev ali urad 365 nas vlada E1/G1, E3/G3, ali E5/G5 abomna. Zato lahko skrbniki prejmejo opozorilno e-poštno obvestilo, ki ga je poslala Office365Alerts@microsoft.com z zadevo, kot je» opozorilo o nizki resnosti: *ime pravilnika o alarmu*«. Obvestila o opozorilih so poslana, ko so opozorila sprožena za pogoste dejavnosti, na primer pri uporabnikih:
+Microsoft 365 Security & center za skladnost ponuja [privzete pravilnike opozoril](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) , ki sprožijo opozorila za organizacije z officeom 365 Enterprise ali Office 365 US government E1/G1, E3/G3 ali E5/G5 naročnino. Zato lahko skrbniki prejmejo opozorilno e-poštno obvestilo, ki ga je poslala Office365Alerts@microsoft.com z zadevo, kot je» opozorilo o nizki resnosti: *ime pravilnika o alarmu*«. Obvestila o opozorilih so poslana, ko so opozorila sprožena za pogoste dejavnosti, na primer pri uporabnikih:
 
 - Ustvarite pravila nabiralnika, ki posredujejo e-pošto.
 - Dodelite dovoljenja njihovemu nabiralniku.

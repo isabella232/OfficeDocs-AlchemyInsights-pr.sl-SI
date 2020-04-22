@@ -10,16 +10,16 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: cb8123583b68e945ef878fdbaf211fd1d8205bb3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 977bd5887ef58b328463a9befcd6b47ac55f5a85
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050505"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43687274"
 ---
 # <a name="access-services-retirement"></a>Upokojitev za dostop do storitev
 
-Kot smo sprva napovedala v MC97576, marec 2017, in še naprej komunicirati v zadnjem letu Access Services so upokojeni iz urada 365. Naslednja faza v tem procesu bo odstranitev Accessove spletne zbirke podatkov, ki uporabljajo SharePointove sezname kot osnovno shrambo podatkov.
+Kot smo sprva napovedala v MC97576, marec 2017, in še naprej komunicirati v zadnjem letu Access Services so upokojeni. Naslednja faza v tem procesu bo odstranitev Accessove spletne zbirke podatkov, ki uporabljajo SharePointove sezname kot osnovno shrambo podatkov.
 
 **Kako to vpliva name?**
 

@@ -1,9 +1,9 @@
 ---
-title: Zavrnjene kreditne kartice
+title: Zavrnjena kreditna kartica
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665226"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705101"
 ---
-# <a name="declined-credit-card"></a>Zavrnjene kreditne kartice
+# <a name="declined-credit-card"></a>Zavrnjena kreditna kartica
 
-Če boste plačali s kreditno kartico, in vaše kreditne kartice zmanjšala, boste prejeli email najemnin veš, da smo bili nezmožen v proces plačilo. Še enkrat preverite, da [podatke o kreditni kartici](https://go.microsoft.com/fwlink/p/?linkid=842054) - številka kartice, datum poteka, ime na kreditne kartice, in naslov, mesto, država in ZIP kodo - točno tako, kot to počnejo na kreditno kartico in izpisku kreditne kartice. Lahko posodobite svoje podatke o kreditni kartici in takoj predložijo plačilo z možnostjo **poravnavo ravnotežje** na strani [izdelkov & storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+Če plačate s kreditno kartico in je vaša kreditna kartica zavrnjena, prejmete e-poštno sporočilo, v katerem boste vedeli, da plačila nismo mogli obdelati. Dvakrat preverite, ali so [podatki o kreditni kartici](https://go.microsoft.com/fwlink/p/?linkid=842054) , številka kartice, datum poteka, ime na kreditni kartici in naslov, vključno z mestom, stanjem in poštno številko, prikazani točno tako, kot to počnejo na kreditni kartici in vaši izjavi o kreditni kartici. Podatke o kreditni kartici lahko posodobite in takoj pošljete plačilo z možnostjo **Poravnaj saldo** na strani [izdelki & storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
 
-Če želite izvedeti več, glejte "Kaj pa, če moja kreditna kartica je potekla in je moje plačilo zapadle?" v [plačilo za vaš Office 365 za podjetja naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+Če želite izvedeti več, glejte» Kaj če je moja kreditna kartica potekla in je moje plačilo zapadle? « v [Pay za vaš Microsoft 365 za poslovne naročnine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
   
-Če boste še naprej "zavrnjeno" sporočilo, se obrnite na banko. Je možno, da vaš kreditne kartice ni aktiven, na primer, če ste nedavno prejeli kreditne kartice po pošti z datumom uporabnosti posodobljene, lahko še vedno morate aktivirati. Banka lahko tudi vi poveste če vaše kreditne kartice ni odobren za online, mednarodne ali ponavljajoče se transakcije.
+Če boste še naprej videli sporočilo» zavrnjeno «, se obrnite na banko. Možno je, da vaša kreditna kartica ni aktivna-na primer, če ste pred kratkim prejeli kreditno kartico v pošti s posodobljenega datuma poteka, ga boste morda še vedno morali aktivirati. Banka vam lahko tudi pove, ali vaša kreditna kartica ni odobrena za spletne, mednarodne ali ponavljajoče se transakcije.
   
-Za dodatne informacije si oglejte [Odpravljanje težav kreditnih kartic in bančnih računov](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Za dodatne informacije glejte [Odpravljanje težav s kreditnimi karticami in bančnimi računi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

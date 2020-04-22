@@ -1,9 +1,9 @@
 ---
-title: Uvajanje ekipe, kot samostojno ali z novo ali obstoječo pisarniške opreme
+title: Uvajanje ekip kot samostojnih ali z novimi ali obstoječimi Officeovimi namestitvami
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
-ms.date: 08/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: 3318e1b17cc99e927e1011f7ca9eca8dec616d59
-ms.sourcegitcommit: 4600dd4fb577bf5f5482a24616c2d9a6b81e8052
+ms.openlocfilehash: 4b843407f05db207f3b676c03c7088d3d0ba062e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054246"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704649"
 ---
-# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Uvajanje ekipe, kot samostojno ali z novo ali obstoječo pisarniške opreme
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Uvajanje ekip kot samostojnih ali z novimi ali obstoječimi Officeovimi namestitvami
 
-Microsoft Teams je zdaj vključen kot del ***nove naprave*** Office 365 ProPlus, Office 365 podjetja in urad za Mac. Če želite več informacij, glejte [Kdaj bo Microsoft Teams začetek vključeni z nove obrate urada?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams je zdaj vključen kot del ***novih naprav*** Microsoft 365 apps za podjetja, Microsoft 365 Apps for Business in Office for Mac. Če želite več informacij, glejte [Kdaj bo Microsoft Teams začel biti vključen v nove namestitve Officea?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Poleg tega, začenši z različico 1906 v mesečno kanal, bodo ekipe ***dodati obstoječe naprave*** Office 365 ProPlus (in Office 365 Business) na načrt tekmovanje v teku okno Če posodabljate obstoječo namestitev na najnovejšo različico. Če želite več informacij, glejte [Kaj pa obstoječe naprave Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
-
-> [!NOTE]
-> Če ne želite čakati na to širitev urnik, lahko uvedete ekipe kot standalone zakaj vaš uporabnik z [sledeč od this navodila](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) ali imate lahko uporabniki namestiti ekipe za sebe iz [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).
-
-Če vaša organizacija ni pripravljena za uvajanje ekipe, imamo korake, lahko za ***izključitev ekip*** iz [novih](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) ali [obstoječih](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) obratov urada. Če želite ekipe nameščen, vendar ne želite ekipe za samodejni zagon za uporabnika, ko je nameščen, si oglejte [Microsoft ekipe prepreči zagon samodejno po namestitvi](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
-
-V ***uninstall ekip*** iz naprave teče Windows, glejte [Uninstall mikroskop ekipe](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Čiščenje Microsoft Teams iz več ciljne naprave ali uporabnikom, glejte [Microsoft ekipe uvajanje čiščenje](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
-
-Če uporabljate skupno računalniki, oddaljenega namizja storitve (RDS), ali stvaren pult infrastruktura (VDI), glej [računalnik v skupni rabi in VDI okoljih z Microsoft ekipe](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
-
-Če uporabljate Office pre Mac, glejte [Microsoft ekipe naprave na Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+Poleg tega, začenši z različico 1906 v mesečnem kanalu, bodo ekipe ***dodane obstoječim napravam*** Microsoft 365 apps za podjetja (in Microsoft 365 Apps for Business) v napravah z operacijskim sistemom Windows, ko posodobite obstoječo namestitev na najnovejšo različico. Če želite več informacij, preberite [kaj o obstoječih namestitvah Officea?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 > [!NOTE]
-> Po namestitvi ekipe, je [samodejno posodobljen](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) približno vsaka dva tedna z novimi funkcijami in posodobitve kakovosti. 
+> Če ne želite čakati na ta urnik uvajanja, lahko skupine nastavite kot samostojne za uporabnike tako, da [upoštevate ta navodila](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) ali pa lahko svoje uporabnike namestite v skupine [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).
+
+Če organizacija ni pripravljena za uvajanje ekip, imamo korake, ki jih lahko vzamete za ***izključitev ekip*** iz [novih](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) ali [obstoječih](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) namestitvah Officea. Če želite, da se ekipe namestijo, vendar ne želite, da se ekipe samodejno zažene za uporabnika po namestitvi, glejte [Preprečevanje samodejnega zagona programa Microsoft Teams po namestitvi](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+
+Če želite ***odstraniti ekipe*** iz naprave, v kateri se izvaja sistem Windows, glejte [odstranjevanje Microsoftovih ekip](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). Če želite počistiti Microsoft Teams iz več ciljnih naprav ali uporabnikov, glejte [čiščenje programa Microsoft Teams](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+
+Če uporabljate računalnike v skupni rabi, storitve oddaljenega namizja (RDS) ali infrastrukturo navideznega namizja (VDI), si oglejte [okolja v skupni rabi in VDI z Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+
+Če uporabljate Office for Mac, glejte [naprave Microsoft Teams v računalniku Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+
+> [!NOTE]
+> Ko je program Teams nameščen, se [samodejno posodablja](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) približno vsaka dva tedna z novimi funkcijami in posodobitvami kakovosti. 
