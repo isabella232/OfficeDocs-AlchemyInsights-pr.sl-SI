@@ -1,9 +1,9 @@
 ---
-title: Zaposlenih, pri čemer
+title: Odhod zaposlenih
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 54b7dc2cceb75b71ad70bcc4e681cff2e68f61be
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527847"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703731"
 ---
-# <a name="block-access-to-a-former-employee"></a><span data-ttu-id="0075c-102">Tnalo postranski v nekdanji zaposleni</span><span class="sxs-lookup"><span data-stu-id="0075c-102">Block access to a former employee</span></span>
+# <a name="block-access-to-a-former-employee"></a><span data-ttu-id="9cdcf-102">Blokiranje dostopa do nekdanjega zaposlenega</span><span class="sxs-lookup"><span data-stu-id="9cdcf-102">Block access to a former employee</span></span>
 
-<span data-ttu-id="0075c-103">Imajo zaposleni zapustijo in blokiranje dostopa do podatkov Office 365 in e-pošte?</span><span class="sxs-lookup"><span data-stu-id="0075c-103">Have an employee leaving and need to block access to Office 365 data and email?</span></span> <span data-ttu-id="0075c-104">Delati sledeč.</span><span class="sxs-lookup"><span data-stu-id="0075c-104">Do the following.</span></span>
+<span data-ttu-id="9cdcf-103">Ali delavec zapušča in je treba blokirati dostop do podatkov in e-pošte?</span><span class="sxs-lookup"><span data-stu-id="9cdcf-103">Have an employee leaving and need to block access to data and email?</span></span> <span data-ttu-id="9cdcf-104">Naredite naslednje.</span><span class="sxs-lookup"><span data-stu-id="9cdcf-104">Do the following.</span></span>
   
-1. <span data-ttu-id="0075c-105">V skrbniškem središču, iti k **uporabnik** \> [Aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) strani.</span><span class="sxs-lookup"><span data-stu-id="0075c-105">In the admin center, go to the **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
+1. <span data-ttu-id="9cdcf-105">V skrbniškem središču pojdite na stran **Uporabniki** \> [aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) .</span><span class="sxs-lookup"><span data-stu-id="9cdcf-105">In the admin center, go to the **Users** \> [Active Users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
 
-2. <span data-ttu-id="0075c-106">Izberite ime uporabnika, ki ga želite blokirati.</span><span class="sxs-lookup"><span data-stu-id="0075c-106">Select the name of the user you want to block.</span></span>
+2. <span data-ttu-id="9cdcf-106">Izberite ime uporabnika, ki ga želite blokirati.</span><span class="sxs-lookup"><span data-stu-id="9cdcf-106">Select the name of the user you want to block.</span></span>
 
-3. <span data-ttu-id="0075c-107">Pod ime uporabnika, izberite **Blokiraj tega uporabnika**.</span><span class="sxs-lookup"><span data-stu-id="0075c-107">Under the user's name, select **Block this user**.</span></span>
+3. <span data-ttu-id="9cdcf-107">Pod uporabnikovo ime izberite **Blokiraj tega uporabnika**.</span><span class="sxs-lookup"><span data-stu-id="9cdcf-107">Under the user's name, select **Block this user**.</span></span>
 
-4. <span data-ttu-id="0075c-108">Izberite **Blokiraj uporabnika iz podpis** \> **shraniti spremembe**.</span><span class="sxs-lookup"><span data-stu-id="0075c-108">Choose **Block the user from signing in** \> **Save changes**.</span></span>
+4. <span data-ttu-id="9cdcf-108">Izberite **Blokiraj uporabnika iz vpisa v** \> **shranjevanje sprememb**.</span><span class="sxs-lookup"><span data-stu-id="9cdcf-108">Choose **Block the user from signing in** \> **Save changes**.</span></span>
 
-<span data-ttu-id="0075c-109">**Opomba**: izpis za nekatere aplikacije lahko takoj.</span><span class="sxs-lookup"><span data-stu-id="0075c-109">**Note**: Sign-out for some apps might not be immediate.</span></span> <span data-ttu-id="0075c-110">Nadaljevanje z več ukrepi v tem članku: [odstranite nekdanjega zaposlenega iz Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span><span class="sxs-lookup"><span data-stu-id="0075c-110">Follow up with more actions in this article: [Remove a former employee from Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span></span>
+<span data-ttu-id="9cdcf-109">**Opomba**: odjava za nekatere aplikacije morda ni takojšnja.</span><span class="sxs-lookup"><span data-stu-id="9cdcf-109">**Note**: Sign-out for some apps might not be immediate.</span></span> <span data-ttu-id="9cdcf-110">Nadaljnje ukrepanje v tem članku: [odstranite nekdanjega zaposlenega](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span><span class="sxs-lookup"><span data-stu-id="9cdcf-110">Follow up with more actions in this article: [Remove a former employee](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)</span></span>

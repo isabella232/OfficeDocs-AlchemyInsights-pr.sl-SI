@@ -1,9 +1,9 @@
 ---
-title: Izvozi informacije o računu uporabnika
+title: Izvoz podatkov o uporabniškem računu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 7addbbe8aa0eea80d063601c8e2b0be73e2aded2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2b86887b5b4dc52c045c86ef2f6598a8e57df0a3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36526227"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702934"
 ---
-# <a name="export-user-account-information"></a><span data-ttu-id="806e2-102">Izvozi informacije o računu uporabnika</span><span class="sxs-lookup"><span data-stu-id="806e2-102">Export user account information</span></span>
+# <a name="export-user-account-information"></a><span data-ttu-id="6e993-102">Izvoz podatkov o uporabniškem računu</span><span class="sxs-lookup"><span data-stu-id="6e993-102">Export user account information</span></span>
 
-<span data-ttu-id="806e2-103">Uporabnik račun podatke izvozite v Microsoft 365 admin center, vključno z informacijami o licence, geslo politika, blokirane račune, AAD zanima stanje sinhronizacije, in še več, pojdite na **Uporabniki** > [aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) strani, in nato izberite **izvoz Uporabnik**.</span><span class="sxs-lookup"><span data-stu-id="806e2-103">To export user account information in the Microsoft 365 admin center, including information on licenses, password policy, blocked accounts, AAD Sync status, and more, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, and then select **Export Users**.</span></span>
+<span data-ttu-id="6e993-103">Če želite izvoziti podatke o uporabniškem računu v skrbniškem središču Microsoft 365, vključno z informacijami o dovoljenjih, pravilniku o geslih, blokiranih računih, stanju AAD Sync in drugih, pojdite na stran **Uporabniki** > [aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) in izberite **Izvozi uporabnike**.</span><span class="sxs-lookup"><span data-stu-id="6e993-103">To export user account information in the Microsoft 365 admin center, including information on licenses, password policy, blocked accounts, AAD Sync status, and more, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, and then select **Export Users**.</span></span>
