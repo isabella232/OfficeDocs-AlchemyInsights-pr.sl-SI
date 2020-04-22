@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: 0d0d0f726cebfb6e1c78d9c7b89c220758628996
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a8c5dd6e75c35be185cea1bf3ffb733b5f5b61d2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049137"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761465"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive: manjkajoče datoteke ali mape
 
@@ -29,7 +29,7 @@ ms.locfileid: "40049137"
 
 **Če želite preveriti zgodovino datoteke, uporabite beleženje dnevnika revizij ali podokno dejavnosti datoteke**.
 
-Preverite [revizijska poročila](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fen-us%252farticle%252fsearch-the-audit-log-in-the-office-365-protection-center-0d4d0f35-390b-4518-800e-0c7ec95e946c) z navigacijo [tukaj](https://sip.protection.office.com/).
+Preverite [revizijska poročila](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) z navigacijo [tukaj](https://sip.protection.office.com/).
 
 
 Če želite preveriti zgodovino datoteke, uporabite [podokno dejavnosti datoteke](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) .

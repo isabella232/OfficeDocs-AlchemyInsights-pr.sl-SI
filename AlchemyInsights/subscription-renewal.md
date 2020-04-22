@@ -1,9 +1,9 @@
 ---
-title: Obnovitev naročnine
+title: Podaljšanje naročnine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: 74d558db780958ea5d5fa56382e852b8684e550a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0ac7d1077319ab8b9aeef281b880a766b3cd98f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666028"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741843"
 ---
-# <a name="subscription-recurring-billing"></a>Ponavljajoče se zaračunavanje naročnine
+# <a name="subscription-recurring-billing"></a>Naročnina ponavljajoče se obračunavanje
 
-Če želite vedeti, kdaj vaš mesečno ali letno naročnino Office 365 bodo zaračunani (če je vklopljeno **ponavljanje zaračunavanje** ) ali izdihniti (če je **ponavljanje zaračunavanje** izklopljen):
+Če želite vedeti, kdaj bo zaračunana mesečna ali Letna naročnina (če je vklopljeno **ponavljajoče se obračunavanje** ) ali poteče (če je ponavljajoče se **obračunavanje** izklopljeno):
   
-1. V središču admin, pojdite na **zaračunavanje** \> [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) strani.
+1. V skrbniškem središču odprite stran **Obračunavanje** \> [Izdelki in storitve](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. Naročnino, ki želite izvedeti več o tem, pod **obračun**, glejte **Renews na** ali **Expiring na** datum.
+2. Za naročnino, ki jo želite izvedeti več o, pod **obračunavanje**, si oglejte **renews** dne ali **poteče** datum.
 
-4. Spremeniti, izberite **Uredi** in nato v podoknu nastavitve **ponavljajoči zaračunavanje** , izberite **Možnost izklopi** vrteti to ne sveže. Če ponavljajoče se zaračunavanje že izklopljen, izberite **mesečno** ali **ko** ga vklopite.
+4. Če želite narediti spremembo, izberite **Uredi** in nato v podoknu z nastavitvami **ponavljajočega se obračunavanja** izberite **Izklopi** , da ga izklopite. Če je ponavljajoče se obračunavanje že izklopljeno, izberite **mesečno** ali **enkrat** , da ga vklopite.
 
-Če želite izvedeti več, glejte [Vklop ponavljajoče se zaračunavanje off ali na](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).
+Če želite več informacij, preberite [Vklop ali izklop ponavljajočega se obračunavanja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription).

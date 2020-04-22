@@ -3,7 +3,7 @@ title: Oznake občutljivosti, ki se ne pojavljajo
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 67719380aea0481f96c03fa591542e8e5a6e6993
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 72dc88a55b55954f34c95fa5b5038f472261c5bb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048668"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758507"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Oznake občutljivosti, ki se ne pojavljajo
 
-Oznake občutljivosti vam omogočajo razvrščanje in pomoč pri zaščiti občutljive vsebine. Ustvarjene so lahko v središču za skladnost z Microsoft 365, Microsoft 365 Security Center ali Office 365 Security & center za skladnost v razdelku razvrstitev > oznake občutljivosti. Če želite izvedeti več o tej funkciji, glejte [pregled oznak občutljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
+Oznake občutljivosti vam omogočajo razvrščanje in pomoč pri zaščiti občutljive vsebine. Ustvarjene so lahko v središču za skladnost z Microsoft 365, Microsoft 365 Security Center ali Microsoft 365 Security & center za skladnost pod razvrstitev > oznake občutljivosti. Če želite izvedeti več o tej funkciji, glejte [pregled oznak občutljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels).
 
 Če ste konfigurirali oznake občutljivosti, vendar se ne prikazujejo v Officeovih aplikacijah, preverite naslednje:
 
 - Potrdite, da je bila oznaka občutljivosti [objavljena](https://docs.microsoft.com/Office365/SecurityCompliance/sensitivity-labels#what-label-policies-can-do) uporabnikom in skupinam, ki jih želite.
 
-- Potrdite, da uporabnik uporablja aplikacijo, ki podpira oznake občutljivosti-glejte [oznake občutljivosti v dokumentu](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?ad=US&ui=en-US&rs=en-US#bkmk_whereavailable).
+- Potrdite, da uporabnik uporablja aplikacijo, ki podpira oznake občutljivosti-glejte [oznake občutljivosti v dokumentu](https://support.office.com/article/apply-sensitivity-labels-to-your-documents-and-email-within-office-2f96e7cd-d5a4-403b-8bd7-4cc636bae0f9?#bkmk_whereavailable).
 
 - Če želite [preseliti nalepke za zaščito podatkov Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels), se zavedajte pomislekov, naštetih [tukaj](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#considerations-for-unified-labels).
 

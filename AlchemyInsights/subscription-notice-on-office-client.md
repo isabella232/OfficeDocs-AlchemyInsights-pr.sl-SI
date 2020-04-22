@@ -1,9 +1,9 @@
 ---
-title: Naročnina obvestilo o Officeovega odjemalca
+title: Obvestilo o naročnini na Officeovem odjemalcu
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 03bd18b0ca7af8f3102041c4f6fd604bb29737f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 661ac7b7c7a6556ab22d08e9fc0e8d6e25d7133c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559785"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741879"
 ---
-# <a name="subscription-notice-in-your-office-client"></a>Naročnina obvestilo v odjemalca Office?
+# <a name="subscription-notice-in-your-office-client"></a>Obvestilo o naročnini v vašem Officeovem odjemalcu?
 
-Izgleda, da ste videli obvestilo v odjemalcu urad, ki je povezan s statusom naročnine Office 365. Lahko najdete informacije o tem, kako odpravite težavo v tem članku: [prikaže obvestilo naročnino, ko odprem aplikacija Office 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+Videti je, da v Officeovem odjemalcu vidite obvestilo, povezano s stanjem naročnine. Informacije o tem, kako odpravite težavo, najdete v tem članku: [obvestilo o naročnini se prikaže, ko odprem aplikacijo Microsoft 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-Če vaša naročnina na Office 365 je posodobljen, lahko so hit začasna težava, ki je povzročil vaš urad activation zmanjkati. Obstajajo preprostih korakih lahko sprejme, da bi se izognili teh sporočil, kot so preverjanje vaš računalo čas tekmovanje v teku urad kot skrbnik in vpisu v activate. Najdete podrobne korake za odpravljanje teh vprašanj v tem članku: [Nelicencirani izdelek in activation zmota v pisarni](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
+Če je vaša naročnina posodobljena, ste morda zadeli začasno težavo, ki je povzročila neuspeh vašega Officeovega aktiviranja. Obstajajo preprosti koraki, ki jih lahko vzamete, da se izognete tem sporočilom, kot je preverjanje časa računalnika, vodenje Officea kot skrbnik in vpis v aktiviranje. Če želite odpraviti ta vprašanja v tem članku, lahko najdete podrobne korake: [Nelicencirani izdelek in napake pri aktiviranju](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
   
-Če ti ne dela za vas, se obrnite na nas s spodnje povezave in bomo z veseljem pomagali.
-  
+Če ti ne delajo za vas, nam pišite na spodnje povezave in mi bo z veseljem pomagal.

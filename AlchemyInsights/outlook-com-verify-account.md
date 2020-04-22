@@ -1,9 +1,9 @@
 ---
-title: Kako preveriti vaš račun Outlook.com
+title: Kako preveriti svoj Outlook.com račun
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: 5456a07a919b6344206deb2847aaf3843182b63b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36511533"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743433"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>Kako preveriti vaš račun Outlook.com
+# <a name="how-to-verify-your-outlookcom-account"></a>Kako preveriti svoj Outlook.com račun
 
-Preverjanje v dveh korakih vas ščiti tako da bo bolj težko za nekoga drugega, da se prijavite svoj račun Microsoft. Uporablja dva različnih oblik identitete: geslo in kontaktna metoda (znan tudi kot varnost informacij).
+Preverjanje v dveh korakih vas ščiti tako, da se nekomu drugemu izognete, da se prijavi v vaš Microsoftov račun. Uporablja dve različni obliki identitete: geslo in način stika (znan tudi kot varnostni podatki).
   
-Če želite na ali izklopiti preverjanje v dveh korakih:
+Če želite vklopiti ali izklopiti preverjanje v dveh korakih:
   
-1. Pojdite na [strani varnost osnove](https://go.microsoft.com/fwlink/?linkid=842325) in prijavite z računom Microsoft.
-2. Izberite **več varnostne možnosti**.
-3. V razdelku **preverjanje v dveh korakih**, **nastavitev preverjanja v dveh korakih** in sledite navodilom.
+1. Pojdite na [stran osnove varnosti](https://go.microsoft.com/fwlink/?linkid=842325) in se vpišite z Microsoftovim računom.
+2. Izberite **več varnostnih možnosti**.
+3. V razdelku **preverjanje v dveh korakih**izberite **Nastavi preverjanje v dveh korakih** in sledite navodilom.
 
-Če vklopite preverjanje v dveh korakih, morate vedno dveh oblik identifikacije. Če ste izgubili svoje način stika, geslo sam ne boste dobili nazaj v svoj račun - in boste lahko traja 30 dni, da bi dostopili.
+Če vklopite preverjanje v dveh korakih, boste vedno potrebovali dve obliki identifikacije. Če izgubite način stika, geslo samo ne bo vrnilo v vaš račun-in lahko traja 30 dni, da ponovno pridobi dostop.
   
-Več o [preverjanje v dveh korakih](https://go.microsoft.com/fwlink/?linkid=872270).
+Preberite več o [preverjanju v dveh korakih](https://go.microsoft.com/fwlink/?linkid=872270).
   

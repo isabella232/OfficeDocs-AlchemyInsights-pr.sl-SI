@@ -3,7 +3,7 @@ title: Outlook.com MSA dokazila
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,24 +15,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 7a547841700f739f59ac17969e444f781093fb2e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 79fcfdd0bd7336167b06aac5180411fede3e3607
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535983"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43745917"
 ---
-# <a name="security-info-and-security-codes"></a>Informacij o varnosti in varnostne kode
+# <a name="security-info-and-security-codes"></a>Varnostne informacije in varnostne kode
 
-Če želite dodati varnostne informacije račun Microsoft:
+Če želite v Microsoftov račun dodati varnostne podatke:
 
-1. [Osnove varnosti](https://account.microsoft.com/security) se vpisati z računom Microsoft.
-1. Izberite **varnost kontaktne informacije**.
-1. Izberite **Dodaj varnosti informacij** in sledite navodilom, da vnesete telefonsko številko ali e-naslov.
-1. Boste prejeli varnostno kodo na to telefonsko številko ali e-naslov. Vnesite varnostno kodo prejmete v oknu **Dodaj varnosti informacij** in izberite **naslednjo**.
+1. Z Microsoftovim računom se vpišite v [osnove varnosti](https://account.microsoft.com/security) .
+1. Izberite **varnostne kontaktne podatke**.
+1. Izberite **Dodaj varnostne informacije** in sledite navodilom za vnos telefonske številke ali e-poštnega naslova.
+1. Prejeli boste varnostno kodo na tej telefonski številki ali e-poštnem naslovu. Vnesite varnostno kodo, ki ste jo prejeli v oknu **Dodajanje varnostnih informacij** , in izberite **naprej**.
 
-Če želite odstraniti telefonsko ¹tevilko ali e-poštni naslov, izberite **Odstrani** poleg nje.
+Če želite odstraniti telefonsko številko ali e-poštni naslov, izberite **Odstrani** poleg nje.
 
-Če želite spremeniti katero telefonsko številko ali e-poštni naslov prejme varnostna opozorila, izberite **Spremeni opozorilo možnosti**.
+Če želite spremeniti telefonsko številko ali e-poštni naslov, ki prejme varnostna opozorila, izberite **Spremeni možnosti opozorila**.
 
-Če želite izvedeti več, preberite [Microsoft račun varnostne informacije in preverjanje kode](https://support.microsoft.com/help/12428/).
+Če želite izvedeti več, preberite [varnostne podatke za Microsoftov račun in kode za preverjanje](https://support.microsoft.com/help/12428/).

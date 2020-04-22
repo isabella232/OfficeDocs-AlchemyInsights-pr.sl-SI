@@ -2,7 +2,7 @@
 title: Izsiljevalska napad v SharePointu ali storitvi OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a95973cbb1a3b61c03c05bceeb9d85c17c6db5bb
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a14b6b935c5cc123e16812ef217588903abae831
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054285"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742821"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Izsiljevalska napad v SharePointu ali storitvi OneDrive
 
@@ -32,8 +32,8 @@ Takoj ustavite/zaustavite OneDrive Sync (če obstaja) ali izključite raziskoval
 
 Če želite več informacij o obnovitvi, glejte:
 
-- [Obnovitev knjižnice v storitvi OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [Obnavljanje knjižnice dokumentov](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
+- [Obnovite knjižnico storitve OneDrive](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [Obnovite knjižnico storitve Document](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
 Če želite več informacij o napredni zaščiti pred grožnjami (ATP), glejte:
 - [ATP za SharePoint, OneDrive in ekipe](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)

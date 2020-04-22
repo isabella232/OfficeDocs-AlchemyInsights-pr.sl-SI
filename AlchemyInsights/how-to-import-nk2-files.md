@@ -1,9 +1,9 @@
 ---
-title: kako-to-uvoz-nk2-datotek
+title: kako-v-uvoz-nk2-files
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,28 +13,28 @@ ms.custom:
 - "1800027"
 - "1267"
 ms.assetid: ''
-ms.openlocfilehash: 1d1b02527c3b614375cf1f84a7a511d9318689b1
-ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
+ms.openlocfilehash: 83d30b2d62908db791f21ec5ed7fd5537e7a0944
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34770262"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759348"
 ---
-# <a name="how-to-import-nk2-files"></a>Kako uvoziti datoteke .nk2 
+# <a name="how-to-import-nk2-files"></a>Kako uvoziti. nk2 datoteke 
 
-Ko zaženete Microsoft Outlook 2013, Outlook 2016, Outlook 2019 ali Outlook za Office 365 za prvič, je vaš predpomnilnik (shranjeni v datoteki .nk2 *profilename*) uvozi skrito sporočilo v shrambi privzeto sporočilo.
+Ko zaženete Microsoft Outlook 2013, Outlook 2016, Outlook 2019 ali Outlook za Microsoft 365 prvič, vaš vzdevek predpomnilnika (shranjena v datoteki *PROFILENAME*. nk2) se uvozi v skrito sporočilo v privzeti trgovini s sporočili.
 
-.Nk2 datoteke uvoziti v Outlook 2013, Outlook 2016, Outlook 2019 ali Outlook za Office 365, preverite, ali .nk2 datoteke v tej mapi: %appdata%\Microsoft\Outlook
+Če želite uvoziti datoteke. nk2 v Outlook 2013, Outlook 2016, Outlook 2019 ali Outlook za Microsoft 365, se prepričajte, da je datoteka. nk2 v tej mapi:%appdata%\Microsoft\Outlook
 
-**Opomba**: .nk2 datoteka mora imeti isto ime kot trenutni profil Outlook 2013 ali Outlook 2016. Privzeto ime profila, ki je »Outlook. « Preverite ime profila, sledite tem korakom: 
+**Opomba**: datoteka. nk2 mora imeti enako ime kot trenutni profil Outlook 2013 ali Outlook 2016. Privzeto je ime profila» Outlook «. Če želite preveriti ime profila, sledite tem korakom: 
 1. Kliknite **Start**in nato **Nadzorna plošča**.
-2. Dvokliknite **pošta**.
-3. V pogovorno okno Nastavitev pošte, izberite **Pokaži profile**.
-4. Izberite **Začni** > **teči**.
-5. V polje **Odpri** vnesite *outlook.exe /importnk2*in izberite **OK**. 
+2. Dvokliknite možnost **pošta**.
+3. V pogovornem oknu Nastavitev pošte izberite **Pokaži profile**.
+4. Izberite **Start** > **Run**.
+5. V polje **Odpri** vnesite *Outlook. exe/importnk2*in nato izberite **v redu**. 
 
-Ko uvozite datoteko .nk2, vsebino datoteke so združeni v obstoječe predpomnilnik, ki se hranijo v vašem nabiralniku.
+Ko uvozite datoteko. nk2, je vsebina datoteke združena v obstoječi predpomnilnik vzdevka, shranjen v nabiralniku.
 
-**Opomba**: na .nk2 preimenuje s pripono .old naslednjič, ko zaženete Outlook 2013, Outlook 2016, Outlook 2019 ali Outlook za Office 365. Če želite znova uvoziti datoteko .nk2, najprej odstranite .old datotečno pripono.
+**Opomba**: datoteka. nk2 se preimenuje z datotečno pripono. old, ko naslednjič zaženete Outlook 2013, Outlook 2016, Outlook 2019 ali Outlook za Microsoft 365. Če želite ponovno uvoziti datoteko. nk2, najprej odstranite pripono. old file.
 
-Če želite več informacij, glejte [uvoz ali kopiranje avto-celoten seznam v drug računalnik](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).
+Če želite več informacij, glejte [Uvažanje ali kopiranje seznama za samodejno dokončanje v drug računalnik](https://support.microsoft.com/help/2806550/how-to-import-nk2-files-into-outlook%).

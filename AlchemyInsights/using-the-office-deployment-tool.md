@@ -1,8 +1,8 @@
 ---
-title: Z orodjem za uvajanje urad
+title: Uporaba Officeovega orodja za uvajanje
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,35 +11,35 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: 874bb7883bca4f062e85963a6828a771cd2dad9b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531591"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726264"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Z orodjem za uvajanje Officea (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Uporaba orodja za uvajanje Officea (ODT)
 
-Uporabite orodje Office uvajanja (ODT) za uvedbo Office 365 različice Officea. Orodjem za uvajanje Officea (setup.exe) izvaja iz ukazne vrstice in uses a konfiguracijske datoteke XML odločiti kaj nastavitve uporabiti pri uvajanju urad.
+Officeovo orodje za razmestitev (ODT) uporabite za uvajanje Officeovih različic 365. Officeovo orodje za razmestitev (setup. exe) se zažene iz ukazne vrstice in uporablja konfiguracijsko datoteko XML, da določi, katere nastavitve naj se uporabijo pri uvajanju Officea.
   
-1. Prenesite najnovejšo različico Office uvajanje orodja iz [Microsoftovega centra za prenose](http://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Prenesite najnovejšo različico orodja za uvajanje Officea iz [Microsoftovega centra za prenose](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
-2. Uporabite [Office Customization Tool (ČDO)](https://config.office.com) izberite nastavitve uvajanja in ustvarjanje konfiguracijske datoteke XML. Izvozi konfiguracijsko datoteko in jo postavite lokalno na isti mapi, setup.exe, kjer prebiva.
+2. Z [orodjem za prilagajanje Office (Oct)](https://config.office.com) izberite nastavitve uvajanja in ustvarite KONFIGURACIJSKO datoteko XML. Izvozite konfiguracijsko datoteko in jo postavite lokalno v isto mapo, kjer se nahaja setup. exe.
 
-    **Opomba:** Urad umestitev, pogosto pride do težav zaradi da narobe ali konfiguracijske datoteke malformatted. Izogibati se taka vprašanja, vam priporočamo, da uporabite Office Customization Tool ustvarite konfiguracijsko datoteko. Lahko tudi uvozite obstoječe konfiguracijske datoteke Office Customization Tool.
+    **Opomba:** Težave z namestitvijo Officea se pogosto pojavijo zaradi napačnih konfiguriranih ali nepravilno oblikovanih konfiguracijskih datotek. Da bi se izognili takim težavam, priporočamo, da za ustvarjanje konfiguracijske datoteke uporabite orodje Office customization Tool. Obstoječe konfiguracijske datoteke lahko uvozite tudi v orodje za prilagajanje Officea.
 
-3. Iz visok zapoved uren, preklopite na mestu, kjer setup.exe in zagon orodja za uvajanje urad v travnato gričevje način in določite konfiguracijske datoteke, ki jo pravkar shranili. V tem primeru je zunanja podoba pila imenovan Configuration.xml:
+3. Iz povišanega ukaznega poziva preklopite na mesto, kjer se nahaja setup. exe, in zaženite orodje za uvajanje Officea v načinu prenosa in določite konfiguracijsko datoteko, ki ste jo pravkar shranili. V tem primeru je konfiguracijska datoteka imenovana konfiguracija. XML:
     
   ```
   setup.exe /download Configuration.xml  
   ```
 
-4. Zaženite orodje za uvajanje urad v oblikovati način in določite konfiguracijske datoteke.
+4. Zaženite orodje za uvajanje Officea v načinu konfiguriranja in določite konfiguracijsko datoteko.
     
   ```
   setup.exe /configure Configuration.xml
   ```
 
-    **Opomba:** Ta korak morate zagnati odjemalskega računalnika, na katerem želite namestiti Office in v računalniku morate imeti lokalne skrbniške pravice.
+    **Opomba:** Ta korak morate zagnati v odjemalskem računalniku, v katerem želite namestiti Office, in v tem računalniku morate imeti dovoljenja lokalnega skrbnika.
 
-Če želite izvedeti več o uporabi Officea uvajanje orodja za Office 365 ProPlus scenarijev uvajanja, si oglejte [pregled urad uvajanje orodja](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Za več podrobnosti o tem, kako uporabiti Office Customization Tool, si oglejte [pregled Office Customization Tool](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Če želite izvedeti več o uporabi Officeovega orodja za uvajanje za Microsoft 365 aplikacije za scenarije uvajanja za podjetja, glejte [pregled orodja za uvajanje Officea](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Če želite več podrobnosti o uporabi orodja za prilagajanje Office, glejte [pregled orodja za prilagajanje Officea](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

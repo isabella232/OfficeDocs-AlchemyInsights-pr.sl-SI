@@ -1,9 +1,9 @@
 ---
-title: Težaven najti a poskus?
+title: Poskušaš najti sojenje?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,24 +13,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 5cdea787d28a0649ba20a9196742e5103e502e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a5aabaa508e9765b38590f0e65cd5076183967ba
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533103"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732346"
 ---
-# <a name="trying-to-find-a-trial"></a>Težaven najti a poskus?
+# <a name="trying-to-find-a-trial"></a>Poskušaš najti sojenje?
 
-Če bi želeli poskusiti novo storitev, lahko najdete seznam naročnine na voljo za sojenje v skrbniškem središču Microsoft 365.
+Če želite poskusiti novo storitev, lahko najdete seznam naročnin, ki so na voljo za preskušanje v Microsoftovem skrbniškem središču za Microsoft 365.
   
-1. V središču admin, pojdite na **zaračunavanje** \> [nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433) strani.
+1. V skrbniškem središču pojdite na stran [nabavne storitve](https://go.microsoft.com/fwlink/p/?linkid=868433) za **obračunavanje** \> .
 
-2. Izberite naročnine, ki ustreza vašim potrebam, in nato **dobili prost poskus**.
+2. Izberite naročnino, ki ustreza vašim potrebam, nato pa izberite **pridobite brezplačno preskusno različico**.
 
     > [!NOTE]
-    > Vse naročnine na voljo kot poskus. Če ne vidite gumba **zaslužiti prost poskus** čas vi miš nad a abomna, ki pomeni sojenja ni na voljo.
+    > Vse naročnine niso na voljo kot preskušanje. Če ne vidite gumba» **pridobite brezplačni preskus** «, ko miško uporabljate prek naročnine, to pomeni, da preskušanje ni na voljo.
   
-3. Morda morali vnesti kreditno kartico ali drugo metodo plačila zagotoviti dodatno preverjanje kot varnostni ukrep. Vam ne bo treba plačati za to prost poskus. Bo podatke za plačilo na datoteko in ne uporabite za vsak nakup brez vašega dovoljenja.
+3. Morda boste morali vnesti kreditno kartico ali drug način plačila, da zagotovite dodatno preverjanje kot varnostni ukrep. Ne boste zaračunali za to brezplačno sojenje. Vaše podatke o plačilu bomo obdržali v datoteki in jih ne boste uporabljali za noben nakup brez vaše odobritve.
 
-4. Izberite **poskusite zdaj**.
+4. Izberite **preizkusite zdaj**.

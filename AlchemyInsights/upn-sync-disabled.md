@@ -1,9 +1,9 @@
 ---
-title: UPN sync invalidi
+title: UPN sinhronizacija onemogočena
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: f390d659b191fa4c44bd7c8acb32409cd3021489
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 33bc7e30d41ff70e2ce55d946202acf45dbcb0f2
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532347"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726120"
 ---
-# <a name="upn-sync-disabled"></a>UPN sync invalidi
+# <a name="upn-sync-disabled"></a>UPN sinhronizacija onemogočena
 
-Če ste začeli omedlevičen v sinje AD pred 30 marec 2016, zaženite naslednje Azure AD PowerShell cmdlet omogočiti UPN mehko tekmo v organizaciji le:
+Če ste začeli sinhronizacijo s storitvijo Azure AD pred 30. marca 2016, zaženite ta ukaz» cmdlet «Azure AD PowerShell, da omogočite samo UPN mehko ujemanje samo za vašo organizacijo:
   
- **Set-MsolDirSyncFeature-značilnost EnableSoftMatchOnUpn-omogoči $True**
+ **Set-MsolDirSyncFeature-funkcija EnableSoftMatchOnUpn-omogoči $True**
   
-UPN mehko tekmo je samodejno vklopljeno za organizacije, ki se je začel sinhronizacijo Azure oglas na ali po 30 marec 2016.
+UPN mehek vžigalica je automatically obrnjen naprej zakaj društvo to starter omedlevičen v Azure AD naprej ali čez marec 30, 2016.
   
-Če želite izvedeti več o omogočanju mehko tekmo na UPN in drugih omedlevičen zunanja oblika, si oglejte [Azure AD povezavo sinhronizacijsko storitev funkcije](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+Če želite izvedeti več o omogočanju mehkega ujemanja na UPN in drugih funkcijah sinhronizacije, si oglejte [funkcije storitev sinhronizacije storitve AZURE ad Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
   
 

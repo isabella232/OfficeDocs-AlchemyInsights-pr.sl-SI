@@ -12,29 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 19e4a7ffd7f64f744eeba2a7a34390309bfe9bb8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921866"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759132"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a>Kako narediti Office 365 nakup
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Kako narediti Microsoft 365 nakup
 
-Nakupi v Officeu 365 se lahko izvede v skrbniškem središču.
+Nakupi v Microsoft 365 se lahko izvede v skrbniškem središču.
   
-- Če želite kupiti naročnino na Office 365, obiščite stran **** \> [nabavne storitve](https://go.microsoft.com/fwlink/p/?linkid=868433) za obračunavanje.
+- Če želite kupiti načrt, pojdite na stran **Billing** \> [nabavne storitve](https://go.microsoft.com/fwlink/p/?linkid=868433) za obračunavanje.
 
 - Če želite kupiti dodatne licence, pojdite na stran izdelki za **obračunavanje** \> [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) . Izberite naročnino, za katero želite dodati licence, in nato izberite **Dodaj/odstrani licence**.
   
-Če želite izvedeti več, glejte [nakup licenc za Office 365 za poslovno naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+Če želite izvedeti več, glejte [nakup licenc za naročnino za Microsoft 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
 **Odpravljanje težav**
 
-Če naletite na težave pri nalaganju strani, poskusite odpreti spletno stran v drugem brskalniku ali pa poskusite odpreti stran zasebno okno brskalnika, na primer okno InPrivate v Microsoft Edge ali okno brez beleženja zgodovine v Google Chromu. 
+Če naletite na težave z nalaganjem strani, poskusite odpreti spletno stran v drugem brskalniku ali pa poskusite odpreti stran v zasebnem oknu brskalnika, na primer v oknu InPrivate v brskalniku Microsoft Edge ali v načinu brez beleženja zgodovine v brskalniku Google Chrome. 
 
 **Dodatni viri**
   
-- [Dodeljevanje licenc uporabnikom v Officeu 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Dodeljevanje licenc uporabnikom v Microsoft 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [Prekliči Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Prekliči Microsoft 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

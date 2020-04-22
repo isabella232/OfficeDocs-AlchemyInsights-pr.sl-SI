@@ -1,9 +1,9 @@
 ---
-title: Prepoznavanje ima nameniti nabiralnikov
+title: Prepoznavanje skladišč, danih v poštne nabiralnike
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 5d6f8f2dff42d89a91759c4504cab68b5d1c22f4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538817"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724792"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Prepoznavanje ima na nabiralnike
+# <a name="identify-holds-placed-on-mailboxes"></a>Prepoznavanje zadržanj, danih v nabiralnike
 
-Ali imate vsebino Office 365, ki se **ohranijo** a **ima** to ne morete prepoznati? Potreba **izvedeti,** kje imajo v **nabiralnik** ? Ima (*ohranitev funkcije*) lahko izvaja enega od naslednjih načinov v Office 365:
+Ali imate Microsoftovo 365 vsebino, ki jo **zadrži** **Hold** , ki je ne morete prepoznati? Potrebujete, če želite **izvedeti** , kje se nahaja v **nabiralniku** ? Zadržki (*funkcije hranjenja*) se lahko uporabljajo na enega od naslednjih načinov:
   
-- Čakanje
+- Čakanje zaradi spora
 
-- eDiscovery imajo
+- pridržite tipko eDiscovery
 
-- V mestu držite
+- Hold na kraju
 
-- Pravilnik o hranjenju Office 365 
+- Pravilnik o hranjenju za Microsoft 365 
 
-  - Pravilniki o hranjenju za določeno lokacijo
+  - Specifične politike zadrževanja lokacije
 
-  - Pravilniki o hranjenju za celotno organizacijo
+  - Pravilniki o hranjenju po vsej organizaciji
 
-- Office 365 oznake
+- Microsoftove oznake 365
 
-Ugotoviti, katere vrste imajo velja za nabiralnik uporabnika, glejte [Kako ugotoviti vrsto imajo postavljene na nabiralnikom Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Če želite ugotoviti, katero vrsto zadržanja se uporablja za nabiralnik uporabnika, glejte [Kako prepoznati vrsto zadržanja, ki je dano v nabiralnik Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).

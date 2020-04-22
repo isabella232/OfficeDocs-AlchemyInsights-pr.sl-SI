@@ -1,9 +1,9 @@
 ---
-title: Odpravljanje težav z vpisom Android naprave v Microsoft Intune
+title: Odpravljanje težav z včlanjanjem naprav Android v Microsoft InTune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 10/24/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,35 +12,35 @@ ms.assetid: d0269461-20a8-4c9e-83b2-8fcf608dc0a5
 ms.custom:
 - "787"
 - "6200002"
-ms.openlocfilehash: 1e1d50c31df588a3416d758d40fbd7bde3f73b21
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd6d278ebf6cca7fb6e4ac1049deae600b516707
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500087"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759636"
 ---
-# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Odpravljanje težav z vpisom Android naprave v Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune"></a>Odpravljanje težav z včlanjanjem naprav Android v Microsoft InTune
 
-Pregledati vire spodaj za zdaj rešiti težavo.
+Preglejte spodaj navedene vire, da odpravite težavo zdaj.
   
-Nekatere pogoste težave in odložnost lestev:
+Nekatera pogosta vprašanja in koraki reševanja:
   
- **Naprave niso šifrirani napake v podjetje Portal:** Nove različice Android, zlasti začenši s v7.0, zahtevajo zagonsko kodo, se prepričajte, da naprava je popolnoma šifrirano. So skupne rešitve omogočajo zagonski pin ali popolnoma šifriranje naprave. Pregled [tega dokumenta](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) za več informacij.
+ **Naprava ni šifrirana napaka v portalu podjetja:** Novejše različice Androida, zlasti začenši z v 7.0, zahtevajo geslo za zagon, da zagotovite, da je naprava popolnoma šifrirana. Pogoste rešitve omogočajo zagonsko kodo ali popolnoma šifriranje naprave. Če želite več informacij, preglejte [ta dokument](https://docs.microsoft.com/intune-user-help/your-device-appears-encrypted-but-cp-says-otherwise-android) .
   
- **Naprave ne preverite s storitvijo Intune ali prikazati kot "Nezdrava" v admin konzoli Intune:** Nekatere Samsung 4,4 in 5,5 naprave lahko preverja v storitev. Obstajajo 3 možne rešitve za to težavo:
+ **Naprave ne da se preveri v s storitvijo InTune ali izpis kot "nezdrava" v InTune admin konzolo:** Nekateri Samsung 4,4 in 5,5 naprave morda ne bodo preverili v storitvi. Obstaja 3 možne rešitve za to vprašanje:
   
-1. Ročno odprite app Intune podjetje Portal, ki bo samodejno sproži načrt omedlevičen.
+1. Ročno odprite program InTune Company portal, ki bo samodejno inicializiral sinhronizacijo naprave.
 
-2. Posodobitev naprave Android 6,0 ali višje.
+2. Posodobite napravo na Android 6,0 ali novejšo.
 
-3. Onesposobiti Samsung pameten šef od upravljanja Intune podjetje Portal. Pregled [tega dokumenta](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) za več podrobnosti o teh vprašanjih in resolucij.
+3. Onesposobiti hrust spreten šef s upraven InTune družba portal. Preglejte [ta dokument](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune#devices-fail-to-check-in-with-the-intune-service-and-display-as-unhealthy-in-the-intune-admin-console) za več podrobnosti o teh vprašanjih in resolucijah.
 
- **Uporabnik dati dovoljenje vrsta neveljavne** ali **uporabniško ime ni prepoznano napaka:** uporabnik potrebuje dodelijo licenco Intune ali EMS. Pregled teh dokumentov dodeliti licenco skozi: Office Admin Center ali Azure portal.
+ **Uporabniška licenčna vrsta neveljavna** ali **uporabniško ime ni prepoznana napaka:** uporabniku je treba dodeliti licenco InTune ali EMS. Preglejte te dokumente, če želite dodeliti licenco prek: Officeovega skrbniškega središča ali portala Azure.
   
-Dodatna sredstva za pomoč pri reševanju težave:
+Dodatni viri, ki vam pomagajo odpraviti težavo:
   
-1. Uporabite [Intune odpravljanje težav Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) diagnosticirati in odpraviti skupni vpis napak. Pregled [tega dokumenta](https://docs.microsoft.com/intune/help-desk-operators) za več podrobnosti.
+1. Uporabite [InTune odpravljanje težav portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) za diagnosticiranje in reševanje pogostih napak včlanitve. Za več podrobnosti preglejte [ta dokument](https://docs.microsoft.com/intune/help-desk-operators) .
 
-2. Pregled [tega dokumenta](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) za seznam pogostih napak, ki preprečujejo včlanitev in resolucije za vsako.
+2. Preglejte [ta dokument](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) za seznam pogostih napak, ki preprečujejo včlanitev in resolucije vsakemu.
 
-3. [Naučite se, kako vpisati Android naprave v Microsoft Intune](https://docs.microsoft.com/intune/android-enroll).
+3. [Naučite se včlaniti naprave Android v Microsoft InTune](https://docs.microsoft.com/intune/android-enroll).
