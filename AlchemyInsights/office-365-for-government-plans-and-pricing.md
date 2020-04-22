@@ -1,9 +1,9 @@
 ---
-title: Office 365 za vlada načrtuje in cene
+title: Urad 365 za vladne načrte in cene
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9efe8473b56f1483076f86fe19c2af52201155bc
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36522136"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713374"
 ---
-# <a name="office-365-government-plans"></a><span data-ttu-id="af614-102">Office 365 vlada načrtuje</span><span class="sxs-lookup"><span data-stu-id="af614-102">Office 365 Government plans</span></span>
+# <a name="office-365-government-plans"></a><span data-ttu-id="04f3d-102">Urad 365 vladni načrti</span><span class="sxs-lookup"><span data-stu-id="04f3d-102">Office 365 Government plans</span></span>
 
-<span data-ttu-id="af614-103">Office 365 ZDA vlada načrtuje so namenjene potrebam organizacije vlade ZDA.</span><span class="sxs-lookup"><span data-stu-id="af614-103">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="af614-104">Zagotavljajo vse funkcije in možnosti Office 365 storitev v Skupnosti segmentiranih vlada oblak, ki omogoča organizacijam, da izpolnjujejo ZDA skladnosti in varnostne standarde.</span><span class="sxs-lookup"><span data-stu-id="af614-104">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
+<span data-ttu-id="04f3d-103">Office 365 ameriški vladni načrti so zasnovani za edinstvene potrebe ameriških vladnih organizacij.</span><span class="sxs-lookup"><span data-stu-id="04f3d-103">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="04f3d-104">Zagotavljajo vse funkcije in zmogljivosti Office 365 storitev v segmentirane vlade oblak Skupnosti, ki omogoča organizacijam, da izpolnjujejo ZDA skladnosti in varnostnih standardov.</span><span class="sxs-lookup"><span data-stu-id="04f3d-104">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
   
-- [<span data-ttu-id="af614-105">Pregled vlada načrtuje</span><span class="sxs-lookup"><span data-stu-id="af614-105">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
+- [<span data-ttu-id="04f3d-105">Pregled vladnih načrtov</span><span class="sxs-lookup"><span data-stu-id="04f3d-105">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
 
-- [<span data-ttu-id="af614-106">Primerjaj vse Office 365 načrtov</span><span class="sxs-lookup"><span data-stu-id="af614-106">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [<span data-ttu-id="04f3d-106">Primerjajte vse naročnine za Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="04f3d-106">Compare all Microsoft 365 subscriptions</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
