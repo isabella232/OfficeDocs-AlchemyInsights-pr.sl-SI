@@ -3,7 +3,7 @@ title: Prilagajanje dovoljenj za SharePointov seznam ali knjižnico
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 10/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 738e17393af628d5b19aa7e047a736f78615ff57
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: 0959e0bd31a7e38da08120749a29cd41910eecb1
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43100343"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43731714"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a><span data-ttu-id="1ffc1-102">Vklop ali izklop zunanje skupne rabe za spletno mesto</span><span class="sxs-lookup"><span data-stu-id="1ffc1-102">Turn external sharing on or off for a site</span></span>
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a><span data-ttu-id="e7cf6-102">Vklop ali izklop zunanje skupne rabe za spletno mesto</span><span class="sxs-lookup"><span data-stu-id="e7cf6-102">Turn external sharing on or off for a site</span></span>
 
-<span data-ttu-id="1ffc1-103">Če želite spremeniti nastavitev zunanje delitve za spletno mesto (prej imenovana» zbirka mest «), morate biti globalni ali SharePointov skrbnik v Officeu 365.</span><span class="sxs-lookup"><span data-stu-id="1ffc1-103">You must be a global or SharePoint admin in Office 365 to change the external sharing setting for a site (previously called a "site collection").</span></span> <span data-ttu-id="1ffc1-104">Lastniki mest ne smejo spreminjati te nastavitve.</span><span class="sxs-lookup"><span data-stu-id="1ffc1-104">Site owners are not allowed to change this setting.</span></span> 
+<span data-ttu-id="e7cf6-103">Če želite spremeniti nastavitev zunanje delitve za spletno mesto (prej imenovana» zbirka mest «), morate biti globalni ali SharePointov skrbnik.</span><span class="sxs-lookup"><span data-stu-id="e7cf6-103">You must be a global or SharePoint admin to change the external sharing setting for a site (previously called a "site collection").</span></span> <span data-ttu-id="e7cf6-104">Lastniki mest ne smejo spreminjati te nastavitve.</span><span class="sxs-lookup"><span data-stu-id="e7cf6-104">Site owners are not allowed to change this setting.</span></span> 
 
-<span data-ttu-id="1ffc1-105">Če želite več informacij, glejte [Vklop ali izklop zunanje skupne rabe za spletno mesto](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span><span class="sxs-lookup"><span data-stu-id="1ffc1-105">For more information, see [Turn external sharing on or off for a site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span></span>
+<span data-ttu-id="e7cf6-105">Če želite več informacij, glejte [Vklop ali izklop zunanje skupne rabe za spletno mesto](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span><span class="sxs-lookup"><span data-stu-id="e7cf6-105">For more information, see [Turn external sharing on or off for a site](https://docs.microsoft.com/sharepoint/change-external-sharing-site).</span></span>
