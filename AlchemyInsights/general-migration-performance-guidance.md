@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958554"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537757"
 ---
-# <a name="general-migration-performance-guidance"></a><span data-ttu-id="0ee44-102">Splošna navodila za učinkovitost selitve</span><span class="sxs-lookup"><span data-stu-id="0ee44-102">General migration performance guidance</span></span>
+# <a name="general-migration-performance-guidance"></a><span data-ttu-id="77f2f-102">Splošna navodila za učinkovitost selitve</span><span class="sxs-lookup"><span data-stu-id="77f2f-102">General migration performance guidance</span></span>
 
-<span data-ttu-id="0ee44-103">**Pomembno**: med temi nepredvidljivimi časi sprejemamo ukrepe, s katerimi skrbimo, da storitvi SharePoint Online in OneDrive ostajata dobro razpoložljivi. Če želite več informacij, si oglejte razdelek [Začasne prilagoditve funkcij storitve SharePoint Online](https://aka.ms/ODSPAdjustments).</span><span class="sxs-lookup"><span data-stu-id="0ee44-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
 
-<span data-ttu-id="0ee44-104">**Navodila za učinkovito selitev**</span><span class="sxs-lookup"><span data-stu-id="0ee44-104">**Migration performance guidance**</span></span>
+<span data-ttu-id="77f2f-103">**Pomembno**: med temi nepredvidljivimi časi sprejemamo ukrepe, s katerimi skrbimo, da storitvi SharePoint Online in OneDrive ostajata dobro razpoložljivi. Če želite več informacij, si oglejte razdelek [Začasne prilagoditve funkcij storitve SharePoint Online](https://aka.ms/ODSPAdjustments).</span><span class="sxs-lookup"><span data-stu-id="77f2f-103">**Important**: During these unprecedented times, we are taking steps to ensure that SharePoint Online and OneDrive services remain highly available – Please visit [SharePoint Online Temporary Feature Adjustments](https://aka.ms/ODSPAdjustments) for more information.</span></span>
 
-<span data-ttu-id="0ee44-105">Na učinkovitost selitve lahko vpliva infrastruktura omrežja, velikost datoteke, čas selitve in omejevanje zmogljivosti.</span><span class="sxs-lookup"><span data-stu-id="0ee44-105">Migration performance can be impacted by network infrastructure, file size, migration time, and throttling.</span></span> <span data-ttu-id="0ee44-106">Če boste imeli več informacij o teh dejavnikih, boste lahko bolje načrtovali in povečali učinkovitost selitve.</span><span class="sxs-lookup"><span data-stu-id="0ee44-106">Understanding these will help you plan and maximize the efficiency of your migration.</span></span>
+<span data-ttu-id="77f2f-104">**Možnosti selitve**</span><span class="sxs-lookup"><span data-stu-id="77f2f-104">**Migration options**</span></span>
 
-- [<span data-ttu-id="0ee44-107">Splošna navodila za učinkovito selitev</span><span class="sxs-lookup"><span data-stu-id="0ee44-107">General migration performance guidance</span></span>](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+<span data-ttu-id="77f2f-105">Za selitev vsebine v SharePoint Online so na voljo različne možnosti, odvisno od velikosti in količine datotek, ki jih potrebujete za selitev. Oglejte si seznam možnosti, ki ga [najdete tukaj](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span><span class="sxs-lookup"><span data-stu-id="77f2f-105">There are different options available to migrate content to SharePoint Online, depending on the size and quantity of files you need to move, please see a list of options [located here](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span></span>
+
+<span data-ttu-id="77f2f-106">Za več informacij o selitvi vsebine obiščite spodnje povezave.</span><span class="sxs-lookup"><span data-stu-id="77f2f-106">For more information on content migration, please visit the links below.</span></span>
+
+- [<span data-ttu-id="77f2f-107">Orodje za selitev SharePointa</span><span class="sxs-lookup"><span data-stu-id="77f2f-107">Sharepoint Migration Tool</span></span>](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [<span data-ttu-id="77f2f-108">Uvod v Upravitelja selitve</span><span class="sxs-lookup"><span data-stu-id="77f2f-108">Get started with the Migration Manager</span></span>](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [<span data-ttu-id="77f2f-109">Mover</span><span class="sxs-lookup"><span data-stu-id="77f2f-109">Mover</span></span>](https://mover.io/)
