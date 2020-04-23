@@ -1,9 +1,9 @@
 ---
-title: Izbrisati mapo v Outlook.com
+title: Izbrišite mapo v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "271"
 - "8000016"
 ms.assetid: 052172e6-bee2-4466-b674-75187f0225e5
-ms.openlocfilehash: 29720d7f8272afea488b807c76d268d67df8bbee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5c7c563c1f86930df24828f1ae478bea6602bb53
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36546859"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43723838"
 ---
-# <a name="delete-a-folder-in-outlookcom"></a>Izbrisati mapo v Outlook.com
+# <a name="delete-a-folder-in-outlookcom"></a>Izbrišite mapo v Outlook.com
 
-1. V levem podoknu kliknite mapo ali podmapo, ki ga želite izbrisati in izberite **Izbriši mapo**.
-2. Izberite **OK** za potrditev.
+1. V levem podoknu z desno miškino tipko kliknite mapo ali podmapo, ki jo želite izbrisati, in izberite **Izbriši mapo**.
+2. Izberite **v redu** za potrditev.
 
-Če želite izvedeti več, glejte [delo z mape s sporočili v Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).
+Če želite izvedeti več, glejte [delo z mapami sporočil v Outlook.com](https://support.office.com/article/6bb0723a-f39f-4a8d-bb3f-fab5dcc2510a?wt.mc_id=Office_Outlook_com_Alchemy).

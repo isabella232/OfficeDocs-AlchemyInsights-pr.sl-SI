@@ -1,9 +1,9 @@
 ---
-title: 1221-Import-Export-Outlook-email-Contacts-Calendar
+title: 1221-uvoz-izvoz-Outlook-e-pošta-kontakti-koledar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +13,21 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 14bfc62c75e0bb2eb22ffb7052762c6350ad73e0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c795bdd5bd294be8a1415fc0d2fd1e97e02db7ab
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545196"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724680"
 ---
-# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Uvoz in izvoz Outlook e-pošto, stike in elemente koledarja
+# <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>Uvoz in izvoz Outlookovih e-poštnih sporočil, stikov ter elementov koledarja
 
-1. V programu Outlook kliknite **Datoteka**.
+1. V Outlooku kliknite **Datoteka**.
 
-2. Kliknite **& Odpri izvozu**, in nato kliknite **Uvoz/izvoz**.
+2. Kliknite **Odpri in izvozi** in nato **Uvozi ali izvozi**.
 
-    To zažene čarovnika za uvoz in izvoz.
+    Zažene se čarovnik za uvoz in izvoz.
 
-Za popoln nabor uvoz in izvoz navodila za Outlook, glejte [Ta članek](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+Za celoten sklop uvoznih in izvoznih navodil za Outlook glejte [Ta članek](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-Če ste skrbnik in želite večji-uvozne več PST datoteke nabiralnike Office 365, glejte [Ta članek](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
+Če ste skrbnik in želite množično uvoziti več PST datotek v Microsoft 365 nabiralnike, si oglejte [Ta članek](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).

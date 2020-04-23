@@ -1,9 +1,9 @@
 ---
-title: Odpravljanje težav s sinhronizacijo geslo
+title: Odpravljanje težav pri sinhronizaciji gesel
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,51 +13,51 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 2b0a1527ab1b16f56a97891445a2dcb4570302f5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: edd4f68466296f72c2dc0bafda45e6749d62d942
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533823"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43732526"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Odpravljanje težav s sinhronizacijo geslo
+# <a name="troubleshoot-password-synchronization"></a>Odpravljanje težav pri sinhronizaciji gesel
 
-Za odpravljanje težav, kjer brez gesla so sinhronizirani z Azure AD povezavo različico 1.1.614.0 ali novejšo različico:
+Če želite odpraviti težave, pri katerih se gesla ne sinhronizirajo s storitvijo Azure AD Connect 1.1.614.0 ali novejšo različico:
   
-1. Odprite novo sejo lupine Windows PowerShell na strežniku Azure AD povezavo s **prost dostop kot oskrbnik** predkupna pravica.
+1. Odprite novo sejo lupine Windows PowerShell v strežniku Azure AD Connect z možnostjo **Zaženi kot skrbnik** .
 
-2. Teči **niz-pravilnika o izvajanju lupine RemoteSigned** ali **niz-pravilnika o izvajanju lupine neomejen**.
+2. Zaženi **nastavljeno-ExecutionPolicy Remotepodpisano** ali **nastavljeno-ExecutionPolicy neomejen**.
 
-3. Zagnati čarovnika Azure AD povezavo.
+3. Zaženite čarovnika za povezavo Azure AD Connect.
 
-4. Pojdite na **Dodatne naloge** , izberite **Odpravljanje težav**in kliknite **naprej**.
+4. Pomaknite se na stran **dodatna opravila** , izberite **Odpravljanje težav**in kliknite **naprej**.
 
-5. Na strani odpravljanje težav, kliknite meni **začetek za začetek odpravljanja napak** v lupini PowerShell.
+5. Na strani za odpravljanje težav kliknite **Zaženi, da zaženete meni za odpravljanje težav** v PowerShell.
 
-6. V glavnem meniju, izberite **Odpravljanje težav s sinhronizacijo geslo**.
+6. V glavnem meniju izberite **Odpravljanje težav s sinhronizacijo gesel**.
 
-7. V podmeniju, izberite **sinhronizacijo geslo ne dela na vseh**.
+7. V podmeniju izberite **sinhronizacija gesel sploh ne deluje**.
 
-**Spoznajo rezultate opravila, odpravljanje težav**
+**Razumevanje rezultatov opravila za odpravljanje težav**
   
-Odpravljanje težav nalogo opravlja naslednje preglede:
+Opravilo za odpravljanje težav izvede te preglede:
   
-- Potrjuje, da je geslo sinhronizacijo možnost omogočena za modro AD najemnik.
+- Potrdi, da je funkcija sinhronizacije gesel omogočena za najemnika Azure AD.
 
-- Potrjuje, da Azure AD Connect strežnikom ni v produkcijskem načinu.
+- Potrdi, da strežnik Azure AD Connect ni v načinu Stopnjevitost.
 
-- Za vsak obstoječi krajevni Active Directory priključek (kar ustreza obstoječemu gozdu Active Directory):
+- Za vsak obstoječi krajevni konektor imenika Active Directory (ki ustreza obstoječemu gozdu imenika Active Directory):
 
 - 
-  - Potrjuje, da je omogočena funkcija za sinhronizacijo geslo.
+  - Potrdi, da je funkcija sinhronizacije gesel omogočena.
 
-  - Išče geslo sinhronizacijo srčni utrip dogodkov v dnevnikih dogodkov za program Windows.
+  - Poišče dogodke srčnega utripa za sinhronizacijo gesel v dnevnikih programa Windows Application Event.
 
-  - Za vsako domeno Active Directory pod priključek krajevnega imenika Active Directory:
+  - Za vsako domeno imenika Active Directory pod krajevnim konektorjem imenika Active Directory:
 
-  - Potrjuje, da je dosegljiv iz Azure AD povezavo strežnika domene.
+  - Preveri, ali je domena dosegljiva iz strežnika Azure AD Connect.
 
-  - Potrjuje, da domene storitve Active Directory (AD DS) kontov, s krajevnim Active Directory priključek je pravilno uporabniško ime, geslo in dovoljenja, zahtevana za sinhronizacijo geslo.
+  - Preveri, ali so računi storitve Active Directory (AD DS), ki jih uporablja krajevni konektor imenika Active Directory, pravilno uporabniško ime, geslo in dovoljenja, potrebna za sinhronizacijo gesel.
 
-Pomoč parola omedlevičen za odpravljanje težav, glejte [Odpravljanje geslo sinhronizacije z Azure AD povezavo sinhronizacijo](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
+Če želite več pomoči pri sinhronizaciji gesel, glejte [Odpravljanje težav s sinhronizacijo gesel s sinhronizacijo AZURE ad Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).
   

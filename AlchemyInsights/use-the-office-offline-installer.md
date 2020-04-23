@@ -1,8 +1,8 @@
 ---
-title: Uporabite Office offline umestiti
+title: Uporaba namestitvenega programa Office brez povezave
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,16 +12,16 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 2e1bbddf91c623cad2e53b7c0d137f4d7de45143
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6d847149d4e1f39af3fa5d5fdd17f187463f6ea7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532301"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43726336"
 ---
-# <a name="use-the-office-offline-installer"></a>Uporabite Office offline umestiti
+# <a name="use-the-office-offline-installer"></a>Uporaba namestitvenega programa Office brez povezave
 
-Morate biti povezani z internetom v travnato gričevje umestiti pila, šele ko je to storjeno, nato namestite Office brez povezave v računalniku na vaše udobje z uporabo Office razvitje orodje (ODT)
+Če želite prenesti namestitvene datoteke, morate biti povezani z internetom, ko pa to naredite, lahko namestite Office brez povezave v računalnik, tako da uporabite orodje za uvajanje Officea (ODT)
 
-Za ODT je namenjen podjetjih in deluje iz ukazne vrstice, zato koraki so bolj zapletena--, vendar boste še vedno dela za vgradnjo v a posamezen načrt. Glejte [Uporaba Office offline umestiti](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+ODT je zasnovan za poslovna okolja in teče iz ukazne vrstice, zato so koraki bolj zapleteni-vendar bodo še vedno delali za namestitev na eni napravi. Glejte [Uporaba namestitvenega programa Office brez povezave](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
   

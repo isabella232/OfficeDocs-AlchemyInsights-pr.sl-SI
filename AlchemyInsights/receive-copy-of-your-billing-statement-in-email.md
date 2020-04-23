@@ -1,9 +1,9 @@
 ---
-title: Prejeli izvod vaše izpisek v email
+title: Prejemanje kopije izpiska za obračun v e-poštnem sporočilu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 1/9/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -13,23 +13,23 @@ ms.custom:
 - "1643"
 - "9000137"
 ms.assetid: fe76166c-afd2-4c99-b565-bc93ed6b84e3
-ms.openlocfilehash: 128f7c3b962d35934e14b80262ac9b2989967bc6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2af1c5374c0cb08891f42f83e2a5e54ef17e914a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36510099"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43724966"
 ---
-# <a name="receive-copy-of-your-office-365-billing-statement-in-email"></a>Prejema kopije Office 365 izpisek v email
+# <a name="receive-copy-of-your-billing-statement-in-email"></a>Prejemanje kopije izpiska za obračun v e-poštnem sporočilu
 
-Se lahko odločite za prejemanje kopijo vaše izpisek kot prilogo e-pošte. Če ste, Zavedajte se, da:
+Kopijo izpiska za obračun lahko prejmete kot e-poštno prilogo. Če boste to storili, se zavedajte, da:
   
-- Email hoteti sent tako na primarni in nadomestni e-poštni naslov za vsako osebo, ki je naveden kot prejemnik obvestila.
+- E-poštno sporočilo bo poslano na primarni in nadomestni e-poštni naslov za vsako osebo, ki je navedena kot prejemnik obvestila.
 
-- Boste prejeli dve ločenega emails: ena, ki vam pove, da je vaš račun pripravljen, z navodili za prijavo v skrbniškem središču za ogled in drugi email, ki vsebuje izpisek kot prilogo.
+- Prejeli boste dve ločeni e-pošti: tisti, ki vam omogoča, da veste, da je vaš račun pripravljen, z navodili, da se prijavite v skrbniško središče, da si ga ogledate, in drugo e-poštno sporočilo, ki vsebuje izjavo o obračunavanju kot prilogo.
 
-Za prejemanje vaš izpisek v email:
+Če želite prejeti izjavo o obračunavanju v e-poštnem sporočilu:
   
-1. V središču admin, pojdite na **zaračunavanje** \> [zaračunavanje obvestila](https://go.microsoft.com/fwlink/p/?linkid=853212) strani.
+1. V skrbniškem središču pojdite na **stran z** \> [obvestili o obračunavanju](https://go.microsoft.com/fwlink/p/?linkid=853212) obračunavanja.
 
-2. Po **prejme izpisek kot email attachment?**, preklopite na preklop **na**. Lahko želite več prejemati zaračunavanja emails izjavo kadarkoli s prehodom na preklop na **Off**.
+2. Pod **Prejmite izjavo o obračunavanju kot e-poštno prilogo?**, preklopite stikalo na **vklopljeno**. E-poštna sporočila o obračunavanju lahko kadar koli prenehate prejemati tako, da preklopite preklop na **izklopljeno**.

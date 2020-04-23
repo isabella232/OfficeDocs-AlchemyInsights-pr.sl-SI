@@ -13,18 +13,18 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 6f45dbdbfa89711fa2472a1f0b9f8e630faeb91e
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 40bbb44876600dcc6d0269363a36eacecc337870
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599500"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43737668"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams, nameščene s posodobitvami za Office
 
-Microsoft Teams je vključen kot del ***novih naprav*** sistema Office 365 proplus, Office 365 Business in Office for Mac. Če želite več informacij, glejte [Kdaj bo Microsoft Teams začel biti vključen v nove namestitve Officea?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+Microsoft Teams je vključen kot del ***novih naprav*** Microsoft 365 apps za podjetja, Microsoft 365 Apps for Business in Office for Mac. Če želite več informacij, glejte [Kdaj bo Microsoft Teams začel biti vključen v nove namestitve Officea?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-Poleg tega se bodo ekipe, začenši z različico 1906 v mesečnem kanalu, postopoma dodajale ***obstoječim napravam*** sistema Office 365 proplus (in Office 365 Business) v napravah s sistemom Windows, ko posodobite obstoječo namestitev na najnovejšo različico. Če želite več informacij, preberite [kaj o obstoječih namestitvah Officea?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
+Poleg tega, začenši z različico 1906 v mesečnem kanalu, bodo ekipe postopoma dodane ***obstoječim napravam*** Microsoft 365 apps za podjetja (in Microsoft 365 apps za podjetja) v napravah s sistemom Windows, ko posodobite obstoječo namestitev na najnovejšo različico. Če želite več informacij, preberite [kaj o obstoječih namestitvah Officea?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 **Opomba:** Če ne želite čakati na ta urnik uvajanja, lahko skupine nastavite kot samostojne za uporabnike tako, da [upoštevate ta navodila](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), ali pa lahko uporabniki namestijo ekipe sami https://teams.microsoft.com/downloads.
 
