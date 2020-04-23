@@ -1,9 +1,9 @@
 ---
-title: 1489-permissions-required-for-eDiscovery-Searches
+title: 1489-dovoljenja-zahtevano-za-eDiscovery-iskanja
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372144"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758927"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>Dovoljenja, zahtevana za eDiscovery iskanja
+# <a name="permissions-required-for-ediscovery-searches"></a>Dovoljenja, potrebna za iskanje e-odkrivanja
 
-Za iskanje vsebin v varnost & skladnosti Center, uporabnik mora biti najmanj biti član eDiscovery Manager skupine vlog, ki jim omogoča, da iskanje in prostor ima na nabiralnike, SharePointovih mest in OneDrive mesta. Člani lahko tudi ustvariti in upravljanje eDiscovery primerih, dodajte in odstranite člane, na primer, ustvarjanje in urejanje vsebine iskanja in dostop do podatkov v naprednih eDiscovery.
+Če želite izvesti iskanje po vsebini v središču za skladnost varnostnega &, mora biti uporabnik vsaj član skupine vlog upravitelja e-odkrivanja, ki jim omogoča izvajanje iskanj in mest v nabiralnikih, SharePointovih mestih in v storitvi OneDrive. Člani lahko ustvarijo in upravljajo tudi primere e-odkrivanja, dodajajo in odstranijo člane v primer, ustvarijo in urejajo iskanja vsebine ter dostopajo do podatkov o primerih v naprednem e-odkrivanju.
 
-Za v mesto eDiscovery iskanja v skrbniškem središču za izmenjavo (EAC), uporabnik mora biti član skupine vlog upravljanje raziskovanja v storitvi Exchange Online.
+Če želite izvesti iskanja v mestu eDiscovery v skrbniškem središču za Exchange (EAC), mora biti uporabnik član skupine vlog za upravljanje odkrivanja v Exchange Online.
 
-Če želite več informacij o dovoljenjih eDiscovery, glej: 
+Če želite več informacij o dovoljenjih za e-odkrivanje, glejte: 
 
-- [Dodeljevanje eDiscovery dovoljenj v varnostnih & skladnosti Center](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [Dodeljevanje dovoljenj za e-odkrivanje v središču za skladnost varnostnega &](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
-- [Dodeljevanje dovoljenj eDiscovery v zameno](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
+- [Dodeljevanje dovoljenj za e-odkrivanje v Exchangeeju](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**Opomba**: po dodeljevanje dovoljenj eDiscovery, boste morda morali čakati nekaj minut za dovoljenja za razširjanje.
+**Opomba**: Ko dodelite dovoljenja e-Discovery, boste morda morali počakati nekaj minut, da se dovoljenja razširijo.

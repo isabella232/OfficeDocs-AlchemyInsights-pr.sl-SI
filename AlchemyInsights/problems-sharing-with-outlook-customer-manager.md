@@ -1,9 +1,9 @@
 ---
-title: problems-Sharing-with-Outlook-Customer-Manager
+title: težave-Sharing-z-Outlook-stranka-Manager
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/3/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 91e1e9fa8177d1db6df02dd3376edc6cdd05fb60
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8363481f87f4f153047269fd4c3e72f442fafcc6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554493"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758842"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>Težave pri skupni rabi z Outlook kupca Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>Deljenje težav z Outlookom upraviteljem strank
 
-Če imate delitev vprašanj z Outlook kupca Manager vam priporočamo, da si najprej poskusite počistiti predpomnilnik vašega brskalnika. Na primer v Internet Explorerju vam bi:
+Če imate težave pri izmenjavi s storitvijo Outlook Customer Manager, priporočamo, da najprej poskusite počistiti predpomnilnik brskalnika. Na primer v Internet Explorerju bi:
 
-1. Pojdite v **Nastavitve** > **splošno** > nastavitve pod možnostjo **Zgodovina brskanja** > **Caches in podatkovnih baz**.
-2. Izbrišite predpomnilnik datoteke za spletno stran "outlookapps.com."
+1. Odprite **Nastavitve** > **splošne** nastavitve > pod**caches in podatkovnimi zbirkami** **zgodovine** > brskanja.
+2. Izbrišite predpomnilnik datotek za spletno stran "outlookapps.com."
 3. Znova zaženite Outlook.
 
-Če želite več informacij o skupni rabi, glejte [delnica v Outlookov upravitelj kupcev](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+Če želite več informacij o skupni rabi, glejte [Skupna raba informacij v programu Outlook Customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).

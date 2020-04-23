@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001502"
 - "3559"
-ms.openlocfilehash: 4185077215ac3628103286ed58c396088410d868
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 61f2cb4d4d9158d8f9d90cd8a59d5a9ad109eb12
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600328"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789138"
 ---
 # <a name="project-common-issues-and-resolutions"></a>Skupna vprašanja in resolucije projekta
 
@@ -28,6 +28,6 @@ Tukaj je nekaj pogosto zahtevanih temah s projektom:
 
 3. **Nastavite uspešnost programa Project Web App (PWA) v programu Project Online:** Preglejte [učinek delovanja in kompromise](https://docs.microsoft.com/projectonline/tune-project-online-performance) nekaterih najpogostejših nastavitev programa Project Web App.
 
-4. **Vzpostavite povezavo s projektom Project Online s odjemalskim namiznim odjemalcem:** Uporabite [odjemalca Project Online Desktop](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) , da vzpostavite povezavo s projektom Project Online v okolju Office 365. 
+4. **Vzpostavite povezavo s projektom Project Online s odjemalskim namiznim odjemalcem:** Uporabite [odjemalca Project Online Desktop](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) , če želite vzpostaviti povezavo s projektom Project Online v okolju Microsoft 365. 
 
-5. **Namestitev projekta Professional:** [namestitev in uporaba projekta Professional](https://support.office.com/en-us/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281?ui=en-US&rs=en-US&ad=US) z naročnino različice Project Online, in ne-naročnine različice Project 2019, 2016, ali 2013.
+5. **Namestitev projekta Professional:** [namestitev in uporaba projekta Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) z naročnino različice Project Online, in ne-naročnine različice Project 2019, 2016, ali 2013.

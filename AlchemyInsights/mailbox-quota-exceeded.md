@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001106"
 - "3067"
-ms.openlocfilehash: 7e1108cb4c9f2c5deecb32dc669800c5d23cc975
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 898c80d915ba24d9977b1f96063fa09f99c006fc
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286284"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784707"
 ---
 # <a name="mailbox-quota-exceeded"></a>Presežena kvota nabiralnika
 
@@ -30,4 +30,4 @@ Presegli ste kvoto nabiralnika za račun. Obstaja več korakov, ki jih lahko vza
 
 4. Shranite Priloge v OneDrive, tako da niso shranjeni v nabiralniku. Za več informacij glejte [omejitve shrambe v Outlook.com](https://support.office.com/article/storage-limits-in-outlook-com-7ac99134-69e5-4619-ac0b-2d313bba5e9e) . 
 
-Če ste uporabnik Officea 365, lahko zahtevate tudi povečanje nabiralnika iz vašega IT skrbnika.
+Če ste uporabnik Microsoft 365, lahko zahtevate tudi povečanje nabiralnika iz vašega IT skrbnika.

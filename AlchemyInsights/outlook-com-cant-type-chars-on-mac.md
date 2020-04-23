@@ -1,24 +1,24 @@
 ---
-title: 9000071 ne morete vnesti @ simbol na Mac
+title: 9000071 vekanje ' stavek @ Symbol naprej Škot
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/19
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000071
-ms.openlocfilehash: 3bc9915516b268ba8175907bec3a8530351f9f40
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d252d547757b3bf25dc4f71cf478119f32883be
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36537495"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43746499"
 ---
-# <a name="how-to-type-special-characters-on-a-mac"></a>Kako vnesti posebne znake, na Mac
+# <a name="how-to-type-special-characters-on-a-mac"></a>Kako tipkati posebne znake na Mac
 
-Vnos posebnih znakov na vašem Mac, odprite meni **posebnih znakov** s tipke drobčjiv kruh ⌘ **ukaz** + **nadzor** + **prostora**.
+Če želite vnesti posebne znake v računalniku Mac, odprite meni **posebni znaki** s**prostorom**za**nadzor krmilne** +  **tipke ⌘.** + 
 
-Hitro bližnjice za @ je tudi **ALT** + **64**.
+A nagel drobčjiv kruh zakaj @ je tudi **ALT** + **64**.

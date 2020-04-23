@@ -1,9 +1,9 @@
 ---
-title: Potrdila o branju v Outlook.com
+title: Preberite potrdila v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,15 +14,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 5c411bca304071938982406816cb945037eac2ed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e9636af661230dd77066d04660c39ef40f4b9126
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36545311"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43744237"
 ---
-# <a name="read-receipts"></a>Potrdila o branju
+# <a name="read-receipts"></a>Prejemki za branje
 
-Ne morete zahtevati potrdilo o branju v Outlook.com, vendar pa lahko zahteva branju Outlook.com sporočil, poslanih z uporabo Outlook za Windows. Želite izvedeti, kako, glejte [Dodajanje in zahtevo, preberite prejemkov in dostavo obvestila](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
+Potrdila o branju ne morete zahtevati v Outlook.com, lahko pa zahtevate potrdila o branju za sporočila Outlook.com, poslana s programom Outlook za Windows. Če želite izvedeti, kako, glejte [Dodajanje in zahtevajte potrdila o branju in obvestila o dostavi](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
   
-Izbrati, kako Outlook.com odziva čitati potrdila o prejemu, pojdite na [nastavitve za branje prejema](https://outlook.live.com/mail/options/mail/handling/readReceipts).
+Če želite izbrati, kako Outlook.com odgovarja na zahteve za branje prevzemnice, pojdite na [nastavitve za branje prevzemnice](https://outlook.live.com/mail/options/mail/handling/readReceipts).

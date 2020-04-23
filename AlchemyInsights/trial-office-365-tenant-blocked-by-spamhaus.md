@@ -1,8 +1,8 @@
 ---
-title: Poskus Office 365 najemnik blokiral Spamhaus
+title: Trial Microsoft 365 najemnik blokira Spamhaus
 ms.author: chrisda
 author: chrisda
-ms.date: 11/4/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 6bf10d68da8ba582ff0288b1f824ffc2505d4365
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ca948d0f1d5ded8969198ccddc67d743f77a1734
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36500445"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759888"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Napaka pri Office 365 poskus uporabnik pošlje email: odjemalca gostitelja blokiran z Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>Zmota čas a mikroskop 365 poskus uporabnik spodbuda email: varovanec stanodajalec tnalo using Spamhaus
 
-Zdi se, da pošiljate e-pošto iz novo Office 365 poskus organizacijo. Da bi preprečili zlorabe, smo blok IP naslovov, ki je znano, da je bilo prej ogroženo. Posebnih preverjanje ni več se izvrši, ko začnete uporabljati plača licence. Morda boste lahko dobili začasno oprostitev, z asking zakaj a nov IP ogovor od vašega ponudnika internetnih storitev (ISP) ali z odstranitvijo blok na spletni strani [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
+Zdi se, da pošiljate e-pošto iz nove Microsoft 365 poskusno organizacijo. Da bi preprečili zlorabo, blokiramo IP naslove, za katere je znano, da so bili prej ogroženi. Ta posebni pregled se ne izvrši več, ko začnete uporabljati plačane licence. Morda boste lahko dobili začasne olajšave, ki jih prosi za nov naslov IP od ponudnika internetnih storitev (ISP), ali z odstranitvijo blok iz spletne strani [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
