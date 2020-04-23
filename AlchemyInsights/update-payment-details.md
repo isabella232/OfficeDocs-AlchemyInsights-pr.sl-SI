@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059896"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720081"
 ---
 # <a name="update-credit-card-information"></a>Posodobitev podatkov kreditne kartice
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059896"
 
 Če naletite na težave z nalaganjem strani, poskusite odpreti spletno stran v drugem brskalniku ali pa poskusite odpreti stran v zasebnem oknu brskalnika, na primer v oknu InPrivate v brskalniku Microsoft Edge ali v načinu brez beleženja zgodovine v brskalniku Google Chrome. 
 
-Če želite več informacij, glejte [Dodajanje, posodabljanje ali odstranjevanje kreditne kartice ali bančnega računa v storitvi Office 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) in [Odpravljanje težav z kreditnimi karticami in bančnimi računi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+Če želite več informacij, glejte [Dodajanje, posodabljanje ali odstranjevanje kreditne kartice ali bančnega računa v okolju Microsoft 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) in [Odpravljanje težav z kreditnimi karticami in bančnimi računi](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

@@ -1,9 +1,9 @@
 ---
-title: Outlook.com neželene spam - španščina
+title: Outlook.com junk spam-španščina
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/6/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1137"
 - "8000065"
-ms.openlocfilehash: bb9d5b00c5466fdc334a84e5805744f102160ae1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4a2b6ab81901a7e674506352e893d5b220b25839
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536364"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716008"
 ---
-# <a name="mantenga-el-correo-no-deseado-fuera-de-outlookcom"></a>Mantenga el correo ni deseado fuera de Outlook.com
+# <a name="mantenga-el-correo-no-deseado-fuera-de-outlookcom"></a>Mantenga El correo ne deseado Fuera de Outlook.com
 
-Si ve un aumento de correo ne deseado y correo ElectrĂłnico ni deseado, seno varias formas de reducir la cantidad de correo ni deseado que entre en la Bandeja de entrada.
+Si ve un aumento de correo No deseado y correo ElectrĂłnico No deseado, seno varias formas de reducir La cantidad de correo ne deseado que Entre en La bandeja de entrada.
 
-Aprender mĂˇs para leer [Ayudar mantener el correo ne deseado y el correo ni deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+Para pusti más Leer [ayudar a mantener El correo ne deseado y El correo ne deseado Fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

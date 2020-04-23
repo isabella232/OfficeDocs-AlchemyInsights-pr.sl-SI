@@ -3,7 +3,7 @@ title: 1336 RecoverableItems mapa je polna
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/5/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,33 +12,33 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: 8a5859ba29d847606e8b44d169c3cd6a26364744
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36509769"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720268"
 ---
-# <a name="the-recoverable-items-folder-is-full"></a>«Mapa »Obnovljivo «je poln
+# <a name="the-recoverable-items-folder-is-full"></a>Mapa» Obnovljivo «je polna
 
-Za nabiralnikov Exchange Online v Office 365, privzeto omejitev velikosti shrambe za mapo »Obnovljivo« je 30 GB. Omejitev velikosti shrambe za mapo »Obnovljivo« se samodejno poveča na 100 GB, če nabiralnik je postavljena na čakanje, eDiscovery drži, ali je dodeljen pravilnik o hranjenju z Office 365.
+Za nabiralnike Exchange Online je privzeta omejitev shranjevanja za mapo» Obnovljivo «30 GB. Omejitev shranjevanja za mapo» Obnovljivo «se samodejno poveča na 100 GB, če je nabiralnik postavljen na čakanje zaradi spora, zadržanje e-odkrivanja ali pa je dodeljen pravilniku o hranjenju.
 
-Ko mapo »Obnovljivo «doseže omejitev velikosti shrambe, nabiralnik funkcionalnost vpliva na naslednje načine:
+Ko mapa» Obnovljivo «doseže omejitev shranjevanja, je funkcija nabiralnika prizadeta na naslednje načine:
 
-- Uporabnik ne more izbrisati elemente iz nabiralnika.
+- Uporabnik ne more izbrisati elementov iz nabiralnika.
 
-- Pomočnik za upravljane mape ne morete izbrisati elementov glede na oznako za hranjenje ali nastavitve za upravljane mape.
+- Pomočnik za upravljane mape ne more izbrisati elementov, ki temeljijo na oznaki za hranjenje ali v nastavitvah upravljane mape.
 
-- Za nabiralnike, ki imajo omogočeno obnovitvijo posamezen element ali so postavljena na čakanje, kopijo na napišite strani zaščitnega postopka ne more vzdrževati različice elementov, ki jih bo uporabnik.
+- Za nabiralnike, ki imajo omogočeno Obnovitev posameznega artikla ali so dani na voljo, postopek zaščite strani za kopiranje na pisanje ne more vzdrževati različic elementov, ki jih je uredil uporabnik.
 
-- Za nabiralnike, ki so nabiralnik revizijo omogočenim pisanjem dnevnika, vnose v dnevnik nadzora ni nabiralnik lahko shranite v revizije podmapo v mapi »obnovljivo« .
+- Za nabiralnike, ki imajo omogočeno beleženje dnevnika revizij nabiralnika, ni mogoče shraniti vnosov dnevnika revizij nabiralnika v podmapo revizijah v mapi» obnovljivo «.
 
-Za nabiralnike, ki niso na čakanju, administratorji lahko uporabite na `Search-Mailbox -SearchDumpsterOnly -DeleteContent` v Exchange Online PowerShell za brisanje elementov v mapi »obnovljivo« . Če želite več informacij, glejte te teme:
+Za nabiralnike, ki niso na voljo, lahko skrbniki `Search-Mailbox -SearchDumpsterOnly -DeleteContent` uporabijo ukaz v Exchange Online PowerShell za brisanje elementov v mapo z nadomestljivimi predmeti. Če želite več informacij, glejte naslednje teme:
 
 - [Iskanje in brisanje sporočil](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
 
-- [Search-Mailbox](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
+- [Iskalni nabiralnik](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-Za nabiralnike, ki so na čakanju, administratorji morali odstraniti zadržanja, preden se lahko izbrisano iz mape »Obnovljivo« . Če želite več informacij, glejte [brisanje elementov v obnovljivo mapo oblaku nabiralnikov na imajo](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+Za nabiralnike, ki so na zadržani, morajo skrbniki odstraniti zadržko, preden lahko izbrišejo elemente iz mape» Obnovljivo «. Če želite več informacij, glejte [brisanje elementov v mapi» obnovljivo «v nabiralnikih v oblaku, ki jih držite](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-Da bi preprečili mape »Obnovljivo« od postane poln, lahko administratorji poveča omejitev velikosti shrambe za obnovljivo mapo za nabiralnike v strežniku imajo in nastavite pravilnika o hranjenju za nabiralnik, ki premakne elemente iz mape »Obnovljivo« v uporabnikovem Arhiv nabiralnik. Glej, [povečanje obnovljivo imajo količinske omejitve za nabiralnike v strežniku](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+Če želite preprečiti, da bi mapa» Obnovljivo «postala polna, lahko skrbniki povečajo omejitev shranjevanja mape» Obnovljivo «za nabiralnike na zadržanju in nastavijo pravilnik o hranjenju nabiralnika, ki premakne elemente iz mape» Obnovljivo «v arhivski nabiralnik uporabnika. Glejte [povečanje kvote za obnovljivo postavko za nabiralnike na zadržanju](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).

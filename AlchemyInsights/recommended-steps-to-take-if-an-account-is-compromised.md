@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745449"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719320"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>Priporočeni koraki v primeru ogroženega računa
 
-[VIDEO: odpravljanje težav z ogroženim računom za Office 365](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[VIDEOPOSNETEK: popravljanje ogroženega računa](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. Takoj [ponastavite geslo uporabnika](https://docs.microsoft.com/office365/admin/add-users/reset-passwords). Novega gesla končnemu uporabniku ne posredujte po e-pošti.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745449"
 
 5. Odstranite uporabniški račun iz katerih koli [skupin skrbniških vlog](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles), dokler niste prepričani, da račun ni več ogrožen.
 
-Če želite v prihodnosti zmanjšati verjetnost morebitne kršitve varnosti podatkov ali ogroženosti računa, priporočamo, da preberete [Pregled storitve Office 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+Če želite v prihodnosti zmanjšati verjetnost morebitne kršitve varnosti podatkov ali ogroženosti računa, priporočamo, da preberete [Načrtovanje varnosti okolja Microsoft 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
   
