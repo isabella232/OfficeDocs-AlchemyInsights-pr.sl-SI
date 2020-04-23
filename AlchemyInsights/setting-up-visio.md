@@ -1,26 +1,26 @@
 ---
-title: Vzpostavitev programa Visio
+title: Nastavitev programa Visio
 ms.author: pebaum
 author: pebaum
-ms.date: 6/12/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0162885a-13d5-4400-9972-935c9186c608
-ms.openlocfilehash: 41933beae4fa15623533a886ced1511edebd6166
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bd08e44485b642e5684986bc87c3b45db1f18f45
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549847"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767841"
 ---
-# <a name="setting-up-visio"></a><span data-ttu-id="c14db-102">Vzpostavitev programa Visio</span><span class="sxs-lookup"><span data-stu-id="c14db-102">Setting up Visio</span></span>
+# <a name="setting-up-visio"></a><span data-ttu-id="603a6-102">Nastavitev programa Visio</span><span class="sxs-lookup"><span data-stu-id="603a6-102">Setting up Visio</span></span>
 
-<span data-ttu-id="c14db-103">Izgleda, da potrebujete pomoč pri namestitvi programa Visio z naročnino Office 365.</span><span class="sxs-lookup"><span data-stu-id="c14db-103">Looks like you need help setting up Visio with your Office 365 subscription.</span></span>
+<span data-ttu-id="603a6-103">Videti je, da potrebujete pomoč pri nastavitvi Visia z naročnino na Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="603a6-103">Looks like you need help setting up Visio with your Microsoft 365 subscription.</span></span>
   
-<span data-ttu-id="c14db-104">Obvestilo za uporabnike Mac: The Visio izdelek trenutno ni na voljo za MacOS.</span><span class="sxs-lookup"><span data-stu-id="c14db-104">Notice for Mac users: The Visio product is not available for MacOS at this time.</span></span> <span data-ttu-id="c14db-105">Če imate računalnik mora biti zmožen umestiti software using lestev spodaj.</span><span class="sxs-lookup"><span data-stu-id="c14db-105">If you have a PC you should be able to install the software using the steps below.</span></span>
+<span data-ttu-id="603a6-104">Obvestilo za uporabnike računalnikov Mac: Visiov izdelek trenutno ni na voljo za MacOS.</span><span class="sxs-lookup"><span data-stu-id="603a6-104">Notice for Mac users: The Visio product is not available for MacOS at this time.</span></span> <span data-ttu-id="603a6-105">Če imate računalnik, morate imeti možnost namestiti programsko opremo z uporabo spodnjih korakov.</span><span class="sxs-lookup"><span data-stu-id="603a6-105">If you have a PC you should be able to install the software using the steps below.</span></span>
   
-<span data-ttu-id="c14db-106">Sledite korakom v [tem članku](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) zadobiti vaš dokončala.</span><span class="sxs-lookup"><span data-stu-id="c14db-106">You can follow the steps in [this article](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) to get your setup completed.</span></span> 
+<span data-ttu-id="603a6-106">Če želite dokončati namestitev, lahko sledite korakom v [tem članku](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) .</span><span class="sxs-lookup"><span data-stu-id="603a6-106">You can follow the steps in [this article](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710.aspx) to get your setup completed.</span></span> 
   
 

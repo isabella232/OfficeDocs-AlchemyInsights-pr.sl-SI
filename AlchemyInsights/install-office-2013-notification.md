@@ -1,9 +1,9 @@
 ---
-title: Namestite Office 2013 obvestila
+title: Namestitev obvestila za Office 2013
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/27/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,14 +13,14 @@ ms.custom:
 - "54"
 - "1700001"
 ms.assetid: d7fb12ba-895f-45bf-9f4a-12620231d31e
-ms.openlocfilehash: 6a2151f6baf108e168f2ba2ce2e76b5c1a1c6d22
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3b2db50dc62d8aa1884319f474f0f8277fc9b68a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498899"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766041"
 ---
-# <a name="upgrade-to-office-2016"></a><span data-ttu-id="ebc27-102">Vzpenjajoč se v urad 2016</span><span class="sxs-lookup"><span data-stu-id="ebc27-102">Upgrade to Office 2016</span></span>
+# <a name="upgrade-to-office-2016"></a><span data-ttu-id="4f459-102">Nadgradnja na Office 2016</span><span class="sxs-lookup"><span data-stu-id="4f459-102">Upgrade to Office 2016</span></span>
 
-<span data-ttu-id="ebc27-103">Na žalost, urad 2013 ni na voljo za download anymore Office 365 naročnine, vendar jo lahko nadgradite na Office 2016 brezplačno!</span><span class="sxs-lookup"><span data-stu-id="ebc27-103">Unfortunately, Office 2013 isn't available for download anymore for Office 365 subscriptions, but you can upgrade to Office 2016 for free!</span></span> <span data-ttu-id="ebc27-104">Za več podrobnosti in lestev umestiti urad 2016 uporabljati ta članek: [namestite ali nadgradite na Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span><span class="sxs-lookup"><span data-stu-id="ebc27-104">For more details and steps to install Office 2016 use this article: [Install or upgrade to Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span></span>
+<span data-ttu-id="4f459-103">Žal, urad 2013 isnt ' pri roki zakaj travnato gričevje anymore, šele vi moči vzpenjajoč se v urad 2016 zakaj prost!</span><span class="sxs-lookup"><span data-stu-id="4f459-103">Unfortunately, Office 2013 isn't available for download anymore, but you can upgrade to Office 2016 for free!</span></span> <span data-ttu-id="4f459-104">Zakaj več podrobnost ter lestev umestiti urad 2016 raba to člen: [napeljati ali vzpenjajoč se v urad 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span><span class="sxs-lookup"><span data-stu-id="4f459-104">For more details and steps to install Office 2016 use this article: [Install or upgrade to Office 2016](https://support.office.com/article/Office-2013-is-no-longer-available-for-installation-with-an-Office-365-subscription-de68fd95-553a-4c38-b1b5-e4205b96fc75.aspx).</span></span>
   
