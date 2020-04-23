@@ -1,23 +1,23 @@
 ---
-title: 8000049 Skype ikona odsoten v Outlook.com
+title: 8000049 skype ikona manjka v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: 869de50b0bad7f41902fd918f90dd435a5faa4de
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cc5ca216f3e27a424f26bf5faa95b4df9c26b653
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512187"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767877"
 ---
-# <a name="skype-icon-missing"></a>Skype ikona odsoten
+# <a name="skype-icon-missing"></a>Manjka ikona Skype
 
-Smo začasno odstranili Skype ikona od Outlook.com kot del design osveževanja in funkcijo posodobitve, smo veseli, da se uvajajo. Cenimo vaše potrpljenje, medtem ko za vas pripravljamo novo in izboljšano izkušnjo.
+Smo začasno odstranili ikono Skype od Outlook.com kot del načrta Osveži in funkcijo posodobitev smo navdušeni, da se uvajajo. Cenimo vaše potrpljenje, medtem ko vam pripravimo novo in izboljšano izkušnjo za vas.
 
-Še vedno uporabljate Skype skozi vaš brskalnik na [web.skype.com](https://web.skype.com).
+Še vedno lahko uporabljate Skype prek brskalnika na [Web.Skype.com](https://web.skype.com).

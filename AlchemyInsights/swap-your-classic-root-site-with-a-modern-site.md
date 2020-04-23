@@ -2,7 +2,7 @@
 title: Zamenjajte svojo klasično korensko stran s sodobno spletno stran
 ms.author: pebaum
 author: pebaum
-ms.date: 8/6/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: fe1f0f662c49de2bd0b5b997697c98309cb7983f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: f4831c6a232a4dee0f8f5ac0c83e4307221cfe2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40042943"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741560"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>Zamenjajte svojo klasično korensko stran s sodobno spletno stran
 
@@ -28,7 +28,7 @@ ms.locfileid: "40042943"
 
 - Dodatne zmogljivosti bodo uvedene kmalu, da vam bo omogočilo, da uporabljajo vsebino na spletni strani, vendar pretvoriti obstoječe mesto na komunikacijsko mesto. 
 >[!Important]
->Te zmogljivosti bodo postopoma izpeljali. Še naprej preverite Office 365 Message center za posodobitve. 
+>Te zmogljivosti bodo postopoma izpeljali. Še naprej preverite center za sporočila za posodobitve. 
 
 ## <a name="known-issues-with-swapping-sites"></a>Znane težave s zamenjavo strani
 
@@ -37,8 +37,3 @@ ms.locfileid: "40042943"
 - Vse odvisno od "statičnih" povezav (kot so file Sync in OneNote datoteke) bo treba ročno popraviti.
 - Če je izvorna stran organizacijska stran z novicami, posodobite URL.Pridobite seznam vseh strani z organizacijskimi novicami.
 - Mesta strežnika Project Server je morda treba potrditi, da se zagotovi, da so še vedno pravilno povezani.
-
-
-
-
-

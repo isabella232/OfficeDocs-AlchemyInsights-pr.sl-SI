@@ -2,7 +2,7 @@
 title: SharePoint online Throttling
 ms.author: pebaum
 author: pebaum
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,22 +12,22 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 2aca55ac2fefbb2035140a759a77730dc905a4e9
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 50b2c29db1fd294abe6c9e60f067156109de392b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958751"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742225"
 ---
 # <a name="sharepoint-online-throttling"></a>SharePoint online Throttling
 
-**Pomembno**: med temi neprimerljivo časi, smo sprejeti ukrepe za zagotovitev, da SharePoint online in storitve OneDrive ostajajo zelo na voljo-Prosimo, obiščite [SharePoint online začasna prilagoditev funkcij](https://aka.ms/ODSPAdjustments) za več informacij.
+**Pomembno**: med temi nepredvidljivimi časi sprejemamo ukrepe, s katerimi skrbimo, da storitvi SharePoint Online in OneDrive ostajata dobro razpoložljivi. Če želite več informacij, si oglejte razdelek [Začasne prilagoditve funkcij storitve SharePoint Online](https://aka.ms/ODSPAdjustments).
 
 **503 strežnik je zaseden napaka**
 
 Uporabnik maj sprejemati a 503 pomočnik je zaposlen zmota čas poskus v pluti v SharePoint ali OneDrive položaj. 
 
-To napako lahko povzroči zadavljenje znotraj storitve SharePoint. SharePoint online uporablja zadaviti za ohranjanje optimalne učinkovitosti in zanesljivosti storitve SharePoint online. Throttling omejuje število uporabniških dejanj ali sočasnih klicev (po skriptu ali kodi), da se prepreči prekomerna uporaba virov. 
+To napako lahko povzroči zadavljenje znotraj storitve SharePoint. Storitev SharePoint Online z omejevanjem zmogljivosti vzdržuje optimalno učinkovitost in zanesljivost storitve SharePoint Online. Omejevanje zmogljivosti omeji število uporabniških dejanj ali sočasnih klicev (s skriptom ali kodo) in tako prepreči prekomerno uporabo sredstev. 
 
 Za več informacij o zadaviti glej, [ne pridobivanje zadaviti ali blokiran v SharePoint online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
 

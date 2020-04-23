@@ -1,9 +1,9 @@
 ---
-title: Preklic ali zamenjava e-pošto
+title: Preklic ali zamenjava e-poštnega sporočila
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 05/15/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,33 +13,33 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: d5952041f6f2fd736e975abf06cc22880d21a089
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553448"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742771"
 ---
-# <a name="recall-or-replace-an-email-message-in-office-365"></a>Preklic ali zamenjava email vest v Office 365
+# <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>Preklic ali zamenjava e-poštnega sporočila v Microsoft 365
 
-- Lahko **samo Preklic sporočila, ki so poslana ljudem v organizaciji**. Če je bilo sporočilo poslano na Gmail naslov, na primer, lahko ne spomnim to.
-- Lahko **samo Preklic sporočila, poslana iz Outlook 2016 za PC**. Če uporabnik pošlje sporočilo z uporabo Outlook za Mac ali Outlook v spletu, lahko spomnim.
-- Če ste admin, lahko **odpoklic sporočila v imenu uporabnikov z uporabo PowerShell**. Sporočila iz centra za admin ne more spomniti. Če želite več informacij, se pomaknite navzdol do "Iskanje in brisanje e-poštnih sporočil v vaši organizaciji".
+- Prikličete lahko **samo sporočila, poslana osebam v vaši organizaciji**. Če je bilo sporočilo poslano v Gmailov naslov, ga na primer ne morete spomniti.
+- Lahko **samo odpoklic sporočil, poslanih iz outlooka 2016 za PC**. Če uporabnik pošlje sporočilo z Outlookom za Mac ali Outlook v spletu, ga ne morete spomniti.
+- Če ste skrbnik, lahko **v imenu uporabnikov odpokličejo sporočila z uporabo lupine PowerShell**. Ne morete se spomniti sporočil iz skrbniškega centra. Za več informacij se pomaknite navzdol do» iskanje in brisanje e-poštnih sporočil v organizaciji «.
 
-**Preklic ali zamenjava e-poštno sporočilo, ki ste jo poslali**
+**Preklic ali zamenjava e-poštnega sporočila, ki ste ga poslali**
 
-1. V podoknu z mapami na levi strani Outlookovega okna, izberite mapo Poslano.
-2. Odprite sporočilo, ki ga želite spomniti. Morate klikniti dvakrat, da odprete sporočilo. Izbiri sporočila, tako da se prikaže v podoknu za branje ne omogočajo Preklic sporočila.
-3. Na kartici sporočilo, izberite **dejanja** > **Opozoriti na to sporočilo**.
-4. Izberite **izbrisati neprebrane kopije tega sporočila** ali **izbrisati neprebrane kopije in zamenjati z novim sporočilom**, nato pa izberite **OK**.
-5. Če pošiljate sporočilo zamenjavo, sestaviti sporočilo, nato pa izberite **Pošlji**.
-6. Uspeh ali neuspeh Preklic sporočila je odvisna od nastavitve prejemnikov v Outlooku.
+1. V podoknu map na levi strani Outlookovega okna izberite mapo Poslani predmeti.
+2. Odprite sporočilo, ki ga želite opozoriti. Če želite odpreti sporočilo, ga dvokliknite. Če izberete sporočilo tako, da se prikaže v podoknu za branje, ne boste dovolili, da se sporočilo spomni.
+3. Na jezičku sporočilo izberite **dejanja** > , ki se**spominjajo tega sporočila**.
+4. Izberite **Izbriši neprebrane kopije tega sporočila** ali **izbrišite neprebrane kopije in zamenjajte novo sporočilo**, nato pa izberite **v redu**.
+5. Če pošiljate nadomestno sporočilo, sestavite sporočilo in izberite **Pošlji**.
+6. Uspeh ali neuspeh sporočila odpoklic je odvisna od prejemnikov nastavitve v Outlooku.
 
-Če želite več informacij, vključno s kako preverite na odpoklic, [preklic](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)ali Zamenjaj e-poštno sporočilo, ki ste jo poslali.
+Če želite več informacij, vključno s tem, kako preverite odpoklic, glejte [odpoklic ali zamenjajte e-poštno sporočilo, ki ste ga poslali](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***Iskanje in brisanje e-poštnih sporočil v vaši organizaciji*** Iskanje in brisanje e-poštnih sporočil v vaši organizaciji, je najlažje, če ste svetovni admin. Če niste svetovnih admin, vaš račun je treba dodati skupini eDiscovery upravitelja vlog ali skladnost iskanje upravljalne vloge. Èe ¾elite zbrisati sporoèila, boste morali pridružiti skupine vlog »Upravljanje organizacije «ali iskanje in Počisti upravljalne vloge. Dovoljenja za te vloge so dodeljeni v [varnostni & skladnosti center](https://protection.office.com/).
+***Iskanje in brisanje e-poštnih sporočil v organizaciji*** Če želite poiskati in izbrisati e-poštna sporočila v organizaciji, je najlažje, če ste globalni skrbnik. Če niste globalni skrbnik, morate račun dodati v skupino vlog upravitelja e-odkrivanja ali v vlogo za upravljanje iskanja po skladnosti. Če želite izbrisati sporočila, se morate pridružiti skupini vlog za upravljanje organizacije ali funkciji za upravljanje iskanja in čiščenja. Dovoljenja za te vloge so dodeljena v [središču za skladnost varnostnega &](https://protection.office.com/).
 
-1. [Ustvari vsebino iskanje](https://docs.microsoft.com/office365/securitycompliance/content-search) najti sporočilo za brisanje.
-2. [Povezavo z varnostno & Center skladnosti PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [Ustvarite iskanje po vsebini](https://docs.microsoft.com/office365/securitycompliance/content-search) in poiščite sporočilo, ki ga želite izbrisati.
+2. [Povežite se z varnostno & PowerShell center za skladnost](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-Če uporabljate MFA, glejte [Vzpostavljanje povezave za Office 365 varnost & skladnosti Center PowerShell z uporabo multi-overjanja](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+Če uporabljate MFP, glejte [Vzpostavljanje povezave s programom Microsoft 365 security & PowerShell center za skladnost z uporabo večfaktorskega preverjanja pristnosti](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

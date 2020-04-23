@@ -1,9 +1,9 @@
 ---
-title: 8000090 Outlook.com Izberi vse
+title: 8000090 Outlook.com izberite vse
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 6efc18bb8c906f273083026985ec21acfe0429ee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc4bf01b12e3864fc0112ef3e20410d2f7ccb0b5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535335"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743613"
 ---
-# <a name="how-to-select-all-in-outlookcom"></a>Kako "Izberi vse" v Outlook.com
+# <a name="how-to-select-all-in-outlookcom"></a>Kako "izbrati vse" v Outlook.com
 
-Vse lahko izberete, če vsa sporočila vidna. To je za preprečevanje nenamernega dejanja na sporočila, ki ne vidite.
+Izberete lahko samo, če so vsa sporočila vidna. S tem preprečite nenamerna dejanja na sporočilih, ki jih ne vidite.
 
-**CTRL + klik** izbere več posamezna sporočila.
+**CTRL + klik** izbere več posameznih sporočil.
 
-**SHIFT + klik** izberete vsa sporočila med prvo in zadnje sporočilo izberete.
+**SHIFT + klik** izbere vsa sporočila med prvim in zadnjim sporočilom, ki ga izberete.

@@ -1,9 +1,9 @@
 ---
-title: Pravilniki o hranjenju v Exchange Admin Center ne deluje
+title: Pravilniki o hranjenju v skrbniškem središču za Exchange ne delujejo
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,53 +12,53 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 5d7b62546397c13b37540e8797b31123b2880280
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e2fb22f872be0eefc3b4b78b18cd09baffa66cda
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551359"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742449"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>Pravilniki o hranjenju v skrbniškem središču za izmenjavo
+# <a name="retention-policies-in-exchange-admin-center"></a>Pravilniki o hranjenju v skrbniškem središču Exchange
 
- **Izdaje:** Na novo ustvarjeno ali posodobljeno zadrževanja v skrbniškem središču za izmenjavo ne veljajo za nabiralnike ali artikli ne premesti arhivskega nabiralnika ali izbrisati. 
+ **Vprašanje:** Na novo ustvarjene ali posodobljene pravilnike o hranjenju v skrbniškem središču za Exchange se ne uporabljajo za nabiralnike ali artikle, ki niso premaknjeni v arhivski nabiralnik ali izbrisani. 
   
- **Vzrokov:**
+ **Temeljni vzroki:**
   
-- To se lahko ker je **Pomočnik upravljane mape** ni predelana uporabnikovega nabiralnika. Pomočnik za upravljane mape Windows poskusi obdelati vse nabiralnike v organizaciji oblaku enkrat vsakih sedem dni. Če spremenite oznako za hranjenje ali uporabljajo pravilnik z nabiralnikom, lahko počakate, dokler uspelo mape pomagajo obdela nabiralnik, ali lahko zaženete ukaz cmdlet Start-ManagedFolderAssistant začeti pomočnik za upravljane mape za obdelavo določenega nabiralnik. Teče ta ukaz »cmdlet« je namenjen preskušanju ali odpravljanju pravilnika o hranjenju ali tag nastavitve hranjenja. Če želite več informacij, obiščite [prost dostop pomočnik za upravljane mape](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- To je morda zato, ker **pomočnik za upravljane mape** ni obdelal uporabnikovega nabiralnika. Pomočnik za upravljane mape poskuša obdelati vsak nabiralnik v organizaciji v oblaku vsakih sedem dni. Če spremenite oznako za hranjenje ali v nabiralnik uporabite drug pravilnik o hranjenju, lahko počakate, da postopek pomoči za upravljano mapo obdela nabiralnik, lahko pa zaženete ukaz» cmdlet «Start-ManagedFolderAssistant, da zaženete pomočnika za upravljane mape, da obdela določen nabiralnik. Zagon tega ukaza» cmdlet «je uporaben za preskušanje ali odpravljanje težav z nastavitvami pravilnika o hranjenju ali oznake za hranjenje. Če želite več informacij, preberite [zagon pomočnika za upravljane mape](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **Raztopina:** Prost dostop sledeč zapoved v začetek pomočnik za upravljane mape za določen nabiralnik:
+  - **Rešitev:** Zaženite ta ukaz, da zaženete pomočnika za upravljane mape za določen nabiralnik:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- Pojavi se to lahko tudi, če **RetentionHold** je bila **omogočena** v nabiralniku. Če nabiralnik je postavljena na RetentionHold, s pravilnikom o hranjenju, v nabiralniku ne bo obdelan v tem času. Za več informacije na RetentionHold nastavitev glej: [Nabiralnik hranjenja čakanje](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- To se lahko zgodi tudi, če je bil v nabiralniku **omogočen** **RetentionHold** . Če je bil nabiralnik postavljen na RetentionHold, pravilnik o hranjenju v nabiralniku v tem času ne bo obdelan. Za več informacij o nastavitvi RetentionHold glejte: [zadržanje hranjenja nabiralnika](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
     **Rešitev:**
     
-  - Preverite stanje RetentionHold nastavitev na določen nabiralnik v [EKSO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
+  - Preverite stanje nastavitve RetentionHold v določenem nabiralniku v [exo PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - Prost dostop sledeč zapoved v **onesposobiti** RetentionHold na določen naslov:
+  - Zaženite ta ukaz, da **onemogočite** RetentionHold v določenem nabiralniku:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
   ```
 
-  - Zdaj, znova zaženite upravljane mape pomočnik:
+  - Zdaj znova zaženite pomočnika za upravljane mape:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **Opomba:** Če nabiralnik je manjši od 10 MB, pomočnik za upravljane mape bo samodejno obdela nabiralnik.
+ **Opomba:** Če je nabiralnik manjši od 10 MB, pomočnik za upravljane mape ne bo samodejno obdelal nabiralnika.
  
-Za več informacij o pravilniki o hranjenju v skrbniškem središču Exchange, glejte:
+Če želite več informacij o pravilnikih hranjenja v skrbniškem središču za Exchange, glejte:
 - [Oznake za hranjenje in pravilniki o hranjenju](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [Uporablja pravilnik o hranjenju za nabiralnike](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [Dodajanje ali odstranitev oznake za hranjenje](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [Kako ugotoviti vrsto drži dano na nabiralnik](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+- [Uporaba pravilnika o hranjenju za nabiralnike](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [Dodajanje ali odstranjevanje oznak za hranjenje](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [Kako prepoznati vrsto zadržanja, danega v nabiralnik](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)

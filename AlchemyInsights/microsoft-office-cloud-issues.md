@@ -1,5 +1,5 @@
 ---
-title: Skrbniška vloga in kako dodeliti
+title: Skrbniška vloga in dodelitev
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: c734b2707003a17e6ac88f32ca28adc4e96e139a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8bc63bd52b1d6a9a7913f025c9dc3390ffbb023f
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054790"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762369"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Imate težave s storitvijo v oblaku?
 
@@ -23,5 +23,5 @@ ms.locfileid: "40054790"
 
 **Pravilnik o obveščanju**
 
-Ko pride do storitve, Microsoft prepozna, da so pravočasne, ciljno usmerjene in točne komunikacije ključne za kupce. Microsoft obvesti skrbnike sistema Office 365 tako, da posodobi nadzorno ploščo storitve za posamezne najemnike [(SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na skrbniškem portalu Office 365. Posodobitve servisnih incidentov so na voljo na urni kadenci ali, če je potrebna drugačna Kadenca, bo navedeno v komunikaciji SHD komunikacije. Če želite več informacij, glejte [kako preverite Office 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Ko pride do storitve, Microsoft prepozna, da so pravočasne, ciljno usmerjene in točne komunikacije ključne za kupce. Microsoft obvesti skrbnike tako, da posodobi [nadzorno ploščo za storitev](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , specifično za najemnike, na portalu Microsoft 365 admin portal. Posodobitve servisnih incidentov so na voljo na urni kadenci ali, če je potrebna drugačna Kadenca, bo navedeno v komunikaciji SHD komunikacije. Če želite več informacij, glejte [kako preverite Microsoft 365 Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health).
 

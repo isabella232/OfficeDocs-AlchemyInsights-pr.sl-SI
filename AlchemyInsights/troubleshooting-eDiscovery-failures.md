@@ -1,9 +1,9 @@
 ---
-title: 1490-odpravljanje težav-eDiscovery-napak
+title: 1490-odpravljanje težav-eDiscovery-napake
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 88122d778f7def962ee0f574e3c14f602387ae0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fbca97d06508c316612139ca42c04fb7ee5445f7
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559389"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759600"
 ---
-# <a name="troubleshoot-content-search-errors"></a>Odpravljanje težav z vsebino iskanje napak
+# <a name="troubleshoot-content-search-errors"></a>Odpravljanje napak pri iskanju vsebine
 
-Ko izvozite rezultate iskanja, ali prihaja do težav z vsebino iskanje v Office 365 ali pridobivanje napak?
+Ali imate težave z iskanjem vsebine ali ko izvažate rezultate iskanja?
 
-Na primer, ste prejemali naslednji čas tekmovanje v teku iskanja?
+Ali na primer pri zagonu iskanja prejemate naslednje?
 
 - CS008 ali CS012 napake
 
-- Strežnik zaseden čas zmota
+- Napake strežnika zaseden/timeout
 
-- Napaka vloge
+- Prišlo je do napake aplikacije
 
-Ali pri iskanju ali izvoz rezultatov iz velikega števila nabiralnikov (več kot 100.000 nabiralnikov), ali dobivate izvoz napake?
+Ali ko iščete ali izvažate rezultate iz velikega števila nabiralnikov (več kot 100.000 nabiralnikov), ali ste dobili izvozne napake?
 
-Za te vrste napak, ponovite iskanje vsebine mesta, ki niso uspeli. Glej [Ta članek](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) za več informacij.
+Za te vrste napak poskusite znova poiskati mesta vsebine, ki niso uspela. Za več informacij glejte [Ta članek](https://docs.microsoft.com/office365/securitycompliance/retry-failed-content-search) .
