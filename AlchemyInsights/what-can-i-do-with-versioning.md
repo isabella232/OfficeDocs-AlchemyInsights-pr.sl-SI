@@ -1,30 +1,30 @@
 ---
-title: Kaj lahko storite z različice?
+title: Kaj lahko storim z Versioning?
 ms.author: toresing
 author: tomresing
-ms.date: 6/21/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 36c890c4-cafc-4409-8887-4a5c039692e3
-ms.openlocfilehash: d479b44e9ef858b0279f2d7e053132a877aabbd2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b86d815bb1e2e34474df9237c24c254c57f56aeb
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531339"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765357"
 ---
-# <a name="what-can-i-do-with-versioning"></a>Kaj lahko storite z različice?
+# <a name="what-can-i-do-with-versioning"></a>Kaj lahko storim z Versioning?
 
-Uporabite lahko različice SharePointovih seznamov in knjižnic:
+Z različic na SharePointovih seznamih in v knjižnicah lahko uporabite:
   
-- **Proge Zgodovina različice**. Ko je omogočeno shranjevanje različic, lahko vidite, kdaj je bil spremenjen element ali datoteko in kdo je spremenil. Vidite lahko tudi, ko so bile spremenjene lastnosti (informacije o datoteki). Na primer, če nekdo spremeni datum zapadlosti element seznama, da podatki so prikazani v zgodovino različic. Ogledate si lahko tudi komentarje ljudi, da ob sprostitvi datoteke v knjižnicah. 
+- **Zgodovino skladbe različice**. Ko je omogočena možnost različic, lahko vidite, kdaj je bil element ali datoteka spremenjena in kdo ga je spremenil. Ogledate si lahko tudi, kdaj so bile lastnosti (informacije o datoteki) spremenjene. Če na primer nekdo spremeni datum zapadlosti elementa seznama, se te informacije prikažejo v zgodovini različic. Ogledate si lahko tudi komentarje, ki jih ljudje naredijo, ko preverijo datoteke v knjižnicah. 
     
-- **Obnovite prejšnjo različico**. Če ste se zmotili v sedanji različici, če trenutna različica je poškodovana, ali če preprosto želite prejšnjo različico bolje, lahko trenutno različico zamenjati s prejšnjo. Obnovljeno različico postane nov tok prevod. 
+- **Obnovite prejšnjo različico**. Če ste napako v trenutni različici, če je trenutna različica poškodovana, ali če ste preprosto všeč prejšnjo različico bolje, lahko zamenjate trenutno različico s prejšnjim. Obnovljena različica postane nova trenutna različica. 
     
-- **Ogled prejšnje različice**. Si lahko ogledate prejšnjo različico, ne da bi izbrisali trenutno različico. Če pregledujete zgodovino različice v Microsoft Officeov dokument, na primer Word ali Excel datotek, lahko primerjate dve različici ugotoviti, kakšne so razlike. 
+- **Ogled prejšnje različice**. Prejšnjo različico si lahko ogledate brez prepisovanju trenutne različice. Če si ogledujete zgodovino različic v Microsoft Officeovem dokumentu, kot je Wordova ali Excelova datoteka, lahko primerjate dve različici, da ugotovite, kaj so razlike. 
     
-[Več o delovanju različic v SharePoint Online](https://go.microsoft.com/fwlink/?linkid=875710)
+[Preberite več o tem, kako deluje različic v SharePoint online](https://go.microsoft.com/fwlink/?linkid=875710)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Potrebujete pomoč za Microsoft 365 Business Voice?
+title: Potrebujete pomoč pri Microsoftu 365 Business Premium Voice?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 55490f1e04f02af83d0ce786543117aa48ecb340
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: c9bcc02a31fc9afccee46839af3665d2bdaac0cf
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600472"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761974"
 ---
-# <a name="need-help-with-microsoft-365-business-voice"></a>Potrebujete pomoč za Microsoft 365 Business Voice?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Potrebujete pomoč pri Microsoftu 365 Business Premium Voice?
 
-Microsoft 365 Business Voice omogoča malim in srednjim organizacijam preprosto, da Microsoft Teams spremenijo v zmogljiv in prilagodljiv telefonski sistem. Če želite več informacij o programu Business Voice, glejte [Kaj je Microsoft 365 Business Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Mikroskop 365 posel nagrada izgovoriti pomožen to neprisiljen zakaj tesen ter sreden društvo vrteti mikroskop skupina v a silen ter upogljiv telefon sistem. Če želite več informacij o programu Business Voice, glejte [Kaj je Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-Če ste že pridobili Microsoft 365 Business Voice, vam [Čarovnik za začetek](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) lahko pomaga pri pridobivanju stvari. 
+Če ste že pridobili Microsoft 365 Business Premium Voice, vam čarovnik za uvod lahko pomaga pri [pridobivanju](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) stvari. 

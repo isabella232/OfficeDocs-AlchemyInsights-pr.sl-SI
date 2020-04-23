@@ -14,12 +14,12 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 1d4dc46bcb0d0448169c534581b39d37e67bfbe0
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769859"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765213"
 ---
 # <a name="where-is-power-pivot"></a>Kje je Power pivot?
 
@@ -33,7 +33,7 @@ Vse različice Excela ne vključujejo Power pivot. Boste morali nadgraditi na ra
   
 Če delate v različici Excela, ki podpira Power pivot, preverite, ali je dodatek omogočen:
   
-1. Izberite **** \> **** možnosti \> datoteke **dodatki**.
+1. Izberite **File** \> **Options** možnosti \> datoteke **dodatki**.
 
 2. V pogovornem oknu **upravljanje** spustnega polja izberite **com Add-ins** in kliknite **Pojdi**.
 
@@ -41,4 +41,4 @@ Vse različice Excela ne vključujejo Power pivot. Boste morali nadgraditi na ra
 
 **Imate več naročnin ali računov**
   
-Morda imate različne naročnine za Office 365, dodeljene različnim uporabniškim računom. Prepričajte se, da ste prijavljeni v račun z različico Excela, ki podpira Power pivot. Preverite seznam [podprtih različic](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)in sledite navodilom za [preklapljanje med različnimi Officeovimi računi](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Morda imate drugačne naročnine za Microsoft 365, dodeljene različnim uporabniškim računom. Prepričajte se, da ste prijavljeni v račun z različico Excela, ki podpira Power pivot. Preverite seznam [podprtih različic](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)in sledite navodilom za [preklapljanje med različnimi Officeovimi računi](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

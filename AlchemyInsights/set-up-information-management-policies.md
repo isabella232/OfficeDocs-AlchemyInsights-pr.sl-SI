@@ -1,30 +1,30 @@
 ---
-title: Nastavite pravilnike za upravljanje informacij
+title: Nastavitev pravilnikov za upravljanje informacij
 ms.author: stevhord
 author: bentoncity
-ms.date: 6/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 253110c8-ed8e-4485-b40b-0b344843762a
-ms.openlocfilehash: 3c4487c613d53e8b0e6b8f7a146c2ac988424e89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cef833cfe39cc7f7fc01f19019f56f7675d24733
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550027"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767553"
 ---
-# <a name="set-up-information-management-policies"></a>Nastavite pravilnike za upravljanje informacij
+# <a name="set-up-information-management-policies"></a>Nastavitev pravilnikov za upravljanje informacij
 
-1. Če je mesto SharePoint ima podmesta, prebrskajte do mesta najvišje ravni.
+1. Če ima SharePointovo mesto podmesta, poiščite mesto najvišje ravni.
     
-2. Kliknite **Nastavitve**in nato kliknite **Nastavitve mesta**. Če spletno mesto Office 365 skupina povezanih strani, kliknite **Nastavitve**, kliknite **Stran vsebine**in kliknite **Nastavitev mesta**.
+2. Kliknite **Nastavitve**in nato **Nastavitve mesta**. Če je mesto na mestu, ki je povezano s skupino Office 365, kliknite **Nastavitve**, kliknite **Vsebina mesta**in nato **Nastavitve mesta**.
     
-3. Odseku **Skrbništvo zbirke mest**kliknite **funkcije zbirke mest**.
+3. V razdelku **skrbništvo zbirke mest**kliknite **funkcije zbirke mest**.
     
-4. **V mestu Records Management**, kliknite **Aktiviraj**.
+4. **V razdelku upravljanje zapisov mesta**kliknite **Aktiviraj**.
     
-Za več informacij, glejte [Uvod v pravilnikov za upravljanje informacij](https://go.microsoft.com/fwlink/?linkid=404239) in [Ustvarjanje in uporabo pravilnikov za upravljanje informacij](https://go.microsoft.com/fwlink/?linkid=2003916).
+Če želite več informacij, glejte [Uvod v pravilnike za upravljanje informacij](https://go.microsoft.com/fwlink/?linkid=404239) ter [Ustvarjanje in uporaba pravilnikov o upravljanju informacij](https://go.microsoft.com/fwlink/?linkid=2003916).
   
 

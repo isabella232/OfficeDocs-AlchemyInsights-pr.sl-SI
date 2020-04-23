@@ -1,5 +1,5 @@
 ---
-title: Selitev podatkov javne mape v Office 365
+title: Selitev podatkov javne mape v Microsoft 365
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -11,18 +11,18 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 85bef3ac5f590a57ead16cb73c7961fcb0ee8eae
-ms.sourcegitcommit: 198defbbed20dd9db3f7c044c6e77a8feb05dacd
+ms.openlocfilehash: b9659f657555411ffd87a63bc099708b49d46300
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/22/2019
-ms.locfileid: "39202610"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762153"
 ---
-# <a name="migrate-public-folder-data-to-office-365"></a>Selitev podatkov javne mape v Office 365
+# <a name="migrate-public-folder-data-to-microsoft-365"></a>Selitev podatkov javne mape v Microsoft 365
 
-Če vi dont ' življati veliko od obačen zložljiv binokel v privleči v urad 365, najlažji izuriti za hojo ali ježo po poti v privleči jih domišljavec v ulitek novice v. PST datoteke in jih nato uvozite v Office 365. Za majhne količine podatkov, preprosto povlecite in spustite javne mape v a. PST datoteka je lahko zadostna. Če imate več podatkov, kot da (do 30GB), smo [dokumentirani proces](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , ki ga lahko uporabite za izvoz mape v datoteke PST.
+Če nimate veliko javnih map, da bi v Microsoft 365, najlažji način, da bi jih bilo treba kopirati podatke v. PST datoteke in jih nato uvozite v Microsoft 365. Za majhne količine podatkov, preprosto povlecite in spustite javne mape v a. PST datoteka je lahko zadostna. Če imate več podatkov, kot da (do 30GB), smo [dokumentirani proces](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) , ki ga lahko uporabite za izvoz mape v datoteke PST.
   
-Za večje organizacije, ki se gibljejo javne mape v Office 365, imamo vodnike na voljo:
+Za večje organizacije, ki se gibljejo javne mape v Microsoft 365, imamo vodnike na voljo:
   
 - [Selitev podedovanih javnih map](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/batch-migration-of-legacy-public-folders) (Exchange 2010)
 

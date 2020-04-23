@@ -1,5 +1,5 @@
 ---
-title: Učinkovitost selitve v SharePoint
+title: Navodila za izvedbo SharePointove selitve
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,25 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2700"
-ms.openlocfilehash: ae62607bf5991eb8fd8764ebad64da040389df6b
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+- "3179"
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958770"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789318"
 ---
-# <a name="sharepoint-migration-performance"></a>Učinkovitost selitve v SharePoint
+# <a name="sharepoint-migration-performance-guidance"></a>Navodila za izvedbo SharePointove selitve
 
-**Pomembno**: med temi nepredvidljivimi časi sprejemamo ukrepe, s katerimi skrbimo, da storitvi SharePoint Online in OneDrive ostajata dobro razpoložljivi. Če želite več informacij, si oglejte razdelek [Začasne prilagoditve funkcij storitve SharePoint Online](https://aka.ms/ODSPAdjustments).
+Na učinkovitost selitve lahko vpliva infrastruktura omrežja, velikost datoteke, čas selitve in omejevanje zmogljivosti.
 
-**Učinkovitost selitve**
+Če želite več informacij, obiščite spletno mesto:
 
-Na učinkovitost selitve lahko vpliva infrastruktura omrežja, velikost datoteke, čas selitve in omejevanje zmogljivosti. Če boste imeli več informacij o teh dejavnikih, boste lahko bolje načrtovali in povečali učinkovitost selitve.
-
-Več informacij najdete prek povezav spodaj.
-
-- [Hitrost selitve storitve Sharepoint Online in ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Splošna navodila za učinkovito selitev](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [Izognite se omejitvam zmogljivosti ali blokiranju v storitvi SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [Prenesite in namestite orodje SharePointovo orodje za selitev](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)

@@ -2,7 +2,7 @@
 title: Različice v SharePointu in storitvi OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/07/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,12 +12,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 167c0fde2f09d4ba2f2f2b583eea849670fdb8c5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: e578dc3b19c573335c0e90cc0f84d5c6c1b1c889
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044239"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767409"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Različice v SharePointu in storitvi OneDrive 
 
@@ -39,6 +39,6 @@ Za več informacij o različic obiščite spodnje članke.
 - [Omejitve različic](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Če ste stranka Office 365, je pri ustvarjanju novih knjižnic v storitvi OneDrive za podjetja privzeta nastavitev različic privzeto vklopljena in samodejno shrani zadnje 500 različice dokumenta. To vam bo pomagalo preprečiti izgubo pomembnih dokumentov ali podatkov. Če imate obstoječe knjižnice na spletnem mestu OneDrive za podjetja ali na mestu ekipe, ki nima omogočenih različic, lahko kadar koli vklopite različice.
+>Če ste stranka Microsoft 365, so različice privzeto vklopljene, ko ustvarjate nove knjižnice OneDrive za podjetja, in samodejno shrani zadnjih 500 različic dokumenta. To vam bo pomagalo preprečiti izgubo pomembnih dokumentov ali podatkov. Če imate obstoječe knjižnice na spletnem mestu OneDrive za podjetja ali na mestu ekipe, ki nima omogočenih različic, lahko kadar koli vklopite različice.
 
 

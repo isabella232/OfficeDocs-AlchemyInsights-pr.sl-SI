@@ -1,5 +1,5 @@
 ---
-title: Odstranitev številke klicne konference za aplikacijo Teams
+title: Odstranitev klicne številke za klicne konference za aplikacijo Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,17 +10,17 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002248"
-- "4540"
-ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+- "4352"
+ms.openlocfilehash: 5677d41c37f3114f40c2fae7cb0fd48c040813a6
 ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: sl-SI
 ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784815"
+ms.locfileid: "43789030"
 ---
-# <a name="remove-teams-dial-in-conferencing-number"></a>Odstranitev številke klicne konference za aplikacijo Teams
+# <a name="teams-dial-in-conferencing-number-removal"></a>Odstranitev klicne številke za klicne konference za aplikacijo Teams
 
-Ali potrebujete pomoč pri odstranjevanju številke klicne konference z mosta? Ali je število, ki ga želite registrirati, trenutno privzeto število? Če je odgovor pritrdilen, boste morali najprej spremeniti privzeto število konferenčnih mostov.
+Ali potrebujete pomoč pri odstranjevanju številke klicne konference z mosta? Ali je številka, ki jo želite odstraniti, trenutno privzeta številka? Če je odgovor pritrdilen, boste morali najprej spremeniti privzeto število konferenčnih mostov.
 
 Privzeta telefonska številka za konferenčni most določa ID klicatelja, ki bo uporabljen, ko je odhodni klic shranjen v udeležencu ali organizatorju znotraj sestanka.
 
@@ -28,7 +28,7 @@ Privzeta telefonska številka za konferenčni most določa ID klicatelja, ki bo 
 
 2. Obiščite **skrbniško središče za Microsoft 365**.
 
-3. Pojdite v **Skrbniška središča | Teams in Skype **.
+3. Pojdite v **Skrbniška središča > Teams in Skype **.
 
 4. Pojdite na **Meetings**.
 
@@ -36,10 +36,10 @@ Privzeta telefonska številka za konferenčni most določa ID klicatelja, ki bo 
 
 6. Označite številko cestnine storitve, ki jo želite konfigurirati kot privzeto.
 
-7. Izberite **Nastavi kot privzeto**.
+7. Kliknite **Nastavi kot privzeto**.
 
 Če želite več informacij, glejte [spremenite telefonske številke na mostu zvočnih konferenc](https://docs.microsoft.com/microsoftteams/change-the-phone-numbers-on-your-audio-conferencing-bridge).
 
-Sorodni viri:
+**Sorodni viri**
 
-- [Spreminjanje nastavitev za most zvočne konference](https://docs.microsoft.com/microsoftteams/change-the-settings-for-an-audio-conferencing-bridge)
+[Spreminjanje nastavitev za most zvočne konference](https://docs.microsoft.com/microsoftteams/change-the-settings-for-an-audio-conferencing-bridge)

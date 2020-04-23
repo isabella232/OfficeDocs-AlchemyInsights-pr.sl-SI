@@ -1,9 +1,9 @@
 ---
-title: SharePoint Online, so ukinjena javnih spletnih strani
+title: Spletna mesta SharePoint online se ukinijo
 ms.author: clake
-author: spowriter
+author: pebaum
 manager: scotv
-ms.date: 1/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: db37089c11842c070b6bfbbb6f668aa392fd9b2c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f9327b7ba506790549ae3215cd84606d3645703a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36507611"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764313"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint Online, so ukinjena javnih spletnih strani
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>Spletna mesta SharePoint online se ukinijo
 
-Če ste ustvarili SharePoint Online javno spletno stran, lahko nadaljujete z uporabo do 31. marca 2018. Če želite nadaljevati z javne spletne strani, morate ustvariti novega z novega ponudnika. Vsebine na spletnem SharePoint Online javno bodo izbrisane, zato morate kopirati vse vsebine, ki jih želite obdržati.
+Če ste ustvarili javno spletno mesto SharePoint online, ga lahko še naprej uporabljate do marca 31, 2018. Če želite nadaljevati z javnim spletnim mestom, morate ustvariti novega z novim ponudnikom. Vsebina na javnem spletnem mestu SharePoint online bo izbrisana, zato morate kopirati poljubno vsebino, ki jo želite obdržati.
   
-Banner je zdaj prikazana na vrhu vaše SharePoint Online javne spletne strani kot obvestilo, da bo treba odstraniti stran. Ne morete izklopiti pasico. Informacij o shranjevanje in kopiranje vsebine spletne strani partnerja, si oglejte [podrobnosti o funkcija prekinitev procesa](https://go.microsoft.com/fwlink/?linkid=866980).
+Banner je zdaj na vrhu spletnega mesta SharePoint online prikazan kot obvestilo, da bo spletno mesto odstranjeno. Ne moreš izklopiti te transparente. Če želite informacije o shranjevanju in kopiranju vsebine na partnersko spletno mesto, glejte [podrobnosti o postopku prekinitve funkcije](https://go.microsoft.com/fwlink/?linkid=866980).
   
