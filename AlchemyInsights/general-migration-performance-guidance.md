@@ -11,19 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3179"
-ms.openlocfilehash: 4f8e20090521ebe1808bb66717108e479cf68892
-ms.sourcegitcommit: 926e4ab6aa64ddc7a244de633421eb2b817541f2
+ms.openlocfilehash: 6c56f07e986ca776600120560e53587371341185
+ms.sourcegitcommit: e6e9340a19ea7ac0a54fa941507904b4859b9ef7
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42958554"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43537757"
 ---
 # <a name="general-migration-performance-guidance"></a>Splošna navodila za učinkovitost selitve
 
+
 **Pomembno**: med temi nepredvidljivimi časi sprejemamo ukrepe, s katerimi skrbimo, da storitvi SharePoint Online in OneDrive ostajata dobro razpoložljivi. Če želite več informacij, si oglejte razdelek [Začasne prilagoditve funkcij storitve SharePoint Online](https://aka.ms/ODSPAdjustments).
 
-**Navodila za učinkovito selitev**
+**Možnosti selitve**
 
-Na učinkovitost selitve lahko vpliva infrastruktura omrežja, velikost datoteke, čas selitve in omejevanje zmogljivosti. Če boste imeli več informacij o teh dejavnikih, boste lahko bolje načrtovali in povečali učinkovitost selitve.
+Za selitev vsebine v SharePoint Online so na voljo različne možnosti, odvisno od velikosti in količine datotek, ki jih potrebujete za selitev. Oglejte si seznam možnosti, ki ga [najdete tukaj](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-- [Splošna navodila za učinkovito selitev](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+Za več informacij o selitvi vsebine obiščite spodnje povezave.
+
+- [Orodje za selitev SharePointa](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+
+- [Uvod v Upravitelja selitve](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+
+- [Mover](https://mover.io/)
