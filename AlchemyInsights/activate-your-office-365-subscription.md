@@ -1,5 +1,5 @@
 ---
-title: Aktiviranje naročnine na Office 365
+title: Aktiviranje naročnine na Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: a2ecbb8c3f0acd59156695e36ee62b2416111ba4
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 4a7bf12b7fe895d6aa930a7e1fb679b05a52c704
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191081"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784023"
 ---
-# <a name="activate-your-office-365-subscription"></a>Aktiviranje naročnine na Office 365
+# <a name="activate-your-subscription"></a>Aktiviranje naročnine
 
 **Aktiviranje naročnine**
 
@@ -30,9 +30,9 @@ ms.locfileid: "43191081"
 
 **Vnovična aktivacija naročnine**
 
-Če naročnina poteče ali jo onemogoči Microsoft ali ste jo preklicali sredi naročniškega obdobja, jo lahko znova aktivirate v skrbniškem središču za Office 365.
+Če naročnina poteče ali jo Microsoft onemogoči, ali pa jo prekličete sredi naročniškega obdobja, jo lahko znova aktivirate v skrbniškem središču za Microsoft 365.
 
-- V skrbniškem središču za Office 365 odprite stran [Naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) (ali kliknite **Obračunavanje > Naročnine**).
+- V skrbniškem središču za Microsoft 365 odprite stran [Naročnine](https://go.microsoft.com/fwlink/p/?linkid=842054) (ali kliknite **Obračunavanje > Naročnine**).
 
 - Izberite naročnino, ki jo želite znova aktivirati, in kliknite **Znova aktiviraj**. Če možnost **Znova aktiviraj** ni prikazana, [pokličite podporo](https://support.office.com/article/call-support-32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b), naj vam znova aktivira vašo naročnino.
 
@@ -42,6 +42,6 @@ ms.locfileid: "43191081"
 
 **Aktiviranje nove naročnine s ključem izdelka**
 
-- Če želite aktivirati novo naročnino na Office 365 s ključem izdelka, začnite [tukaj](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
+- Če želite novo naročnino na Microsoft 365 aktivirati s ključem izdelka, začnite [tukaj](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db).
 
-- Vnesite ključ izdelka za Office 365 in upoštevajte navodila za aktiviranje naročnine. Če imate težave z aktiviranjem, si oglejte ta seznam [pogostih napak ključa izdelka in rešitev](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
+- Vnesite ključ izdelka za Microsoft 365 in upoštevajte navodila za aktiviranje naročnine. Če imate težave z aktiviranjem, si oglejte ta seznam [pogostih napak ključa izdelka in rešitev](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions).
