@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: 4bcf450b43ec2c27d7c47ee211c32d614bfedae3
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: fb035b28fa3c1a61c27138d1b5d819acae264141
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37590438"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911954"
 ---
 # <a name="microsoft-teams-permissions"></a>Dovoljenja za Microsoft Teams
 
-Microsoft Teams vključuje dve uporabniški vlogi: lastnika in člana. Uporabnik, ki ustvari novo ekipo, privzeto dodeli status lastnika. Poleg tega imajo lahko lastniki in člani moderatorske zmogljivosti za kanal (če je bila nastavljena zmernost). Če je skupina ustvarjena iz obstoječe skupine Office 365, so dovoljenja podedovana. Če želite več informacij, glejte:
+Microsoft Teams vključuje dve uporabniški vlogi: lastnika in člana. Uporabniku, ki ustvari novo skupino, je privzeto dodeljen status lastnika. Poleg tega imajo lahko lastniki in člani moderatorske zmogljivosti za kanal (če je bila nastavljena zmernost). Če je skupina ustvarjena iz obstoječe skupine Microsoft 365, so dovoljenja podedovana. Če želite več informacij, si oglejte:
 
 - [Dodeljevanje lastnikov in članov ekipe v programu Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
 - [Dovoljenja in premisleki aplikacije Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)

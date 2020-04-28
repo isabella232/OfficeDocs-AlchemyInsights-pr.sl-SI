@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: e40d4b866d4a2d70e83b5addf8de2690c04eaffc
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 730346beebb248e5f1e1200e73bf20931f8b2309
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709423"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908864"
 ---
 # <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Dodajanje prosojnice v SharePointov koledar
 
-SharePointovi koledarji so klasične vrste seznamov, ki se včasih zamenjajo z Officeovimi koledarji skupin 365.
+SharePointovi koledarji so klasične vrste seznamov, ki so včasih zamenjujejo z Microsoft 365 skupinski koledarji.
  
 Če na spletnem mestu uporabljate SharePointov koledar, lahko na njem prekrijete svoj koledar Exchange, da ustvarite kombinirani pogled koledarja. Lahko pa tudi prekrivata drug SharePointov koledar, dokler sta SharePointovi koledarji v isti zbirki mest.
  

@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: c31415c4191ebcf50acc8095de3ba6cf31661aa9
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191116"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789462"
 ---
 # <a name="transfer-licenses-between-tenants"></a>Prenos licenc med najemniki
 
-Licenc za Office 365 ni mogoče prenašati med dvema organizacijama (najemnikoma). 
+Licenc ni mogoče prenašati med dvema organizacijama (najemnikoma). 
 
 - Če najemnika, iz katerega želite prenesti licenco, ne nameravate več uporabljati, lahko [prekličete naročnino](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) in [kupite novega](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2) (ciljnega) najemnika.
 

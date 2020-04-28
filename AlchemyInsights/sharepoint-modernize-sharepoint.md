@@ -10,19 +10,19 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 4ca60a0e433439f4eded0876a2e13c01a9c3a726
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 46d482f7dfdded0dd5d777e3c6890dcef0a1ea5c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767733"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912838"
 ---
 # <a name="modernize-your-classic-sharepoint-experience"></a>Posodobitev klasične SharePointove izkušnje
 
 Če želite preklopiti na sodoben uporabniški vmesnik, preglejte te vire:
 
 - [Ustvarite **sodobna mesta** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (stran skupine ali komunikacijsko mesto). Uporabite [SharePointovo knjigo Poglej](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) , če želite zgraditi lep, zmogljiv intranet, ki povezuje delovno mesto. Oglejte si [primere](https://lookbook.microsoft.com/) in pridobite [navodila za oblikovanje](https://spdesign.azurewebsites.net/).
-- [Povežite spletno mesto s **skupino Office 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) , da povečate sodelovanje v Microsoftovih 365.
+- [Povežite spletno mesto s **skupino Microsoft 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) , da povečate sodelovanje v Microsoftovih 365.
 - Transformacija na **sodoben seznam in izkušnje knjižnice** , ki jih [omogoča sezname in knjižnice za prikaz v sodobnem uporabniškem vmesniku](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
 - Preoblikujte **strani** iz klasičnega **wikija**, **spletnega gradnika**in **domačih** strani v [sodobne odjemalske](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)strani. [Pregledovalnik posodobitev za SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) zagotavlja informacije o uporabi strani o trenutnih straneh wiki in spletnih gradniki, ki vam pomagajo pri določanju prednost preoblikovanja strani.
 

@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 556150c41ccf363e6025ba6fac0660d1fb74f9b8
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 72a189b64aecba3a46b6150e304ce3b8674fbb1a
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43060013"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784563"
 ---
 # <a name="set-up-insider-risk-management"></a>Nastavitev upravljanja notranjega tveganja
 
@@ -26,13 +26,13 @@ S pravilniki o upravljanju notranjih tveganj prepoznajte tvegane dejavnosti in o
 
 - Naročnino na **Microsoft 365 E3** z dodatkom Microsoft E5 Compliance.
 
-Če nimate obstoječega paketa **Microsoft 365 E5** in želite preskusiti upravljanje notranjega tveganja, lahko dodate Microsoft 365 obstoječi naročnini na Office 365 ali pa se prijavite za preskusno različico paketa Microsoft 365 Enterprise E5.
+Če nimate obstoječega paketa **Microsoft 365 E5** in želite preskusiti upravljanje notranjega tveganja, lahko dodate Microsoft 365 obstoječi naročnini ali pa se prijavite za preskusno različico paketa Microsoft 365 Enterprise E5.
 
 Osnovni koraki za uporabo upravljanja notranjega tveganja vključujejo:
 
 1. Omogočanje dovoljenj za upravljanje notranjega tveganja.
 
-2. Omogočanje dnevnika nadzora za Office 365.
+2. Omogočanje dnevnika nadzora.
 
 3. Konfiguriranje pogojev za predlogo (izbirno).
 

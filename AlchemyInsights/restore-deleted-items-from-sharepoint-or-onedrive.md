@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: a8438d6ac489abfdbe49bc8541b9abdd5e799713
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1a1c72078f6357332f48d369e482ab20cb82f868
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742531"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912563"
 ---
 # <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Obnovite izbrisane elemente iz SharePointa ali storitve OneDrive
 
@@ -34,6 +34,6 @@ Ko se datoteke, mape, knjižnice, seznami in elementi seznama izbrišejo s Share
   
 [Obnovite izbrisane zbirke mest](https://go.microsoft.com/fwlink/?linkid=867660) (globalne ali SharePointove skrbnike v Microsoft 365) 
   
-Za mesta, ki pripadajo skupini Office 365, morate obnoviti skupino, da obnovite spletno mesto. Glejte [obnovitev izbrisane skupine Office 365](https://go.microsoft.com/fwlink/?linkid=867802) (globalni skrbnik) 
+Za mesta, ki pripadajo skupini Microsoft 365, morate obnoviti skupino, da obnovite spletno mesto. Glejte [obnovitev izbrisane skupine Microsoft 365](https://go.microsoft.com/fwlink/?linkid=867802) (globalni skrbnik) 
   
 

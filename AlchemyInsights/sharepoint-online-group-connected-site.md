@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 8ef33cbd44b01deaf0e45813d019f7696ef5def0
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43642160"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912982"
 ---
 # <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Težave pri ustvarjanju skupine, povezane z mestom v SharePointu
 
@@ -30,5 +30,5 @@ ms.locfileid: "43642160"
 
 1. Obstajajo različni načini za ustvarjanje in uporabo sodobnih skupin s SharePointom.
 
-   - Obstoječa mesta lahko povežete s skupino Office 365. Če želite več informacij, glejte [povezovanje skupine Office 365 s SharePointovim uporabniškim vmesnikom](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Če želite ustvariti povezano spletno mesto skupine Office 365, morate ustvariti [spletno mesto skupine](https://admin.microsoft.com/sharepoint).
+   - Obstoječa mesta lahko povežete s skupino Microsoft 365. Če želite več informacij, glejte [povezovanje skupine Microsoft 365 s SharePointovim uporabniškim vmesnikom](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Če želite ustvariti povezano spletno mesto skupine Microsoft 365, morate ustvariti [spletno mesto skupine](https://admin.microsoft.com/sharepoint).

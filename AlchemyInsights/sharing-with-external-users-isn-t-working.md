@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767265"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43913018"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Odpravljanje težav pri skupni rabi SharePointove vsebine z zunanjimi Uporabniki
 
@@ -32,7 +32,7 @@ Prepričajte se, da je zunanja skupna raba vklopljena za spletno mesto. Za klasi
     
 2. Izberite spletno mesto ali spletna mesta in na traku kliknite **Skupna raba**.
     
-Za spletno mesto skupine, ki pripada skupini Office 365 ali na mestu za komunikacijo:
+Za spletno mesto skupine, ki pripada skupini Microsoft 365 ali na mestu za komunikacijo:
   
 - Te nove vrste mest imajo enako nastavitev skupne rabe kot nastavitev za celotno organizacijo, razen če nastavitev za celotno organizacijo omogoča skupno rabo datotek s povezavami, ki ne zahtevajo prijave. V tem primeru spletna mesta omogočajo skupno rabo z novimi in obstoječimi zunanjimi Uporabniki, ki se vpisljajo. Če želite spremeniti nastavitev za določena mesta, uporabite nov SharePointov skrbniški center ali PowerShell. [Več informacij](https://go.microsoft.com/fwlink/?linkid=871863).
     

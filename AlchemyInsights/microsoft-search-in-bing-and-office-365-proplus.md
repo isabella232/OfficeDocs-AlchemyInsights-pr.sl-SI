@@ -1,21 +1,21 @@
 ---
-title: Iskanje Microsoft v storitvah Bing in Office 365 ProPlus
+title: Iskanje Microsoft v storitvi Bing in Aplikacije ogrodja Microsoft 365 za podjetja
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: 3998259957ca49fa8d93d3f5d8be5ac12497d8d1
-ms.sourcegitcommit: 3530e3818d5bac438ed8e402b394a7ef3b4c72de
+ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/24/2020
-ms.locfileid: "41551184"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762333"
 ---
-# <a name="microsoft-search-in-bing-and-office-365-proplus"></a>Iskanje Microsoft v storitvah Bing in Office 365 ProPlus
+# <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>Iskanje Microsoft v storitvi Bing in Aplikacije ogrodja Microsoft 365 za podjetja
 
-V različici 2002 storitve Office 365 ProPlus bomo v storitev Bing namestili razširitev za Iskanje Microsoft, s katero bo storitev Bing postala privzeti mehanizem za iskanje v spletnih brskalnikih Google Chrome, nameščenih samo v napravah na določenih mestih.
+V različici 2002 storitve Aplikacije ogrodja Microsoft 365 za podjetja bomo v storitev Bing namestili razširitev za Iskanje Microsoft, s katero bo storitev Bing postala privzeti mehanizem za iskanje v spletnih brskalnikih Google Chrome, nameščenih samo v napravah na določenih mestih.
 
 **Če ne želite namestiti razširitve, [upoštevajte ta navodila](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
 

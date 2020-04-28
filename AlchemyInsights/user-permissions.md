@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710531"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912910"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>Uporabniška dovoljenja v SharePointu in storitvi OneDrive
 
@@ -27,7 +27,7 @@ ms.locfileid: "43710531"
   
 1. Odprite spletno mesto v spletnem brskalniku.
     
-2. Če mesto pripada skupini Office 365, kliknite ikono nastavitve v zgornjem desnem kotu in nato kliknite **dovoljenja mesta**. Kliknite **povabi osebe**in nato dodajte člane v skupino Office 365 ali pa delite samo mesto. 
+2. Če mesto pripada skupini Microsoft 365, kliknite ikono nastavitve v zgornjem desnem kotu in nato kliknite **dovoljenja mesta**. Kliknite **povabi osebe**, nato pa izberite, da dodate člane v skupino Microsoft 365 ali pa delite samo mesto. 
     
     Če želite spletno mesto za komunikacijo, v zgornjem desnem kotu kliknite **Skupna raba mesta** , vnesite ime osebe in nato izberite raven dovoljenja (branje, urejanje ali popoln nadzor). 
     

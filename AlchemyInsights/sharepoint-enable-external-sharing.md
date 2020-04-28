@@ -8,12 +8,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 131ed77f8cb38610ff21b97dd1b6eb3ec575d510
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7b80c40f63fcdb3f4e37bb5333bb5dd78822bdc6
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051693"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912202"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>Omogočanje zunanje skupne rabe v SharePoint online
 
@@ -25,11 +25,11 @@ ms.locfileid: "40051693"
 
 - [Kaj se zgodi, ko delim spletno mesto ali dokument?](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [Vklop ali izklop zunanje skupne rabe za SharePoint online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [Vklop ali izklop zunanje skupne rabe za SharePoint Online](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
 - [Vklop ali izklop zunanje skupne rabe za spletno mesto](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [Upravljanje dostopa za goste v skupini Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [Upravljanje dostopa za goste v Microsoftovih 365 skupinah](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
 - [Uporaba spletnega mesta SharePoint online kot rešitve Ekstranet med podjetji in podjetji (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 

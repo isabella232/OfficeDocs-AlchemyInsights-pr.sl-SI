@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: aeeb2e1e76fe602d2767b422797452fd1155fdd5
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 4ffe8d77dad7db5fd5806fe879cf4934e5ca7c4a
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509517"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788898"
 ---
 # <a name="set-auto-replies-for-a-users-mailbox"></a>Nastavite samodejne odgovore za nabiralnik uporabnika
 
 **Način 1**
 
-1. Vpišite se v portal storitve Office 365.
+1. Vpišite se v portal Microsoft 365.
 
 2. Izberite **Uporabniki > Aktivni uporabniki** (ali **Skupine > Nabiralniki v skupni rabi**, če to nastavljate za nabiralnik v skupni rabi).
 
@@ -32,7 +32,7 @@ ms.locfileid: "43509517"
 
 **Način 2**
 
-1. Vpišite se v skrbniški portal storitve Office 365 s skrbniškimi poverilnicami.
+1. Vpišite se v skrbniški portal okolja Microsoft 365 s skrbniškimi poverilnicami.
 
 2. Razširite razdelek **Skrbniška središča** in kliknite **Exchange**.
 

@@ -13,16 +13,16 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 8a97e7bc15a59ae9300721a0c1dc649e986b55d0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714418"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911164"
 ---
 # <a name="ediscovery-settings"></a>Nastavitve e-odkrivanja
 
-z iskanji e-odkrivanja/vsebine lahko iščete, pridržite in izvozite vsebino iz nabiralnikov Exchange Online, spletnih mest SharePoint online in OneDrive za podjetja, pogovorov Skype za podjetja, Microsoftovih ekip in skupin Office 365.
+z iskanji e-odkrivanja/vsebine lahko iščete, pridržite in izvozite vsebino iz nabiralnikov Exchange Online, spletnih mest SharePoint online in OneDrive za podjetja, pogovorov Skype za podjetja, Microsoftovih ekip in skupin Microsoft 365.
 
 - Če iščete možnosti menija e-odkrivanja ali iskanja vsebine, glejte [vprašanja e-odkrivanja](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
 - Preberite več o dovoljenjih, potrebnih za izvajanje iskanj e-odkrivanja iz dovoljenj, ki so [potrebna za iskanje e-odkrivanja](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).

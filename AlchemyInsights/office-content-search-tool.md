@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43788026"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912274"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>Orodje za iskanje vsebine za iskanje ustreznih informacij
 
-Uporabite orodje za iskanje vsebine v središču za preverjanje varnosti &, da hitro poiščete e-pošto v Exchangeevih nabiralnikih, dokumentih na SharePointovih mestih in lokacijah v storitvi OneDrive ter pogovorih za takojšnje sporočanje v Skypu za podjetja. Orodje za iskanje vsebine lahko uporabite za iskanje e-pošte, dokumentov in pogovorov za takojšnje sporočanje v Microsoftovih 365 orodjih za sodelovanje, kot so Microsoft Teams in Office 365 skupine.
+Uporabite orodje za iskanje vsebine v središču za preverjanje varnosti &, da hitro poiščete e-pošto v Exchangeevih nabiralnikih, dokumentih na SharePointovih mestih in lokacijah v storitvi OneDrive ter pogovorih za takojšnje sporočanje v Skypu za podjetja. Orodje za iskanje vsebine lahko uporabite za iskanje e-pošte, dokumentov in pogovorov za takojšnje sporočanje v Microsoftovih 365 orodjih za sodelovanje, kot so Microsoft Teams in Microsoft 365 skupine.
 
 
 Preden uporabite [Iskanje po vsebini](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) iz [središča za skladnost varnostnega &](https://sip.protection.office.com/homepage), boste želeli dokončati konfiguracijske nastavitve, vključno z nastavitvami [dovoljenj](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search), [nastavitvijo hitrosti prenosa](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) in [izvozom](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).

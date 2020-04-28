@@ -13,16 +13,16 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764744"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911847"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kako izvesti iskanja vsebine in iskanj e-odkrivanja
 
-Uporabite orodje za iskanje vsebine v središču za preverjanje varnosti &, da hitro poiščete e-pošto v Exchangeevih nabiralnikih, dokumentih na SharePointovih mestih in v računu storitve OneDrive ter pogovorih za takojšnje sporočanje v Skypu za podjetja. Orodje za iskanje vsebine lahko uporabite tudi za iskanje e-pošte, dokumentov in pogovorov za takojšnje sporočanje v Microsoftovih 365 orodjih za sodelovanje, kot so Microsoft Teams in Office 365 skupine.
+Uporabite orodje za iskanje vsebine v središču za preverjanje varnosti &, da hitro poiščete e-pošto v Exchangeevih nabiralnikih, dokumentih na SharePointovih mestih in v računu storitve OneDrive ter pogovorih za takojšnje sporočanje v Skypu za podjetja. Orodje za iskanje vsebine lahko uporabite tudi za iskanje e-pošte, dokumentov in pogovorov za takojšnje sporočanje v Microsoftovih 365 orodjih za sodelovanje, kot so Microsoft Teams in Microsoftove skupine 365.
 
 **Če želite izvesti iskanje po vsebini**
 

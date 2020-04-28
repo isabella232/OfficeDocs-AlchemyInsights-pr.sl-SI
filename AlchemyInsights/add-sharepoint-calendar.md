@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 20780a2c06813f5d52f4caecaa21505da4c0b9f0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3fd8cea060a754b557c64ecd314487e359b56452
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671365"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43911020"
 ---
 # <a name="add-a-sharepoint-calendar"></a>Dodajanje SharePointovega koledarja
 
-SharePointovi koledarji so klasične vrste seznamov, ki se včasih zamenjajo z Officeovimi koledarji skupin 365.
+SharePointovi koledarji so klasične vrste seznamov, ki so včasih zamenjujejo z Microsoft 365 skupinski koledarji.
  
 Če želite ustvariti SharePointov koledar, sledite tem korakom:
  
@@ -29,5 +29,5 @@ SharePointovi koledarji so klasične vrste seznamov, ki se včasih zamenjajo z O
 2.  V iskalno polje **poiščite aplikacijo** vnesite **koledar** in pritisnite ENTER.
 3.  Izberite **koledar**z naslovom programa in vnesite ime za koledar.
 
-Če želite več informacij o skupinah Office 365, glejte [več o skupinah za office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+Če želite več informacij o skupinah Microsoft 365, glejte [več o Microsoftovih skupinah 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
 

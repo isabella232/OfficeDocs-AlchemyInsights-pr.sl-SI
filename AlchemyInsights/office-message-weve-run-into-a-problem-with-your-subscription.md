@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 11bbb2180c94f1c8d7a00fc944d35ee6f6dc4ddf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ae503796623c2d6d08a09f719109c3d23b34a26b
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713266"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787746"
 ---
 # <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Sporočilo v Officeovih aplikacijah – naleteli smo na težavo z vašo naročnino
 
-- Če ste nedavno začeli uporabljati drugo naročnino/drug paket storitve Office 365, upoštevajte navodila v razdelku [Po zamenjavi paketov storitve Office 365 se v Officeu prikaže sporočilo »Obvestilo o računu«](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d), da znova namestite ali posodobite Office.
+- Če ste nedavno začeli uporabljati drugo naročnino/drug paket, upoštevajte navodila v razdelku [Po zamenjavi paketov se v Officeu prikaže sporočilo »Obvestilo o računu«](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d), da znova namestite ali posodobite Office.
 
-- Glejte [Officeova napaka »Obvestilo računa: prišlo je do težav z vašo naročnino na Office 365«](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1).
+- Glejte [Officeova napaka »Obvestilo računa: prišlo je do težav z vašo naročnino«](https://support.office.com/article/office-error-account-notice-we-ve-run-into-a-problem-with-your-office-365-subscription-17f71ecb-f53c-4f3d-ae18-7230ca1594c1).
 
 - Odstranite in [znova dodelite Officeovo licenco](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide#assign-licenses-to-one-user) za prizadetega uporabnika. 
 
@@ -34,6 +34,6 @@ ms.locfileid: "43713266"
 
 Če želite podrobna navodila, glejte: 
 
-[Ko odprem aplikacijo v storitvi Office 365, se prikaže obvestilo o naročnini](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+[Ko odprem Microsoftovo aplikacijo, se prikaže obvestilo o naročnini](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 
 [Odpravljanje težav z aktivacijo Officea](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
