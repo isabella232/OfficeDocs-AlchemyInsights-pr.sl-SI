@@ -13,25 +13,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: b528a698f57f0ec1cbc08718b83b07bbe050637c
-ms.sourcegitcommit: e95cc57126a28766adec8442ac3a79acb485a1b4
+ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43198864"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943961"
 ---
 # <a name="change-your-billing-address"></a>Spreminjanje naslova za obračunavanje
 
-Vaš račun ali račun vsebuje tri naslove. 
+Vaš račun ali račun vsebuje tri naslove.
 
-**Spreminjanje naslova za račun**
+**Spreminjanje naslova za obračunavanje za plačilno sredstvo**
 
-1. V skrbniškem središču pojdite na stran z **metodami obračunavanja > [plačila](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** . 
+1. V skrbniškem središču pojdite na **obračunavanje > [plačilne metode](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+2. Izberite kreditno kartico ali bančni račun, ki ga želite spremeniti.
+3. Na strani s **podrobnostmi o načinu plačila** kliknite **Uredi**.
+4. Posodobite naslov za obračunavanje in kliknite **shrani > končano**.
 
-2. Izberite kreditno kartico ali bančni račun, ki ga želite spremeniti. 
+Če želite več informacij o spremembah naslovov in obvestil, glejte [Spreminjanje naslovov za obračunavanje za Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
 
-3. Na strani s **podrobnostmi o načinu plačila** kliknite **Uredi**. 
+**Spreminjanje informacij o računu za obračunavanje**
 
-4. Posodobite naslov za obračunavanje in kliknite **shrani > končano**. 
+1. V skrbniškem središču pojdite na **račune za obračunavanje > [obračunavanje](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+2. Izberite **Uredi informacije o računu za obračunavanje**.
+3. Posodobite podatke računa za obračunavanje in kliknite **shrani > končano**.
 
-Če želite več informacij o spremembah naslovov in obvestil, glejte [Spreminjanje naslovov za obračunavanje za Office 365 za podjetja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide). 
+**Opomba**: države/regije ne morete spremeniti. Če je to polje treba spremeniti, boste morali kupiti novega najemnika.

@@ -13,14 +13,14 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: def94c6645a609ba2b24593e0439bb7fce0d3beb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 18c1daeac68aac9931994e8484b334f61028bc3a
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671437"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947625"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>Težave pri nastavljanju e-poštnega računa Exchange v programu Outlook
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>Težave pri nastavljanju e-poštnega računa v programu Outlook
 
 Če imate težave pri nastavljanju Exchangeevega računa v programu Outlook, lahko zaženete [orodje za nastavitev Outlookovega računa](https://aka.ms/SaRA-OutlookSetupProfile) v prizadetem računalniku. Izvedla bo različne preglede in zagotovila možne rešitve za vašo težavo z nastavitvijo računa.
   

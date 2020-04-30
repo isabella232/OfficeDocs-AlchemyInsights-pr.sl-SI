@@ -14,13 +14,20 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: bbea5f043c7a6575029fc5bd40fc1788177284f4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
+ms.sourcegitcommit: 7755f288fcc718571367cf1960962b19a82bac4f
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706843"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43939671"
 ---
 # <a name="change-how-often-you-pay"></a>Spreminjanje, kako pogosto plačate
 
- **Želite spremeniti pogostost plačil?** Če želite spremeniti, kako pogosto plačate za vaš Microsoftov 365 za poslovno naročnino, bodisi od letne do mesečne ali mesečne do letne, vam lahko pomagamo s tem. Boste morali kupiti isto naročnino z novo frekvenco plačila in preklicati staro naročnino. Prosimo, uporabite "naj nas pokličete" možnost, da se pogovorite s podpornega inženirja.
+Če želite spremeniti, kako pogosto ste zaračunani in plačujete naročnino, izpolnite naslednje korake v skrbniškem središču za Microsoft 365. 
+1. Pojdite v razdelek **Obračunavanje > [Izdelki in storitve](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+2. Poiščite naročnino, ki jo želite spremeniti. V razdelku **obračunavanje** , poleg **zaračunane mesečne** ali **zaračunane letno**, kliknite **Uredi**. 
+3. Izberite možnost, kako pogosto želite bremeniti, nato kliknite **Spremeni**.
+
+**Opomba**: mesečno ali letno obračunavanje so edine možnosti.
+
+Če želite več informacij, glejte [Spreminjanje pogostosti plačil](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).
