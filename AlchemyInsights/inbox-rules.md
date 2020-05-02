@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724572"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005274"
 ---
-# <a name="inbox-rules"></a>Pravila nabiralnika
+# <a name="inbox-rules-in-outlook-desktop"></a>Pravila nabiralnika v programu Outlook Desktop
 
-Če želite več informacij o uporabi pravil za Inbox v svojem nabiralniku, glejte:
+1. Pojdite v **datoteko > upravljajte pravila & opozorila** , da odprete pogovorno okno **pravila in opozorila** .
+2. Na kartici **pravila e-pošte** kliknite **novo pravilo**.
+3. Izberite eno od predlog iz **koraka 1**. Če želite začeti s praznega pravila, izberite **Uporabi pravilo o sporočilih, ki jih prejmem ali uporabi pravilo o sporočilih, ki jih pošljem**.
+4. V **koraku 2: Uredite opis pravila polje**, kliknite na vse podčrtane možnosti, da jih nastavite. Če ste na primer izbrali **sporočila zastavice od nekoga za nadaljevanje** v koraku 1, kliknite **ljudje ali javna skupina** , da izberete sporočila pošiljateljev, ki jih želite označiti; nato v **tem trenutku kliknite spremljanje** , da izberete zastavico in datum spremljanja.
+5. Kliknite **naprej**.
 
-- [Upravljanje e-poštnih sporočil z uporabo pravil v programu Outlook za računalnik](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [Upravljajte sporočila z uporabo pravil za mape» Prejeto «v programu Outlook v spletu](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-Pravila za Inbox lahko upravljate tudi v PowerShell Exchange Online. Če želite več informacij, glejte Iskanje [-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (pogled), [novo-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (ustvarjanje), [Odstrani-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (Izbriši), [set-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (spreminjanje obstoječih), [Onemogoči-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (Onemogoči obstoječe) in [Omogoči-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (omogoči obstoječe).
+Če želite več informacij o delu s pravili za mape» Prejeto «, glejte [upravljanje e-poštnih sporočil z uporabo pravil](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).
