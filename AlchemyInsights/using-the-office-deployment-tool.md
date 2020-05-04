@@ -11,12 +11,12 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: fa40fef0de9b2e0e1fc329269c24e8bca9ed4146
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43726264"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010886"
 ---
 # <a name="using-the-office-deployment-tool-odt"></a>Uporaba orodja za uvajanje Officea (ODT)
 
@@ -42,4 +42,4 @@ Officeovo orodje za razmestitev (ODT) uporabite za uvajanje Officeovih različic
 
     **Opomba:** Ta korak morate zagnati v odjemalskem računalniku, v katerem želite namestiti Office, in v tem računalniku morate imeti dovoljenja lokalnega skrbnika.
 
-Če želite izvedeti več o uporabi Officeovega orodja za uvajanje za Microsoft 365 aplikacije za scenarije uvajanja za podjetja, glejte [pregled orodja za uvajanje Officea](https://docs.microsoft.com/deployoffice/overview-of-the-office-2016-deployment-tool). Če želite več podrobnosti o uporabi orodja za prilagajanje Office, glejte [pregled orodja za prilagajanje Officea](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+Če želite izvedeti več o uporabi Officeovega orodja za uvajanje za Microsoft 365 aplikacije za scenarije uvajanja za podjetja, glejte [pregled orodja za uvajanje Officea](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Če želite več podrobnosti o uporabi orodja za prilagajanje Office, glejte [pregled orodja za prilagajanje Officea](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
