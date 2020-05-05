@@ -1,0 +1,31 @@
+---
+title: Uporaba Nareka v Wordu
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9002888"
+- "5513"
+ms.openlocfilehash: 8bfffc23ce3efe81e0b2c5d4f000ed9dfc0ba1a5
+ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
+ms.translationtype: HT
+ms.contentlocale: sl-SI
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44017145"
+---
+# <a name="use-dictation-in-word"></a>Uporaba Nareka v Wordu
+
+Če želite **[narekovati dokumente v Wordu](https://support.office.com/article/dictate-your-documents-in-word-3876e05f-3fcc-418f-b8ab-db7ce0d11d3c)**, pojdite v razdelek **Osnovno > Narek**, medtem ko ste vpisani v Microsoft 365.
+
+**Če narek ne deluje**, preverite to:
+
+- Ali ste prijavljeni v Microsoftov račun in imate vzpostavljeno povezavo z internetom?
+- Ali so omogočene **povezane izkušnje** v **nastavitvah zasebnosti**? 
+    - V namiznem računalniku s sistemom Windows kliknite **Datoteka > Možnosti > Nastavitve zasebnosti > Izbirne povezane izkušnje**. Prepričajte se, da je potrjeno polje **Omogoči povezane izkušnje**.
+- Kot skrbnik lahko upravljate [nastavitve pravilnika za povezane izkušnje](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls#policy-settings-for-connected-experiences), s katerimi nadzirate, ali je narek na voljo.
+- Težava je morda povezana z mikrofonom. Če želite pridobiti več informacij, glejte [Narek v Officeu ne deluje](https://support.office.com/article/If-dictation-in-Office-isn-t-working-3a740b4a-19d5-461c-b59a-d82172707fd4#OfficeVersion=Web).
