@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: aceea65f054299797e989330b64af17a24fd5389
-ms.sourcegitcommit: 797f78c27f50485edcf9854552d9dcab175227bf
+ms.openlocfilehash: 08743a57ff963a23f7fe1910012f63f3955fb6d2
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/10/2020
-ms.locfileid: "43218347"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010198"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>Popravek – »trenutno še niste prejeli Officeove licence«
 
-Če želite namestiti Officeove odjemalske aplikacije, zagotovite, da imate sklenjeno naročnino na Office 365 ali Microsoft 365, ki [vključuje Officeove odjemalske aplikacije](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), npr. Office 365 Business Premium, Office 365 Business ali Office 365 ProPlus.
+Če želite namestiti Officeove odjemalske aplikacije, morate imeti sklenjeno tako naročnino na Office 365 ali Microsoft 365, ki [vključuje Officeove odjemalske aplikacije](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), npr. Microsoft 365 Business Premium, aplikacije ogrodja Microsoft 365 za poslovanje ali aplikacije ogrodja Microsoft 365 za podjetja.
 
 **Opomba**: [Office Home and Business](https://products.office.com/home-and-business) je izdelek [Office za domačo uporabo](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) in ni vključen v poslovno naročnino. Project Online Essentials ne vključuje namizne različice Projecta, zato ga ni treba namestiti. Uporabniki paketa Visio 1 lahko dostopajo do Visia v spletu, saj paket ne vsebuje namizne aplikacije za Visio. Namizni aplikaciji za Project in Visio nista na voljo za računalnike Mac
 

@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4489"
-ms.openlocfilehash: 6dfd3a767b09f647a615ed24300377169b93f105
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e69a9e32a713b859f8110ec66d4b3b53be1bb450
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713338"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010810"
 ---
 # <a name="office-activation-errors"></a>Napake pri aktivaciji Officea
 
-1. V razdelku **Nadzorna plošča > Programi in funkcije** poiščite **Office**. Videti bi morali **Microsoft Office 365 ProPlus** ali **Microsoft Office 365 Business**. Če vidite, da je nameščena več kot ena različica Officea, odstranite različico, k je ne uporabljate. Če ne morete uspešno dokončati odstranitve z nadzorno ploščo, uporabite pomočnika za podporo in obnovitev (SaRA), da [odstranite](https://aka.ms/SARA-OfficeUninstall-Alchemy) različico, ki je ne uporabljate. Nato znova zaženite Office in se vpišite s službenim ali šolskim računom, če ste pozvani k temu. 
+1. V razdelku **Nadzorna plošča > Programi in funkcije** poiščite **Office**. Videti bi morali **Microsoft Office 365 za podjetja** ali **Microsoft Office 365 za poslovanje**. Če vidite, da je nameščena več kot ena različica Officea, odstranite različico, k je ne uporabljate. Če ne morete uspešno dokončati odstranitve z nadzorno ploščo, uporabite pomočnika za podporo in obnovitev (SaRA), da [odstranite](https://aka.ms/SARA-OfficeUninstall-Alchemy) različico, ki je ne uporabljate. Nato znova zaženite Office in se vpišite s službenim ali šolskim računom, če ste pozvani k temu. 
 
 2. Če Office še vedno ni licenciran, pojdite nazaj v razdelek **Nadzorna plošča > Programi in funkcije**, z desno tipko miške kliknite preostalo namestitev Officea, kliknite **Spremeni**, nato pa kliknite **Spletno popravilo**. Spletno popravilo bo morda trajalo nekaj časa. Nato znova zaženite Office in se vpišite s službenim ali šolskim računom, če ste pozvani k temu. 
 
