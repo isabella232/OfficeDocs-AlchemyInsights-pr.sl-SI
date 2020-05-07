@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3752"
-ms.openlocfilehash: 5741edef38f15bfa546aba3a2868c4621da4934e
-ms.sourcegitcommit: 1b674201a5460ed27da6331fa6b777ea787a4dc1
+ms.openlocfilehash: 19871ba1cb6d12be3c0eab462adcbe0840afeebe
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42417797"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061795"
 ---
 # <a name="billing-and-payment"></a>Obračunavanje in plačevanje
 
@@ -34,13 +34,13 @@ Na strani **z** > [obvestili o obračunavanju](https://go.microsoft.com/fwlink/p
 
 Če ste dodali novo kartico in ste še vedno dobili obvestilo o padcu na stari kreditni kartici, boste morda morali to novo kartico povezati z naročnino.
 
-1. Pojdite na izdelke za **obračunavanje** > [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. Pojdite na **obračunavanje** > **[vaših izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
-2. Izberite naročnino, ki jo želite plačati z novo kartico ali bančnim računom. Pod razdelek **obračunavanje** poleg načina plačila kliknite **Uredi**.
+2. Izberite naročnino, ki jo želite plačati z novo kartico ali bančnim računom. V razdelku **Obračunavanje** ob načinu plačila kliknite **Uredi**.
 
 3. Kliknite **Spremeni** ob trenutnem načinu plačila.
 
-4. V spustnem meniju izberite nadomestno plačilno sredstvo ali dodajte nov način plačila.
+4. V spustnem meniju izberite drug način plačila ali dodajte nov način plačila.
 
 Glejte [Dodajanje, posodabljanje ali odstranjevanje načinov plačila](https://go.microsoft.com/fwlink/?linkid=2118133).
 

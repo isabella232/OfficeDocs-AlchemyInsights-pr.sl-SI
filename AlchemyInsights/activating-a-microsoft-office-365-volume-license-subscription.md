@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: 21f580a8c636369429daa7241874601be00089d3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 73c8a56623bb55926d7df995bad43ff734bfceef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708775"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062048"
 ---
 # <a name="activating-a-microsoft-volume-license-subscription"></a>Aktiviranje naročnine na Microsoftovo količinsko licenco
 
@@ -32,4 +32,4 @@ ms.locfileid: "43708775"
 
 5. Prijavite se v skrbniško središče Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) z obstoječimi poverilnicami skrbnika. Ko se uspešno vpišete, prejmete še eno e-poštno sporočilo, ki potrjuje vaš nakup.
 
-6. Ko ste prijavljeni, lahko greste na stran izdelki za **obračunavanje** \> [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) če želite preveriti, ali so kupljene naročnine aktivirane v vašem najemniku. (Izberete lahko tudi zavihek **naročnina** v VLSC, če si želite ogledati podrobnosti, ki preverjajo, ali je bila naročnina deponirana.)
+6. Ko ste prijavljeni, lahko na stran za **obračunavanje** \> [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) preverite, ali so kupljene naročnine aktivirane v vašem najemniku. (Izberete lahko tudi zavihek **naročnina** v VLSC, če si želite ogledati podrobnosti, ki preverjajo, ali je bila naročnina deponirana.)
