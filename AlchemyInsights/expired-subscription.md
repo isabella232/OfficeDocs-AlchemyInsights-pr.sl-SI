@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: f7574ff6855481a9378f8563735e380565a3ecf0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714166"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063489"
 ---
 # <a name="expired-subscription"></a>Potekla naročnina
 
@@ -26,7 +26,7 @@ Zdi se, da imate eno ali več poteklih naročnin. Če želite nadaljevati s stor
   
 **Ponovno aktiviranje**
   
-1. V skrbniškem središču odprite stran **Obračunavanje** \> [Izdelki in storitve](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. V skrbniškem središču pojdite na stran za **obračunavanje** \> **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Poiščite naročnino, ki jo želite znova aktivirati. V razdelku **Obračunavanje** izberite **Znova aktiviraj**.
 
@@ -38,7 +38,7 @@ Zdi se, da imate eno ali več poteklih naročnin. Če želite nadaljevati s stor
 
 **Naredite nov nakup**
   
-1. V skrbniškem središču pojdite na stran [nabavne storitve](https://go.microsoft.com/fwlink/p/?linkid=868433) za **obračunavanje** \> .
+1. V skrbniškem središču pojdite na stran **[nabavne storitve](https://go.microsoft.com/fwlink/p/?linkid=868433)** za **obračunavanje** \> .
 
 2. Izberite naročnino, ki jo želite kupiti, nato izberite **kupi**.
 

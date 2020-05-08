@@ -1,5 +1,5 @@
 ---
-title: Izdelki & storitve
+title: Vaši izdelki
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758806"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062877"
 ---
-# <a name="products--services"></a>Izdelki & storitve
+# <a name="your-products"></a>Vaši izdelki
 
-Naročnine, ki so v lasti organizacije, najdete na strani izdelki za **obračunavanje** > [**& storitev**](https://go.microsoft.com/fwlink/p/?linkid=842054) . Tukaj je nekaj vrhuncev te strani skupaj s povezavami za več informacij o vsaki funkciji:
+Naročnine, ki so v lasti organizacije, lahko najdete na strani za **obračunavanje** > **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Tukaj je nekaj vrhuncev te strani skupaj s povezavami za več informacij o vsaki funkciji:
 
 1. Upravljajte število licenc, ki so bile kupljene za vsako naročnino, skupaj s tem, koliko jih je v uporabi.  **Opomba**: licence, ki niso v uporabi (niso dodeljene uporabniku), so še vedno zaračunane.  Če ne želite zaračunati neporabljenih licenc, zmanjšajte število kupljenih licenc. Če želite več informacij o dodajanju ali odstranjevanju licenc iz naročnine, glejte [Dodajanje ali zmanjševanje licenc](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 

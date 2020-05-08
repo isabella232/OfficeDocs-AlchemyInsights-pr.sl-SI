@@ -12,20 +12,20 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: c7d998c56747799e139e8e2035cbccfe71cce14b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 66ce0cfed20990a7a6bc6307360a8bc7d91822c8
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709639"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063597"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>Dodajanje ali urejanje VatID
 
-**Opomba**: Če ste v državi, ki uporablja davek na dodano vrednost (DDV), kot je Združeno kraljestvo, Microsoft fakturiranje izračuna DDV za vas in uporabi znesek za vaše račune. Za več informacij glejte [izjavo o omejitvi odgovornosti VIES](https://go.microsoft.com/fwlink/?LinkID=841741) , ki jo je objavila Evropska Komisija.
+**Opomba**: Če ste v državi, ki uporablja davek na dodano vrednost (DDV), kot je Združeno kraljestvo, Microsoft fakturiranje izračuna DDV za vas in uporabi znesek za vaše račune. Za več informacij glejte [izjavo o omejitvi odgovornosti VIES](https://go.microsoft.com/fwlink/p/?LinkID=841741) , ki jo je objavila Evropska Komisija.
 
 **Dodajanje ali urejanje VatID**
 
-1. V skrbniškem središču za Microsoft 365 pojdite na stran izdelki za **obračunavanje** \> [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V skrbniškem središču Microsoft 365 pojdite na stran za **obračunavanje** \> [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Poiščite naročniško kartico za naročnino, ki jo želite posodobiti.
 

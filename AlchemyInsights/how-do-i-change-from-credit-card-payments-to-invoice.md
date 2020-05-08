@@ -13,19 +13,19 @@ ms.custom:
 - "433"
 - "1500001"
 ms.assetid: c8f2a1a1-9704-4d08-ba60-d836b9a5f981
-ms.openlocfilehash: 7269a60e2802d5ae884a918641873b71b1ad6fa3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05ba3bb421cedf94352d5bbb6c5daf1417eca609
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710027"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062444"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kako spremenim plačila s kreditnimi karticami na račun?
 
 > [!NOTE]
 > Možnost plačila z računom je na voljo samo, če vaša naročnina stane v določenem znesku (ki se razlikuje glede na lokacijo servisa). Za večja plačila računov bo morda potrebna kreditna preverjanje. Če želite izvedeti več, glejte [plačevanje naročnine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription).
   
-1. V skrbniškem središču odprite stran **Obračunavanje** \> [Izdelki in storitve](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. V skrbniškem središču pojdite na stran za **obračunavanje** \> **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Izberite naročnino, ki jo želite spremeniti. V razdelku **obračunavanje** izberite možnost **Uredi** za trenutno plačilno sredstvo.
 

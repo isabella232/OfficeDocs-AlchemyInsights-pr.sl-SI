@@ -12,27 +12,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 0d4b7c7adaee7972b0cf810fc15da391184ad7e3
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
+ms.openlocfilehash: 2389daa13aa08f394feded5c5cd67839e62734ff
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43599261"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061650"
 ---
 # <a name="cancel-project-subscription"></a>Preklic naročnine na Project
 
-Skrbniki lahko prekličejo naročnino na Project za svojo organizacijo iz **Microsoftovega skrbniškega središča Microsoft 365**. 
+Skrbniki lahko prekličejo naročnino na Project za svojo organizacijo iz **skrbniškega središča Microsoft 365**.
 
-1. Izberite možnost **obračunavanja** .
+1. Pojdite na stran za **obračunavanje > [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
 
-2. Kliknite [izdelki & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054) , če si želite ogledati vse naročnine za vašo organizacijo.
+2. Poiščite načrt projekta, da prekličete.
 
-3. Poiščite načrt projekta, da prekličete.
+3. Kliknite **Prekliči naročnino**.
 
-4. Kliknite **Prekliči naročnino**.
+**Vračilo: vsak proporiran kredit bo vrnjen v naslednjem obračunskem ciklu.**
 
-**Vračilo: vsak proporiran kredit bo vrnjen v naslednjem obračunskem ciklu.** 
+**Opomba**: če ne vidite možnosti za preklic, kliknite na naročnino za ogled podrobnosti in si oglejte **Prekliči naročnino** možnost v **Nastavitve & dejanja**.
 
-**Opomba**: če ne vidite možnosti za preklic, kliknite na naročnino za ogled podrobnosti in si oglejte **Prekliči naročnino** možnost v **Nastavitve & dejanja**. 
-
-Če želite izvedeti več, glejte [preklic naročnine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
+Če želite izvedeti več, glejte [preklic naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

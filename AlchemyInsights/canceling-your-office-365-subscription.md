@@ -12,12 +12,12 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711431"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086690"
 ---
 # <a name="canceling-your-subscription"></a>Ali želite preklicati naročnino?
 
@@ -25,9 +25,9 @@ Mi bomo žal, da vas vidim iti, če pa želite preklicati naročnino, tukaj so v
   
 - Če ste stranka sojenja, ni nič za preklic. Preizkusne naročnine se samodejno potečejo, razen če predložite plačilno sredstvo.
 
-- Če imate manj kot 25 dodeljenih licenc, lahko naročnino prekličete na spletu. Pojdite na stran izdelki za **obračunavanje** \> [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) . V razdelku **nastavitve & dejanja** izberite **Prekliči naročnino**.
+- Če imate manj kot 25 dodeljenih licenc, lahko naročnino prekličete na spletu. Pojdite na stran za **obračunavanje** \> **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** . V razdelku **nastavitve & dejanja** izberite **Prekliči naročnino**.
 
-- Če imate več kot 25 dodeljenih licenc, lahko uporabnike odstranite, dokler nimate manj kot 25, ali pa uporabite možnost» Dovolite nam klic «, da se pogovorite z inženirjem za podporo.
+- Če imate več kot 25 dodeljenih licenc, lahko uporabnike odstranite, dokler nimate manj kot 25.
   
 **Vračilo: vsak proporiran kredit bo vrnjen v naslednjem obračunskem ciklu.** 
 

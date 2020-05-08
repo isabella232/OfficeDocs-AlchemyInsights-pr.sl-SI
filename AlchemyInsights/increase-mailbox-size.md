@@ -12,12 +12,12 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1da70e15c3d777a316ddb79c4dfe9739a8285923
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714058"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44064245"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>Preklapljanje naročnin za povečanje velikosti nabiralnika
 
@@ -25,7 +25,7 @@ ms.locfileid: "43714058"
   
 Če je velikost nabiralnika 50 GB, jo lahko povečate na 100 GB tako, da preklopite na [office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) ali [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). Tukaj so koraki za preklop na drugo naročnino:
   
-1. V skrbniškem središču za Microsoft 365 pojdite na stran izdelki za **obračunavanje** \> [& storitev](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V skrbniškem središču Microsoft 365 pojdite na stran za **obračunavanje** \> **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Izberite naročnino, ki jo želite nadgraditi.
 
