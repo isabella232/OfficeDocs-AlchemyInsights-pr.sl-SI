@@ -13,10 +13,10 @@ ms.custom:
 - "9000568"
 - "2425"
 ms.openlocfilehash: 39512e97c9fba1e15a2c88ce7bc1de8a15c65cc0
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058768"
 ---
 # <a name="change-app-license-quantity"></a>Spreminjanje količine licence za aplikacijo
@@ -25,7 +25,7 @@ Lahko si ogledate ali spremenite število licenc, ki jih imate, in jih dodelite 
 
 ## <a name="to-change-license-quantity"></a>Spreminjanje količine licence
 
-1. Pojdite na stran za **obračunavanje** > **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** in izberite zavihek **aplikacije** .
+1. Pojdite na stran za **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** , nato izberite zavihek **aplikacije** .
 
 2. Poiščite in izberite aplikacijo, ki jo želite upravljati.  
 
@@ -35,7 +35,7 @@ Lahko si ogledate ali spremenite število licenc, ki jih imate, in jih dodelite 
 
 ## <a name="to-assign-app-licenses"></a>Dodeljevanje licenc za aplikacije
 
-1. Pojdite na stran za **obračunavanje** > **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** in izberite zavihek **aplikacije** .
+1. Pojdite na stran za **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** , nato izberite zavihek **aplikacije** .
 
 2. Poiščite in izberite aplikacijo, ki jo želite upravljati.  
 

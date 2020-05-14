@@ -13,10 +13,10 @@ ms.custom:
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: 07505ce77b392f5b22ae2a2cf0519d4eadda9d02
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44061759"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Nakup naročnine na Microsoft 365 iz vašega brezplačnega sojenja
@@ -31,7 +31,7 @@ Poskusili ste Microsoft 365, zdaj pa ste pripravljeni kupiti. Vi življati dva p
 
 **Nakup drugačne naročnine**
   
-1. V skrbniškem središču pojdite na stran [nabavne storitve](https://go.microsoft.com/fwlink/p/?linkid=868433) za **obračunavanje** \> .
+1. V skrbniškem središču pojdite na **Billing** \> stran [nabavne storitve](https://go.microsoft.com/fwlink/p/?linkid=868433) za obračunavanje.
 
 3. Poiščite naročnino, ki jo želite kupiti, izberite **kupi**in sledite navodilom za preverjanje.
 

@@ -14,10 +14,10 @@ ms.custom:
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
 ms.openlocfilehash: da471e392abd5d5a732206fd7306f48975268b74
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058443"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>Primerjava, nadgradnja ali nakup naročnin
@@ -28,4 +28,4 @@ Naročnine so na voljo [za podjetja](https://products.office.com/compare-all-mic
   
 Če je vaša organizacija že kupila naročnine in je zainteresirana za prehod na drug načrt, ki ga lahko naredite iz skrbniškega središča Microsoft 365. Pojdite na stran za **obračunavanje** \> [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) , izberite naročnino, ki jo želite spremeniti, nato pa izberite zavihek **Nadgradnja** , da si ogledate seznam novih načrtov, ki so na voljo.
   
-Vaša organizacija lahko tudi premeša in se ujema z naročninami, da bi zadovoljili potrebe in zahteve uporabnikov. V skrbniškem središču pojdite na stran [nabavne storitve](https://go.microsoft.com/fwlink/p/?linkid=868433) za **obračunavanje** \> .
+Vaša organizacija lahko tudi premeša in se ujema z naročninami, da bi zadovoljili potrebe in zahteve uporabnikov. V skrbniškem središču pojdite na **Billing** \> stran [nabavne storitve](https://go.microsoft.com/fwlink/p/?linkid=868433) za obračunavanje.
