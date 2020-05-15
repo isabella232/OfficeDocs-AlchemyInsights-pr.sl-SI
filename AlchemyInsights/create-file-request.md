@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: aac083e400990d4f237d821cba5f9096300119db
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 68e9774e188df3da83848e03de93f98d6a9df851
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705425"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235277"
 ---
 # <a name="how-to-create-a-file-request"></a>Ustvarjanje zahteve za datoteko
 
 Funkcija zahteve za datoteko v storitvi OneDrive vam omogoča, da izberete mapo, v kateri lahko drugi naložijo datoteke s povezavo, ki jo pošljete. Uporabniki, ki zahtevajo datoteke, ne morejo videti, kaj je v mapi-lahko samo naložijo datoteke vanjo.
 
-[Ustvarjanje zahteve za datoteko](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af)
+**Opomba**: skrbnik mora omogočiti [vsakomur povezave](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) v storitvi OneDrive za zahteve za datoteke za delo.
+
+- Če želite več informacij, glejte [Ustvarjanje zahteve za datoteko](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).

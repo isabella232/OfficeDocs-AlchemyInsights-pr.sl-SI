@@ -12,19 +12,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: a5e7e1ee245331acbd6e67d7112736e261ccca1f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 75f7a7e842d8fafdd4cad3d48289d3cc609caec6
+ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720712"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44235313"
 ---
 # <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Kako najti in obnoviti manjkajoča sporočila, stike ali koledarske elemente v programu Outlook
 
-- Uporabite lahko težave s [pošiljanjem, prejemanjem ali iskanjem e-poštnih sporočil](https://aka.ms/SaRA-OutlookSendReceive) v prizadetem računalniku. To orodje bo preveril za številna vprašanja in bo predlagal možne rešitve.
+1. V Outlooku pojdite na seznam e-poštnih map in nato izberite **izbrisani elementi**. **Pomembno**: Če mape» **Izbrisano** «ne vidite, namesto tega pa si oglejte mapo **smetnjak** , vaš račun ne podpira izterjave elementa, ki ni več v mapi» **Izbrisano** «.
 
-- [Ugotovite, ali je bil račun zlorabljen](https://support.microsoft.com/help/2551603/how-to-determine-whether-your-office-365-account-has-been-compromised). Če je ogrožena, sledite navodilom v [odgovoru na ogrožen e-poštni račun.](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account)
+2. V **začetnem** meniju kliknite **obnovi izbrisane elemente iz strežnika**. **Pomembno**: Če v meniju ni **obnovitve izbrisanih elementov iz ukaza strežnik** , vaš račun ne podpira izterjave elementa, ki ni več v mapi» **Izbrisano** «.
 
-- [Poiščite sporočilo ali element s takojšnjim iskanjem](https://support.office.com/article/69748862-5976-47b9-98e8-ed179f1b9e4d)
+3. Izberite elemente, ki jih želite obnoviti, kliknite **Obnovi izbrane elemente**in nato kliknite **v redu**.
 
-- [Obnovi izbrisane elemente v programu Outlook za Windows](https://support.office.com/article/49e81f3c-c8f4-4426-a0b9-c0fd751d48ce)
+**Kam gredo izterjani predmeti?** Ko obnovite elemente iz mape» Obnovljivo «, se premaknejo v mapo» **izbrisani predmeti** «. Ko obnovite element, ga lahko najdete v mapi» **izbrisani predmeti** «, nato pa jo lahko premaknete v drugo mapo.
+
+Uporabite lahko tudi težave s [pošiljanjem, prejemanjem ali iskanjem e-poštnih sporočil](https://aka.ms/SaRA-OutlookSendReceive) **v prizadetem računalniku**. To orodje bo preveril za številna vprašanja in bo predlagal možne rešitve.
