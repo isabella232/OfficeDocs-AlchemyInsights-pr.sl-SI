@@ -11,16 +11,16 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 39986b670948cdccb8a2d2652403a2e0376d71ec
+ms.sourcegitcommit: a61f9b7721701b20efade33a3293089761932905
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908811"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44254765"
 ---
 # <a name="microsoft-teams-upgrade"></a>Nadgradnja programa Microsoft Teams
 
-**Pomembno**: to lahko popravimo za vas s pomočjo diagnostike podpore, vendar je videti, kot da ne uporabljate novega skrbniškega središča. Če želite uporabiti novo skrbniško središče, potisnite stikalo v zgornjem desnem kotu, ki pravi, da je **novo skrbniško središče** na desni. Če uporabljate novo skrbniško središče, kliknite» **Rabite pomoč «?** widget, vnesite "ekipe Upgrade", nato pa sledite navodilom za zagon diagnostike.
+**Pomembno**: Če ste bili nadgrajeni iz programa Skype za podjetja online v Microsoft Teams v načinu samo za ekipe, vendar ugotovite, da še niste pripravljeni, vam lahko pomagamo pri uporabi diagnostike podpore. Prepričajte se, da uporabljate novo skrbniško središče z drsnim zatičem v zgornjem desnem kotu, ki pravi, da je **novi skrbniški center**na desni. Če uporabljate novo skrbniško središče, kliknite» **Rabite pomoč «?** widget, vnesite "**ekipe Upgrade**", nato pa sledite navodilom za zagon diagnostike.
 
 Ne glede na to, ali ste šele začeli s skupinami, ki že uporabljajo skupine Teams poleg Skypa za podjetja ali ste pripravljeni za nadgradnjo, želimo zagotoviti, da imate vse, kar potrebujete za navigacijo po uspešnem potovanju v skupine. Za več informacij obiščite spodnje povezave.
 
