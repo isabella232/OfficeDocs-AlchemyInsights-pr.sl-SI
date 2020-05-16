@@ -1,5 +1,5 @@
 ---
-title: Prišlo je do težave z odložišča
+title: Obstaja problem z odložiščem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: d82f7922bc0fe68e76af23949ecaafff771ac221
-ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
+ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
+ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "36045552"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44263893"
 ---
-# <a name="disable-excel-live-preview"></a><span data-ttu-id="d92fc-102">Onesposobiti Excel živeti predogled</span><span class="sxs-lookup"><span data-stu-id="d92fc-102">Disable Excel Live Preview</span></span>
+# <a name="resolving-excel-clipboard-error"></a><span data-ttu-id="b0ad5-102">Reševanje Excelove napake v odložišču</span><span class="sxs-lookup"><span data-stu-id="b0ad5-102">Resolving Excel clipboard error</span></span>
 
-<span data-ttu-id="d92fc-103">Če prejmete napako v Excelu, ki pravi, "Prišlo je do težave z odložišča, vendar še vedno lahko prilepite vsebino v tem delovnem zvezku", poskusite onemogočiti živeti predogled zunanja oblika z naslednjim korakom:</span><span class="sxs-lookup"><span data-stu-id="d92fc-103">If you receive an error in Excel that says, "There's a problem with the clipboard, but you can still paste your content within this workbook," try disabling the Live Preview feature by following these steps:</span></span>
+<span data-ttu-id="b0ad5-103">Če se v Excelu prikaže napaka, ki pravi:» v odložišču je težava, vendar lahko še vedno prilepite vsebino v ta delovni zvezek, «poskusite onemogočiti funkcijo za predogled v živo, tako da sledite tem korakom:</span><span class="sxs-lookup"><span data-stu-id="b0ad5-103">If you receive an error in Excel that says, "There's a problem with the clipboard, but you can still paste your content within this workbook," try disabling the Live Preview feature by following these steps:</span></span>
 
-1. <span data-ttu-id="d92fc-104">V Excelu, kliknite **datoteko** > **možnosti**.</span><span class="sxs-lookup"><span data-stu-id="d92fc-104">In Excel, click **File** > **Options**.</span></span>
-3. <span data-ttu-id="d92fc-105">V pogovornem oknu **Excelove možnosti** izberite **splošno**.</span><span class="sxs-lookup"><span data-stu-id="d92fc-105">In the **Excel Options** dialog box, select **General**.</span></span>
-4. <span data-ttu-id="d92fc-106">Pod **Možnosti uporabniškega vmesnika**, počistite **Omogoči predogled v živo**.</span><span class="sxs-lookup"><span data-stu-id="d92fc-106">Under **User Interface options**, clear **Enable Live Preview**.</span></span>
-5. <span data-ttu-id="d92fc-107">Kliknite **V redu**.</span><span class="sxs-lookup"><span data-stu-id="d92fc-107">Click **OK**.</span></span>
-6. <span data-ttu-id="d92fc-108">Zaženite Excel.</span><span class="sxs-lookup"><span data-stu-id="d92fc-108">Restart Excel.</span></span>
+1. <span data-ttu-id="b0ad5-104">V Excelu kliknite možnosti **datoteke**  >  **Options**.</span><span class="sxs-lookup"><span data-stu-id="b0ad5-104">In Excel, click **File** > **Options**.</span></span>
+3. <span data-ttu-id="b0ad5-105">V pogovornem oknu **možnosti programa Excel** izberite **splošno**.</span><span class="sxs-lookup"><span data-stu-id="b0ad5-105">In the **Excel Options** dialog box, select **General**.</span></span>
+4. <span data-ttu-id="b0ad5-106">Pod **Možnosti uporabniškega vmesnika**počistite možnost **Omogoči predogled v živo**.</span><span class="sxs-lookup"><span data-stu-id="b0ad5-106">Under **User Interface options**, clear **Enable Live Preview**.</span></span>
+5. <span data-ttu-id="b0ad5-107">Kliknite **V redu**.</span><span class="sxs-lookup"><span data-stu-id="b0ad5-107">Click **OK**.</span></span>
+6. <span data-ttu-id="b0ad5-108">Znova zaženite Excel.</span><span class="sxs-lookup"><span data-stu-id="b0ad5-108">Restart Excel.</span></span>
