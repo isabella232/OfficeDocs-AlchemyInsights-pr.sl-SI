@@ -12,14 +12,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a580de2c963a53654499f1715dad7f3bb36c706
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765068"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331351"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>Težave pri ogledu informacij o prostem/zasedenem koledarju
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>Koraki za odpravljanje težav za razpoložljivost koledarja (prost/zaseden)
 
-Če v drugih koledarjih ne vidite informacij o prostem/zasedenem koledarju ali če druge osebe ne vidijo informacij o prostem/zasedenem času v vašem koledarju, uporabite [Microsoftov pomočnik za podporo in obnovitev](https://diagnostics.office.com/).
-  
+Na splošno najboljše orodje za odpravljanje težav s prostim/zasedeno je [izmenjava Remote Connectivity Analyzer (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) , da vidite, kje je propadlo. RCA vam bo dal podroben zapis o tem, kaj je delal in kaj ni uspelo s posebnimi sporočili o napakah lahko poiščete rešitve. Ima tudi povezavo do [Microsoftovega pomočnika za podporo in obnovitev](https://diagnostics.office.com/).
+
+Še eden dober orodje poskusiti je [koledar preveritev orodje zakaj razgled](https://www.microsoft.com/download/details.aspx?id=28786) če uporabnik has razgled.
