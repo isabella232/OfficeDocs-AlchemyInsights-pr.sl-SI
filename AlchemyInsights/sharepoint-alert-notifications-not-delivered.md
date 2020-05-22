@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742063"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343072"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>SharePointova obvestila o opozorilih niso bila dostavljena
 
@@ -33,15 +33,6 @@ Pogosta vprašanja o opozorilih:
 
 - Opozoril ni mogoče pošiljati skupini prejemnikov, podprte so samo varnostne in O365 skupine.
 - Predloge za e-poštno sporočilo z opozorili ni mogoče prilagoditi; za doseganje teh ciljev morate uporabiti Microsoft FLOW ali SharePoint Designer Workflow.
-
-Več informacij:
-
-- **Nastavitev**opozorila: Če želite več informacij o nastavljanju opozoril, glejte [Ustvarjanje opozorila za obvestilo, ko se datoteka ali mapa spremeni v SharePointu](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **Odpravljanje težav z opozorili**: Če želite več informacij o opozorilih za odpravljanje težav, glejte [Uporabniki ne prejemajo obvestil o opozorilih za SharePoint online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **Napredne O365 pravilniki o opozorilih o skladnosti**: Če želite več informacij o nastavljanju teh opozoril, glejte [Pravilniki o alarmu skladnosti](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **Dnevniki revizij v SharePointu in storitvi OneDrive**: Če želite več informacij o tem, kako pridobite te dogodke, glejte [iskanje dnevnika revizij](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **Opozorila, ki jih je poslala napredna zaščita pred grožnjami**: glejte [ATP za SharePoint in OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **Opozorila, poslana s politike preprečevanje izgub podatkov**: glejte [e-poštna obvestila za pravilnike DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>Sorodne teme
 
