@@ -12,19 +12,20 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: c0e444f0e87748aff172d3070c25e0ed02682b0a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3162bbd1f86deccfb22be114cdab93b5d5db270b
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712007"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373087"
 ---
-# <a name="isues-with-calendar-sharing-in-outlook"></a><span data-ttu-id="8e301-102">Isues s skupno rabo koledarja v programu Outlook</span><span class="sxs-lookup"><span data-stu-id="8e301-102">Isues with calendar sharing in Outlook</span></span>
+# <a name="troubleshooting-issues-with-calendar-sharing"></a><span data-ttu-id="8ce97-102">Odpravljanje težav s skupno rabo koledarja</span><span class="sxs-lookup"><span data-stu-id="8ce97-102">Troubleshooting issues with calendar sharing</span></span>
 
-- <span data-ttu-id="8e301-103">Če v drugih koledarjih ne vidite informacij o prostem/zasedenem koledarju ali če druge osebe ne vidijo informacij o prostem/zasedenem času v vašem koledarju, uporabite [Microsoftov pomočnik za podporo in obnovitev za microsoft 365](https://diagnostics.office.com/).</span><span class="sxs-lookup"><span data-stu-id="8e301-103">If you can't see calendar free/busy information in other calendars, or if other people can't see free/busy information in your calendar, use the [Microsoft Support and Recovery Assistant for Microsoft 365](https://diagnostics.office.com/).</span></span>
+- <span data-ttu-id="8ce97-103">Če želite diagnosticirati težave z dovoljenji, uporabite [Exchangeov oddaljeni Povezljivostni analizator prost zaseden](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy), ki daje zelo specifična sporočila o napakah.</span><span class="sxs-lookup"><span data-stu-id="8ce97-103">To diagnose permission issues, use [Exchange Remote Connectivity Analyzer Free Busy](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy), which gives very specific error messages.</span></span>
+- <span data-ttu-id="8ce97-104">Uporabite lahko tudi [Microsoftov pomočnik za podporo in obnovitev za microsoft 365](https://diagnostics.office.com/) , da diagnosticirate različne druge težave s koledarjem.</span><span class="sxs-lookup"><span data-stu-id="8ce97-104">You can also use the [Microsoft Support and Recovery Assistant for Microsoft 365](https://diagnostics.office.com/) to diagnose a variety of other calendar issue.</span></span> 
+- <span data-ttu-id="8ce97-105">Če ima uporabnik Desktop Outlook, lahko [orodje za preverjanje koledarja za Outlook](https://www.microsoft.com/download/details.aspx?id=28786) reši morebitne težave.</span><span class="sxs-lookup"><span data-stu-id="8ce97-105">If the user has Desktop Outlook, the [Calendar Checking Tool for Outlook](https://www.microsoft.com/download/details.aspx?id=28786) can solve potential problems.</span></span>
 
-<span data-ttu-id="8e301-104">**Dodatni viri:**</span><span class="sxs-lookup"><span data-stu-id="8e301-104">**Additional resources:**</span></span>
+<span data-ttu-id="8ce97-106">Dodatna sredstva:</span><span class="sxs-lookup"><span data-stu-id="8ce97-106">Additional how-to resources:</span></span>
 
-- [<span data-ttu-id="8e301-105">Skupna raba koledarja programa Outlook z drugimi osebami</span><span class="sxs-lookup"><span data-stu-id="8e301-105">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-
-- [<span data-ttu-id="8e301-106">Delite svoj koledar v Outlooku v spletu za podjetja</span><span class="sxs-lookup"><span data-stu-id="8e301-106">Share your calendar in Outlook on the web for business</span></span>](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [<span data-ttu-id="8ce97-107">Skupna raba koledarja programa Outlook z drugimi osebami</span><span class="sxs-lookup"><span data-stu-id="8ce97-107">Share an Outlook calendar with other people</span></span>](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
+- [<span data-ttu-id="8ce97-108">Delite svoj koledar v Outlooku v spletu za podjetja</span><span class="sxs-lookup"><span data-stu-id="8ce97-108">Share your calendar in Outlook on the web for business</span></span>](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
