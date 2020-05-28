@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ce37b260d126f876d2b6177515bd8a7c3874ef2c
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
-ms.translationtype: HT
+ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
+ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030672"
+ms.lasthandoff: 05/23/2020
+ms.locfileid: "44354069"
 ---
 # <a name="teams-client-crashing"></a>Ali se je odjemalec aplikacije Teams sesul?
 
@@ -24,32 +24,26 @@ ms.locfileid: "43030672"
 
 - Če uporabljate namizno aplikacijo Teams, [poskrbite, da bo aplikacija v celoti posodobljena](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- Prepričajte se, da so na voljo vsi [URL-ji in obsegi naslovov Office 365](https://docs.microsoft.com/microsoftteams/connectivity-issues).
+- Poskrbite, da bodo vsi [spletni naslovi in naslovi naslovov Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) dostopni.
 
-- Vpišite se s svojim skrbniškim računom in preverite [Nadzorne plošče za stanje storitve](https://docs.microsoft.com/office365/enterprise/view-service-health), da preverite, ali je prišlo do propada ali razgradnje storitve.
+- Prijavite se z računom skrbnika za najemnike in preverite, ali je na voljo [Nadzorna plošča storitve](https://docs.microsoft.com/office365/enterprise/view-service-health) , da preverite, ali degradacija ali storitev ne obstaja.
 
- - Kot zadnji korak lahko poskusite počistiti predpomnilnik odjemalca Teams:
+- Odstranite in znova namestite aplikacijo Teams (povezava)
+    - Prebrskajte do mape%appdata%\Microsoft\teams\ v računalniku in izbrišite vse datoteke v tem imeniku.
+    - [Prenesite in namestite aplikacijo Teams](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)in po možnosti namestite ekipe kot skrbnika (z desno miškino tipko kliknite namestitveni program in izberite» Zaženi kot skrbnik «, če je na voljo).
 
-    1.  Popolnoma zaprite namiznega odjemalca za Microsoft Teams. Z desno tipko miške kliknite **Teams** iz pladnja ikon in kliknite **zaprite**ali zaženite upravitelja opravil in popolnoma uničite postopek.
+Če je vaš stranka ekipe še vedno treskav, lahko to vprašanje reproducira? Če je tako:
 
-    2.  Pomaknite se v razdelek »raziskovalec datotek« in vnesite%appdata%\Microsoft\teams.
+1. Če želite zajeti korake, uporabite snemalnik korakov.
+    - Zaprite vse nepotrebne ali zaupne aplikacije.
+    - Zaženite snemalnik korakov in reproducirati težavo, medtem ko prijavljeni z prizadetim uporabniškim računom.
+    - [Zbirajo ekipe dnevniki, ki zajemajo posnete REPRO korake](https://docs.microsoft.com/microsoftteams/log-files). **Opomba**: poskrbite, da boste zajeli vpisni naslov vplivnega uporabnika.
+    - Zbirajte smetišče in/ali informacije o vedro napake (Windows). Zaženite Windows PowerShell na stroju, kjer se pojavlja nesreča in zaženite naslednje ukaze:
 
-    3.  Ko ste v imeniku, boste videli nekaj teh map:
-
-         - V **Predpomnilniku aplikacije**odprite predpomnilnik in izbrišite vse datoteke na mestu predpomnilnika:%appdata%\Microsoft\ teams\application cache\cache.
-
-        - V **Blob_storage**izbrišite vse datoteke:%appdata%\Microsoft\teams\ blob_storage.
-
-        - V **Predpomnilniku**, izbrišite vse datoteke:%appdata%\Microsoft\teams\Cache.
-
-        - V **Zbirkah podatkov**izbrišite vse datoteke:%appdata%\Microsoft\teams\databases.
-
-        - V **GPUCache**izbrišite vse datoteke:%appdata%\Microsoft\teams\GPUcache.
-
-        - V **IndexedDB**izbrišite datoteko. db:%appdata%\Microsoft\teams\IndexedDB.
-
-        - V **Lokalno shrambo**izbrišite vse datoteke: shramba%appdata%\Microsoft\teams\Local.
-
-        - Nazadnje, v **tmp**, izbrišite poljubno datoteko:%appdata%\Microsoft\teams\tmp.
-
-    4. Znova zaženite odjemalca za aplikacijo Teams.
+        `
+        PS C:\Users\user01> cd $env:temp
+        PS C:\Users\user01\AppData\Local\Temp> Get-EventLog -LogName Application -Message "*Teams.exe*" -InstanceId 1001 | Select-Object -First 10 | Format-List > FaultBuckets.txt
+        PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
+        `
+    
+2. Priložite datoteko v primer podpore.
