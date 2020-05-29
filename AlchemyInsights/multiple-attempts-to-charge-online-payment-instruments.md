@@ -13,21 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: 57e1ed7c7f85f14bb7f78bb8d3e7b844ed5a7a44
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957922"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418304"
 ---
 # <a name="past-due-account"></a>Zapadli račun?
 
-Plačilo je mogoče zavrniti iz več razlogov, tudi če je kreditna kartica potekla. Če želite spremeniti podatke o kreditni kartici in takoj znova oddati plačilo, lahko kadar koli uporabite funkcijo **poravnave ravnotežja** .
+Plačilo je mogoče zavrniti iz več razlogov, tudi če je kreditna kartica potekla. Če želite spremeniti podatke o kreditni kartici in takoj znova poslati plačilo, lahko uporabite funkcijo **poravnava stanja** kadar koli.
 
 1. V skrbniškem središču pojdite na **obračunavanje > [izdelke & storitve](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 Poiščite naročnino z neporavnanega salda. V razdelku **obračunavanje** poleg **naročnine je preteklo ustrezno plačilo**, kliknite **Poravnaj saldo** , da plačate celotno Neporavnano stanje.
-2. Če imate kreditno kartico, lahko spremenite datum poteka, izberete drugo kartico ali [dodate novo kartico](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
-3. Če nimate kreditne kartice, lahko izberete drugo kreditno kartico ali [dodate novo kartico](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide).
+2. Če imate kreditno kartico, lahko spremenite datum poteka, izberete drugo kartico ali [dodate novo kartico](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+3. Če nimate kreditne kartice, lahko izberete drugo kreditno kartico ali [dodate novo kartico](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
 4. Ko posodobitve **zaključimo**, kliknite Shrani.
 
 **Opomba**: po opravljeni plačilu je lahko preteklo ustrezno obvestilo še vedno vidno za kratek čas. Prosimo, počakajte vsaj **48 ur** , preden se obrnete na podporo.
