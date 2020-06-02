@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788682"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507042"
 ---
 # <a name="enable-an-archive-mailbox"></a>Omogočanje arhivskega nabiralnika
 
@@ -23,11 +23,11 @@ Arhivski nabiralniki v Microsoft 365 (imenovane tudi *spletni arhivi* ali *arhiv
   
 Arhivski nabiralnik ustvarite tako:
   
-1. Pojdi [https://protection.office.com](https://protection.office.com).
+1. Pojdi [https://protection.office.com](https://protection.office.com) .
 
 2. Prijavite se v Microsoft 365 z uporabo skrbniškega računa.
 
-3. V levem podoknu središča za preverjanje varnosti &amp; izberite \> **Arhiv** **upravljanja informacij** .
+3. V levem podoknu središča za preverjanje varnosti &amp; Izberite Arhiv **upravljanja informacij** \> **Archive**.
 
 4. Izberite uporabnika, čigar arhivski nabiralnik želite omogočiti.
 
@@ -43,7 +43,7 @@ Prav tako lahko množično omogočite arhivske nabiralnike tako, da izberete ve�
 
 1. Pojdite v [skrbniško središče za Exchange](https://outlook.office365.com/ecp) in se vpišite s skrbniškim računom.
 
-2. Pojdite v **Recipients** > **skupno rabo**prejemnikov.
+2. Odprite **prejemnike**v  >  **skupni rabi**.
 
 3. Izberite nabiralnik v skupni rabi.
 
@@ -51,6 +51,6 @@ Prav tako lahko množično omogočite arhivske nabiralnike tako, da izberete ve�
 
 Če želite več informacij, si oglejte:
   
-- [Omogočanje arhivskih nabiralnikov](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [Omogočanje arhivskih nabiralnikov](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [Nastavitev pravilnika o arhiviranju in brisanju](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

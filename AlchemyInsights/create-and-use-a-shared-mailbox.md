@@ -11,12 +11,12 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: ca48d2b4b3d19c5907ebf5a4525c670fe3608e2c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d38a8c19ab5329f4a4a8d09ad248db07fcce5d42
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049821"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507674"
 ---
 # <a name="create-and-use-a-shared-mailbox"></a>Ustvarjanje in uporaba nabiralnika v skupni rabi
 
@@ -24,5 +24,5 @@ Nabiralnik v skupni rabi omogoča več kot eni osebi pošiljanje in prejemanje e
   
 - Če želite začeti, [sledite tem korakom](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) v skrbniškem središču za Microsoft 365. 
 
-Preberete lahko tudi članek [Ustvarjanje nabiralnika v skupni rabi](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox) , ki vam bo povedal vse, kar morate vedeti o nabiralnikih v skupni rabi, vključno s tem, kako jih uporabljati.
+Preberete lahko tudi članek [Ustvarjanje nabiralnika v skupni rabi](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) , ki vam bo povedal vse, kar morate vedeti o nabiralnikih v skupni rabi, vključno s tem, kako jih uporabljati.
   

@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 4419dd8dcd13f711e9307c8fc870762ffce57b8f
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: d2a331b7bbdbffd8a951aef171350a48eb4b859f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911164"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507114"
 ---
 # <a name="ediscovery-settings"></a>Nastavitve e-odkrivanja
 
@@ -28,4 +28,4 @@ z iskanji e-odkrivanja/vsebine lahko iščete, pridržite in izvozite vsebino iz
 - Preberite več o dovoljenjih, potrebnih za izvajanje iskanj e-odkrivanja iz dovoljenj, ki so [potrebna za iskanje e-odkrivanja](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
 - Če iskanje ne vrne pričakovanih rezultatov, glejte Iskanje, ki [ne vrača pričakovanih rezultatov](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Če želite več informacij o e-odkrivanju, si oglejte [e-odkrivanje](https://docs.microsoft.com/office365/securitycompliance/ediscovery).
+Če želite več informacij o e-odkrivanju, si oglejte [e-odkrivanje](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).

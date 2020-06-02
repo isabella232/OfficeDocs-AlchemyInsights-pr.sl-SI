@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010270"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507602"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>Uvajanje Microsoftovih 365 aplikacij za podjetje za souporabo v skupni rabi na RDS, terminalskem strežniku ali VDI
 
@@ -38,9 +38,9 @@ ms.locfileid: "44010270"
 
 Če želite namestiti Microsoft 365 apps za podjetje na RDS iz Microsoft 365 skrbniško središče, ***ki uporablja privzete nastavitve namestitve***, uporabite naslednje korake:
 
-1.    Preverite, kakšno naročnino imate. [Naučite se kako](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    Po potrebi preklopite na drugo naročnino. [Naučite se kako](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    Če je Office že nameščen v strežniku RDS z uporabo drugih Microsoftovih naročnin, ga odstranite. Na primer, z tekoč v **pregled svet** > **uninstall a disciplinski nadzornik v Oxfordu ali Cambridgeu**. Odstranite z [Microsoftovim pomočnikom za podporo in obnovitev](https://aka.ms/SARA-OfficeUninstall-Alchemy) , če izvajate težave.
+1.    Preverite, kakšno naročnino imate. [Naučite se kako](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    Po potrebi preklopite na drugo naročnino. [Naučite se kako](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    Če je Office že nameščen v strežniku RDS z uporabo drugih Microsoftovih naročnin, ga odstranite. Na primer, z tekoč v **pregled panel**  >  **uninstall a disciplinski nadzornik v Oxfordu ali Cambridgeu**. Odstranite z [Microsoftovim pomočnikom za podporo in obnovitev](https://aka.ms/SARA-OfficeUninstall-Alchemy) , če izvajate težave.
 4.    V strežniku RDS se vpišite v skrbniško središče Microsoft 365 s skrbniškim računom in [namestite Microsoft 365 apps za podjetje](https://portal.office.com/OLS/MySoftware.aspx).
 5.    Ko je Office nameščen, se ***ne odpirajte ali vpišite v*** Officeove aplikacije.
 6.    V strežniku RDS omogočite aktiviranje računalnika v skupni rabi tako, da uredite register tako, da sledite tem korakom:
