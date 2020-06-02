@@ -11,20 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "2697"
 ms.assetid: ''
-ms.openlocfilehash: 2350586e95f316061ff855d152e86db0547eb209
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 869cd3d9fb8e5fce291244e4a39754d074b11358
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761184"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511740"
 ---
 # <a name="outbound-email-to-junk-email-folder"></a>Odhodna e-pošta v mapo» Neželena e-pošta «
 
 Če vidite odhodna sporočila, ki so označena kot neželena, naredite naslednje korake:
 
-- Če tega še niste storili, razmislite o [konfiguriranju obvestil o odhodni vsiljeni pošti](https://docs.microsoft.com/office365/securitycompliance/configure-the-outbound-spam-policy).
+- Če tega še niste storili, razmislite o [konfiguriranju obvestil o odhodni vsiljeni pošti](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy).
 
-- Uporabite [sledenje sporočilom](https://docs.microsoft.com/office365/securitycompliance/message-trace-scc) , če želite videti, ali je odhodno sporočilo **vsiljeno z neželeno** vrednostjo z dodatnimi podrobnostmi: **uporabite dobavno skupino z visokim tveganjem**.
+- Uporabite [sledenje sporočilom](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) , če želite videti, ali je odhodno sporočilo **vsiljeno z neželeno** vrednostjo z dodatnimi podrobnostmi: **uporabite dobavno skupino z visokim tveganjem**.
 
   Za ta sporočila preverite vsebino sporočila in si oglejte, kaj se lahko šteje za neželeno. Podpisi lahko na primer včasih povzročijo težave za mnoge uporabnike.
 

@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6bbbf8722dacb8b7d5191d57ce1055a48dcb4dd0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764888"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511524"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>Šifriranje e-poštnih sporočil v programu Outlook
 
@@ -24,7 +24,7 @@ Na podlagi povratnih informacij strank ne bomo več omogočali pravil o pretoku 
 
 - Če uporabljate Outlook v spletu (prej **OWA**): ko sestavljate e-poštno sporočilo, preprosto kliknite **zaščitite** v owa. To bo veljalo za dovoljenje» ne Posreduj «. Kliknite **Spremeni dovoljenje** in izberite **šifriranje** , da šifrirate samo sporočilo.
 
-- Če uporabljate **Outlook Client**: Če želite poslati šifrirano sporočilo iz Outlooka 2013 ali 2016 ali Outlook 2016 za Mac, izberite **možnosti** > **dovoljenja**, nato pa izberite možnost zaščite, ki jo potrebujete.
+- Če uporabljate **Outlookovo stranko**: Če želite poslati šifrirano sporočilo iz Outlooka 2013 ali 2016 ali Outlook 2016 za Mac, izberite **možnosti**  >  **dovoljenja**, nato izberite zaščito, ki jo potrebujete.
 
-- Če želite **samodejno šifrirati vso e-poštno sporočilo** , poslano nekaterim prejemnikom ali zunanjim partnerskim organizacijam, morate v skrbniškem središču za Exchange ustvariti pravilo za prenos pošte. Podrobna navodila so na voljo v [tem članku za podporo](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- Če želite **samodejno šifrirati vso e-poštno sporočilo** , poslano nekaterim prejemnikom ali zunanjim partnerskim organizacijam, morate v skrbniškem središču za Exchange ustvariti pravilo za prenos pošte. Podrobna navodila so na voljo v [tem članku za podporo](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

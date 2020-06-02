@@ -13,12 +13,12 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 558ebba836d114a3d04848aae3c0ef598d8ea120
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: cabb1463fd27cc26f2482210d50eb38823e8a60a
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784203"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511272"
 ---
 # <a name="restore-a-user"></a>Obnovitev uporabnika
 
@@ -32,4 +32,4 @@ Obnovite uporabnika z uporabo teh korakov:
 
 4. Kliknite **Pošlji e-pošto in zaprite**, in končali ste!
 
-Ni bilo tako lahko? Za več podrobnosti in korake z zaslonom shots, odjaviti ta članek: [obnoviti uporabnika](https://docs.microsoft.com/office365/admin/add-users/restore-user). Če se zavedate, da morate namesto tega obnoviti uporabnikovo nabiralnik, glejte: [izbrišite ali obnovite uporabniške nabiralnike v Exchangeevem spletu](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Ni bilo tako lahko? Za več podrobnosti in korake z zaslonom shots, odjaviti ta članek: [obnoviti uporabnika](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user). Če se zavedate, da morate namesto tega obnoviti uporabnikovo nabiralnik, glejte: [izbrišite ali obnovite uporabniške nabiralnike v Exchangeevem spletu](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

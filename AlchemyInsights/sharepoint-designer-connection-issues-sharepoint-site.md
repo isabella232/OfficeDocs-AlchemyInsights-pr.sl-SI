@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 9730bd66afd494385db3de605f5fe68d0f274ed3
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 01ccc6bc28148f397fb6cd2b7a0eaaeb5b51973f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051729"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511560"
 ---
 # <a name="sharepoint-designer-connection-issues"></a>Težave s povezavo za SharePoint Designer 
 
@@ -37,7 +37,7 @@ Korak 1: Preverite, ali je SharePoint Designer 2013 posodobljen s [servisnim pak
 
 3. Odprite SharePoint Designer 2013 in znova vnesite račun, da preverite, ali deluje.
 
-Korak 3: [omogočite sodobno preverjanje pristnosti za Office 2013 v napravah s sistemom Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication?redirectSourcePath=/article/Enable-Modern-Authentication-for-Office-2013-on-Windows-devices-7dc1c01a-090f-4971-9677-f1b192d6c910&view=o365-worldwide).
+Korak 3: [omogočite sodobno preverjanje pristnosti za Office 2013 v napravah s sistemom Windows](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
 
 Korak 4: skrbniki bodo morali **dovoliti skript po meri** v nastavitvah SharePoint skrbniško središče, da se omogoči povezava SharePointovega oblikovalca. Če želite več informacij, glejte [Omogočanje ali preprečevanje skripta po meri](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script) .
 

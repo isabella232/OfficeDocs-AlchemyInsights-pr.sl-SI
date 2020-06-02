@@ -12,12 +12,12 @@ ms.custom:
 - "2008"
 - "9000355"
 ms.assetid: 8e0ec879-3f0e-423b-9d72-5e52fc2b9e0c
-ms.openlocfilehash: 37cdc6943b28dc6823044957691767351d4ac246
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: cfe6091baec784a0b726ccc6e1b97a3ce1d00c8d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051045"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512642"
 ---
 # <a name="manage-your-sharepoint-online-storage"></a>Upravljanje shrambe za SharePoint online
 
@@ -29,9 +29,9 @@ Preberite več [o ogledu skupnega in razpoložljivega prostora za shranjevanje v
 
 Naučite se [upravljati posamezne omejitve shrambe za zbirko mest](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits).
 
-Če je vaše spletno mesto izven prostora ali če želite izvedeti, katera knjižnica ali seznam uporablja prostor, odprite > **meritve shrambe za** **Nastavitve mesta**(skrbniške pravice za zbirko mest so potrebne).
+Če je vaše spletno mesto izven prostora ali če želite izvedeti, katera knjižnica ali seznam uporablja prostor, odprite **Site Settings**  >  **meritve shrambe za** nastavitve mesta (skrbniške dovoljenja za zbirko mest so obvezna).
 
 Preberite, kako [nadzirate omejitve shranjevanja mesta z uporabo lupine PowerShell](https://docs.microsoft.com/sharepoint/manage-site-collection-storage-limits#monitor-site-storage-limits-by-using-powershell).
 
-Preberite več o [nakupu dodatnega shranjevanja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-storage-space). 
+Preberite več o [nakupu dodatnega shranjevanja](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space). 
   
