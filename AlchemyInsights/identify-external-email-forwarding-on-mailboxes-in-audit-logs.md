@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716476"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508968"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Ugotovite, kdaj je zunanje posredovanje e-pošte konfigurirano v nabiralnikih
 
@@ -25,7 +25,7 @@ Ko uporabnik Microsoft 365 konfigurira zunanje posredovanje e-pošte v nabiralni
 
 1. Prijavite se v [Microsoft 365 Security & center za skladnost](https://protection.office.com/).
 
-2. Pojdite na stran za**iskanje dnevnika revizij** **iskanja** > .
+2. Pojdite na stran **Search**za  >  **iskanje dnevnika revizij** iskanja.
 
 3. Izberite časovno območje v polji **Začetni datum** in **končni datum** . Uporabniškega imena ni treba določiti. Preverite, ali je polje **dejavnosti** nastavljeno tako, da **prikazuje rezultate za vse dejavnosti**.
 
@@ -39,4 +39,4 @@ V rezultatih kliknite **filter rezultati** in vrsta **set-poštni nabiralnik** v
 
 - **Userid**: uporabnik, ki je konfiguriral posredovanje e-pošte v nabiralniku v polju **objectid** .
 
-Če želite več informacij, glejte [določanje, kdo je nastavil posredovanje e-pošte za nabiralnik](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+Če želite več informacij, glejte [določanje, kdo je nastavil posredovanje e-pošte za nabiralnik](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 30cdd925c0be9d38572fbc9acc5cd3fcf97ef11f
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: b53dc3017cb2a47b25e5c603dcbc5e76fb8dc675
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061687"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508320"
 ---
 # <a name="cancelling-your-microsoft-365-subscription"></a>Preklic naročnine na Microsoft 365?
 
@@ -28,4 +28,4 @@ ms.locfileid: "44061687"
 
 - Če imate več kot 25 dodeljenih licenc, lahko uporabnike odstranite, dokler nimate manj kot 25, ali pa uporabite možnost» Dovolite nam klic «, da se pogovorite z inženirjem za podporo.
 
-Če želite izvedeti več, glejte [preklic naročnine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+Če želite izvedeti več, glejte [preklic naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

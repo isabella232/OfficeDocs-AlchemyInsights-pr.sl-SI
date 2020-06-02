@@ -13,12 +13,12 @@ ms.assetid: 9b3a36d7-9d59-424f-91f4-5cd58a878ef8
 ms.custom:
 - "647"
 - "2000016"
-ms.openlocfilehash: d6154b76c12efce5452f69fd54acea2017b29c78
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05745813ddeeee11b6c0c76558596e90560a6971
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759276"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509292"
 ---
 # <a name="how-to-install-mac-office-from-the-portal"></a>Kako namestiti Mac Office s portala
 
@@ -26,6 +26,6 @@ ms.locfileid: "43759276"
 
 2. [Upravljajte nastavitve prenosa programske opreme](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).
 
-3. [Dodelite licence uporabnikom](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+3. [Dodelite licence uporabnikom](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
 
 4. Uporabniki lahko nato namestijo Officeovo programsko opremo sami, lahko pa uporabite [uvajanje Officea za uporabnike računalnikov Mac](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).

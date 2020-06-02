@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645688"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509400"
 ---
 # <a name="setup-dkim"></a>Nastavitev DKIM
 
-Popolna navodila za konfiguriranje DKIM za domene po meri v Microsoft 365 so [tukaj](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+Popolna navodila za konfiguriranje DKIM za domene po meri v Microsoft 365 so [tukaj](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
 1. Za **vsako** domeno po meri morate ustvariti **dva** zapisa DKIM CNAME v storitvi gostovanja DNS domene (običajno registrar domene). Contoso.com in fourthcoffee.com na primer zahtevata štiri zapise DKIM CNAME: dve za contoso.com in dva za fourthcoffee.com.
 
@@ -36,7 +36,7 @@ Popolna navodila za konfiguriranje DKIM za domene po meri v Microsoft 365 so [tu
 
      **TTL**: 3600
 
-   \<DomainGUID\> je besedilo v levem `.mail.protection.outlook.com` zapisu po meri MX za domeno po meri (na primer `contoso-com` za domeno contoso.com). \<InitialDomain\> je domena, ki ste jo uporabili, ko ste se prijavili za Microsoft 365 (na primer contoso.onmicrosoft.com).
+   \<DomainGUID\>je besedilo na levi strani v meri `.mail.protection.outlook.com` zapisa MX za domeno po meri (na primer `contoso-com` za domeno contoso.com). \<InitialDomain\>je domena, ki ste jo uporabili, ko ste se prijavili za Microsoft 365 (na primer contoso.onmicrosoft.com).
 
 2. Ko ustvarite zapise CNAME za domene po meri, izpolnite ta navodila:
 
@@ -46,6 +46,6 @@ Popolna navodila za konfiguriranje DKIM za domene po meri v Microsoft 365 so [tu
 
    C. V spodnjem levem krmarjenju razširite možnost **skrbnik** in izberite **Exchange**.
 
-   D. Pojdi na **zaščito** > **DKIM**.
+   D. Pojdi na **zaščito**  >  **DKIM**.
 
    E. Izberite domeno in nato izberite **Omogoči** za **podpisovanje sporočil za to DOMENO s podpisi DKIM**. Ponovite ta korak za vsako domeno po meri.

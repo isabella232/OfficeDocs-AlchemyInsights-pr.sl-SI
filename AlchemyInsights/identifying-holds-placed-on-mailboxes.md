@@ -12,12 +12,12 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 7b41745a3e86b6727d5f8fac48a33ae8dce1f9f8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 13eb97b9278ac3327425bbb6f03ebeb2e3a24ea2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724792"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508896"
 ---
 # <a name="identify-holds-placed-on-mailboxes"></a>Prepoznavanje zadržanj, danih v nabiralnike
 
@@ -37,4 +37,4 @@ Ali imate Microsoftovo 365 vsebino, ki jo **zadrži** **Hold** , ki je ne morete
 
 - Microsoftove oznake 365
 
-Če želite ugotoviti, katero vrsto zadržanja se uporablja za nabiralnik uporabnika, glejte [Kako prepoznati vrsto zadržanja, ki je dano v nabiralnik Exchange Online](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox).
+Če želite ugotoviti, katero vrsto zadržanja se uporablja za nabiralnik uporabnika, glejte [Kako prepoznati vrsto zadržanja, ki je dano v nabiralnik Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).

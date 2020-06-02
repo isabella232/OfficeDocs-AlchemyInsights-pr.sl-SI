@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767805"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509364"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>Nastavitev naročnine na O365 Business Essentials
 
@@ -23,11 +23,11 @@ Ustvarite Microsoft 365 računov in dodajte svojo domeno
     
 - Odprite [skrbniško središče za Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- Če želite zagnati čarovnika, izberite **Pojdi na nastavitev**. Če želite izvedeti več, glejte [Dodajanje domene microsoftu 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- Če želite zagnati čarovnika, izberite **Pojdi na nastavitev**. Če želite izvedeti več, glejte [Dodajanje domene microsoftu 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 Uvoz e-pošte
   
-- Premaknite obstoječo e-poštno sporočilo in stike iz drugih e-poštnih sistemov v nabiralnik Microsoft 365, da boste lahko videli vse na enem mestu. Za možnosti selitve [selitev e-pošte in stikov v Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- Premaknite obstoječo e-poštno sporočilo in stike iz drugih e-poštnih sistemov v nabiralnik Microsoft 365, da boste lahko videli vse na enem mestu. Za možnosti selitve [selitev e-pošte in stikov v Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - Povezovanje e-poštnih računov
     
@@ -41,6 +41,6 @@ Shranjevanje datotek na spletu
   
 - Če želite izvedeti, katera mesta shranjevanja so najboljša za vaše podjetje, si oglejte, [kje lahko shranjujete datoteke v Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Ko za njih ustvarite račune za Microsoft 365, vsi dobijo samodejno lokacijo shrambe v oblaku v **storitvi OneDrive** . V storitvi OneDrive lahko dostopate do datotek v računalnikih, telefonih in tabličnih računalnikih. 
     
-Podrobni koraki za nastavitev so na voljo v [tem članku](https://docs.microsoft.com/office365/admin/setup/setup).
+Podrobni koraki za nastavitev so na voljo v [tem članku](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 

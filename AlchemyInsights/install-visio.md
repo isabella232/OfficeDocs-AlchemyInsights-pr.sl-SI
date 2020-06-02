@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766005"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508680"
 ---
 # <a name="install-visio"></a>Namestitev programa Visio
 
@@ -25,7 +25,7 @@ Visio se prodaja kot samostojna aplikacija, če je še nimate, [kupite ali posku
 
 **Opomba**: Visio online (paket 1) ne vključuje namizne različice Visia, zato ni mogoče namestiti nobene namestitve.
 
-Če imate naročnino na Visio online (paket 2), morate uporabniku [dodeliti licenco](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) ali pa ne bo imel možnosti nameščati Visia z **mojih namestitvami** na [portalu moj račun](https://portal.office.com/account#installs). 
+Če imate naročnino na Visio online (paket 2), morate uporabniku [dodeliti licenco](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) ali pa ne bo imel možnosti nameščati Visia z **mojih namestitvami** na [portalu moj račun](https://portal.office.com/account#installs). 
 
 Ne-zvitek dati dovoljenje prevod od Visio raven [s] ali Visio poklicen ste združen s mikroskop račun ter vekanje ' obstati jahalna šola v pomoč središče. Če želite namestiti te različice, se morajo uporabniki vpisati v [Account.Microsoft.com](https://account.microsoft.com) z Microsoftovim računom, povezanim s to različico Visia.
 
