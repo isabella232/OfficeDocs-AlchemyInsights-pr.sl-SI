@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 9200f436bae0e10a15b3edeed1e4bec3c1b698b6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709459"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505559"
 ---
 # <a name="looking-to-buy-a-new-subscription"></a>Iščete kupiti novo naročnino?
 
-Če že imate naročnino za Microsoft 365 za poslovna razmerja in želite kupiti drugo naročnino za svojo organizacijo, pojdite na stran [nabavne storitve](https://go.microsoft.com/fwlink/p/?linkid=868433) za **obračunavanje** \> , da si ogledate seznam naročnin, ki so na voljo vaši organizaciji.
+Če že imate naročnino za Microsoft 365 za poslovna razmerja in želite kupiti drugo naročnino za svojo organizacijo, pojdite na **Billing** \> stran [nabavne storitve](https://go.microsoft.com/fwlink/p/?linkid=868433) za obračunavanje, če želite videti seznam naročnin, ki so na voljo vaši organizaciji.
  
 1. Izberite želeno naročnino in izberite **kupi**.
 
@@ -32,8 +32,8 @@ ms.locfileid: "43709459"
 
  **Dodatni viri:**
   
-- [Dodeljevanje licenc uporabnikom v Microsoft 365 za podjetja](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Dodeljevanje licenc uporabnikom v Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [Preklic naročnine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [Preklic naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Če vas zanima preklapljanje naročnin, glejte [preklop na drug microsoftov 365 za poslovni načrt.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan)
+- Če vas zanima preklapljanje naročnin, glejte [preklop na drug microsoftov 365 za poslovni načrt.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

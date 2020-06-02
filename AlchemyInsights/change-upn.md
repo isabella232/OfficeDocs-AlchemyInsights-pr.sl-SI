@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1bc503732b8aba2b509dc48e97434c2d4bc55c65
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706470"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506027"
 ---
 # <a name="change-a-users-email-address"></a>Spreminjanje e-poštnega naslova uporabnika
 
 Spreminjanje e-poštnega naslova nekoga je enostavno! Samo sledite tem korakom:
   
-1. V skrbniškem središču Microsoft 365 pojdite na stran» [Uporabniki](https://go.microsoft.com/fwlink/p/?linkid=834822) «ali izberite **uporabnike** \> **aktivnih uporabnikov**.
+1. V skrbniškem središču Microsoft 365 obiščite stran» [Uporabniki](https://go.microsoft.com/fwlink/p/?linkid=834822) «ali izberite **Uporabniki** \> **aktivnih uporabnikov**.
     
 2. Izberite uporabnika.
     
@@ -38,6 +38,6 @@ Spreminjanje e-poštnega naslova nekoga je enostavno! Samo sledite tem korakom:
     
 6. Izberite **Shrani**, nato **zaprite**in končali ste!
     
-Ni bilo tako lahko? Zakaj več podrobnost ter lestev s screenshots, odjaviti se to člen: [sprememba a uporabnik ime ter email ogovor](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+Ni bilo tako lahko? Zakaj več podrobnost ter lestev s screenshots, odjaviti se to člen: [sprememba a uporabnik ime ter email ogovor](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

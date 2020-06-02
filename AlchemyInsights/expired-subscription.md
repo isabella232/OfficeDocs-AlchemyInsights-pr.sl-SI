@@ -13,12 +13,12 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: a55889770340946adf88916b2cf2ab44cf4959ef
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 22c90680fbd6b3959f23512d12d84180c142ab90
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063489"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505595"
 ---
 # <a name="expired-subscription"></a>Potekla naročnina
 
@@ -34,7 +34,7 @@ Zdi se, da imate eno ali več poteklih naročnin. Če želite nadaljevati s stor
 
 3. Potrdite podrobnosti plačila. Tukaj lahko posodobite informacije o plačilu. Ko končate z vnašanjem načina plačila, izberite možnost **Znova aktiviraj**.
 
-Če želite več informacij, preberite članek [Vnovična aktivacija naročnine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+Če želite več informacij, preberite članek [Vnovična aktivacija naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Naredite nov nakup**
   
@@ -46,4 +46,4 @@ Zdi se, da imate eno ali več poteklih naročnin. Če želite nadaljevati s stor
 
 4. Sledite preostalim korakom, da dokončate preverjanje.
 
-Če želite izvedeti več, glejte [nakup druge naročnine](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription).
+Če želite izvedeti več, glejte [nakup druge naročnine](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
