@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: e44a2c9ba855daec0b79212655d52c291c3c72eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3e82793bb993aeba66eab0cca5c8b1d18d7f9103
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682308"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504891"
 ---
 # <a name="activate-visio"></a>Aktiviranje programa Visio
 
-Preden lahko uporabnik namesti in aktivira namizno Visiovo aplikacijo Visio, vključeno v svoj Visio online (paket 2), mora biti uporabniku dodeljena [Visiova licenca](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+Preden lahko uporabnik namesti in aktivira namizno Visiovo aplikacijo Visio, vključeno v svoj Visio online (paket 2), mora biti uporabniku dodeljena [Visiova licenca](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Opomba** Visio online (paket 1) ne vključuje namizne različice Visia.
 
@@ -33,7 +33,7 @@ Preden lahko uporabnik namesti in aktivira namizno Visiovo aplikacijo Visio, vkl
 Za težave z aktiviranjem zaženite [orodje za odpravljanje težav z aktiviranjem](https://aka.ms/SARA-OfficeActivation-Alchemy) v prizadetem računalniku.
 
 Za podrobnejše informacije glej:<br>
-[Aktiviranje Officea v računalniku](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Aktiviranje Officea v PC-ju](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
 [Ko odprem Microsoftovo aplikacijo, se prikaže obvestilo o naročnini](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
-[Napaka v Officeu» izdelki, ki smo jih našli v vašem računu, <app>ne morejo biti uporabljeni za aktiviranje «](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
+[Napaka v Officeu» izdelki, ki smo jih našli v vašem računu, ne morejo biti uporabljeni za aktiviranje <app> «](https://support.office.com/article/c9f9a0b3-5aae-4131-8077-21e6a59f141e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
 [Napake v Officeu, povezane z nelicenciranim izdelkom in aktiviranjem](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)

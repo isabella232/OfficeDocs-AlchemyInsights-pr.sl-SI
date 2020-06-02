@@ -13,12 +13,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 6051af464630a9a23d47d8ae8e7b1c4729cc06e0
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957886"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496003"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Dodeljevanje licenc uporabnikom ali njihovo odvzeti
 
@@ -34,4 +34,4 @@ Uporabnik potrebuje licenco za dostop do storitev. Tukaj so koraki za **Dodajanj
 
 4. Na dnu podokna kliknite **Shrani spremembe**.
 
-Če želite več informacij, glejte [dodeljevanje licenc uporabnikom](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)in [odstranjevanje licenc od uporabnikov](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-users).
+Če želite več informacij, glejte [dodeljevanje licenc uporabnikom](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)in [odstranjevanje licenc od uporabnikov](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).

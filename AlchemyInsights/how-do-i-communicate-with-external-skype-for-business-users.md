@@ -12,20 +12,20 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
-ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
+ms.openlocfilehash: 3bdd3fc028e0cd3cd6ec5692e11c303dcd7ace6b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/25/2020
-ms.locfileid: "42265104"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44496291"
 ---
 # <a name="allow-external-communications-with-skype-for-business"></a>Omogočanje zunanjih komunikacij s storitvijo Skype za podjetja 
 
 Ali želite uporabnikom Skype za podjetja omogočiti, da se obrnejo na uporabnike zunaj vaše organizacije? Glejte [Omogočanje uporabnikom, da se obrnejo na zunanje uporabnike Skypa za podjetja](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-Zapise DNS je treba pravilno nastaviti za pravilno delovanje zunanjih komunikacij. Preverite, ali imamo posebna navodila o [tem, kako](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) nastaviti DNS zapise s svojim ponudnikom. 
+Zapise DNS je treba pravilno nastaviti za pravilno delovanje zunanjih komunikacij. Preverite, ali imamo posebna navodila o [tem, kako](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions) nastaviti DNS zapise s svojim ponudnikom. 
 
-Ali želite omogočiti uporabnikom Skype za podjetja, da se obrnejo na uporabnike programa Skype za potrošnike? Videli:
+Ali želite omogočiti uporabnikom Skype za podjetja, da se obrnejo na uporabnike programa Skype za potrošnike? Glejte:
 
 - [Naj uporabniki Skype za podjetja dodajo stike Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
 
