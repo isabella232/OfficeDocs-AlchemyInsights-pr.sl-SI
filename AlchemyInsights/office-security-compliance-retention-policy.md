@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 009c7f3848a7ab911a250c6b761c195d2fa37ba2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761332"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510984"
 ---
 # <a name="more-info-about-retention-policies"></a>Več informacij o politikah hranjenja
 
@@ -27,15 +27,15 @@ Za večino organizacij, obseg in kompleksnost njihovih podatkov narašča dnevno
 ## <a name="a-from-security-and-compliance-center"></a>A) iz središča za varnost in skladnost
 
 - Pojdi na varnost in skladnost > upravljanje podatkov > zadržanje
-  - Glej [ta](https://docs.microsoft.com/office365/securitycompliance/retention-policies) članek
+  - Glej [ta](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) članek
 
 - Pojdi na varnost in skladnost > e-discovery> napredno e-odkrivanje 
-  - Glej [ta](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) članek
+  - Glej [ta](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) članek
 
 - Pojdi na varnost in skladnost > klasifikacije > zadržanje
   - Oglejte si te članke
-    - [Oznake občutljivosti](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [Pregled oznak](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [Oznake občutljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+    - [Pregled oznak](https://docs.microsoft.com/microsoft-365/compliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>B) podedovane politike e-odkrivanja
 

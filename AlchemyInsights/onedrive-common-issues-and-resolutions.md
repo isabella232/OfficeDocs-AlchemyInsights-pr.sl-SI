@@ -11,12 +11,12 @@ ms.collection: Admin_O365
 ms.custom:
 - "9000293"
 - "1901"
-ms.openlocfilehash: 48e479de381dc5bd969002a6257416fdd5b3cac4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 244630d2e9cd619ff8802be5c653ec7b2c40486e
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054646"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510948"
 ---
 # <a name="onedrive-common-issues-and-resolutions"></a>Pogosta vprašanja in resolucije storitve OneDrive
 
@@ -27,4 +27,4 @@ Tukaj je nekaj pogosto zahtevanih tem glede težav v storitvi OneDrive:
 - **Odpravljanje težav pri sinhronizaciji storitve onedrive**: Če OneDrive ne sinhronizira datotek na način, ki ga pričakujete, lahko [odpravite težave s sinhronizacijo v storitvi Onedrive](https://go.microsoft.com/fwlink/?linkid=866431) za sistem Windows. Uporabljate Mac? Odpravite lahko tudi [težave s sinhronizacijo](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756) .
 - **Omejitve storitve onedrive**: Preberite več o [omejitvah in omejitvah](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa) , ki veljajo za imena datotek in vrste datotek pri sinhronizaciji s storitvijo OneDrive.
 - **Shramba v storitvi onedrive**: Oglejte si, kako [spremenite prostor za shranjevanje v storitvi onedrive za določene uporabnike](https://docs.microsoft.com/onedrive/change-user-storage) ali [upravljate shrambo storitve onedrive za podjetja](https://support.office.com/article/Manage-your-OneDrive-for-Business-storage-31519161-059C-4764-B6F8-F5CD29F7FE68).
-- **Dnevniki revizij**: Oglejte si, kako lahko [uporabite iskanje dnevnika nadzora](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) za preverjanje dejavnosti datotek, map, uporabnikov ali dovoljenj. 
+- **Dnevniki revizij**: Oglejte si, kako lahko [uporabite iskanje dnevnika nadzora](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log) za preverjanje dejavnosti datotek, map, uporabnikov ali dovoljenj. 
