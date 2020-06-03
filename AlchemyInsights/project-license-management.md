@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "5105"
-ms.openlocfilehash: c61963920f703c3c9e25291bdcb4e6e64b928060
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: db451e46b8b908c4497d459d963905f597cf57f2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991060"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512426"
 ---
 # <a name="project-license-management"></a>Upravljanje licenc Project
 
@@ -27,6 +27,6 @@ Postopek upravljanja licenc lahko dokončate v **Skrbniškem središču za Micro
 - Če želite **zamenjati pakete**, glejte [Ročno zamenjajte pakete Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - Če želite **dodeliti** licence za Project, izberite **Obračunavanje > [Licence](https://go.microsoft.com/fwlink/p/?linkid=842264)**. Če želite več informacij, glejte razdelek [Dodelitev licenc](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - Če želite **dodati/odstraniti** licence storitve Project, izberite **Obračunavanje > [Nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433)**. Če želite več informacij, glejte razdelek [Dodajanje/odstranjevanje licenc](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- Če želite **preklicati** licence za storitev Project, pojdite v razdelek **Obračunavanje > [Izdelki in storitve](https://go.microsoft.com/fwlink/p/?linkid=842054),** izberite **Nastavitve in dejanja**in kliknite **Prekliči naročnino**. Če želite več informacij, preberite članek [Prekličite naročnino](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- Če želite **preklicati** licence za storitev Project, pojdite v razdelek **Obračunavanje > [Izdelki in storitve](https://go.microsoft.com/fwlink/p/?linkid=842054),** izberite **Nastavitve in dejanja**in kliknite **Prekliči naročnino**. Če želite več informacij, preberite članek [Prekličite naročnino](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 Če želite več informacij, preberite [Upravljanje licenc za naročnino](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).

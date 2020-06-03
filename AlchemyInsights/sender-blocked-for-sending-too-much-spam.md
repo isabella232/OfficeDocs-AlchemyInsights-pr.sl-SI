@@ -1,5 +1,5 @@
 ---
-title: Pošiljatelj je blokiran zaradi pošiljanja prevelike količine neželene pošte
+title: Pošiljatelj je omejen za pošiljanje preveč vsiljene pošte
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.custom:
 - "254"
 - "3500002"
 ms.assetid: 8282bd76-79f7-4f8a-ae2b-dc8f9ac1aa62
-ms.openlocfilehash: ab49df06697f45e23e80e18b56257c45140722aa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 23d09bd34ad13bdfce3259afcafb14222920f95f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709171"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511920"
 ---
-# <a name="account-is-blocked-for-sending-too-much-spam"></a>Račun je blokiran zaradi pošiljanja prevelike količine neželene pošte
+# <a name="account-is-restricted-for-sending-too-much-spam"></a>Račun je omejen za pošiljanje preveč spam
 
 Kot skrbnik, če je eden od vaših uporabnikov omejen na pošiljanje e-poštnih sporočil, lahko [odblokirate račun sami](https://protection.office.com/?hash=/restrictedusers) **, ne da bi odprli primer podpore**. Uporabnik bo lahko pošiljal e-poštna sporočila v eni uri po odstranitvi omejitve.
 
-Storitev preprečuje uporabniku, da pošlje e-pošto po tem, ko zazna dokaze o ogroženem računu in/ali odhodni neželeni pošti. Zaradi varnosti upoštevajte navodila v članku [Ukrepanje v primeru ogroženega e-poštnega računa](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account) za uporabnika.
+Storitev preprečuje uporabniku, da pošlje e-pošto po tem, ko zazna dokaze o ogroženem računu in/ali odhodni neželeni pošti. Zaradi varnosti upoštevajte navodila v članku [Ukrepanje v primeru ogroženega e-poštnega računa](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) za uporabnika.
