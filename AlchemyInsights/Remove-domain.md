@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 2b50b021c334d5b6cb18ef3b7fd1c9bc215b3a07
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 5d83fc0d00d1c5b2d07040b31ba392cac2fc32c0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687490"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44502227"
 ---
-# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="f55b2-102">Ali poskušate odstraniti domeno?</span><span class="sxs-lookup"><span data-stu-id="f55b2-102">Trying to remove your domain?</span></span>
+# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="0df48-102">Ali poskušate odstraniti domeno?</span><span class="sxs-lookup"><span data-stu-id="0df48-102">Trying to remove your domain?</span></span>
 
-<span data-ttu-id="f55b2-103">Upoštevajte navodila v razdelku [Odstranjevanje domene](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain).</span><span class="sxs-lookup"><span data-stu-id="f55b2-103">Follow the steps in [Remove a domain](https://docs.microsoft.com/office365/admin/get-help-with-domains/remove-a-domain).</span></span>
+<span data-ttu-id="0df48-103">Upoštevajte navodila v razdelku [Odstranjevanje domene](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain).</span><span class="sxs-lookup"><span data-stu-id="0df48-103">Follow the steps in [Remove a domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain).</span></span>
   
-<span data-ttu-id="f55b2-104">Preden odstranite domeno, morate posodobiti vse uporabnike ali skupine, ki jim je dodeljeno to ime domene.</span><span class="sxs-lookup"><span data-stu-id="f55b2-104">You'll have to update any users or groups that are assigned to that domain name before you remove the domain.</span></span> <span data-ttu-id="f55b2-105">Druge pogoste rešitve si lahko ogledate v članku [Pogosta vprašanja o domenah](https://docs.microsoft.com/office365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="f55b2-105">Check the [Domains FAQ](https://docs.microsoft.com/office365/admin/setup/domains-faq) for other common solutions.</span></span>
+<span data-ttu-id="0df48-104">Preden odstranite domeno, morate posodobiti vse uporabnike ali skupine, ki jim je dodeljeno to ime domene.</span><span class="sxs-lookup"><span data-stu-id="0df48-104">You'll have to update any users or groups that are assigned to that domain name before you remove the domain.</span></span> <span data-ttu-id="0df48-105">Druge pogoste rešitve si lahko ogledate v članku [Pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="0df48-105">Check the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq) for other common solutions.</span></span>
   
