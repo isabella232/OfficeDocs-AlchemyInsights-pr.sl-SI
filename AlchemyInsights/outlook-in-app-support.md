@@ -3,7 +3,7 @@ title: Najemnik poskusno podpira podporo v aplikaciji Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 6/3/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 646a65a4cb068b1c91c52c42d55fe09e62421f9d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3d723c11c24460291e9ced9dc87cf1258f1f41d9
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720448"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44542060"
 ---
-# <a name="your-tenant-is-piloting-in-app-support-for-outlook"></a><span data-ttu-id="ed5d6-102">Vaš najemnik poskusno podpira podporo v aplikaciji za Outlook</span><span class="sxs-lookup"><span data-stu-id="ed5d6-102">Your tenant is piloting in-app support for Outlook</span></span>
+# <a name="in-app-support-in-outlook-for-windows"></a><span data-ttu-id="52c96-102">Podpora v aplikaciji v programu Outlook za Windows</span><span class="sxs-lookup"><span data-stu-id="52c96-102">In-app support in Outlook for Windows</span></span>
 
-<span data-ttu-id="ed5d6-103">Morda boste upravičeni do neposrednega prejemanja podpore v Outlooku.</span><span class="sxs-lookup"><span data-stu-id="ed5d6-103">You may be eligible to receive support directly in Outlook.</span></span> <span data-ttu-id="ed5d6-104">Če uporabljate najnovejšo mesečno izgradnjo kanala, odprite Outlook in izberite **pomoč** > za**stik**.</span><span class="sxs-lookup"><span data-stu-id="ed5d6-104">If you're running the latest Monthly Channel build, open Outlook and select **Help** > **Contact Support**.</span></span> <span data-ttu-id="ed5d6-105">Vnesite vprašanje in član podporne skupine za Outlook vas bo kontaktirali.</span><span class="sxs-lookup"><span data-stu-id="ed5d6-105">Type your question and a member of the Outlook support team will contact you.</span></span>
-
-<span data-ttu-id="ed5d6-106">Če niste prepričani, ali ste zagnali najnovejšo različico mesečnega kanala, si oglejte, [katera različica Officea uporabljam?](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)</span><span class="sxs-lookup"><span data-stu-id="ed5d6-106">If you're not sure if you're running the latest Monthly Channel build, see [What version of Office am I using?](https://support.office.com/article/932788B8-A3CE-44BF-BB09-E334518B8B19)</span></span>
+<span data-ttu-id="52c96-103">Kot skrbnik najemnika lahko prejemate podporo v aplikaciji za vprašanja v programu Outlook za Windows.</span><span class="sxs-lookup"><span data-stu-id="52c96-103">As a Tenant Admin, you can receive in-app support for issues in Outlook for Windows.</span></span> <span data-ttu-id="52c96-104">V Outlooku izberite **pomoč**pri  >  **stiku s podporo**.</span><span class="sxs-lookup"><span data-stu-id="52c96-104">In Outlook, select **Help** > **Contact Support**.</span></span> <span data-ttu-id="52c96-105">Vnesite vprašanje in član podporne skupine za Outlook za Windows bo odgovoril na vaše sporočilo.</span><span class="sxs-lookup"><span data-stu-id="52c96-105">Enter your question, and a member of the Outlook for Windows support team will reply to your message.</span></span>

@@ -13,18 +13,13 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: b7f480f6e64534f461bec32d64125319b90683f2
-ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.openlocfilehash: 484dbe714298248c95fa85c74a3589aab431364d
+ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
 ms.lasthandoff: 06/03/2020
-ms.locfileid: "44534862"
+ms.locfileid: "44542024"
 ---
-# <a name="fix-messages-that-are-stuck-in-the-outbox"></a><span data-ttu-id="a0b91-102">Popravljanje sporočil, ki so obtičala v mapi» Odpošlji «</span><span class="sxs-lookup"><span data-stu-id="a0b91-102">Fix messages that are stuck in the Outbox</span></span>
+# <a name="fix-messages-that-are-stuck-in-the-outbox-with-sara"></a><span data-ttu-id="9d7d2-102">Popravite sporočila, ki so obtičala v mapi» Odpošlji «s Saro</span><span class="sxs-lookup"><span data-stu-id="9d7d2-102">Fix messages that are stuck in the Outbox with SaRA</span></span>
 
-<span data-ttu-id="a0b91-103">Priporočamo, da začnete tako, da zaženete scenarij [» Imam težave pri pošiljanju, prejemanju ali iskanju e-poštnih sporočil «](https://aka.ms/SaRA-OutlookSendReceive) iz [Microsoftovega orodja za podporo in obnovitev](https://diagnostics.office.com/#/) .</span><span class="sxs-lookup"><span data-stu-id="a0b91-103">We recommend that you start by running the scenario ["I'm having problems sending, receiving, or finding email messages"](https://aka.ms/SaRA-OutlookSendReceive) from the [Microsoft Support and Recovery Assistant](https://diagnostics.office.com/#/) tool.</span></span>
-
-<span data-ttu-id="a0b91-104">Ko se sporočilo zatakne v mapi» Odpošlji «, je najverjetnejši vzrok velika pripona ali možnost» Pošlji takoj, ko je vzpostavljena povezava «ni omogočena.</span><span class="sxs-lookup"><span data-stu-id="a0b91-104">When a message gets stuck in your Outbox, the most likely cause is a large attachment or the option "Send immediately when connected" is not enabled.</span></span>
-<span data-ttu-id="a0b91-105">Za vse podrobnosti glejte:</span><span class="sxs-lookup"><span data-stu-id="a0b91-105">For full details, see:</span></span>
-- [<span data-ttu-id="a0b91-106">Videoposnetek: pošiljanje ali brisanje zagozdila e-poštnega sporočila</span><span class="sxs-lookup"><span data-stu-id="a0b91-106">Video: Send or delete a stuck email</span></span>](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [<span data-ttu-id="a0b91-107">E-pošta ostane v mapi» Odpošlji «, dokler ročno ne sprožite operacije pošiljanja/prejemanja v programu Outlook</span><span class="sxs-lookup"><span data-stu-id="a0b91-107">Email stays in the Outbox folder until you manually initiate a send/receive operation in Outlook</span></span>](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+<span data-ttu-id="9d7d2-103">Priporočamo vam, da začnete z zagonom scenarija ["Imam težave pri pošiljanju, prejemanju ali iskanju e-poštnih sporočil"](https://aka.ms/SaRA-OutlookSendReceive) na izvršeno napravo iz [Microsoftovega pomočnika za podporo in obnovitev (SaRa)](https://diagnostics.office.com/#/) .</span><span class="sxs-lookup"><span data-stu-id="9d7d2-103">We recommend that you start by running the scenario ["I'm having problems sending, receiving, or finding email messages"](https://aka.ms/SaRA-OutlookSendReceive) on the effected machine from the [Microsoft Support and Recovery Assistant (SaRa)](https://diagnostics.office.com/#/) tool.</span></span>
