@@ -13,10 +13,10 @@ ms.custom:
 - "1600011"
 - "9000287"
 ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666316"
 ---
 # <a name="service-incident-in-progress"></a>Storni incident v teku
@@ -25,6 +25,6 @@ Morda boste vplivali na storno nezgodo ali svetovalno storitev, ki se trenutno p
   
 Za vaše udobje, lahko najdete Povzetek tega incidenta spodaj:
   
-> **Številka incidenta:** [{Pogostost dogodka}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Številka incidenta:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
 > Opis učinka: {ImpactDescription}
