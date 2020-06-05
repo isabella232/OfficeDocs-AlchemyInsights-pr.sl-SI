@@ -8,14 +8,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ba35d814-55b8-44e6-a70e-011b91d2bbcb
-ms.openlocfilehash: c3165ccf5aee9edbb147a5e34f2680a4f0ed04b1
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: eb3d4c632029993611bc0720dba64e7f86807223
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911668"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580385"
 ---
-# <a name="create-an-microsoft-365-group-connected-team-site"></a>Ustvarjanje spletne strani skupine, povezane s skupino Microsoft 365
+# <a name="create-a-microsoft-365-group-connected-team-site"></a>Ustvarjanje spletne strani skupine, povezane s skupino Microsoft 365
 
 1. V zgornjem levem kotu kliknite zaganjalnik aplikacij in izberite **SharePoint**. Če SharePointove ploščice ne vidite, kliknite **vse aplikacije**.
     

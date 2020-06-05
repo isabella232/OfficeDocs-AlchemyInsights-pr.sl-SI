@@ -1,5 +1,5 @@
 ---
-title: Officeove aplikacije ikone/bližnjice bele, prazne ali podvojene
+title: Microsoft 365 apps ikone/bližnjice bele, prazne ali podvojene
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2530"
 - "9000572"
-ms.openlocfilehash: 90f9a5ac522f7ec76ed5d52da7f8b11672e8f8b7
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: 817cedde2aa6bcd5f6bc2609d150a782ba085771
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886594"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581139"
 ---
 # <a name="office-app-icons-or-shortcuts-are-white-blank-or-duplicate"></a>Ikone ali bližnjice aplikacije zbirke Office so bele, prazne ali podvojene
 

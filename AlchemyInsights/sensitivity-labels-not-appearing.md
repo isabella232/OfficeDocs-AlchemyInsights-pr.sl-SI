@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511668"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581031"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>Oznake občutljivosti, ki se ne pojavljajo
 
 Oznake občutljivosti vam omogočajo razvrščanje in pomoč pri zaščiti občutljive vsebine. Ustvarjene so lahko v središču za skladnost z Microsoft 365, Microsoft 365 Security Center ali Microsoft 365 Security & center za skladnost pod razvrstitev > oznake občutljivosti. Če želite izvedeti več o tej funkciji, glejte [pregled oznak občutljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels).
 
-Če ste konfigurirali oznake občutljivosti, vendar se ne prikazujejo v Officeovih aplikacijah, preverite naslednje:
+Če ste konfigurirali oznake občutljivosti, vendar niso prikazane v aplikacijah Microsoft 365, preverite naslednje:
 
 - Potrdite, da je bila oznaka občutljivosti [objavljena](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) uporabnikom in skupinam, ki jih želite.
 

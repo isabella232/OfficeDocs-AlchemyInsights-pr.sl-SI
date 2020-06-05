@@ -1,5 +1,5 @@
 ---
-title: Sporočilo v Officeovih aplikacijah – naleteli smo na težavo z vašo naročnino
+title: Microsoft 365 apps sporočilo-smo naletel na težave z naročnino
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001427"
 - "3419"
-ms.openlocfilehash: 6b370dd647bbe93c435b2c1853c16906c4c910f0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 23617d5ad336f3811022b007a78bb4bb7db74cf5
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512462"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581571"
 ---
-# <a name="office-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Sporočilo v Officeovih aplikacijah – naleteli smo na težavo z vašo naročnino
+# <a name="microsoft-365-apps-message---weve-run-into-a-problem-with-your-subscription"></a>Microsoft 365 apps sporočilo-smo naletel na težave z naročnino
 
 - Če ste nedavno začeli uporabljati drugo naročnino/drug paket, upoštevajte navodila v razdelku [Po zamenjavi paketov se v Officeu prikaže sporočilo »Obvestilo o računu«](https://support.office.com/article/-account-notice-appears-in-office-after-switching-office-365-plans-857dc33a-1efc-4ce7-ac3f-ef616314e27d), da znova namestite ali posodobite Office.
 
@@ -30,7 +30,7 @@ ms.locfileid: "44512462"
 
 - Zaženite [Orodje za odpravljanje težav z aktivacijo](https://aka.ms/SARA-OfficeActivation-Alchemy) in znova zaženite računalnik.
 
-- V prizadetem računalniku [ponastavite stanje aktivacije Officea](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- V prizadetem računalniku [ponastavite stanje aktivacije Officea](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 Če želite podrobna navodila, glejte: 
 

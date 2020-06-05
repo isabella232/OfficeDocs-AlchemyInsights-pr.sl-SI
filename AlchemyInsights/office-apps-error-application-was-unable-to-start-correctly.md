@@ -1,5 +1,5 @@
 ---
-title: 'Officeove aplikacije napaka: aplikacija ni uspela pravilno zagnati'
+title: 'Microsoft 365 apps napaka: aplikacija ni mogla pravilno zagnati'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "2533"
 - "9000572"
-ms.openlocfilehash: a096fbb25daf341a3a66294782c33e20d29d8322
-ms.sourcegitcommit: a66b37557baafe35d39134105dc604c326191a48
+ms.openlocfilehash: bc860a2e5debed1de33b7269e699ccd034181602
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/27/2019
-ms.locfileid: "40886592"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581175"
 ---
-# <a name="office-apps-error-the-application-was-unable-to-start-correctly"></a>Napaka Officeovih aplikacij: aplikacija ni uspela pravilno zagnati
+# <a name="microsoft-365-apps-error-the-application-was-unable-to-start-correctly"></a>Microsoft 365 apps napaka: aplikacija ni mogla pravilno zagnati
 
 Če želite odpraviti to napako, poskusite naslednje možnosti:
 
@@ -28,8 +28,8 @@ ms.locfileid: "40886592"
 - [Odstranite](https://support.office.com/article/uninstall-office-from-a-pc-9dd49b83-264a-477a-8fcc-2fdf5dbf61d8) in znova namestite Office
 
 
-Če želite več informacij, glejte: 
+Če želite več informacij, si oglejte: 
 
-- [Napaka pri odpiranju aplikacij zbirke Microsoft Office](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
+- [Napaka pri odpiranju aplikacij Microsoft Microsoft 365](https://support.office.com/article/error-when-opening-microsoft-office-apps-b84b6a63-4b8c-46ec-ae9a-ad91d6160d72)
 - [Jaz zaslužiti a "mašilec ki dela" zmota čas jaz začetek urad uporaba naprej svoj PC](https://support.office.com/article/i-get-a-stopped-working-error-when-i-start-office-applications-on-my-pc-52bd7985-4e99-4a35-84c8-2d9b8301a2fa)
-- [Odpravljanje težav, do katerih pride pri zagonu ali uporabi Officeovih aplikacij](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
+- [Odpravljanje težav, do katerih pride pri zagonu ali uporabi aplikacij Microsoft 365](https://docs.microsoft.com/office/troubleshoot/word/issues-when-start-or-use-word)
