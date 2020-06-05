@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 9a40f52637bc8aa7894754118f0f862aa6c71fe2
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43913018"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582791"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>Odpravljanje težav pri skupni rabi SharePointove vsebine z zunanjimi Uporabniki
 
 Prepričajte se, da je zunanja skupna raba vklopljena za vašo organizacijo:
   
-1. Pojdite na [stran» &amp; dodatki za storitve «v skrbniškem središču za Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)in kliknite **mesta**.
+1. Pojdite na [stran» dodatki za storitve &amp; «v skrbniškem središču za Microsoft 365](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns)in kliknite **mesta**.
     
 2. Prepričajte se, da je nastavitev vklopljena. Če je izbrana možnost» samo obstoječi zunanji Uporabniki «, se prepričajte, da je zunanji uporabnik naveden v skrbniškem središču Microsoft 365.
     

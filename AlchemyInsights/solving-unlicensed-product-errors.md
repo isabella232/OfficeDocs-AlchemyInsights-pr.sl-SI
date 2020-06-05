@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512028"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582755"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Predlogi za reševanje napak» nelicenciranega izdelka «
 
@@ -26,7 +26,7 @@ ms.locfileid: "44512028"
 - Preverite, ali imate naročnino, ki dovoljuje odjemalske licence, na primer Microsoft 365 Apps for Business ali Business Premium, in [zagotovite, da ima uporabnik dodeljeno licenco](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - Prepričajte se, da se uporabnik prijavi v Office z istim računom, ki ima dodeljeno licenco.
 - Če želite preveriti, ali obstajajo kakršne koli znane težave s storitvijo, preverite [stran za zdravje storitev](https://docs.microsoft.com/office365/enterprise/view-service-health) .
-- Preverite požarni zid, protivirusno programsko opremo in nastavitve proxy, da potrdite, da ne blokira dostopa Officeovih aplikacij do interneta. Glejte [URL-je in obsege naslovov IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- Preverite požarni zid, protivirusno programsko opremo in nastavitve proxy, da potrdite, da ne blokira Microsoft 365 apps dostop do interneta. Glejte [URL-je in obsege naslovov IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 Poskusite lahko tudi naslednje ukrepe za odpravljanje težav: 
 
