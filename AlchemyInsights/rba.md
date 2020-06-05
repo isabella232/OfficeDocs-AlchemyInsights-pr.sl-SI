@@ -2,7 +2,7 @@
 title: 408 RBA
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: bcb53573d31b274f73f25b61f74ac127c73984a6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d2e4ba8bf4a63a3368d7a769b3bc844cf788a5d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553520"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581999"
 ---
-# <a name="about-room-mailboxes"></a>O sobni nabiralniki
+# <a name="about-room-mailboxes"></a>O sobi nabiralniki
 
-Nabiralnik je poštni nabiralnik sredstva, ki je dodeljen fizični lokaciji, konferenčna dvorana, avditorij ali soba za usposabljanje. Če želite več informacij o sobni nabiralniki, glejte [Ustvarjanje in upravljanje nabiralnikov](https://go.microsoft.com/fwlink/p/?linkid=717533).
+Nabiralnik v sobi je nabiralnik vira, ki je dodeljen fizični lokaciji, na primer konferenčna dvorana, avditorij ali prostor za vadbo. Če želite več informacij o nabiralnikih v sobi, glejte [Ustvarjanje in upravljanje nabiralnikov sob](https://go.microsoft.com/fwlink/p/?linkid=717533).

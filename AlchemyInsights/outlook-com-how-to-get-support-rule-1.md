@@ -1,24 +1,24 @@
 ---
-title: Outlook.com kako dobiti podporo
+title: Outlook.com kako priti do podpore
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000080
-ms.openlocfilehash: 53d68ea75dd5ee92bd170001f4d5e8000b0cbb4b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 50d4c1a47eb35cc2b9dce5a02dcc1054cbfca778
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536389"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581499"
 ---
-# <a name="how-to-get-outlookcom-support"></a>Kako priti Outlook.com podporo
+# <a name="how-to-get-outlookcom-support"></a>Kako dobiti Outlook.com podporo
 
 živjo!
-Nisem chat bot, vendar bom poskusil, da vam pomaga.
+Nisem chat bot, ampak bom poskušal pomagati.
 
 
