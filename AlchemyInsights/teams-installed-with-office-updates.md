@@ -13,20 +13,20 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: ddb9ffb2f6545e99a593ee830854f986438950cd
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 34593fbe80f11c9b4e1d10d3e1dbe5ff79602299
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010855"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617993"
 ---
 # <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams, nameščene s posodobitvami za Office
 
 Microsoft Teams je vključen kot del ***novih naprav*** Microsoft 365 apps za podjetja, Microsoft 365 Apps for Business in Office for Mac. Če želite več informacij, glejte [Kdaj bo Microsoft Teams začel biti vključen v nove namestitve Officea?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Poleg tega, začenši z različico 1906 v mesečnem kanalu, bodo ekipe postopoma dodane ***obstoječim napravam*** Microsoft 365 apps za podjetja (in Microsoft 365 apps za podjetja) v napravah s sistemom Windows, ko posodobite obstoječo namestitev na najnovejšo različico. Če želite več informacij, preberite [kaj o obstoječih namestitvah Officea?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Poleg tega, začenši z različico 1906 v trenutnem kanalu, bodo ekipe postopoma dodane ***obstoječim napravam*** Microsoft 365 apps za podjetja (in Microsoft 365 Apps for Business) v napravah s sistemom Windows, ko posodobite obstoječo namestitev na najnovejšo različico. Če želite več informacij, preberite [kaj o obstoječih namestitvah Officea?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**Opomba:** Če ne želite čakati na ta urnik uvajanja, lahko skupine nastavite kot samostojne za uporabnike tako, da [upoštevate ta navodila](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), ali pa lahko uporabniki namestijo ekipe sami https://teams.microsoft.com/downloads.
+**Opomba:** Če ne želite čakati na ta urnik uvajanja, lahko skupine nastavite kot samostojne za uporabnike tako, da [upoštevate ta navodila](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), ali pa lahko uporabniki namestijo ekipe sami https://teams.microsoft.com/downloads .
 
 Če organizacija ni pripravljena za uvajanje ekip, lahko ***skupine izključite*** iz [novih](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) ali [obstoječih](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) namestitvah Officea. Če želite, da se ekipe namestijo, vendar ne želite, da se ekipe samodejno zažene za uporabnika po namestitvi, glejte [Preprečevanje samodejnega zagona programa Microsoft Teams po namestitvi](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
