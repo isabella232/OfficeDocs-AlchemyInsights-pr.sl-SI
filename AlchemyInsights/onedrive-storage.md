@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049065"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667864"
 ---
 # <a name="manage-your-onedrive-storage"></a>Upravljanje shrambe v storitvi OneDrive
 
-Prostor za shranjevanje v storitvi OneDrive se ne šteje za splošno kvoto najemnika. 
+Če želite videti, koliko prostora uporabljate in sprostite prostor, lahko upravljate storitev OneDrive za podjetja.  Za več informacij obiščite spodnje povezave.
 
-Preberite [, kako se prostor za shranjevanje v storitvi OneDrive dodeli na uporabnika/načrt](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).
-
-Naučite se, [koliko prostora za shranjevanje uporabljate v storitvi OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
-
-Naučite se [, kako pridobite kvoto shrambe za OneDrive z uporabo lupine PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).
-
-Mikroskop hoteti uvodoma priskrbeti se 1 TB po uporabnik, kateri administratorji moči rast v pod vodstvom 5 TB po uporabnik. Preberite, kako [nastavite privzeti prostor za shranjevanje za uporabnike storitve OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).
-
-Preberite, [kako spremenite prostor za shranjevanje določenega uporabnika v storitvi OneDrive](https://docs.microsoft.com/onedrive/change-user-storage).
-
-Naučite se, [Kako lahko globalni skrbniki nastavljajo kvoto shrambe za OneDrive za vse uporabnike z lupino PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).
-  
+- [Upravljanje shrambe storitve OneDrive za podjetja](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [Spreminjanje prostora za shranjevanje v storitvi OneDrive za določene uporabnike](https://docs.microsoft.com/onedrive/change-user-storage)
+- [Nastavljanje privzetega prostora za shranjevanje za uporabnike storitve OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space)
