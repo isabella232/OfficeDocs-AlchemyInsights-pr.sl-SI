@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021514"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702222"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="d4f64-102">Dodatek za skupine Outlook</span><span class="sxs-lookup"><span data-stu-id="d4f64-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in"></a><span data-ttu-id="43ea1-102">Dodatek za skupine Outlook</span><span class="sxs-lookup"><span data-stu-id="43ea1-102">Teams Outlook add-in</span></span>
 
-<span data-ttu-id="d4f64-103">Obstaja več dejavnikov, ki lahko povzročijo, da se vaše ekipe ne prikažejo, in vsi so navedeni [tukaj](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span><span class="sxs-lookup"><span data-stu-id="d4f64-103">There are multiple factors that could cause your Teams add-in to not appear, and they are all listed [here](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
+<span data-ttu-id="43ea1-103">Če želite odpraviti manjkajoče skupine Outlook Add-in, najprej se prepričajte, da zaženete diagnostično storitev tukaj na skrbniški portal.</span><span class="sxs-lookup"><span data-stu-id="43ea1-103">To troubleshoot a missing Teams Outlook Add-in, first be sure to run the Service Diagnostic here in the Admin Portal.</span></span>  <span data-ttu-id="43ea1-104">Če diagnostična storitev ne kaže nobenih težav, nadaljujte s prenosom in zaganjenim [programom za podporo in obnovitev programa Microsoft support and Recovery](https://aka.ms/SaRA-TeamsAddInScenario) , ki **so na prizadetih** uporabniških strojih, za diagnosticiranje in popravljanje težav odjemalca</span><span class="sxs-lookup"><span data-stu-id="43ea1-104">If the Service Diagnostic indicates no issues, please proceed to download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) **Teams Outlook Add-in Scenario** on the affected user machines to diagnose and correct any client issues.</span></span>
 
-<span data-ttu-id="d4f64-104">**Priporočamo vam, da najprej preverite, ali dodatek ni onemogočen:**</span><span class="sxs-lookup"><span data-stu-id="d4f64-104">**We recommend you first check that the add-in isn’t disabled:**</span></span>
-
-- <span data-ttu-id="d4f64-105">V Outlooku kliknite **Datoteka** in nato **možnosti**.</span><span class="sxs-lookup"><span data-stu-id="d4f64-105">In Outlook, click **File** and then **Options**.</span></span>
-- <span data-ttu-id="d4f64-106">Izberite zavihek **dodatki** pogovornega okna **možnosti Outlook** .</span><span class="sxs-lookup"><span data-stu-id="d4f64-106">Select the **Add-ins** tab of **Outlook Options** dialog box.</span></span>
-- <span data-ttu-id="d4f64-107">Potrdite, da je **dodatek za srečanje Microsoft Teams za Microsoft Office** naveden na seznamu **dodatki aktivnih aplikacij** .</span><span class="sxs-lookup"><span data-stu-id="d4f64-107">Confirm that **Microsoft Teams Meeting Add-in for Microsoft Office** is listed in the **Active Application Add-ins** list.</span></span>
-- <span data-ttu-id="d4f64-108">Če je dodatek za srečanja ekip naveden na seznamu **dodatki onemogočenih aplikacij** , izberite **com Add-ins** v **upravljanje** in nato kliknite **Pojdi...**</span><span class="sxs-lookup"><span data-stu-id="d4f64-108">If the Teams Meeting Add-in is listed in the **Disabled Application Add-ins** list, select **COM Add-ins** in **Manage** and then click **Go…**</span></span>
-- <span data-ttu-id="d4f64-109">Nastavite potrditveno polje poleg **dodatka Microsoft Teams za srečanje za Microsoft Office**.</span><span class="sxs-lookup"><span data-stu-id="d4f64-109">Set the checkbox next to **Microsoft Teams Meeting Add-in for Microsoft Office**.</span></span>
-- <span data-ttu-id="d4f64-110">Kliknite **v redu** v vseh pogovornih oknih in znova zaženite Outlook.</span><span class="sxs-lookup"><span data-stu-id="d4f64-110">Click **OK** on all dialog boxes and restart Outlook.</span></span>
+<span data-ttu-id="43ea1-105">Če želite ročno odpraviti težavo, preglejte seznam potencialnih dejavnikov, ki bi lahko povzročili, da vaš dodatek Teams ni prikazan [tukaj](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span><span class="sxs-lookup"><span data-stu-id="43ea1-105">To manually troubleshoot the issue, review the list of potential factors that could cause your Teams add-in to not appear listed [here](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
