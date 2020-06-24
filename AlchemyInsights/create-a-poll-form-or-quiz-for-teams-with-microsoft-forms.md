@@ -20,7 +20,7 @@ ms.locfileid: "42699810"
 ---
 # <a name="create-a-poll-form-or-quiz-for-teams-with-microsoft-forms"></a>Ustvarite anketo, obrazec ali preskus znanja za aplikacijo Teams z aplikacijo Microsoft Forms
 
-Ali želite ustvariti obrazec, anketo ali preskus znanja v aplikaciji Microsoft Teams? Pomagate si lahko z aplikacijo Microsoft Forms!
+Ali želite ustvariti obrazec, anketo ali preskus znanja v aplikaciji Microsoft Teams? Pomagate si lahko z aplikacijo Microsoft Forms.
 
  - [Vklopite ali izklopite aplikacijo Forms](https://support.office.com/article/turn-off-or-turn-on-microsoft-forms-8dcbf3ab-f2d6-459a-b8be-8d9892132a43) za svojo organizacijo ali pa jo omogočite le za določene uporabnike.
  

@@ -1,5 +1,5 @@
 ---
-title: Upravljajte dostop gostov v ogrodju Microsoft 365
+title: Upravljajte dostop gostov v okolju Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -18,7 +18,7 @@ ms.contentlocale: sl-SI
 ms.lasthandoff: 03/17/2020
 ms.locfileid: "42699828"
 ---
-# <a name="manage-guest-access-in-microsoft-365"></a>Upravljajte dostop gostov v ogrodju Microsoft 365
+# <a name="manage-guest-access-in-microsoft-365"></a>Upravljajte dostop gostov v okolju Microsoft 365
 
 Če želite celotna navodila za nastavitev skupne rabe za goste v aplikacijah Groups, SharePoint in Teams, glejte: 
 
