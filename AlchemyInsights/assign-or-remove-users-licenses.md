@@ -1,5 +1,5 @@
 ---
-title: Dodeljevanje ali odstranjevanje licenc uporabnikov
+title: Dodeljevanje ali odstranjevanje uporabniških licenc
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 19dab63d93c4cb6b600e39f38bc1619f1359939c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 95a2dea28c951fbec3c4818ceb48e7d4e5cbb0e3
+ms.sourcegitcommit: 409cb0b2f43dad077d812b3459cd39ad00c17754
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506387"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46603426"
 ---
-# <a name="assign-or-remove-users-licenses"></a>Dodeljevanje ali odstranjevanje licenc uporabnikov
+# <a name="assign-or-remove-user-licenses"></a>Dodeljevanje ali odstranjevanje uporabniških licenc
 
-Kot skrbnik lahko po potrebi prilagodite licence uporabnikov. Spodaj navedeni članki vam bodo pokazali, kako upravljati licence uporabnikov, vključno z:
+Kot skrbnik lahko po potrebi prilagodite licence uporabnikov. V teh člankih je prikazano, kako upravljate svoje uporabniške licence:
   
-- [Dodeljevanje licenc uporabnikom v Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [Dodeljevanje licenc uporabnikom v storitvi Microsoft 365 za podjetja](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 
-- [Unassign licenc od uporabnikov v Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [Preklic dodeljevanja licenc uporabnikom v storitvi Microsoft 365 za podjetja](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
 
-Ni odgovoril na vaše vprašanje? brez težav! Uporabite gumb "Rabite pomoč", da se pogovorite s podpornega inženirja.
+Ali niste odgovorili na vprašanje? brez težav! Uporabite gumb» potrebujete pomoč «, da se pogovorite z inženirjem za podporo.
