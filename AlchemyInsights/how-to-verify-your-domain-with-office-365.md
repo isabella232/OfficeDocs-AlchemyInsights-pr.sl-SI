@@ -1,5 +1,5 @@
 ---
-title: 'Preverjanje domene '
+title: 'Kako preveriti domeno '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509040"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634322"
 ---
-# <a name="how-to-verify-your-domain"></a>Preverjanje domene
+# <a name="how-to-verify-your-domain"></a>Kako preveriti domeno
 
-Če želite preveriti domeno, boste morali registrarju domene dodati zapis TXT, da preverite, ali ste lastnik domene. Najprej sledite čarovniku za [Dodajanje domene](https://portal.office.com/adminportal/home#/Domains/Wizard) , tako da kliknete **Nastavitve** \> **domen**in nato **dodate domeno**.
-  
-Sledite navodilom v [Ustvarjanje zapisov DNS pri katerem koli ponudniku gostovanja DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) , če želite dodati zapis txt za preverjanje vaše domene.
+Če želite preveriti domeno, sledite [čarovniku za dodajanje domene](https://portal.office.com/adminportal/home#/Domains/Wizard)ali pa ročno pojdite na domene **setup**  >  **Domains**  >  **Dodaj domeno**.
 
-Zakaj drugi področje izdaja začeti [področje FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Če želite več informacij o tem, kako dodate zapis TXT, da preverite svojo domeno, si oglejte navodila v razdelku [Dodajanje zapisov DNS za povezovanje domene](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+Če želite več vprašanj o domenah, glejte Pogosta vprašanja o [domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
