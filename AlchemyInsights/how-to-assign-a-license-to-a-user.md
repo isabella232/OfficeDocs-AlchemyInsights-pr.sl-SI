@@ -1,8 +1,8 @@
 ---
-title: Dodeljevanje licenc uporabnikom ali njihovo odvzeti
+title: Dodeljevanje ali preklic dodeljevanja licenc uporabnikom
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,20 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c3b11d51a2b5895c8d90ebef27121561f221334
+ms.sourcegitcommit: 69cf3c185e03a4b1da35c5ca492ee6c74a5d739a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44496003"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46657083"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>Dodeljevanje licenc uporabnikom ali njihovo odvzeti
+# <a name="assign-or-unassign-licenses-to-users"></a>Dodeljevanje ali preklic dodeljevanja licenc uporabnikom
 
-Uporabnik potrebuje licenco za dostop do storitev. Tukaj so koraki za **Dodajanje, spreminjanje ali odstranjevanje** licence od uporabnika.
+Uporabnik potrebuje licenco za dostop do storitev. Tukaj so navodila za dodelitev licence ali odvzem licence uporabniku.
   
-1. V skrbniškem središču pojdite na **uporabnike** \> [aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822).
+1. V skrbniškem središču pojdite v razdelek **Uporabniki** \> [aktivni uporabniki](https://go.microsoft.com/fwlink/p/?linkid=834822).
+2. Izberite vrstico uporabnika, ki mu želite dodeliti licenco.
+3. V desnem podoknu izberite **licence in aplikacije**.
+4. Razširite razdelek **licence** , potrdite ali počistite polja za licence, ki jih želite dodeliti ali odvzeti, nato pa izberite **Shrani spremembe**.
 
-2. Izberite ime uporabnika, za katerega želite dodeliti, spremeniti ali odstraniti licenco.
-
-3. Kliknite **upravljanje licenc za izdelke**in izberite licenco, ki jo želite dodeliti temu uporabniku.
-
-    Privzeto so vse storitve, povezane s to licenco, samodejno dodeljene uporabniku. Če želite omejiti, katere storitve so na voljo uporabniku, počistite potrditveno polje za storitve, za katere ne želite, da jih ima uporabnik.
-
-4. Na dnu podokna kliknite **Shrani spremembe**.
-
-Če želite več informacij, glejte [dodeljevanje licenc uporabnikom](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)in [odstranjevanje licenc od uporabnikov](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).
+Če želite več informacij, glejte [dodeljevanje licenc uporabnikom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)in preklic [dodeljevanja licenc uporabnikom](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
