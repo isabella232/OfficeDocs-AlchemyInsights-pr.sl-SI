@@ -1,7 +1,7 @@
 ---
-title: Project Online pogosto zahtevane teme
-ms.author: v-todmc
-author: todmccoy
+title: Pogosta vprašanja o programu Project Online
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 03c82a04c6f5d65aef8823d6aa87056d380dd912
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c69725e296c9142c4c9034800f647df69873394f
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768057"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787481"
 ---
-# <a name="project-online-frequently-requested-topics"></a>Project Online pogosto zahtevane teme
+# <a name="project-online-frequently-requested-topics"></a>Pogosta vprašanja o programu Project Online
 
-Tukaj je nekaj pogosto zahtevanih temah s projektom:
+Tukaj je nekaj pogosto zahtevanih tem s projektom:
 
 Tukaj so pogosto zahtevane teme za Project:
 1.  Uvod: 
     -   [Uvod v Project Online](https://docs.microsoft.comProjectOnline/get-started-with-project-online) 
-    -   [Dokumentacija spletnega skrbnika projekta](https://docs.microsoft.com/projectonline/project-online) 
-    -   [Project Online: meje in omejitve programske opreme](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
-2.  [Dodajte osebe, skupine in vire, nato pa delite Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
-3.  [Nastavitev uspešnosti PWA (Project Web App) v programu Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
-4.  Vzpostavljanje povezave s [spletnim odjemalcem Project Online Desktop](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
-5.  [Namestitev in uporaba projekta Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 
+    -   [Dokumentacija o skrbniku za Project Online](https://docs.microsoft.com/projectonline/project-online) 
+    -   [Project Online: omejitve in omejitve programske opreme](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
+2.  [Dodajanje oseb, skupin in virov ter skupna raba programa Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
+3.  [Nastavitev učinkovitosti delovanja programa Project Web App (PWA) v programu Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
+4.  Povezovanje z [namiznim odjemalcem za Project Online](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
+5.  [Namestitev in uporaba programa Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 

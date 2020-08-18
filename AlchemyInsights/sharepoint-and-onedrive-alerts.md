@@ -1,7 +1,7 @@
 ---
-title: Zamude pri prejemanju opozoril za SharePoint in OneDrive
-ms.author: v-todmc
-author: todmccoy
+title: Zamude pri prejemanju SharePointovih in OneDrive opozoril
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: 7f1033cec3abec782d1eee3b32128c4c60778913
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 92e517ae6e83aa91b9838047ec77759dc893bc57
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563526"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785681"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Zamude pri prejemanju opozoril za SharePoint in OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>Zamude pri prejemanju SharePointovih in OneDrive opozoril
 
-- Najprej preverite mapo junk ali spam v e-poštnem sporočilu.
-- Če **so vsa opozorila iz več datotek ali knjižnic zapoznela**, obiščite [nadzorno ploščo storitve Health](https://portal.office.com/adminportal/home?ref=/servicehealth) , da preverite morebitne advisorije/incidente, ki se lahko zgodijo s SharePointom ali Exchangeem. Težava je lahko s SharePointovo možnostjo opozarjanja ali zakasnitvami v e-poštnih sporočilih prek Exchangeevega. Upoštevajte tudi, ali se dostavi druga e-pošta-če ne, vprašanje je verjetno z zamudami Exchange.
-- Če **posamezno opozorilo iz določene datoteke ali knjižnice ni podano**, ga poskusite izbrisati in znova ustvariti. Če želite znova ustvariti opozorilo, glejte [upravljanje, ogled ali brisanje SharePointovih opozoril](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
+- Najprej preverite mapo» Neželena ali neželena pošta «v e-poštnem sporočilu.
+- Če **so vsa opozorila iz več datotek ali knjižnic odložena**, obiščite [nadzorno ploščo za zdravstveno stanje](https://portal.office.com/adminportal/home?ref=/servicehealth) , da preverite morebitne svetovalce/incidente, ki se lahko pojavijo v SharePointu ali storitvi Exchange. Težava je morda v storitvi SharePoint Alert capability ali zamude v e-poštnih sporočilih prek Exchangea. Upoštevajte tudi, ali je druga e-pošta dostavljena – če ne, je težava verjetno pri deviznih zamudah.
+- Če **individualna opozorila iz določene datoteke ali knjižnice niso dostavljena**, jo poskusite izbrisati in znova ustvariti. Če želite znova ustvariti opozorilo [, glejte upravljanje, ogled ali brisanje SharePointovih opozoril](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) .
 
 > [!NOTE]
-> - Opozoril ni mogoče poslati v distribucijsko skupino. Podprte so samo skupine za varnost in O365.
-> - Predloge za e-poštno sporočilo z opozorili ni mogoče prilagoditi. Če želite doseči te cilje, morate uporabiti Microsoft Flow ali potek dela programa SharePoint Designer.
+> - Opozoril ni mogoče poslati v skupino prejemnikov. Podprte so le varnostne in O365 skupine.
+> - E-poštnih predlog za opozorila ne morete prilagoditi. Če želite doseči te storitve, morate uporabiti Microsoft Flow ali potek dela za SharePoint Designer.

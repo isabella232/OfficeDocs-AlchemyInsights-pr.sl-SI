@@ -1,5 +1,5 @@
 ---
-title: Vklop ali izklop zunanje skupne rabe za spletno mesto
+title: Vklop ali izklop zunanje skupne rabe za SharePointovo mesto
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 500eec97-a508-4a9a-8373-47b758209a1f
-ms.openlocfilehash: 733f470e606bb6bf4b4efbfa863b1258699fc311
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 501f41d458a863dc542520ccfbb7322913d4fdfc
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912946"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785753"
 ---
 # <a name="turn-external-sharing-on-or-off-for-a-sharepoint-site"></a>Vklop ali izklop zunanje skupne rabe za SharePointovo mesto
 
-Za spletno stran:
+Za mesto:
   
-1. V novem skrbniškem središču SharePoint v levem podoknu kliknite **mesta**.
+1. V novem skrbniškem središču za SharePoint v levem podoknu kliknite **spletna mesta**.
     
-2. Izberite spletno mesto ali spletna mesta in na traku kliknite **Skupna raba**.
+2. Izberite mesto ali spletna mesta in na traku kliknite **Skupna raba**.
     
-Privzeto je, da nova spletna mesta, ki jih ustvarijo uporabniki (obe strani skupine, ki pripadajo Microsoftovim 365 skupinam in komunikacijskim mestom), imajo enako nastavitev skupne rabe kot nastavitev za celotno organizacijo, razen če nastavitev za celotno organizacijo omogoča skupno rabo datotek s povezavami, ki ne zahtevajo prijave. V tem primeru spletna mesta omogočajo skupno rabo z novimi in obstoječimi zunanjimi Uporabniki, ki se vpisljajo. Če želite spremeniti nastavitev za določena mesta, uporabite novo SharePointovo skrbniško središče.
+Nova mesta, ki jih uporabniki ustvarijo (obe mesti skupine, ki pripadajo skupinam Microsoft 365 in mesta za komunikacijo), so privzeto enake nastavitve skupne rabe kot nastavitev za celotno organizacijo, razen če nastavitev za celotno organizacijo omogoča skupno rabo datotek s povezavami, ki ne zahtevajo vpisa. V tem primeru spletna mesta omogočajo skupno rabo z novimi in obstoječimi zunanjimi Uporabniki, ki se vpišejo. Če želite spremeniti nastavitev za določena mesta, uporabite novo skrbniško središče za SharePoint.
   
 > [!NOTE]
-> Nastavitev zunanje delitve za poljubno spletno mesto je lahko bolj omejevalna kot nastavitev za celotno organizacijo, vendar ne bolj permisivno kot nastavitev za celotno organizacijo. 
+> Nastavitev zunanje skupne rabe za katero koli spletno mesto je lahko bolj restriktivna kot nastavitev za celotno organizacijo, ne pa tudi bolj zahtevna kot nastavitev za celotno organizacijo. 
   
 

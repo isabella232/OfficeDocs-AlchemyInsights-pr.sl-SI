@@ -1,7 +1,7 @@
 ---
-title: Poročilo o skupni rabi datoteke ali mape na SharePointovem mestu
-ms.author: v-todmc
-author: todmccoy
+title: Poročilo o skupni rabi datotek in map na SharePointovih mestih
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: 5c01595eab45b4f4e67e741c884066d0d21a9472
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a0223666ba8cd3edde9eed05d86a49907fd07a37
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43693178"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46787229"
 ---
-# <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>Poročilo o skupni rabi datoteke ali mape na SharePointovem mestu
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a>Poročilo o skupni rabi datotek in map na SharePointovih mestih
 
-Datoteko CSV lahko ustvarite s podrobnostmi o vsaki edinstveni datoteki, uporabniku, dovoljenju in povezavi na danem SharePointovem mestu ali v knjižnici storitve OneDrive. To vam lahko pomaga razumeti, kako se uporablja skupna raba in ali so datoteke ali mape v skupni rabi z gosti.
+Ustvarite lahko datoteko CSV, v kateri je podrobno opisana vsaka enolična datoteka, uporabnik, dovoljenje in povezava na določenem SharePointovem mestu ali v OneDrive knjižnici. S tem lahko razumete, kako se uporablja skupna raba, in ali so vse datoteke ali mape v skupni rabi z gosti.
 
-Če želite več informacij, [poročajte o skupni rabi datotek in map na SharePointovem mestu](https://docs.microsoft.com/sharepoint/sharing-reports).
+Če želite več informacij, [poročilo o skupni rabi datotek in map na SharePointovem mestu](https://docs.microsoft.com/sharepoint/sharing-reports).
 
 > [!NOTE]
-> Ta funkcija se trenutno uporablja za najemnike prve izdaje in se bo postopoma uvajali v vse najemnike proizvodnje.
+> Ta funkcija je trenutno uvedena za najemnike prve izdaje in se bo postopoma izkazala vsem najemnikom proizvodnje.
