@@ -1,5 +1,5 @@
 ---
-title: Uporaba programa OneNote v skupini Teams
+title: Uporaba programa OneNote v aplikaciji Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "5665"
-ms.openlocfilehash: cd47bf829511312e583122d128a03261d5d85839
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
+ms.openlocfilehash: 369845b8d5cb6e192ab3a6fa976119bc3189ffb1
+ms.sourcegitcommit: 9818d3c8e6b10f23244e51286e2463caf48fffd5
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44331317"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46852868"
 ---
-# <a name="using-onenote-in-teams"></a>Uporaba programa OneNote v skupini Teams
+# <a name="using-onenote-in-teams"></a>Uporaba programa OneNote v aplikaciji Teams
 
-Poenostavite svoje zapiske in imate enoten prostor za vodenje vseh zapiskov, raziskav, načrtov in informacij z dodajanjem enega ali več zavihka OneNote v kanal teams.
+Poenostavite zapiske in imate eno mesto za shranjevanje vseh zapiskov, raziskav, paketov in informacij tako, da dodate enega ali več zavihkov programa OneNote v kanal teams.
 
-- **Dodajanje zvezka**: skupinam lahko [dodate nov ali obstoječ prenosnik](https://support.microsoft.com/en-us/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) .
-- **Zvezka programa OneNote ni mogoče urejati**: v teh obdobjih brez primere smo sprejeti ukrepe, s katerimi zagotovimo, da bodo storitve OneNote še naprej zelo na voljo.  OneNote v ekipah bo samo za branje za komercialne, GCC zmerno, GCC High, in izobraževanje najemnikov. Če želite urediti, kliknite **Uredi** v vrstici podjetja ali pa uporabite OneNote za splet ali namizno aplikacijo OneNote.
-- **Upravljanje dostopa do programa OneNote**: uporabniški dostop do programa OneNote lahko upravljate v skrbniškem središču za Microsoft teams. Za več informacij preberite [Upravljanje aplikacij v skrbniškem središču za Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps) .
-- **Obnovi prenosne računalnike iz izbrisanih skupin**: sledite navodilom v [obnovitvi izbrisane ekipe](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) in njene vsebine tako, da obnovite skupine Office 365.
-- **Težave z beležnico razreda**: Prosimo, glejte [posodobitev programa OneNote in najboljše prakse za izobraževalce in študente](https://support.office.com/article/onenote-update-and-best-practices-for-educators-and-students-dde775f0-8b06-4263-8b54-1e9ddc3dd146) ter [posodobitev programa OneNote in najboljše prakse za skrbnike IT v izobraževanju](https://support.office.com/article/onenote-update-and-best-practices-for-it-admins-in-education-9d78f2b2-5e25-4288-b597-b4ba463c7b46?ui=en-US&rs=en-US&ad=US).
-- Če ne **morete uporabiti zavihka OneNote v storitvi Teams**ali če **ima vaš prenosnik težave s sinhronizacijo**, se prijavite s svojim računom skrbnika za najemnike in preverite, ali je na [nadzorni plošči storitve](https://docs.microsoft.com/office365/enterprise/view-service-health) na voljo preverjanje, ali degradacija ni prisotna.
+- **Dodajanje zvezka**: v skupine lahko [dodate nov ali obstoječi zvezek](https://support.microsoft.com/office/add-a-onenote-notebook-to-teams-0ec78cc3-ba3b-4279-a88e-aa40af9865c2) .
+- **Upravljanje dostopa do programa OneNote**: v skrbniškem središču za Microsoft Teams lahko upravljate uporabniški dostop do programa OneNote. Če želite več informacij, preberite [upravljanje programov v skrbniškem središču za Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps) .
+- **Obnovitev zvezkov iz izbrisanih skupin**: upoštevajte navodila v razdelku [obnovitev izbrisane](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team) skupine in njene vsebine tako, da obnovite skupine v storitvi Office 365.
+- **Težave v zvezku za predavanja**: Oglejte si [posodobitve za OneNote in najboljše prakse za pedagoge in študente](https://support.office.com/article/onenote-update-and-best-practices-for-educators-and-students-dde775f0-8b06-4263-8b54-1e9ddc3dd146) ter [posodobitve za IT ter najboljše prakse za skrbnike za IT v izobraževanju](https://support.office.com/article/onenote-update-and-best-practices-for-it-admins-in-education-9d78f2b2-5e25-4288-b597-b4ba463c7b46).
+- Če ne **morete uporabljati zavihka OneNote v aplikaciji Teams**ali če **ima vaš zvezek težave s sinhronizacijo**, se prijavite s skrbniškim računom najemnika in preverite [nadzorno ploščo za zdravstveno stanje](https://docs.microsoft.com/office365/enterprise/view-service-health) , da preverite, ali je prišlo do napake pri izpadu ali propadu storitve.
