@@ -1,5 +1,5 @@
 ---
-title: Ustvarjanje srečanja
+title: Načrtovanje sestanka v aplikaciji Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2678"
 - "9000736"
-ms.openlocfilehash: 6936138804ad8f09caccce7c3673475851f765ae
-ms.sourcegitcommit: 83c644c35c2700dc515f091c8f41f9c283b89967
+ms.openlocfilehash: 185024e40391b8a03d3cde5540eb1c18a950163c
+ms.sourcegitcommit: 282933087112fe8ec989e47b400ce589c0351c16
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43105363"
+ms.lasthandoff: 08/27/2020
+ms.locfileid: "47290071"
 ---
-# <a name="schedule-a-meeting-in-teams"></a>Razporejanje sestanka v skupini Teams
+# <a name="schedule-a-meeting-in-teams"></a>Načrtovanje sestanka v aplikaciji Teams
 
-**Pomembno**: Če imate težave pri ustvarjanju sestanka ali ne morete najti možnosti srečanja v skupini Teams, poskrbite, da bodo prizadeti uporabniki [licencirani za nabiralnik Exchange Online in je nabiralnik omogočen](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
+**Pomembno** Če imate težave z ustvarjanjem srečanja ali ne morete najti možnosti srečanja v aplikaciji Teams, poskrbite, da bodo prizadeti uporabniki imeli omogočen Exchangeev nabiralnik v podprti različici za Microsoft teams. Medtem ko je funkcija Exchange Online priporočena, so nabiralniki Exchange na mestu uporabe podprti v strežniku Exchange Server 2016 CU3 ali novejši različici s sistemom OAuth, ki je uspešno konfiguriran med spletom in na mestu uporabe. Če želite več informacij, glejte [Ustvarjanje nabiralnikov uporabnikov v storitvi Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes) in [zahteve za nabiralnike, ki gostujejo na mestu uporabe](https://docs.microsoft.com/microsoftteams/exchange-teams-interact#requirements-for-mailboxes-hosted-on-premises). 
 
-Sestanek lahko razporedite na dva načina: 
+1. Srečanje lahko načrtujete tako, da izberete:
 
-- Izberite **Razporedi ikono sestanka** v klepetu (to je pod poljem za sestavljanje), če želite rezervirati srečanje z osebami v klepetu.
-- Izberite ikono **koledarja** na levi strani aplikacije in izberite **novo srečanje** v zgornjem desnem kotu ali izberite obseg časa v koledarju, da odprete obrazec za razporejanje.
+    - **Načrtujte ikono srečanja** v klepetu pod poljem za sestavljanje, če želite rezervirati srečanje z osebami v klepetu.
 
-Podobno kot razporejanje sestanka v programu Outlook, boste svoje srečanje dali v naziv, povabili osebe in dodali podrobnosti sestankov.
+    - Ikona **koledarja** na levi strani aplikacije. Izberite **novo srečanje** v zgornjem desnem kotu ali izberite obseg časa v koledarju, da odprete obrazec za razporejanje.
 
-Na desni strani obrazca za razporejanje lahko dodate kanal ali posamezne osebe ali pa pustite tako prazno, da načrtujete zasebni sestanek.
+2. Podobno kot načrtovanje srečanja v Outlooku boste srečanju podajali naslov, povabili osebe in dodali podrobnosti srečanj.
 
-- Če želite več informacij o ustvarjanju in razporejanju sestankov v programu Microsoft Teams, glejte [načrtovanje sestanka v storitvi Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+3. Na desni strani obrazca za razporejanje lahko dodate kanal ali posamezne osebe ali pa pustite prazno, če želite načrtovati zasebni sestanek.
 
-- Za omejitve in specifikacije za sestanke glejte [omejitve in specifikacije za Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+Če želite več informacij o ustvarjanju in načrtovanju srečanj v aplikaciji Microsoft Teams, glejte [načrtovanje sestanka v aplikaciji Teams](https://support.office.com/article/Schedule-a-meeting-in-Teams-943507a9-8583-4c58-b5d2-8ec8265e04e5).
+
+Če želite več informacij o omejitvah in specifikacijah za srečanja, glejte [omejitve in specifikacije za Microsoft Teams](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#meetings-and-calls).
+
+Če želite pomoč pri odpravljanju težav v aplikaciji Teams in Exchange, še posebej za dodeljevanje težav pri načrtovanju, glejte [Odpravljanje težav z Microsoft Teams in Exchange Server](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
