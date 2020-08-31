@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005454"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316215"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>Zasebni kanali v storitvi Microsoft Teams
+# <a name="private-channels-in-microsoft-teams"></a>Zasebni kanali v aplikaciji Microsoft Teams
 
-Zasebni kanali so nova funkcija v storitvi Microsoft teams. Upoštevajte, da zasebnih kanalov ni mogoče pretvoriti iz standardnih kanalov ali obratno.
+Zasebni kanali v aplikaciji Microsoft Teams ustvarijo prostor v fokusu za sodelovanje znotraj svojih ekip. Le uporabniki v ekipi, ki so lastniki ali člani zasebnega kanala, lahko dostopajo do kanala. Kot člana zasebnega kanala je mogoče dodati kogar koli, vključno z gosti, vendar pa morajo biti že člani ekipe.
 
-Za podrobnosti o zasebnih kanalih, kot so informacije o [ustvarjanju zasebnega kanala in članstvu](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) ter na [zasebnih mestih SharePointovih mest](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites), si oglejte [zasebne kanale v storitvi Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
-
-**Opomba:** Ker konfiguracija za hranjenje zasebnih sporočil kanala še ni podprta, najemniki z omogočenimi pravilniki o hranjenju ne bodo mogli privzeto omogočiti zasebnih kanalov. Zasebne kanale lahko omogočite v skrbniškem središču ekip. Upoštevajte tudi, da je hranjenje datotek, ki so v skupni rabi v zasebnih kanalih, medtem ko hranjenje zasebnih sporočil kanala ni podprto.
+Če želite izvedeti več, začnite uporabljati [zasebne kanale v aplikaciji Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). To vključuje informacije, kot so [Ustvarjanje zasebnih kanalov in članstvo](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) ter [zasebna spletna mesta SharePointovih kanalov](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
 **Potrebujete novega lastnika ekipe?**
 
-Če lastnik zasebnega kanala zapusti, lahko dodate novega lastnika ekipe prek ekipe PowerShell.
+Če vaš zasebni lastnik kanala zapusti vašo organizacijo ali pa je odstranjen iz skupine, je član zasebnega kanala samodejno povišan kot zasebni lastnik kanala.
 
-
-- Pojdi [tukaj](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) za namestitev ekip PowerShell.
-
-Tukaj je ukaz cmdlet boste potrebovali:
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-Če želite več informacij o skupini PowerShell, glejte [pregled skupin PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
+Skrbniki lahko vidijo tudi [upravljanje življenjskega cikla zasebnih kanalov v aplikaciji Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) , če želite izvedeti več o pravilnikih za upravljanje, ki lahko ustvarijo zasebne kanale, pa tudi načine za pomoč pri ustvarjanju poizvedb za e-odkrivanje ali pravno zadržanje.
