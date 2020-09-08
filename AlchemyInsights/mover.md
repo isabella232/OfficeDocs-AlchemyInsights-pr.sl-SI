@@ -1,5 +1,5 @@
 ---
-title: Povzročitelj
+title: Mover
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "3522"
-ms.openlocfilehash: 896a44d368ff1c2f6f8c83759b5d3444043538a1
-ms.sourcegitcommit: a7c17217c170ead24571421baaf5a14f1525b1a6
+ms.openlocfilehash: 0c311a8448f8feab81367b2b5b0d25f1912fd84d
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42157715"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406342"
 ---
-# <a name="mover"></a>Povzročitelj
+# <a name="mover"></a>Mover
 
-21. oktobra 2019 je Microsoft pridobil **Mover**, vodilnega ponudnika selitve datotek v oblaku.
+21. oktobra 2019, Microsoft nabavljeni  **pobudnik**, vodilni ponudnik selitve datoteke v oblaku.
 
-Za več informacij o Mover, prosimo, da se sklicujejo na naslednje članke:
+V trenutnem trenutku Prosimo, da [ **tukaj**](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) [usmerite morebitne zahteve za podporo](https://support.microsoft.com/supportforbusiness/productselection?sapId=c3fa6eba-e1f0-0715-4519-94a9740c5f2c) .  
 
-- [Vodniki za migracijo Mover](https://mover.io/guides/)
-- [Pogosta vprašanja o migracijah](https://mover.io/guides/general/)
-- [Priključki za Mover](https://mover.io/connectors/)
+Če želite več informacij o povzročitelju, upoštevajte te članke:
 
-V trenutnem času, **Prosimo, neposredno vse zahteve za podporo za** [support@mover.io](mailto:support@mover.io) za pomoč pri izdelku. 
-
- 
+- [Vodniki selitve za movers](https://mover.io/guides/)
+- [Pogosta vprašanja o selitvi](https://mover.io/guides/general/)
