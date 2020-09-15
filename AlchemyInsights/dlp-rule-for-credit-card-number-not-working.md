@@ -1,23 +1,24 @@
 ---
-title: DLP pravilo za številko kreditne kartice ne deluje
+title: Pravilo DLP za številko kreditne kartice ne deluje
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: e2e93bed44749b9017dc6ff919a151d46da7a3fc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507422"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679457"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>Težave z DLP s številkami kreditnih kartic
 
@@ -25,35 +26,35 @@ ms.locfileid: "44507422"
 
 **Težave z DLP s številkami kreditnih kartic**
 
-Ali imate težave s **preprečevanjem izgube podatkov (DLP)** , ki ne deluje za vsebino, ki vsebuje **številko kreditne kartice** pri uporabi vrste občutljivih informacij DLP v O365? Če je tako, preverite, ali vsebina vsebuje potrebne informacije, da sproži pravilnik DLP, ko je ovrednoten. Na primer, za **pravilnik o kreditni kartici** , konfigurirani z ravnjo zaupanja 85%, so ovrednotene naslednje in morajo biti odkrite za pravilo, ki sproži:
+Ali imate težave s **preprečevanjem izgube podatkov (DLP)** ne delate za vsebino, ki vsebuje **številko kreditne kartice** , ko uporabljate vrsto občutljivih podatkov DLP v O365? Če je tako, se prepričajte, da vaša vsebina vsebuje potrebne informacije, da sproži pravilnik DLP, ko ga ocenite. Na primer, za **pravilnik kreditne kartice** , konfiguriran z ravnjo zaupanja 85%, se ocenijo naslednji in jih je treba zaznati, da bo pravilo sprožilo:
   
-- **[Format:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 številk, ki jih je mogoče formatirati ali neoblikovano (dddddddddddddddd) in mora opraviti test Luhn.
+- **[Oblika:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 števk, ki jih je mogoče formatirati ali neoblikovane (dddddddddddddddd) in morajo opraviti preskus Luhn.
 
-- **[Vzorec:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Zelo zapleten in robusten vzorec, ki zazna kartice iz vseh večjih blagovnih znamk po vsem svetu, vključno z Visa, MasterCard, Odkrijte Card, JCB, American Express, darilne kartice, in Diner kartice.
+- **[Vzorec:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** Zelo zapleteno in robustno vzorec, ki zazna kartice iz vseh glavnih svetovnih blagovnih znamk, vključno z Visa, MasterCard, Discover Card, JCB, American Express, darilne kartice in Diner CARDS.
 
-- **[Kontrolna vsota:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Da, Luhn ček
+- **[Preskusna vsota:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** Da, Luhn checksum
 
-- **[Definicijo:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Pravilnik DLP je 85% prepričan, da je zaznal to vrsto občutljivih informacij, če v bližini 300 znakov:
+- **[Definicija:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** Pravilnik DLP je 85% prepričan, da je zaznal to vrsto občutljivih informacij, če je v bližini 300 znakov:
 
-  - Funkcija Func_credit_card poišče vsebino, ki se ujema z vzorcem.
+  - Funkcija Func_credit_card najde vsebino, ki se ujema z vzorcem.
 
-  - Nekaj od tega je res:
+  - Velja nekaj od tega:
 
-  - Najdena je ključna beseda iz Keyword_cc_verification.
+  - Najde se ključna beseda iz Keyword_cc_verification.
 
-  - Na voljo je ključna beseda iz Keyword_cc_name
+  - Najdena je ključna beseda iz Keyword_cc_name
 
-  - Funkcija Func_expiration_date najde datum v pravem datumski obliki.
+  - Funkcija Func_expiration_date najde datum v pravilni obliki zapisa datuma.
 
-  - Kontrolna vsota prehaja
+  - Izkaznica checksum
 
-    Naslednji vzorec bi na primer sprožil pravilnik o številki kreditne kartice DLP:
+    Na primer, naslednji vzorec bi sprožil za DLP številko kreditne kartice:
 
   - Visa: 4485 3647 3952 7352
   
   - Poteče: 2/2009
 
-Če želite več informacij o tem, kaj se zahteva za **številko kreditne kartice** , ki jo želite odkriti za vašo vsebino, glejte naslednji razdelek v tem članku: [katere vrste občutljivih informacij so na voljo za kreditno kartico #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+Če želite več informacij o tem, kaj potrebujete za **številko kreditne kartice** , ki jo želite zaznati za vašo vsebino, si oglejte ta razdelek v tem članku: [Kaj so občutljive vrste podatkov, ki iščejo kreditno kartico #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-Z drugačno vgrajeno vrsto občutljivih informacij si oglejte ta članek za informacije o tem, kaj je potrebno za druge vrste: [Kaj iščejo občutljive vrste informacij](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+Če uporabljate drugačno vgrajeno občutljivo vrsto informacij, si oglejte ta članek za informacije o tem, kaj je zahtevano za druge vrste: [Kaj so videti občutljive vrste informacij](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
