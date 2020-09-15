@@ -1,32 +1,33 @@
 ---
-title: Office 365 napredna zaščita pred grožnjami
+title: Napredna zaščita pred grožnjami sistema Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 5fc3f30e1f08764393dcced94be541b1c6bcc84d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506610"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696637"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 napredna zaščita pred grožnjami
+# <a name="office-365-advanced-threat-protection"></a>Napredna zaščita pred grožnjami sistema Office 365
 
-- Varne Priloge, varne povezave in anti-Phishing so del Office 365 napredno zaščito pred grožnjami (ATP). Enterprise E5, izobraževanje a5 in Microsoft 365 Business Premium vključujejo ATP. Vsi drugi načrti zahtevajo dodatek ATP naročnino.
+- Varne Priloge, varne povezave in preprečevanje lažnega predstavljanja so del sistema Office 365 Advanced Threat Protection (ATP). Enterprise E5, izobraževanje a5 in Microsoft 365 Business Premium vključujeta ATP. Vsi drugi paketi zahtevajo naročnino na dodatek ATP.
 
-- Morate dodeliti ustrezne licence za zaščito svojih uporabnikov, ki jih Office 365 ATP. Za navodila o množični uporabi licenc za uporabnike glejte [to temo](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) .
+- Za zaščito uporabnikov s sistemom Office 365 ATP morate dodeliti ustrezne licence. Če želite navodila o tem, kako v razsutem stanju uporabljati licence za uporabnike, si oglejte [to temo](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) .
 
-- Globalni skrbniki ali skrbniki varnosti lahko dostopajo do funkcij Officea 365 ATP v središču za varnost & skladnosti v pravilniku o **grožnjah managmeent** \> **Policy**.
+- Globalni skrbniki ali varnostni skrbniki lahko dostopajo do funkcij sistema Office 365 ATP v središču za skladnost varnostnega & na spletnem mestu **Threat Managmeent** \> **Policy**.
 
-- Pravilniki o varnih prilogah in varni povezavi lahko obsegajo celotno organizacijo, določena področja ali manjše skupine uporabnikov.
+- Varne Priloge in pravilniki varne povezave lahko obsegajo vašo celotno organizacijo, določene domene ali manjše skupine uporabnikov.
 
-- Ni privzetega pravilnika o varni pritrditve ATP. [Ustvariti morate pravilnik](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) in jo uporabiti za uporabnike.
+- Ni privzetega pravilnika za varno Prilogo za ATP. [Ustvariti morate pravilnik](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) in ga uporabiti za uporabnike.
 
-- Obstaja privzeta pravilnik ATP Safe Links, ki velja za vse v vaši organizaciji. Če želite urediti ta pravilnik ali ustvariti pravilnike po meri, si oglejte [to temo](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Na voljo je privzeta politika varnih povezav ATP, ki velja za vse v vaši organizaciji. Če želite urediti ta pravilnik ali ustvariti pravilnike po meri, si oglejte [to temo](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
