@@ -1,21 +1,22 @@
 ---
-title: Dynamics 365 editable omrežne bližnjice na tipkovnici
+title: Bližnjice na tipkovnici, ki jih je mogoče urejati na dinamiki 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1708"
 - "6200013"
-ms.openlocfilehash: 030190352426de39cda53be3429e7bb8c2c42000
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d64ff0eb9ceaea22921cf1817139988123c9d5a4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36529107"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47678304"
 ---
-# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a><span data-ttu-id="dc37b-102">Dynamics 365 editable bližnjice na tipkovnici omrežja</span><span class="sxs-lookup"><span data-stu-id="dc37b-102">Dynamics 365 editable grid keyboard shortcuts</span></span>
+# <a name="dynamics-365-editable-grid-keyboard-shortcuts"></a><span data-ttu-id="b7f65-102">Bližnjice na tipkovnici, ki jih je mogoče urejati na dinamiki 365</span><span class="sxs-lookup"><span data-stu-id="b7f65-102">Dynamics 365 editable grid keyboard shortcuts</span></span>
 
-* [<span data-ttu-id="dc37b-103">Editable bližnjice na tipkovnici omrežja</span><span class="sxs-lookup"><span data-stu-id="dc37b-103">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
+* [<span data-ttu-id="b7f65-103">Bližnjice na tipkovnici, ki jih je mogoče urejati</span><span class="sxs-lookup"><span data-stu-id="b7f65-103">Editable grid keyboard shortcuts</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/basics/keyboard-shortcuts#editable-grids-views)
