@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001667"
 - "3734"
-ms.openlocfilehash: 2ec68eb164748f27ef0f43a48994c61c9e67d310
-ms.sourcegitcommit: 00e4266575438f55bdc18db05ed54aafcb75a3c9
+ms.openlocfilehash: 44e7d38655c7087f0b95a80488aef2de1fcb36c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42588169"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714488"
 ---
 # <a name="change-your-lock-screen-background"></a>Spreminjanje ozadja zaklenjenega zaslona
 
-- Iti k **postavljanje** > **poosebljenje** > **zatvornica zaslon**. Ali pa kliknite ali tapnite [tukaj](ms-settings:lockscreen?activationSource=GetHelp).
+- Pojdite v **Settings**  >  **razdelek**nastavitve  >  **zaklepanja zaslona**. Ali pa kliknite ali tapnite [tukaj](ms-settings:lockscreen?activationSource=GetHelp).
 
-- Če želite nastaviti sliko za ozadje po meri, izberite **Slika** iz spustnega seznama **ozadje** in izberite ali **prebrskajte** do slike.
+- Če želite nastaviti sliko za ozadje po meri, na spustnem seznamu **ozadje** izberite **Slika** in izberite ali **poiščite** sliko.
 
   ![Nastavite sliko za ozadje po meri.](media/set-custom-background-pic.png)
 
-- Če želite nastaviti diaprojekcijo slik po meri, v spustnem seznamu **ozadje** izberite **diaprojekcijo** in izberite album ali dodajte mapo, ki vsebuje slike za diaprojekcijo.
+- Če želite nastaviti diaprojekcijo slik po meri, izberite **diaprojekcijo** na spustnem seznamu **ozadje** in izberite album ali dodajte mapo, ki vsebuje slike za diaprojekcijo.
 
   ![Nastavite diaprojekcijo slik po meri.](media/set-up-slideshow-background.png)

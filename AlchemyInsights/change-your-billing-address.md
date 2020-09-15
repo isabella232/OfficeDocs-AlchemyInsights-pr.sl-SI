@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,30 +14,30 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: db2283ecc2741923153cdfe0288b580b1a8e07e4
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
+ms.openlocfilehash: 09de8ad5c7251822c7b3ad33bce991c6b4ca7883
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43943961"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714452"
 ---
 # <a name="change-your-billing-address"></a>Spreminjanje naslova za obračunavanje
 
 Vaš račun ali račun vsebuje tri naslove.
 
-**Spreminjanje naslova za obračunavanje za plačilno sredstvo**
+**Spreminjanje naslova za obračunavanje za način plačila**
 
-1. V skrbniškem središču pojdite na **obračunavanje > [plačilne metode](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
+1. V skrbniškem središču pojdite v razdelek **obračunavanje > [načinov plačila](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 2. Izberite kreditno kartico ali bančni račun, ki ga želite spremeniti.
 3. Na strani s **podrobnostmi o načinu plačila** kliknite **Uredi**.
-4. Posodobite naslov za obračunavanje in kliknite **shrani > končano**.
+4. Posodobite naslov plačnika in kliknite **shrani > opravljeno**.
 
-Če želite več informacij o spremembah naslovov in obvestil, glejte [Spreminjanje naslovov za obračunavanje za Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Če želite več informacij o spremembah naslova in obvestil, glejte [Spreminjanje naslovov za obračunavanje za Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
 
-**Spreminjanje informacij o računu za obračunavanje**
+**Spreminjanje podatkov o računu obračunavanja**
 
-1. V skrbniškem središču pojdite na **račune za obračunavanje > [obračunavanje](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
-2. Izberite **Uredi informacije o računu za obračunavanje**.
-3. Posodobite podatke računa za obračunavanje in kliknite **shrani > končano**.
+1. V skrbniškem središču pojdite na **obračunavanje > [računov obračunavanja](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**.
+2. Izberite **Uredi informacije o računu obračunavanja**.
+3. Posodobite podatke o računu obračunavanja in nato kliknite **shrani > končano**.
 
-**Opomba**: države/regije ne morete spremeniti. Če je to polje treba spremeniti, boste morali kupiti novega najemnika.
+**Opomba**: države/regije ne morete spremeniti. Če želite spremeniti to polje, boste morali kupiti novega najemnika.

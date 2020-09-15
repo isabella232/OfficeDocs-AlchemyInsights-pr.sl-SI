@@ -1,40 +1,40 @@
 ---
-title: Samodejna uporaba oznak občutljivosti
+title: Samodejno uporabi oznake občutljivosti
 ms.author: pebaum
 author: pebaum
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: f1305fd8af3289f3543d2a596937089195e2495c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508464"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715181"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>Samodejna uporaba oznak občutljivosti
+# <a name="auto-apply-sensitivity-labels"></a>Samodejno uporabi oznake občutljivosti
 
-Oznake občutljivosti lahko uporabniki ročno uporabijo za vsebino ali pa jih konfigurirate tako, da se samodejno uporabljajo za vsebino.
+Oznake občutljivosti lahko ročno uporabite za vsebino uporabnikov, lahko pa jih konfigurirate tako, da jih samodejno uporabite za vsebino.
 
-Samodejna uporaba oznak občutljivosti odpravlja potrebo po usposabljanju uporabnikov o razvrščanju vsebine in potrebi po obveščanju o konfiguracijah pravilnikov.
+Samodejno uporaba oznak občutljivosti odstrani potrebe po usposabljanju uporabnikov o tem, kako razvrstiti vsebino in potrebo po obveščanju o konfiguraciji pravilnika.
 
-Če želite nalepke uporabiti samodejno, je potrebno naslednje:
+Če želite samodejno uporabiti nalepke, potrebujete to:
 
-- Azure informacije zaščita P2 naročnina
-- [Prenesite in namestite poenoteni odjemalec za označevanje informacij Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- Naročnina na Azure Information Protection P2
+- [Prenos in namestitev enotnega odjemalca za označevanje informacij o varstvu podatkov Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Delamo na domači podpori, ki v prihodnosti ne bo zahtevala poenotene stranke za označevanje informacij Azure.
+Ukvarjamo se z izvorno podporo, ki v prihodnje ne bo zahtevala, da je odjemalec za označevanje informacij v storitvi Azure.
 
-Trenutno samo Windows podpira poenoteni odjemalec za označevanje.  Funkcija še ni podprta v računalnikih Mac, iOS in Android.
+Trenutno le Windows podpira odjemalca s poenotenim označevanjem.  Funkcija še ni podprta v računalnikih Mac, iOS in Android.
 
-Če želite več informacij o oznakah občutljivosti in jih samodejno uporabiti za vsebino, glejte:
+Če želite več informacij o oznakah občutljivosti in uporabi samodejno za vsebino, glejte:
 
 - [Pregled oznak občutljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Samodejno uporabi nalepko občutljivosti za vsebino](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [Samodejno uporabo oznake občutljivosti za vsebino](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

@@ -1,33 +1,34 @@
 ---
-title: Rezultati revizij so prazni
-ms.author: stevhord
+title: Rezultati nadzora so prazni
+ms.author: pebaum
 author: bentoncity
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: dda79df5b48dba8ea954aee693caead7725b0f96
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: c72d3623dc2deaf28892513e268db4e1a8d8f228
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712438"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715253"
 ---
-# <a name="auditing-results-are-blank"></a>Rezultati revizij so prazni
+# <a name="auditing-results-are-blank"></a>Rezultati nadzora so prazni
 
- **Revizijska poročila za klasične spletne strani**
+ **Poročila o nadzoru za klasična mesta**
   
-Če si želite ogledati revizijsko poročilo za zbirko SharePointovih mest, morate biti skrbnik za zbirko mest. Če se želite dodati kot skrbnik, glejte [Dodajanje skrbnikov zbirke mest kot globalnega ali SharePointovega skrbnika](https://go.microsoft.com/fwlink/?linkid=869390). Če želite več informacij o delu z dnevnikom nadzora, glejte [Ogled poročil dnevnika revizij](https://go.microsoft.com/fwlink/?linkid=395237). 
+Če si želite ogledati poročilo o nadzoru za SharePointovo zbirko mest, morate biti skrbnik zbirke mest. Če se želite dodati kot skrbnik, si oglejte [Dodajanje skrbnikov zbirke mest kot globalnega ali SharePointovega skrbnika](https://go.microsoft.com/fwlink/?linkid=869390). Če želite več informacij o delu z dnevnikom nadzora, glejte [Ogled poročil dnevnika nadzora](https://go.microsoft.com/fwlink/?linkid=395237). 
   
- **Iskanje dnevnika revizij**
+ **Iskanje v dnevniku nadzora**
   
-Vi potreba v obstati a kroglast pomoč obdelovati s pregled poleno v [ &amp; varnost skladnost središče](https://protection.office.com). Preden začnete, vklopite beleženje dnevnika nadzora. Nato lahko zaženete iskanje dnevnika revizij. 
+Če želite delati z dnevnikom nadzora v [ &amp; središču za skladnost z varnostjo](https://protection.office.com), morate biti globalni skrbnik. Preden začnete, vklopite dnevnik nadzora. Nato lahko zaženete iskanje dnevnika nadzora. 
   
-[Preberite, kako poiščete dnevnik revizij](https://go.microsoft.com/fwlink/?linkid=708432).
+[Preberite, kako preiščete dnevnik nadzora](https://go.microsoft.com/fwlink/?linkid=708432).
   
 
