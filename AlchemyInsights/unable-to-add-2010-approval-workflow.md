@@ -1,44 +1,45 @@
 ---
-title: 2010 odobritve poteka dela ni mogoče dodati
+title: Poteka dela odobritve za 2010 ni mogoče dodati
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 0df65cf9-7eae-4de7-88e9-1914635c8d11
-ms.openlocfilehash: f40716dd399fe7bea1b606cd725676268dc0a66d
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: aa61f1615b60d27cffad15f02f6ce5dbac1b607f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582863"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699751"
 ---
-# <a name="unable-to-add-2010-approval-workflow"></a>2010 odobritve poteka dela ni mogoče dodati
+# <a name="unable-to-add-2010-approval-workflow"></a>Poteka dela odobritve za 2010 ni mogoče dodati
 
-V zbirki mest Microsoft SharePoint ne morete dodati globalnega poteka dela za enkratno uporabo (na primer» homologacija – SharePoint 2010 «) na seznam ali v knjižnico.
+V zbirki mest Microsoft SharePoint ne morete dodati globalnega poteka dela za vnovično uporabo (na primer» odobritev – SharePoint 2010 «) na seznam ali v knjižnico.
   
-Če želite odpraviti to težavo, sledite tem korakom: 
+Če želite odpraviti to težavo, upoštevajte ta navodila: 
   
 1. Odprite korensko spletno mesto zbirke mest v programu SharePoint Designer 2013.
   
-2. V razdelku **predmeti mesta**izberite **poteke dela**. 
+2. V razdelku **predmeti mesta**izberite **poteki dela**. 
   
-3. V **novem** odseku traku **potekov dela** izberite **potek dela za večkratno uporabo**. 
+3. V **novem** razdelku traku **poteki dela** izberite» **potek dela «za vnovično uporabo**. 
   
-4. V obrazcu **Ustvari večkratno uporabo** vnesite ime * * *Repair2010* * *. Za **vrsto platforme**kliknite **SharePoint 2010 potek dela**in nato kliknite **v redu**. 
+4. V obrazcu» **Ustvari ponovno uporabo** «vnesite ime * * *Repair2010* * *. Za **vrsto platforme**kliknite **potek dela za SharePoint 2010**in nato kliknite **v redu**. 
   
-1. V odseku **Shrani** v traku **poteka dela** izberite **objavi**. 
+1. V razdelku» **Shrani** «na traku **poteka dela** izberite **objavi**. 
   
-2. V odseku **upravljanje** traku **poteka dela** izberite **objavi globalno**. V potrditvenem pogovornem oknu, ki se prikaže, izberite **v redu**. 
+2. V razdelku **Upravljaj** na traku **poteka dela** izberite **objavi globalno**. V pogovornem oknu za potrditev, ki se prikaže, izberite **v redu**. 
   
-3. V spletnem brskalniku poiščite korensko spletno mesto zbirke mest in nato dostopite do **Site Settings** \> **funkcij zbirke**mest za nastavitve mesta. Preklopite funkcijo **potekov dela** : 
+3. V spletnem brskalniku poiščite korensko spletno mesto zbirke mest, nato pa kliknite **Site Settings** \> **funkcije zbirke mest**za dostop do mesta. Preklop funkcije» **poteki dela** «: 
   
-· Če je funkcija *aktivirana* , kliknite **Deaktiviraj** in nato kliknite **Aktiviraj**. 
+· Če je funkcija  *aktivirana*  , kliknite **Deaktiviraj** in nato še **Aktiviraj**. 
   
-· Če je funkcija *deaktivirana* , kliknite **Aktiviraj**. 
+· Če je funkcija  *deaktivirana*  , kliknite **Aktiviraj**. 
   
-Več informacij najdete v naslednjem [članku](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
+Če želite več informacij, si oglejte ta [članek](https://go.microsoft.com/fwlink/?linkid=2047770&amp;clcid=0x409).
   
 
