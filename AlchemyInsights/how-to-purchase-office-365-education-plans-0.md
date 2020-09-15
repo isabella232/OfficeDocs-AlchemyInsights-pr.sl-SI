@@ -1,11 +1,12 @@
 ---
-title: Kako kupiti Office 365 izobraževalnih načrtov
+title: Nakup paketov za izobraževanje za Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,13 +14,13 @@ ms.custom:
 - "332"
 - "1500009"
 ms.assetid: 09f40c86-05d7-45ef-a6d1-3292509353c2
-ms.openlocfilehash: 298641023a33bf906487dab3b8f40e87662f7e47
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9d7d950c55f010d84707d51e3aa045afc4a11623
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763737"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47703604"
 ---
-# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="06de9-102">Kako kupiti Office 365 izobraževalnih načrtov</span><span class="sxs-lookup"><span data-stu-id="06de9-102">How to purchase Office 365 Education plans</span></span>
+# <a name="how-to-purchase-office-365-education-plans"></a><span data-ttu-id="fd1ca-102">Nakup paketov za izobraževanje za Office 365</span><span class="sxs-lookup"><span data-stu-id="fd1ca-102">How to purchase Office 365 Education plans</span></span>
 
-<span data-ttu-id="06de9-103">Vaša pisarna 365 izobrazba je v pregledu.</span><span class="sxs-lookup"><span data-stu-id="06de9-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="06de9-104">Pred potekom sojenja lahko pričakujete, da boste prejeli obvestilo o določitvi upravičenosti.</span><span class="sxs-lookup"><span data-stu-id="06de9-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
+<span data-ttu-id="fd1ca-103">Izobrazba izobraževanja za Office 365 je v razdelku pregled.</span><span class="sxs-lookup"><span data-stu-id="fd1ca-103">Your Office 365 Education qualification is under review.</span></span> <span data-ttu-id="fd1ca-104">Pričakujete lahko, da prejmete obvestilo o določanju upravičenosti pred potekom sojenja.</span><span class="sxs-lookup"><span data-stu-id="fd1ca-104">You can expect to receive a notification on the determination of your eligibility before your trial expires.</span></span>
