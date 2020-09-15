@@ -6,22 +6,23 @@ manager: scotv
 ms.date: 07/22/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3700001"
 - "1060"
-ms.openlocfilehash: 325bdc133c9a8458ad8a65b3d1ca2276a558bfbf
-ms.sourcegitcommit: 6f7cbf1dc28c0693009ddf03d9768c1c65018964
+ms.openlocfilehash: 7a1b99ff336a50619c9560833c05785546634e27
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423923"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673981"
 ---
-# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a><span data-ttu-id="ce0cb-102">Manjkajoči stik na seznamu predlogov med sestavljanjem pošte</span><span class="sxs-lookup"><span data-stu-id="ce0cb-102">Missing contact in suggestion list while composing mail</span></span>
+# <a name="missing-contact-in-suggestion-list-while-composing-mail"></a><span data-ttu-id="b0fcd-102">Manjkajoči stik na seznamu predlogov med sestavljanjem pošte</span><span class="sxs-lookup"><span data-stu-id="b0fcd-102">Missing contact in suggestion list while composing mail</span></span>
 
-1. <span data-ttu-id="ce0cb-103">Izberite **Za:** in nato na seznamu izberite stik.</span><span class="sxs-lookup"><span data-stu-id="ce0cb-103">Select **To:**, and then select a contact from the list.</span></span>
-2. <span data-ttu-id="ce0cb-104">Izberite **Pošlji**.</span><span class="sxs-lookup"><span data-stu-id="ce0cb-104">Select **Send**.</span></span>
+1. <span data-ttu-id="b0fcd-103">Izberite **za:**, nato pa na seznamu izberite stik.</span><span class="sxs-lookup"><span data-stu-id="b0fcd-103">Select **To:**, and then select a contact from the list.</span></span>
+2. <span data-ttu-id="b0fcd-104">Izberite **Pošlji**.</span><span class="sxs-lookup"><span data-stu-id="b0fcd-104">Select **Send**.</span></span>
 
-    <span data-ttu-id="ce0cb-105">Stik se prikaže na seznamu predlogov.</span><span class="sxs-lookup"><span data-stu-id="ce0cb-105">The contact appears in the suggestion list.</span></span>
+    <span data-ttu-id="b0fcd-105">Stik je prikazan na seznamu predlog.</span><span class="sxs-lookup"><span data-stu-id="b0fcd-105">The contact appears in the suggestion list.</span></span>
