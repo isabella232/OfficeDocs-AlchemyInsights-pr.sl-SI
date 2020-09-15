@@ -1,11 +1,12 @@
 ---
-title: 1047 AntiSpam 550 5.7.708 storitev ni na voljo. Dostop zavrnjen, promet ni sprejet iz tega IP
+title: 1047 AntiSpam 550 5.7.708 storitev ni na voljo. Dostop zavrnjen, promet ni bil sprejet iz te preiskave
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,15 +14,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: cd4f3d7f3783c70a00a2575a297cb4d92cdac80d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cbfef03232f14fa29d98f16066b4ae29dfd26660
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43707891"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717233"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="7c329-103">550 5.7.708 dostop zavrnjen, promet ni sprejet iz tega IP</span><span class="sxs-lookup"><span data-stu-id="7c329-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="8e7c0-103">550 5.7.708 dostop zavrnjen, promet ni bil sprejet iz tega IP</span><span class="sxs-lookup"><span data-stu-id="8e7c0-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
 
-<span data-ttu-id="7c329-104">To zmota dogoditi se čas spodbuda email s znana veličina, pritličen ugled IP naslovljenec to ste navadno že rabljen z nov šega.</span><span class="sxs-lookup"><span data-stu-id="7c329-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
+<span data-ttu-id="8e7c0-104">Do te napake pride pri pošiljanju e-pošte iz znanih naslovov IP z nizkim ugledom, ki jih običajno uporabljajo nove stranke.</span><span class="sxs-lookup"><span data-stu-id="8e7c0-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
 
-<span data-ttu-id="7c329-105">Če morate poslati e-pošto s teh naslovov IP, preden lahko kupite licence, se obrnite na podporo, da zahtevate izjemo, dokler ne boste mogli kupiti licenc.</span><span class="sxs-lookup"><span data-stu-id="7c329-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
+<span data-ttu-id="8e7c0-105">Če želite poslati e-pošto iz teh naslovov IP, preden lahko kupite licence, se obrnite na podporo, da zaprosite za izjemo, dokler ne morete kupiti licenc.</span><span class="sxs-lookup"><span data-stu-id="8e7c0-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
