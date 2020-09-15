@@ -5,22 +5,23 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1246"
 - "5200021"
 ms.assetid: 15091086-2ac9-4e99-94be-a08a17386e6e
-ms.openlocfilehash: 5bdea7c1c0e74ca622fc4c5d5595cc5dada3c5e0
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 255fd52e0bd63f282613f3fb07240a5530738506
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762513"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662881"
 ---
 # <a name="managed-metadata-service-error-message"></a>Sporočilo o napaki storitve upravljanih metapodatkov
 
-Ko odprete trgovino Term, se lahko prikaže sporočilo o napaki:» storitev upravljanih metapodatkov ali povezava trenutno ni na voljo. Skupina aplikacij ali spletna storitev z upravljanimi metapodatki morda ni bila zagnana. Obrnite se na skrbnika. "
+Ko odprete shrambo izrazov, se lahko prikaže sporočilo o napaki:» storitev za upravljane metapodatke ali povezava trenutno ni na voljo. Skupina programov ali spletna storitev za upravljane metapodatke morda ni bila zagnana. Obrnite se na skrbnika. "
   
-Če je minilo več kot 24 ur, odkar ste prvič videli to težavo, prosimo, prijavite primer podpore. Razumemo, da se lahko 24 ur zdi kot dolgo časa. V mnogih primerih smo že delajo na rešitev, zato vas prosimo, da nam vsaj 24 ur.
+Če ste opravili več kot 24 ur, odkar ste prvič videli to težavo, se obrnite na primer podpore. Razumemo, da se 24 ur morda zdi, kot dolgo časa. V številnih primerih že pripravljamo rešitev, zato vas prosimo, da nam daste vsaj 24 ur.
   

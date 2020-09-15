@@ -1,34 +1,35 @@
 ---
-title: Odpravljanje težav pri uradu 365 napredna zaščita pred grožnjami
+title: Odpravljanje težav z zaščito pred grožnjami sistema Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 7391b3c126d55213881f6b71cb6b5fc72bc68d0f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44512606"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658930"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Odpravljanje težav pri uradu 365 napredna zaščita pred grožnjami
+# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Odpravljanje težav z zaščito pred grožnjami sistema Office 365
 
-- Ali opazite zamude pri dostavi sporočila? Uporabite [dinamično možnost dostave](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) v pravilniku o VARNIH prilogah ATP. To bo pripomoglo k preprečevanju zamud pri sporočilih, ko boste zaščitili prejemnike pred zlonamernimi datotekami.
+- Ali opazite zamude pri dostavi sporočila? Uporabite možnost [dinamična dostava](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) v pravilniku o varnih prilogah za ATP. S tem se izognete zakasnitvam sporočil in zaščitite prejemnike pred zlonamernimi datotekami.
 
-- Ali želite Microsoftu sporočiti lažne pozitivne ali lažne negative? Uporabite to [povezavo](https://www.microsoft.com/wdsi/filesubmission/) za pošiljanje datotek za analizo.
+- Ali želite Microsoftu prijaviti lažne pozitivne ali lažne negativne izraze? S to [povezavo](https://www.microsoft.com/wdsi/filesubmission/) lahko pošljete datoteke v analizo.
 
-- Ali ste vedeli, da lahko omogočite zaščito varnih povezav za interno e-poštno sporočilo, poslano med prejemniki v vaši organizaciji? Upoštevajte te korake:
+- Ali ste vedeli, da lahko omogočite zaščito varnih povezav za notranjo e-pošto, poslano med prejemniki v organizaciji? Upoštevajte te korake:
 
-  1. Pojdite [https://protection.office.com](https://protection.office.com) in se vpišite z globalnim skrbnikom ali računom varnostnega skrbnika.
+  1. Pojdite na [https://protection.office.com](https://protection.office.com) in se vpišite z računom globalnega skrbnika ali varnostnega skrbnika.
 
-  2. V levem podoknu za krmarjenje pod **upravljanjem groženj**izberite **Policy** \> **varne povezave**pravilnika.
+  2. V levem podoknu za krmarjenje v razdelku **upravljanje groženj**izberite povezave **pravilnika** za \> **varnost**.
 
-  3. V **pravilnikih, ki veljajo za celotno organizacijo** , izberite pravilnik in kliknite **Uredi**.
+  3. V razdelku **pravilniki, ki veljajo za celotno organizacijo** , izberite pravilnik in kliknite **Uredi**.
 
-  4. Pod možnostjo **Nastavitve**omogočite **uporabo varnih povezav za sporočila, poslana v organizaciji**.
+  4. V razdelku **Nastavitve**omogočite **Uporaba varnih povezav do sporočil, poslanih v organizaciji**.

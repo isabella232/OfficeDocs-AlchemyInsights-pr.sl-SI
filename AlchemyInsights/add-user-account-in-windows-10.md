@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3448"
 - "9001447"
-ms.openlocfilehash: 17ed86b96d0c1a6c54c020a39afa72bf18df5fcb
-ms.sourcegitcommit: f1fad2129d09660ec42dbce03ce2c6b4cfc9555a
+ms.openlocfilehash: acb32edbda28669ce388c54dbe445523849d1da6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40741276"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687558"
 ---
 # <a name="add-a-user-account-in-windows-10"></a>Dodajanje uporabniškega računa v sistemu Windows 10
 
-Račun v sistemu Windows 10 dodate tako:
+Tukaj je kako dodati račun v sistemu Windows 10:
 
-1. Pojdite na **Začni** > **Nastavitve** > **računi** > **družinski & druge osebe** (ali **druge osebe**, če uporabljate Windows 10 Enterprise) > **dodate nekoga drugega v ta računalnik**.
+1. **Start**  >  **Settings**  >  Če uporabljate Windows 10 Enterprise, pojdite na» Start Settings Family**accounts «**  >  **& drugih oseb** (ali **drugih oseb**) > **dodajte drugo osebo v ta računalnik**.
 2. Sledite navodilom za dodajanje Microsoftovega računa ali lokalnega računa.
 
-[Preberite več o nastavitvi računov](https://support.microsoft.com/help/17197/)
+[Več informacij o nastavitvi računov](https://support.microsoft.com/help/17197/)

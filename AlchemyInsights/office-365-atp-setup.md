@@ -1,29 +1,30 @@
 ---
-title: Nastavitev za napredno zaščito pred grožnjami za Office 365 (ATP)
+title: Nastavitev naprednega varstva pred grožnjami sistema Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: d7d983e1a39034345283c5b084e84e5147c17645
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6905238c8ee209dc443bf82022108401e0370ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502767"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662737"
 ---
-# <a name="office-365-advanced-threat-protection-atp"></a>Urad 365 napreden grožnja varstvo (ATP)
+# <a name="office-365-advanced-threat-protection-atp"></a>Napredna zaščita pred grožnjami sistema Office 365 (ATP)
 
-Urad 365 ATP vračunati [varen attachments](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [varen peščena morska obala](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [napreden smešen-phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing), ter več. 
+Office 365 ATP vključuje [varne Priloge](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [varne povezave](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [Napredno preprečevanje lažnega predstavljanja](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)in še več. 
 
-ATP je vštet v abomna, kot na primer urad 365 lotitev E5, urad 365 izobraževanje A5, ter mikroskop 365 posel nagrada. Če naročnina ne vključuje ATP, lahko kupite ATP kot dodatek. Če želite izvedeti več, glejte [Opis storitve Office 365 ATP](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
+ATP je vključen v naročnine, kot so Office 365 Enterprise E5, Office 365 Education a5 in Microsoft 365 Business Premium. Če vaša naročnina ne vključuje ATP, lahko potencialno kupite ATP kot dodatek. Če želite izvedeti več, glejte [Opis storitve Office 365 ATP](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).
 
 ## <a name="set-up-office-365-atp"></a>Nastavitev sistema Office 365 ATP
 
-Za uveljavitev zaščite ATP morate konfigurirati pravilnike. Glejte [vodnik za hitri začetek: nastavite Office 365 napredno zaščito pred grožnjami](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
+Če želite, da je zaščita ATP v veljavi, morate konfigurirati pravilnike. Glejte [vodnik za hitri začetek: nastavitev sistema Office 365 napredno zaščito pred grožnjami](https://docs.microsoft.com/office365/securitycompliance/checklist-atp-setup).
 

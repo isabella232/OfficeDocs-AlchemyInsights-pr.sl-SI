@@ -1,23 +1,24 @@
 ---
-title: Nameščanje ekip na VDI okoljih
+title: Namestitev ekip v okoljih VDI
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 6329d0d5e99ae0ed929ca9eb376abe6a280ba6df
-ms.sourcegitcommit: 1e5de64e34e9ba16185b3a895b3152ca61718f4b
+ms.openlocfilehash: 729eb7c0189c0c0944f15fd25f7c24807e5b04de
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37344148"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663061"
 ---
-# <a name="installing-teams-on-vdi-environments"></a>Nameščanje ekip na VDI okoljih
+# <a name="installing-teams-on-vdi-environments"></a>Namestitev ekip v okoljih VDI
 
-Če želite več informacij o uvajanju ekip v računalnike v skupni rabi, storitvah oddaljenega namizja (RDS) ali infrastrukturi navideznega namizja (VDI), si oglejte [okolja v skupni rabi in VDI z Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+Če želite več informacij o uvajanju ekip v računalnike v skupni rabi, storitev oddaljenega namizja (RDS) ali navidezne namizne infrastrukture (VDI), si oglejte računalnike [v skupni rabi in okolja VDI z aplikacijo Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).

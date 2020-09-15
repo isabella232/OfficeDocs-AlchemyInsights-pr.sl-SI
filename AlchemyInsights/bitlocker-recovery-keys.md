@@ -1,32 +1,33 @@
 ---
-title: Obnovitvene tipke za BitLocker
+title: Obnovitveni ključi za BitLocker
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 4e06e0e43b63836b9e9cf923e554dd474b82c671
-ms.sourcegitcommit: 123e9fe46e99719dd271e75a66555861e968f4a2
+ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40908830"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685902"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a>Dostop do obnovitvene tipke BitLocker
+# <a name="accessing-bitlocker-recovery-keys"></a>Dostop do obnovitvenih ključev BitLockerja
 
-Ko konfigurirate nastavitve za BitLocker InTune pravilnik o zaščiti končne točke, je mogoče določiti, ali naj se informacije o obnovitvi BitLocker shranijo v storitvi Azure Active Directory.
+Ko konfigurirate nastavitve pogona BitLocker in nastavite pravilnik o zaščiti končnih točk, lahko določite, ali naj bodo podatki o obnovitvi BitLockerja shranjeni v imeniku Azure Active Directory.
 
-Če je ta nastavitev konfigurirana, morajo biti shranjeni podatki o obnovitvi vidni v InTune admin kot del podatkov o zapisu naprave v rezilo InTune naprave na dva načina:
+Če je ta nastavitev konfigurirana, morajo biti shranjeni podatki za obnovitev vidni v obliki zapisa za InTune kot del podatkov o zapisu naprave v rezilu naprav za InTune na dva načina:
 
-Naprave-naprave Azure AD-> "naprava" ali naprave-> vse naprave-> "Device"-> obnovitvene tipke
+Naprave – naprave Azure AD – >» Device «ali naprave – > vse naprave – >» Device «– > obnovitvene tipke
 
-Izmeničen, če je upraven postranski v načrt samo, regres zakleniti (parola) moči obstati seen z tekmovanje v teku sledeč zapoved s visok zapoved uren:
+Če pa obstaja skrbniški dostop do same naprave, je mogoče, da je obnovitveni ključ (geslo) videti tako, da zaženete ta ukaz v povišanem ukaznem pozivu:
 
 ```
 manage-bde -protectors c: -get
@@ -42,8 +43,8 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-Če je bila naprava šifrirana pred vpisom v InTune, je obnovitveni ključ morda povezan z» Microsoftovim računom «(MSA), ki se uporablja za vpis v napravo med procesom OOBE. Če bi bilo tako, dostop https://onedrive.live.com/recoverykey in vpis s tem MSA mora pokazati naprave, za katere so bili shranjeni ključi za obnovitev.
+Če je bila naprava pred vpisom šifrirana, je bil ključ za obnovitev morda povezan z» Microsoftovim računom «(MSA), ki se uporablja za vpis v napravo med postopkom OOBE. Če je bilo to res, se lahko z dostopom  https://onedrive.live.com/recoverykey in vpisom v MSA prikaže naprave, za katere so bile shranjene obnovitvene tipke.
  
-Če je bila naprava šifrirana zaradi konfiguracije prek pravilnika skupine, ki temelji na domeni, so informacije o obnovitvi morda shranjene v krajevnih imeniku Active Directory.
+Če je bila naprava šifrirana zaradi konfiguracije prek pravilnika skupine, so lahko informacije o obnovitvi shranjene v imeniku Active Directory.
  
 
