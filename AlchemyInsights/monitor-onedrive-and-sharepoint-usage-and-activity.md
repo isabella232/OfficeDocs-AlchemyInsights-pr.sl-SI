@@ -1,28 +1,29 @@
 ---
-title: Spremljanje uporabe in dejavnosti storitve OneDrive in SharePointa
+title: Spremljanje OneDrive in uporabe in dejavnosti SharePointa
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "865"
 - "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 669599f5ab0195a05c290a2e857b60e1ea3165d8
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 7bf2c8dbb542773fce8830890f869d9dc99a9f66
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713770"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666670"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Ogled poročil o dejavnosti in uporabi storitve OneDrive in SharePointa
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>Ogled poročil o OneDrive in SharePointovih dejavnostih in uporabi
 
-Pojdite na [stran s poročili o uporabi v skrbniškem središču za Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). V razdelku **Izberite poročilo**izberite dejavnost v storitvi OneDrive ali SharePoint ali poročilo o uporabi.
+Pojdite na [stran poročila o uporabi v skrbniškem središču za Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). V razdelku **Izberite poročilo**izberite OneDrive ali SharePointovo dejavnost ali poročilo o uporabi.
   
-[Več informacij o poročilih storitve OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
+[Več informacij o poročilih OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
   
 [Več informacij o SharePointovih poročilih](https://go.microsoft.com/fwlink/?linkid=875240)
   

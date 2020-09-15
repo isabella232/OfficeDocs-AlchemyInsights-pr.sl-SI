@@ -1,27 +1,28 @@
 ---
-title: Manjka zvezek
+title: Manjkajoč zvezek
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000559"
 - "2502"
-ms.openlocfilehash: 8556f2a7398792d39e82b554435649ba69fa59e5
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: e47ea1dbc69d686fc5a2624ec6ee06171ceaa508
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800612"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667174"
 ---
-# <a name="recover-missing-notebook"></a>Obnovi manjkajoče zvezek
+# <a name="recover-missing-notebook"></a>Obnovitev manjkajočega zvezka
 
-Če zvezek na OneDrive je bil pomotoma izbrisali, ga lahko izterja s koraki v [obnovi izbrisane datoteke ali mape v OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
+Če je bil zvezek v storitvi OneDrive pomotoma izbrisan, ga lahko obnovite tako, da upoštevate navodila v razdelku [obnovitev izbrisanih datotek ali map v OneDrive](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-Obnovite zvezek na izbrisane OneDrive v 30 dneh privzeto z followings koraki v [obnovi izbrisane OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+Zvezek lahko obnovite na izbrisanem OneDrive v 30 dneh privzeto tako, da upoštevate navodila v razdelku [Obnovitev izbrisanega OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-OneNote lahko z drugim računom, kot ste pričakovali. Če imate delo ali navedeni račun poleg vaš osebni račun Microsoft, boste morali dodati drug račun za ogled vseh zvezkih (glej navodila o tem, kako [Dodati račun v OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).
+OneNote morda uporablja drug račun, kot ste pričakovali. Če imate poleg osebnega Microsoftovega računa tudi službeni ali šolski račun, morate dodati drug račun, če si želite ogledati vse svoje zvezke (glejte navodila za [Dodajanje računa v OneNote](https://support.office.com/article/5afff855-54ee-47e4-a773-db048d4ac299).

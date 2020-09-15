@@ -6,26 +6,27 @@ manager: dougeby
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8d3cc3121786abc891237a6807719802dc72adee
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765969"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667642"
 ---
 # <a name="intune-insider-bug-filing"></a>InTune Insider bug vložitve
 
-Zahvaljujemo se vam za vaše zanimanje za InTune Insiders program. Če ste že vkrcali za InTune Insiders program, in morate vložiti prošnjo za podporo, potem:
+Zahvaljujemo se vam za vaše zanimanje za InTune program Insider. Če ste že na krovu za program InTune Insider, in morate vložiti zahtevo za podporo, potem:
 
 1. Opišite težavo v zgornjem polju.
-2. Ustvarite novo zahtevo za storitev z uporabo spodnjih možnosti.
+2. Ustvarite novo zahtevo za storitev s spodnjimi možnostmi.
 
-InTune podporni inženir vas bo kontaktirali.
+Vaš inženir za podporo za InTune vas bo kontaktiral.
 
-Če niste v InTune Insiders program, hvala za vaše zanimanje. Trenutno ne Zaposlujemo novih udeležencev.
+Če niste v programu InTune program Insider, Zahvaljujemo se vam za vaše zanimanje. Trenutno ne Zaposlujemo novih udeležencev.
