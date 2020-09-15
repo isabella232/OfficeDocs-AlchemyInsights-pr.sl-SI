@@ -1,35 +1,36 @@
 ---
-title: Alchemy-Outlook iskanje ne idexing
+title: Alchemy – iskanje v Outlooku ni idexing
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: cc05a72ac0a79e285271d72b6670c547e1ff481e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b13fed75dd4ebf9cbad2ca71b350ff7805ecfd27
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708335"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718493"
 ---
-# <a name="outlook-search-not-indexing"></a>Outlookovo iskanje ni indeksiranjem
+# <a name="outlook-search-not-indexing"></a>Iskanje v Outlooku ni indeksiranje
 
-Zavedamo se vprašanj iskanja v Outlooku, povezanih z nedavnimi varnostnimi posodobitvami za Windows.
+Poznamo težave z iskanjem v Outlooku, ki so povezane z nedavnimi varnostnimi posodobitvami za Windows.
   
-Pri iskanju v Outlooku lahko dobite eno od teh napak: **nekaj je šlo narobe in vaše iskanje ni bilo mogoče dokončati**ali pa **so rezultati iskanja morda nepopolni, ker so elementi še vedno indeksirani**. Popravek je bil izdan kot izbirna posodobitev za Windows. Prosimo, namestite tisto, ki ustreza različici operacijskega sistema Windows, ki jo vidite to vprašanje na: 
+Med iskanjem v Outlooku se lahko prikaže ena od teh napak: Prišlo je do napake **in vaše iskanje ni bilo mogoče dokončati**ali pa so **Rezultati iskanja morda nepopolni, ker se elementi še vedno indeksirajo**. Popravek je bil izdan kot izbirna storitev Windows Update. Namestite tistega, ki ustreza različici sistema Windows, ki jo vidite v tej težavi: 
   
-> [Windows 7-junij 27, 2017 posodobitev](https://support.microsoft.com/kb/4022168.aspx)
+> [Windows 7 – junij 27, 2017 Update](https://support.microsoft.com/kb/4022168.aspx)
     
-> [Windows 8,1-junij 27, 2017 posodobitev](https://support.microsoft.com/kb/4022720.aspx)
+> [Windows 8,1 – junij 27, 2017 Update](https://support.microsoft.com/kb/4022720.aspx)
     
-> [Windows 10 različica 1703-junij 27, 2017 posodobitev](https://support.microsoft.com/kb/4022716.aspx)
+> [Različica sistema Windows 10 1703 – junij 27, 2017 Update](https://support.microsoft.com/kb/4022716.aspx)
     
-Za najnovejše informacije, si oglejte članek: [Outlook znane težave v juniju 2017 varnostne posodobitve](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) vprašanje #5. 
+Če želite najnovejše informacije, si oglejte članek: težave z [Outlookom, ki so bile izdane v programu #5 za varnostne posodobitve iz junija 2017](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) . 
   
 

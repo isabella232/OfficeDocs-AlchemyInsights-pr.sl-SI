@@ -1,10 +1,11 @@
 ---
 title: Kje je Power pivot?
-ms.author: chrsm
-author: chrsm
+ms.author: pebaum
+author: pebaum
 manager: jecon
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,31 +15,31 @@ ms.custom:
 - "146"
 - "2200001"
 ms.assetid: 0d95078e-9dbf-4def-8bfc-d6532c1bff00
-ms.openlocfilehash: 326f07ae2cf677822e7c7d31eba4e0dc3a6506a4
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3be4424d6a0d76136bf10b2629e43c0a321720ab
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765213"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719105"
 ---
 # <a name="where-is-power-pivot"></a>Kje je Power pivot?
 
-Obstajajo trije razlogi, zakaj morda ne vidite Power pivot:
+Na voljo so trije razlogi, zakaj morda ne vidite dodatka Power pivot:
   
-**Vaša različica Excela ga ne vključuje**
+**Vaša različica Excela ne vključuje**
   
-Vse različice Excela ne vključujejo Power pivot. Boste morali nadgraditi na različico Officea, ki vključuje Power pivot. [Preverite seznam podprtih različic.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
+Vse različice Excela ne vključujejo dodatka Power pivot. Nadgraditi boste morali na različico Officea, ki vključuje Power pivot. [Preverite seznam podprtih različic.](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)
   
-**Power pivot niste omogočili**
+**Dodatka Power pivot ni omogočen**
   
 Če delate v različici Excela, ki podpira Power pivot, preverite, ali je dodatek omogočen:
   
-1. Izberite **File** \> **Options** možnosti \> datoteke **dodatki**.
+1. Izberite **File** \> **Options** \> **dodatki**možnosti datoteke.
 
-2. V pogovornem oknu **upravljanje** spustnega polja izberite **com Add-ins** in kliknite **Pojdi**.
+2. V polju **Upravljaj** spustni seznam izberite dodatki **com** in kliknite **Pojdi**.
 
-3. V pogovornem oknu **com Add-ins** potrdite potrditveno polje poleg možnosti **Microsoft Power pivot za Excel**in kliknite **v redu**.
+3. V pogovornem oknu **dodatki com** izberite potrditveno polje ob možnosti **Microsoft Power pivot za Excel**, nato pa kliknite **v redu**.
 
 **Imate več naročnin ali računov**
   
-Morda imate drugačne naročnine za Microsoft 365, dodeljene različnim uporabniškim računom. Prepričajte se, da ste prijavljeni v račun z različico Excela, ki podpira Power pivot. Preverite seznam [podprtih različic](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)in sledite navodilom za [preklapljanje med različnimi Officeovimi računi](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).
+Morda imate različne naročnine na Microsoft 365, dodeljene različnim uporabniškim računom. Prepričajte se, da ste vpisani v račun z različico Excela, ki podpira Power pivot. Preverite seznam [podprtih različic](https://support.office.com/article/aa64e217-4b6e-410b-8337-20b87e1c2a4b.aspx)in sledite navodilom za [preklop med različnimi Officeovimi računi](https://support.office.com/article/b9582171-fd1f-4284-9846-bdd72bb28426.aspx#BKMK_WebSwitchAccounts).

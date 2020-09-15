@@ -1,37 +1,38 @@
 ---
-title: Android Enterprise včlanitev-pregled
+title: Vpis v podjetje Android – pregled
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2496"
-ms.openlocfilehash: 9c9134c012bff5b0d41f759ea06f8a3066fe75b7
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 23ce3850639f29324118f3d1e98d17e8b3d88c65
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654615"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717917"
 ---
-# <a name="android-enterprise-enrollment---overview"></a>Android Enterprise včlanitev-pregled
+# <a name="android-enterprise-enrollment---overview"></a>Vpis v podjetje Android – pregled
 
-Če želite uporabiti vpis za Android Enterprise v svojo organizacijo, morate najprej [povezati račun InTune z računom za upravljano Google Play](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise). 
+Če želite v organizaciji uporabiti vpis v podjetje Android, morate najprej [povezati račun za InTune v upravljani račun za Google Play](https://docs.microsoft.com/intune/enrollment/connect-intune-android-enterprise). 
 
-Ko uspešno povežete, lahko izberete ustrezne korake za vrsto včlanitve Android želite, da uporabniki sledijo:
+Ko ste uspešno vzpostavili povezavo, lahko izberete ustrezne korake za vrsto članstva v sistemu Android, ki naj jih spremljajo uporabniki:
 
-- [Nastavitev včlanitve naprav za delovni profil za Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
-- [Nastavitev InTune včlanitev za Android Enterprise namenske naprave](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
-- [Nastavitev InTune včlanitev v popolnoma upravljane naprave Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
+- [Nastavitev članstva v napravah za delovne profile za podjetja Android](https://docs.microsoft.com/intune/enrollment/android-work-profile-enroll)
+- [Nastavitev InTune vpisov v naprave s sistemom Android Enterprise](https://docs.microsoft.com/intune/enrollment/android-kiosk-enroll)
+- [Nastavitev InTune vpis v celoti upravljane naprave s sistemom Android](https://docs.microsoft.com/intune/enrollment/android-fully-managed-enroll)
 
-Za potek dela namestitve in včlanitev naprav Android Enterprise skupaj s pregledom FAQ, glejte [Konfiguriranje in odpravljanje težav Android Enterprise Devices v Microsoft InTune](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
+Za potek dela namestitve in vpis naprav za Android Enterprise skupaj z pregledom pogosta vprašanja glejte [Konfiguriranje in odpravljanje težav z napravami Android Enterprise v programu Microsoft InTune](https://support.microsoft.com/help/4476974/configuring-and-troubleshooting-android-enterprise-devices-in-intune).
 
-Če želite informacije o odpravljanju napak v napravi na splošno in nekaterih napakah pri včlanitvi v Androidu, glejte [Odpravljanje težav z včlanitvijo naprave v programu Microsoft InTune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+Če želite več informacij o odpravljanju težav pri vpisu naprav na splošno in nekaterih napakah pri vpisu Androida, glejte [Odpravljanje težav pri vpisu naprave v Microsoft](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-Če vaš ' zavzet v QR zbornik vpis menthod zakaj COSU načrt, zagledati [to blog](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
+Če vas zanimajo kode za vpis v kodo QR menthod za naprave COSU, si oglejte [ta spletni dnevnik](https://techcommunity.microsoft.com/t5/Intune-Customer-Success/COSU-Configuration-and-Enrollment-using-the-QR-code-enrollment/ba-p/280184).
 
-Z vsebino, ki [opisuje rezilo za odpravljanje težav](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) , lahko uporabite tudi, da ugotovite, katere težave z včlanitvijo imajo uporabniki.
+Uporabite lahko tudi vsebino, v [kateri so opisane](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) težave z iskanjem, v katerih se srečujejo uporabniki.

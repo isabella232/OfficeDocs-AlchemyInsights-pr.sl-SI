@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: 8122b409a731a5fcc46c718aff1eeda07e26890b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ecbce4f0077dc9acab63575c19d40c0675a406ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506459"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717341"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Odpravite težave pri dostavi e-pošte za kodo napake 5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>Odpravljanje težav z dostavo e-pošte za kodo napake 5.7.23
 
-Preverite SPF DNS zapis za vašo domeno na javno voljo SPF ali DNS zapis Checker na spletu.
+Preverite zapis SPF DNS za svojo domeno na javno razpoložljivem pregledovalniku SPF ali DNS v spletu.
 
-Prepričajte se, da Microsoft odhodno sporočilo ni bilo identificiran kot vsiljena pošta in preusmerjen prek [paketa za dostavo z visokim tveganjem](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages). Sporočila v skupini za dostavo z visokim tveganjem ne bodo uspešno preverila SPF-jev, zato jih organizacija ciljne e-pošte ne bo sprejela.
+Preverite, ali je Microsoft in preusmerjeni prek [paketa z visokim tveganjem](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages), ki ga je navedla neželena sporočila. Sporočila v skupini z visokim tveganjem ne bodo posredovala preverjanja SPF, zato je ne bo sprejela ciljna e-poštna organizacija.
 
-Če težave ne odpravite, se boste morda morali obrniti na skrbnika poštnega gostitelja, na katerega poskušate poslati e-poštno sporočilo. Zapišite si podrobno zunanjo napako, ki je na voljo v sporočilu za odklonovanje. Microsoftova podpora morda ne bo mogla dodatno pomagati.
+Če težave ne morete odpraviti, se boste morda morali obrniti na skrbnika poštnega gostitelja, v katerega želite poslati e-pošto. Seznanite se s podrobno zunanjo napako, ki je na voljo v sporočilu Bounce. Microsoftova podpora morda ne bo mogla več pomagati.

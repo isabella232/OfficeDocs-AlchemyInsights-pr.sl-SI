@@ -1,5 +1,5 @@
 ---
-title: Alchemy-Outlook crash koraki za odpravljanje težav
+title: Alkimija – koraki za odpravljanje težav v programu Outlook crash
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 01179dde29cd07256a5f6e0ece539c5c02c25dfd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708371"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718673"
 ---
 # <a name="outlook-crash-troubleshooting-steps"></a>Navodila za odpravljanje težav z zrušitvami Outlooka
 
-Če imate težave z namiznim zrušanjem v Outlooku, začnite z naslednjimi tremi koraki, ki so podrobno našteti v tem članku: [Kako odpraviti težave, zaradi katerih se je Outlook zrušil ali prenehal odzivati.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+Če imate težave z navodili za Outlook na namizju, začnite tako, da upoštevate tri korake, ki so podrobno navedeni v tem članku: [Odpravljanje težav, zaradi katerih se Outlook zruši ali preneha odzivati.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-Korak 1: Raziščite možne težave z dodatki.
+1. korak: Raziščite morebitne težave z dodatki.
   
-Korak 2: popravite Outlook in zaženite [orodje za podporo in obnovitev pomočnika](https://aka.ms/SaRA-OutlookWontStart) za odpravljanje napak pri zagonu Outlooka v prizadetem računalniku.
+2. korak: popravite Outlook in zaženite [orodje pomočnik za podporo in obnovitev](https://aka.ms/SaRA-OutlookWontStart) za odpravljanje težav z zagonom Outlooka v prizadetih strojih.
   
-Korak 3: ustvarite nov Outlookov profil ali zaženite orodje za [profil Outlook](https://aka.ms/SaRA-OutlookSetupProfile) v prizadetem računalniku.
+3. korak: ustvarite nov Outlookov profil ali zaženite orodje za [Outlook profil](https://aka.ms/SaRA-OutlookSetupProfile) v prizadetih strojih.
   
-Če težave ne odpravite po posodobitvi in izvedbi zgornjih korakov, boste Outlook morda morali povrniti na prejšnjo graditev. Oglejte si, [Kako se vrniti na starejšo različico programa Office 2016 – zagon s klikom](https://support.microsoft.com/help/2770432).
+Če težave ne odpravite po posodobitvi in izvedbi zgornjih korakov, boste Outlook morda morali povrniti na prejšnjo graditev. Oglejte si, [Kako povrnete starejšo različico sistema Office 2016 s tehnologijo» zagon s klikom «](https://support.microsoft.com/help/2770432).
   
