@@ -1,43 +1,44 @@
 ---
-title: Dynamics 365-napačna Nadzorna plošča kaže v Dynamics 365 poenoteni vmesnik
+title: Dynamics 365 – napačna Nadzorna plošča v dinamiki 365 Unified Interface
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1484"
 - "6200024"
-ms.openlocfilehash: 3d7258bdd7366f679b048e93926ab7dfe0b956d9
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 02e33c7dbdfe9b7d2ad7a04f154cf067fba0aab2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528567"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711291"
 ---
-# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Napačna Nadzorna plošča je prikazana v poenotenem vmesniku Dynamics 365
+# <a name="wrong-dashboard-shows-in-dynamics-365-unified-interface"></a>Napačna Nadzorna plošča v sistemu Dynamics 365 Unified Interface
 
-Obstaja več razlogov, zakaj se lahko prikaže drugačna Nadzorna plošča kot tista, ki jo pričakujete:
+Obstaja več razlogov, zakaj se lahko prikaže druga Nadzorna plošča, kot je tista, ki jo pričakujete:
 
 ## <a name="the-user-has-set-a-user-default-dashboard"></a>Uporabnik je nastavil privzeto nadzorno ploščo uporabnika 
 
-Značilno je, da lahko prepoznate uporabniško privzeto nadzorno ploščo je nastavljena, če se **Nastavi kot privzeto** gumb ne prikaže v ukazni vrstici nadzorne plošče. Privzeta Nadzorna plošča za uporabnika bo preglasitev vseh drugih privzetih nadzornih plošč, tudi če uporabnikova privzeta Nadzorna plošča ni v trenutni aplikaciji.
+Običajno lahko prepoznate privzeto nadzorno ploščo uporabnika, če gumb» **Nastavi kot privzeto** «ni prikazan v ukazni vrstici nadzorne plošče. Privzeta Nadzorna plošča uporabnika bo preglasila vse druge privzete nadzorne plošče, tudi če uporabnikove privzete nadzorne plošče ni v trenutni aplikaciji.
 
-Če želite razdružiti privzeto nadzorno ploščo, uporabite to rešitev.
+Če želite izključiti privzeto nadzorno ploščo, uporabite to nadomestno rešitev.
 
 1. Ustvarite novo osebno nadzorno ploščo.
 
-2. Nastavite novo nadzorno ploščo kot privzeti uporabnik.
+2. Nastavite to novo nadzorno ploščo kot privzeti uporabnik.
 
-3. Izbrišite nadzorno ploščo.
+3. Izbrišite to nadzorno ploščo.
 
-## <a name="the-dashboard-is-set-in-the-sitemap"></a>Nadzorna plošča je nastavljena na kazalo
+## <a name="the-dashboard-is-set-in-the-sitemap"></a>Nadzorna plošča je nastavljena v kazalo
 
-Morda ste nastavili privzeto nadzorno ploščo organizacije tako, da izberete nadzorno ploščo in izberete» Nastavi kot privzeto «pod možnostjo» prilagodi sistem «. Vendar pa bo Nadzorna plošča, določena v Oblikovalniku kazalo, prevladala nad to nadzorno ploščo, če ima uporabnik dostop do njega.
+Morda ste nastavili privzeto nadzorno ploščo organizacije tako, da izberete nadzorno ploščo in izberete možnost» Nastavi kot privzeto «v razdelku» prilagodi sistem «. Nadzorna plošča, ki je opredeljena v Oblikovalniku zemljevida sitemap, bo imela prednost pred to nadzorno ploščo, če ima uporabnik dostop do njega.
 
-Če želite, da bodo uporabniki videli nadzorno ploščo, ki ste jo nastavili kot privzeto organizacijo, lahko:
+Če želite, da uporabniki vidijo nadzorno ploščo, ki ste jo nastavili kot privzeto organizacijo, lahko naredite to:
 
-* Nastavitev nadzorne plošče na zemljevidu
+* Nastavitev nadzorne plošče v sitemap
 
-* Odstranitev dostopa do zemljevida, ki je določena za te uporabnike
+* Odstranjevanje dostopa do določene nadzorne plošče za kazalo za te uporabnike

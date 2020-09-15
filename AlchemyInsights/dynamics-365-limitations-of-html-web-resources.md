@@ -1,25 +1,26 @@
 ---
-title: Shema XML obrazca Dynamics 365
+title: Shema XML v obliki Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1473"
 - "6200020"
-ms.openlocfilehash: d3b8dd968b3b4a5f774336b529718bc20870f955
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: a8ece1151885f6905b00dbd0daf7b18fdff60b29
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36528531"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47711327"
 ---
 # <a name="webpage-html-web-resources-limitations"></a>Omejitve spletnih virov spletne strani (HTML)
 
-* Spletni vir HTML ne more vsebovati kode, ki mora biti izvedena v strežniku. ASP.NET strani ni mogoče naložiti kot spletne vire HTML.
+* Spletni vir HTML ne sme vsebovati nobene kode, ki jo je treba izvesti v strežniku. ASP.NET strani ni mogoče prenesti kot spletne vire HTML.
 
-* Spletni viri HTML lahko sprejmejo le omejeno število parametrov niza poizvedbe. Več informacij: [posredovanje parametrov spletnim VIROM HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
+* Spletni viri HTML lahko sprejemajo le omejeno število parametrov niza poizvedb. Več informacij: [posredovanje parametrov v spletne vire HTML](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources#BKMK_PassingParametersToWebResources)
 
-[Spletni viri spletnih strani (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)
+[Spletne vire spletnih strani (HTML)](https://docs.microsoft.com/dynamics365/customer-engagement/developer/webpage-html-web-resources)

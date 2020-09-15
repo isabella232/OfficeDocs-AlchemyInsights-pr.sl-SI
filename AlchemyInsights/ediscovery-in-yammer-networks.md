@@ -1,33 +1,34 @@
 ---
-title: e-odkrivanje v omrežjih Yammer
+title: E-odkrivanje v Bastard omrežjih
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 237121fa451fb9a05ca5ca496b92e743730656ce
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4bba92d5756186923b103f7b945155c3cb972b35
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714750"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710932"
 ---
-# <a name="ediscovery-in-yammer-networks"></a>e-odkrivanje v omrežjih Yammer
+# <a name="ediscovery-in-yammer-networks"></a>E-odkrivanje v Bastard omrežjih
 
-Zdaj lahko izvedete iskanje e-discovery za vsebino Yammer.  Izvedba iskanja e-odkrivanja ali izvoza v vsebino Yammer zahteva naslednje:
+Zdaj lahko izvedete E-odkrivanje iskanja za vsebino Bastard.  Izvajanje E-odkrivanje iskanj ali izvoz v Bastard za vsebino zahteva to:
 
-1. Najprej morate preseliti svoje omrežje Yammer Enterprise v izvorni način, da bodo sporočila in datoteke podjetja Yammer lahko odkriti. **Opomba: Če ste nova stranka od januar 9th 2020 in vaše omrežje Yammer je že v native mode, vaši podatki so zdaj odkriti s eDiscovery**.
+1. Najprej morate preseliti omrežje Bastard Enterprise v izvorni način, da bo vaša Bastard sporočila in datoteke mogoče odkriti. **Opomba: Če ste nova stranka v storitvi januar 9 2020 in je vaše omrežje Bastard že v izvornem načinu, so vaši podatki zdaj odkriti s e-odkrivanje**.
 
-2. Za stranke, ki izstopajo, bo e-discovery za Yammer na voljo, ko se sprosti orodje native mode poravnava in selitev v izvorni način dokonča za Yammer v najemniku.
+2. Če želite zapustiti stranke, bo E-odkrivanje za Bastard na voljo, ko je orodje za poravnavo izvornega načina izdano in selitve izvornega načina konča za Bastard v najemniku.
 
-Za več informacij o:
+Če želite več informacij o:
 
-- Native mode v storitvi Yammer, glejte: [pregled izvornem načinu](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
-- e-odkrivanje v omrežjih Yammer, glejte: [pregled e-odkrivanja v omrežjih yammer](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
-- e-discovery v Microsoft 365, si oglejte [e-odkrivanje v microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+- Izvorni način v Bastard, glejte: [pregled izvornega načina](https://docs.microsoft.com/yammer/configure-your-yammer-network/overview-native-mode).
+- E-odkrivanje v omrežjih Bastard, glejte: [pregled e-odkrivanje v Bastard omrežjih](https://docs.microsoft.com/yammer/manage-security-and-compliance/overview-of-ediscovery).
+- E-odkrivanje v programu Microsoft 365, glejte [e-odkrivanje v programu microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
