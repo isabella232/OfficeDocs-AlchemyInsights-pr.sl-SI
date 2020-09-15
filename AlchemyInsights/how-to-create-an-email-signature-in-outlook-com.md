@@ -6,6 +6,7 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,17 +14,17 @@ ms.custom:
 - "1401"
 - "8000047"
 ms.assetid: 0ebfc3b9-de3c-487c-b01b-7b027e4c562f
-ms.openlocfilehash: f331cc789a50f44fc62e22b5bf8f6f3e3daa6c00
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 17bb3df0b28be00ec0a639f32ef8d9904c14f9d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724526"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47704325"
 ---
-# <a name="how-to-create-an-email-signature"></a><span data-ttu-id="1cfd8-102">Kako ustvariti e-poštni podpis</span><span class="sxs-lookup"><span data-stu-id="1cfd8-102">How to create an email signature</span></span>
+# <a name="how-to-create-an-email-signature"></a><span data-ttu-id="cd879-102">Ustvarjanje e-poštnega podpisa</span><span class="sxs-lookup"><span data-stu-id="cd879-102">How to create an email signature</span></span>
 
-<span data-ttu-id="1cfd8-103">Pojdite v [Nastavitve sestavite in odgovorite](https://go.microsoft.com/fwlink/?linkid=2006164) (**Nastavitve** \> **si oglejte vse nastavitve** \> Outlook **sestavite in odgovorite**).</span><span class="sxs-lookup"><span data-stu-id="1cfd8-103">Go to your [Compose and reply settings](https://go.microsoft.com/fwlink/?linkid=2006164) (**Settings** \> **View all Outlook settings** \> **Compose and reply**).</span></span>
+<span data-ttu-id="cd879-103">Pojdite na [nastavitve za sestavljanje in odgovarjanje](https://go.microsoft.com/fwlink/?linkid=2006164) (**Nastavitve** so \> **vse** nastavitve \> **in odgovori**za Outlook).</span><span class="sxs-lookup"><span data-stu-id="cd879-103">Go to your [Compose and reply settings](https://go.microsoft.com/fwlink/?linkid=2006164) (**Settings** \> **View all Outlook settings** \> **Compose and reply**).</span></span>
   
- <span data-ttu-id="1cfd8-104">**Opomba:** Lahko imate samo en podpis na račun.</span><span class="sxs-lookup"><span data-stu-id="1cfd8-104">**Note:** You can have only one signature per account.</span></span>
+ <span data-ttu-id="cd879-104">**Opomba:** Lahko imate le en podpis na račun.</span><span class="sxs-lookup"><span data-stu-id="cd879-104">**Note:** You can have only one signature per account.</span></span>
   
-<span data-ttu-id="1cfd8-105">Preberite več o [ustvarjanju in dodajanju e-poštnega podpisa v Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="1cfd8-105">Learn more about how to [create and add an email signature in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="cd879-105">Preberite več o tem, kako [ustvariti in dodati e-poštni podpis v Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="cd879-105">Learn more about how to [create and add an email signature in Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
