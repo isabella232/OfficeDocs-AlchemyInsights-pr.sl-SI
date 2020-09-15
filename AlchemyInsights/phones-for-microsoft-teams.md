@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1786"
 - "9000170"
-ms.openlocfilehash: d211d05321e2be107ae10924643a06085a1ad146
-ms.sourcegitcommit: 60e8e348131d4db4d0d34ffe5b321bc92d7bf7e9
+ms.openlocfilehash: 8d417e2cda53935f57aa211972e76f32e12ad6b6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "41969792"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701839"
 ---
-# <a name="are-you-looking-for-phones-that-are-compatible-with-teams"></a>Iščete telefone, ki so združljivi z Teams?
+# <a name="are-you-looking-for-phones-that-are-compatible-with-teams"></a>Ali iščete telefone, ki so združljivi z aplikacijami Teams?
 
-Kot skrbnik [upravljate vse naprave](https://docs.microsoft.com/microsoftteams/device-management) , ki se uporabljajo z Teams v vaši organizaciji iz skrbniškega središča Microsoft 365. Za več informacij: 
+Kot skrbnik lahko [upravljate vse naprave](https://docs.microsoft.com/microsoftteams/device-management) , ki se uporabljajo v aplikaciji Teams v organizaciji v skrbniškem središču za Microsoft 365. Dodatne informacije: 
 
 - Preglejte seznam [telefonov za Microsoft Teams](https://docs.microsoft.com/microsoftteams/phones-for-teams). 
 - Preglejte seznam [trenutno certificiranih IP telefonov](https://docs.microsoft.com/microsoftteams/teams-ip-phones#currently-certified-ip-phones). 
