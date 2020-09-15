@@ -1,10 +1,11 @@
 ---
-title: Kako obnoviti izbrisan eeam ali kanal
+title: Kako obnovim izbrisan eeam ali kanal
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,22 +13,22 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: efd2b09a93fb7a44c0dea7933bb9d02524bb1082
-ms.sourcegitcommit: 027bb52244f304b891143c72cccd89ac1a9a05aa
+ms.openlocfilehash: 4aee5c31fab7475def30a99a68848934febcfee2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37328846"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705027"
 ---
-# <a name="how-to-restore-a-deleted-team-or-channel"></a>Kako obnoviti izbrisano ekipo ali kanal
+# <a name="how-to-restore-a-deleted-team-or-channel"></a>Obnovitev izbrisane skupine ali kanala
 
-Če želite več informacij, glejte [obnovitev izbrisane ekipe v programu Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Če želite več informacij, glejte [obnovitev izbrisane skupine v aplikaciji Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
 
-Izbrisane kanale znotraj ekipe je mogoče obnoviti do 21 dni po tem, ko je bil kanal izbrisan.
+Izbrisane kanale v skupini je mogoče obnoviti do 21 dni po tem, ko je kanal izbrisan.
 
-Če želite obnoviti izbrisani kanal, lahko lastnik ekipe naredi naslednje:
+Če želite obnoviti izbrisan kanal, lahko lastnik skupine naredi to:
 
-1. Odprite nastavitve ekipe tako, da izberete 3 pike na desni strani imena ekipe.
-2. Izberite **Upravljaj skupine** > **kanalov** > **izbrisane**in nato na desni izberite **Obnovi** .
+1. Odprite nastavitve skupine tako, da izberete 3 pike desno od imena ekipe.
+2. Izberite **Upravljaj**  >  **kanale**skupine  >  , ki so**izbrisani**, nato pa izberite **Obnovi** na desni strani.
 
-Če želite več informacij, glejte [obnovitev izbrisane ekipe v programu Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
+Če želite več informacij, glejte [obnovitev izbrisane skupine v aplikaciji Microsoft Teams](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams).
