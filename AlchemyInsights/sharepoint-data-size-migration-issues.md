@@ -1,9 +1,10 @@
 ---
-title: Težave pri selitvi podatkov v SharePoint online
+title: Težave med selitvijo podatkov v SharePoint online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 686e8f18-b871-4dd2-864f-8562947ab583
@@ -11,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 7a801bb6ff5b5c1d48cbc99f27e5f398dd76db5f
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552937"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700903"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Težave pri selitvi podatkov v SharePoint online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Težave med selitvijo podatkov v SharePoint online
 
-**Selitev več kot 100TB podatkov**
+**Selitev prek 100TB podatkov**
 
-Zdi se, da se preseljujejo več kot 100TB podatkov na SharePoint online. Prosimo, upoštevajte spodnja navodila, da vam lahko pomagamo v najkrajšem možnem času. 
+Zdi se, da selite prek 100TB podatkov v SharePoint online. Upoštevajte spodnja navodila, da vam lahko pomagamo takoj, ko bo mogoče. 
 
-1. Izberite **novo zahtevo za storitev**in nato **novo zahtevo za storitev**. 
-2. Slovo častni naslov ter oris kot **SharePoint selitev nad 100TB**.
-3. Ko je vozovnica oddana, jo posodobite z naslednjimi informacijami: 
+1. Izberite **Nova zahteva za storitev**in nato **Nova zahteva za storitev**. 
+2. Pustite naslov in opis kot **selitev SharePointa prek 100TB**.
+3. Ko je vozovnica poslana, jo posodobite s temi informacijami: 
 
-    - Ocenjena velikost vaše migracije.
+    - Ocenjena velikost selitve.
     - Ocena, Kdaj želite začeti in dokončati selitev.
-    - Opišite, kje ste selitev vsebine iz, kot so SharePoint Server, Box, GDrive, datoteke delnice, itd.
+    - Opišite, od kod selite vsebino, kot je SharePoint Server, Box, GDrive, datotečni deli itd.

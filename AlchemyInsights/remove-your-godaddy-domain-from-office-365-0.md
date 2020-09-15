@@ -1,24 +1,25 @@
 ---
-title: Premestitev vaš GoDaddy področje s mikroskop 365
-ms.author: v-crytho
+title: Odstranite domeno GoDaddy iz programa Microsoft 365
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b858223-22ec-4c9d-9cda-5f4418060c5e
 ms.custom:
 - "27"
 - "11"
-ms.openlocfilehash: 13b3bfaf1af9fb26c721e6d9c637b85d7da2332d
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 91bb74e9bcc53217e698afd523f0affd71157ebf
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789102"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47701515"
 ---
-# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Premestitev vaš GoDaddy področje s mikroskop 365
+# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>Odstranite domeno GoDaddy iz programa Microsoft 365
 
-Mi vekanje ' premestitev vaš GoDaddy področje s mikroskop 365 zakaj vi. Pokličite [storitev za stranke GoDaddy](https://aka.ms/contact-godaddy) za pomoč.
+Domene GoDaddy ne morete odstraniti iz Microsoftovega 365 za vas. Za pomoč pokličite [storitev Customer GoDaddy](https://aka.ms/contact-godaddy) .
   
