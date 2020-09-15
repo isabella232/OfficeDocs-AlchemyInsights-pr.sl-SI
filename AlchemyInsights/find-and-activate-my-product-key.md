@@ -5,34 +5,35 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 107916aae8aef805e2adb5caaef1d06f97edeaa3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062480"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708591"
 ---
 # <a name="find-and-activate-my-product-key"></a>Iskanje in aktiviranje ključa izdelka
 
-Če ste kupili Microsoft 365 za podjetja prek [Microsoft Open licenčnega programa](https://go.microsoft.com/fwlink/p/?LinkID=613298), tukaj je, kako najdete in aktivirate ključ izdelka.
+Če ste Microsoft 365 za podjetja kupili prek [Microsoftovega programa za odpiranje licenc](https://go.microsoft.com/fwlink/p/?LinkID=613298), si oglejte, kako poiščete in aktivirate ključ izdelka.
 
-1. Ko kupite ključ od Microsoftovega partnerja 365, preverite mapo» Prejeto «za e-poštno sporočilo od Microsofta, ki vsebuje povezavo za aktiviranje.  **Opomba**: e-poštno sporočilo je poslano osebi, ki je navedena kot spletni skrbnik v pogodbi o količinskem licenciranju.  Če niste prepričani, kdo je imenovan za spletnega skrbnika, prosite Microsoftovega partnerja za 365.
+1. Ko kupite ključ od partnerja programa Microsoft 365, v mapi» Prejeto «poiščite e-poštno sporočilo od Microsofta, ki vsebuje povezavo za aktiviranje.  **Opomba**: e-poštno sporočilo je poslano osebi, navedeni kot spletni skrbnik v pogodbi o količinskem licenciranju.  Če niste prepričani, kdo je imenovan za skrbnika spletne strani, vprašajte svojega partnerja Microsoft 365.
 
-2. Sledite povezavi v e-poštnem sporočilu, da se vpišete s svojim delovnim ali šolskim računom, sprejmete licenčno pogodbo za odprto in obnovite naročnino.  Za korak za korakom walkthrough, prenesite vodnik PDF, [aktivirajte spletne storitve: Microsoft 365 naročnina](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
+2. Če se želite vpisati s službenim ali šolskim računom, se povežite s povezavo v e-poštnem sporočilu in obnovite naročnino.  Če želite pregled po korakih, Prenesite priročnik PDF, [aktivirajte spletne storitve: naročnina na Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkId=618100). 
 
-**Opomba**: uporabniki količinskega licenciranja se lahko odločijo tudi za aktiviranje naročnin v [servisni center za količinsko licenciranje](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Če želite izvedeti, kako, prenesite vodnik za PDF, [aktivne spletne storitve v servisni center za količinsko licenciranje](https://go.microsoft.com/fwlink/p/?LinkId=618096).
+**Opomba**: uporabniki količinskega licenciranja lahko tudi aktivirajo naročnine v [servisnem središču za količinsko licenciranje](https://go.microsoft.com/fwlink/p/?LinkID=282016).  Če želite izvedeti, kako prenesete vodnik PDF, [aktivne spletne storitve v servisnem središču za količinsko licenciranje](https://go.microsoft.com/fwlink/p/?LinkId=618096).
 
-Če ste kupili Microsoft 365 Business Premium standard iz trgovine na drobno, uporabite naslednje korake za podaljšanje roka uporabnosti ali dodajanje licence obstoječi naročnini.
+Če ste kupili Microsoft 365 Business Premium standard iz trgovine v maloprodaji, uporabite te korake, če želite podaljšati datum poteka ali dodati licenco obstoječi naročnini.
 
-**Opombe**: Če želite uporabiti ključ izdelka za podaljšanje roka uporabnosti ali dodajanje licence obstoječi Microsoft 365 Business Premium standardno naročnino, potrebujete nov in neuporabljen ključ za isto naročnino na Microsoftovo 365.  Vnašanje izvirnega ključa izdelka Microsoft 365 ne bo delovalo, ker ključa, ki je že bil unovčen, ni mogoče znova uporabiti.
+**Opomba**: Če želite uporabiti ključ izdelka, če želite podaljšati datum poteka ali dodati licenco za obstoječo naročnino na Microsoft 365 Business Premium, potrebujete nov in neuporabljen ključ za isto naročnino na Microsoftovo 365.  Če vnesete izvirni ključ izdelka Microsoft 365, ne boste delovali, ker ključa, ki je že bil uporabljen, ni mogoče znova uporabiti.
 
-1. V skrbniškem središču pojdite na stran za **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. V skrbniškem središču pojdite na stran **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. Poiščite naročnino, na katero želite podaljšati datum poteka ali dodati licence.  Kliknite [razširi končni datum](https://go.microsoft.com/fwlink/p/?linkid=842054) ali [dodajte več licenc](https://go.microsoft.com/fwlink/p/?linkid=842054).
 

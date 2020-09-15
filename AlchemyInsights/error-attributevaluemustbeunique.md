@@ -6,28 +6,29 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: fa1fdb35f1af250bc98aa61c0e5111f1f1b8aac4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4627a7ae34b0dd9f16538ef75ac8792672dcc056
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703190"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709167"
 ---
 # <a name="error-attributevaluemustbeunique"></a>Napaka: AttributeValueMustBeUnique
 
-Najpogostejši razlog za atribut» AttributeValueMustBeUnique «je dva predmeta z različnimi SourceAnchor (immutableId) imajo enako vrednost za atribute ProxyAddresses in/ali UserPrincipalName. Če želite popraviti napako» AttributeValueMustBeUnique «:
+Najpogostejši vzrok za napako AttributeValueMustBeUnique je dva predmeta z različnima SourceAnchor (immutableId) imata enako vrednost za ProxyAddresses in/ali UserPrincipalName atribute. Če želite odpraviti napako AttributeValueMustBeUnique:
   
-1. Prepoznajte podvojeni proxyAddresses, userPrincipalName ali drugo vrednost atributa, ki povzroča napako. Ugotovite tudi, kateri dve (ali več) predmeti so vpleteni v konflikt. Poročilo, ki ga ustvari Azure AD Connect Health za sinhronizacijo, vam lahko pomaga prepoznati dva predmeta.
+1. Identificirajte podvojeno proxyAddresses, userPrincipalName ali drugo vrednost atributa, ki povzroča napako. Določite tudi, kateri dve (ali več) predmetov sta udeleženi v sporu. Poročilo, ki ga ustvari Azure AD Connect Health za sinhronizacijo, vam lahko pomaga prepoznati dva predmeta.
     
-2. Ugotovite, kateri predmet mora še naprej imeti Podvojena vrednost in kateri predmet ne bi smel.
+2. Ugotovite, kateri predmet naj se nadaljuje s podvojeno vrednostjo in kateri predmet ne bi smel biti.
     
-3. Odstranite Podvojena vrednost iz predmeta, ki ne bi smel imeti te vrednosti. Upoštevajte, da bi morali spremeniti v imeniku, od koder je predmet izvirajo. V nekaterih primerih boste morda morali izbrisati enega od predmetov v sporu.
+3. Odstranite podvojeno vrednost iz predmeta, ki ne bi smel imeti te vrednosti. Upoštevajte, da morate spremeniti mapo, v kateri je predmet nabavljan. V nekaterih primerih boste morda morali izbrisati enega od predmetov v sporu.
     
-4. Če ste naredili spremembo v prostorih oglasa, naj Azure AD Connect sinhronizira spremembo napake, da se določi.
+4. Če ste naredili spremembo v OGLASu na mestu uporabe, naj Azure AD poveže sinhronizacijo spremembe za napako, da se popravi.
     
 

@@ -1,24 +1,25 @@
 ---
-title: Izvoz podatkov o uporabniškem računu
+title: Izvoz informacij o uporabniškem računu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 2b86887b5b4dc52c045c86ef2f6598a8e57df0a3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 0a1978610d1293cd1de3bae114594cb5ef7865e6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702934"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47708879"
 ---
-# <a name="export-user-account-information"></a>Izvoz podatkov o uporabniškem računu
+# <a name="export-user-account-information"></a>Izvoz informacij o uporabniškem računu
 
-Če želite izvoziti podatke o uporabniškem računu v skrbniškem središču Microsoft 365, vključno z informacijami o dovoljenjih, pravilniku o geslih, blokiranih računih, stanju AAD Sync in drugih, pojdite na stran **Uporabniki** > [aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) in izberite **Izvozi uporabnike**.
+Če želite izvoziti podatke o uporabniškem računu v skrbniškem središču za Microsoft 365, vključno z informacijami o licencah, pravilniku o geslih, blokiranih računih, stanju sinhronizacije zvočnih naprav in več, pojdite na stran **Uporabniki**  >  [aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) in nato izberite **Izvozi uporabnike**.
