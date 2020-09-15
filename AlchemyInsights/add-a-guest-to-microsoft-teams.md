@@ -1,27 +1,28 @@
 ---
-title: Dodajanje gosta v Microsoft Teams (samodejni Predlagaj)
+title: Dodajanje gostov v aplikacijo Microsoft Teams (samodejna predlagana)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3182"
 - "6500001"
-ms.openlocfilehash: 2872054c710112337853747e1b82f9829d878348
-ms.sourcegitcommit: 4ed431b2e1aed26d07bd7eba282531537d29ad0e
+ms.openlocfilehash: f5b70a2a1d462e87ee485da1da417f79dfa95f30
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/30/2019
-ms.locfileid: "40910445"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697321"
 ---
-# <a name="add-a-guest-to-microsoft-teams"></a>Dodajanje gosta v Microsoft Teams
+# <a name="add-a-guest-to-microsoft-teams"></a>Dodajanje gostujočega programa v Microsoft Teams
 
-Včasih boste želeli sodelovati z osebami, ki niso v organizaciji ekipe. Pogosto boste to počeli v e-pošti, če pa želite sodelovati z njimi v ekipah, jih lahko dodate kot goste.
+Včasih boste želeli sodelovati z osebami, ki niso v organizaciji skupine. Pogosto boste to počeli v e-pošti, če pa želite sodelovati z njimi v aplikaciji Teams, jih lahko dodate med goste.
 
-Če želite več informacij, glejte [Dodajanje gostov ekipi v skupini Teams](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Če želite več informacij, glejte [Dodajanje gostov v skupino v aplikaciji Teams](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
 
-**Opomba:** Morate biti lastnik ekipe, da dodate gosta v Teams (glejte tudi [nastavitev dovoljenj za goste](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)).
+**Opomba:** Če želite v Teams dodati gosta, morate biti lastnik skupine (glejte tudi [Nastavitev dovoljenja za goste](https://support.office.com/article/set-guest-permissions-for-channels-in-teams-4756c468-2746-4bfd-a582-736d55fcc169)).
