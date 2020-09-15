@@ -1,11 +1,12 @@
 ---
-title: ADFS Federation certifikat poteče
+title: Potrdilo o poteku ADFS federacije
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,21 +14,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: 14e7da6220dfa96edca5d9ec5c32e003480a9eaf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a3172bc402a22999a3bf963233cc26db1ddf2a03
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710423"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47686766"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>ADFS Federation certifikat poteče
+# <a name="adfs-federation-certificate-expiring"></a>Potrdilo o poteku ADFS federacije
 
-Če želite odpraviti to težavo, sledite tem korakom:
+Če želite odpraviti to težavo, upoštevajte ta navodila:
   
-1. Namestite modul Microsoft Azure Active Directory za lupino Windows PowerShell v računalniku (če modul še ni nameščen). Če želite to narediti, pojdite na [upravljanje programa AZURE ad z lupino Windows PowerShell](https://aka.ms/aadposh).
+1. Namestite modul za Microsoft Azure Active Directory za Windows PowerShell v računalniku (če modul ni že nameščen). Če želite to narediti, pojdite na [Upravljanje storitve AZURE ad s sistemom Windows PowerShell](https://aka.ms/aadposh).
 
-2. Sledite korakom v razdelku» scenarij 1: potekla je veljavnost potrdila za podpisovanje žetonov AD FS «» [prišlo je do napake pri dostopu do mesta «iz programa AD FS, ko se je združil uporabnik v Microsoft 365, Azure ali InTune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. Upoštevajte navodila v razdelku» scenarij 1: potrdilo o vpisu v strežnik AD FS je poteklo «v razdelku» [prišlo je do težave pri dostopu do mesta «v storitvi AD FS, ko se Združeno uporabnik prijavi v Microsoft 365, Azure ali InTune](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
 
-3. Sledite korakom v [posodobitvi ali popravite nastavitve federativne domene v Microsoft, Azure ali InTune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
+3. Upoštevajte navodila v [razdelku posodobitev ali popravljanje nastavitev Združenega domen v Microsoft, Azure ali InTune](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
 
-    Če želite izvedeti več o podaljšanju potrdil federacije, glejte [obnovitev potrdil federacije za Microsoft 365 in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    Če želite izvedeti več o obnovitvi potrdil federacije, glejte [podaljšanje potrdil federacije za Microsoft 365 in imenik Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
