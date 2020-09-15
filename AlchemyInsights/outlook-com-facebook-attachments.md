@@ -1,29 +1,30 @@
 ---
-title: Outlook.com e-poštne naročnine
-ms.author: lpyfer
-author: lpyfer
+title: Naročnine na Outlook.com e-pošte
+ms.author: pebaum
+author: pebaum
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3158"
 - "9001198"
-ms.openlocfilehash: f802c3fb16decad593cf79ebb20561f61f0931ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d37d4590fb5206a30f596bf83d9665c324b27b57
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43723547"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672109"
 ---
-# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Datotek s Facebooka ni mogoče priložiti ali naložiti
+# <a name="unable-to-attach-or-upload-files-from-facebook"></a>Ni mogoče priložiti ali naložiti datotek iz storitve Facebook
 
-Zaradi spremembe pogojev in pogojev Facebooka po oktobru 23, 2019, ne boste mogli več nalagati prilog neposredno iz Facebooka in Facebook ne bo več prikazan na seznamu lokacij v oblaku. 
+Zaradi spremembe pogojev in pogojev za Facebook, po oktobru 23, 2019, ne boste mogli več prenesti prilog neposredno iz storitve Facebook, Facebook pa ne bo več prikazan na seznamu mest v oblaku. 
 
-Seznam drugih lokacij v oblaku lahko upravljate v [računih za shranjevanje](https://go.microsoft.com/fwlink/?linkid=2111075).
+Seznam drugih mest v oblaku lahko upravljate v svojih [računih za shranjevanje](https://go.microsoft.com/fwlink/?linkid=2111075).
 
-Preberite več o [računih za shranjevanje](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
+Več informacij o [računih shrambe](https://support.office.com/article/477cb7cc-5732-4c40-8f23-30472de8138a).
   

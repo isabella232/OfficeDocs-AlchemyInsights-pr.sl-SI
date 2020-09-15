@@ -1,10 +1,11 @@
 ---
-title: Za sporočilo o vzdrževanju za branje pri poskusu uporabe storitve SharePoint ali OneDrive
+title: Samo za branje za sporočilo o vzdrževanju pri poskusu uporabe SharePointa ali OneDrive
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,33 +13,33 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 02cf1aa7abae365a3d317af9e785648d1c1517e1
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a3d313816beefcefa4d93528d3ad9a684e60390e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051297"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47670848"
 ---
-# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Za sporočilo o vzdrževanju za branje pri poskusu uporabe storitve SharePoint ali OneDrive
+# <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Samo za branje za sporočilo o vzdrževanju pri poskusu uporabe SharePointa ali OneDrive
 
-Ko poskušate uporabiti SharePoint ali OneDrive za enega od naslednjih scenarijev, lahko uporabniki prejmejo sporočilo **za vzdrževanje samo za branje** . 
+Uporabniki lahko prejmejo sporočilo **za branje za vzdrževanje** , ko poskušajo uporabiti SharePoint ali OneDrive za enega od teh scenarijev. 
 
--   Načrtovana ali aktivna vzdrževalna dejavnost.  Preverite jih tako, da se pomaknete na [center za sporočila](https://portal.office.com/adminportal/home#/messagecenter).
--   Zelo prednostna, aktivna storitev incident, ki se lahko pojavijo. Preverite za morebitne Advisories/incidentov, ki jih navigacija do [storitve Health](https://portal.office.com/adminportal/home#/servicehealth).
--   Manjše okrevanje Auto-Healing scenarij, ki bi se lahko dogajalo zaradi kakršnih koli nepričakovanih dogodkov na strežnikih, ki bi lahko trajala manj kot 30 min ali tako. 
+-   Načrtovana ali aktivna vzdrževalna dejavnost.  Preverite jih tako, da se pomaknete do [središča za sporočila](https://portal.office.com/adminportal/home#/messagecenter).
+-   Nepomemben dogodek, ki se lahko pojavi. Preverite morebitne svetovalce/incidente tako, da se pomaknete na [stanje storitve](https://portal.office.com/adminportal/home#/servicehealth).
+-   Manjši postopek obnovitve samodejnega celjenja, ki se lahko zgodi zaradi morebitnih nepričakovanih dogodkov v strežnikih, ki bi lahko trajale manj kot 30 min. 
     
-    Ni sporočila center ali Service Health delovnih mest za te manjše izterjave, vendar bi morali biti nazaj na normalno zelo kmalu.
+    Za te manjše okrevanje ni na voljo nobenega središča za sporočila ali mesta za zdravstveno stanje, vendar morate biti kmalu nazaj v normalno stanje.
 
-Ob zelo redkih priložnostih smo opazili, da je eden od treh zgoraj naštetih scenarijev je bil vzrok, in storitev je bila obnovljena, vendar uporabniki brskalnika predpomnilnik ni bil očiščen.
+V zelo redkih primerih smo opazili, da je bil eden od treh zgoraj navedenih primerov vzrok, storitev pa je bila obnovljena, vendar predpomnilnik brskalnika ni bil počiščen.
 
-Pred navigacijo do spletnega mesta poskusite počistiti predpomnilnik brskalnika.
+Poskusite počistiti predpomnilnik brskalnika, preden se pomaknete na mesto.
 
-1. V brskalniku Microsoft Edge izberite **Nastavitve**, nato pa izberite **zasebnost in varnost**.
-2. Pod možnostjo **Izbriši brskanje**izberite izberite **, kaj želite počistiti**.
-3. Izberite **piškotki in shranjeni podatki spletnega mesta**ter izberite **Počisti**.
-
->[!Note] 
-> Ti koraki se lahko razlikujejo pri uporabi drugih brskalnikov, kot sta Mozilla Firefox ali Google Chrome.
+1. V brskalniku Microsoft Edge izberite **Nastavitve**in nato izberite **zasebnost in varnost**.
+2. V razdelku **počistite brskanje**izberite **Izberite, kaj želite počistiti**.
+3. Izberite **piškotke in shranjene podatke spletnega mesta**ter izberite **Počisti**.
 
 >[!Note] 
-> Druga možnost bi bila, da odprete SharePointovo spletno mesto ali OneDrive v novem oknu InPrivate.
+> Ti koraki se lahko razlikujejo, ko uporabljajo druge brskalnike, kot je Mozilla Firefox ali Google Chrome.
+
+>[!Note] 
+> Druga možnost je, da odprete SharePointovo mesto ali OneDrive v novem oknu InPrivate.

@@ -1,31 +1,32 @@
 ---
-title: Izpraznite mapo» izbrisani predmeti «v Outlook.com
+title: Praznjenje mape» Izbrisano «v storitvi Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 25140869694e48d79ed3f29f159c8114c244c34d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6dae0a3b53972d8a75e660f5669656b84f3269d8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43723465"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47672468"
 ---
-# <a name="empty-the-deleted-items-folder"></a>Izprazni mapo» izbrisani predmeti «
+# <a name="empty-the-deleted-items-folder"></a>Praznjenje mape» Izbrisano «
 
-1. Odprite mapo» izbrisani predmeti «in izberite **prazna mapa**.
-2. Na vrhu strani izberite **obnovljive elemente** in znova izberite **prazna mapa** .
+1. Odprite mapo» izbrisani elementi «in izberite **izprazni mapo**.
+2. Izberite **nadomestljive elemente** na vrhu strani in znova izberite **prazna mapa** .
 
-**Mape» izbrisani predmeti «ni mogoče izprazniti**
+**Ne morete izprazniti mape» Izbrisano «**
 
-- Če ste izbrisali veliko e-pošte, lahko traja nekaj časa, da se ti elementi premaknejo ali izbrišejo iz mape» izbrisani predmeti «. Med izbrisom se odpre okno brskalnika.
-- Če e-poštno sporočilo še vedno ne uspe pravilno izbrisati, izberite manjšo serijo, ki jo želite izbrisati.
-- Če se izbrisana e-pošta vrne, je to lahko zato, ker ste pred kratkim izbrisali veliko e-pošte. Prosimo, poskusite znova kasneje.
+- Če ste izbrisali veliko e-poštnih sporočil, lahko traja nekaj časa, da se ti elementi premaknejo ali bodo izbrisani iz mape» Izbrisano «. Okno brskalnika pustite odprto, medtem ko poteka brisanje.
+- Če se e-pošta še vedno ne izbriše pravilno, izberite manjšo serijo, ki jo želite izbrisati.
+- Če je izbrisana e-pošta vrnjena, je morda prišlo zaradi tega, ker ste nedavno izbrisali veliko e-poštnih sporočil. Poskusite znova pozneje.

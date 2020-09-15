@@ -6,24 +6,25 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 2ffcc8ba50b98b693b48e13bb398a44289de305f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 636c5b7c239cf4d8ffc3b44b50c5a7ebb7b55e1c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743217"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47671316"
 ---
-# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Dodajte svoj Outlook v spletni račun v Outlook
+# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>Dodajanje Outlooka v spletni račun v Outlook
 
-Ti koraki so enaki, če dodate svoj prvi e-poštni račun ali dodatne e-poštne račune v Outlook.
+Ta navodila so enaka, ne glede na to, ali dodajate svoj prvi e-poštni račun ali dodatne e-poštne račune v Outlook.
 
-1. Izberite **Datoteka** > **Dodaj račun**.
-1. Kar vidite, je odvisno od vaše različice Outlooka:
-    - Za **Outlook za Office 365** in **Outlook 2016**vnesite svoj e-poštni naslov in kliknite **Poveži**.
+1. Izberite **File**  >  **Dodaj račun**datoteke.
+1. To, kar vidite, je odvisno od vaše različice Outlooka:
+    - Za **Outlook za Office 365** in **Outlook 2016**vnesite svoj e-poštni naslov in kliknite **vzpostavi povezavo**.
     - Za **outlook 2013** in **Outlook 2010**vnesite svoje ime, e-poštni naslov in geslo ter kliknite **naprej**.
-1. Če ste pozvani, znova vnesite geslo, nato pa izberite **OK** > **Finish** , da začnete uporabljati svoj e-poštni račun v Outlooku.
+1. Če ste pozvani, znova vnesite geslo, nato pa izberite v **redu**,  >  **Finish** da začnete uporabljati svoj e-poštni račun v Outlooku.
 
 Če želite več informacij, glejte [Dodajanje e-poštnega računa v Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b).
