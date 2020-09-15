@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,12 +13,12 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 1f2bd2d602ac499358940a3ee5c788d725a8db5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418052"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698365"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktiviranje ali vnovično aktiviranje naročnine
 
@@ -25,15 +26,15 @@ ms.locfileid: "44418052"
 
 - Če želite uporabnikom omogočiti dostop do storitve, jim dodelite licenco. Za navodila o dodeljevanju licenc preberite [Dodeljevanje licenc uporabnikom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-- Če imate že dodeljeno licenco, lahko poiščete aplikacije za prenos na strani [Moj račun](https://portal.office.com/account/#installs). Ta stran vsebuje seznam aplikacij, ki so na voljo za prenos na podlagi dodeljenih licenc.
+- Če imate že dodeljeno licenco, lahko poiščete aplikacije za prenos na strani [Moj račun](https://portal.office.com/account/#installs). Na tej strani je seznam programov, ki so na voljo za prenos na osnovi dodeljenih licenc.
 
-- Če ste Officeove aplikacije že prenesli, se boste morda morali prijaviti v programe z delovnim ali šolskim računom. To lahko storite v kateri koli Officeovi aplikaciji (Word, Excel itd.) tako, da kliknete **Datoteka > Račun** (na dnu). V razdelku z informacijami o uporabniku kliknite **Preklopi račun**. Za več informacij preberite [namestitev Officeovih aplikacij](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- Če ste že prenesli Officeove programe, se boste morda morali vpisati v programe s službenim ali šolskim računom. To lahko storite v kateri koli Officeovi aplikaciji (Word, Excel itd.) tako, da kliknete **Datoteka > Račun** (na dnu). V razdelku z informacijami o uporabniku kliknite **Preklopi račun**. Če želite več informacij, preberite [namestitev Officeovih programov](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **Vnovična aktivacija naročnine**
 
-Če naročnina poteče, jo je Microsoft onemogočil ali pa ste ga preklicali na sredini naročniškega izraza, jo lahko znova aktivirate v skrbniškem središču.
+Če vaša naročnina poteče, je Microsoft onemogočil ali pa ste jo preklicali sredi termina za naročnino, ga lahko znova aktivirate v skrbniškem središču.
   
-1. V skrbniškem središču Microsoft 365 pojdite na stran za **obračunavanje**  >  [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. V skrbniškem središču za Microsoft 365 pojdite na stran **obračunavanje**  >  [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. Izberite naročnino, ki jo želite znova aktivirati, nato pa izberite **Znova aktiviraj**. Če možnost **Znova aktiviraj** ni prikazana, [pokličite podporo](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products), naj vam znova aktivira vašo naročnino.
 
