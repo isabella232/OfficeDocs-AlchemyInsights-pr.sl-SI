@@ -1,32 +1,33 @@
 ---
-title: Obnovitev izbrisanega spletnega mesta
+title: Obnovitev izbrisanega mesta
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 7c2ae754c86a3502092b622c55d18f3f4006bf8b
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 570284765f32212b4ef2062db5b70f427b28c121
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582251"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47692059"
 ---
-# <a name="restore-a-deleted-site"></a>Obnovitev izbrisanega spletnega mesta
+# <a name="restore-a-deleted-site"></a>Obnovitev izbrisanega mesta
 
-Ko skrbnik izbriše SharePointovo mesto, ga postavi v zbirko mest recycle bin, kjer je ohranil za 93 dni, preden je trajno izbrisan. Če želite obnoviti spletno stran:
+Ko skrbnik izbriše SharePointovo mesto, je shranjeno v košu zbirke mest, kjer je shranjena za 93 dni, preden je trajno izbrisana. Če želite obnoviti mesto:
   
-1. V novem skrbniškem središču SharePoint kliknite **koš** na traku. 
+1. V novem skrbniškem središču za SharePoint kliknite **koš** na traku. 
     
-2. Potrdite potrditveno polje poleg zbirke mest, ki jo želite obnoviti.
+2. Potrdite potrditveno polje ob zbirki mest, ki jo želite obnoviti.
     
 3. Kliknite **obnovi izbrisane elemente**.
     
-Če želite obnoviti izbrisano mesto za komunikacijo, lahko uporabite novo SharePointovo skrbniško središče. V nasprotnem primeru morate uporabiti Microsoft PowerShell. Če želite obnoviti spletno mesto, ki pripada skupini Microsoft 365, morate skupino obnoviti v skrbniškem središču za Exchange. Skupine lahko obnovite 30 dni po izbrisi.
+Če želite obnoviti izbrisano mesto za komunikacijo, lahko uporabite novo skrbniško središče za SharePoint. V nasprotnem primeru morate uporabiti Microsoft PowerShell. Če želite obnoviti mesto, ki pripada skupini Microsoft 365, morate obnoviti skupino v skrbniškem središču za Exchange. Skupine lahko obnovite 30 dni po tem, ko jih izbrišete.
   
 

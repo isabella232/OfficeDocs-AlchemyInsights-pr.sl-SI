@@ -1,41 +1,42 @@
 ---
-title: Odpravljanje težav s sporočili o zavrnitvi dostopa
+title: Odpravljanje težav z dostopom do zavrnjenih sporočil
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 183f54be3230a67bfe89151a6941692de470a3e1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: f49cfc50142b3d98a5f431a38e9a943eb5624523
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510516"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691699"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>Odpravljanje težav s sporočili o zavrnitvi dostopa
+# <a name="troubleshoot-access-denied-messages"></a>Odpravljanje težav z dostopom do zavrnjenih sporočil
 
-Če prejmete sporočilo o zavrnitvi dostopa, ko poskušate brskati po spletnem mestu SharePoint online, si oglejte spodnje članke.
+Če prejmete sporočilo o zavrnjenem dostopu ob poskusu brskanja po spletnem mestu SharePoint online, si oglejte spodnje članke.
 
 **Dodajanje in licenciranje uporabnika**
 
-Zagotovite, da boste [uporabnikom v Microsoftovem 365 za podjetja dodelili licence](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Zagotovite, da [dodelite licence uporabnikom v storitvi Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
 
 **Dodeljevanje dovoljenj**
 
-Če je bila uporabniku dodeljena licenca za SharePoint in še vedno prejema sporočilo o zavrnitvi dostopa, se prepričajte, da imajo [dodeljeno ustrezno raven dovoljenja](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+Če je uporabniku dodeljena SharePointova licenca in še vedno prejema sporočilo o zavrnjenem dostopu, zagotovite, da je [dodeljena ustrezna raven dovoljenj](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
 **Razmislite o uporabi funkcije zahteve za dostop**
 
-Funkcija [zahteve za dostop](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) omogoča ljudem, da zahtevajo dostop do vsebine, ki je trenutno nimajo dovoljenja za prikaz. 
+Funkcija [zahteve za dostop](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) osebam omogoča, da zahtevajo dostop do vsebine, ki je trenutno nimajo dovoljenja za ogled. 
 
-**Dovoli skriptom po meri lahko povzroči težave pri dostopu**
+**Dovoli skript po meri, lahko povzroči težave z zavrnjenim dostopom**
 
-Obstajajo določeni scenariji, kjer lahko funkcija» dovoli skript po meri «predstavlja dostop zavrnjen. Zakaj a zapisati v seznam od zunanja oblika vplivati, varnost pomislek ter zmožnost v onesposobiti zunanja oblika. Prosimo, obiščite, [Dovolite ali preprečite skript po meri](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+Obstajajo določeni scenariji, kjer lahko funkcija» dovoli skript po meri «predstavlja dostop zavrnjen. Seznam funkcij, ki so na voljo, varnostna opozorila in možnost onemogočanja funkcije. Obiščite, [Dovolite ali preprečite skript po meri](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-Opomba: Če OneDrive ali SharePointovo mesto ni na voljo več uporabnikom, ki so že imeli dostop, lahko pride do začasne izdaje storitve. [Preverite nadzorno ploščo za zdravje storitve](https://portal.office.com/adminportal/home#/servicehealth).
+Opomba: Če OneDrive ali SharePointovo mesto ni na voljo za več uporabnikov, ki so prej imeli dostop, je morda prišlo do začasne težave s storitvijo. [Preverite nadzorno ploščo za stanje storitve](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   

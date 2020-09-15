@@ -5,46 +5,47 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3454"
 - "9001450"
-ms.openlocfilehash: d90baddd01bdf8508bd6289509c8399b8241887a
-ms.sourcegitcommit: 42463e8d8869f36225a27388d83d37629c6b149e
+ms.openlocfilehash: 2dc9a24c1d0d808e26733738cedbc32d513926a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40738584"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690727"
 ---
 # <a name="troubleshoot-an-existing-monitor"></a>Odpravljanje težav z obstoječim monitorjem
 
-Poskusite te rešitve za odpravljanje težav z monitorjem. 
+Poskusite odpraviti te rešitve za odpravljanje težav z monitorjem. 
 
-**Osvežite zaslon monitorja:**
+**Osvežitev zaslona monitorja:**
 
-Istočasno pritisnite naslednje tipke: Windows Key + CTRL + SHIFT + B. S tem boste osvežili komunikacijo z grafičnim gonilnikom. Vaši monitorji bodo utripali za trenutek in se vrnili po nekaj sekundah.
+Hkrati pritisnite te tipke: tipka Windows + CTRL + SHIFT + B. S tem boste osvežili komunikacijo z grafičnim gonilnikom. Monitorji bodo vsak trenutek utripali in se vrnili po nekaj sekundah.
 
-**Odpravljanje težav s strojno opremo monitorja:**
+**Odpravljanje težav s spremljanjem strojne opreme:**
 
-1. Izključite kabel, ki povezuje računalnik z monitorjem, in ga priključite nazaj.
-2. Odklopite vse nebistvene naprave iz računalnika (kot so adapterji ali doki).
+1. Odklopite kabel s povezavo med računalnikom in monitorjem ter ga znova vključite.
+2. Prekinite povezavo z vsemi nebistvenimi napravami iz računalnika (na primer adapterji ali doki).
 
-**Če ste pred kratkim namestili posodobitev v računalniku, lahko znova namestite gonilnik zaslona:**
+**Če ste nedavno namestili posodobitev v računalnik, lahko vrnete gonilnik za prikaz:**
 
-1. Izberite **Start**, vnesite **upravitelj naprav**in izberite **upravitelj naprav** iz rezultatov.
-2. Razširite razdelek **grafične kartice** , z desno miškino tipko kliknite prikazno kartico, finim izberite **lastnosti**.
-3. Pomaknite se na zavihek **gonilnik** in izberite **Roll Back Driver**. <br>
-Opomba: če to ni na voljo ali je siva barva, izberite **ne** iz spodnjih možnosti, da se premaknete na naslednji korak.
-4. Morda boste morali znova zagnati računalnik, preden bo ta sprememba učinkovali.
+1. Izberite **Start**, vnesite **upravitelj naprav**in v rezultatih izberite **upravitelj naprav** .
+2. Razširite razdelek **prikaz adapterji** , z desno tipko miške kliknite zaslonsko kartico in izberite **lastnosti**.
+3. Premaknite se do zavihka **gonilnik** in izberite **Prekliči gonilnik**. <br>
+Opomba: če ta možnost ni na voljo ali je zatemnjena, izberite **ne** iz spodnjih možnosti, da se premaknete na naslednji korak.
+4. Morda boste morali znova zagnati računalnik, preden bodo spremembe začele veljati.
 
-**Odstranite in znova namestite gonilnik zaslona:**
+**Odstranite in znova namestite gonilnik za prikaz:**
 
-1. Izberite **Start**, vnesite **upravitelj naprav**in izberite **upravitelj naprav** iz rezultatov.
-2. Razširite razdelek **prikazni vmesniki** , z desno miškino tipko kliknite prikazno kartico, finim izberite **Odstrani napravo**. 
-3. Izberite polje poleg možnosti **Izbriši programsko opremo gonilnika za to napravo** in izberite **Odstrani**.<br>
-Opomba: morda boste morali znova zagnati računalnik v tej fazi. Pred vnovičnim zagonom morate zapisati preostala navodila.
+1. Izberite **Start**, vnesite **upravitelj naprav**in v rezultatih izberite **upravitelj naprav** .
+2. Razširite razdelek **prikaz adapterji** , z desno tipko miške kliknite zaslonsko kartico in izberite **Odstrani napravo**. 
+3. Izberite polje ob možnosti **brisanje programske opreme gonilnika za to napravo** in izberite **Odstrani**.<br>
+Opomba: morda boste pozvani, da znova zaženete računalnik na tej stopnji. Pred vnovičnim zagonom preglejte preostala navodila.
 4. Znova odprite upravitelja naprav.
-5. Razširite razdelek **prikazni vmesniki** , z desno miškino tipko kliknite zaslonno kartico in izberite **Posodobi gonilnik**.
-6. Izberite **samodejno iskanje za posodobitev programske opreme gonilnika** in sledite navodilom za namestitev.
+5. Razširite razdelek **prikaz kartic** , z desno tipko miške kliknite zaslonsko kartico in izberite **Posodobi gonilnik**.
+6. Izberite **samodejno iskanje za posodobitev gonilnika programske opreme** in sledite navodilom za namestitev.
