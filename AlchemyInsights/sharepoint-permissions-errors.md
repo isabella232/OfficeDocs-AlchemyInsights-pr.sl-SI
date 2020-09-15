@@ -1,25 +1,26 @@
 ---
-title: Napake SharePointovih dovoljenj
+title: Napake v SharePointovih dovoljenjih
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 598c2262da908d8b836662ccc1e4d05e6d2a2a88
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: e2685734657cb9e9e8c43cd19ac024b795dcd49b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182750"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653412"
 ---
-# <a name="sharepoint-permissions-errors"></a>Napake SharePointovih dovoljenj
+# <a name="sharepoint-permissions-errors"></a>Napake v SharePointovih dovoljenjih
 
-Obstaja veliko scenarijev, ki lahko pozove eno od teh sporočil. Najpogosteje so dovoljenja za uporabnika ali skrbnika konfigurirana nepravilno ali pa sploh niso konfigurirana. 
+Obstaja veliko scenarijev, ki lahko pozovejo eno od teh sporočil. Najbolj pogosto so dovoljenja za uporabnika ali skrbnika konfigurirana nepravilno ali pa sploh ni konfigurirana. 
 
-Če želite več informacij, glejte»[dostop zavrnjen «,» potrebujete dovoljenje za dostop do te spletne strani «ali» uporabnik ni bil najden v imeniku «v storitvi SharePoint online in OneDrive za podjetja](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).
+Če želite več informacij, si oglejte»[dostop zavrnjen «,» potrebujete dovoljenje za dostop do tega mesta «ali» uporabnika, ki ga ni mogoče najti v imeniku «v storitvi SharePoint online in OneDrive za podjetja](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).

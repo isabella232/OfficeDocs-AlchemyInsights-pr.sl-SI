@@ -1,23 +1,24 @@
 ---
-title: Nove izdaje
+title: Nastajajoča težava
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1965"
 - "9000337"
-ms.openlocfilehash: b5d0108e6419cb71b7f30991e15773d400b97bed
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 25aa596d548e01d8f355448f33dd873064d597f7
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550351"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653853"
 ---
-# <a name="emerging-issue"></a>Nove izdaje
+# <a name="emerging-issue"></a>Nastajajoča težava
 
-Več strank so se pritožili, o problemu, ki je podobna, kaj so poročanja. Iščemo v tem vprašanju.
+Več kupcev se je pritožilo zaradi težav, ki so podobne tistemu, kar poročate. Preverjamo to težavo.
 
-Preverite [Zdravje Nadzorna plošča storitev](https://admin.microsoft.com/adminportal/home#/servicehealth) bivanje posodobitev za vsako storitev, ki vplivajo na incidentov.
+Preverite, ali je [Nadzorna plošča za zdravstveno stanje](https://admin.microsoft.com/adminportal/home#/servicehealth) posodobljena na kateri koli storitvi, ki vpliva na dogodke.
