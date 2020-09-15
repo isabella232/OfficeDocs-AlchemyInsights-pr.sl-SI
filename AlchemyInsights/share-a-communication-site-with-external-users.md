@@ -1,32 +1,33 @@
 ---
-title: Skupna raba komunikacijskega mesta z zunanjimi Uporabniki
+title: Skupna raba spletnega mesta za komunikacijo z zunanjimi Uporabniki
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e0701ab9-7798-42cf-af73-9e14132dc669
-ms.openlocfilehash: 38eaa55db49f3c6f38da42605f4180e60ebb6349
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 3439379b27303bcf3fd43f35336c05876e3e526e
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767517"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653781"
 ---
-# <a name="share-a-communication-site-with-external-users"></a><span data-ttu-id="6239d-102">Skupna raba komunikacijskega mesta z zunanjimi Uporabniki</span><span class="sxs-lookup"><span data-stu-id="6239d-102">Share a Communication Site with External Users</span></span>
+# <a name="share-a-communication-site-with-external-users"></a><span data-ttu-id="6f55a-102">Skupna raba spletnega mesta za komunikacijo z zunanjimi Uporabniki</span><span class="sxs-lookup"><span data-stu-id="6f55a-102">Share a Communication Site with External Users</span></span>
 
-<span data-ttu-id="6239d-103">Če želite vklopiti skupno rabo zunanjih uporabnikov za komunikacijska mesta, sledite tem korakom:</span><span class="sxs-lookup"><span data-stu-id="6239d-103">To turn on external user sharing for Communication sites, follow these steps:</span></span> 
+<span data-ttu-id="6f55a-103">Če želite vklopiti zunanjo skupno rabo uporabnikov za mesta za komunikacijo, upoštevajte ta navodila:</span><span class="sxs-lookup"><span data-stu-id="6f55a-103">To turn on external user sharing for Communication sites, follow these steps:</span></span> 
   
-1. <span data-ttu-id="6239d-104">Open **Modern admin center** -če ste v klasični admin Center boste videli **poskusiti zdaj** ali \* \* poskusite predogled \* \* gumb od zgoraj desno.</span><span class="sxs-lookup"><span data-stu-id="6239d-104">Open the **Modern Admin Center** - If you're in the classic Admin Center you'll see a **Try it now** or \*\* Try the preview \*\* button from the top right.</span></span> <span data-ttu-id="6239d-105">To vas bo odpeljal do modernega skrbniškega centra.</span><span class="sxs-lookup"><span data-stu-id="6239d-105">This will take you to the Modern Admin Center.</span></span> 
+1. <span data-ttu-id="6f55a-104">Odpiranje **sodobnega skrbniškega središča** – če ste v klasičnem skrbniškem središču, se prikaže **preskus zdaj** ali \* \* poskusite preview \* \* \* gumb v zgornjem desnem kotu.</span><span class="sxs-lookup"><span data-stu-id="6f55a-104">Open the **Modern Admin Center** - If you're in the classic Admin Center you'll see a **Try it now** or \*\* Try the preview \*\* button from the top right.</span></span> <span data-ttu-id="6f55a-105">S tem boste odstranili sodobno skrbniško središče.</span><span class="sxs-lookup"><span data-stu-id="6f55a-105">This will take you to the Modern Admin Center.</span></span> 
   
-2. <span data-ttu-id="6239d-106">Izberite **aktivna mesta.**</span><span class="sxs-lookup"><span data-stu-id="6239d-106">Select **Active Sites.**</span></span>
+2. <span data-ttu-id="6f55a-106">Izberite **aktivna mesta.**</span><span class="sxs-lookup"><span data-stu-id="6f55a-106">Select **Active Sites.**</span></span>
   
-3. <span data-ttu-id="6239d-107">Izberite mesto, ki ima **predlogo mesta za komunikacijo**.</span><span class="sxs-lookup"><span data-stu-id="6239d-107">Select a site that has a **Communication Site template**.</span></span> 
+3. <span data-ttu-id="6f55a-107">Izberite mesto s **predlogo mesta za komunikacijo**.</span><span class="sxs-lookup"><span data-stu-id="6f55a-107">Select a site that has a **Communication Site template**.</span></span> 
   
-4. <span data-ttu-id="6239d-108">V zgornjem meniju izberite gumb za **skupno rabo** .</span><span class="sxs-lookup"><span data-stu-id="6239d-108">Select the **Sharing** button from the top menu.</span></span> 
+4. <span data-ttu-id="6f55a-108">V zgornjem meniju izberite gumb **Skupna raba** .</span><span class="sxs-lookup"><span data-stu-id="6f55a-108">Select the **Sharing** button from the top menu.</span></span> 
   
- <span data-ttu-id="6239d-109">**Opomba:** Če imate več kot eno mesto, se bo gumb za **skupno rabo** prikazal onemogočen.</span><span class="sxs-lookup"><span data-stu-id="6239d-109">**Note:** If you have more than one site selected, the **Sharing** button will appear disabled.</span></span> <span data-ttu-id="6239d-110">Izberite samo eno mesto.</span><span class="sxs-lookup"><span data-stu-id="6239d-110">Select only one site.</span></span> 
+ <span data-ttu-id="6f55a-109">**Opomba:** Če imate na voljo več kot eno mesto, bo gumb **Skupna raba** videti onemogočen.</span><span class="sxs-lookup"><span data-stu-id="6f55a-109">**Note:** If you have more than one site selected, the **Sharing** button will appear disabled.</span></span> <span data-ttu-id="6f55a-110">Izberite le eno mesto.</span><span class="sxs-lookup"><span data-stu-id="6f55a-110">Select only one site.</span></span> 
   
 

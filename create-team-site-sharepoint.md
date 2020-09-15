@@ -1,11 +1,12 @@
 ---
-title: Ustvarjanje mesta ekipe v SharePointu
+title: Kako ustvariti spletno mesto skupine v SharePointu
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "5200004"
 - "3177"
 ms.assetid: ''
-ms.openlocfilehash: eecc92a4851fa7164b5b509c08ab300acef27c25
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 25e40924d1cabc7d2d83e42b39710df4a4174cd5
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676837"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653340"
 ---
-# <a name="how-to-create-a-team-site-in-sharepoint"></a><span data-ttu-id="e6ddc-102">Ustvarjanje mesta ekipe v SharePointu</span><span class="sxs-lookup"><span data-stu-id="e6ddc-102">How to create a team site in SharePoint</span></span>
+# <a name="how-to-create-a-team-site-in-sharepoint"></a><span data-ttu-id="a0fe9-102">Kako ustvariti spletno mesto skupine v SharePointu</span><span class="sxs-lookup"><span data-stu-id="a0fe9-102">How to create a team site in SharePoint</span></span>
 
-<span data-ttu-id="e6ddc-103">Ustvarite [spletno mesto skupine](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) SharePoint online za zagotavljanje lokacije, kjer lahko vi in vaša ekipa delate na projektih in si izmenjamo informacije od koder koli v kateri koli napravi.</span><span class="sxs-lookup"><span data-stu-id="e6ddc-103">Create a SharePoint Online [team site](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) to provide a location where you and your team can work on projects and share information from anywhere on any device.</span></span>
+<span data-ttu-id="a0fe9-103">Ustvarite [spletno mesto skupine](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) v storitvi SharePoint online, da zagotovite mesto, kjer lahko vi in vaša skupina delate v projektih in daste informacije v skupno rabo v kateri koli napravi.</span><span class="sxs-lookup"><span data-stu-id="a0fe9-103">Create a SharePoint Online [team site](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) to provide a location where you and your team can work on projects and share information from anywhere on any device.</span></span>
 
-* [<span data-ttu-id="e6ddc-104">Ustvarjanje mesta ekipe v SharePointu</span><span class="sxs-lookup"><span data-stu-id="e6ddc-104">Create a team site in SharePoint</span></span>](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)
+* [<span data-ttu-id="a0fe9-104">Ustvarjanje spletnega mesta skupine v SharePointu</span><span class="sxs-lookup"><span data-stu-id="a0fe9-104">Create a team site in SharePoint</span></span>](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)
