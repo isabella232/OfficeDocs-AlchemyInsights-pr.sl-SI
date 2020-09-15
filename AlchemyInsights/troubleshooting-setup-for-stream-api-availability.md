@@ -1,24 +1,25 @@
 ---
-title: Odpravljanje težav z nastavitvijo za tok – razpoložljivost API-ja
+title: Odpravljanje težav z nastavitvijo za Stream-API
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2800001"
 - "1338"
-ms.openlocfilehash: bd08dce9f6b037478e653bd61ad8cfa0a334bc5e
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d25849c36eda0f286e7758955104e8df2ed46d76
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36559317"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658606"
 ---
-# <a name="api-availability"></a><span data-ttu-id="0ebe5-102">Razpoložljivost API-ja</span><span class="sxs-lookup"><span data-stu-id="0ebe5-102">API Availability</span></span>
+# <a name="api-availability"></a><span data-ttu-id="a184d-102">Razpoložljivost API-ja</span><span class="sxs-lookup"><span data-stu-id="a184d-102">API Availability</span></span>
 
-<span data-ttu-id="0ebe5-103">API-ji za tok danes niso na voljo.</span><span class="sxs-lookup"><span data-stu-id="0ebe5-103">APIs for Stream are not available today.</span></span>
-<span data-ttu-id="0ebe5-104">Za več informacij:https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="0ebe5-104">For more information: https://stream.microsoft.com/support/</span></span>
+<span data-ttu-id="a184d-103">API-ji za pretočni prenos niso na voljo danes.</span><span class="sxs-lookup"><span data-stu-id="a184d-103">APIs for Stream are not available today.</span></span>
+<span data-ttu-id="a184d-104">Če želite več informacij:https://stream.microsoft.com/support/</span><span class="sxs-lookup"><span data-stu-id="a184d-104">For more information: https://stream.microsoft.com/support/</span></span>
