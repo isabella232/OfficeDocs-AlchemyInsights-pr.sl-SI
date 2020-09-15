@@ -1,11 +1,12 @@
 ---
-title: Preklic naročnine na Microsoft 365?
+title: Ali želite preklicati naročnino na Microsoftovo 365?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,21 +14,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: d506cec4af65d88eb3cb3458af9dc3d00bde5f43
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b518c01129e11f08bf7f4b1017a5c50f099edc1a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508284"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683202"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Preklic naročnine na Microsoft 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Ali želite preklicati naročnino na Microsoftovo 365?
 
-Žal nam je, ker vas vidim oditi!
+Žal nam je, da ste odšli!
   
-Glede na podatke vaše organizacije verjamemo, da imajo vse vaše trenutne naročnine manj kot 25 sedežev. Če želite naročnino preklicati v spletu, obiščite stran za **obračunavanje** \> **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** . V razdelku **nastavitve & dejanja** izberite **Prekliči naročnino**.
+Glede na podatke organizacije menimo, da imajo vse vaše trenutne naročnine manj kot 25 sedežev. Če želite preklicati naročnino na spletu, pojdite na stran **obračunavanje** \> **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** . V razdelku **nastavitve & dejanja** izberite **Prekliči naročnino**.
   
-**Vračilo: vsak proporiran kredit bo vrnjen v naslednjem obračunskem ciklu.** 
+**Vračilo: morebitna proplačana kreditna kartica bo vrnjena v naslednjem ciklu obračunavanja.** 
 
-**Opomba**: če ne vidite možnosti za preklic, kliknite na naročnino za ogled podrobnosti in si oglejte **Prekliči naročnino** možnost v **Nastavitve & dejanja**. 
+**Opomba**: če ne vidite možnosti za preklic, kliknite naročnino, da si ogledate podrobnosti in si oglejte možnost **Prekliči naročnino** v **nastavitvah & dejanjih**. 
 
 Če želite izvedeti več, glejte [preklic naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription). 

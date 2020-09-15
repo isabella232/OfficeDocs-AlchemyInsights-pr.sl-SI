@@ -5,31 +5,32 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 98f30d8e0a59ee9d735818d670755affbe627d54
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 2bb937c2ac2d95680dd1b247765c42ec0247d9f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286302"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682986"
 ---
 # <a name="change-my-language"></a>Spreminjanje jezika
 
-Aplikacija Outlook je samodejno prevedena v jezik, v katerega je nastavljena naprava. 
+Aplikacija Outlook je samodejno prevedena v jezik, v katerem je nastavljena naprava. 
 
-(Oglejte si [seznam jezikov, podprtih v programu Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
+(Glejte [seznam jezikov, ki jih podpira Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
 
 **Če želite spremeniti jezik v napravi**: 
 
-**Na Androidu**: 
+**V sistemu Android**: 
 
-- Nastavitve naprave > jezik in vhod 
+- Nastavitve naprave > jezika in vnosa 
 
-**Na IOS**: 
+**V sistemu IOS**: 
 
-- Nastavitve naprave > splošno > jezik & regija 
+- Nastavitve naprave > splošno > jezik & regijo 

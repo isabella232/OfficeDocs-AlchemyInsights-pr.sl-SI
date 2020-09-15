@@ -1,25 +1,26 @@
 ---
-title: 411 calendrzni dovoljenje
+title: Dovoljenje za koledar 411
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9cf95572-4741-47d4-8770-544648ecb905
 ms.custom: 411
-ms.openlocfilehash: a52126b8076f07001c801b4b0097d3002e550964
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ef522719c152c9629522a3feb2ab986d46b0e58a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711827"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47684029"
 ---
-# <a name="calendar-permissions"></a>Dovoljenja koledarja
+# <a name="calendar-permissions"></a>Dovoljenja za koledar
 
-Če imate težave pri dostopu do koledarja ali drugih koledarjev, uporabite [Microsoftov pomočnik za podporo in obnovitev za microsoft 365](https://diagnostics.office.com/).
+Če imate težave z dostopom do koledarja ali drugih koledarjev, uporabite [Microsoftov pomočnik za podporo in obnovitev za microsoft 365](https://diagnostics.office.com/).
   
 Če želite izvedeti več o skupni rabi koledarja, glejte [Skupna raba Outlookovega koledarja z drugimi osebami](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88.aspx).
   
