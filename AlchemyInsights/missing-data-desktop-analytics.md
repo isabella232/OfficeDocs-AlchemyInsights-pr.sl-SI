@@ -1,25 +1,26 @@
 ---
-title: Ocene združljivosti ni mogoče ustvariti
+title: Ni mogoče ustvariti Ocene združljivosti
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2503"
-ms.openlocfilehash: e433068b9001958c7c923388e9cd5eeabf095284
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 9843afe5392778993a2197f2ce76761dcf732d4a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771087"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674090"
 ---
-# <a name="cant-create-a-compatibility-assessment"></a>Ocene združljivosti ni mogoče ustvariti
+# <a name="cant-create-a-compatibility-assessment"></a>Ni mogoče ustvariti Ocene združljivosti
 
-Microsoft Endpoint Configuration Manager je uspešno konfiguriral napravo, vendar namizna analitika ne more ustvariti Ocene združljivosti. Nima popolnega nabora podatkov za konfiguracijo naprave (popis) ali nameščenih aplikacij (inventar).
+Upravitelj konfiguracije za Microsoft Endpoint je uspešno konfiguriral napravo, vendar namizna analitika ne more ustvariti Ocene združljivosti. Nima kompletnih naborov podatkov za konfiguracijo naprave (popis) ali nameščene aplikacije (inventar).
 
-Ta težava se pogosto samodejno določi, ko se naprava znova poskuša. Če se to ne ponovi, se prepričajte, da naprava lahko komunicira s storitvijo. Če želite več informacij, glejte [končne točke](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) in [manjkajoče podatke](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).
+Ta težava je pogosto popravljena samodejno, ko se naprava znova potrudi. Če se ne morete odpraviti, se prepričajte, da naprava lahko komunicira s storitvijo. Če želite več informacij, glejte [končne točke](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints) in [manjkajoči podatki](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#missing-data).

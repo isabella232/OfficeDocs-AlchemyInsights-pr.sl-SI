@@ -1,27 +1,28 @@
 ---
-title: Raziskovalna izkušnja programa Microsoft Teams
+title: Raziskovalna izkušnja za Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
-ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
+ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612363"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674954"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>Raziskovalna izkušnja programa Microsoft Teams
+# <a name="microsoft-teams-exploratory-experience"></a>Raziskovalna izkušnja za Microsoft Teams
 
-Raziskovalna izkušnja programa Microsoft Teams omogoča uporabnikom v vaši organizaciji, ki imajo Azure Active Directory (AAD) in niso licencirani za ekipe, sproži raziskovalno izkušnjo ekip. Skrbniki lahko to funkcijo vklopijo ali izklopijo za uporabnike v njihovi organizaciji. (Prejšnja Microsoft Commercial Cloud Trial se zdaj imenuje ekipe raziskovalne izkušnje.)
+Z raziskovalno izkušnjo aplikacije Microsoft Teams lahko uporabniki v vaši organizaciji, ki imajo v storitvi Azure Active Directory (ZVOČNI imenik) in niso licencirani za Teams, uvedejo raziskovalno izkušnjo ekip. Skrbniki lahko to funkcijo za uporabnike v organizaciji izklopijo ali vklopijo. (Prejšnja različica Microsoft Commercial Cloud Trial se zdaj imenuje raziskovalna izkušnja teams.)
 
-Raziskovalna izkušnja programa Microsoft Teams je na voljo brez dodatnih stroškov, dokler se naslednji dogovor o podjetju ne podaljša ali obnovi na januar 2021 ali po njem. Takrat bodo morali končni uporabniki v licenci za izkušnjo Microsoft raziskovalnega dovoljenja preseliti v plačano licenco, ki vključuje skupine teams.
+Raziskovalna izkušnja za Microsoft Teams je na voljo brez dodatnih stroškov, dokler se ne obračuna naslednja pogodba o podjetju ali podaljšanja v januarju 2021. Takrat se bodo morali končni uporabniki v storitvi Microsoft raziskovalno izkušnjo premakniti na plačljivo licenco, ki vključuje teams.
 
 Če želite več informacij, glejte [upravljanje raziskovalne licence za Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory/).

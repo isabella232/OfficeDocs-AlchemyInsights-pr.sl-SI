@@ -1,38 +1,39 @@
 ---
-title: Težave pri vpisu v Microsoft 365 apps
+title: Težave pri vpisu v programe Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: e1fc48f367691b2f722b69d631d880c18f3504cb
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579845"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677006"
 ---
-# <a name="issues-signing-into-microsoft-365-apps"></a>Težave pri vpisu v Microsoft 365 apps
+# <a name="issues-signing-into-microsoft-365-apps"></a>Težave pri vpisu v programe Microsoft 365
 
-Če želite odpraviti težave pri vpisu z aplikacijami Microsoft 365, v prizadetem računalniku poskusite te možnosti:  
+Če želite odpraviti težave z vpisom v programih Microsoft 365, poskusite te možnosti v prizadetih strojih:  
 
-- Za sistem Windows glejte [priporočila za reševanje pogostih težav pri vpisu](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
-- Zakaj Škot, zagledati [ne morem vpisati se v urad 2016 zakaj Škot app](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+- Za Windows si oglejte [priporočila o reševanju splošnih težav pri vpisu](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
+- Za Mac si oglejte, kako  [se ne morete vpisati v program Office 2016 za Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
 
-**Opomba:** Onemogočanje modernega preverjanja pristnosti (ADAL) ali upravljanja spletnega računa (WAM) za odpravljanje težav z vpisovanjem ali aktivacijo ni **priporočeno**. Če pride do napak med povezovanjem z Microsoftovim 365 s storitvijo Office 2013, zagotovite, da [omogočite sodobno preverjanje pristnosti](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication) za odjemalca Office.
+**Opomba:** Onemogočanje sodobnega preverjanja pristnosti (knjižnice ADAL) ali upravljanja spletnih računov (WAM) za odpravljanje težav z vpisom ali aktiviranjem ni  **priporočeno**. Če pride do napak med vzpostavljanjem povezave s storitvijo Microsoft 365 s storitvijo Office 2013, zagotovite, da [omogočite sodobno preverjanje pristnosti](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  za Office Client.
 
-Za posebne ukrepe za odpravljanje težav glejte:
+Za določena dejanja za odpravljanje težav si oglejte:
 
-[Težave s povezavo v prijavi po posodobitvi v Office 2016 graditi 16.0.7967 v operacijskem sistemu Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
+[Težave s povezavo v vpisu po posodobitvi na Office 2016 Build 16.0.7967 v sistemu Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)  
 
-[Ne morete se vpisati v svoj organizacijski račun, kot so Office 365, Azure ali InTune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
+[Ne morete se vpisati v račun organizacije, kot je Office 365, Azure ali InTune](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-365-azure-intune)
 
-[Odpravljanje težav z aplikacijami, ki niso v brskalniku, ki se ne morejo prijaviti v Office 365, Azure ali InTune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
+[Odpravljanje težav z aplikacijami, ki niso brskalnik, ki se ne morejo vpisati v Office 365, Azure ali InTune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1?ui=en-US&rs=en-US&ad=US)
 
-[Večkrat pozvani za poverilnice v Officeu](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)
+[Večkrat pozvani k poverilnicam v Officeu](https://docs.microsoft.com/office365/troubleshoot/authentication/access-denied-when-connect-to-office-365)

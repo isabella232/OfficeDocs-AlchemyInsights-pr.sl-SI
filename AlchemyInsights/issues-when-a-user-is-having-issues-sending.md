@@ -1,9 +1,10 @@
 ---
-title: 322 vprašanja, ko ima uporabnik težave pri pošiljanju
+title: težave z 322, ko ima uporabnik težave s pošiljanjem
 ms.author: chrisda
 author: chrisda
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -11,13 +12,13 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 66c651d2-7e58-4bd8-a009-05065e644043
-ms.openlocfilehash: 5d3c3d749c298682e1a6798b0f05ccb4bb657015
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: e32347b4ad49b05ee34e21482f3e7d491290ad6d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661528"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676934"
 ---
-# <a name="a-user-is-having-issues-sending-email-messages"></a>Uporabnik ima težave pri pošiljanju e-poštnih sporočil
+# <a name="a-user-is-having-issues-sending-email-messages"></a>Uporabnik ima težave s pošiljanjem e-poštnih sporočil
 
-Izgleda, da imate vprašanje pretoka pošte. Imamo diagnostiko, ki bo pomagala prepoznati številne pogoste težave tok pošte. Kliknite **Zaženi diagnostiko** spodaj.
+Videti je, da imate težavo s tokom pošte. Imamo diagnostiko, s katero boste lažje prepoznali številne pogoste težave s tokom pošte. Kliknite **Zaženi diagnostiko** spodaj.

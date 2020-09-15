@@ -1,5 +1,5 @@
 ---
-title: Iščete kupiti novo naročnino?
+title: Ali želite kupiti novo naročnino?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 8d76d8908919459d8f8de7bb0ac39b6a8237d739
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 7ad6b96485d098be76b98c1bb53c67c885978fce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505559"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47675206"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a>Iščete kupiti novo naročnino?
+# <a name="looking-to-buy-a-new-subscription"></a>Ali želite kupiti novo naročnino?
 
-Če že imate naročnino za Microsoft 365 za poslovna razmerja in želite kupiti drugo naročnino za svojo organizacijo, pojdite na **Billing** \> stran [nabavne storitve](https://go.microsoft.com/fwlink/p/?linkid=868433) za obračunavanje, če želite videti seznam naročnin, ki so na voljo vaši organizaciji.
+Če že imate naročnino na Microsoft 365 za podjetja in želite kupiti drugo naročnino za svojo organizacijo, pojdite na **Billing** \> stran [storitve nakupa](https://go.microsoft.com/fwlink/p/?linkid=868433) obračunavanja, da si ogledate seznam naročnin, ki so na voljo za vašo organizacijo.
  
-1. Izberite želeno naročnino in izberite **kupi**.
+1. Izberite želeno naročnino, nato pa izberite **nakup**.
 
-2. Izberite, kako bi želeli plačati, in število potrebnih uporabniških licenc.
+2. Izberite, kako želite plačati, in število uporabniških licenc, ki jih potrebujete.
 
-3. Izberite **odjaviti se zdaj**. Na naslednji strani si lahko ogledate vrstni red in dokončate nakup.
+3. Izberite **Rezerviraj zdaj**. Na naslednji strani lahko pregledate vrstni red in dokončate nakup.
 
-4. Ko je nakup končan, boste morda morali znova dodeliti licence ali preklicati naročnino. Za pomoč pri tem si oglejte razdelek dodatni viri spodaj.
+4. Ko je nakup končan, boste morda morali znova dodeliti licence ali preklicati naročnino. Če želite pomoč za to, si oglejte spodnji razdelek dodatni viri.
 
  **Dodatni viri:**
   
-- [Dodeljevanje licenc uporabnikom v Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Dodeljevanje licenc uporabnikom v storitvi Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
 - [Preklic naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- Če vas zanima preklapljanje naročnin, glejte [preklop na drug microsoftov 365 za poslovni načrt.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- Če želite zamenjati naročnine, glejte [preklop na drug paket Microsoft 365 za podjetja.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
