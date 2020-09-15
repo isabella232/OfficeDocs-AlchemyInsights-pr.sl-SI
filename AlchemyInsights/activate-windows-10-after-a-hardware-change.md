@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3484"
 - "9001418"
-ms.openlocfilehash: 416322058859e0b875cfec10d60bfaa0c711e72b
-ms.sourcegitcommit: bd80dd0469556397c3f48a9276afe8e9d793a2ae
+ms.openlocfilehash: 6e341b057cb0ba20a0bbcfd05008875f59a24684
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40744739"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698293"
 ---
-# <a name="reactivating-windows-10-after-a-hardware-change"></a><span data-ttu-id="a8195-102">Vnovično aktiviranje sistema Windows 10 po spremembi strojne opreme</span><span class="sxs-lookup"><span data-stu-id="a8195-102">Reactivating Windows 10 after a hardware change</span></span>
+# <a name="reactivating-windows-10-after-a-hardware-change"></a><span data-ttu-id="921c7-102">Vnovično aktiviranje sistema Windows 10 po spremembi strojne opreme</span><span class="sxs-lookup"><span data-stu-id="921c7-102">Reactivating Windows 10 after a hardware change</span></span>
 
-<span data-ttu-id="a8195-103">Če ste v napravo naredili znatno spremembo strojne opreme, kot je zamenjava matične plošče, Windows morda ne bo več aktiviran.</span><span class="sxs-lookup"><span data-stu-id="a8195-103">If you made a significant hardware change to your device, such as replacing the motherboard, Windows might no longer be activated.</span></span> <span data-ttu-id="a8195-104">Poskusite aktivirati orodje za odpravljanje težav z aktiviranjem za aktiviranje sistema Windows 10:</span><span class="sxs-lookup"><span data-stu-id="a8195-104">Try using the Activation troubleshooter to help reactivate Windows 10:</span></span>
+<span data-ttu-id="921c7-103">Če ste v napravo naredili pomembno spremembo strojne opreme, kot je zamenjava matične plošče, sistem Windows morda ne bo več aktiviran.</span><span class="sxs-lookup"><span data-stu-id="921c7-103">If you made a significant hardware change to your device, such as replacing the motherboard, Windows might no longer be activated.</span></span> <span data-ttu-id="921c7-104">Uporabite orodje za odpravljanje težav z aktiviranjem, da pomagate znova aktivirati sistem Windows 10:</span><span class="sxs-lookup"><span data-stu-id="921c7-104">Try using the Activation troubleshooter to help reactivate Windows 10:</span></span>
 
-<span data-ttu-id="a8195-105">Pojdite na **Začni** > **Nastavitve** > **posodobitev & varnostno** > **aktivacijo**in nato izberite **Odpravljanje težav**.</span><span class="sxs-lookup"><span data-stu-id="a8195-105">Go to **Start** > **Settings** > **Update & security** > **Activation**, and then select **Troubleshoot**.</span></span> <span data-ttu-id="a8195-106">Za uporabo orodja za odpravljanje težav morate biti prijavljeni kot skrbnik.</span><span class="sxs-lookup"><span data-stu-id="a8195-106">You must be signed in as an administrator to use the troubleshooter.</span></span>
+<span data-ttu-id="921c7-105">Pojdite na možnost **Zaženi**  >  **Settings**  >  **posodobitve & varnostnega**  >  **aktiviranja**in nato izberite **Odpravljanje težav**.</span><span class="sxs-lookup"><span data-stu-id="921c7-105">Go to **Start** > **Settings** > **Update & security** > **Activation**, and then select **Troubleshoot**.</span></span> <span data-ttu-id="921c7-106">Če želite uporabiti orodje za odpravljanje težav, morate biti vpisani kot skrbnik.</span><span class="sxs-lookup"><span data-stu-id="921c7-106">You must be signed in as an administrator to use the troubleshooter.</span></span>
 
-<span data-ttu-id="a8195-107">**Opomba:** Če zagon orodja za odpravljanje težav ne pomaga ali ne vidite gumba za **Odpravljanje težav** , boste morali govoriti z osebo, da boste lahko aktivirali vaš izvod sistema Windows.</span><span class="sxs-lookup"><span data-stu-id="a8195-107">**Note:** If running the troubleshooter doesn’t help or you don’t see the **Troubleshoot** button, you’ll need to talk to a person to get help activating your copy of Windows.</span></span> <span data-ttu-id="a8195-108">(Kliknite **stik z nami** gumb v spodnjem levem kotu te aplikacije.)</span><span class="sxs-lookup"><span data-stu-id="a8195-108">(Click the **Contact us** button in the lower left corner of this app.)</span></span>
+<span data-ttu-id="921c7-107">**Opomba:** Če zaženete orodje za odpravljanje težav ali ne vidite gumba za **Odpravljanje težav** , se morate pogovoriti z osebo, da dobite pomoč pri aktiviranju kopije sistema Windows.</span><span class="sxs-lookup"><span data-stu-id="921c7-107">**Note:** If running the troubleshooter doesn’t help or you don’t see the **Troubleshoot** button, you’ll need to talk to a person to get help activating your copy of Windows.</span></span> <span data-ttu-id="921c7-108">(Kliknite gumb **stik z nami** v spodnjem levem kotu tega programa.)</span><span class="sxs-lookup"><span data-stu-id="921c7-108">(Click the **Contact us** button in the lower left corner of this app.)</span></span>
 
-[<span data-ttu-id="a8195-109">Preberite več o aktivaciji v sistemu Windows 10</span><span class="sxs-lookup"><span data-stu-id="a8195-109">Learn more about activation in Windows 10</span></span>](https://support.microsoft.com/help/12440/windows-10-activate)
+[<span data-ttu-id="921c7-109">Več informacij o aktiviranju v sistemu Windows 10</span><span class="sxs-lookup"><span data-stu-id="921c7-109">Learn more about activation in Windows 10</span></span>](https://support.microsoft.com/help/12440/windows-10-activate)
