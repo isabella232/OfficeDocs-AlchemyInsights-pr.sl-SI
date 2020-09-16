@@ -1,29 +1,30 @@
 ---
-title: 9000239 Outlook.com posredovanje
+title: 9000239 Outlook.com preusmeritev
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1824"
 - "9000239"
-ms.openlocfilehash: 076495158637543eebced2a11cfb0e8468626450
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 02e797f26e35a4da446921a3fcbdc3a7475f862c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581103"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751907"
 ---
 # <a name="forwarding-email-in-outlookcom"></a>Posredovanje e-pošte v Outlook.com
 
-Če želite posredovati eno sporočilo naenkrat:
+Če želite posredovati eno sporočilo hkrati:
 
 1. Na seznamu sporočil Izberite sporočilo, ki ga želite posredovati.
-2. V zgornjem kotu podokna za sporočila izberite puščico **naprej** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEDFxMthdQ+ZQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAArUlEQVQ4jWP8////fwYaACZaGDp4DH7//BXDT6ob/P4UQ13pUganedeJM/w/CeDHg4P/Y8P7/lvNvfb/BwG1JBlMiuEkG0ys4WQZTIzhZBtMyHCKDMZnOAssdVydNZNBZ9NnolMfBli3myFXWpphljsf6cmNFBcPvjCmSaqgSTqmSc6jTVnx4eT/nGjiDP3///9/xv//ia+a3j9/xcAlKcbAToRakgwmBdCsagIAC/hmjI0mmroAAAAASUVORK5CYII=' />
+2. V zgornjem kotu podokna s sporočilom izberite puščico **naprej** . <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEDFxMthdQ+ZQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAArUlEQVQ4jWP8////fwYaACZaGDp4DH7//BXDT6ob/P4UQ13pUganedeJM/w/CeDHg4P/Y8P7/lvNvfb/BwG1JBlMiuEkG0ys4WQZTIzhZBtMyHCKDMZnOAssdVydNZNBZ9NnolMfBli3myFXWpphljsf6cmNFBcPvjCmSaqgSTqmSc6jTVnx4eT/nGjiDP3///9/xv//ia+a3j9/xcAlKcbAToRakgwmBdCsagIAC/hmjI0mmroAAAAASUVORK5CYII=' />
 .
 3. Vnesite sporočilo in nato izberite **Pošlji**.
 

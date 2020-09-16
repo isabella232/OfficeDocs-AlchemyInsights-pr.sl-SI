@@ -5,49 +5,50 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001691"
 - "3768"
-ms.openlocfilehash: b4854944d8cbd9bd83fdea609007c15d39c8eb75
-ms.sourcegitcommit: c55eea624d960d2dd17ac4aa5a4c23e34e6443b8
+ms.openlocfilehash: e49faca66785c6611dda702a381c39cdb10884f8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/04/2020
-ms.locfileid: "42409229"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751151"
 ---
 # <a name="startup-settings-in-windows-10"></a>Nastavitve zagona v sistemu Windows 10
 
-**Spreminjanje aplikacij, ki se samodejno zaženejo ob zagonu**
+**Spreminjanje, kateri programi se zaženejo samodejno ob zagonu**
 
-1. Odprite [nastavitve > aplikacije > zagon](ms-settings:startupapps?activationSource=GetHelp).
+1. Pojdite v razdelek [nastavitve > aplikacije > zagon](ms-settings:startupapps?activationSource=GetHelp).
 
-2. Preverite, ali je aplikacija, ki jo želite zagnati ob zagonu, **vklopljena.**
+2. Preverite, ali je vklopljen kateri koli program, ki ga želite zagnati ob **zagonu.**
 
-**Dodajanje aplikacije za samodejno izvajanje ob zagonu**
+**Dodajanje programa za samodejno izvajanje ob zagonu**
 
-1. Kliknite ali tapnite **Začni** in poiščite aplikacijo, ki jo želite zagnati ob zagonu.
+1. Kliknite ali tapnite **Start** in poiščite aplikacijo, ki jo želite zagnati ob zagonu.
 
-2. Z desno miškino tipko kliknite aplikacijo, kliknite **več**in nato kliknite **Odpri mesto datoteke**. S tem se odpre mesto, kjer je shranjena Bližnjica do aplikacije. Če ni možnosti za odpiranje mesta datoteke, to pomeni, da se aplikacija ne more zagnati ob zagonu.
+2. Z desno tipko miške kliknite program, kliknite **več**in nato kliknite **Odpri mesto datoteke**. Odpre se mesto, kjer je shranjena Bližnjica do programa. Če ni možnosti za odpiranje mesta datoteke, to pomeni, da se aplikacija ne more zagnati ob zagonu.
 
-3. Ko je mesto datoteke odprto, pritisnite **tipko z logotipom Windows + R**, vnesite **Shell: zagon**in kliknite **v redu**. To odpre mapo Startup.
+3. Ko je mesto datoteke odprto, pritisnite **tipko z logotipom sistema Windows + R**, vnesite **Shell: zagon**in nato kliknite **v redu**. Odpre se zagonska mapa.
 
-4. Kopirajte in prilepite bližnjico do aplikacije iz mesta datoteke v mapo Startup.
+4. Kopirajte in prilepite bližnjico do programa iz mesta datoteke v zagonsko mapo.
 
-**Napredne možnosti zagona (vključno z varnim načinom, nastavitvami UEFI in zagonom iz druge naprave)**
+**Napredne možnosti zagona (vključno z varnim načinom, nastavitvami UEFI in zagon iz druge naprave)**
 
-1. Shranite svoje delo in zaprite vse odprte dokumente, saj bodo ti koraki znova zagnali računalnik.
+1. Shranite delo in zaprite vse odprte dokumente, ker bodo ti koraki znova zagnali računalnik.
 
-2. Odprite [nastavitve > posodobitev & varnost > Recovery](ms-settings:recovery?activationSource=GetHelp).
+2. Pojdite na [nastavitve > posodobitev & varnost > obnovitvijo](ms-settings:recovery?activationSource=GetHelp).
 
-3. Pod **naprednim zagonom**kliknite **znova Zaženi zdaj**. 
+3. V razdelku **napredni zagon**kliknite **znova Zaženi zdaj**. 
 
-4. Po vnovičnem zagonu računalnika na izberite zaslon z možnostmi:
+4. Ko se računalnik znova zažene na zaslonu izberite možnost:
 
-    - Če želite zagnati napravo, kot je pogon USB, kliknite **uporabi napravo**.
+    - Če želite zagnati iz naprave, kot je pogon USB, kliknite **uporabi napravo**.
 
-    - Če želite vnesti nastavitve UEFI (včasih imenovane nastavitve BIOS-a), kliknite **Odpravljanje težav > napredne možnosti > nastavitve vdelane programske opreme UEFI**. 
+    - Če želite vnesti nastavitve UEFI (včasih se imenuje nastavitev BIOS-a), kliknite **Odpravljanje težav > napredne možnosti > nastavitve vdelane programske opreme UEFI**. 
 
-    - Če želite vnesti varni način ali spremeniti napredne nastavitve zagona, kliknite **Odpravljanje težav > napredne možnosti > nastavitve zagona**, nato kliknite **vnovični zagon**. Morda boste morali vnesti [obnovitveni ključ za BitLocker](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key). Ko se računalnik znova zažene, kliknite nastavitev zagona, ki jo želite uporabiti.
+    - Če želite vnesti varni način ali spremeniti napredne nastavitve zagona, kliknite **Odpravljanje težav > dodatnih možnosti > nastavitve zagona**in nato **znova Zaženi**. Morda boste pozvani k vnosu [obnovitvenega ključa za BitLocker](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key). Ko se računalnik znova zažene, kliknite nastavitev zagona, ki jo želite uporabiti.
