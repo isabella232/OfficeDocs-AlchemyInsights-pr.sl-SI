@@ -1,28 +1,29 @@
 ---
-title: Zapiranje računa za namizni Analytics
+title: Kako zaprete račun za namizno analizo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771123"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725639"
 ---
-# <a name="working-with-desktop-analytics"></a>Delo z namiznim analitikom
+# <a name="working-with-desktop-analytics"></a>Delo z namizno analizo
 
-To pogled všeč biti vi ste asking približno pult Analytics. Morda bomo lahko pomagali z natančnejšo odgovor, če ste drugače vaše vprašanje.
+Videti je, da sprašujete o namizni analitiki. Morda vam bomo lahko pomagali pri natančnejšem odgovoru, če boste odgovorili svoje vprašanje.
 
 - [Kaj je namizna analitika?](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [Kako nastaviti namizno analitiko](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [Nastavitev namizne analitike](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
 - [Pogosta vprašanja](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [Odpravljanje težav z namiznim analitikom](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [Odpravljanje težav s storitvijo Desktop Analytics](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

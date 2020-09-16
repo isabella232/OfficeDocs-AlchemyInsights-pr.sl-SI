@@ -1,39 +1,40 @@
 ---
-title: Activation Issue-ne moremo povezati prav zdaj
+title: Težava z aktiviranjem – trenutno se ne moremo povezati
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 24fe9910d1715b4f5f7d8d06b1d1344d4b8675bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581891"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725999"
 ---
-# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Pritrjevanje Microsoft 365 apps "mi se ne more povezati zdaj" sporočilo
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>Popravljanje programa Microsoft 365 apps» trenutno se ne moremo povezati s sporočilom «
 
-Če prejmete to sporočilo, poskusite naslednje:
+Če prejmete to sporočilo, naredite to:
 
-1. Preverite požarni zid, protivirusno programsko opremo in nastavitve proxy, da potrdite, da ne blokira internetnega dostopa do Microsoftovih aplikacij za 365. Glejte [Microsoft URL-ji in obsegi naslovov IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. Preverite požarni zid, protivirusno programsko opremo in nastavitve strežnika proxy, da potrdite, da ne blokirajo internetnega dostopa do programov Microsoft 365. Oglejte si [Microsoftove URL-je in obsege naslovov IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. Iti k **začetek**  >  **prost dostop**, ter torej stavek **Services. msc**. Zagotovite, da se izvajajo naslednje storitve:
-    - Samodejna nastavitev omrežne priključene naprave
+2. Pojdite na **začetek**  >  **Zaženi**in vnesite **Services. msc**. Zagotovite, da se izvajajo te storitve:
+    - Samodejna nastavitev omrežnih naprav, povezanih z omrežjem
     - Storitev omrežnega seznama
-    - Omrežna lokacija zavedanje
+    - Poznavanje omrežnega mesta
     - Dnevnik dogodkov sistema Windows
 
-Če se ena od teh storitev ne izvaja, jo poskusite zagnati. Če vi življati a naloga odhod usluga, prost dostop sledeč zapoved z predrtina a zapoved uren s visok dovoljenje:
+Če se ena od teh storitev ne izvaja, jo poskusite zagnati. Če imate težave z zagonom storitve, zaženite ta ukaz tako, da odprete ukazni poziv s povišanimi dovoljenji:
 
 **SFC/scannow**
 
-Ko se ta ukaz dokonča, znova zaženite računalnik.
+Ko se ukaz konča, znova zaženite računalnik.
 
-Za podrobnejše informacije glejte [» žal ne moremo vzpostaviti povezave z vašim računom. Poskusite znova pozneje "napako, ko aktivirate Office iz Microsoft 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+Če želite podrobnejše informacije, glejte [» žal ne moremo vzpostaviti povezave z vašim računom. Ko aktivirate Office v storitvi Microsoft 365, poskusite znova» napaka «](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
