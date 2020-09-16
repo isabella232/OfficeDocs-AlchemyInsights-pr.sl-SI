@@ -6,32 +6,33 @@ manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: 1330164360445e9ac43a1c85e5bb01ebfda5a177
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: dd014f9e5f4a126720614a2d92df3cfbc223bb17
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582503"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735251"
 ---
-# <a name="unable-to-send-group-emails"></a>Skupinskih e-poštnih sporočil ni mogoče poslati
+# <a name="unable-to-send-group-emails"></a>E-poštnih sporočil skupine ni mogoče poslati
 
-Če ne morete poslati e-pošte na sezname stikov ali kontaktne skupine v Outlook.com, poskusite naslednje:
+Če ne morete poslati e-pošte na sezname stikov ali skupine stikov v Outlook.com, poskusite to:
   
 1. Uporabite Outlook.com beta. Če želite več informacij, [Preberite več o Outlook.com beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
     
-2. Če imate še vedno težave pri sestavljanju e-poštnega sporočila v skupino, pojdite na [osebe](https://outlook.live.com/people/), izberite seznam stikov ali skupino in nato izberite **Pošlji e-poštno sporočilo**.
+2. Če imate še vedno težave pri sestavljanju e-poštnega sporočila v skupino, pojdite na [osebe](https://outlook.live.com/people/), izberite seznam stikov ali skupino in nato izberite **Pošlji e-pošto**.
     
- **Opombe:**
+ **Opombe**
   
-1. Prepričajte se, da nimate blokiranih pojavnih oken: pošiljanje e-pošte s strani s seznamom stikov odpira novo okno.
+1. Preverite, ali nimate blokiranih pojavnih oken: pošiljanje e-pošte s strani s seznamom stikov odpre novo okno.
     
-2. Pošiljanje pošte s seznama stikov samodejno postavi seznam **v vrstico.** Če želite skriti podrobnosti seznama stikov, v zgornjem desnem kotu kliknite **BCC** , nato pa kopirajte in prilepite seznam stikov v **BCC** in **izbrišite vnos.** 
+2. Pošiljanje pošte s seznama stikov samodejno postavi seznam v vrstico» **za** «. Če želite skriti podrobnosti seznama stikov, kliknite **SKP** v zgornjem desnem kotu, nato kopirajte in prilepite seznam stikov v polje» **SKP** «in **izbrišite vnos.** 
     
-3. Čas using **BCC**, svoj ' dober vajenost v zmeraj življati nekaj v **v črta, na primer** vaš lasten "s" ogovor. 
+3. Ko uporabljate **SKP**, je dobra praksa, da je v vrstici» od «vedno na voljo nekaj **, na primer** naslov» od «. 
     
 
