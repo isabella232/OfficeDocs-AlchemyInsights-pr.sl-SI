@@ -1,35 +1,36 @@
 ---
-title: Nov urad 365 E1 poskus
+title: Nova preskusna različica sistema Office 365 E1
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001710"
 - "3789"
-ms.openlocfilehash: ad4af2c0cb1a4e2186df89bcfc35d0ea0de3bbb3
-ms.sourcegitcommit: fa4a92ddd5c8bb695441fe16f2ffa4562382f900
+ms.openlocfilehash: 76c7c64bce8149a4a4a981ec97776b897e51b862
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/07/2020
-ms.locfileid: "42559116"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769523"
 ---
-# <a name="new-office-365-e1-trial"></a>Nov urad 365 E1 poskus
+# <a name="new-office-365-e1-trial"></a>Nova preskusna različica sistema Office 365 E1
 
-Nov v marec 2020, a prost 6-mesec [urad 365 E1 poskus](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license), vštevši mikroskop skupina, je zdaj pri roki. Če želite izvedeti, kaj je na voljo z licenco E1, preberite [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software).
+Novo v marcu 2020 je zdaj na voljo brezplačen 6-mesečni [Office 365 E1 Trial](https://docs.microsoft.com/MicrosoftTeams/e1-trial-license), vključno s storitvijo Microsoft teams. Če želite izvedeti, kaj je na voljo z licenco E1, preberite [Office 365 E1](https://www.microsoft.com/microsoft-365/business/office-365-enterprise-e1-business-software).
 
-**Kdo je upravičen?**
+**Kdo je upravičen do tega?**
 
-Ta ponudba je namenjena strankam, ki jih upravlja Microsoftov račun rep. To je za organizacije, ki niso aktivirali nobenih drugih Office 365 E1 poskusov v preteklosti. Ko uporabite kodo E1 Trial promo, je ne morete več uporabljati, prav tako pa ne morete aktivirati druge preizkusne kode E1. V teh primerih lahko zaposleni vključite [licenco za raziskovalno ekipo](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
+Ta ponudba je namenjena strankam, ki jih upravlja Microsoftov račun. To je za organizacije, ki niso aktivirane nobenih drugih poskusov sistema Office 365 E1 v preteklosti. Ko uporabite kodo za preskusno različico E1, je ne morete več uporabljati, ne morete pa aktivirati druge preskusne kode E1. V teh primerih lahko zaposleni aktivirajo [raziskovalno licenco za Teams](https://docs.microsoft.com/MicrosoftTeams/teams-exploratory).
 
-**Kdo ni upravičen?**
+**Kdo ne izpolnjuje pogojev?**
 
-- Ta ponudba ni na voljo za stranke GCC, GCC High, DoD ali EDU. Delamo na GCC različico E1 Trial-bo kmalu na voljo.
+- Ta ponudba ni na voljo za stranke GCC, GCC High, DoD ali EDU. Pripravljamo različico programa GCC za obdobje E1 – to bo kmalu na voljo.
 
- - EDU kupci morajo uporabljati brezplačno Office 365 a1 licenco.
+ - Stranke EDU bi morale uporabljati brezplačno licenco za Office 365 a1.
 
-Ne zamudite vseh naših navodil za [podporo oddaljenih delavcev z Teams](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).
+Ne zamudite vse naše smernice za [podporo oddaljenih delavcev z Teams](https://docs.microsoft.com/MicrosoftTeams/support-remote-work-with-teams).

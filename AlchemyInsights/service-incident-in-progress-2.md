@@ -1,29 +1,30 @@
 ---
-title: Storni incident v teku
-ms.author: v-crytho
+title: Potek storitve v teku
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e63fd594-347a-4a07-8dbd-a7074d6398bf
 ms.custom:
 - "114"
 - "1600013"
-ms.openlocfilehash: 539ed1bdbfbea60124d8fe05885b00900a597e83
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: ab386dee925dcd942e8bfd8913cc04c3ebfa2393
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43681660"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767795"
 ---
-# <a name="service-incident-in-progress"></a>Storni incident v teku
+# <a name="service-incident-in-progress"></a>Potek storitve v teku
 
-Morda boste vplivali na storno nezgodo ali svetovalno storitev, ki se trenutno preiskuje. Najnovejše stanje lahko preverite tako, da greste na stran [zdravje storitve](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+Na vas morda vpliva storitev incident ali svetovalna služba, ki jo trenutno preiskujete. Najnovejšo stanje lahko preverite tako, da odprete stran z [zdravstvenimi storitvami](https://admin.microsoft.com/adminportal/home#/servicehealth) .
   
-Za vaše udobje, lahko najdete Povzetek tega incidenta spodaj:
+Če želite, lahko poiščete Povzetek tega incidenta:
   
-> **Številka incidenta:**[{incidentid}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **Številka incidenta:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> Opis učinka: {ImpactDescription}
+> Opis vpliva: {ImpactDescription}
