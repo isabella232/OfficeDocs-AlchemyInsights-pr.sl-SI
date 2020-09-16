@@ -1,23 +1,24 @@
 ---
-title: Priloge ni mogoče dodati obrazcu, ki je obrnjen navzven
+title: Ni mogoče dodati Priloge v obrazec, ki je navzven obrnjen
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003121"
 - "5901"
-ms.openlocfilehash: 80736dc1e6ee5e18dbec0ddb816fbf0e5f34c588
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 033363705cba1426339feda4eaf7441762fdaf93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44847100"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749422"
 ---
-# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Priloge ni mogoče dodati obrazcu, ki je obrnjen navzven
+# <a name="unable-to-add-an-attachment-to-an-externally-facing-form"></a>Ni mogoče dodati Priloge v obrazec, ki je navzven obrnjen
 
-Če poskušate dodati Prilogo zunanji raziskavi programa Microsoft Forms, ta funkcija še ni na voljo. Če želite slediti stanju zahteve za funkcijo, pojdite na [Ta vnos UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)in dodajte svoj glas.
+Če poskušate dodati Prilogo v zunanjo anketo Microsoft Forms, ta funkcija še ni na voljo. Če želite spremljati stanje zahteve za to funkcijo, pojdite na [Ta vnos v UserVoice](https://go.microsoft.com/fwlink/?linkid=2133069)in dodajte svoj glas.

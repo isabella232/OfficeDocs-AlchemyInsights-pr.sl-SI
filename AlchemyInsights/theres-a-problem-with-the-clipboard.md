@@ -1,29 +1,30 @@
 ---
-title: Obstaja problem z odložiščem
+title: Prišlo je do težave z odložiščem
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
-ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
+ms.openlocfilehash: b66f3bf4eb6b0354b7e30c89dc1b049cb0f5b8ec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44263893"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750287"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Reševanje Excelove napake v odložišču
+# <a name="resolving-excel-clipboard-error"></a>Odpravljanje napake v Excelovem odložišču
 
-Če se v Excelu prikaže napaka, ki pravi:» v odložišču je težava, vendar lahko še vedno prilepite vsebino v ta delovni zvezek, «poskusite onemogočiti funkcijo za predogled v živo, tako da sledite tem korakom:
+Če prejmete sporočilo o napaki v Excelu, ki pravi:» Prišlo je do težave z odložiščem, vendar lahko še vedno prilepite vsebino v ta delovni zvezek, «poskusite onemogočiti funkcijo predogleda v živo tako, da upoštevate ta navodila.
 
 1. V Excelu kliknite možnosti **datoteke**  >  **Options**.
-3. V pogovornem oknu **možnosti programa Excel** izberite **splošno**.
-4. Pod **Možnosti uporabniškega vmesnika**počistite možnost **Omogoči predogled v živo**.
+3. V pogovornem oknu **Excelove možnosti** izberite **splošno**.
+4. V razdelku **Možnosti uporabniškega vmesnika**počistite polje **Omogoči predogled v živo**.
 5. Kliknite **V redu**.
 6. Znova zaženite Excel.

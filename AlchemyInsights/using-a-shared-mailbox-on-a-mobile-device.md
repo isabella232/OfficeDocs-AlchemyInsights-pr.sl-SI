@@ -1,11 +1,12 @@
 ---
-title: 1800014 uporaba nabiralnika v skupni rabi v mobilni napravi
+title: 1800014 uporaba nabiralnika v skupni rabi v prenosni napravi
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -15,16 +16,16 @@ ms.custom:
 - "1800014"
 - "3500003"
 ms.assetid: 27d1c658-af62-4442-864c-ab6c6afa19bf
-ms.openlocfilehash: 964c051bdaeda01620d1ddc6bd7ec3c8b64ae444
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8e54307e4a91fcfae1729c968b05df9d4da6ee9f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721015"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47749134"
 ---
-# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Uporaba nabiralnika v skupni rabi v mobilni napravi
+# <a name="using-a-shared-mailbox-on-a-mobile-device"></a>Uporaba nabiralnika v skupni rabi v prenosni napravi
 
-Če želite uporabljati nabiralnik v skupni rabi v mobilni napravi, [Prenesite Outlook Mobile](https://products.office.com/outlook-mobile-for-android-and-ios) in nato [dodajte nabiralnik v skupni rabi v Outlook Mobile](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).
+Če želite v prenosni napravi uporabljati nabiralnik v skupni rabi, [Prenesite Outlook Mobile](https://products.office.com/outlook-mobile-for-android-and-ios) in nato [dodajte nabiralnik v skupni rabi v Outlook Mobile](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f).
   
-Če želite dobiti pomoč: [pridobite pomoč v aplikaciji za Outlook za iOS in Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+Iskanje pomoči: [pomoč za aplikacijo Outlook za iOS in Android](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
