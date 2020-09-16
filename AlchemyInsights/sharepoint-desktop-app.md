@@ -4,19 +4,20 @@ ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 82dcee94-656f-4ec8-a9b2-730adb564c06
-ms.openlocfilehash: 9c7d5eb8a6b0e86736dcae3be950d512e58f067c
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 548f1f5b834d84a41fe6f5befc4c9e9630aa9d91
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40044179"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800876"
 ---
 # <a name="desktop-app-for-sharepoint"></a>Namizna aplikacija za SharePoint
 
-Vaša organizacija je vpisana v program zasebnega predogleda za namizno aplikacijo za SharePoint.
+Vaša organizacija je vnesena v zasebni program za predogled namizne aplikacije za SharePoint.
 
-Microsoft trenutno ne podpira namizne aplikacije za SharePoint (zaseben predogled). Če želite dobiti pomoč z namizno aplikacijo za SharePoint, uporabite partnerje, ki so včlaniti Microsoft Private preview.
+Microsoft trenutno ne podpira namizne aplikacije za SharePoint (zasebni predogled). Če želite pridobiti pomoč v namizni aplikaciji SharePoint, uporabite svoje partnerje za Microsoft Private preview.
 

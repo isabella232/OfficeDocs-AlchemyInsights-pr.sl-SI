@@ -6,25 +6,26 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2380"
 - "9000544"
-ms.openlocfilehash: 164da9375951c6a1a193b2026272fa211cc38f50
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: deb5394cc0b88f061ae908c40e127d9aa087d077
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760428"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47752087"
 ---
-# <a name="delay-or-schedule-sending-email-messages"></a>Zakasnitev ali razpored pošiljanja e-poštnih sporočil
+# <a name="delay-or-schedule-sending-email-messages"></a>Zakasnitev ali načrtovanje pošiljanja e-poštnih sporočil
 
-Žal ne morete odložiti ali razporediti pošiljanja e-poštnih sporočil v mobilno aplikacijo ali spletni brskalnik. To storite tako, da uporabite [Outlook za Windows ali Outlook za Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
+Žal ne morete odložiti ali načrtovati pošiljanja e-poštnih sporočil v mobilnem programu ali spletnem brskalniku. To naredite tako, da uporabite [Outlook za Windows ali Outlook za Mac](https://products.office.com/outlook/email-and-calendar-software-microsoft-outlook).
 
 **Razveljavi pošiljanje**
 
-Nastavitve Outlook.com lahko spremenite tako, da zamujate pošiljanje sporočila za največ 10 sekund. V tem obdobju lahko prekličete pošiljanje sporočila. Če želite vklopiti to funkcijo, odprite nastavitve za [razveljavitev pošiljanja](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
+Nastavitve Outlook.com lahko spremenite tako, da zadržite pošiljanje sporočila do 10 sekund. Sporočilo lahko prekličete v tem obdobju. Če želite vklopiti to funkcijo, odprite možnost [Razveljavi nastavitve pošiljanja](https://outlook.live.com/mail/options/mail/messageContent/undoSend) .
 
-Preberite več o [opozarjanju na e-pošto v Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).
+Več informacij o [preklicu e-pošte v](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy)storitvi Outlook.com.

@@ -1,37 +1,38 @@
 ---
-title: Preusmeritev storitve OneDrive za podjetja web OneDrive v Delve
+title: OneDrive za podjetja web OneDrive preusmeritev v Rupčaga
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: cbf3db148e16ba6631e9077f893a18d3e1b977af
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: faa2cf25270a3b74a12aeb63d23ce98b51e13cb6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722826"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47776396"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>Preusmerjeni na Delve, ko kliknete OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>Preusmerjeni na Rupčaga, ko kliknete OneDrive
 
-Oglejte si naš podroben [vodnik za odpravljanje težav](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
+Oglejte si podrobna [navodila za odpravljanje težav](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning).
 
-Če želite odpraviti to težavo, mora skrbnik dodeliti uporabnikom pravico, da ustvarijo svoje spletno mesto moje strani. To je zato, ker je stran OneDrive za podjetja ustvarjena na spletnih mestih.
+Če želite odpraviti to težavo, mora skrbnik dodeliti uporabnikom možnost, da ustvarijo svoje mesto mojih mest. To je zato, ker je na spletnih mestih ustvarjena stran OneDrive za podjetja.
 
-Če želite odobriti to pravico, upoštevajte ta navodila:
+Če želite podeliti to desno, upoštevajte ta navodila:
 
-1. V skrbniškem središču SharePoint kliknite **uporabniški profili**.
+1. V skrbniškem središču za SharePoint kliknite **uporabniški profili**.
 
-2. V odseku **ljudje** kliknite **upravljanje uporabniških dovoljenj**.
+2. V razdelku **ljudje** kliknite **upravljanje uporabniških dovoljenj**.
 
-3. Dodajte uporabnike, ki potrebujejo dovoljenja za ustvarjanje mesta moje strani. Privzeto je ta nastavitev nastavljena na vse, **razen zunanjih uporabnikov**.
+3. Dodajte uporabnike, ki potrebujejo dovoljenja za ustvarjanje spletnega mesta» moje mesto «. Ta nastavitev je privzeto nastavljena **vsem, razen zunanjim uporabnikom**.
 
-4. Ko dodate uporabnika, uporabnike ali skupino, se prepričajte, da je izbran uporabnik, uporabnik ali skupina izbrana, se pomaknite na razdelek **dovoljenja** in potrdite potrditveno polje poleg možnosti **Ustvari osebno mesto (zahtevano za osebno shranjevanje, vir novic in spremljan vsebinski vsebini)**.
+4. Ko dodate uporabnika, uporabnike ali skupino, se prepričajte, da je bil dodan dodani uporabnik, uporabniki ali skupina, se pomaknite do razdelka **dovoljenja** in nato potrdite polje ob možnosti **Ustvari osebno mesto (zahtevano za osebno shrambo, vir novic in spremljana vsebina)**.
 
-5. Kliknite **v redu**, nato pa naj uporabnik preišče stran za OneDrive, da ustvari spletno mesto.
+5. Kliknite **v redu**, nato pa naj se uporabnik pomika na stran OneDrive, da ustvari mesto.
