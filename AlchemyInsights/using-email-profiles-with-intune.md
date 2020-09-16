@@ -1,42 +1,43 @@
 ---
-title: Uporaba e-poštnih profilov s storitvijo Intune
+title: Uporaba e-poštnih profilov s funkcijo InTune
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/28/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1559"
 - "9000076"
-ms.openlocfilehash: 5aae83a0ab26c2bd59fddd2ad64d1c461d29f0f7
-ms.sourcegitcommit: 0e50dfcdb3f6aa72368279e23b83efecb9dc9c3f
+ms.openlocfilehash: 92d91de5d369eb9d0ffde2580b75376035a6945b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46555761"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653304"
 ---
-# <a name="using-email-profiles-with-intune"></a>Uporaba e-poštnih profilov s storitvijo Intune
+# <a name="using-email-profiles-with-intune"></a>Uporaba e-poštnih profilov s funkcijo InTune
 
-Intune se lahko uporablja za ustvarjanje in uvajanje e-poštnih profilov za izvornega (vgrajenega) e-poštnega odjemalca na več platformah naprav.
+InTune lahko uporabite za ustvarjanje in uvajanje e-poštnih profilov za native (vgrajen) e-poštni odjemalec na več platformah naprav.
 
-Če želite več informacij o nekaterih omejitvah, povezanih z e-poštnimi profili, vključno s tem, kako se obravnava prisotnost obstoječih profilov in kako [odstraniti e-poštne profile, glejte Dodajanje e-poštnih nastavitev napravam s storitvijo Intune](https://docs.microsoft.com/intune/email-settings-configure).
+Če želite več informacij o nekaterih omejitvah, povezanih z e-poštnimi profili, vključno s tem, kako ravnati s prisotnostjo obstoječih profilov in kako odstraniti e-poštne profile, glejte [Dodajanje nastavitev e-pošte v naprave s funkcijo InTune](https://docs.microsoft.com/intune/email-settings-configure).
 
-Če želite več informacij o ustvarjanju e-poštnih profilov za vsako platformo naprave, glejte:
+Če želite več informacij o tem, kako ustvarite profile e-pošte za vsako platformo naprave, glejte:
 
-[Nastavitve naprave Android za konfiguracijo e-pošte, preverjanja pristnosti in sinhronizacije v intunu](https://docs.microsoft.com/intune/email-settings-android)  
-[Dodajanje nastavitev e-pošte za naprave s sistemom iOS in iPadOS v storitvi Microsoft Intune](https://docs.microsoft.com/intune/email-settings-ios)  
-[Nastavitve e-poštnega profila v storitvi Microsoft Intune za naprave s sistemom Windows Phone 8.1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
-[Nastavitve e-poštnega profila za naprave s sistemom Windows 10 v storitvi Microsoft Intune](https://docs.microsoft.com/intune/email-settings-windows-10)
+[Nastavitve naprave s sistemom Android za konfiguriranje e-pošte, preverjanja pristnosti in sinhronizacije v programu InTune](https://docs.microsoft.com/intune/email-settings-android)  
+[Dodajanje nastavitev e-pošte za naprave s sistemom iOS in iPadOS v programu Microsoft InTune](https://docs.microsoft.com/intune/email-settings-ios)  
+[Nastavitve e-poštnega profila v Microsoft InTune za naprave s sistemom Windows Phone 8,1](https://docs.microsoft.com/intune/email-settings-windows-phone-8-1)  
+[Nastavitve e-poštnega profila za naprave s sistemom Windows 10 v programu Microsoft InTune](https://docs.microsoft.com/intune/email-settings-windows-10)
 
 **Pogosta težava pri sinhronizaciji**
 
-**Knox v e-poštnem profilu za Android preprečuje sinhronizacijo uporabniških stikov, koledarja in opravil z uporabniškimi napravami.**
+**KNOX v e-poštnem profilu s sistemom Android preprečuje, da bi bile uporabniške stike, koledar in opravila sinhronizirane z uporabniškimi napravami.**
 
-Knox na Android Knox e-poštni profil ponuja admin možnost, da se odločijo, katere vrste vsebine so sync'd z napravo z nastavitvijo vsak omogočen.
+V oknu KNOX v telefonu s sistemom Android KNOX se lahko odločite, katere vrste vsebine bodo sinhronizirane z napravo, in sicer tako, da nastavite vsako možnost.
 
-Če je nastavitev za katero koli od vrst vsebine **nastavljena na Ni konfigurirano** (privzeto), se ta vrsta vsebine ne sinhronizira samodejno. Uporabnik lahko omogoči vrsto vsebine, ki jo želijo, neposredno v napravi ročno, vendar je ta konfiguracija prepisana z nastavitvijo pravilnika Intune, sinhronizacija pa se ustavi za to vrsto vsebine.
+Če je nastavitev za katero koli vrsto vsebine nastavljena na **ni konfigurirana** (privzeta), ta vrsta vsebine ni samodejno sinhronizirana. Uporabnik lahko želeno vrsto vsebine omogoči neposredno v napravi ročno, vendar je ta konfiguracija prepisana s nastavitev pravilnika InTune, sinhronizacije pa se ustavi za to vrsto vsebine.
 

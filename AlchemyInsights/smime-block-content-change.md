@@ -1,25 +1,26 @@
 ---
-title: SMIME blok spremeni vsebino
+title: Sprememba vsebine SMIME
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1275"
 - "1800028"
-ms.openlocfilehash: 8060dcb58cfb11592a0e367fcb71a23861fbc2a7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f337e48f12e3900bcf5ed37a1905835c096ecb33
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712762"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770279"
 ---
-# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook bo zdaj privzeti blok zunanje vsebine v S/MIME
+# <a name="outlook-will-now-default-block-external-content-in-smime"></a>Outlook bo zdaj privzeto blokiral zunanjo vsebino v S/MIME
 
-Uvajamo dodatne varnostne ukrepe v programu Outlook za Windows tako, da blokirajo zunanje vsebine v S/MIME šifriranih in podpisanih sporočil privzeto in preprečevanje preglasitve na osnovi sporočila.
+Uvajamo dodane varnostne ukrepe v Outlooku za Windows tako, da privzeto blokiramo zunanjo vsebino v šifriranih in podpisanih sporočilih in preprečite preglasitev na osnovi sporočil.
 
-Za vse podrobnosti si oglejte [Outlook za Windows blokira zunanje vsebine v sporočilih S/MIME](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e).
+Če želite podrobnejše informacije, glejte [Outlook za Windows blokira zunanjo vsebino v sporočilih S/MIME](https://support.office.com/article/2d3a4af1-fe41-475f-a888-fc7b997d112e).
