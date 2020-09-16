@@ -6,22 +6,23 @@ manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6142"
 - "9003098"
-ms.openlocfilehash: 3674ecfca87525cf062a1e4d7397205ec6bd050a
-ms.sourcegitcommit: 9d1d2f0aa59256bec426f4fccea75df30261f6d0
+ms.openlocfilehash: 75e755bf35f4ee969159d3488d4daf04d524c464
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46556202"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669876"
 ---
 # <a name="teams-assignments"></a>Dodelitve ekip
 
-Naloge so naloge ali enote dela, dodeljene študentu ali članu ekipe v razredu kot del njihovega študija. V razredu Teams lahko ustvarite dodelitve.
+Dodelitve so opravila ali enote dela, dodeljene študentu ali članu skupine v razredu kot del svoje študije. Naloge lahko ustvarite v razredu ekip.
 
-- Če želite izvedeti več o dodelitvah, [glejte Dodelitve za Microsoft Teams](https://support.microsoft.com/en-us/office/microsoft-teams-5aa4431a-8a3c-4aa5-87a6-b6401abea114#ID0EAABAAA=Assignments).
-- Če želite izvedeti več o upravljanju funkcij dodelitev v skrbniškem središču za Microsoft Teams, [glejte Dodelitve v skupinah za izobraževanje](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams).
+- Če želite izvedeti več o dodelitvah, glejte [dodelitve Microsoft Teams](https://support.microsoft.com/en-us/office/microsoft-teams-5aa4431a-8a3c-4aa5-87a6-b6401abea114#ID0EAABAAA=Assignments).
+- Če želite izvedeti več o upravljanju funkcij dodelitev v skrbniškem središču za Microsoft Teams, si oglejte [naloge v aplikaciji Teams za izobraževanje](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/assignments-in-teams).

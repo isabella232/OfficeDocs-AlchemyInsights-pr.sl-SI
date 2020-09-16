@@ -5,30 +5,31 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5731"
-ms.openlocfilehash: 4a66a419535de7c91c166ece94d62cce507f39e2
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 02fb52dbfa8fa47d04a317601fc7a7b1402836bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440309"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669191"
 ---
 # <a name="unable-to-download-files"></a>Datotek ni mogoče prenesti
 
-- Za prenose veljajo te omejitve: Omejitev velikosti posamezne datoteke: 10GB; skupna omejitev velikosti zip datoteke: 20GB; skupno število omejitev datotek: 10.000; omejitev velikosti mape: 200 datotek.
-- Datotek ali map, ki vsebujejo hashtag (#) v datoteki ali mapi, ni mogoče dodati datotekam .zip.  
+- Za prenose veljajo te omejitve: posamezne omejitve velikosti datoteke: 10GB; Skupna omejitev velikosti datoteke ZIP: 20GB; skupno število omejitev datotek: 10.000; omejitev velikosti mape: datoteke 200.
+- Datotek ali map, ki vsebujejo hashtag (#) v datoteki ali imenu mape, ni mogoče dodati v datoteke. zip.  
     
-- OneNotovih zvezkov ni mogoče prenesti. Če prenesete mapo, ki vsebuje OneNotov zvezek, datoteka .zip vsebuje sporočilo o napaki v obliki datoteke .txt.  
+- Zvezkov programa OneNote ni mogoče prenesti. Če prenesete mapo, v kateri je zvezek programa OneNote, datoteka. zip vsebuje sporočilo o napaki v obliki datoteke. txt.  
     
-- Datotek ni mogoče prenesti neposredno iz pogleda **v skupni** rabi. Odprite datoteko in shranite kopijo na mesto po vaši izbiri.  
+- Datotek ne morete prenesti neposredno iz pogleda **v skupni rabi**  . Odprite datoteko in shranite kopijo na mesto po vaši izbiri.  
     
-- V storitvi OneDrive za podjetja ne morete uporabljati Internet Explorerja za prenos map ali več datotek. Z brskalnikom Microsoft Edge ali Google Chromom lahko prenesete mape ali več datotek.  
+- V OneDrive za podjetja ne morete uporabljati Internet Explorerja za prenos map ali več datotek. Če želite prenesti mape ali več datotek, uporabite Microsoft Edge ali Google Chrome.  
     
-- Gumb **»Prenos«** včasih izgine, če med ogledom mape osvežite spletno stran. Če se želite temu domisli, se lahko v imeniku map pomaknete za eno raven in se vrnete, ali pa ta zavihek zaprete v brskalniku in se znova pomaknite do mape.  
+- Gumb za **prenos** včasih izgine, če osvežite spletno stran med ogledovanjem mape. Če se želite izogniti temu, lahko v imeniku mape premaknete eno raven in se vrnete ali zaprete zavihek v brskalniku in znova krmarite do mape.  
     
-Če želite več informacij, [glejte Prenos datotek in map iz storitve OneDrive ali SharePointa](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).
+Če želite več informacij, glejte [prenos datotek in map iz OneDrive ali SharePointa](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).

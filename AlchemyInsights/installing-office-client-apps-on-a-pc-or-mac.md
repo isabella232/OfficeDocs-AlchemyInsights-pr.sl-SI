@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 6084b3b48b262b36dbab8d5924e271ad98678793
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790023"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667858"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>Nameščanje Officeovih odjemalskih aplikacij v računalnik s sistemom Windows ali računalnik MAC
 
@@ -24,9 +25,9 @@ ms.locfileid: "43790023"
 
 **Opomba**: [Office Home and Business](https://products.office.com/home-and-business) je izdelek [Office za domačo uporabo](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) in ni vključen v poslovno naročnino. Project Online Essentials ne vključuje namizne različice Projecta, zato ga ni treba namestiti. Uporabniki Visio (paket 1) lahko dostopajo do Visia za splet, saj paket ne vsebuje namizne aplikacije za Visio. Namizni aplikaciji za Project in Visio nista na voljo za računalnike Mac.
 
-Če imate sklenjeno naročnino, ki vključuje Officeove aplikacije, možnost za namestitev aplikacij ne bo prikazana, razen če ste vam je bila [dodeljena licenca](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Če ste skrbnik storitve Office 365, odgovoren za dodeljevanje licenc, glejte [Dodeljevanje licenc uporabnikom](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Poleg tega z [nastavitvami prenosa Officeove programske opreme](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) določite, ali lahko uporabniki namestijo Officeove aplikacije v svoje naprave.
+Če imate naročnino, ki vključuje aplikacije Microsoft 365, ne boste videli možnosti, da jo namestite, razen če imate [dodeljeno licenco](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Če ste skrbnik storitve Office 365, odgovoren za dodeljevanje licenc, glejte [Dodeljevanje licenc uporabnikom](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). Poleg tega z [nastavitvami prenosa Officeove programske opreme](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) določite, ali lahko uporabniki namestijo Officeove aplikacije v svoje naprave.
 
-**Opomba**: V [poročilu o aktiviranju Officea](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) si lahko ogledate, kateri uporabniki so namestili in aktivirali Officeove aplikacije v vsaj eni napravi.
+**Opomba**: [poročilo o aktivaciji Officea](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) omogoča, da si ogledate, kateri uporabniki so namestili in aktivirali svoje aplikacije Microsoft 365 na vsaj eni napravi.
 
 Potem naj vsak uporabnik naredi to:
 
