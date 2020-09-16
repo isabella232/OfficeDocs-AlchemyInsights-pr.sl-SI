@@ -1,30 +1,31 @@
 ---
-title: Odpravljanje težav s funkcijo Office 365 napredno zaščito pred grožnjami (ATP)
+title: Odpravljanje težav z naprednim varovanjem pred grožnjo sistema Office 365 (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4164781a331ec919811332e94636449e9d88430d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511128"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758081"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Odpravljanje težav z Office 365 ATP
+# <a name="troubleshoot-issues-with-office-365-atp"></a>Odpravljanje težav s sistemom Office 365 ATP
 
-- **Obvestilo zamude pri dostavi e-poštnega sporočila**? Uporabite možnost dinamična dostava za pravilnike o varnih prilogah ATP. S tem se izognete zamudam pri dostavi e-poštnega sporočila, hkrati pa zaščitite prejemnike pred zlonamernimi datotekami.
-- **Ali želite prijaviti lažne pozitivne ali lažne negativce**? Uporabite to povezavo, da pošljete svojo datoteko za analizo:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Ali ste vedeli, da lahko omogočite zaščito ATP Safe Links za e-pošto, poslano med ljudmi v vaši organizaciji**? Upoštevajte te korake:
-    1. Pojdi https://protection.office.com in se prijavi.
-    2. Pojdite na **Threat management**  >  **Policy**  >  **varne povezave**politike obvladovanja groženj.
+- Ali ste **opazili zamude pri dostavi e-poštnega sporočila**? Uporabite možnost dinamične dostave za pravilnike o varnih prilogah za ATP. S tem se izognete zakasnitvam dostave e-poštnih sporočil, medtem ko ščitite prejemnike pred zlonamernimi datotekami.
+- **Ali želite prijaviti lažne pozitivne ali lažne negativne**izraze? Uporabite to povezavo, če želite poslati datoteko za analizo: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **Ali ste vedeli, da lahko omogočite zaščito varne povezave s storitvijo ATP za e-pošto, poslano med osebami v vaši organizaciji**? Upoštevajte te korake:
+    1. Pojdite na https://protection.office.com in se vpišite.
+    2. Pojdite na **Threat management**  >  **Policy**  >  **varna povezava**pravilnika za upravljanje groženj.
     3. V razdelku **pravilniki, ki veljajo za določene prejemnike**, uredite (ali dodajte) pravilnik.
     4. Izberite **uporabi varne povezave do sporočil, poslanih v organizaciji**.
-    5. Shranite pravilnik in pustite približno 30 minut, da spremembe delujejo na poti skozi podatkovno središče.
-- Če želite več pomoči za ATP, glejte [Office 365 napredno zaščito pred grožnjami](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+    5. Shranite pravilnik in počakajte približno 30 minut, da bodo spremembe delovale v podatkovnem središču.
+- Če želite pridobiti več pomoči za ATP, glejte [zaščita pred naprednimi grožnjami sistema Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).

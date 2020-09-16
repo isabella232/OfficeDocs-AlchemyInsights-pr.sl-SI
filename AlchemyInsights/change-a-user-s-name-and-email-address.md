@@ -1,10 +1,11 @@
 ---
-title: Spreminjanje uporabnikovega imena in e-poštnega naslova
+title: Spreminjanje uporabniškega imena in e-poštnega naslova
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,17 +13,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: c918567be57fa16317f3a0f516510ecea772bb67
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3ef63bd59683eed105b8391188b8c8bbd99ed984
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508140"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756947"
 ---
-# <a name="change-a-users-name-and-email-address"></a>Spreminjanje uporabnikovega imena in e-poštnega naslova
+# <a name="change-a-users-name-and-email-address"></a>Spreminjanje uporabniškega imena in e-poštnega naslova
 
-Spreminjanje uporabnikovega imena in e-poštnega naslova v Microsoft 365 je enostavno. Pojdite na stran **Uporabniki** \> [aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) in izberite uporabnika, da uredite svoje podatke. Ta članek lahko uporabite tudi za navodila po korakih:
+Spreminjanje uporabniškega imena in e-poštnega naslova v storitvi Microsoft 365 je preprosto. Pojdite na stran **Uporabniki** \> [aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) in izberite uporabnika, da uredite svoje podatke. Ta članek lahko uporabite tudi za navodila po korakih:
   
-[Spreminjanje uporabniškega imena in e-poštnega naslova v Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
+[Spreminjanje uporabniškega imena in e-poštnega naslova v storitvi Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
- **Opomba**: Če spremenite uporabnikov glavni e-poštni naslov, bo njihov stari e-poštni naslov še vedno veljaven za prejemanje e-pošte (to se zgodi samodejno). Tudi če je vaša organizacija v hibridnem stanju, je treba vse spremembe e-pošte in uporabniškega imena izvesti v krajevnem imeniku Active Directory in nato sinhronizirati z oblakom.
+ **Opomba**: Če spremenite glavni e-poštni naslov uporabnika, bo njihov star e-poštni naslov še vedno veljaven za prejemanje e-pošte (to se zgodi samodejno). Če je vaša organizacija v hibridnem stanju, je treba vse spremembe e-pošte in uporabniškega imena izvesti v imeniku Active Directory na mestu uporabe in nato sinhronizirati z oblakom.

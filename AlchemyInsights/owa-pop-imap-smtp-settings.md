@@ -6,26 +6,27 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d106e02fbb7e67de707679bc226868b600c4f534
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: a3f717754a5ebe5c73624553521241d57b38a7da
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43721151"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47759199"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>Nastavitve protokola POP, IMAP & SMTP za Outlook v spletu
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP, IMAP & nastavitve SMTP za Outlook v spletu
 
-Če želite dodati svoj račun za Microsoft 365 v drugo poštno aplikacijo, ki podpira POP, IMAP ali SMTP, so tukaj nastavitve ročnega strežnika, ki jih potrebujete:
+Če želite dodati račun za Microsoft 365 v drug e-poštni program, ki podpira POP, IMAP ali SMTP, so tukaj navedene ročne nastavitve strežnika, ki jih potrebujete:
   
 - **Ime strežnika IMAP:** Outlook.office365.com
 - **Vrata IMAP:** 993
-- **Metoda šifriranja IMAP:** SSL/TLS
-- **Ime pop strežnika:** Outlook.office365.com  
-- **Pop vrata:** 995  
-- **Metoda šifriranja pop:** SSL/TLS  
+- **Način šifriranja IMAP:** SSL/TLS
+- **Ime strežnika POP:** Outlook.office365.com  
+- **Vrata pop:** 995  
+- **Način šifriranja pop:** SSL/TLS  
 - **Ime strežnika SMTP:** SMTP.office365.com
 - **Vrata SMTP:** 587
-- **Metoda šifriranja SMTP:** STARTTLS
+- **Način šifriranja SMTP:** STARTTLS
