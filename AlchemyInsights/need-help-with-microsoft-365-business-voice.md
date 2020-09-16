@@ -1,25 +1,26 @@
 ---
-title: Potrebujete pomoč pri Microsoftu 365 Business Premium Voice?
+title: Potrebujete pomoč za glasovni glas za Microsoft 365 Business Premium?
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: c9bcc02a31fc9afccee46839af3665d2bdaac0cf
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8ebede67f5414234553968b0a275d984f87800b8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761974"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754607"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Potrebujete pomoč pri Microsoftu 365 Business Premium Voice?
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>Potrebujete pomoč za glasovni glas za Microsoft 365 Business Premium?
 
-Mikroskop 365 posel nagrada izgovoriti pomožen to neprisiljen zakaj tesen ter sreden društvo vrteti mikroskop skupina v a silen ter upogljiv telefon sistem. Če želite več informacij o programu Business Voice, glejte [Kaj je Microsoft 365 Business Premium Voice?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Business Premium Voice omogoča lažjo in srednje veliko organizacijo, da Microsoft Teams pretvori v zmogljiv in prilagodljiv telefonski sistem. Če želite več informacij o poslovnem glasu, glejte [Kaj je glas za Microsoft 365 Business Premium?](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-Če ste že pridobili Microsoft 365 Business Premium Voice, vam čarovnik za uvod lahko pomaga pri [pridobivanju](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) stvari. 
+Če ste že pridobili glas za Microsoft 365 Business Premium, vam lahko [Čarovnik za začetek](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) pomaga pri pridobivanju stvari. 

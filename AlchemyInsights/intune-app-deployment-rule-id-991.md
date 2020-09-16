@@ -1,32 +1,33 @@
 ---
-title: Nastavi ID pravila uvajanja aplikacije 991
+title: Nastavitev ID-ja pravila za uvajanje programa 991
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 90e8b8f2d66046f1e74d051343d8dded9d5c8f95
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714022"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755183"
 ---
-# <a name="intune-app-deployment"></a>InTune uvajanje aplikacij
+# <a name="intune-app-deployment"></a>Uvajanje programa InTune
 
-Uvajanje aplikacij z InTune je proces treh korakov:
+Uvajanje programov s programom InTune je postopek v treh korakih:
   
-1. **Dodajanje aplikacije** -dodate lahko aplikacijo trgovina App Store ali naložite aplikacijo line of Business.
+1. Če **dodate aplikacijo** , lahko dodate program za shranjevanje aplikacij ali prenesete vrstico za podjetja.
 
-2. **Dodeljevanje aplikacije** -določi obseg uporabe aplikacije.
+2. **Dodeljevanje** aplikacije – določanje obsega uvedbe aplikacije.
 
-3. **Aplikacije za spremljanje** -Oglejte si stanje namestitve aplikacij, seznam odkritih aplikacij in upravljanje aplikacij, kupljenih v trgovinah z aplikacijami.
+3. **Spremljanje programov** – Oglejte si stanje namestitve programov, seznam odkritih programov in upravljanje programov, kupljenih iz trgovin aplikacije.
 
-Preberite, [Kaj je InTune app Management](https://docs.microsoft.com/intune/app-management) za walkthroughs in informacije o konfiguraciji in zaščito aplikacij.
+Preberite, [Kaj je InTune upravljanje](https://docs.microsoft.com/intune/app-management) programov za walkthroughs in informacije o konfiguriranju in zaščiti aplikacij.
   
