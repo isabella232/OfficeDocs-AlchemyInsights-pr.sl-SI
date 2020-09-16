@@ -1,32 +1,33 @@
 ---
-title: Fix 0x8004de40 napaka v storitvi OneDrive
+title: Odpravljanje napake v 0x8004de40 v OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 5da4271f242597b195ef61d553fd4a2ffb313025
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b9bd6dff48f78063e3d47f5fe2f834f59eb9868a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716044"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47745146"
 ---
-# <a name="fix-0x8004de40-error-in-onedrive"></a>Fix 0x8004de40 napaka v storitvi OneDrive
+# <a name="fix-0x8004de40-error-in-onedrive"></a>Odpravljanje napake v 0x8004de40 v OneDrive
 
-Če prejmete napako 0x8004de40 s storitvijo OneDrive:
+Če prejmete sporočilo o napaki 0x8004de40 z OneDrive:
 
-- Znova zaženite prizadeti računalnik, medtem ko ste povezani z domeno Acitve Directory.
-- Če vnovični zagon ne popravi težave, se Razdruži in znova pridruži napravi iz Azure AD. 
+- Znova zaženite prizadeti računalnik, medtem ko imate vzpostavljeno povezavo z domeno imenika Acitve.
+- Če vnovični zagon ne odpravi težave, se obrnite na napravo in se znova pridružite napravi iz storitve Azure AD. 
 
-**Opomba**: med izvajanjem teh korakov morate biti v omrežju podjetja. Ne izvajajte teh korakov, ko se ne morete povezati z infrastrukturo podjetja (na primer med potovanjem). 
+**Opomba**: med izvajanjem teh korakov morate biti v omrežju podjetja. Ne izvajajte teh korakov, če ne morete vzpostaviti povezave z infrastrukturo podjetja (na primer med potovanjem). 
 
-- Odprite visok ukazni poziv. 
+- Odprite povišan ukazni poziv. 
 - Če želite odpreti visok ukazni poziv, kliknite **Start**, z desno tipko miške kliknite **ukazni poziv**in nato kliknite **Zaženi kot skrbnik**.
-- Vnesite *dsregcmd/Leave* in pritisnite **Enter**.
-- Čas celoten, stavek *dsregcmd/združiti* ter časnikarstvo **nastopiti**.
+- Vnesite *dsregcmd/Leave* in pritisnite tipko **Enter**.
+- Ko dokončate, vnesite *dsregcmd/JOIN* in pritisnite tipko **Enter**.
 - Ko končate, zaprite ukazni poziv.
 - Znova zaženite računalnik in se prijavite v OneDrive.

@@ -1,25 +1,26 @@
 ---
-title: Sledite ali un-sledite SharePointovem mestu
+title: Sledenje ali neupoštevanje SharePointovega mesta
 ms.author: pebaum
 author: v-miegge
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 5b2a44422cc49b0f0e20a7ddd802a661d4fadc5e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 254f67b606d013e08dc80d320b1bc611f031cea0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720942"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744452"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>Sledite ali un-sledite SharePointovem mestu
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>Sledenje ali neupoštevanje SharePointovega mesta
 
-Če se uporabniki srečujejo s težavami, ki sledijo ali ne sledijo SharePointovim virom, dokončajte te korake:
+Če uporabniki doživljajo težave, ki so na voljo v teh navodilih SharePoint, dokončajte te korake:
 
-* Prosite uporabnika, da se odjavite in se prijavite nazaj v SharePoint in poskusite z istimi koraki slediti/unfollow SharePointovega vira.
-* Ugotovite, ali je težava z določenim mestom ali vsemi spletnimi mesti. Če pride do težave s posebnimi spletnimi mesti, zagotovite, da je funkcija» naslednja vsebina «aktivna za spletno mesto tako, da bo v **nastavitvah mesta > upravljanje funkcij mesta > po vsebini**. Če je funkcija nastavljena na aktivna, znova poskusite deaktivirati in aktivirati funkcijo za spletno mesto.
-* Prosite uporabnika, da preizkusite drug internetni brskalnik in preverite, ali je težava specifična za brskalnik uporabnika.
-* Če vsi uporabniki in vsa spletna mesta doživljajo isto težavo, preverite [nadzorno ploščo storitve](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , da vidite, ali je vaša organizacija vplivala.
+* Prosite uporabnika, naj se odjavi in se znova vpiše v SharePoint, in poskusite izvesti enake korake za sledenje/unfollow SharePointovega vira.
+* Ugotovite, ali gre za težavo z določenim mestom ali vsemi spletnimi mesti. Če pride do težave s posebnimi spletnimi mesti, zagotovite, da je funkcija» naslednja vsebina «aktivna za mesto tako, da se pomaknete na **Nastavitve mesta > upravljanje funkcij mesta > tej vsebini**. Če je funkcija nastavljena na aktivno, poskusite znova izklopiti in aktivirati funkcijo za mesto.
+* Prosite uporabnika, naj poskusi drug internetni brskalnik, da preveri, ali je težava specifična za brskalnik uporabnika.
+* Če imajo vsi uporabniki in vsa mesta težave z isto težavo, preverite [nadzorno ploščo za zdravstveno stanje storitve](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , da si ogledate, ali je vaša organizacija vplivala nanje.
