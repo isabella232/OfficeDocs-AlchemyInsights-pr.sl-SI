@@ -1,43 +1,44 @@
 ---
-title: 'AIP: politike, ki se ne obnaša po pričakovanjih'
+title: 'AIP: pravilniki, ki se ne obnašajo po pričakovanjih'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 527556fcb02525eb88ea992c38a2ddfcba6f9453
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 0dfaae776ec551fe12919e8a8e69f2e7a58d67d0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506574"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663205"
 ---
-# <a name="aip-policies-not-behaving-as-expected"></a>AIP: politike, ki se ne obnaša po pričakovanjih
+# <a name="aip-policies-not-behaving-as-expected"></a>AIP: pravilniki, ki se ne obnašajo po pričakovanjih
 
-Azure Information Protection: pravilniki se ne obnaša po pričakovanjih, za priporočene smernice za različna politična vprašanja glejte naslednje:
+Zaščita informacij Azure: pravilniki, ki se ne obnašajo po pričakovanjih, si oglejte navodila za priporočene smernice za različne težave pravilnika:
 
-1. Če imate težave z vizualnimi oznakami, preglejte, [Kdaj se uporabljajo vizualne oznake](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
-2. Če imate težave z avtomatskim označevanjem, preglejte, [Kako konfigurirate pogoje za samodejno in priporočeno razvrščanje za zaščito podatkov Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) in [Kaj iščejo občutljive vrste informacij](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
-3. Če imate težave z native/Pfile zaščito, prosimo, preglejte [datoteko API konfiguracijo](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration).
-4. Preverite, ali uporabljate pravilnike v obsegu, ki niso pravilno konfigurirani: [kako konfigurirati pravilnik o varstvu podatkov Azure za določene uporabnike z uporabo pravilnikov v obsegu](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
-5. Če samodejno označevanje ne deluje v Outlooku, ko pripnete označeni dokument, preverite, ali DRMEncryptProperty ni definiran, kot je opisano tukaj: [nastavitve registra IRM za varnost](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
+1. Če imate težave z vizualnimi oznakami, si oglejte, [Kdaj se izvajajo vizualne oznake](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
+2. Če imate težave s samodejnim označevanjem, si oglejte [navodila za konfiguracijo pogojev za samodejno in priporočeno razvrstitev za zaščito informacij](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) v storitvi Azure in informacije, [ki jih](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)iščejo.
+3. Če imate težave s storitvijo native/Pfile Protection, preberite [Konfiguracija datoteke API](https://docs.microsoft.com/azure/information-protection/develop/file-api-configuration).
+4. Preverite, ali uporabljate pravilnike o obsegu, ki niso pravilno konfigurirani: [kako konfigurirati pravilnik o varstvu informacij Azure za določene uporabnike z uporabo pravilnikov o obsegu](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+5. Če Samodejna oznaka za Outlook ne deluje v Outlooku, ko priložite označen dokument, preverite, ali DRMEncryptProperty ni opredeljen, kot je opisano tukaj: [nastavitve registra IRM za varnost](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 
-Če še vedno naletite na težave, prosimo, zberite Azure Information Protection dnevniki in priložite izvožene dnevnike na to vozovnico.
+Če še vedno prihaja do težav, si oglejte dnevnike odjemalca za zaščito informacij Azure in priložite izvožene dnevnike tej vstopnici.
 
-1. Odprite Officeov dokument ali ustvarite novo e-poštno sporočilo v programu Outlook.
-2. Kliknite **zaščitite/občutljivost**  >  **pomoč in povratne informacije**.
+1. Odprite Officeov dokument ali ustvarite novo e-poštno sporočilo v Outlooku.
+2. Kliknite pomoč za **zaščito/občutljivost**  >  **in povratne informacije**.
 3. Kliknite **Izvozi dnevnike**.
-4. Shranite dnevnike na svojo izbiro lokacije in jih priložite tej zahtevi za storitev.
+4. Shranite dnevnike na izbrano mesto in jih priložite na to zahtevo storitve.
 
 Dodatni viri:
 
-- [Konfiguriranje oznake za vizualne oznake za Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
-- [Preglejte dokumentacijo o varstvu podatkov Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [Uporaba oznak občutljivosti v Officeovih aplikacijah](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- [Konfiguracija oznake za vizualne oznake za zaščito informacij v storitvi Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
+- [Pregled dokumentacije za zaščito informacij Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [Uporaba oznak občutljivosti v aplikacijah Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 

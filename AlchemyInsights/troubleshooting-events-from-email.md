@@ -1,47 +1,48 @@
 ---
-title: Odpravljanje težav pri dogodkih iz e-pošte
+title: Odpravljanje težav z e-pošto
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: e27589b7f6730036040b948b6275cef072fd8235
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569403"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47658750"
 ---
-# <a name="troubleshooting-events-from-email"></a>Odpravljanje težav pri dogodkih iz e-pošte
+# <a name="troubleshooting-events-from-email"></a>Odpravljanje težav z e-pošto
 
-1. Preverite, ali je funkcija omogočena za nabiralnik: **zaslužiti-EventsFromEmailConfiguration-identiteta <mailbox> **
+1. Preverite, ali je funkcija omogočena za nabiralnik: **Get-EventsFromEmailConfiguration- <mailbox> Identity**
 
-2. Potem poglej "dogodki iz e-pošte" dnevniki **Export-Mailboxdiagnosticdnevniki <mailbox> -Component timeprofile**
+2. Nato si oglejte dnevniki» dogodki iz e-pošte « **Izvozi – MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
 3. V dnevnikih» dogodki iz e-pošte «poiščite InternetMessageId, ki se ujema z elementom v nabiralniku.  
 
-4. Vrednost TrustScore določa, ali je artikel dodan ali ne. Dogodki bodo dodani le, če je TrustScore = "zaupanja vreden".
+4. TrustScore določi, ali je element dodan ali ne. Dogodki bodo dodani le, če je TrustScore = "zaupanja vreden".
 
-TrustScore določa lastnosti SPF, DKIM ali dMarc, ki so v glavi sporočila.
+TrustScore je določen z lastnostmi SPF, DKIM ali dMarc, ki so v glavi sporočila.
 
 Če si želite ogledati te lastnosti:
 
-**Namizni obeti**
+**Namizni Outlook**
 
 - Odpiranje elementa
-- Datoteke-lastnosti >-> internetne glave
+- Lastnosti datoteke >-> internetne glave
 
-Ali
+ali
 
 **MFCMapi**
 
 - Pomikanje do elementa v mapi» Prejeto «
 - Poiščite PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Te lastnosti se določijo in zabeležijo med transportom in usmerjanjem. Za nadaljnje odpravljanje težav boste morda morali spremljati prometno podporo o napakah v SPF, DKIM in. ali DMARC.
+Te lastnosti so določene in zabeležene med prevozom in usmerjanjem. Če želite dodatno odpraviti težave, boste morda morali nadaljevati s podporo za prenos informacij o napakah v SPF, DKIM in. or DMARC.

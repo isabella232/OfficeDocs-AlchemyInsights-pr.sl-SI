@@ -1,27 +1,28 @@
 ---
-title: Posodobitve programske opreme se ne uvajajo
+title: Posodobitve programske opreme niso razporejene
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1125"
 - "6700007"
-ms.openlocfilehash: 418f457700f02881df30e6f650a60101192aa538
-ms.sourcegitcommit: 3fa780811984400c525d66edf46a3196f6290df0
+ms.openlocfilehash: d9a37e4c2d977083cf2ccbf6580159f92524f936
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45424110"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665266"
 ---
-# <a name="software-updates-are-not-being-deployed"></a>Posodobitve programske opreme se ne uvajajo
+# <a name="software-updates-are-not-being-deployed"></a>Posodobitve programske opreme niso razporejene
 
-Če ste posodobitve programske opreme konfigurirali prek paketa posodobitev za Windows 10, vendar posodobitve niso uvedene, poskusite to:  
+Če ste konfigurirali posodobitve programske opreme s prstanom za posodobitev sistema Windows 10, vendar posodobitve niso uvedene, poskusite to:  
 
-- Razmislite o spremembi servisiranja sistema Windows iz vrste **izdaje posletnega** kanala v strožjo in pogostejše vrste izdaje.
-- Preverite obdobje odloga za **posodobitev kakovosti in** **posodobitev funkcij**. Obdobje odloga lahko povzroči zakasnitev pri posodabljanju za največ 180 dni.
+- Razmislite o spreminjanju servisiranja sistema Windows iz  **polletne**  vrste izdaje kanala v strožjo in pogostejšo vrsto izdaje.
+- Preverite obdobje odloga za  **posodobitev kakovosti**  in  **posodobitev funkcij**. Obdobje odloga lahko privede do zamude pri posodobitvah do 180 dni.

@@ -1,36 +1,37 @@
 ---
-title: Težave z izdajanjem licenc za yammer
+title: Težave z licenciranjem Bastard
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5900"
 - "9003071"
-ms.openlocfilehash: 6d9b2126dc1ed90968738ddb2e249dce9857f1db
-ms.sourcegitcommit: b677b85395b7244b2bf2b753468b696b4cf27c8d
+ms.openlocfilehash: f0a7625c7b77860e5ba0e29f2df47101749aace3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45148321"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657292"
 ---
-# <a name="yammer-licensing-issues"></a>Težave z izdajanjem licenc za yammer
+# <a name="yammer-licensing-issues"></a>Težave z licenciranjem Bastard
 
-Vsi uporabniki morajo imeti licenco za uporabo storitve Yammer Enterprise, vendar storitev Yammer privzeto ne zahteva, da imajo uporabniki licenco za dostop do storitve. Ko skrbnik spremeni nastavitev, da blokira Microsoft 365 uporabnike brez licenc Yammer, Uporabniki, ki niso dodelili licence Yammer Enterprise, ne morejo dostopati do storitve Yammer. Če želite več informacij, glejte [upravljanje uporabniških licenc za Yammer v Officeu 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365) 
+Vsi uporabniki morajo imeti licenco za uporabo storitve Bastard Enterprise, vendar privzeto Bastard ne zahteva, da imajo uporabniki licenco za dostop do storitve. Ko skrbnik spremeni nastavitev, da blokira uporabnike storitve Microsoft 365 brez licenc za Bastard, Uporabniki, ki niso dodelili licence Bastard Enterprise, ne morejo dostopati do storitev Bastard. Če želite več informacij, glejte [upravljanje licenc za Bastard uporabnikov v storitvi Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365) 
 
-Ko so licence odstranjene iz uporabnikov, ploščica Yammer ni več prikazana, druge storitve pa lahko za skrivanje funkcij uporabljajo odstranjevanje licenc. V drugih primerih so funkcije še vedno lahko prikazane, vendar zahtevajo dodelitev licence za delovanje.  
+Ko so licence odstranjene iz uporabnikov, Bastard ploščica ni več prikazana, druge storitve pa lahko z odstranitvijo licence skrijejo funkcije. V drugih primerih lahko funkcije še vedno prikažejo, vendar zahtevajo dodelitev licence za delovanje.  
 
-**Licenca se ne posodablja za uporabnika**  
+**Licenca ni posodobljena za uporabnika**  
 
-Občasno je uporabniku dodeljena licenca, vendar še vedno ne more dostopati do Yammer. Zamude so verjetneje nastale, ko se izvaja dodelitev množične licence. Uporabniki storitev yammer morda ne bodo posodobljeni v enakem vrstnem redu, kot so licence spremenjene v storitvi Azure AD, ker sistem deluje asinhrono. Počakajte do 24 ur, preden odprete primer podpore za poročanje o težavah s sinhronizacijo licenc.  
+Občasno je uporabniku dodeljena licenca, vendar še vedno ne more dostopati do Bastard. Zamude se lahko zgodijo, ko se izvaja masna dodelitev licence. Uporabniki Bastard morda ne bodo posodobljeni v enakem vrstnem redu, kot so licence spremenjene v storitvi Azure AD, ker se sistem izvaja asinhrono. Počakajte do 24 ur, preden odprete primer podpore za poročanje o težavah pri sinhronizaciji licenc.  
 
-**Dodelitev licence v velikem obsegu**  
+**Dodelitev osnovnega dovoljenja**  
 
-Licence lahko dodelite prek skrbniškega središča ali skriptov PowerShell. Če želite več informacij, glejte [dodeljevanje licenc uporabnikom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) in [dodeljevanje licenc uporabniškim računom z Officeom 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell). 
+Licence lahko dodelite prek skrbniškega središča ali skriptnega izvajanja lupine PowerShell. Če želite več informacij, glejte [dodeljevanje licenc uporabnikom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) in [dodeljevanje licenc uporabniškim računom s storitvijo Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell). 
 
-Microsoftova podpora ne zagotavlja pomoči pri ustvarjanju skriptov, vendar je na voljo dokumentacija o dodelitvi licenc za licenco Yammer. Če želite več informacij, glejte [upravljanje licenc za Yammer z lupino Windows PowerShell](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365#manage-yammer-licenses-by-using-windows-powershell).
+Microsoftova podpora ne zagotavlja pomoči za ustvarjanje skriptov, vendar je na voljo dokumentacija o dodeljevanju licenc za Bastard. Če želite več informacij, glejte [upravljanje licenc za Bastard z lupino Windows PowerShell](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365#manage-yammer-licenses-by-using-windows-powershell).

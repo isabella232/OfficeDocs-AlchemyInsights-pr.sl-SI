@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: 3e89271953303b7b5161bb8846459b0bfa3375c5
-ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
-ms.translationtype: HT
+ms.openlocfilehash: 2c16f7afc44ff375ef26e809793edfc32c192429
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43207570"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657661"
 ---
 # <a name="update-my-credit-card-information"></a>Posodobitev podatkov o kreditni kartici
 
-V **skrbniškem središču za Microsoft 365** lahko dodate ali odstranite način plačila. Če način plačila ni povezan z nobeno naročnino, ga lahko nemudoma izbrišete. Če pa je povezan z naročnino, preberite razdelek [Spreminjanje načina plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#change-a-payment-method).
+Način plačila lahko dodate ali odstranite iz **skrbniškega središča za Microsoft 365**. Če način plačila ni povezan z nobeno naročnino, ga lahko nemudoma izbrišete. Če je povezana z naročnino, glejte [upravljanje načinov plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 1. Pomaknite se do razdelka **Obračunavanje > Računi in plačila > [Načini plačila](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 
@@ -28,6 +29,6 @@ V **skrbniškem središču za Microsoft 365** lahko dodate ali odstranite način
 
 3. Na dnu podokna **Izbriši način plačila** kliknite **Izbriši**.
 
-Za več informacij glejte [Dodajanje, posodabljanje ali odstranjevanje načinov plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#update-an-existing-payment-method).
+Če želite več informacij, glejte [upravljanje načinov plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-Če želite izvedeti več o odpravljanju težav, preberite [Odpravljanje težav pri načinih plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide#troubleshoot-payment-methods).
+Če želite izvedeti več o odpravljanju težav, preberite [Odpravljanje težav pri načinih plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).
