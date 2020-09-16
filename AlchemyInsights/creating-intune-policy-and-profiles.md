@@ -6,40 +6,41 @@ manager: dougeby
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9026beac824ebc3849241dbb534c27b00ef1d0eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43715412"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47746775"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>Ustvarjanje InTune politika in profili
+# <a name="creating-intune-policy-and-profiles"></a>Ustvarjanje InTune pravilnik in profili
 
-V InTune lahko ustvarite pravilnike in profile, ki počnejo različne stvari.
+V programu InTune lahko ustvarite pravilnike in profile, ki se razlikujejo.
 
-- **Profili včlanitve**: predkonfiguriranje naprav po platformi, omogočanje uporabniške afinitete, uporaba večfaktorskega preverjanja pristnosti in še več.
+- **Profili za vpis**: vnaprej konfigurirajte naprave po platformi, omogočite afiniteto uporabnika, uporabite multi-Factor preverjanje pristnosti in še veliko več.
 
-  [Kaj je včlanitev naprave](https://docs.microsoft.com/intune/device-enrollment)in ustvari profile včlanitve za [Android](https://docs.microsoft.com/intune/android-enroll), [IOS](https://docs.microsoft.com/intune/ios-enroll), [MacOS](https://docs.microsoft.com/intune/macos-enroll)in [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) so dobri viri.
+  [Kaj je vpis naprav](https://docs.microsoft.com/intune/device-enrollment)in ustvarjanje profilov za vpis za naprave s sistemom [Android](https://docs.microsoft.com/intune/android-enroll), [IOS](https://docs.microsoft.com/intune/ios-enroll), [MacOS](https://docs.microsoft.com/intune/macos-enroll)in [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) so dobri viri.
 
-- **Pravilniki o skladnosti**: določite pravila in nastavitve, ki jih morajo izpolnjevati naprave za skladnost. Pravilnike o skladnosti lahko uporabite tudi za spremljanje naprav in obveščanje uporabnikov o neskladnosti.
+- **Pravilniki o skladnosti**: določite pravila in nastavitve, ki jih morajo izpolnjevati naprave, da bodo združljive. S pravilniki o skladnosti lahko nadzorujete naprave in obvestite uporabnike o neskladnostih.
 
-  Začnite s [Pravilniki o skladnosti naprave](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **Pravilniki o pogojnem dostopu**: Zaščitite organizacijske vire glede na pogoje, ki jih vnesete. Za naprave, ki niso skladne, na primer uporabite pogojni dostop za omejevanje dostopa do e-pošte in SharePointa.
+  Začnite uporabljati [pravilnike o skladnosti naprav](https://docs.microsoft.com/intune/device-compliance-get-started).
+- **Pravilniki pogojnega dostopa**: pomoč pri zavarovanju organizacijskih virov, odvisno od pogojev, ki jih vnesete. Na primer za naprave, ki niso združljive, s pogojnim dostopom omejite dostop do e-pošte in SharePointa.
 
-  [Kaj je pogojni dostop](https://docs.microsoft.com/intune/conditional-access) in [skupni načini uporabe pogojnega dostopa](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) so dobri viri za začetek.
+  [Kaj je pogojni dostop](https://docs.microsoft.com/intune/conditional-access) in [pogosti načini za uporabo pogojnega dostopa](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) so dobri viri za začetek.
 
-- **Konfiguracijski profili**: upravljajte funkcije in nastavitve v napravah, vključno z nastavitvami e-pošte, dodajte omrežje WiFi, uporabite vgrajene predloge, nadzirate funkcije naprav za iOS in MacOS ter še več.
+- **Profili konfiguracije**: upravljanje funkcij in nastavitev v napravah, vključno z nastavitvami e-pošte, dodajanje omrežja WiFi, uporaba vgrajenih predlog, funkcij nadzora sistema IOS in naprave MacOS ter več.
 
-  Začnite pri [konfiguracijskih profilih naprave](https://docs.microsoft.com/intune/device-profiles).
+  Uvod v [profile konfiguracije naprave](https://docs.microsoft.com/intune/device-profiles).
 
-Koristne povezave:
+Uporabne povezave:
 
-- [Pogosta vprašanja, vprašanja in resolucije s pravilniki in profili naprave v InTune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [Pogosta vprašanja, težave in resolucije s pravilniki in profili naprave v programu InTune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [Odpravljanje težav s pravilniki in profili v InTune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [Odpravljanje težav s pravilniki in profili v programu InTune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
