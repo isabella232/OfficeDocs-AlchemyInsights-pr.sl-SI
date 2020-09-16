@@ -1,22 +1,23 @@
 ---
-title: Nedostavna poročila v Outlooku v spletu
+title: Poročila o neuspeli dostavi v Outlooku v spletu
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: e103af4765c658bdd2650dd51ead7191a8f587e9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 1d2155b819ad34e1fa311ff16f038d3b2fa0d7dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768561"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721931"
 ---
 # <a name="issues-with-email-delivery"></a>Težave z dostavo e-pošte
 
-Ko pride do težave pri dostavi e-poštnega sporočila, ki ste ga poslali, Microsoft 365 pošlje e-poštno sporočilo, da vas obvesti. E-poštno sporočilo, ki ga prejmete, je obvestilo o stanju dostave, znano tudi kot DSN ali odklonilno sporočilo. Najpogostejša vrsta se imenuje poročilo o nedostavi (NDR), ki vam pove, da sporočilo ni bilo dostavljeno. Non-dostava lahko povzroči nekaj tako enostavno, kot slovnične napake na e-poštni naslov. NDRs vračunati zmota zbornik to pokazati zakaj vaš email wasnt ' osvoboditelj, raztopina v pomoč vi zaslužiti vaš email osvoboditelj, a člen v več pomoč naprej ujeti, ter technical podrobnost zakaj upraviteljstvo.
+Ko pride do težave z dostavo e-poštnega sporočila, vam Microsoft 365 pošlje e-poštno sporočilo, ki vas obvešča. E-poštno sporočilo, ki ga prejmete, je obvestilo o stanju dostave, znano tudi kot DSN ali Bounce Message. Najpogostejša vrsta se imenuje poročilo o neuspeli dostavi (NDR), v katerem je navedeno, da sporočilo ni bilo dostavljeno. Nedostava lahko povzroči nekaj tako enostavnega kot tipkarsko napako na e-poštnem naslovu. NDR vključuje kodo napake, ki označuje, zakaj vaša e-pošta ni bila dostavljena, rešitve, ki vam bodo v pomoč pri dostavi e-pošte, povezavo do več pomoči v spletu in tehnične podrobnosti za skrbnike.
 
-Če si želite ogledati seznam NDRs in ugotovite, zakaj sporočilo ni bilo dostavljeno, glejte [poročila o nedostavljenih sporočilih v Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+Če si želite ogledati seznam NDR in ugotoviti, zakaj sporočilo ni bilo dostavljeno, glejte [e-poštna poročila o neuspeli dostavi v storitvi Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
