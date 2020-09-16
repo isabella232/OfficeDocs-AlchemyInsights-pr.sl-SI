@@ -1,11 +1,12 @@
 ---
-title: Outlook ne synching mape
+title: Outlook ne sinhronizira map
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "1951"
 - "9000241"
 ms.assetid: ''
-ms.openlocfilehash: 5868a5a614ce44d3007c7c5894e2dc9940153533
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: cc4d109ae4b6b579284aa5b3876d17d38f0230fa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43768705"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47771881"
 ---
-# <a name="outlook-not-synching-folders"></a>Outlook ne synching mape
+# <a name="outlook-not-synching-folders"></a>Outlook ne sinhronizira map
 
-Če Outlook ne sinhronizira map, kot je bilo pričakovano, je nekaj stvari, ki jih lahko poskusite popraviti.
+Če Outlook ne sinhronizira map po pričakovanjih, je na voljo nekaj stvari, ki jih lahko poskusite odpraviti.
 
-1. Zmanjšajte število map v primarnem ali v nabiralniku v skupni rabi. [Oglejte si težave z učinkovitostjo v Outlooku, ko je v mapi predpomnjenega načina. ost ali. pst preveč elementov ali map](https://support.microsoft.com/help/2768656).
-2. Onemogoči predpomnjenje vseh map v skupni rabi.
-3. Spremenite konfiguracijo sekundarnega Exchangeevega nabiralnika z drugim Exchangeevim računom v profilu.
+1. Zmanjšajte število map v primarnem ali nabiralniku v skupni rabi. [Glejte težave z učinkovitostjo delovanja Outlooka, če je v predpomnjenem načinu datoteke. ost ali. pst na voljo preveč elementov ali map](https://support.microsoft.com/help/2768656).
+2. Onemogočanje predpomnjenja vseh map v skupni rabi.
+3. Spremenite konfiguracijo dodatnega nabiralnika za Exchange na drug Exchangeev račun v profilu.
 
-Če želite več informacij, glejte [težave z učinkovitostjo delovanja in sinhronizacijo, ko delate z mapami v sekundarnem nabiralniku v programu Outlook](https://support.microsoft.com/help/3115602).
+Če želite več informacij, glejte [težave z učinkovitostjo delovanja in sinhronizacije, ko delate z mapami v sekundarnem nabiralniku v Outlooku](https://support.microsoft.com/help/3115602).
