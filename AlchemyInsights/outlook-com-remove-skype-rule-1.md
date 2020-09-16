@@ -6,20 +6,21 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: f97aa887e072f01bbb7e077550c195bb934c6648
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743829"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723334"
 ---
-# <a name="skype-icon-missing"></a>Manjka ikona Skype
+# <a name="skype-icon-missing"></a>Manjkajoča ikona Skype
 
-Smo začasno odstranili ikono Skype od Outlook.com kot del načrta Osveži in funkcijo posodobitev smo navdušeni, da se uvajajo. Cenimo vaše potrpljenje, medtem ko vam pripravimo novo in izboljšano izkušnjo za vas.
+Ikono Skype smo začasno odstranili iz Outlook.com kot del osveževanja načrta in posodobitev funkcije, ki jo lahko raziščemo. Zahvaljujemo se vam za potrpežljivost, medtem ko vam pripravimo novo in izboljšano izkušnjo.
 
-Še vedno lahko uporabljate Skype prek brskalnika na [Web.Skype.com](https://web.skype.com/).
+Skype lahko še vedno uporabljate v brskalniku na spletnem mestu [Web.Skype.com](https://web.skype.com/).
