@@ -1,28 +1,29 @@
 ---
-title: Težave pri vpisu v skupine
+title: Težave z vpisom v Teams
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2688"
 - "9000744"
-ms.openlocfilehash: 267f0d6d33f20b1b209c32eb3969bc2f0dadd449
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: c3c1933a00fdb4cb0a71e6cbd19f499cb789957b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43737042"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750683"
 ---
-# <a name="troubleshooting-teams-sign-in"></a><span data-ttu-id="ebbe2-102">Odpravljanje težav s skupinami se prijavite</span><span class="sxs-lookup"><span data-stu-id="ebbe2-102">Troubleshooting Teams sign in</span></span> 
+# <a name="troubleshooting-teams-sign-in"></a><span data-ttu-id="de341-102">Odpravljanje težav z ekipami</span><span class="sxs-lookup"><span data-stu-id="de341-102">Troubleshooting Teams sign in</span></span> 
 
-<span data-ttu-id="ebbe2-103">Imate težave pri vpisu v Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="ebbe2-103">Having issues signing in to Microsoft Teams?</span></span> <span data-ttu-id="ebbe2-104">Za več informacij glejte naslednje članke.</span><span class="sxs-lookup"><span data-stu-id="ebbe2-104">Refer to the following articles for more information.</span></span>
+<span data-ttu-id="de341-103">Ali imate težave z vpisom v Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="de341-103">Having issues signing in to Microsoft Teams?</span></span> <span data-ttu-id="de341-104">Če želite več informacij, si oglejte te članke.</span><span class="sxs-lookup"><span data-stu-id="de341-104">Refer to the following articles for more information.</span></span>
 
-- [<span data-ttu-id="ebbe2-105">Zakaj imam težave pri vpisu v Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="ebbe2-105">Why am I having trouble signing in to Microsoft Teams?</span></span>](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
-- [<span data-ttu-id="ebbe2-106">Microsoft Teams je zaljubljen v prijavno zanko v Edge ali Internet Explorerju</span><span class="sxs-lookup"><span data-stu-id="ebbe2-106">Microsoft Teams is stuck in a login loop in Edge or Internet Explorer</span></span>](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
-- [<span data-ttu-id="ebbe2-107">Koda stanja je napaka 4c7 s programom Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="ebbe2-107">Your status code is 4c7 error with Microsoft Teams</span></span>](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
-- [<span data-ttu-id="ebbe2-108">Kako dobim dostop do Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="ebbe2-108">How do I get access to Microsoft Teams?</span></span>](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b)
+- [<span data-ttu-id="de341-105">Zakaj imam težave z vpisom v Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="de341-105">Why am I having trouble signing in to Microsoft Teams?</span></span>](https://support.office.com/article/a02f683b-61a3-4008-9447-ee60c5593b0f)
+- [<span data-ttu-id="de341-106">Microsoft Teams je obtičal v zanki za prijavo v brskalniku Edge ali Internet Explorer</span><span class="sxs-lookup"><span data-stu-id="de341-106">Microsoft Teams is stuck in a login loop in Edge or Internet Explorer</span></span>](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-sign-in/sign-in-loop)
+- [<span data-ttu-id="de341-107">Vaša koda stanja je napaka 4c7 v aplikaciji Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="de341-107">Your status code is 4c7 error with Microsoft Teams</span></span>](https://support.microsoft.com/help/4041047/modern-authentication-failed-here-status-code-is-4c7-when-signing-in-t)
+- [<span data-ttu-id="de341-108">Kako pridobim dostop do aplikacij Microsoft Teams?</span><span class="sxs-lookup"><span data-stu-id="de341-108">How do I get access to Microsoft Teams?</span></span>](https://support.office.com/article/how-do-i-get-access-to-microsoft-teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b)
