@@ -1,28 +1,29 @@
 ---
-title: Preklic aplikacije
+title: Kako preklicati program
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000566"
 - "2424"
-ms.openlocfilehash: c747df3a17280cf3b84b80659607002d71f309c1
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 03723bbdac07e46539d41fc771ffeccff03f59bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062516"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781011"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="dbbda-102">Kako preklicati programsko opremo-as-a-Service apps</span><span class="sxs-lookup"><span data-stu-id="dbbda-102">How to cancel software-as-a-service apps</span></span> 
+# <a name="how-to-cancel-software-as-a-service-apps"></a><span data-ttu-id="fb6cc-102">Kako preklicati programsko opremo-as-a-Service apps</span><span class="sxs-lookup"><span data-stu-id="fb6cc-102">How to cancel software-as-a-service apps</span></span> 
 
-1. <span data-ttu-id="dbbda-103">V skrbniškem središču za Microsoft 365 na stran za **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** izberite zavihek **aplikacije** .</span><span class="sxs-lookup"><span data-stu-id="dbbda-103">In the Microsoft 365 admin center, to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="fb6cc-103">V skrbniškem središču za Microsoft 365 na strani **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** in nato izberite zavihek **aplikacije** .</span><span class="sxs-lookup"><span data-stu-id="fb6cc-103">In the Microsoft 365 admin center, to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="dbbda-104">Poiščite in izberite aplikacijo, ki jo želite upravljati.</span><span class="sxs-lookup"><span data-stu-id="dbbda-104">Find and select the app you want to manage.</span></span>
+2. <span data-ttu-id="fb6cc-104">Poiščite in izberite aplikacijo, ki jo želite upravljati.</span><span class="sxs-lookup"><span data-stu-id="fb6cc-104">Find and select the app you want to manage.</span></span>
 
-3. <span data-ttu-id="dbbda-105">Pod možnostjo **nastavitve & dejanja**izberite **Prekliči naročnino**.</span><span class="sxs-lookup"><span data-stu-id="dbbda-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="fb6cc-105">V razdelku **nastavitve & dejanja**izberite **Prekliči naročnino**.</span><span class="sxs-lookup"><span data-stu-id="fb6cc-105">Under **Settings & actions**, select **Cancel subscription**.</span></span>
