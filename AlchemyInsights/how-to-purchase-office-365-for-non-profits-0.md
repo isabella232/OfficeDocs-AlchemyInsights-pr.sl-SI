@@ -1,11 +1,12 @@
 ---
-title: Microsoft 365 za neprofitne organizacije-zavrnjeno
+title: Microsoft 365 za neprofitne organizacije – zavrnjeno
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "343"
 - "1500010"
 ms.assetid: 2c928480-0a18-47dc-871e-8b8558c9048b
-ms.openlocfilehash: facb44c932a2a610df3c4714c102a666bdf9aa20
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 78389468129cf4529b7073f9e325872dedf7cb33
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005310"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779787"
 ---
-# <a name="microsoft-365-for-nonprofits---declined"></a>Microsoft 365 za neprofitne organizacije-zavrnjeno
+# <a name="microsoft-365-for-nonprofits---declined"></a>Microsoft 365 za neprofitne organizacije – zavrnjeno
 
-Pregledali smo vašo zahtevo in določili, da ta organizacija ni upravičena kot Microsoftova kvalificirana neprofitna organizacija.
+Pregledali smo vašo zahtevo in določili, da ta organizacija ni primerna kot Microsoftova kvalificirana neprofitna organizacija.
   
-Če želite kupiti Office 365 komercialno, si oglejte [razpoložljive ponudbe](https://portal.office.com/AdminPortal/Home).
+Če želite komercialno kupiti Office 365, si oglejte [razpoložljive ponudbe](https://portal.office.com/AdminPortal/Home).

@@ -1,10 +1,11 @@
 ---
-title: Kako nastavim oddajanje srečanja v Skypu
+title: Kako nastavim oddajanje srečanja v storitvi Skype
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: 94ef1f8479b0056347e632c8993ad2c6c612602d
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 9dd605c11278a2e9cec79784c31f7868f5936d48
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305242"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47781479"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Ne morete začeti ali se pridružiti oddajanjem srečanja Skype?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Ne morete zagnati ali se vključiti v oddajanje srečanja v storitvi Skype?
 
-Če imate težave pri zagonu ali vstopu v oddajanje v Skypu kot član skupine dogodkov (proizvajalec srečanja), Preverite konfiguracijo. Oddajanje srečanja v Skypu zahteva nekaj ročnih namestitvenih korakov. Sledite korakom v tem članku, da zagotovite, da sta omrežje in portal Skype za podjetja online pravilno konfigurirana in da prizadeti uporabnik ne blokira sporne licence:
+Če imate težave z zagonom ali pridruževanjem oddajanju srečanja Skype kot član skupine dogodkov (producent srečanja), se prepričajte, da ste preverili konfiguracijo. Oddaja za Skype za srečanje zahteva nekatere korake ročne nastavitve. Upoštevajte navodila v tem članku, da zagotovite pravilno konfiguracijo omrežja in portala Skype za podjetja online ter da prizadeti uporabnik ne blokira licence v sporu:
 
-[Nastavitev omrežja za oddajanje srečanja v Skypu](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[Nastavitev omrežja za oddajanje srečanja v storitvi Skype](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
