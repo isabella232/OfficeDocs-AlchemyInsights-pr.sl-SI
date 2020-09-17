@@ -1,27 +1,28 @@
 ---
-title: Vaš organ za MDM ni nastavljen
+title: Vaš MDM Authority ni nastavljen
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 1cb463e0300e432c2a06fa392b3d2b6e45b2d18e
-ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
+ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37638229"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796304"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>Vaš organ za MDM ni nastavljen
+# <a name="your-mdm-authority-is-not-set"></a>Vaš MDM Authority ni nastavljen
 
-Organ za upravljanje mobilnih naprav (MDM) tega najemnika ni nastavljen. Pred vpisom in upravljanjem naprav morate nastaviti organ MDM, in sicer z InTune MDM. Če ne postavljanje MDM pooblastilo vi navada ' obstati zmožen rabiti InTune ' MDM zunanja oblika. Nastavitev organa MDM določa, kako upravljate naprave.
+Organ za upravljanje mobilnih naprav (MDM) tega najemnika ni nastavljen. Pred vpisom in upravljanjem naprav morate nastaviti MDM avtoriteto s programom InTune MDM. Brez nastavitve MDM organa ne boste mogli uporabljati funkcij MDM. Nastavitev MDM organa določa, kako upravljate naprave.
 
-Priporočeni koraki:
-1. Če želite nastaviti organ MDM, se pomaknite do lopatice pregled InTune.
-2. Izberite ustrezen organ na podlagi vaših administrativnih potreb. Če želite več informacij, glejte [Nastavljanje članka organa za upravljanje mobilnih naprav](https://docs.microsoft.com/intune/mdm-authority-set).
+Priporočena navodila:
+1. Premaknite se do rezila za pregled InTune, da nastavite MDM avtoriteto.
+2. Izberite ustreznega organa, ki temelji na upravnih potrebah. Če želite več informacij, glejte [Nastavitev članka za upravljanje mobilnih naprav](https://docs.microsoft.com/intune/mdm-authority-set).

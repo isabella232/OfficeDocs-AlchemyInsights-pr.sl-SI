@@ -1,11 +1,12 @@
 ---
-title: Kdaj je moja kreditna kartica zaračunana?
+title: Kdaj je zaračunana moja kreditna kartica?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: dd0dde092494fbea5a262bfee59725bde9ebeb28
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418088"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796412"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Kdaj je moja kreditna kartica zaračunana?
+# <a name="when-is-my-credit-card-charged"></a>Kdaj je zaračunana moja kreditna kartica?
 
-Z začetnim nakupom lahko traja do dva dni, da pride do polnjenja.
+Z začetnim nakupom lahko traja največ dva dni, da pride do te bremenitve.
   
-Ponavljajoče se bremenitve se zgodijo v enem dnevu od ustvarjenega računa.
+Ponavljajoče se dajatve se zgodijo v enem dnevu, ko je bil ustvarjen račun.
   
-Če je strošek neuspešen, bo sistem še naprej poskušal poravnati ravnotežje v naslednjih nekaj tednih. Podatke o plačilu lahko kadar koli posodabate, da zagotovite, da je naslednji poskus polnjenja uspešen. Če želite več informacij, glejte [upravljanje plačilnih načinov](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Če je dajatev neuspešna, bo sistem še naprej poskušal poravnati ravnotežje v naslednjih nekaj tednih. Podatke o plačilu lahko kadar koli izvedete, da zagotovite, da bo naslednji poskus naračuna uspešen. Če želite več informacij, glejte [upravljanje načinov plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

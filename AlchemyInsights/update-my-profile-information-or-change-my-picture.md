@@ -1,33 +1,34 @@
 ---
-title: Posodabljanje podatkov o profilu ali spreminjanje slike
+title: Posodobitev podatkov o profilu ali spreminjanje slike
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: 9bbc8b1ef7d9b0c910b19db47110ae046ae63e34
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4aaba47b069690e96deb3453a2bcec42461f6767
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720117"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796952"
 ---
-# <a name="update-my-profile-information-or-change-my-picture"></a>Posodabljanje podatkov o profilu ali spreminjanje slike
+# <a name="update-my-profile-information-or-change-my-picture"></a>Posodobitev podatkov o profilu ali spreminjanje slike
 
-Trenutno ni mogoče urejati in posodabljati podatkov o profilu neposredno iz Outlooka za iOS, vendar je mogoče te informacije urejati drugje. 
+Trenutno ni mogoče urejati in posodabljati podatkov profila neposredno iz Outlooka za iOS, vendar je te informacije mogoče urejati drugje. 
 
-Svoj profil lahko posodobite v Outlooku za Windows ali Outlook v spletu (OWA). 
+V svojem profilu lahko naredite posodobitve za Outlook za Windows ali Outlook v spletu (OWA). 
 
 **Outlook za Windows**: 
 
-- **File** > **Office račun** > **uporabniške informacije** > **o meni** (vas pripelje do Microsoft 365 profil online) > **Posodobi profil** ali kliknite na ikono fotoaparata, da spremenite svojo fotografijo  
+- **Datoteka**  >  **Officeov račun**  >  **Informacije o uporabniku**  >  **O meni** (na spletnem mestu Microsoft 365 profile) > **posodobite profil** ali pa kliknite ikono kamere, da spremenite svojo fotografijo.  
   
 **Outlook v spletu (OWA)**: 
 
-- **Slika** > profila**moj** > profil**posodobitev** profila
+- **Slika profila**  >  **Moj profil**  >  **Posodabljanje profila**
