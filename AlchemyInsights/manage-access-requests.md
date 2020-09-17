@@ -6,29 +6,30 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6c1a4b19-5915-428f-bc57-40ee2af62178
-ms.openlocfilehash: 975609294a4fd564c99594269bb4c348ad1d4191
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 690935623685712959c6544752c5df06f7d9da01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579737"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778335"
 ---
 # <a name="manage-access-requests"></a>Upravljanje zahtev za dostop
 
-Ko uporabnik poskuša dostopati do elementa v SharePointu in nima dovoljenja, bodo videli sporočilo, ki ga potrebujejo za dostop do elementa. Uporabnik lahko zahteva dostop (v nekaterih primerih do določenega elementa ali za pridružitev skupini) in lastnik mesta lahko odobri ali zavrne zahtevo. Če nekdo, ki ni lastnik spletnega mesta, deli mesto z drugo osebo, bo lastnik spletnega mesta dobil tudi zahtevo za dostop za novega uporabnika. Če želite odobriti ali zavrniti zahteve za dostop:
+Ko uporabnik poskuša dostopati do elementa v SharePointu in nima dovoljenja, se prikaže sporočilo, da potrebujejo dovoljenje za dostop do elementa. Uporabnik lahko zahteva dostop (v nekaterih primerih do določenega elementa ali da se pridru3/4ite skupini) in lastnik mesta lahko odobri ali zavrne zahtevo. Če oseba, ki ni lastnik mesta, deli mesto z drugo osebo, bo lastnik mesta dobil tudi zahtevo za dostop za novega uporabnika. Če želite odobriti ali zavrniti zahteve za dostop:
   
-1. Pojdite na spletno mesto, kliknite ikono nastavitve v zgornjem desnem kotu in nato kliknite **Nastavitve mesta**. (Če nastavitve mesta ne vidite, kliknite **dovoljenja mesta**in nato še **napredne nastavitve dovoljenj**. Poiščite banner, ki ima povezavo z imenom» Pokaži zahteve za dostop in povabila «.)
+1. Pojdite na spletno mesto, kliknite ikono nastavitve v zgornjem desnem kotu in nato kliknite **Nastavitve mesta**. (Če ne vidite nastavitev mesta, kliknite **dovoljenja mesta**, nato pa kliknite **napredne nastavitve dovoljenj**. Poiščite banner s povezavo» Prikaži zahteve za dostop in povabila. «)
     
-2. Pod možnostjo **Uporabniki in dovoljenja**kliknite **Accessove zahteve in povabila**. (Če se to ne prikaže, zahteve za dostop niso bile narejene.)
+2. V razdelku **Uporabniki in dovoljenja**kliknite **zahteve za dostop in povabila**. (Če to ni prikazano, zahteve za dostop niso bile narejene.)
     
-3. Če želite uporabniku dovoliti individualno dovoljenje, kliknite **odobri** ali **Zavrni**. Če želite izbrati določeno raven dovoljenja, najprej kliknite elipso (...) poleg imena osebe. Alternativno dodajte uporabnika v skupino, ki ima dovoljenje za spletno mesto. Za spletna mesta za komunikacijo in klasične skupine mest lahko to storite na strani» Nastavitve mesta «. Za spletna mesta, ki pripadajo skupini Microsoft 365, lahko dodate uporabnika v skupino.
+3. Če želite uporabniku dati dovoljenje posamezno, kliknite **odobri** ali **Zavrni**. Če želite izbrati določeno raven dovoljenja, najprej kliknite tri pike (...) ob imenu osebe. Lahko pa dodate uporabnika v skupino, ki ima dovoljenje za mesto. Za mesta za komunikacijo in klasična spletna mesta skupine lahko to naredite na strani» Nastavitve mesta «. Za mesta, ki pripadajo skupini Microsoft 365, lahko dodate uporabnika v skupino.
     
-    [Upravljanje zahtev za dostop](https://go.microsoft.com/fwlink/?linkid=2008747)
+    [Upravljanje zahtev za dostop ](https://go.microsoft.com/fwlink/?linkid=2008747)
     
     [Več informacij o ravneh dovoljenj](https://go.microsoft.com/fwlink/?linkid=867071)
     

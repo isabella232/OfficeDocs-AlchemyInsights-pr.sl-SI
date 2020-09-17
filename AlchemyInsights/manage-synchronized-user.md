@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 84e337a7224fdd3c3ab7ad0f61240692fe007d5a
-ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
+ms.openlocfilehash: 53c188f6c6ab93bcc6f87d95717dc0d24d492bb7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44407366"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777693"
 ---
-# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Primarnega e-poštnega naslova ni mogoče nastaviti, spremeniti uporabniških atributov ali odstraniti/izbrisati sinhroniziranega uporabnika
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>Primarnega e-poštnega naslova, spreminjanje uporabniških atributov ali odstranjevanje/brisanje sinhroniziranega uporabnika ni mogoče nastaviti
 
-Če je sinhronizacija imenika omogočena za vaše okolje, nekaterih atributov uporabnika ali predmeta ni mogoče spremeniti s skrbniškim središčem Microsoft 365.
+Če je sinhronizacija imenika omogočena za vaše okolje, ne morete spremeniti nekaterih atributov uporabnika ali predmeta s skrbniškim središčem za Microsoft 365.
 
-Če želite v celoti upravljati sinhronizirane uporabnike in vse njihove atribute, uporabite lokalne uporabnike imenika Active Directory in konzolo za upravljanje skupin (Adsiedit. msc).  
+Če želite v celoti upravljati sinhronizirane uporabnike in vse njihove atribute, uporabite svoje lokalne uporabnike imenika Active Directory in konzolo za upravljanje skupin (Adsiedit. msc).  
 
-Lahko pa tudi spremenite posamezne uporabnike ali atribute za sinhronizirane uporabnike z lupino, kot je prikazano v teh pogostih primerih: 
+Druga možnost je, da lahko spremenite posamezne uporabnike ali atribute za sinhronizirane uporabnike z uporabo lupine PowerShell, kot je prikazano v teh pogostih primerih: 
 - `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
 
 - `Set-MsolUser -UserPrincipalName "user@yourdomain.onmicrosoft.com" -DisplayName "Test User" -LastName "User" -Title "Manager" -Department "HR"`
