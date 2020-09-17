@@ -1,25 +1,26 @@
 ---
-title: Načrtovanje uporabe omrežja za sinhronizacijo aplikacije OneDrive
+title: Načrtovanje uporabe omrežja za aplikacijo OneDrive Sync
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5838"
-ms.openlocfilehash: 4f0f33592818e17f0e5a199c16617c8aadcfec3e
-ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
-ms.translationtype: MT
+ms.openlocfilehash: 2e70dfa85ce2647689f9057c8bf7ef4fd5c031f6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708397"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803225"
 ---
-# <a name="network-utilization-planning-for-the-onedrive-sync-app"></a>Načrtovanje uporabe omrežja za sinhronizacijo aplikacije OneDrive
+# <a name="network-utilization-planning-for-the-onedrive-sync-app"></a>Načrtovanje uporabe omrežja za aplikacijo OneDrive Sync
 
-Ta članek je za IT administratorji načrtovanja za uvajanje OneDrive app sinhronizacijo in želijo oceniti omrežne pasovne širine uporabniki bodo morali za sinhronizacijo.  
+V tem članku so skrbniki, ki nameravajo uvesti program za sinhronizacijo OneDrive in želijo oceniti, kako bodo uporabniki omrežja pasovne širine potrebovali sinhronizacijo.  
 
-- [Načrtovanje uporabe omrežja za sinhronizacijo aplikacije OneDrive](https://docs.microsoft.com/onedrive/network-utilization-planning)
+- [Načrtovanje uporabe omrežja za aplikacijo OneDrive Sync](https://docs.microsoft.com/onedrive/network-utilization-planning)
