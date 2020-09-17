@@ -5,26 +5,27 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: 9deeb8510e84904ea8ca43b51216f8dbc682b1b9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: dccbe62fa95e2934cf6ed6d7dd317b2b99e77ec0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714346"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783788"
 ---
 # <a name="error-messages-when-sharing"></a>Sporočila o napakah pri skupni rabi
 
-Če se pri poskusu skupne rabe z zunanjim uporabnikom prikaže sporočilo o napaki, najverjetneje zunanja skupna raba ni omogočena ali pa je skupna raba nastavljena tako, da ne omogoča ravni skupne rabe, ki jo uporabnik poskuša.
+Če prejmete sporočilo o napaki, ko poskušate dati v skupno rabo z zunanjim uporabnikom, najverjetneje zunanja skupna raba ni omogočena ali pa je skupna raba nastavljena tako, da ne dovoli ravni skupne rabe uporabnika.
   
-V novem skrbniškem središču SharePoint v levem podoknu kliknite **Skupna raba** . Izberite raven skupne rabe, ki jo želite dovoliti. Prepričajte se, da je zunanja skupna raba vklopljena za spletno mesto. 
+V novem skrbniškem središču za SharePoint kliknite **Skupna raba** v levem podoknu. Izberite raven skupne rabe, ki jo želite omogočiti. Prepričajte se, da je za spletno mesto vklopljena zunanja skupna raba. 
   
-Če se uporabnik poskuša prijaviti, prejme sporočilo o napaki, poskusite naslednje korake:
+Če se uporabnik, ki se poskuša prijaviti, prejme sporočilo o napaki, poskusite s temi koraki:
   
 - Zagotovite, da je uporabnik sprejel povabilo za skupno rabo, ki je bilo poslano.
     
-- Zagotovite, da uporabnik sprejme povabilo z e-poštnim naslovom, ki mu je bil poslan.
+- Zagotovite, da uporabnik sprejme povabilo z e-poštnim naslovom, na katerega je bil poslan.
     
 

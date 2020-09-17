@@ -1,23 +1,24 @@
 ---
-title: Excel odpre prazno
+title: Excel se odpre prazno
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: 32546a6fcab15e7712f8008b372fe51250e85853
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a7f3bf370a9f200c158bfe505012136867578dea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391535"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783459"
 ---
-# <a name="excel-opens-blank"></a>Excel odpre prazno
+# <a name="excel-opens-blank"></a>Excel se odpre prazno
 
-Če Excel zažene, vendar prikaže prazen zaslon, kjer lahko pričakujete datoteko pojavljati, glejte [Odpravljanje Excelu odprete prazno, ko dvokliknete ikono datoteke ali ime datoteke](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).
+Če se Excel zažene, vendar prikaže prazen zaslon, na katerega pričakujete, da se prikaže datoteka, si oglejte [Odpravljanje težav z odprtjem Excela, ko dvokliknete ikono datoteke ali ime datoteke](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).
