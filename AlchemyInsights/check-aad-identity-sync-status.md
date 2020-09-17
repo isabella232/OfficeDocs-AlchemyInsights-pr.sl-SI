@@ -1,11 +1,12 @@
 ---
-title: Preverite stanje sinhronizacije identitete AAD
+title: Preverjanje stanja sinhronizacije ZVOČNIh identitet
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,22 +14,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: 182ca2525f428bf3b11513410b3f82ca64f230a6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e06eab76adcdb2b99b8aaa738f677950fa1af16b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706325"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793918"
 ---
-# <a name="check-aad-identity-sync-status"></a>Preverite status AAD Identity Sync
+# <a name="check-aad-identity-sync-status"></a>Preverjanje stanja sinhronizacije ZVOČNIh identitet
 
 Preverjanje stanja sinhronizacije je preprosto:
   
-- Prijavite se v skrbniško središče Microsoft 365 in na domači strani izberite **stanje DirSync** .
+- Vpišite se v skrbniško središče za Microsoft 365 in na domači strani izberite **stanje DirSync** .
 
-- Izmenično, lahko greste na uporabniki \> aktivni uporabniki, in na aktivnih uporabnikov stran, izberite več \> Directory sinhronizacija.
+- Izmenično se lahko poiščete v razdelku uporabniki \> aktivni uporabniki in na strani aktivni uporabniki izberite več \> sinhronizacije imenika.
 
-- V podoknu sinhronizacija imenika izberite Pojdi na upravljanje DirSync.
+- V podoknu za sinhronizacijo imenika izberite Pojdi na DirSync Management.
 
-Če pride do težave s sinhronizacijo imenika, so napake navedene na tej strani. Če želite več informacij o različnih napakah, ki jih lahko naletite, glejte [Ogled napak pri sinhronizaciji imenika](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
+Če je pri sinhronizaciji imenika prišlo do težave, so napake navedene na tej strani. Če želite več informacij o različnih napakah, ki jih boste morda naleteli, glejte [Ogled napak pri sinhronizaciji imenika](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).
   

@@ -1,45 +1,42 @@
 ---
-title: Uporaba Officeovega orodja za uvajanje
+title: Uporaba orodja za uvajanje sistema Office
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: d941bce524dc797d5dcbb7213bded6919fd01b7d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 9698aa12ad73a021a3cc12c8517c1712c48d8385
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010886"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794927"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>Uporaba orodja za uvajanje Officea (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>Uporaba orodja za uvajanje sistema Office (ODT)
 
-Officeovo orodje za razmestitev (ODT) uporabite za uvajanje Officeovih različic 365. Officeovo orodje za razmestitev (setup. exe) se zažene iz ukazne vrstice in uporablja konfiguracijsko datoteko XML, da določi, katere nastavitve naj se uporabijo pri uvajanju Officea.
+Z orodjem za uvedbo sistema Office (ODT) lahko uvedete Office 365 različice Officea. Orodje za uvajanje sistema Office (setup.exe) se izvaja v ukazni vrstici in uporablja datoteko konfiguracijske datoteke XML, da določi, katere nastavitve uporabiti pri uvajanju Officea.
   
-1. Prenesite najnovejšo različico orodja za uvajanje Officea iz [Microsoftovega centra za prenose](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. Prenesite najnovejšo različico orodja za uvedbo sistema Office iz [Microsoftovega središča za prenose](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
-2. Z [orodjem za prilagajanje Office (Oct)](https://config.office.com) izberite nastavitve uvajanja in ustvarite KONFIGURACIJSKO datoteko XML. Izvozite konfiguracijsko datoteko in jo postavite lokalno v isto mapo, kjer se nahaja setup. exe.
+2. Z [orodjem za prilagajanje sistema Office (okt)](https://config.office.com) izberite nastavitve uvajanja in ustvarite datoteko XML za konfiguracijo. Izvozite konfiguracijsko datoteko in jo postavite na lokalno mesto v isti mapi, kjer setup.exe prebiva.
 
-    **Opomba:** Težave z namestitvijo Officea se pogosto pojavijo zaradi napačnih konfiguriranih ali nepravilno oblikovanih konfiguracijskih datotek. Da bi se izognili takim težavam, priporočamo, da za ustvarjanje konfiguracijske datoteke uporabite orodje Office customization Tool. Obstoječe konfiguracijske datoteke lahko uvozite tudi v orodje za prilagajanje Officea.
+    **Opomba:** Težave z namestitvijo Officea se običajno pojavijo zaradi napačno konfiguriranih ali malformatted konfiguracijskih datotek. Če se želite izogniti takim težavam, vam priporočamo, da ustvarite konfiguracijsko datoteko z orodjem za prilagajanje sistema Office. Obstoječe konfiguracijske datoteke lahko uvozite tudi v Officeovo orodje za prilagajanje.
 
-3. Iz povišanega ukaznega poziva preklopite na mesto, kjer se nahaja setup. exe, in zaženite orodje za uvajanje Officea v načinu prenosa in določite konfiguracijsko datoteko, ki ste jo pravkar shranili. V tem primeru je konfiguracijska datoteka imenovana konfiguracija. XML:
-    
-  ```
-  setup.exe /download Configuration.xml  
-  ```
+3. V ukazu» visok ukazni poziv «preklopite na mesto, kjer setup.exe prebiva, in zaženite orodje za uvajanje sistema Office v načinu za prenos in določite konfiguracijsko datoteko, ki ste jo pravkar shranili. V tem primeru je konfiguracijska datoteka imenovana Configuration.xml:
 
-4. Zaženite orodje za uvajanje Officea v načinu konfiguriranja in določite konfiguracijsko datoteko.
-    
-  ```
-  setup.exe /configure Configuration.xml
-  ```
+```setup.exe /download Configuration.xml```
 
-    **Opomba:** Ta korak morate zagnati v odjemalskem računalniku, v katerem želite namestiti Office, in v tem računalniku morate imeti dovoljenja lokalnega skrbnika.
+4. zaženite orodje za uvedbo sistema Office v načinu Konfiguriraj in določite konfiguracijsko datoteko.
 
-Če želite izvedeti več o uporabi Officeovega orodja za uvajanje za Microsoft 365 aplikacije za scenarije uvajanja za podjetja, glejte [pregled orodja za uvajanje Officea](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Če želite več podrobnosti o uporabi orodja za prilagajanje Office, glejte [pregled orodja za prilagajanje Officea](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+```setup.exe /configure Configuration.xml```
+
+**Opomba:** Ta korak morate zagnati iz odjemalskega računalnika, v katerem želite namestiti Office, in morate imeti dovoljenja lokalnih skrbnikov v tem računalniku.
+
+Če želite izvedeti več o uporabi orodja za uvajanje sistema Office za aplikacije Microsoft 365 apps za uvajanje, glejte [pregled orodja za uvedbo sistema Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). Če želite več informacij o uporabi orodja za prilagajanje sistema Office, glejte [pregled orodja za prilagajanje sistema Office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).

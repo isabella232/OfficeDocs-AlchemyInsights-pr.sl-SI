@@ -1,34 +1,35 @@
 ---
-title: Spremeni organ MDM
+title: Spreminjanje MDM avtoritete
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: dd0489fad201f97c22eb2c80934816186fd26a20
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f336ef2b84dcc7a44c6b603e2fbdb1aa08bd367d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706807"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793846"
 ---
-# <a name="change-intune-mdm-authority"></a>Spremeni InTune MDM organ
+# <a name="change-intune-mdm-authority"></a>Spreminjanje InTune MDM Authority
 
-Organ MDM lahko spremenite, ne da bi odprli primer podpore. Za navodila glejte naslednje dokumente:
+MDM lahko spremenite, ne da bi odprli primer podpore. Navodila najdete v teh dokumentih:
   
-- [Sprememba vaš MDM pooblastilo s zunanja podoba šef v InTune standalone](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [Spreminjanje MDM avtoritete iz upravitelja konfiguracije za inuglaševanje samostojne](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [Spremenite svoj organ MDM iz InTune standalone v Upravitelj konfiguracije](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [Spreminjanje MDM avtoritete za InTune samostojne v upravitelja konfiguracije](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
- **Soobstoj organa MDM**
+ **Soobstoj MDM organa**
   
-- Lahko imajo tako MDM organi aktivni hkrati, če že imate Office 365 MDM omogočen, vendar želite poskusiti InTune MDM.
+- Če že imate omogočeno Office 365 MDM, lahko uporabite obe MDM oblasti, vendar želite poskusiti InTune MDM.
     
-- Administratorji, ki že imajo O365 MDM aktivna lahko preprosto označite InTune MDM kot aktivne iz portala Azure.
+- Skrbniki, ki že imajo O365 MDM Active, lahko preprosto označijo MDM kot aktivno v portalu Azure.
     
-- Če vi življati InTune MDM šele biti brez rabiti od urad 365 MDM: prosim plan a karta spodaj ter a zaslomba senzal hoteti pomoč usposobiti to zakaj vi.
+- Če imate InTune MDM, vendar želite izkoristiti Office 365 MDM: Odprite vstopnico spodaj, ki vam bo omogočila, da to omogočite.
     
 

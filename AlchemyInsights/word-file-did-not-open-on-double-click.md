@@ -1,49 +1,50 @@
 ---
-title: Wordova datoteka se ni odprla na dvokliknem
+title: Wordova datoteka se ni odprla v dvojnem kliku
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 15ace133c344020e0056eff32d77911a9c23d376
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36558201"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47794819"
 ---
-# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Wordov dokument, odprt v napačni aplikaciji ali pa se ni odprl
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>Wordov dokument je bil odprt v napačnem programu ali pa se ni odprl
 
-Preizkusite enega od teh predlogov:
+Poskusite eno od teh predlogov:
 
-**Izberite Word kot privzeto**
+**Izbira besede kot privzetega**
 
-- Z desno miškino tipko kliknite dokument, izberite **Odpri**in nato izberite **Word**
+- Z desno tipko miške kliknite dokument, izberite **Odpri z**in nato izberite **Word**
 
-**Zaženi hitro popravilo**
+**Zagon hitrega popravila**
 
-1. Pojdite na **nadzorno ploščo > programi > programi in funkcije**.
+1. Pojdite na **Nadzorna plošča > programi > programi in funkcijami**.
 
 2. Izberite Officeov izdelek, ki ga želite popraviti, in nato izberite **Spremeni**.
 
-3. Izberite možnost **hitro popravljanje** in nato izberite **Popravi**.
+3. Izberite možnost za **hitro popravilo** in nato izberite **Popravi**.
 
-**Odstranitev različic Officea, ki jih ne uporabljate**
+**Odstranjevanje različic Officea, ki jih ne uporabljate**
 
-1. Pojdite na **nadzorno ploščo > odstranite program**in izberite različico Officea, ki jo želite odstraniti.
+1. Pojdite na **nadzorno ploščo > odstranite program**, nato pa izberite različico Officea, ki jo želite odstraniti.
 
 2. Kliknite **Odstrani**.
 
 3. Znova zaženite računalnik.
 
-**Zaženite to orodje za odpravljanje težav, če želite nastaviti Officeove razširitve za odpiranje v Officeu**
+**Zaženite to orodje za odpravljanje težav, če želite nastaviti razširitve Officeovih datotek, da se odpre v Officeu**
 
-1. Zaženite to orodje za https://aka.ms/diag_officefileodpravljanje težav:.
+1. Zaženite ta orodje za odpravljanje težav: https://aka.ms/diag_officefile .
 
-2. Glede na brskalnik **odprite** ali **shranite** orodje za odpravljanje težav na namizje in ga **zaženite** .
+2. Odvisno od brskalnika, **odprite** ali **shranite** orodje za odpravljanje težav na namizje in ga **zaženite** .
