@@ -5,33 +5,34 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062877"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799256"
 ---
 # <a name="your-products"></a>Vaši izdelki
 
-Naročnine, ki so v lasti organizacije, lahko najdete na strani za **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Tukaj je nekaj vrhuncev te strani skupaj s povezavami za več informacij o vsaki funkciji:
+Naročnine, ki so v lasti organizacije, najdete na strani **obračunavanje**  >  **[vaših izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Tukaj je nekaj vrhuncev te strani skupaj s povezavami za več informacij o posameznih funkcijah:
 
-1. Upravljajte število licenc, ki so bile kupljene za vsako naročnino, skupaj s tem, koliko jih je v uporabi.  **Opomba**: licence, ki niso v uporabi (niso dodeljene uporabniku), so še vedno zaračunane.  Če ne želite zaračunati neporabljenih licenc, zmanjšajte število kupljenih licenc. Če želite več informacij o dodajanju ali odstranjevanju licenc iz naročnine, glejte [Dodajanje ali zmanjševanje licenc](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
+1. Upravljajte število licenc, ki so bile kupljene za vsako naročnino, skupaj s števili, ki so v uporabi.  **Opomba**: licence, ki niso v uporabi (niso dodeljene uporabniku), so še vedno zaračunane.  Če ne želite zaračunati neuporabljenih licenc, zmanjšajte število kupljenih licenc. Če želite več informacij o dodajanju ali odstranjevanju licenc iz naročnine, si oglejte [Kako dodati ali zmanjšati licence](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
-2. Oglejte si podaljšanje ali datum poteka naročnine.  Obnovitev lahko upravljate tako, da kliknete povezavo **Uredi** poleg **renews/poteče** datum.  Če želite več informacij o upravljanju ponavljajočega se obračunavanja, glejte [obnovitev microsoftovega 365 za podjetja](https://go.microsoft.com/fwlink/?linkid=2119216) .
+2. Oglejte si datum podaljšanja ali poteka naročnine.  Podaljšanje lahko upravljate tako, da kliknete povezavo **Uredi** ob možnosti **renews/poteče** na dan.  Če želite več informacij o tem, kako upravljati ponavljajoče se obračunavanje, glejte [podaljšanje Microsoft 365 za podjetja](https://go.microsoft.com/fwlink/?linkid=2119216) .
 
-3. [Znova aktivirajte potekli ali onemogočeni naročnini](https://go.microsoft.com/fwlink/?linkid=2117519).
+3. [Znova aktivirajte poteklo ali onemogočeno naročnino](https://go.microsoft.com/fwlink/?linkid=2117519).
 
-4. [Uredite plačilno sredstvo, ki se uporablja za plačevanje naročnine](https://go.microsoft.com/fwlink/?linkid=2117167).
+4. [Uredite način plačila, ki se uporablja za plačilo naročnine](https://go.microsoft.com/fwlink/?linkid=2117167).
 
-5. [Spremenite, kako pogosto se zaračunavajo](https://go.microsoft.com/fwlink/?linkid=2119112).
+5. [Spremenite, kako pogosto se zaračunavate](https://go.microsoft.com/fwlink/?linkid=2119112).
 
-6. [Prekličete naročnino](https://go.microsoft.com/fwlink/?linkid=2119113).
+6. [Preklic naročnine](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-Dodatne naročnine lahko kupite na **Billing**  >  strani[**storitev nakupa**](https://go.microsoft.com/fwlink/p/?linkid=868433) računov.
+Dodatne naročnine lahko kupite na strani storitve za nakup **obračunavanja**  >  [**Purchase services**](https://go.microsoft.com/fwlink/p/?linkid=868433) .

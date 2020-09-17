@@ -1,10 +1,11 @@
 ---
-title: Premakni e-pošto na Microsoft 365
+title: Premikanje e-pošte v Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,18 +13,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: b8117d10f4e2062a3313488d626be9cb92654bd6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: abe11201d2c6dc4c517231b191f22e8ed2038411
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713626"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799760"
 ---
-# <a name="move-email-to-microsoft-365"></a>Premakni e-pošto na Microsoft 365
+# <a name="move-email-to-microsoft-365"></a>Premikanje e-pošte v Microsoft 365
 
-Imate več možnosti za selitev e-pošte na Microsoft 365. [Svetovalec za selitev pošte Microsoft 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) vam pomaga izbrati najboljšega za vaše okolje in vas vodi tudi prek selitve pošte.
+Za selitev e-pošte v Microsoft 365 imate na voljo več možnosti. [Svetovalec za selitev pošte Microsoft 365 mail](https://aka.ms/alchemyinsight-mailmigrationadvisor) vam pomaga izbrati najboljšo za svoje okolje in vas tudi vodi prek selitve pošte.
   
-Če želite prebrati o možnostih, ne da bi začeli selitev, glejte [odločite se za migracijsko pot](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
+Če želite prebrati več o možnostih, ne da bi začeli selitev, glejte [odločitev o selitvi](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).
 
-Prosimo, preverite tudi [privzeti Microsoft 365 s FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) stran za pomoč pri selitvi, če je to upravičeno.
+Preverite tudi, ali ste za pomoč pri selitvi, če so upravičeni, na strani» [privzeti Microsoft 365 z FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) «.
   

@@ -1,28 +1,29 @@
 ---
-title: Način skupaj Microsoft Teams
+title: Način» Microsoft Teams Together «
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: 1738a21ea98f4c3c8a6a244492850a87c39441de
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
-ms.translationtype: MT
+ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45198323"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799868"
 ---
-# <a name="microsoft-teams-together-mode"></a>Način skupaj Microsoft Teams
+# <a name="microsoft-teams-together-mode"></a>Način» Microsoft Teams Together «
 
-Skupaj način združuje desetletja raziskav in razvoja izdelkov za udeležence na video klic, da se zdi, da so skupaj v virtualni prostor, kot so Avditorij, sejni sobi, ali Kava bar. 
+Način skupaj združuje desetletja raziskav in razvoja izdelkov za udeležence na video klicu, ki je prikazan v navideznem prostoru, kot je Avditorij, sejna soba ali Kava bar. 
 
-Nova funkcija jarki tradicionalno mrežo škatel, ki ustvarja okolje, da uporabniki pravijo, ima velik vpliv na občutek video konference in zagotavlja več kohezije v skupino. Če želite izvedeti več o načinu skupaj, si oglejte, [kako pridobite največ iz načina skupaj](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
+Nova funkcija jarki tradicionalno mrežo polj, ustvarjanje okolja, ki ga imajo uporabniki za to, da ima velik vpliv na delovanje konferenčne konference in zagotavlja večjo povezanost skupini. Če želite izvedeti več o načinu» skupaj «, si oglejte, [Kako lahko pridobite največ iz skupnega načina](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
 
-Če želite več informacij o tem, kdaj bo na voljo način skupaj za vašo organizacijo, glejte Microsoftov načrt za 365, [Microsoft Teams – način skupaj](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
+Če želite več informacij o načinu za združevanje, ki bo na voljo za vašo organizacijo, glejte načrt Microsoft 365, [način Microsoft Teams – skupaj](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)

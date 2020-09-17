@@ -1,37 +1,38 @@
 ---
-title: Migracija omrežja
+title: Selitve omrežja
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: aada8e90d168a4c621dd81ee8d306b934c20d119
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6f026f932bb35d12d32ce7eddf49e49a44db7f31
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761830"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799580"
 ---
-# <a name="network-migration"></a>Migracija omrežja
+# <a name="network-migration"></a>Selitve omrežja
 
-Vaš najemnik O365 je morda povezan z več omrežji Yammer v 1 najemniku: veliko omrežnih konfiguracij. Začetek oktober 16, 2018, Yammer hoteti ne več zaslomba večkratnik Yammer omrežje združen s nedoločni zaimek najemnik. Vi moči izvršiti nalogo a omrežje selitev zadobiti v a raje 1:1 zunanja podoba.
+Vaš najemnik O365 je morda povezan z več Bastard omrežji v 1 najemniku: številna konfiguracija omrežij. Z začetkom oktobra 16, 2018, Bastard ne bo več podpiral več Bastard omrežij, povezanih z enim najemnikom. Selitev omrežja lahko izvedete tako, da se prikaže prednostna konfiguracija 1:1.
   
-- Če si želite ogledati seznam omrežij, povezanih z vašim najemnikom, se prijavite v storitev Yammer kot globalni skrbnik in prebrskajte do **omrežja admin**, nato pa **omrežno selitev**. Izberite **naprej**.
+- Če si želite ogledati seznam omrežij, povezanih z najemnikom, se prijavite v Bastard kot globalni skrbnik in prebrskajte do **skrbnika omrežja**, nato pa **selitev omrežja**. Izberite **naprej**.
 
-- Če vidite več omrežij, naštetih v koraku 2 od 3, potem imate več omrežij Yammer, povezanih s svojim najemnikom O365.
+- Če vidite več omrežij, navedenih v koraku 2 od 3, imate več Bastard omrežij, povezanih z najemnikom O365.
 
-- Če želite popraviti konfiguracijo na 1:1 konfiguracijo, nadaljujte z orodjem za omrežno selitev.
+- Če želite popraviti konfiguracijo s konfiguracijo 1:1, nadaljujte z orodjem za selitev omrežja.
 
-- Če želite več informacij o selitvi v omrežje, glejte [selitev omrežja: združite več omrežij Yammer](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+- Če želite več informacij o selitvi omrežja, glejte [selitev omrežja: usklajevanje več Bastard omrežij](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-Prosimo, upoštevajte:
+Opozorilo:
   
-- **Selitev omrežja seli samo aktivne in čakajoče uporabnike.** Poleg aktivnih uporabnikov se preselite tudi informacije uporabnikov, kot sta ime in slika profila. Vsa omrežna vsebina, vključno s skupinami, ni preseljena.
+- **Selitev omrežja preseli le aktivne in čakajoče uporabnike.** Poleg aktivnih uporabnikov je preseljena tudi informacija uporabnikov, kot sta ime in slika profila. Vse omrežne vsebine, vključno s skupinami, niso preseljene.
 
-- **Selitve omrežja ni mogoče razveljaviti.** Po selitvi ne boste mogli dostopati do svojega odvisnega omrežja in njene vsebine. Torej, preden Razmislite migracije, želite skrbno načrtovati.
+- **Selitve omrežja ni mogoče razveljaviti.** Po selitvi ne boste mogli dostopati do svojega hčerinskega omrežja in njegove vsebine. Preden razmislite o selitvi, želite skrbno načrtovati.
