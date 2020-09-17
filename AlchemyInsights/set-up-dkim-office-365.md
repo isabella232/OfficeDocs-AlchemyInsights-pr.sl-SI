@@ -5,47 +5,48 @@ author: chrisda
 manager: dansimp
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b34bfdafcab6229a4dd2e9d9f23103fa13556482
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509400"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47808723"
 ---
 # <a name="setup-dkim"></a>Nastavitev DKIM
 
-Popolna navodila za konfiguriranje DKIM za domene po meri v Microsoft 365 so [tukaj](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
+Dokončana navodila za konfiguriranje DKIM za domene po meri v storitvi Microsoft 365 so [tukaj](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
-1. Za **vsako** domeno po meri morate ustvariti **dva** zapisa DKIM CNAME v storitvi gostovanja DNS domene (običajno registrar domene). Contoso.com in fourthcoffee.com na primer zahtevata štiri zapise DKIM CNAME: dve za contoso.com in dva za fourthcoffee.com.
+1. Za **vsako** domeno po meri morate ustvariti **dva** DKIM zapisa CNAME pri ponudniku storitev gostovanja DNS domene (običajno je Registrator domene). Na primer contoso.com in fourthcoffee.com zahtevajo štiri zapise CNAME DKIM: dva za contoso.com in dve za fourthcoffee.com.
 
-   Zapisi DKIM CNAME za **vsako** domeno po meri uporabljajo naslednje formate:
+   Zapisi CNAME DKIM za **vsako** domeno po meri uporabljajo te oblike zapisa:
 
-   - **Ime gostitelja**:`selector1._domainkey.<CustomDomain>`
+   - **Ime gostitelja**: `selector1._domainkey.<CustomDomain>`
 
-     **Točke za naslov ali vrednost**:`selector1-<DomainGUID>._domainkey.<InitialDomain>`
-
-     **TTL**: 3600
-
-   - **Ime gostitelja**:`selector2._domainkey.<CustomDomain>`
-
-     **Točke za naslov ali vrednost**:`selector2-<DomainGUID>._domainkey.<InitialDomain>`
+     **Pokaže na naslov ali vrednost**: `selector1-<DomainGUID>._domainkey.<InitialDomain>`
 
      **TTL**: 3600
 
-   \<DomainGUID\>je besedilo na levi strani v meri `.mail.protection.outlook.com` zapisa MX za domeno po meri (na primer `contoso-com` za domeno contoso.com). \<InitialDomain\>je domena, ki ste jo uporabili, ko ste se prijavili za Microsoft 365 (na primer contoso.onmicrosoft.com).
+   - **Ime gostitelja**: `selector2._domainkey.<CustomDomain>`
 
-2. Ko ustvarite zapise CNAME za domene po meri, izpolnite ta navodila:
+     **Pokaže na naslov ali vrednost**: `selector2-<DomainGUID>._domainkey.<InitialDomain>`
 
-   A. [Vpišite se v Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) s svojim delovnim ali šolskim računom.
+     **TTL**: 3600
 
-   B. V zgornjem levem kotu izberite ikono zaganjalnika aplikacij in izberite **skrbnik**.
+   \<DomainGUID\> je besedilo levo od `.mail.protection.outlook.com` zapisa prilagojene MX za domeno po meri (na primer `contoso-com` za domeno contoso.com). \<InitialDomain\> je domena, ki ste jo uporabili, ko ste se prijavili za Microsoft 365 (na primer contoso.onmicrosoft.com).
 
-   C. V spodnjem levem krmarjenju razširite možnost **skrbnik** in izberite **Exchange**.
+2. Ko ustvarite zapise CNAME za domene po meri, dokončajte ta navodila:
 
-   D. Pojdi na **zaščito**  >  **DKIM**.
+   v. [Vpišite se v Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) s službenim ali šolskim računom.
 
-   E. Izberite domeno in nato izberite **Omogoči** za **podpisovanje sporočil za to DOMENO s podpisi DKIM**. Ponovite ta korak za vsako domeno po meri.
+   b. Izberite ikono zaganjalnika programov v zgornjem levem kotu in izberite **skrbnik**.
+
+   c. V spodnjem levem podoknu za krmarjenje razširite možnost **skrbnik** in izberite **Exchange**.
+
+   d. Pojdite v razdelek **zaščita**  >  **DKIM**.
+
+   e. Izberite domeno in nato izberite **Omogoči** za **podpisovanje sporočil za to domeno s podpisi DKIM**. Ponovite ta korak za vsako domeno po meri.
