@@ -1,10 +1,11 @@
 ---
-title: Namestitev Skypa za podjetja
+title: Namestitev Skype za podjetja
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,15 +15,15 @@ ms.custom:
 - "9000741"
 - "2669"
 ms.assetid: 907e4547-f840-4448-8af2-98de3b0ddd06
-ms.openlocfilehash: 07aef10b2b3c43c3a45e21972bb47b05b975f50b
-ms.sourcegitcommit: 5dcd373dfc4e7e373d7d9ec2321146995e353018
+ms.openlocfilehash: fb58fd3f4250835e1710f07a12cbdc907e9baafa
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/22/2020
-ms.locfileid: "41264587"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778275"
 ---
-# <a name="install-skype-for-business"></a><span data-ttu-id="14045-102">Namestitev Skypa za podjetja</span><span class="sxs-lookup"><span data-stu-id="14045-102">Install Skype for Business</span></span>
+# <a name="install-skype-for-business"></a><span data-ttu-id="da052-102">Namestitev Skype za podjetja</span><span class="sxs-lookup"><span data-stu-id="da052-102">Install Skype for Business</span></span>
 
-<span data-ttu-id="14045-103">Skype za podjetja lahko namestite tako, da sledite korakom [tukaj](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).</span><span class="sxs-lookup"><span data-stu-id="14045-103">You can install Skype for Business by following the steps  [here](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).</span></span>
+<span data-ttu-id="da052-103">Skype za podjetja lahko namestite tako, da upoštevate navodila  [tukaj](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).</span><span class="sxs-lookup"><span data-stu-id="da052-103">You can install Skype for Business by following the steps  [here](https://support.office.com/article/Install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb.aspx).</span></span>
 
-<span data-ttu-id="14045-104">Če želite več informacij o odstranjevanju, glejte [odstranjevanje Skypa za podjetja](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).</span><span class="sxs-lookup"><span data-stu-id="14045-104">For information about uninstalling, see [Uninstall Skype for Business](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).</span></span>
+<span data-ttu-id="da052-104">Če želite več informacij o odstranjevanju, glejte [odstranjevanje Skype za podjetja](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).</span><span class="sxs-lookup"><span data-stu-id="da052-104">For information about uninstalling, see [Uninstall Skype for Business](https://support.office.com/article/uninstall-skype-for-business-28c4a036-7f22-406c-b7f4-87894cbaf902).</span></span>

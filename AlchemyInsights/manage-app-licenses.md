@@ -6,35 +6,36 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: cac8564d4939d498b2bd0e40a971b3c4d4ed09da
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: a78f83fe3f2c63143d62d733a53f7dcbaed78a56
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063885"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778167"
 ---
-# <a name="manage-app-licenses"></a><span data-ttu-id="6157b-102">Upravljanje licenc za aplikacije</span><span class="sxs-lookup"><span data-stu-id="6157b-102">Manage app licenses</span></span>
+# <a name="manage-app-licenses"></a><span data-ttu-id="c89a2-102">Upravljanje licenc za aplikacije</span><span class="sxs-lookup"><span data-stu-id="c89a2-102">Manage app licenses</span></span>
 
-## <a name="to-change-license-quantity"></a><span data-ttu-id="6157b-103">Spreminjanje količine licence</span><span class="sxs-lookup"><span data-stu-id="6157b-103">To change license quantity</span></span>
+## <a name="to-change-license-quantity"></a><span data-ttu-id="c89a2-103">Spreminjanje količine licence</span><span class="sxs-lookup"><span data-stu-id="c89a2-103">To change license quantity</span></span>
 
-1. <span data-ttu-id="6157b-104">Pojdite na stran za **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** , nato izberite zavihek **aplikacije** .</span><span class="sxs-lookup"><span data-stu-id="6157b-104">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="c89a2-104">Pojdite na stran **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** in nato izberite zavihek **aplikacije** .</span><span class="sxs-lookup"><span data-stu-id="c89a2-104">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="6157b-105">Poiščite in izberite aplikacijo, ki jo želite upravljati.</span><span class="sxs-lookup"><span data-stu-id="6157b-105">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="c89a2-105">Poiščite in izberite aplikacijo, ki jo želite upravljati.</span><span class="sxs-lookup"><span data-stu-id="c89a2-105">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="6157b-106">Izberite **Dodaj/odstrani licence**.</span><span class="sxs-lookup"><span data-stu-id="6157b-106">Select **Add/remove licenses**.</span></span>
+3. <span data-ttu-id="c89a2-106">Izberite **Dodaj/odstrani licence**.</span><span class="sxs-lookup"><span data-stu-id="c89a2-106">Select **Add/remove licenses**.</span></span>
 
-4. <span data-ttu-id="6157b-107">Vnesite novo število potrebnih licenc.</span><span class="sxs-lookup"><span data-stu-id="6157b-107">Enter the new number of licenses needed.</span></span> <span data-ttu-id="6157b-108">Če imate na primer trenutno 5 licenc in potrebujete samo 4, v polje **Skupna dovoljenja** vnesite 4.</span><span class="sxs-lookup"><span data-stu-id="6157b-108">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="6157b-109">Če imate trenutno 5 licenc in potrebujete 10 celotnih licenc, v polje **Skupna dovoljenja** vnesite 10.</span><span class="sxs-lookup"><span data-stu-id="6157b-109">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
+4. <span data-ttu-id="c89a2-107">Vnesite novo število licenc, ki jih potrebujete.</span><span class="sxs-lookup"><span data-stu-id="c89a2-107">Enter the new number of licenses needed.</span></span> <span data-ttu-id="c89a2-108">Če imate na primer trenutno 5 licenc in potrebujete le 4, v polje **Skupna dovoljenja** vnesite 4.</span><span class="sxs-lookup"><span data-stu-id="c89a2-108">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="c89a2-109">Če imate trenutno 5 licenc in potrebujete 10 skupnih licenc, v polje **Skupna dovoljenja** vnesite 10.</span><span class="sxs-lookup"><span data-stu-id="c89a2-109">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
 
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="6157b-110">Dodeljevanje licenc za aplikacije</span><span class="sxs-lookup"><span data-stu-id="6157b-110">To assign app licenses</span></span>
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="c89a2-110">Dodeljevanje licenc za aplikacijo</span><span class="sxs-lookup"><span data-stu-id="c89a2-110">To assign app licenses</span></span>
 
-1. <span data-ttu-id="6157b-111">Pojdite na stran za **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** , nato izberite zavihek **aplikacije** .</span><span class="sxs-lookup"><span data-stu-id="6157b-111">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="c89a2-111">Pojdite na stran **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** in nato izberite zavihek **aplikacije** .</span><span class="sxs-lookup"><span data-stu-id="c89a2-111">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
 
-2. <span data-ttu-id="6157b-112">Poiščite in izberite aplikacijo, ki jo želite upravljati.</span><span class="sxs-lookup"><span data-stu-id="6157b-112">Find and select the app you want to manage.</span></span>  
+2. <span data-ttu-id="c89a2-112">Poiščite in izberite aplikacijo, ki jo želite upravljati.</span><span class="sxs-lookup"><span data-stu-id="c89a2-112">Find and select the app you want to manage.</span></span>  
 
-3. <span data-ttu-id="6157b-113">Pod možnostjo **nastavitve & dejanja**izberite povezavo za **upravljanje v Publisherjevem portalu**.</span><span class="sxs-lookup"><span data-stu-id="6157b-113">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
+3. <span data-ttu-id="c89a2-113">V razdelku **nastavitve & dejanja**izberite povezavo, ki jo želite **upravljati v portalu za Publisher**.</span><span class="sxs-lookup"><span data-stu-id="c89a2-113">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>

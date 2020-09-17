@@ -1,11 +1,12 @@
 ---
-title: Spremenite jezik, jezik, obliko datuma in časa ali časovni pas v Outlook.com
+title: Spreminjanje jezika v jeziku, obliki zapisa datuma in ure ali časovnega pasu v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,15 +14,15 @@ ms.custom:
 - "1839"
 - "8000014"
 - "9000249"
-ms.openlocfilehash: 9368fe86c2f0e4756c69dd56e4a5e6cdefdfe841
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cb3f720ec270a6bdc1a8ae7f817862e41f71f666
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722023"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47777620"
 ---
-# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a><span data-ttu-id="7b1e3-102">Spremenite jezik, obliko datuma in časa ali časovni pas v Outlook.com</span><span class="sxs-lookup"><span data-stu-id="7b1e3-102">Change your language, date and time format, or time zone in Outlook.com</span></span>
+# <a name="change-your-language-date-and-time-format-or-time-zone-in-outlookcom"></a><span data-ttu-id="0293f-102">Spreminjanje jezika, oblike zapisa datuma in ure ali časovnega pasu v Outlook.com</span><span class="sxs-lookup"><span data-stu-id="0293f-102">Change your language, date and time format, or time zone in Outlook.com</span></span>
 
-1. <span data-ttu-id="7b1e3-103">Odprite [Nastavitve jezika in časa](https://go.microsoft.com/fwlink/?linkid=2085505).</span><span class="sxs-lookup"><span data-stu-id="7b1e3-103">Open your [Language and time settings](https://go.microsoft.com/fwlink/?linkid=2085505).</span></span>
-1. <span data-ttu-id="7b1e3-104">Izberite jezik, obliko datuma, obliko zapisa časa in časovni pas, ki ga želite uporabiti.</span><span class="sxs-lookup"><span data-stu-id="7b1e3-104">Select the language, date format, time format, and time zone you want to use.</span></span>
-1. <span data-ttu-id="7b1e3-105">Izberite **Shrani**.</span><span class="sxs-lookup"><span data-stu-id="7b1e3-105">Select **Save**.</span></span>
+1. <span data-ttu-id="0293f-103">Odprite [jezikovne in časovne nastavitve](https://go.microsoft.com/fwlink/?linkid=2085505).</span><span class="sxs-lookup"><span data-stu-id="0293f-103">Open your [Language and time settings](https://go.microsoft.com/fwlink/?linkid=2085505).</span></span>
+1. <span data-ttu-id="0293f-104">Izberite jezik, obliko datuma, obliko zapisa časa in časovni pas, ki ga želite uporabiti.</span><span class="sxs-lookup"><span data-stu-id="0293f-104">Select the language, date format, time format, and time zone you want to use.</span></span>
+1. <span data-ttu-id="0293f-105">Izberite **Shrani**.</span><span class="sxs-lookup"><span data-stu-id="0293f-105">Select **Save**.</span></span>
