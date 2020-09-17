@@ -5,29 +5,30 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002490"
 - "4832"
-ms.openlocfilehash: a12ef0b9a7be66f294302eb16a569d82cea29507
-ms.sourcegitcommit: 36fcad9aeebac00a8441148d0e105cd72dcc1d7d
+ms.openlocfilehash: 313c76df6b2d2739814f481917b4314363600af5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/18/2020
-ms.locfileid: "44797987"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812311"
 ---
 # <a name="common-issues-and-resolutions-for-adfs"></a>Pogoste težave in rešitve za ADFS
 
 Konfiguracijo povezane domene je mogoče posodobiti, kot je opisano v teh člankih Microsoftove zbirke znanja.
 
-- [ADFS Federation certifikat poteče](adfs-federation-certificate-expiring.md)
+- [Potrdilo o poteku ADFS federacije](adfs-federation-certificate-expiring.md)
 
-- [2713898](https://support.microsoft.com/help/2713898) "Prišlo je do težave pri dostopu do mesta" Napaka iz AD FS, ko se federativne uporabnik vpiše v Microsoft 365, Azure ali InTune.
+- [2713898](https://support.microsoft.com/help/2713898)  » prišlo je do napake pri dostopu do mesta «v storitvi AD FS, ko se je Združeno uporabnik prijavil v Microsoft 365, Azure ali InTune.
 
-- [2535191](https://support.microsoft.com/help/2535191) "Žal mi je, vendar imamo težave pri podpisovanju v" in "80048163" napako, ko se federativne uporabnik poskuša prijaviti v Microsoft 365, Azure ali InTune.
+- [2535191](https://support.microsoft.com/help/2535191) » Žal mi je, vendar imamo težave pri vpisu v napako» in» 80048163 «, ko se bo Združeno uporabnik poskušal vpisati v Microsoft 365, Azure ali InTune.
 
-- [2647020](https://support.microsoft.com/help/2647020) "Žal mi je, vendar imamo težave pri podpisovanju v" in "80041317" ali "80043431" napako, ko se federativne uporabnik poskuša prijaviti v Microsoft 365, Azure ali InTune.
+- [2647020](https://support.microsoft.com/help/2647020)   » Žal mi je, vendar imamo težave pri vpisu v sporočilo» in» 80041317 «ali» 80043431 «, ko se Združeno uporabnik poskuša vpisati v Microsoft 365, Azure ali InTune.
 
-Če želite več informacij, glejte [posodabljanje ali popravljanje nastavitev federirane domene v microsoftovih 365, Azure ali InTune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).
+Če želite več informacij, glejte [posodabljanje ali popravljanje nastavitev Združenega domen v programu Microsoft 365, Azure ali InTune](https://docs.microsoft.com/office365/troubleshoot/active-directory/update-federated-domain-office-365).

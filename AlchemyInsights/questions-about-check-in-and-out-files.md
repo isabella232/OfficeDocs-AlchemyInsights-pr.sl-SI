@@ -1,22 +1,23 @@
 ---
-title: Vprašanja o prijavi in izletu datotek
+title: Vprašanja o preverjanju in izstopu datotek
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5a5eaebc-5818-4ce8-9d2c-e0d04f8c6f7d
-ms.openlocfilehash: 3e744c70e890e63890a0488e73dcf5bca4e4e54c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 784b4c3e3375930a9391b4665f245f30a4567fe5
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43698326"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811951"
 ---
-# <a name="questions-about-check-in-and-out-files"></a>Vprašanja o prijavi in izletu datotek
+# <a name="questions-about-check-in-and-out-files"></a>Vprašanja o preverjanju in izstopu datotek
 
-Če želite pregledati nekatera pogosta vprašanja, vključno s tem, kako preveriti datoteke v in zunaj, in kako zavreči rezervacijo v SharePointu online, glejte [najpogostejša vprašanja o odjaviti, check in.](https://go.microsoft.com/fwlink/?linkid=2018786)
+Če si želite ogledati nekatera pogosta vprašanja, vključno s tem, kako preverite datoteke in jih odstranite ter kako zavreči rezervacijo v storitvi SharePoint online, glejte [najpogostejša vprašanja o rezervaciji, sprostite se.](https://go.microsoft.com/fwlink/?linkid=2018786)
   
 
