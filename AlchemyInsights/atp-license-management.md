@@ -1,8 +1,8 @@
 ---
 title: Upravljanje licence za napredno zaščito pred grožnjami
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: 1c6bf3c43177da2c22bef9350ceb03081bec285e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a543deaaa0fcb229a260468d9674e5252fd07ec1
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715397"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287118"
 ---
 # <a name="advanced-threat-protection-license-management"></a>Upravljanje licence za napredno zaščito pred grožnjami
 
 Upravljanje licenc za Office 365 Advance Threat (ATP) lahko dokončate v  **skrbniškem središču za Microsoft 365**.
 
-- Če želite kupiti Office 365 vnaprejšnje varovanje pred grožnjo, pojdite na storitev za nakup **obračunavanja**  >  [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433), izberite stran za **dodatke** iz **drugih kategorij, ki vas bodo morda zanimale**, izberite paket zaščite pred grožnjami, ki ga želite kupiti, in izberite število uporabnikov, ki bodo uporabljali dodatno zaščito pred grožnjami. Če želite več informacij, glejte [nakup naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- Če želite dodeliti licence za zaščito pred grožnjami za Office 365, pojdite na licence za **obračunavanje**  >  **Licenses**. Če želite več informacij, glejte  [dodeljevanje licenc](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).  
-- Če želite dodati/odstraniti licence za zaščito pred grožnjo sistema Office 365, pojdite na možnost **obračunavanje**  >  **izdelkov**, poiščite naročnino, ki ji želite dodati ali odstraniti licence, in izberite **Dodaj/odstrani licence**.  
-- Če želite več informacij, glejte [Dodajanje ali odstranjevanje licenc](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)s naročnine na podjetja.
+- Če želite kupiti zaščito pred grožnjo sistema Office 365:
+    1. Pojdite na storitev za nakup **obračunavanja**  >  [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433).
+    2. Na dnu **strani izberite dodatki**.
+    3. Na strani **nakup storitev** izberite načrt napredne zaščite pred grožnjami, ki ga želite kupiti, vnesite število uporabnikov, ki potrebujejo licenco, nato pa izberite **Rezerviraj zdaj**. Če želite več informacij, glejte [nakup dodatka](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on).
+- Če želite dodeliti licence za zaščito pred grožnjami za Office 365, pojdite na licence za **obračunavanje**  >  **Licenses**. Če želite več informacij, glejte [dodeljevanje licenc uporabnikom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+- Če želite dodati ali odstraniti licence iz sistema Office 365 pred zaščito pred grožnjami, pojdite na **obračunavanje**  >  **izdelkov**. Izberite naročnino, ki jo želite posodobiti, nato pa izberite **nakup licenc** ali ***Odstrani licence**. Če želite več informacij, glejte [nakup ali odstranjevanje licenc za naročnino](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
