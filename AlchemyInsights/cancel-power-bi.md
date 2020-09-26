@@ -2,7 +2,7 @@
 title: Preklic storitve Power bi
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "5092"
-ms.openlocfilehash: 5619b1866041d248de7d13d0e2edaa84208a5ba0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82fe905756030970241d0be48e5fb2d37e8386cc
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683490"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48287190"
 ---
-# <a name="cancel-power-bi"></a><span data-ttu-id="6e20b-102">Preklic storitve Power bi</span><span class="sxs-lookup"><span data-stu-id="6e20b-102">Cancel Power BI</span></span>
+# <a name="cancel-power-bi"></a><span data-ttu-id="69dba-102">Preklic storitve Power bi</span><span class="sxs-lookup"><span data-stu-id="69dba-102">Cancel Power BI</span></span>
 
-<span data-ttu-id="6e20b-103">Power bi je mogoče preklicati v **skrbniškem središču za Microsoft 365**.</span><span class="sxs-lookup"><span data-stu-id="6e20b-103">Power BI can be canceled in the **Microsoft 365 admin center**.</span></span>  
+<span data-ttu-id="69dba-103">Power bi je mogoče preklicati v skrbniškem središču za Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="69dba-103">Power BI can be canceled in the Microsoft 365 admin center.</span></span>
 
-1. <span data-ttu-id="6e20b-104">Pojdite na stran za \*\*obračunavanje > strani [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\* .</span><span class="sxs-lookup"><span data-stu-id="6e20b-104">Go to the **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="69dba-104">V skrbniškem središču pojdite na stran \*\*obračunavanje > strani [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\* .</span><span class="sxs-lookup"><span data-stu-id="69dba-104">In the admin center, go to the **Billing > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="69dba-105">Na zavihku **izdelki** poiščite naročnino, ki jo želite preklicati.</span><span class="sxs-lookup"><span data-stu-id="69dba-105">On the **Products** tab, find the subscription that you want to cancel.</span></span> <span data-ttu-id="69dba-106">Izberite **več dejanj** (tri pike), nato pa izberite **Prekliči naročnino**.</span><span class="sxs-lookup"><span data-stu-id="69dba-106">Select **More actions** (three dots), then select **Cancel subscription**.</span></span>
+3. <span data-ttu-id="69dba-107">V podoknu za **preklic naročnine** izberite razlog, zakaj želite preklicati.</span><span class="sxs-lookup"><span data-stu-id="69dba-107">In the **Cancel subscription** pane, choose a reason why you're canceling.</span></span> <span data-ttu-id="69dba-108">Po želji lahko ponudite povratne informacije.</span><span class="sxs-lookup"><span data-stu-id="69dba-108">Optionally, provide any feedback.</span></span>
+4. <span data-ttu-id="69dba-109">Izberite **Shrani**.</span><span class="sxs-lookup"><span data-stu-id="69dba-109">Select **Save**.</span></span>
 
-2. <span data-ttu-id="6e20b-105">Poiščite paket Power bi, ki ga želite preklicati.</span><span class="sxs-lookup"><span data-stu-id="6e20b-105">Locate the Power BI Plan to cancel.</span></span>
+<span data-ttu-id="69dba-110">**Vračilo: morebitna proplačana kreditna kartica bo vrnjena v naslednjem ciklu obračunavanja.**</span><span class="sxs-lookup"><span data-stu-id="69dba-110">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span>
 
-3. <span data-ttu-id="6e20b-106">Kliknite **Prekliči naročnino**.</span><span class="sxs-lookup"><span data-stu-id="6e20b-106">Click **Cancel subscription**.</span></span>
+> [!NOTE]
+> <span data-ttu-id="69dba-111">Če ne vidite možnosti za preklic, izberite naročnino, da si ogledate stran s podrobnostmi.</span><span class="sxs-lookup"><span data-stu-id="69dba-111">If you don't see the option to cancel, select the subscription to view the details page.</span></span> <span data-ttu-id="69dba-112">V razdelku **Nastavitve naročnine in plačila** izberite **Prekliči naročnino**.</span><span class="sxs-lookup"><span data-stu-id="69dba-112">In the **Subscription and payment settings** section, select **Cancel subscription**.</span></span>
 
-<span data-ttu-id="6e20b-107">**Vračilo: morebitna proplačana kreditna kartica bo vrnjena v naslednjem ciklu obračunavanja.**</span><span class="sxs-lookup"><span data-stu-id="6e20b-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span>
-
-<span data-ttu-id="6e20b-108">**Opomba**: če ne vidite možnosti za preklic, kliknite naročnino, da si ogledate podrobnosti in si oglejte možnost **Prekliči naročnino** v **nastavitvah & dejanjih**.</span><span class="sxs-lookup"><span data-stu-id="6e20b-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span>
-
-<span data-ttu-id="6e20b-109">Če želite izvedeti več, glejte [preklic naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="6e20b-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
+<span data-ttu-id="69dba-113">Če želite izvedeti več, glejte [preklic naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="69dba-113">To learn more, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).</span></span>
