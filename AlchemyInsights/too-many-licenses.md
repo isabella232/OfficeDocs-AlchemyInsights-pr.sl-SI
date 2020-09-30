@@ -2,7 +2,7 @@
 title: Preveč licenc?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,12 +14,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: da82082b92d23ef12de0318372ed9e873ec63ad1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ce1afbdf67a4cd1746d8cf0aa5818613278d8e4
+ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47736043"
+ms.lasthandoff: 09/29/2020
+ms.locfileid: "48307250"
 ---
 # <a name="too-many-licenses"></a>Preveč licenc?
 
@@ -28,9 +28,9 @@ ms.locfileid: "47736043"
 **Zmanjšanje števila kupljenih licenc**
   
 1. V skrbniškem središču pojdite na stran **obračunavanje** \> **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+2. Na zavihku **izdelki** izberite naročnino, ki jo želite spremeniti.
+3. Na strani podrobnosti naročnine izberite **Odstrani licence**.
+4. V podoknu **Odstrani licence** v razdelku **Nova količina** v polju **skupne licence** vnesite skupno število licenc, ki jih želite za to naročnino. Če imate na primer licence za 100 in jih želite odstraniti 25, vnesite 75.
+5. Izberite **Shrani**.
 
-2. Poiščite naročnino, iz katere želite odstraniti licence, in nato izberite **Dodaj/odstrani licence**.
-
-3. V polje **Skupna dovoljenja** vnesite skupno število licenc, ki jih potrebujete za to naročnino, nato pa izberite **Pošlji spremembo**. Če imate na primer licence za 110 in jih želite odstraniti 5, vnesite 105.
-
-Če želite izvedeti več, glejte [odstranjevanje licenc iz naročnine na Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Če želite izvedeti več, glejte [nakup ali odstranjevanje licenc za naročnino](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
