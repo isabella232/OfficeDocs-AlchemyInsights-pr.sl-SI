@@ -2,7 +2,7 @@
 title: Nakup naročnine na Microsoft 365 za podjetja iz brezplačne preskusne različice
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: f5954693866b18698807c34c77b6265701dbb4e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e4e2024031ea539ae5107569481eb30e20649067
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685002"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416219"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Nakup naročnine na Microsoft 365 iz brezplačne preskusne različice
 
@@ -26,17 +26,16 @@ Poskusili ste Microsoft 365, zdaj pa ste pripravljeni na nakup. V preskusni razl
   
  **Nakup istega načrta kot preskusna različica**
   
-1. V skrbniškem središču pojdite na stran **obračunavanje** \> **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. Poiščite naročnino, ki jo želite kupiti. V razdelku **licence** izberite **naročnina na nakup**in upoštevajte navodila za rezervacijo.
-
+1. V skrbniškem središču pojdite na stran **obračunavanje** \> [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Na zavihku **izdelki** izberite naročnino, ki jo želite kupiti.
+3. Na strani podrobnosti naročnine v razdelku **licenca** izberite **nakup plačljive naročnine zdaj**in upoštevajte navodila za rezervacijo.
+ 
 **Nakup druge naročnine**
   
 1. V skrbniškem središču obiščite stran storitve za **nakup obračunavanja** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+2. Poiščite naročnino, ki jo želite kupiti, izberite **nakup**in upoštevajte navodila za rezervacijo.
 
-3. Poiščite naročnino, ki jo želite kupiti, izberite **nakup**in upoštevajte navodila za rezervacijo.
-
-Če želite več informacij, glejte [nakup naročnine na Microsoft 365 za podjetja iz brezplačne preskusne različice](https://docs.microsoft.com/microsoft-365/commerce/buy-a-subscription-from-your-free-trial).
+Če želite izvedeti več, glejte [nakup naročnine iz brezplačne preskusne različice](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).
 
 **Odpravljanje težav**
 
