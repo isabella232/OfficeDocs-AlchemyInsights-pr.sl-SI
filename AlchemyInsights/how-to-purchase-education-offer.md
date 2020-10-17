@@ -2,8 +2,8 @@
 title: Kako kupiti ponudbo za izobraževanje
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,26 +14,22 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: f150066c21195f4d508755fcdea97c6f3b07e11b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa70e88af2e5e964ed78824411ff78cd600d7777
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703676"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489293"
 ---
-# <a name="how-to-purchase-education-offer"></a><span data-ttu-id="ef19e-102">Kako kupiti ponudbo za izobraževanje</span><span class="sxs-lookup"><span data-stu-id="ef19e-102">How to purchase education offer</span></span>
+# <a name="how-to-purchase-an-education-offer"></a><span data-ttu-id="dd1ff-102">Kako kupiti ponudbo za izobraževanje</span><span class="sxs-lookup"><span data-stu-id="dd1ff-102">How to purchase an education offer</span></span>
 
-<span data-ttu-id="ef19e-103">Vaša zahteva za upravičenost do storitve Office 365 Education je bila odobrena.</span><span class="sxs-lookup"><span data-stu-id="ef19e-103">You have been approved for Office 365 Education.</span></span> <span data-ttu-id="ef19e-104">Navodila za nakup:</span><span class="sxs-lookup"><span data-stu-id="ef19e-104">To purchase:</span></span>
+<span data-ttu-id="dd1ff-103">Vaša zahteva za upravičenost do storitve Office 365 Education je bila odobrena.</span><span class="sxs-lookup"><span data-stu-id="dd1ff-103">You have been approved for Office 365 Education.</span></span> <span data-ttu-id="dd1ff-104">Navodila za nakup:</span><span class="sxs-lookup"><span data-stu-id="dd1ff-104">To purchase:</span></span>
   
-1. <span data-ttu-id="ef19e-105">V skrbniškem središču pojdite na stran **obračunavanje** \> **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .</span><span class="sxs-lookup"><span data-stu-id="ef19e-105">In the admin center, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+1. <span data-ttu-id="dd1ff-105">V skrbniškem središču pojdite na stran **obračunavanje** \> [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="dd1ff-105">In the admin center, go to the **Billing** \> [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="dd1ff-106">Na zavihku **izdelki** izberite preskusno različico za **študente ali učno osebje**.</span><span class="sxs-lookup"><span data-stu-id="dd1ff-106">On the **Products** tab, select the trial for **Students or Faculty**.</span></span>
+3. <span data-ttu-id="dd1ff-107">Na strani podrobnosti naročnine v razdelku **licenca** izberite **nakup plačljive naročnine zdaj**.</span><span class="sxs-lookup"><span data-stu-id="dd1ff-107">On the subscription details page, in the **License** section, select **Buy paid subscription now**.</span></span>
+4. <span data-ttu-id="dd1ff-108">Upoštevajte preostale korake, ki jih želite rezervirati.</span><span class="sxs-lookup"><span data-stu-id="dd1ff-108">Follow the remaining steps to check out.</span></span>
 
-2. <span data-ttu-id="ef19e-106">Izberite preskusno različico za **študente ali učno osebje**.</span><span class="sxs-lookup"><span data-stu-id="ef19e-106">Choose the trial for **Students or Faculty**.</span></span>
+<span data-ttu-id="dd1ff-109">Če želite kupiti drugo naročnino, kot je vaša preskusna naročnina, pojdite na stran storitve za nakup **obračunavanja** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) .</span><span class="sxs-lookup"><span data-stu-id="dd1ff-109">If you want to buy a different subscription than your trial subscription, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page.</span></span> <span data-ttu-id="dd1ff-110">V razdelku **izobraževalni paketi**izberite želeni načrt.</span><span class="sxs-lookup"><span data-stu-id="dd1ff-110">Under **Education Plans**, select the plan that you want.</span></span>
 
-3. <span data-ttu-id="ef19e-107">V razdelku **licence** izberite **nakup naročnine**.</span><span class="sxs-lookup"><span data-stu-id="ef19e-107">In the **Licenses** section, choose **Purchase subscription**.</span></span>
-
-4. <span data-ttu-id="ef19e-108">Upoštevajte preostale korake, ki jih želite rezervirati.</span><span class="sxs-lookup"><span data-stu-id="ef19e-108">Follow the remaining steps to check out.</span></span>
-
-<span data-ttu-id="ef19e-109">Če želite kupiti naročnino, ki ni tisto, kar je v preskusu, pojdite **Billing** na \> stran [storitve nakupa](https://go.microsoft.com/fwlink/p/?linkid=868433) obračunavanja in izberite na seznamu v razdelku **izobraževalni paketi**.</span><span class="sxs-lookup"><span data-stu-id="ef19e-109">If you would like to purchase a subscription other than what is in trial, go to the **Billing** \> [Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433) page, and choose from the list under **Education Plans**.</span></span>
-
-<span data-ttu-id="ef19e-110">Če želite izvedeti več, glejte [nakup istega načrta kot preskusna različica](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).</span><span class="sxs-lookup"><span data-stu-id="ef19e-110">To learn more, see [Buy the same plan as your trial](https://docs.microsoft.com/microsoft-365/commerce/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).</span></span>
+<span data-ttu-id="dd1ff-111">Če želite izvedeti več, glejte [nakup naročnine iz brezplačne preskusne različice](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).</span><span class="sxs-lookup"><span data-stu-id="dd1ff-111">To learn more, see [Buy a subscription from your free trial](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial).</span></span>
