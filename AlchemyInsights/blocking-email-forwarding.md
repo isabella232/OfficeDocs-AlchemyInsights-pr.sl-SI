@@ -14,18 +14,18 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 2f3528375d251542fd82761d00c776706de2e23c
-ms.sourcegitcommit: f7b82f75a5400e992ecbd48a666783354e2e2871
+ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
+ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
 ms.translationtype: MT
 ms.contentlocale: sl-SI
 ms.lasthandoff: 10/15/2020
-ms.locfileid: "48473117"
+ms.locfileid: "48478342"
 ---
 # <a name="blocking-or-unblocking-email-forwarding"></a>Blokiranje ali odblokiranje posredovanja e-pošte
 
 Če želite omogočiti ali onemogočiti posredovanje e-pošte za določen nabiralnik, glejte [Konfiguracija posredovanja e-pošte](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Na ravni najemnika se nadzor zunanjega posredovanja izvaja s pravilnikom odhodne neželene pošte. Pravilnik za filtriranje neželene pošte lahko preverite v središču za varnost in skladnost s predpisi [tukaj] ( https://protection.office.com/antispam) ali pa uporabite [ukaz» Get-HostedOutboundSpamFilterPolicy «](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Na ravni najemnika se nadzor zunanjega posredovanja izvaja s pravilnikom odhodne neželene pošte. Pravilnik za filtriranje neželene pošte lahko preverite [v središču za](https://protection.office.com/antispam) varnost in skladnost s predpisi ali pa uporabite [ukaz» Get-HostedOutboundSpamFilterPolicy «](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
 
 Če se prikaže to sporočilo o napaki: **» 550 5.7.520 Access je zavrnjen, vaša organizacija ne dovoli zunanje posredovanosti «**, preverite, ali je pravilnik konfiguriran tako, da omogoča zunanjo samodejno posredovanje.
 
