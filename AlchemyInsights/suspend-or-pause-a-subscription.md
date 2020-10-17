@@ -1,8 +1,8 @@
 ---
 title: Začasna prekinitev ali začasna prekinitev naročnine
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: f04c1a88a0c21d164fb687af1ecd2546a89601f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 716f48793826e813796ec8c62baaf8d252ae4362
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800156"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48488969"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Začasna prekinitev ali začasna prekinitev naročnine
 
-Če želite začasno prekiniti ali začasno prekiniti naročnino, lahko naročnino prekličete v **skrbniškem središču za Microsoft 365**.
+Če želite začasno prekiniti ali začasno prekiniti naročnino, lahko naročnino prekličete v skrbniškem središču za Microsoft 365.
 
-1. Pojdite na **obračunavanje > [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. V skrbniškem središču pojdite na stran **obračunavanje**  >  [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. Na zavihku **izdelki** poiščite naročnino, ki jo želite preklicati. Izberite **več dejanj** (tri pike), nato pa izberite **Prekliči naročnino**.
+3. Stanje naročnine se prikaže kot **Onemogočeno** in prikaže datum, ko je bila naročnina preklicana. Naročnina ostane v onemogočenem stanju za 90 dni in ima zmanjšano funkcionalnost, dokler ni izbrisana ali [znova aktivirana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-2. Poiščite naročnino, ki jo želite preklicati, in v razdelku **nastavitve & dejanja**kliknite **Prekliči naročnino**.
-
-3. Vaša naročnina bo zdaj prikazana v onemogočenem stanju za 90 dni in bo imela zmanjšano funkcionalnost, dokler ni izbrisana ali [znova aktivirana](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription?view=o365-worldwide).
-
-Če želite več informacij, glejte [Kaj se zgodi, ko prekličete naročnino](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide#what-happens-when-you-cancel-a-subscription) in [shranite podatke](https://go.microsoft.com/fwlink/p/?linkid=842054).
+Če želite več informacij, glejte [Kaj se zgodi, ko prekličete naročnino](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) in [shranite podatke](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).

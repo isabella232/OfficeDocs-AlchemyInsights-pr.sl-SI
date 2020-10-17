@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
-ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
+ms.openlocfilehash: 2f3528375d251542fd82761d00c776706de2e23c
+ms.sourcegitcommit: f7b82f75a5400e992ecbd48a666783354e2e2871
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48219871"
+ms.lasthandoff: 10/15/2020
+ms.locfileid: "48473117"
 ---
 # <a name="blocking-or-unblocking-email-forwarding"></a>Blokiranje ali odblokiranje posredovanja e-pošte
 
 Če želite omogočiti ali onemogočiti posredovanje e-pošte za določen nabiralnik, glejte [Konfiguracija posredovanja e-pošte](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-Na ravni najemnika se nadzor zunanjega posredovanja izvaja s pravilnikom odhodne neželene pošte. Če je nastavljena na izklopljeno ali samodejno, lahko blokira posredovanje e-pošte s storitvijo» 550 5.7.520 Access je zavrnjena, vaša organizacija ne dovoljuje zunanjega posredovanja «. Če je bila preusmeritev nastavljena na blokirano, je to napaka, ki jo bodo videli uporabniki.
+Na ravni najemnika se nadzor zunanjega posredovanja izvaja s pravilnikom odhodne neželene pošte. Pravilnik za filtriranje neželene pošte lahko preverite v središču za varnost in skladnost s predpisi [tukaj] ( https://protection.office.com/antispam) ali pa uporabite [ukaz» Get-HostedOutboundSpamFilterPolicy «](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
 
-Če je preusmeritev blokirana, se prepričajte, da je pravilnik konfiguriran tako, da omogoča zunanjo samoposredovanje. Pravilnik za filtriranje neželene pošte lahko preverite v središču za varnost in skladnost s predpisi ali z ukazom Get-HostedOutboundSpamFilterPolicy | ime FL, AutoForwardingMode. Če želite nastaviti samodejno blokiranje blokiranja, vam bo isti ukaz povedal trenutno stanje pravilnika.
+Če se prikaže to sporočilo o napaki: **» 550 5.7.520 Access je zavrnjen, vaša organizacija ne dovoli zunanje posredovanosti «**, preverite, ali je pravilnik konfiguriran tako, da omogoča zunanjo samodejno posredovanje.
 
-Opomba: priporočamo, da zunanje samodejno posredovanje onemogočite na privzetem pravilniku za filtriranje neželene pošte in jo omogočite le za uporabnike, ki potrebujejo zunanjo preusmeritev tako, da ustvarijo pravilnik po meri za te uporabnike. Več informacij najdete v članku [Konfiguriranje posredovanja zunanjih e-poštnih sporočil v sistemu Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Opomba:** Priporočljivo je, da zunanje samodejno posredovanje onemogočite na privzeti pravilnik za filtriranje neželene pošte in ga omogočite le za uporabnike, ki potrebujejo zunanjo preusmeritev, tako da ustvarijo pravilnik po meri za te uporabnike. Več informacij najdete v članku [Konfiguriranje posredovanja zunanjih e-poštnih sporočil v sistemu Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
