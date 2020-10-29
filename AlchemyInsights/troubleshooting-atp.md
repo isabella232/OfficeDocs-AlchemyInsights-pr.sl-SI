@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav z zaščito pred grožnjami sistema Office 365
+title: Odpravljanje težav z Microsoftovim zagovornikom za Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 5a13653ba08d8c6b822354ff70f6d276d31cd816
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658930"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801462"
 ---
-# <a name="troubleshooting-office-365-advanced-threat-protection"></a>Odpravljanje težav z zaščito pred grožnjami sistema Office 365
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Odpravljanje težav z Microsoftovim zagovornikom za Office 365
 
 - Ali opazite zamude pri dostavi sporočila? Uporabite možnost [dinamična dostava](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) v pravilniku o varnih prilogah za ATP. S tem se izognete zakasnitvam sporočil in zaščitite prejemnike pred zlonamernimi datotekami.
 
@@ -28,8 +28,8 @@ ms.locfileid: "47658930"
 
   1. Pojdite na [https://protection.office.com](https://protection.office.com) in se vpišite z računom globalnega skrbnika ali varnostnega skrbnika.
 
-  2. V levem podoknu za krmarjenje v razdelku **upravljanje groženj**izberite povezave **pravilnika** za \> **varnost**.
+  2. V levem podoknu za krmarjenje v razdelku **upravljanje groženj** izberite povezave **pravilnika** za \> **varnost** .
 
-  3. V razdelku **pravilniki, ki veljajo za celotno organizacijo** , izberite pravilnik in kliknite **Uredi**.
+  3. V razdelku **pravilniki, ki veljajo za celotno organizacijo** , izberite pravilnik in kliknite **Uredi** .
 
-  4. V razdelku **Nastavitve**omogočite **Uporaba varnih povezav do sporočil, poslanih v organizaciji**.
+  4. V razdelku **Nastavitve** omogočite **Uporaba varnih povezav do sporočil, poslanih v organizaciji** .

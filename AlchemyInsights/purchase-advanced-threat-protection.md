@@ -1,5 +1,5 @@
 ---
-title: Nakup sistema Office 365 napredno zaščito pred grožnjami
+title: Nakup Microsoftovega zagovornika za Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693571"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801192"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>Nakup sistema Office 365 napredno zaščito pred grožnjami
+# <a name="purchase-microsoft-defender-for-office-365"></a>Nakup Microsoftovega zagovornika za Office 365
 
-Office 365 Advanced Threat Protection (ATP) je vključen v določene naročnine, kot so Microsoft 365 E5, Office 365 E5, Office 365 a5 in Microsoft 365 Business Premium. Če vaša naročnina ne vključuje sistema Office 365 ATP, lahko kupite [ATP paket 1or](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) (ATP plan 2) kot dodatek za določeno naročnino. Če želite kupiti v skrbniškem središču za Microsoft 365:
+Microsoft Defender za Office 365 (ATP) je vključen v določene naročnine, kot so Microsoft 365 E5, Office 365 E5, Office 365 a5 in Microsoft 365 Business Premium. Če vaša naročnina ne vključuje sistema Office 365 ATP, lahko kupite [ATP paket 1or](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) (ATP plan 2) kot dodatek za določeno naročnino. Če želite kupiti v skrbniškem središču za Microsoft 365:
 
 1. Pojdite na storitev za nakup **obračunavanja**   >   [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433).
 2. Izberite stran z **dodatki**  iz **drugih kategorij, ki vas lahko zanimajo.**

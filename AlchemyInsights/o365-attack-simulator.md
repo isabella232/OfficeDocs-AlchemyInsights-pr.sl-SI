@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: dec96238c8438dcf9df176e3e3f20bd8a985b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47759235"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801567"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Simulator napada v programu Microsoft 365
 
-- Ali zamujate simulator napada? Simulator napada zahteva **office 365 Advanced Threat Protection plan 2 (načrt ATP 2)** ali **Office 365 Enterprise E5**. Simulator napada ni **vključen v** Office 365 Advanced Threat Protection plan 1 (načrt ATP 1), Office 365 Enterprise E3 ali kateri koli Microsoft 365 apps za naročnine na podjetja.
+- Ali zamujate simulator napada? Simulator napada zahteva **Microsoft Defender za office 365 (paket ATP 2)** ali **Office 365 Enterprise E5** . Simulator napada ni **vključen v** Microsoft Defender za Office 365 (paket ATP 1), Office 365 Enterprise E3 ali kateri koli Microsoft 365 apps za naročnine na podjetja.
 
 - Z računom, ki ga uporabljate za zagon simuliranih napadov, potrebujete dovoljenja globalnega skrbnika ali varnostnega skrbnika in multi-Factor Authentication (MFA). Če želite več informacij o zahtevah simulatorja napada, si oglejte [to temo](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
@@ -33,7 +33,7 @@ ms.locfileid: "47759235"
 
 - Pomembne stvari, ki jih morate vedeti o prilaganju simulacij s **kopjem** :
 
-  - Po načrtu ne morete ponuditi vrednosti po meri za **spletni naslov strežnika za prijavo lažnega predstavljanja**.
+  - Po načrtu ne morete ponuditi vrednosti po meri za **spletni naslov strežnika za prijavo lažnega predstavljanja** .
 
   - Če prejemnik uporabi [dodatek» omogoči sporočilo za poročilo](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) «, da sporoči sporočilo kot lažno predstavljanje, morda ne boste prejeli opozoril za sporočilo (ker je to simulirani napad).
 
