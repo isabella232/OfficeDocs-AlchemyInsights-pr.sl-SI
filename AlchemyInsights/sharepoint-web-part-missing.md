@@ -9,20 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000207
-ms.openlocfilehash: 3321f68f3a9379aec7c2d4537873b4b53295672a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.custom:
+- "9000207"
+- "1911"
+ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800372"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949833"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>Spletni gradniki urejevalnika vsebine ali urejevalnika skriptov manjkajo
 
-Če manjka spletni gradnik, ki ga uporabljate za ogled, na primer **urejevalnik vsebine ali spletni gradnik urejevalnika skriptov**, je mogoče, da poskušate dodati [klasični spletni gradnik na sodobno stran](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). Pomembno je, da moderne strani uporabljajo le sodobne spletne gradnike in klasične strani lahko uporabljajo le klasične spletne gradnike. Številni sodobni spletni gradniki izpolnjujejo enake namene kot klasični spletni gradniki, vendar boste videli razlike v videzu in funkcionalnosti.
+Dva spletna gradnika, ki nista na voljo v SharePointu za moderne strani Microsoft 365, sta **spletni gradnik urejevalnika skriptov** in **spletni gradnik urejevalnika vsebine**. Vendar pa so na voljo [sodobni spletni gradniki](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) , ki so lahko izpolnili nekatere enake namene. Lahko pa ustvarite [spletne gradnike po meri ali preselite obstoječe spletne gradnike urejevalnika skripta](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) v SharePointov okvir.  
 
-Obstaja veliko spletnih gradnikov, ki niso prikazani zaradi [Nastavitve skripta po meri](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script), ki je privzeto onemogočena na sodobnih spletnih mestih. 
-
-Če želite seznam spletnih gradnikov, ki niso na voljo, glejte funkcije, ki so [prizadele, ko je skript po meri blokiran](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
-
-Če želite več informacij o varnostnih posledicah skripta po meri, glejte [varnostne vidike omogočanja skripta po meri](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+Če želite več informacij, glejte [kje je urejevalnik vsebine in spletni gradniki urejevalnika skriptov v SharePointu?](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
