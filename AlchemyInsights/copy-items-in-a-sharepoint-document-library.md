@@ -1,5 +1,5 @@
 ---
-title: Kopiranje elementov v SharePointovi knjižnici dokumentov
+title: Kopiranje datotek v SharePointu in OneDrive
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,33 +14,18 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 8d7b2b6c997faf057be1c7fafdd401411d48c7bd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 473c7376b9f413732ac766e25817b2406b5dbd75
+ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807171"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49002645"
 ---
-# <a name="copy-items-in-a-sharepoint-document-library"></a><span data-ttu-id="0fcd7-102">Kopiranje elementov v SharePointovi knjižnici dokumentov</span><span class="sxs-lookup"><span data-stu-id="0fcd7-102">Copy items in a SharePoint document library</span></span>
+# <a name="copy-files-in-sharepoint-and-onedrive"></a><span data-ttu-id="c560d-102">Kopiranje datotek v SharePointu in OneDrive</span><span class="sxs-lookup"><span data-stu-id="c560d-102">Copy files in SharePoint and OneDrive</span></span>
 
-1. <span data-ttu-id="0fcd7-103">V spletnem brskalniku poiščite datoteke, mape ali povezave, ki jih želite kopirati, in nato kliknite **Kopiraj v**.</span><span class="sxs-lookup"><span data-stu-id="0fcd7-103">In a web browser, browse to the files, folders, or links that you want to copy, and then click **Copy to**.</span></span>
+<span data-ttu-id="c560d-103">Datoteke iz spletnega brskalnika lahko kopirate na različna mesta v SharePointu in OneDrive.</span><span class="sxs-lookup"><span data-stu-id="c560d-103">You can copy files from web browser to different locations within SharePoint and OneDrive.</span></span>
 
-    > [!NOTE]
-    > <span data-ttu-id="0fcd7-104">**Kopiranje** ni na voljo, če uporabljate klasično izkušnjo storitve SharePoint online.</span><span class="sxs-lookup"><span data-stu-id="0fcd7-104">**Copy to** isn't available if you're using the classic experience of SharePoint Online.</span></span>
-  
-2. <span data-ttu-id="0fcd7-105">V razdelku **Izberite cilj**izberite mesto, kamor želite kopirati elemente.</span><span class="sxs-lookup"><span data-stu-id="0fcd7-105">Under **Choose a destination**, select the location to which you want to copy the items.</span></span> <span data-ttu-id="0fcd7-106">Če kopirate na drugo mesto ali podmesto in ga ne vidite, kliknite **Prebrskaj mesta** , če si želite ogledati celoten seznam mest, ki jih lahko kopirate.</span><span class="sxs-lookup"><span data-stu-id="0fcd7-106">If you're copying to a different site or subsite and don't see it listed, click **Browse sites** to see the full list of sites that you can copy to.</span></span>
-
-    > [!NOTE]
-    > <span data-ttu-id="0fcd7-107">Če ne vidite drugih mest, ki so navedena pri kopiranju elementov, kopiranje prek spletnih mest ni bilo konfigurirano.</span><span class="sxs-lookup"><span data-stu-id="0fcd7-107">If you don't see other sites listed when you copy items, copying across sites hasn't been configured.</span></span> <span data-ttu-id="0fcd7-108">Če ga želite omogočiti, pojdite na stran z nastavitvami v skrbniškem središču za SharePoint in kliknite **v redu**.</span><span class="sxs-lookup"><span data-stu-id="0fcd7-108">To enable it, go to the settings page of the SharePoint admin center and click **OK**.</span></span>
-  
-    <span data-ttu-id="0fcd7-109">Če želite ustvariti novo mapo, v katero želite kopirati datoteke, izberite mesto v hierarhiji map, kliknite **Nova mapa**, vnesite ime za mapo in kliknite potrditveno oznako, da shranite ime.</span><span class="sxs-lookup"><span data-stu-id="0fcd7-109">To create a new folder to copy the files to, select a location in the folder hierarchy, click **New folder**, enter a name for the folder, and click the check mark to save the name.</span></span>
-
-3. <span data-ttu-id="0fcd7-110">Kliknite **Kopiraj tukaj**.</span><span class="sxs-lookup"><span data-stu-id="0fcd7-110">Click **Copy here**.</span></span>
+<span data-ttu-id="c560d-104">Če želite več informacij, glejte [premikanje ali kopiranje](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)</span><span class="sxs-lookup"><span data-stu-id="c560d-104">For more information, see [Move or Copy](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="0fcd7-111">Do 500 MB datotek in map lahko hkrati kopirate.</span><span class="sxs-lookup"><span data-stu-id="0fcd7-111">You can copy up to 500 MB of files and folders at one time.</span></span> <span data-ttu-id="0fcd7-112">> pri uporabi **kopije za** dokumente, ki imajo zgodovino različic, je kopiran le najnovejša različica.</span><span class="sxs-lookup"><span data-stu-id="0fcd7-112">>  When you use **Copy to** with documents that have version history, only the latest version is copied.</span></span>
-  
-<span data-ttu-id="0fcd7-113">Če želite več informacij, si oglejte:</span><span class="sxs-lookup"><span data-stu-id="0fcd7-113">For more information, see:</span></span>
-
- - <span data-ttu-id="0fcd7-114">[Premikanje ali kopiranje datotek v SharePointu](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (članek podpore za Office)</span><span class="sxs-lookup"><span data-stu-id="0fcd7-114">[Move or copy files in SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office support article)</span></span>
- - <span data-ttu-id="0fcd7-115">[Premikanje datotek iz poljubne mape](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (članek v spletnem dnevniku Microsoft tech Skupnosti)</span><span class="sxs-lookup"><span data-stu-id="0fcd7-115">[Move files from any folder](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (Microsoft Tech Community blog article)</span></span>   
+> <span data-ttu-id="c560d-105">**Kopiranje** ni na voljo, če uporabljate klasično izkušnjo storitve SharePoint online.</span><span class="sxs-lookup"><span data-stu-id="c560d-105">**Copy to** isn't available if you are using the classic experience of SharePoint Online.</span></span>
