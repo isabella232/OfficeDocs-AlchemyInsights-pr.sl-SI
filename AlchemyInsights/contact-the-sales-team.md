@@ -1,28 +1,27 @@
 ---
-title: Obrnite se na prodajno ekipo
+title: Obrnite se na skupino za prodajo
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: b45071a3a03daf55b109e9e9b73c7262868f82ac
-ms.sourcegitcommit: 7c3819614681716748802b04240e80f0dc7e1e8a
-ms.translationtype: MT
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44932109"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529034"
 ---
-# <a name="contact-the-sales-team"></a>Obrnite se na prodajno ekipo
+# <a name="contact-the-sales-team"></a>Obrnite se na skupino za prodajo
 
-S konektorji Microsoft Graph lahko vaša organizacija indeksira podatke drugih izdelovalcev, ki se prikažejo v rezultatih Microsoft Search.
+Obstaja več načinov, kako stopiti v stik s prodajno skupino za Microsoft 365.
 
-- [Priključki, ki jih Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [Priključki naših partnerjev](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-Če želite več informacij, glejte [pregled priključkov Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- Uporabite obrazec [Stik z nami](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409), da z vami naveže stik strokovnjak za prodajo Microsoft 365.
+- Če želite vzpostaviti stik z izvedencem količinskega licenciranja s pogodbo Enterprise Agreement, začnite s portalom [Storitveno središče za količinsko licenciranje](https://go.microsoft.com/fwlink/p/?LinkId=329762).
