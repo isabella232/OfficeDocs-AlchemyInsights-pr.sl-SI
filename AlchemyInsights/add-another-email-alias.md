@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 513a647a3247cb10b134ba770b2cf245bd883be8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 303b77e9464b5974d737d3549df4366ed0747ad3
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688494"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571681"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>Ustvarjanje ali dodajanje e-poštnega vzdevka za uporabnika
 
 Ali želite ustvariti e-poštni vzdevek za uporabnika ali dodati dodaten e-poštni naslov? Sledite tem korakom!
   
-1. V skrbniškem središču za Microsoft 365 pojdite na stran [Uporabniki](https://go.microsoft.com/fwlink/p/?linkid=834822) ali pa izberite **Uporabniki** \> **aktivni uporabniki**.
+1. V skrbniškem središču za Microsoft 365 pojdite na stran [Uporabniki](https://go.microsoft.com/fwlink/p/?linkid=834822) ali pa izberite **Uporabniki**  >  **aktivni uporabniki**.
     
 2. Na strani **aktivni uporabniki** izberite ime osebe, ki jo želite urediti. 
     
