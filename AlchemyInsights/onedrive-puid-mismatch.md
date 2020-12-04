@@ -13,21 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
+ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754355"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49569183"
 ---
 # <a name="onedrive-puid-mismatch"></a>Neusklajenost OneDrive PUID
-Zdi se, da doživljate [PUID neusklajenost](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) v OneDrive za podjetja. Upoštevajte spodnja navodila, da vam lahko pomagamo takoj, ko bo mogoče:
 
-1. Kliknite **stik s podporo**in nato **Nova zahteva za storitev**.
-2. Zapustite naslov in opis kot **PUID neskladje na mestu OneDrive**.
+Zdi se, da doživljate [neusklajenost ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) -ja v OneDrive za podjetja. Upoštevajte spodnja navodila, da vam lahko pomagamo takoj, ko bo mogoče:
+
+1. Kliknite  **stik s podporo** in nato  **Nova zahteva za storitev**.
+2. Pustite naslov in opis kot  **neusklajenost ID-ja uporabnika mesta OneDrive**.
 3. Ko je vozovnica poslana, jo posodobite s temi informacijami:
     - Spletni naslov spletnega mesta OneDrive, ki je prizadet.
     - Glavno ime uporabnika (UPN) prizadetih uporabnikov.
-
-
-
