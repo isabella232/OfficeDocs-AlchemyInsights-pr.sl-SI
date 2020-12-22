@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: db025cd1278471a3c54d55409d9a9418095778a7
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
+ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680328"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49727239"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>Med iskanjem in izvozom vsebine ni vrnjenih rezultatov
 
@@ -26,7 +26,7 @@ ms.locfileid: "49680328"
 - Iskanje vsebine/izvoz vrne brez podatkov ali nepričakovanih podatkov
 - E-odkrivanje iskanje ali izvoz ne uspe
 
-Do tega lahko pride zaradi nekaterih filtrov varnosti skladnosti, ki jih je nastavil določen skrbnik in niso bili posredovani vsem skrbnikom.
+To je morda zaradi nekaterih varnostnih filtrov skladnosti, ki jih je nastavil določen skrbnik in niso bili posredovani vsem skrbnikom.
 
 To težavo odpravite tako, da preverite, ali obstajajo filtri varnosti skladnosti, ki morda povzročajo te težave:
 
