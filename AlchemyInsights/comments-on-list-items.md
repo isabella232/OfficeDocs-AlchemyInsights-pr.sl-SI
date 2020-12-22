@@ -12,24 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003821"
 - "6841"
-ms.openlocfilehash: 5940d1a96324c5ca77331485a115689abe547ef7
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 2ee95e98aae3d9ec9a933f9cae234111d4285edd
+ms.sourcegitcommit: 2eb1dd0856509b9907ccba9a5cb99d09b4f6eb4b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982557"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724170"
 ---
 # <a name="comments-on-list-items"></a>Pripombe na elemente seznama
 
-Uporabniki bodo kmalu lahko dodali in izbrisali pripombe na elemente seznama. Uporabniki si lahko ogledajo vse pripombe na element seznama in filtrirajo med pogledi, ki prikazujejo pripombe ali dejavnost, ki je povezana z elementom.
-
-**Čas** :
-
-**Ciljna izdaja** : postopno uvajanje sredi oktobra in predvidoma dokončano do sredine novembra
-
-**Standardna izdaja** : postopno uvajanje sredi novembra in pričakovano dokončanje do začetka decembra
-
-**Uvajanje** : ciljna izdaja za celotno organizacijo
+Uporabniki si lahko ogledajo vse pripombe na element seznama in filtrirajo med pogledi, ki prikazujejo pripombe ali dejavnost, ki je povezana z elementom.
 
 Uporabniki morajo pred dodajanjem in brisanjem pripomb zabeležiti to:
 
