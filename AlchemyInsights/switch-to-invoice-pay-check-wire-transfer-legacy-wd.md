@@ -1,5 +1,5 @@
 ---
-title: Preklop na plačilo računa (ček/žični prenos) – podedovani WD
+title: Zamenjava za plačilo po računu (ček/žični prenos)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726161"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755419"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>Preklop na plačilo računa (ček/žični prenos) – podedovani WD
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Zamenjava za plačilo po računu (ček/žični prenos)
+
+Na podlagi opisa vprašanja smo našli rešitev za vas. Večina kupcev je lahko svojo težavo razrešila sami po tem, ko je sledila naši dokumentaciji.
 
 Če preklopite na plačilo po računu, to pomeni, da boste plačali račun v 30 dneh od datuma računa. Če želite, da je vaša naročnina na Azure upravičena do plačila, pošljite zahtevo za podporo za Azure. Ko je vaša zahteva odobrena, lahko naročnino zamenjate s plačilom računa v [portalu Azure](https://portal.azure.com/).
 

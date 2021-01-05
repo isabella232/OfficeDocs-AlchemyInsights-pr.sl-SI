@@ -1,5 +1,5 @@
 ---
-title: Preklop na plačilo računa (preverjanje/žični prenos) – sodobni CL
+title: Preklop na plačilo po računu (preverjanje/prenos žice)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706783"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755511"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>Preklop na plačilo računa (preverjanje/žični prenos) – sodobni CL
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>Preklop na plačilo po računu (preverjanje/prenos žice)
+
+Na podlagi opisa vprašanja smo našli rešitev za vas. Večina kupcev je lahko svojo težavo razrešila sami po tem, ko je sledila naši dokumentaciji.
 
 Če preklopite na plačilo po računu, to pomeni, da boste plačali račun v 30 dneh od datuma računa. Če želite, da je vaša naročnina na Azure upravičena do plačila, pošljite zahtevo za podporo za Azure. Ko je vaša zahteva odobrena, lahko naročnino zamenjate s plačilom računa v portalu Azure.
 

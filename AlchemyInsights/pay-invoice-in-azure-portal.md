@@ -13,21 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7284"
-ms.openlocfilehash: 76171db94d905eaec0263700e5148b29d224a247
-ms.sourcegitcommit: b5f05809732ac148161ffdb7b8cb2348f101ecae
+ms.openlocfilehash: 37fb216fc4694bcaa7dddc2c56432a16c0dad555
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49715035"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755635"
 ---
 # <a name="pay-invoice-in-azure-portal---recommended-steps"></a>Plačilo računa v portalu Azure – priporočena navodila
+
+Na podlagi opisa vprašanja smo našli rešitev za vas. Večina kupcev je lahko svojo težavo razrešila sami po tem, ko je sledila naši dokumentaciji.
 
 Če želite plačevati račune v portalu Azure, morate biti skrbnik računa za obračunavanje. Skrbnik računa obračunavanja je uporabnik, ki se je prvotno prijavil za račun Microsoft Customer dogovora. 
 
 Če želite plačati račun v portalu Azure: 
 
 1. Vpišite se v [portal Azure](https://portal.azure.com/).
-1. Iskanje po **stroških upravljanja + obračunavanje**.
+1. Poiščete **upravljanje stroškov in** obračunavanje.
 1. V levem podoknu v razdelku **obračunavanje** kliknite **računi**.
 1. Če je kateri koli od vaših računov dolžan ali je bil dolgovan zaradi zapadlosti, se bo za to fakturo prikazala modra **plača** . Kliknite **plačaj zdaj**.
 1. V novem rezilu kliknite **Izberite način plačila** , če želite izbrati obstoječo kreditno kartico ali dodati novega.

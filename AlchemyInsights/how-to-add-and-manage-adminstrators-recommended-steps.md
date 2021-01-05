@@ -1,5 +1,5 @@
 ---
-title: Kako dodati in upravljati adminstrators – priporočene korake
+title: Dodajanje in upravljanje skrbnikov – priporočena navodila
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 142bf1474ac0e0eac5cecb9dddd35e28b6b6631e
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: ed3aa5defabdd4f505ee4f74570023d990910dcb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678871"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755851"
 ---
-# <a name="how-to-add-and-manage-adminstrators---recommended-steps"></a>Kako dodati in upravljati adminstrators – priporočene korake
+# <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Dodajanje in upravljanje skrbnikov – priporočena navodila
+
+Na podlagi opisa vprašanja smo našli rešitev za vas. Večina kupcev je lahko svojo težavo razrešila sami po tem, ko je sledila naši dokumentaciji.
 
 **Urejanje upravitelja naročnine ali soskrbnika**
 

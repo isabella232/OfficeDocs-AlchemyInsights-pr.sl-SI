@@ -1,5 +1,5 @@
 ---
-title: Dodajanje in upravljanje skrbnikov – MCA FL/CL
+title: Dodajanje in upravljanje skrbnikov
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692313"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755527"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>Dodajanje in upravljanje skrbnikov – MCA FL/CL
+# <a name="how-to-add-and-manage-admins"></a>Dodajanje in upravljanje skrbnikov
+
+Na podlagi opisa vprašanja smo našli rešitev za vas. Večina kupcev je lahko svojo težavo razrešila sami po tem, ko je sledila naši dokumentaciji.
 
 Če želite upravljati račun obračunavanja za Microsoftovo stranko (MCA), lahko uporabite različne vloge z želeno ravnjo dostopa. Te vloge so poleg vgrajenih vlog storitve Azure, ki vam pomagajo nadzorovati vire.
 
