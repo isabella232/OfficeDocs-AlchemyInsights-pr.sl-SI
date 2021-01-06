@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736894"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755563"
 ---
 # <a name="transfer-azure-billing-ownership"></a>Prenos lastništva za obračunavanje Azure
 
 Vpišite se v [Azure portal](https://portal.azure.com/) kot skrbnik računa za obračunavanje z naročnino, ki jo želite prenesti. Če niste prepričani, ali ste skrbnik ali če morate ugotoviti, kdo je, glejte [določanje skrbniškega računa za obračunavanje](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-1. Poiščete _upravljanje stroškov in_ obračunavanje.
+1. Poiščite _Upravljanje stroškov + obračunavanje_.
 1. Izberite **naročnine** v levem podoknu. Glede na dostop boste morda morali izbrati obseg obračunavanja in nato **naročnine** ali **naročnine Azure**.
 1. Za naročnino, ki jo želite prenesti, izberite **Prenesi lastništvo obračunavanja** .
 1. Vnesite e-poštni naslov uporabnika, ki je skrbnik za obračunavanje računa, ki bo nov lastnik naročnine, nato pa izberite **pošljite zahtevo za prenos**.
