@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: ab28162fcdf0a37060be3bdf15a78aceca7a48b1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
+ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731255"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "49768833"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Omogočanje šifriranja BitLockerja s funkcijo InTune
 
@@ -30,10 +30,12 @@ Zavedati se morate, da številne novejše naprave, v katerih je nameščen Windo
  
 **Pogosta vprašanja**
 
- V: katere izdaje šifriranja naprave s sistemom Windows s pravilnikom o zaščiti končnih točk?<br>
- A: nastavitve v pravilniku o zaščiti končnih točk se izvajajo s sistemom [BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Niso vse izdaje ali gradi sistema Windows, ki podpirajo sistem BitLocker. <br><br>
-      V tem trenutku so podprte te izdaje sistema Windows: Enterprise, Education, Mobile, Mobile Enterprise in Professional (graditev 1809 in novejša različica).
- 
+V: katere izdaje šifriranja naprave s sistemom Windows s pravilnikom o zaščiti končnih točk?<br>
+A: nastavitve v pravilniku o zaščiti končnih točk se izvajajo s sistemom [BITLOCKER CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Niso vse izdaje ali gradi sistema Windows, ki podpirajo sistem BitLocker. <br><br>
+
+V: kako je mogoče omogočiti BitLocker v napravah, ne da bi to zahtevalo dostop do končnega uporabnika?<br>
+A: dokler so izpolnjeni potrebni predpogoji, je mogoče omogočiti BitLocker» Silent encryption «s funkcijo InTune. Oglejte si podrobnosti o zahtevah za napravo in primer nastavitev pravilnika za omogočanje tihega šifriranja v tem dokumentu: [tiho omogočanje šifriranja BitLockerja](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
+
 V: če je naprava že šifrirana s funkcijo BitLocker s privzetimi nastavitvami sistema OS za način šifriranja in trdnost ključa (XTS-AES-128), bo uporaba pravilnika z različnimi nastavitvami samodejno sprožil vnovično šifriranje pogona z novimi nastavitvami?<br>
 O: Ne. Če želite uporabiti nove nastavitve šifer, mora biti pogon najprej dešifriran.<br><br>
 **Opomba:** Za naprave, ki so vpisane s samodejnim pilotom, se samodejno šifriranje, ki se pojavi med OOBE, ne sproži, dokler ni ovrednoten pravilnik, ki omogoča uporabo nastavitev pravilnika, ki jih je treba uporabiti namesto privzetih vrednosti za OS.
