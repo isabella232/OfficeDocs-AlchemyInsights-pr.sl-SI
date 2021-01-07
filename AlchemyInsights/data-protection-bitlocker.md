@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768833"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778209"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Omogočanje šifriranja BitLockerja s funkcijo InTune
 
- Če želite konfigurirati nastavitve šifriranja BitLockerja za naprave s sistemom Windows, lahko nastavite pravilnik o zaščiti končnih točk. Če želite več informacij, glejte [nastavitve sistema Windows 10 (in novejše različice) za zaščito naprav s funkcijo InTune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+Če želite konfigurirati nastavitve šifriranja BitLockerja za naprave s sistemom Windows, lahko nastavite pravilnik o zaščiti končnih točk. Če želite več informacij, glejte [nastavitve sistema Windows 10 (in novejše različice) za zaščito naprav s funkcijo InTune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+Poleg pravilnika o zaščiti končnih točk je na voljo tudi poročilo o šifriranju, ki zagotavlja podrobnejši pogled stanja šifriranja za naprave. Do tega poročila lahko dostopate prek portala MEM v razdelku **naprave > monitor** in nato v razdelku **Konfiguracija** izberite [šifrirno poročilo](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+Če ugotovite, da BitLocker ni omogočen kot je bilo pričakovano, ali da je profil, ki se uporablja za omogočanje BitLockerja, v stanju napake, si oglejte poročilo o šifriranju, da dobite boljše razumevanje tega, zakaj se delovanje pojavi.
+
+Če želite poiskati podrobnosti o razlagi poročila, vključno z različnimi vrednostmi stanja šifriranja, glejte [spremljanje šifriranja naprave z InTune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 Zavedati se morate, da številne novejše naprave, v katerih je nameščen Windows 10, podpirajo samodejno šifriranje BitLockerja, ki se sproži brez uporabe pravilnika MDM. To lahko vpliva na uporabo pravilnika, če so konfigurirane privzete nastavitve. Če želite več podrobnosti, si oglejte ta pogosta vprašanja.
- 
+
 Če želite več informacij o odpravljanju težav z BitLockerjem, glejte [Odpravljanje težav s pravilniki BitLockerja v programu Microsoft InTune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
