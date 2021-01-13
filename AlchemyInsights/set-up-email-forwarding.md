@@ -13,16 +13,18 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: f6a67ab8d68913a62886801af035fd631713f690
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21b967a54e29fc7af85837a38f1efe24525a1f75
+ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801092"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "49847616"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Preverjanje nastavitev posredovanja e-pošte za nabiralnik
 
-Preprosto lahko preverite nastavitve posredovanja e-pošte v nabiralniku v storitvi Microsoft 365. Sledite tem korakom.
+Prvič, posredovanje e-pošte mora biti omogočeno na ravni najemnika. Če ste nastavili posredovanje e-pošte v nabiralniku, vendar ne deluje, glejte [nadzor samodejnega posredovanja zunanjih e-poštnih sporočil v programu Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+
+V nabiralniku lahko preprosto preverite nastavitve posredovanja e-pošte. Sledite tem korakom.
   
 > Če gre za nabiralnik uporabnika, se pozanimajte **uporabnikov** \> **aktivni uporabniki** in izberite uporabnika, katerega nabiralnik želite posredovati. Na zavihku **pošta** izberite **upravljanje posredovanja e-pošte**.
 
