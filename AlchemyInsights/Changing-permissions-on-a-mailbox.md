@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bdcb04923b2ece136208e38b69ed7486ffcf7fb6
+ms.sourcegitcommit: 3f0abd54b4bd161bde22b9a7f86924a9dbb59684
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502587"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49880182"
 ---
 # <a name="changing-permissions-on-a-mailbox"></a>Spreminjanje dovoljenj v nabiralniku
 
-Če uporabniki potrebujejo dostop do nabiralnikov, ki niso sami, jim je treba dati dovoljenja za delo s temi nabiralniki. Način dodeljevanja teh dovoljenj je odvisen od vrste nabiralnika. Če uporabniki potrebujejo dostop do:
+Če uporabniki potrebujejo dostop do nabiralnikov, ki niso sami, morajo biti dodeljena dovoljenja za delo s temi nabiralniki. Način dodeljevanja teh dovoljenj je odvisen od vrste nabiralnika. Če uporabniki potrebujejo dostop do:
   
-- Nabiralniki drugih uporabnikov-Prosimo [, glejte Daj dovoljenja za nabiralnik drugemu uporabniku](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
+- Nabiralniki drugih uporabnikov – glejte [dajanje dovoljenj nabiralnika drugemu uporabniku](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- Nabiralnik v skupni rabi-Prosimo [, glejte Dodajanje ali odstranjevanje članov iz nabiralnika v skupni rabi](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- Nabiralnik v skupni rabi – preberite [Konfiguracija nastavitev nabiralnika v skupni rabi](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members).
     
-Če dovoljenja ne delujejo pravilno, ko naredite zgornje korake, pojdite v skrbniško središče za Exchange in poskusite nastaviti dovoljenja od tam (glejte [Upravljanje dovoljenj za prejemnike](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+Če dovoljenja ne delujejo pravilno po zgornjih korakih, pojdite v skrbniško središče za Exchange in poskusite nastaviti dovoljenja od tam (glejte [Upravljanje dovoljenj za prejemnike](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   
