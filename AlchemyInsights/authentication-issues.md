@@ -13,89 +13,89 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 53bd0d8f8edaead519d0282239d3a6d338b297b9
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.translationtype: HT
 ms.contentlocale: sl-SI
 ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974791"
+ms.locfileid: "49976865"
 ---
 # <a name="authentication-issues"></a>Težave s preverjanjem pristnosti
 
-**Iščete informacije o AADSTS kodah napak, ki so bile vrnjene v storitvi za varnost žetona Azure Active Directory ("Azure AD)" (STS)?** Če želite poiskati AADSTS opise napak, popravke in nekatere predlagane rešitve, glejte [kode napak za preverjanje pristnosti in avtorizacije AZURE ad](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) .
+**Ali želite pridobiti informacije o kodah napak AADSTS, ki jih vrne storitev varnostnih žetonov (STS) Azure Active Directory (Azure AD)?** Za opise napak AADSTS, popravke in predlagane rešitve glejte razdelek [Kode napak preverjanja pristnosti in avtorizacije storitve Azure AD](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes).
 
-Napake pri avtorizaciji so lahko rezultat več različnih težav, od katerih večina ustvari napako 401 ali 403. Te težave lahko na primer privedejo do napak pri avtorizaciji:
+Vzrok za napake avtorizacije so lahko različne težave – večina težav javi napako 401 ali 403. Napake avtorizacije lahko na primer javijo spodnje težave:
 
-- Nepravilni [tokovi za pridobitev žetona](https://docs.microsoft.com/azure/active-directory/develop/authentication-vs-authorization) 
-- Slabo konfigurirani [obsegi dovoljenj](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
-- Pomanjkanje [soglasja](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant#understanding-user-and-admin-consent)
+- Napačni [poteki pridobivanja žetona za dostop](https://docs.microsoft.com/azure/active-directory/develop/authentication-vs-authorization) 
+- Neustrezno konfigurirani [obsegi dovoljenja](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
+- Manjkajoče [soglasje](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant#understanding-user-and-admin-consent)
 
-Če želite odpraviti pogoste napake avtorizacije, upoštevajte spodnja navodila, ki se najbolj ujemajo z napako, ki jo prejemate. Za napako, ki jo prejemate, lahko zaprosi več kot en korak.
+Če želite odpraviti običajne napake avtorizacije, poskusite izvesti spodnje korake, ki najbolj ustrezajo prejeti napaki. Za prejeto napako lahko velja več korakov.
 
-- **nepooblaščena Napaka 401: ali je žeton veljaven?**
+**Napaka »401 Nepooblaščeno«: Ali je vaš žeton veljaven?**
 
-Zagotovite, da vaš program predstavlja veljaven žeton za dostop v Microsoft Graph kot del zahteve. Ta napaka pogosto pomeni, da žeton za dostop morda manjka v glavi zahteve za preverjanje pristnosti HTTP ali da je žeton neveljaven ali pa je potekel. Toplo priporočamo, da uporabite Microsoftovo knjižnico za preverjanje pristnosti (MSAL) za pridobitev žetona za dostop. Poleg tega lahko pride do te napake, če poskušate za dostop do API-ja, ki podpira le službene ali šolske račune (organizacijske račune), dodeliti žeton za pooblaščen dostop, ki je dodeljen osebnim Microsoftovim računom.
+Prepričajte se, da aplikacija uporablja veljaven žeton za dostop do vmesnika Microsoft Graph kot del zahteve. Ta napaka običajno pomeni, da v glavi zahteve za preverjanje pristnosti HTTP manjka žeton za dostop ali pa žeton ni veljaven oziroma je potekel. Za pridobivanje žetona za dostop priporočamo uporabo knjižnice Microsoft Authentication Library (MSAL). Do te napake lahko pride tudi, če želite uporabiti žeton za pooblaščen dostop, odobren za osebni Microsoftov račun za dostop do vmesnika API, ki podpira le službene ali šolske račune (računi organizacije).
 
-**403 prepovedana napaka: ali ste izbrali pravi nabor dovoljenj?**
+**Napaka »403 Prepovedano«: Ali ste izbrali ustrezen nabor dovoljenj?**
 
-Prepričajte se, da ste zahtevali pravilen nabor dovoljenj, ki temeljijo na programu Microsoft Graph API-ji za klice aplikacije. Priporočena najmanj privilegirana dovoljenja so na voljo v vseh temah referenčne metode za Microsoft Graph API. Poleg tega morajo ta dovoljenja odobriti aplikacija uporabnik ali skrbnik. Dodeljevanje dovoljenj se običajno zgodi prek privolitvene strani ali uporabe rezila za registracijo aplikacije Azure portal. Iz rezila z **nastavitvami** za aplikacijo kliknite **zahtevana dovoljenja** in nato še **dodeli dovoljenja**. Za več informacij glejte:
+Prepričajte se, da ste zahtevali ustrezen nabor dovoljenj, glede na vmesnike API za Microsoft Graph, ki jih prikliče aplikacija. Priporočena dovoljenja za dostop z minimalnimi pravicami so na voljo za vse teme referenčnih načinov vmesnika API za Microsoft Graph. Ta dovoljenja mora za aplikacijo odobriti uporabnika ali skrbnik. Postopek odobritve dovoljenj je običajno izveden na strani za soglasje ali z uporabo lista za registracijo aplikacije na portala Azure. Na listu **Nastavitve** za aplikacijo kliknite **Zahtevana dovoljenja**, nato pa kliknite **Odobri dovoljenja**. Za več informacij glejte:
 
 - [Dovoljenja za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) 
 - [Razumevanje dovoljenj in soglasja za Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent)
 
-**403 prepovedana napaka: ali je program pridobil žeton, ki ustreza izbranim dovoljenjem?**
+**Napaka »403 Prepovedano«: Ali je aplikacija pridobila žeton, ki ustreza izbranim dovoljenjem?**
 
-Zagotovite, da se vrste dovoljenj, ki jih zahteva ali dodeli, ujemajo z vrsto žetona za dostop, ki ga program pridobi. Morda boste zahtevali in podelili dovoljenja za program, vendar z uporabo pooblaščenih žetonov za pretok kode, namesto žetonov za pretok poverilnic odjemalca, ali zahtevate in odobravanje pooblaščenih dovoljenj, vendar pa uporabite žetone za tokove poverilnic odjemalca namesto pooblaščenih žetonov za pretok kode.
+Prepričajte se, da se vrste zahtevanih ali odobrenih dovoljenj ujemajo z vrsto žetona za dostop, ki ga je pridobila aplikacija. Morda ste zahtevali ali odobrili dovoljenja za aplikacijo, uporabljate pa žetone za tok pooblaščene interaktivne kode namesto žetonov za tok poverilnic odjemalca ali pa ste zahtevali in odobrili pooblaščena dovoljenja, uporabljate pa žetone za tok poverilnic odjemalca namesto žetonov za tok pooblaščene kode.
 
-Če želite več informacij o pridobivanju žetonov, glejte:
+Za več informacij o pridobivanju tokov glejte:
 
-- [Pridobite dostop v imenu uporabnikov in pooblaščenih dovoljenj](https://docs.microsoft.com/graph/auth-v2-user) 
-- [Azure AD v 2.0-OAuth 2,0 avtorizacija kode](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [Pridobite dostop brez uporabnika (storitev Daemon) in dovoljenja za program](https://docs.microsoft.com/graph/auth-v2-service) 
-- [Azure AD v 2.0-OAuth 2,0 Client poverilnice](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
+- [Pridobivanje dostopa v imenu uporabnikov in pooblaščenih dovoljenj](https://docs.microsoft.com/graph/auth-v2-user) 
+- [Tok avtorizacijske kode Azure AD v2.0 - OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Pridobivanje dostopa brez uporabnika (storitev strežniškega procesa) in dovoljenj za aplikacijo](https://docs.microsoft.com/graph/auth-v2-service) 
+- [Tok poverilnic odjemalca Azure AD v2.0 - OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
 
-**403 prepovedana napaka: ponastavitev gesla**
+**Napaka »403 Prepovedano«: ponastavitev gesla**
 
-Trenutno ni dovoljenj za dovoljenje za uporabo storitev daemon za storitve, ki omogočajo ponastavitev uporabniških gesel. Ti API-ji so podprti le z uporabo interaktivnih prenesenih šifer s pripisanim skrbnikom. Če želite več informacij, glejte [dovoljenja za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference).
+Trenutno ni nobenega strežniškega procesa za dovoljenja »od storitve do storitve« za aplikacijo, ki omogočajo ponastavitev gesel. Ti vmesniki API so podprti le za uporabo tokov interaktivne pooblaščene kode z vpisanim skrbnikom. Za več informacij glejte [Dovoljenja za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference).
 
-**403 Forbidden: ali ima uporabnik dostop do licence?**
+**»403 Prepovedano«: Ali ima uporabnik dostop in ustrezno licenco?**
 
-Za prenesene tokove kode Microsoft Graph oceni, ali je bila zahteva dovoljena glede na dovoljenja, ki so bila dodeljena programu, in dovoljenja, ki jih je imel prijavljeni uporabnik. Na splošno ta napaka pomeni, da uporabnik ni dovolj privilegiran za izvajanje zahteve **ali** pa uporabnik nima licence za dostop do podatkov. Zahtevi lahko uspešno omogočijo le uporabniki z zahtevanimi dovoljenji ali licencami.
+Za toke pooblaščene kode Microsoft Graph oceni, ali je bila zahteva dovoljena, glede na odobrena dovoljenja za aplikacijo ter vrsto dovoljenj vpisanega uporabnika. Ta napaka običajno označuje, da uporabnik nima prednostnih dovoljenj za izvajanje zahteve **ali** pa nima licence za dostop do podatkov. Zahtevo lahko uspešno izvedejo le uporabniki z zahtevanimi dovoljenji ali licencami.
 
-**403 Forbidden: ali ste izbrali ustrezen API vira?**
+**»403 Prepovedano«: Ali ste izbrali pravilen vmesnik API vira?**
 
-Storitve API-ja, kot je Microsoft Graph, preverijo, ali se trditev *AUD* (občinstvo) v prejetem žetonu ujema z vrednostjo, ki jo pričakuje zase, in če ne, se zgodi napaka v 403. Pogosta napaka, ki povzroči to napako, poskuša uporabiti žeton, ki je bil kupljen za Azure AD Graph API, Outlook API ali SharePoint/OneDrive API za klicanje Microsoft Graph (ali obratno). Zagotovite, da vir (ali obseg) program pridobi žeton za ujemanje API-ja, ki ga aplikacija kliče.
+Storitve API, kot je Microsoft Graph, preverijo, ali se zahteva *občinstva* v prejetem žetonu za dostop ujema s pričakovano vrednostjo. Če temu ni tako, je javljena napaka »403 Prepovedano«. Običajno do te napake pride, ker poskušate uporabiti žeton, pridobljen za vmesnike API za Azure AD Graph, vmesnike API za Outlook ali vmesnike API za SharePoint/OneDrive, da bi priklicali Microsoft Graph (ali obratno). Zagotovite da se vir (ali obseg), za katerega aplikacija želi pridobiti žeton, ujema z vmesnikom API, ki ga aplikacija želi priklicati.
 
-**400 slaba zahteva ali 403 prepovedana: ali uporabnik upošteva pravilnike za pogojni dostop organizacije (CA)?**
+**»400 Neprimerna zahteva« ali »403 Prepovedano«: Ali uporabnik deluje v skladu s pravilnikom o pogojnem dostopu organizacije?**
 
-Na podlagi pravilnikov o pogojnem dostopu organizacije (CA) lahko uporabnik, ki dostopa do virov Microsoft Grapha prek vašega programa, ugovarja za dodatne informacije, ki niso na voljo v žetonu za dostop, ki ga je prvotno pridobil. V tem primeru aplikacija prejme **400 z napako *interaction_required*** med pridobitvijo žetona Accessa ali **403 s *insufficient_claims*** napako, ko pokličete Microsoft Graph. V obeh primerih se prikaže sporočilo o napaki, ki vsebuje dodatne informacije, ki jih je mogoče prikazati na pooblaščeni končni točki, da se uporabnik pozove k dodatnim informacijam (na primer preverjanje pristnosti z več dejavniki ali vpis naprave).
+Glede na pravilnike o pogojnem dostopu organizacije mora uporabnik, ki dostopa do virov vmesnika Microsoft Graph v aplikaciji, morda posredovati dodatne informacije, ki niso na voljo v žetonu za dostop, ki ga je aplikacija izvorno pridobila. V tem primeru je v aplikaciji javljena napaka **400 *zahtevana_interakcija*** med pridobivanjem žetona za dostop ali pa napaka **403 *nezadostne_zahteve*** med izvajanjem postopka klicanja vmesnika Microsoft Graph. V obeh primerih odgovor na napako vključuje dodatne informacije, ki jih je mogoče posredovati pooblaščeni končni točki, ki od uporabnika zahteva dodatne informacije (kot je večkratno preverjanje pristnosti ali včlanitev naprave).
 
-Če želite več informacij, povezanih s pogojnim dostopom, glejte:
+Za več informacij o pogojnem dostopu glejte:
 
-- [Obravnavanje izzivov s pogojnim dostopom z MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
-- [Navodila za razvijalce za pogojni dostop v storitvi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
+- [Obravnavanje težav s pogojnim dostopom s knjižnico MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
+- [Navodila za razvijalce za pogojni dostop za Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Konec podpore za knjižnico za preverjanje pristnosti v storitvi Azure Active Directory (knjižnice adal) in AZURE ad GRAPH API (zvočni grafikon)_* _
+**_Konec podpore za knjižnico Azure Active Directory Authentication Library (ADAL) in vmesnik API za Azure AD Graph (AAD Graph)_* _
 
-- Z začetkom junija 30th 2020 ne bomo več dodali nobenih novih funkcij v knjižnico za preverjanje pristnosti v storitvi Azure Active Directory (knjižnice ADAL) in Azure AD Graph API (ZVOČNI grafikon). Še naprej bomo zagotavljali tehnično podporo in varnostne posodobitve, vendar ne boste mogli več posredovati posodobitev funkcij.
-- Z začetkom junija 30th 2022 bomo zaključili podporo za knjižnice ADAL in ZVOČNI diagram ter ne bodo več zagotavljali tehnične podpore ali varnostnih posodobitev.
-    - Programi, ki uporabljajo knjižnice ADAL v obstoječih različicah sistema OS, bodo po tem času še naprej delovali, vendar ne bodo prejeli nobene tehnične podpore ali varnostnih posodobitev.
-    - Programi s pomočjo grafa ZVOČNIh grafikonov po tem času morda ne bodo več prejemali odgovorov v končni točki grafa ZVOČNIh grafikonov.
+- Od 30. junija 2020 ne dodajamo več novih funkcij v knjižnico Azure Active Directory Authentication Library (ADAL) in vmesnik API za Azure AD Graph (AAD Graph). Še naprej nudimo tehnično podporo in varnostne posodobitve, ne zagotavljamo pa več posodobitev funkcij.
+- 30. junija 2022 se je končala podpora za ADAL in AAD Graph, prav tako ni več na voljo tehnična podpora in varnostne posodobitve.
+    - Aplikacije, ki uporabljajo ADAL v obstoječih različicah operacijskega sistema, bodo po tem obdobju še naprej delovale, vendar zanje ne bo več mogoče pridobiti tehnične podpore ali varnostnih posodobitev.
+    - Aplikacije, ki uporabljajo AAD Graph, po tem obdobju morda ne bodo več prejemale odgovorov iz končne točke za AAD Graph.
 
-_ *Knjižnice adal selitev**
+_ *Selitev knjižnice ADAL**
 
-Priporočamo, da posodobite [Microsoftovo knjižnico za preverjanje pristnosti (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), ki ima najnovejše funkcije in varnostne posodobitve. To priporočilo je v kontekstu Microsoft, ki seli svoje aplikacije v MSAL z rokom konca podpore. Cilj selitve aplikacije Microsoft apps na MSAL je zagotoviti, da bodo programi koristili od trenutne varnosti in izboljšav funkcij v MSAL.
+Priporočamo, da izvedete nadgradnjo na knjižnico [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), ki vključuje najnovejše funkcije in varnostne posodobitve. To priporočilo je skladno s kontekstom selitve Microsoftovih aplikacij v knjižnico MSAL do roka za končanje podpore. Cilj selitve Microsoftovih aplikacij v knjižnico MSAL je zagotoviti aplikacijam prednosti rednih varnostnih in funkcijskih izboljšav knjižnice MSAL.
 
-- [Preberite pogosta vprašanja o knjižnice ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- [Preberite več o tem, kako preseliti aplikacije na osnovi na platformi](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-- Če potrebujete pomoč pri razumevanju, katere aplikacije uporabljajo knjižnice ADAL, vam priporočamo, da pregledate vse izvorne kode programov in po potrebi dostopate do neodvisnih ponudnikov programske opreme (ISVs) ali ponudnikov programov. Microsoftova podpora vam omogoča tudi seznam vseh programov, ki niso Microsoftovi za knjižnice ADAL, v najemniku.
+- [Preberite pogosta vprašanja o knjižnici ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+- [Več informacij o selitvi aplikacij glede na platformo](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+- Če želite pomoč pri razumevanju, katere aplikacije uporabljajo knjižnico ADAL, priporočamo, da pregledate izvorno kodo vseh aplikacij ter po potrebi stopite v stik z morebitnimi neodvisnimi razvijalci programske opreme ali ponudniki aplikacij. Microsoftova podpora vam lahko posreduje seznam vseh aplikacij ADAL v vašem najemniku, ki jih ne zagotavlja Microsoft.
 
-**Selitev diagrama ZVOČNIh grafikonov**
+**Selitev zmogljivosti AAD Graph**
 
-Za programe, ki uporabljajo ZVOČNI graf, upoštevajte naše napotke za [selitev programov AZURE ad Graph v Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist?view=graph-rest-1.0&preserve-view=true).
+Za aplikacije, ki uporabljajo AAD Graph, upoštevajte navodila za [selitev aplikacij Azure AD Graph v Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist?view=graph-rest-1.0&preserve-view=true).
 
-- [Naš kontrolni seznam selitve zagotavlja uvodno mesto](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-- V portalu za registracijo aplikacije Azure so prikazani programi, ki uporabljajo ZVOČNI diagram. Priporočamo vam, da pregledate vse izvorne kode programov in po potrebi poiščete vse ponudnike ISVs ali aplikacije. Microsoftova podpora vam lahko zagotovi tudi informacije o uporabi vseh ZVOČNIh grafikonov v najemniku.
+- [Kontrolni seznam za selitev vključuje točko za začetek izvajanja postopka](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+- Na portalu za registracijo aplikacije Azure so prikazane aplikacije, ki uporabljajo AAD Graph. Priporočamo, da pregledate izvorno kodo vseh aplikacij ter po potrebi stopite v stik z morebitnimi neodvisnimi razvijalci programske opreme ali ponudniki aplikacij. Microsoftova podpora vam lahko posreduje informacije o vseh uporabah zmogljivosti AAD Graph v vašem najemniku.
 
  
 
