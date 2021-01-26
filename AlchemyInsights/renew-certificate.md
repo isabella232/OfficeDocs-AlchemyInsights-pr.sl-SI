@@ -1,5 +1,5 @@
 ---
-title: Podaljšanje potrdila
+title: Podaljšanje veljavnosti potrdila
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "7750"
 - "9004340"
-ms.openlocfilehash: a1a931df944ed83d538215ad7527bec9ef370469
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: a383124fb4e2a5cd4373be0731a233215bed3725
+ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.translationtype: HT
 ms.contentlocale: sl-SI
 ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974935"
+ms.locfileid: "49976829"
 ---
-# <a name="renew-certificate"></a>Podaljšanje potrdila
+# <a name="renew-certificate"></a>Podaljšanje veljavnosti potrdila
 
-Če želite podaljšati potrdilo, ki bo kmalu poteklo, glejte [upravljanje potrdil za Združeno enotno prijavo v storitvi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
+Če želite podaljšati veljavnost potrdila, ki bo kmalu potekla, glejte [Upravljanje potrdil za povezano enotno prijavo v storitvi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-certificates-for-federated-single-sign-on#renew-a-certificate-that-will-soon-expire).
 
-Če želite več informacij o tem, kako upravljati potrdila o podpisu žetona in jih obdržati v sinhronizacijo s [storitvijo AZURE ad, Podaljšajte potrdila federacije za Microsoft 365 in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs).
+Za več informacij o urejanju potrdil za podpisovanje žetonov ter njihovi sinhronizaciji s storitvijo Azure AD glejte [Podaljšanje veljavnosti povezanih potrdil za Microsoft 365 in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-fed-o365-certs).
 
