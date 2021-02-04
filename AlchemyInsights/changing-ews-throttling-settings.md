@@ -1,10 +1,11 @@
 ---
-title: Spreminjanje nastavitev za zadaviti EWS
+title: Spreminjanje nastavitev omejevanja storitve EWS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,13 +13,15 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 4b4be7041ce432b52c61578b3e4d7d49106763bc
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
-ms.translationtype: MT
+ms.openlocfilehash: 4f0bea884153dc1ed8699ce12e0d017d18f5e57c
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44493580"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075913"
 ---
-# <a name="changing-ews-throttling-settings"></a>Spreminjanje nastavitev za zadaviti EWS
+# <a name="changing-ews-throttling-settings"></a>Spreminjanje nastavitev omejevanja storitve EWS
 
-Prosimo, zaženite naš samodejni test, ki vam bo omogočil, da spremenite EWS zadaviti politiko za trajanje vaše migracije.
+Zaženite naš avtomatiziran preizkus, s katerim lahko spremenite pravilnik omejevanja storitve EWS za trajanje vaše selitve. Imejte v mislih, da bodo pri vsakem zagonu uvozi storitve EWS še vedno omejene na 150 mb na 5 minut na nabiralnik. Če želite višje hitrosti prehoda med selitvijo, preselite več uporabnikov hkrati.
+
+Imejte v mislih, da spremembe pravilnika o omejevanju storitve EWS ne vplivajo na te vrste selitve (z Microsoftovimi orodji): hibridno, selitev na mah/selitev po stopnjah (RPC/HTTP), IMAP, G Suite, javna mapa ali storitev PST Import Service.
