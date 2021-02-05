@@ -22,6 +22,6 @@ ms.locfileid: "50075913"
 ---
 # <a name="changing-ews-throttling-settings"></a>Spreminjanje nastavitev omejevanja storitve EWS
 
-Zaženite naš avtomatiziran preizkus, s katerim lahko spremenite pravilnik omejevanja storitve EWS za trajanje vaše selitve. Imejte v mislih, da bodo pri vsakem zagonu uvozi storitve EWS še vedno omejene na 150 mb na 5 minut na nabiralnik. Če želite višje hitrosti prehoda med selitvijo, preselite več uporabnikov hkrati.
+Zaženite naš avtomatiziran preizkus, s katerim lahko spremenite pravilnik omejevanja storitve EWS za trajanje vaše selitve. Upoštevajte, da bodo uvozi storitve EWS tudi po zagonu tega preizkusa še vedno omejeni na 150 MB na 5 minut na nabiralnik. Zaželite višje hitrosti prepustnosti med selitvijo preselite več uporabnikov hkrati.
 
-Imejte v mislih, da spremembe pravilnika o omejevanju storitve EWS ne vplivajo na te vrste selitve (z Microsoftovimi orodji): hibridno, selitev na mah/selitev po stopnjah (RPC/HTTP), IMAP, G Suite, javna mapa ali storitev PST Import Service.
+Upoštevajte, da spremembe pravilnika o omejevanju storitve EWS ne vplivajo na te vrste selitve (z Microsoftovimi orodji): hibridno, selitev na mah/selitev po stopnjah (RPC/HTTP), IMAP, G Suite, javna mapa ali storitev PST Import Service.
