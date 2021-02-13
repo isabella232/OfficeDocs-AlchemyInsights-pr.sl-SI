@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "531"
 - "1400007"
-ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: a70459a58c957fc9987ddd7d990954c57f9de5e2
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: b27a7ebde0052f8df1666a9a35336d1911216783
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287154"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232383"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>Kako narediti nakup Microsoftovega 365
 
 Naročnino na Microsoft 365 lahko kupite v skrbniškem središču.
   
-- Če želite kupiti paket, pojdite na stran storitve za nakup **obračunavanja** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
-- Če želite kupiti dodatne licence, pojdite na stran **obračunavanje** \> [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) . Izberite naročnino, ki jo želite spremeniti, nato pa izberite **nakup licenc** ali **Odstrani licence**.
+- Če želite kupiti paket, pojdite na stran storitve za nakup **obračunavanja** \> **[](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
+- Če želite kupiti dodatne licence, pojdite na stran **obračunavanje** \> **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** . Izberite naročnino, ki jo želite spremeniti, nato pa izberite **Buy licenses (nakup licenc**). \
+**Oglejte si videoposnetek** , ki prikazuje, kako to naredite: [nakup novih licenc](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Če želite več informacij, glejte [nakup licenc za naročnino na Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Če želite izvedeti več, glejte [nakup ali odstranjevanje licenc](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **Odpravljanje težav**
 
