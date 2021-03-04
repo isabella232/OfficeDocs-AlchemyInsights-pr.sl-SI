@@ -2,8 +2,9 @@
 title: Vse pravilo za ulov naprednega uvajanja
 ms.author: pebaum
 author: pebaum
+manager: mnirkhe
 ms.date: 04/21/2020
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +13,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 2b0ed94f65ef0aa1b5fac1f23b7f62a1425b887e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a6647dec85e495b54835e7d6c26807da4e5b621
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696708"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448659"
 ---
-# <a name="deploy-microsoft-365-apps"></a>Uvajanje aplikacij Microsoft 365
+# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Namestitev Officea s svetovalcem za uvajanje programa Microsoft 365 apps
 
-Če želite uvesti Microsoft 365 apps za več končnih uporabnikov prek orodja za uvedbo sistema Office, je Upravitelj konfiguracije Microsoft Endpoint, kot del slike diska operacijskega sistema ali v računalniku v skupni rabi s sistemom Windows Server z oddaljenimi namiznimi storitvami (RDS) ali terminalskih storitev, razmislite o uporabi vodnika po korakih v **aplikaciji Microsoft 365 za svetovalca za uvajanje za podjetja**.
+[Svetovalec za uvajanje programa Microsoft 365 apps](https://admin.microsoft.com/adminportal/home) vam pomaga pridobiti naprave uporabnikov, ki izvajajo najnovejšo različico Officeovih izdelkov, kot so Word, Excel, PowerPoint in OneNote.
   
-Če želite začeti, se prepričajte, da ste vpisani kot skrbnik za najemnika ali globalni skrbnik, nato pa kliknite tukaj: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
+Na voljo so navodila za različne metode uvajanja, ki vključujejo preproste možnosti za samostojno namestitev in uvajanje podjetij z orodji za upravljanje. Navodila vam bodo v pomoč pri ocenjevanju okolja, razbrati določene zahteve za uvedbo in izvedli potrebna orodja za podporo, da zagotovite uspešno namestitev.
   
