@@ -1,36 +1,42 @@
 ---
-title: Odstranjevanje podatkov in brisanje naprav iz intuna
+title: Odstranjevanje podatkov in počistite napravo iz Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1279"
 - "6700008"
-ms.openlocfilehash: efaf111f694ab57d0435b141a6d4baad58658ed2
-ms.sourcegitcommit: e34bb95fb93250f1dc7aec6a13578bb3bb355935
-ms.translationtype: MT
+- "9004638"
+- "8392"
+ms.openlocfilehash: cada3c6f1e7d1dcd576baa1245fb5a62ed938613
+ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45440466"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "50416329"
 ---
-# <a name="removing-data-and-wiping-devices-from-intune"></a>Odstranjevanje podatkov in brisanje naprav iz intuna
+# <a name="removing-data-and-wiping-devices-from-intune"></a>Odstranjevanje podatkov in počistite napravo iz Intune
 
-Dejanja »Upokojijo naprave« in »Device Wipe« lahko odstranite podatke podjetja, ki jih upravlja Intune, ali pa izvedete tovarniško ponastavitev in napravo vrnete na privzete nastavitve.
+Oddaljena dejanja Ukinitev naprave in Brisanje podatkov iz naprave lahko uporabite za odstranitev podatkov podjetja, ki jih upravlja Intune, ali za ponastavitev na tovarniške nastavitve in vrnitev naprave na privzete nastavitve.
 
-1. Vpišite se v upravljanje naprav v storitvi Microsoft 365 in odi¹tejejte **aplikacije**  >  **Vse naprave**.
-2. Izberite napravo, ki jo želite izbrisati.
-3. Izberite vrsto oddaljenega brisa, ki ga želite narediti. Upokojiti izbriše samo organizacijske informacije, medtem ko polni robčki obnovite napravo na tovarniške nastavitve.
-4. Izberite **Da,** da potrdite. Dokler se robček ne konča, je stanje dejanja naprave prikazano kot »V teku«.</br>
-    Ko je dejanje dokončano, na seznamu upravljane naprave ne boste več videli mobilne naprave.
+1. Prijavite se v Upravljanje naprav okolja Microsoft 365 in pojdite na **Naprave** > **Vse naprave**.
+2. Izberite napravo, ki jo želite počistiti.
+3. Izberite vrsto oddaljenega brisanja, ki ga želite izvesti. Ukinitev izbriše samo organizacijske podatke, popolno brisanje podatkov iz naprave pa obnovi tovarniške nastavitve naprave.
+4. Za potrditev kliknite **Da**. Dokler se brisanje ne konča, se stanje dejanja naprave prikazuje kot *Ukinitev v čakanju*.
+    Po končanem dejanju mobilna naprava ne bo več vidna na seznamu upravljane naprave.
 
-** Opomba** Podatkov podjetja ni mogoče odstraniti iz naprav, ki so pridružene Azure AD.
+> [!NOTE]
+> Podatkov podjetja ni mogoče odstraniti iz naprav, PRIDRUŽENIH Azure AD. 
 
-Za vse podrobnosti o učinku dejanj »Upokojii« in »Obriši«, vključno s tem, kaj se ohrani in kaj se izbriše, glejte Odstranjevanje naprav [z brisanjem, upokojitvijo ali ročnim odvijanjem naprave](https://docs.microsoft.com/intune/devices-wipe).
+Za vse podrobnosti o učinku ukrepov ukinitve in brisanja, vključno s tem, kaj se obdrži in kaj izbriše, glejte naslednjo dokumentacijo:
 
-Če želite izbrisati vse podatke iz naprave macOS, [glejte Brisanje vseh podatkov iz naprave macOS](https://docs.microsoft.com/intune/device-erase).
+- [Odstranite naprave z brisanjem, ukinitvijo ali ročnim odjavljanjem naprave](https://docs.microsoft.com/mem/intune/remote-actions/devices-wipe).
+- [Kako izbrisati samo poslovne podatke iz aplikacij, ki jih upravlja Intune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)
+- [Izbrišite vse podatke iz naprave macOS](https://docs.microsoft.com/mem/intune/remote-actions/device-erase).
