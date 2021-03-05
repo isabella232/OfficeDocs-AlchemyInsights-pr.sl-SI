@@ -1,8 +1,8 @@
 ---
 title: Nakup Microsoftovega zagovornika za Office 365
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+- commerce
+ms.openlocfilehash: 1f89de4fdd42f44ca75786262f19f12f65b7f594
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801192"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469822"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>Nakup Microsoftovega zagovornika za Office 365
 
-Microsoft Defender za Office 365 (ATP) je vključen v določene naročnine, kot so Microsoft 365 E5, Office 365 E5, Office 365 a5 in Microsoft 365 Business Premium. Če vaša naročnina ne vključuje sistema Office 365 ATP, lahko kupite [ATP paket 1or](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) (ATP plan 2) kot dodatek za določeno naročnino. Če želite kupiti v skrbniškem središču za Microsoft 365:
+Microsoft Defender za Office 365 je vključen v določene naročnine, kot so Microsoft 365 E5, Office 365 E5, Office 365 a5 in Microsoft 365 Business Premium. Če vaša naročnina ne vključuje Microsoftovega zagovornika za Office 365, lahko kupite [Microsoft Defender za office 365](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) kot dodatek za določeno naročnino. Če želite kupiti v skrbniškem središču za Microsoft 365:
 
-1. Pojdite na storitev za nakup **obračunavanja**   >   [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433).
-2. Izberite stran z **dodatki**  iz **drugih kategorij, ki vas lahko zanimajo.**
-3. Izberite paket za zaščito pred grožnjami, ki ga želite kupiti. Izberete lahko tudi preskusni načrt.
-4. Izberite število uporabnikov, ki bodo uporabljali dodatno zaščito pred grožnjami.
+1. V skrbniškem središču obiščite stran storitve za **nakup obračunavanja**  >  [](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+2. Na dnu strani **nakup storitev** v razdelku **dodatki** poiščite dodatek Microsoft Defender za Office 365 in izberite» **podrobnosti**«.
+3. Na strani s podrobnostmi izdelka izberite **nakup**.
+4. Po potrebi dokončajte druge informacije o naročilu. Te informacije lahko vključujejo izbiranje naročnine za dodatek in število uporabnikov, ki ga bodo uporabljali. Ko končate, izberite **Rezerviraj zdaj**.
+5. Po potrebi preglejte informacije o vrstnem redu in cenah, nato pa izberite **naprej**.
+6. Izberite način plačila ali pa dodajte novo, nato pa izberite **Uredi naročilo**  >  **Pojdi na domačo stran skrbnika**.
 
 Če želite uporabnikom dodeliti licence, si oglejte [dodeljevanje licenc uporabnikom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 
-Če želite kupiti več licenc ali jih odstraniti, glejte [Dodaj/odstrani licence za naročnino](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+Če želite kupiti več ali odstraniti licence, glejte [nakup ali odstranjevanje licenc](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
