@@ -1,0 +1,104 @@
+---
+title: Težave z API-jem za Microsoft Graph
+ms.author: v-jmathew
+author: v-jmathew
+manager: scotv
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004345"
+- "7759"
+ms.openlocfilehash: a856094d9152568c3c067da5856153230d6590a6
+ms.sourcegitcommit: 9d03083ea6e18070296b87a1b02339ca4d8e6064
+ms.translationtype: MT
+ms.contentlocale: sl-SI
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "50714514"
+---
+# <a name="microsoft-graph-api-issues"></a><span data-ttu-id="8ef00-102">Težave z API-jem za Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="8ef00-102">Microsoft Graph API issues</span></span>
+
+<span data-ttu-id="8ef00-103">Ta tema se lahko uporablja tudi za razvijalce, ki še vedno uporabljajo vmesnik Azure AD Graph API.</span><span class="sxs-lookup"><span data-stu-id="8ef00-103">This topic may also apply to developers still using Azure AD Graph API.</span></span> <span data-ttu-id="8ef00-104">Vendar pa **je priporočljivo,** da uporabite Microsoft Graph za vse scenarije imenika, identitete in upravljanja Accessa.</span><span class="sxs-lookup"><span data-stu-id="8ef00-104">However, it is **strongly** recommended that you use Microsoft Graph for all your directory, identity, and access management scenarios.</span></span>
+
+<span data-ttu-id="8ef00-105">**Težave s preverjanjem pristnosti ali avtorizacije**</span><span class="sxs-lookup"><span data-stu-id="8ef00-105">**Authentication or authorization issues**</span></span>
+
+- <span data-ttu-id="8ef00-106">Če vaš program **ne more pridobiti žetonov** za klicanje programa Microsoft Graph, izberite **težave z iskanjem žetona Microsoft Graph (preverjanje pristnosti)** , da pridobite natančnejšo pomoč in podporo v tej temi.</span><span class="sxs-lookup"><span data-stu-id="8ef00-106">If your app is **unable to acquire tokens** to call Microsoft Graph, pick **Problem with getting an access token (Authentication)** Microsoft Graph category to get more specific help and support on this topic.</span></span>
+- <span data-ttu-id="8ef00-107">Če vaš program **prejema napake pri avtorizaciji v storitvi 401 ali 403** , ko kličete Microsoft Graph, izberite kategorijo» **pridobivanje zavrnjenega dostopa «(avtorizacija)** , ki je v kategoriji API za Microsoft Graph, da pridobite natančnejšo pomoč in podporo v tej temi.</span><span class="sxs-lookup"><span data-stu-id="8ef00-107">If your app is **receiving 401 or 403 authorization errors** when calling Microsoft Graph, pick the **Getting an access denied error (Authorization)** Microsoft Graph API category to get more specific help and support on this topic.</span></span>
+
+<span data-ttu-id="8ef00-108">**Želim uporabljati Microsoft Graph, vendar ne vem, kje naj začnem**</span><span class="sxs-lookup"><span data-stu-id="8ef00-108">**I want to use Microsoft Graph, but not sure where to start**</span></span>
+
+- [<span data-ttu-id="8ef00-109">Pregled programa Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="8ef00-109">Overview of Microsoft Graph</span></span>](https://docs.microsoft.com/graph/overview)
+- [<span data-ttu-id="8ef00-110">Pregled identitete in upravljanja dostopa v programu Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="8ef00-110">Overview of Identity and Access Management in Microsoft Graph</span></span>](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [<span data-ttu-id="8ef00-111">Uvod v izgradnjo aplikacij Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="8ef00-111">Getting started building Microsoft Graph apps</span></span>](https://docs.microsoft.com/graph/)
+- <span data-ttu-id="8ef00-112">**Microsoft Graph Explorer** – preskusite API-je za Microsoft Graph v najemniku ali v demonstracijskem najemniku</span><span class="sxs-lookup"><span data-stu-id="8ef00-112">**Microsoft Graph Explorer** - Test Microsoft Graph APIs in your tenant or a demo tenant</span></span>
+
+<span data-ttu-id="8ef00-113">**Želim uporabiti Microsoft Graph, vendar ne podpira API-jev imenika v 1.0, ki jih potrebujem?**</span><span class="sxs-lookup"><span data-stu-id="8ef00-113">**I want to use Microsoft Graph, but does it support the v1.0 directory APIs I need?**</span></span>
+
+<span data-ttu-id="8ef00-114">Microsoft Graph je priporočen API za imenik, identiteto in upravljanje dostopa.</span><span class="sxs-lookup"><span data-stu-id="8ef00-114">Microsoft Graph is the recommended API for directory, identity, and access management.</span></span> <span data-ttu-id="8ef00-115">Vendar pa še vedno obstaja nekaj vrzeli med tem, kar je mogoče v storitvi Azure AD Graph in Microsoft Graph.</span><span class="sxs-lookup"><span data-stu-id="8ef00-115">However, there are still a few gaps between what is possible in Azure AD Graph and Microsoft Graph.</span></span> <span data-ttu-id="8ef00-116">Preglejte te članke, ki poudarjajo najbolj posodobljene razlike, ki jih boste lažje izbrali:</span><span class="sxs-lookup"><span data-stu-id="8ef00-116">Review the following articles, which highlight the most up-to-date differences to assist in your choice:</span></span>
+
+- [<span data-ttu-id="8ef00-117">Razlike med vrstami virov med grafikonom Azure AD Graph in programom Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="8ef00-117">Resource type differences between Azure AD Graph and Microsoft Graph</span></span>](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [<span data-ttu-id="8ef00-118">Razlike med lastnostmi in grafikoni za Azure AD Graph in Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="8ef00-118">Property differences between Azure AD Graph and Microsoft Graph</span></span>](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [<span data-ttu-id="8ef00-119">Razlike v metodi med storitvijo Azure AD in Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="8ef00-119">Method differences between Azure AD and Microsoft Graph</span></span>](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+
+<span data-ttu-id="8ef00-120">**API, ki jo kličem, ne deluje – kje lahko naredim več testiranj?**</span><span class="sxs-lookup"><span data-stu-id="8ef00-120">**The API I am calling doesn't work - where can I do more testing?**</span></span>
+
+<span data-ttu-id="8ef00-121">**Microsoft Graph Explorer** – preskusite API-je za Microsoft Graph v najemnika ali demonstracijskega najemnika in preverite **vzorčne poizvedbe** v Raziskovalcu programa Microsoft Graph.</span><span class="sxs-lookup"><span data-stu-id="8ef00-121">**Microsoft Graph Explorer** - Test Microsoft Graph APIs in your tenant or a demo tenant and also check out the **sample queries** in Microsoft Graph Explorer.</span></span>
+
+<span data-ttu-id="8ef00-122">**Aplikacija je prepočasna in je tudi zadaviti. Katere izboljšave lahko izvedem?**</span><span class="sxs-lookup"><span data-stu-id="8ef00-122">**My app is too slow and is also getting throttled. What improvements can I make?**</span></span>
+
+<span data-ttu-id="8ef00-123">Odvisno od vašega scenarija je na voljo več možnosti, s katerimi lahko izboljšate svojo aplikacijo in v nekaterih primerih manj nagnjeni k omejevanju storitve (ko vnašate preveč klicev).</span><span class="sxs-lookup"><span data-stu-id="8ef00-123">Depending on your scenario, there are a variety of options at your disposal to make your application more performant, and in some cases, less prone to being throttled by the service (when you are making too many calls).</span></span>
+
+- [<span data-ttu-id="8ef00-124">Najboljše prakse v programu Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="8ef00-124">Microsoft Graph best practices</span></span>](https://docs.microsoft.com/graph/best-practices-concept)
+- [<span data-ttu-id="8ef00-125">Zahteve za betonarne</span><span class="sxs-lookup"><span data-stu-id="8ef00-125">Batching requests</span></span>](https://docs.microsoft.com/graph/json-batching)
+- [<span data-ttu-id="8ef00-126">Sledenja spremembam prek poizvedbe Delta</span><span class="sxs-lookup"><span data-stu-id="8ef00-126">Track changes through delta query</span></span>](https://docs.microsoft.com/graph/delta-query-overview)
+- [<span data-ttu-id="8ef00-127">Pridobivanje obvestil o spremembah s pomočjo</span><span class="sxs-lookup"><span data-stu-id="8ef00-127">Get notified of changes through webhooks</span></span>](https://docs.microsoft.com/graph/webhooks)
+- [<span data-ttu-id="8ef00-128">Usmerjanje zadaviti</span><span class="sxs-lookup"><span data-stu-id="8ef00-128">Throttling guidance</span></span>](https://docs.microsoft.com/graph/throttling)
+
+<span data-ttu-id="8ef00-129">**Kje lahko najdem več informacij o napakah in znanih težavah?**</span><span class="sxs-lookup"><span data-stu-id="8ef00-129">**Where can I find more information on errors and known issues?**</span></span>
+
+- [<span data-ttu-id="8ef00-130">Informacije o odgovoru na Microsoft Graph</span><span class="sxs-lookup"><span data-stu-id="8ef00-130">Microsoft Graph error response information</span></span>](https://docs.microsoft.com/graph/errors)
+- [<span data-ttu-id="8ef00-131">Znane težave z Microsoft Graphom</span><span class="sxs-lookup"><span data-stu-id="8ef00-131">Known issues with Microsoft Graph</span></span>](https://docs.microsoft.com/graph/known-issues)
+
+<span data-ttu-id="8ef00-132">**Kje lahko preverim stanje razpoložljivosti storitve in povezljivosti?**</span><span class="sxs-lookup"><span data-stu-id="8ef00-132">**Where can I check status of service availability and connectivity?**</span></span>
+
+<span data-ttu-id="8ef00-133">Razpoložljivost storitve in povezljivost osnovnih storitev, do katerih lahko dostopate prek Microsoft Grapha, lahko vpliva na splošno razpoložljivost in učinkovitost delovanja programa Microsoft Graph.</span><span class="sxs-lookup"><span data-stu-id="8ef00-133">The service availability and connectivity of the underlying services that can be accessed through Microsoft Graph can impact the overall availability and performance of Microsoft Graph.</span></span>
+
+- <span data-ttu-id="8ef00-134">Za zdravje storitve Azure Active Directory preverite stanje storitve **Security + Identity** Services, ki so navedene na [strani stanja Azure](https://azure.microsoft.com/status/).</span><span class="sxs-lookup"><span data-stu-id="8ef00-134">For Azure Active Directory service health, check the status of **Security + Identity** services listed in the [Azure status page](https://azure.microsoft.com/status/).</span></span>
+- <span data-ttu-id="8ef00-135">Za Officeove storitve, ki prispevajo k programu Microsoft Graph, preverite stanje storitev, ki so navedene v [nadzorni plošči» zdravstvena služba za Office](https://portal.office.com/adminportal/home#/servicehealth)«.</span><span class="sxs-lookup"><span data-stu-id="8ef00-135">For Office services that contribute to Microsoft Graph, check the status of services listed in the [Office Service Health Dashboard](https://portal.office.com/adminportal/home#/servicehealth).</span></span>
+
+<span data-ttu-id="8ef00-136">Napake pri avtorizaciji za Microsoft Graph so lahko posledica več različnih težav, od katerih večina ustvari napako 401 ali 403.</span><span class="sxs-lookup"><span data-stu-id="8ef00-136">Microsoft Graph authorization errors can be a result of several different issues, most of which generate a 401 or 403 error.</span></span> <span data-ttu-id="8ef00-137">To lahko na primer privede do napak pri avtorizaciji:</span><span class="sxs-lookup"><span data-stu-id="8ef00-137">For example, the following can all lead to authorization errors:</span></span>
+
+- <span data-ttu-id="8ef00-138">Napačni [poteki pridobivanja žetona za dostop](https://docs.microsoft.com/azure/active-directory/develop/active-directory-authentication-scenarios)</span><span class="sxs-lookup"><span data-stu-id="8ef00-138">Incorrect [access token acquisition flows](https://docs.microsoft.com/azure/active-directory/develop/active-directory-authentication-scenarios)</span></span>
+- <span data-ttu-id="8ef00-139">Neustrezno konfigurirani [obsegi dovoljenja](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes)</span><span class="sxs-lookup"><span data-stu-id="8ef00-139">Poorly configured [permission scopes](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes)</span></span>
+- <span data-ttu-id="8ef00-140">Manjkajoče [soglasje](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)</span><span class="sxs-lookup"><span data-stu-id="8ef00-140">Lack of [consent](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)</span></span>
+
+<span data-ttu-id="8ef00-141">\**_Konec podpore za knjižnico Azure Active Directory Authentication Library (ADAL) in vmesnik API za Azure AD Graph (AAD Graph)_* _</span><span class="sxs-lookup"><span data-stu-id="8ef00-141">\**_End of support for Azure Active Directory Authentication Library (ADAL) and Azure AD Graph API (AAD Graph)_* _</span></span>
+
+<span data-ttu-id="8ef00-142">_ \* Začetek junija 30th, 2020 \* \*, ne bomo več dodali nobenih novih funkcij v knjižnice ADAL in Azure AD Graph.</span><span class="sxs-lookup"><span data-stu-id="8ef00-142">_\*Starting June 30th, 2020\*\*, we will no longer add any new features to ADAL and Azure AD Graph.</span></span> <span data-ttu-id="8ef00-143">Še naprej nudimo tehnično podporo in varnostne posodobitve, ne zagotavljamo pa več posodobitev funkcij.</span><span class="sxs-lookup"><span data-stu-id="8ef00-143">We will continue to provide technical support and security updates but will no longer provide feature updates.</span></span>
+
+<span data-ttu-id="8ef00-144">Z **začetkom junija 30th 2022** bomo zaključili podporo za knjižnice adal in Azure ad Graph in ne boste več zagotavljali tehnične podpore ali varnostnih posodobitev.</span><span class="sxs-lookup"><span data-stu-id="8ef00-144">**Starting June 30th, 2022**, we will end support for ADAL and Azure AD Graph and will no longer provide technical support or security updates.</span></span>
+
+<span data-ttu-id="8ef00-145">Programi, ki uporabljajo knjižnice ADAL v obstoječih različicah sistema OS, bodo po tem času še naprej delovali, vendar ne bodo *prejeli nobene tehnične podpore ali varnostnih posodobitev*.</span><span class="sxs-lookup"><span data-stu-id="8ef00-145">Apps using ADAL on existing OS versions will continue to work after this time but will not *get any technical support or security updates*.</span></span>
+
+<span data-ttu-id="8ef00-146">Programi, ki uporabljajo Azure AD Graph, po tem času morda ne bodo več prejemali odgovorov iz končne točke grafikona Azure AD.</span><span class="sxs-lookup"><span data-stu-id="8ef00-146">Apps using Azure AD Graph after this time may no longer receive responses from the Azure AD Graph endpoint.</span></span>
+
+<span data-ttu-id="8ef00-147">**Selitev v knjižnice ADAL**</span><span class="sxs-lookup"><span data-stu-id="8ef00-147">**ADAL Migration**</span></span>
+
+<span data-ttu-id="8ef00-148">Priporočamo, da izvedete nadgradnjo na knjižnico [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), ki vključuje najnovejše funkcije in varnostne posodobitve.</span><span class="sxs-lookup"><span data-stu-id="8ef00-148">We recommend updating to the [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), which has the latest features and security updates.</span></span>
+
+<span data-ttu-id="8ef00-149">Če uporabljate Microsoft apps, veste, da je Microsoft v postopku selitve svojih programov v MSAL s končnim rokom za konec podpore, s čimer zagotovite, da bodo imeli koristi od trenutne varnosti in izboljšav funkcij v MSAL.</span><span class="sxs-lookup"><span data-stu-id="8ef00-149">If you are using Microsoft apps, know that Microsoft is in the process of migrating its applications to MSAL by the end-of-support deadline, ensuring they'll benefit from MSAL's ongoing security and feature improvements.</span></span>
+
+1. [<span data-ttu-id="8ef00-150">Preberite pogosta vprašanja o knjižnici ADAL</span><span class="sxs-lookup"><span data-stu-id="8ef00-150">Read the ADAL FAQ</span></span>](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+2. [<span data-ttu-id="8ef00-151">Več informacij o selitvi aplikacij glede na platformo</span><span class="sxs-lookup"><span data-stu-id="8ef00-151">Learn about how to migrate apps on a per-platform basis</span></span>](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+3. <span data-ttu-id="8ef00-152">Če potrebujete pomoč pri razumevanju, katere aplikacije uporabljajo knjižnice ADAL, vam priporočamo, da pregledate vse izvorne kode programov in po potrebi poiščete morebitne ISVs ali ponudnike programov.</span><span class="sxs-lookup"><span data-stu-id="8ef00-152">If you need help understanding which of your apps use ADAL, we recommend you review all of your apps' source code, and if applicable, reach out to any ISVs or app providers.</span></span> <span data-ttu-id="8ef00-153">Microsoftova podpora vam lahko posreduje seznam vseh aplikacij ADAL v vašem najemniku, ki jih ne zagotavlja Microsoft.</span><span class="sxs-lookup"><span data-stu-id="8ef00-153">Microsoft support can also provide you with a list of all non-Microsoft ADAL apps in your tenant.</span></span>
+
+<span data-ttu-id="8ef00-154">**Selitev zmogljivosti AAD Graph**</span><span class="sxs-lookup"><span data-stu-id="8ef00-154">**AAD Graph Migration**</span></span>
+
+<span data-ttu-id="8ef00-155">Za programe, ki uporabljajo grafiko Azure AD Graph, upoštevajte navodila za [selitev programov AZURE ad Graph v Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview).</span><span class="sxs-lookup"><span data-stu-id="8ef00-155">For applications that are using Azure AD Graph, follow our guidance to [migrate Azure AD Graph apps to Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview).</span></span>
+
+1. <span data-ttu-id="8ef00-156">[Kontrolni seznam za selitev vključuje točko za začetek izvajanja postopka](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist).</span><span class="sxs-lookup"><span data-stu-id="8ef00-156">[Our migration checklist provides a getting started point](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist).</span></span>
+2. <span data-ttu-id="8ef00-157">Na portalu za registracijo aplikacije Azure so prikazane aplikacije, ki uporabljajo AAD Graph.</span><span class="sxs-lookup"><span data-stu-id="8ef00-157">Your Azure app registration portal shows which applications are using AAD Graph.</span></span> <span data-ttu-id="8ef00-158">Priporočamo, da pregledate izvorno kodo vseh aplikacij ter po potrebi stopite v stik z morebitnimi neodvisnimi razvijalci programske opreme ali ponudniki aplikacij.</span><span class="sxs-lookup"><span data-stu-id="8ef00-158">We recommend you review all of your apps' source code, and if applicable, reach out to any ISVs or app providers.</span></span> <span data-ttu-id="8ef00-159">Microsoftova podpora vam omogoča tudi seznam vseh uporab ZVOČNIh grafikonov v najemniku.</span><span class="sxs-lookup"><span data-stu-id="8ef00-159">Microsoft support can also provide you with a list of all AAD Graph usage in your tenant.</span></span>
+3. <span data-ttu-id="8ef00-160">Če želite za program dostopati do podatkov v programu Microsoft Graph, ga mora uporabnik ali skrbnik dodeliti pravilnim dovoljenjem prek postopka soglasja.</span><span class="sxs-lookup"><span data-stu-id="8ef00-160">For your app to access data in Microsoft Graph, the user or administrator must grant it the correct permissions via a consent process.</span></span> <span data-ttu-id="8ef00-161">[Sklici na dovoljenja za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) navajajo dovoljenja, povezana z vsakim glavnim naborom API-jev Microsoft Graph.</span><span class="sxs-lookup"><span data-stu-id="8ef00-161">The [Microsoft Graph permissions reference](https://docs.microsoft.com/graph/permissions-reference) lists the permissions associated with each major set of Microsoft Graph APIs.</span></span> <span data-ttu-id="8ef00-162">Na voljo so tudi navodila za uporabo dovoljenj.</span><span class="sxs-lookup"><span data-stu-id="8ef00-162">It also provides guidance about how to use the permissions.</span></span>
