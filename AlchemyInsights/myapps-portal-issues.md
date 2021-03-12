@@ -1,5 +1,5 @@
 ---
-title: Težave portala MyApps
+title: Težave na portalu MyApps
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,54 +13,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "7771"
 - "9004350"
-ms.openlocfilehash: ce17fdbda093dff6706762b6753f9cac889c3098
-ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
-ms.translationtype: MT
+ms.openlocfilehash: 067e26184a5de81fe824c398d13659c41ed577c1
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49917052"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708582"
 ---
-# <a name="myapps-portal-issues"></a>Težave portala MyApps
+# <a name="myapps-portal-issues"></a>Težave na portalu MyApps
 
-Če želite odpraviti težave, ki jih doživljate ob vpisu v portal» moji programi «ali» uporaba «, glejte [Odpravljanje težav s portalom» moji programi](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)«.
+Če želite odpraviti težave, do katerih pride pri vpisu v portal »Moji programi« ali pri uporabi portala »Moji programi« glejte [Odpravljanje težav s portalom »Moji programi«](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot).
 
-**Ne vidim programov, ki jih pričakujem na plošči programa Access**
+**Ne vidim programov, ki jih pričakujem v podoknu za dostop do aplikacij**
 
-Če želite navodila o tem, zakaj aplikacije, ki jih pričakujete, niso prikazane na plošči programa Access, glejte:
+Če želite navodila o tem, zakaj pričakovane aplikacije niso prikazane v podoknu za dostop aplikacij, glejte:
 
-- [Ne vem, zakaj se v Accessovi plošči ne prikaže aplikacija, ki sem jo dodelil](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-not-appearing/)
+- [Ne vem, zakaj dodeljeni program ni prikazan v podoknu za dostop](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
      
-- [Ne vem, zakaj je program prikazan na Accessovi plošči](https://docs.microsoft.com/azure/active-directory/application-access-panel-unexpected-application-appears/)
+- [Ne vem, zakaj se program prikaže v podoknu za dostop](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Imam težave z vpisom v podokno za dostop do aplikacije**
+**Imam težave z vpisom v ploščo za dostop do aplikacij**
 
-Če želite odpraviti težave z vpisom v podokno za dostop do aplikacije, glejte:
+Če želite odpraviti težave z vpisom v ploščo za dostop do aplikacij, glejte:
 
-[Ne morem se vpisati na spletno mesto Accessove plošče](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
+[Ne morem se vpisati na spletno mesto plošče za dostop](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
 
-**Imam težave s podaljšanjem brskalnika za Accessovo ploščo aplikacije**
+**Pri uporabi razširitve za brskalnike na plošči za dostop do aplikacije so se težave**
 
-Če želite odpraviti težave z uporabo razširitve brskalnika za Accessovo ploščo aplikacije, glejte:
+Če želite odpraviti težave z uporabo razširitve za dostop do aplikacije na plošči za brskalnik, glejte:
 
-[Med namestitvijo razširitve brskalnika za Accessovo ploščo programa sem videl napako](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
+[Pri namestitvi razširitve za brskalnik na plošči za dostop do programa se prikaže sporočilo o napaki](https://docs.microsoft.com/azure/active-directory/application-access-panel-extension-problem-installing/)
 
-**Imam težave s funkcijo na plošči Accessove aplikacije**
+**Imam težave z vpisom v ploščo za dostop do aplikacij**
 
-Če želite odpraviti težave, ki se nanašajo na določeno funkcijo na plošči programa Access, glejte:
+Če želite odpraviti težave, povezane z določeno funkcijo v podoknu za dostop aplikacij, glejte:
 
-- [Ne vem, kako naj uporabim samopostrežni dostop do storitve](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
+- [Ne vem, kako uporabljati samopostrežni dostop do aplikacije](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access) 
 
-- [Prišlo je do težave pri uporabi aplikacije za samopostrežni dostop](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
+- [Pri uporabi samopostrežnega dostopa do aplikacije je prišlo do težave](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-manage-self-service-access)
     
-**Če imate težave pri uvajanju ali uporabi portala» moji programi «**
+**Če imate težave z uvajanjem ali uporabo portala »Moji programi«**
 
-Če želite odpraviti težave, ki jih imate pri uvajanju ali uporabi portala MyApps, glejte:
+Če želite odpraviti težave, do katerih pride pri uvajanju ali uporabi portala Moji programi, glejte:
 
-- [Ustvarjanje zbirk v portalu» moji programi «](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
+- [Ustvarjanje zbirk na portalu »Moji programi«](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-collections) 
     
 - [Konfiguracija dodelitve samopostrežnega programa](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-self-service-access)
      
-- [Odpravljanje težav s končnimi uporabniki v portalu» moji programi «](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
+- [Odpravljanje težav s končnimi uporabniki v portalu »Moji programi«](https://docs.microsoft.com/azure/active-directory/user-help/my-apps-portal-end-user-troubleshoot)
 
 
 

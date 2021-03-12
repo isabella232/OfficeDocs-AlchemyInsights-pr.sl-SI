@@ -13,15 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "7648"
-ms.openlocfilehash: cab6f1cb79c88ca4fad53dcc8970ca37b507eae3
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: af09e8805409446a42a62c82aa577ad27f09a17a
+ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49722116"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50733865"
 ---
 # <a name="11-call-recording"></a>snemanje klicev v 1:1
 
-v aplikaciji Teams se bodo kmalu začele spremembe pravilnika za snemanje klicev v 1:1. Če želite več informacij, si oglejte to objavo v središču za sporočila:
+Skrbniki morajo zdaj ukrepati, da bodo lahko uporabniki beležili 1:1 klicev.
+ 
+Začetek april 12, 2021, bomo začeli uveljaviti novo Teams Calling Policy option *AllowCloudRecordingForCalls*. 
 
-[Uvod v 1:1 s pravilnikom o snemanju klicev](https://admin.microsoft.com/AdminPortal/Home)
+Trenutno so zmogljivosti snemanja klicev v 1:1 nadzorovane z možnostjo *AllowCloudRecording* v pravilnikih za srečanje ekip. Če lahko vaši uporabniki snemajo sestanke v Teams, bodo morda snemali tudi 1:1 klicev.
+
+Če želite blokirati vse uporabnike iz snemanja 1:1 klicev, vam ni treba izvesti nobenega dejanja. Možnost» *AllowCloudRecordingForCalls* Calling pravilnik «bo privzeto $FALSE.
+
+Ta sprememba je dokumentirana v tej objavi v središču za sporočila: [(posodobljeno) 1:1 vnos pravilnika o snemanju](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter/:/messages/MC238796) , da nastavite možnost pravilnika za [klicanje ekip](https://docs.microsoft.com/microsoftteams/teams-powershell-install)
+
+**Če želite omogočiti snemanje klicev v 1:1 klici:** Set-CsTeamsCallingPolicy-Identity Global-AllowCloudRecordingForCalls $True
+
+**Če želite onemogočiti snemanje klicev v 1:1 klici:** Set-CsTeamsCallingPolicy-Identity Global-AllowCloudRecordingForCalls $FALSE
+

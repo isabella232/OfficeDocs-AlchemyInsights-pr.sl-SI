@@ -1,30 +1,31 @@
 ---
-title: Uporaba pravilnikov PowerShell za skupno rabo in odnosov organizacije
+title: Uporaba PowerShell za skupno rabo pravilnikov in odnosov organizacije
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 717cdd6827e243ac6bf375209a911937c97088d2
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
-ms.translationtype: MT
+ms.openlocfilehash: cd1d34e4dae474e61c799ca9234b2f18c718f27b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862156"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709482"
 ---
-# <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>Uporaba pravilnikov PowerShell za skupno rabo in odnosov organizacije
+# <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>Uporaba PowerShell za skupno rabo pravilnikov in odnosov organizacije
 
 
-Za odnose organizacije preglejte podrobne podatke o skladnji in parametrih za: [pridobite-FederationInformation](https://docs.microsoft.com/powershell/module/exchange/get-federationinformation), [New-organizationrelacija](https://docs.microsoft.com/powershell/module/exchange/new-organizationrelationship), [set-Organizationrelacija](https://docs.microsoft.com/powershell/module/exchange/set-organizationrelationship) in [Odstrani-organizationrelacija](https://docs.microsoft.com/powershell/module/exchange/remove-organizationrelationship).
+Za odnose organizacije si oglejte podrobno sintakso in informacije o parametrih za: [Get-FederationInformation](https://docs.microsoft.com/powershell/module/exchange/get-federationinformation), [New-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/new-organizationrelationship), [Set-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/set-organizationrelationship)  AND  [Remove-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/remove-organizationrelationship).
 
-Če želite ustvariti pravilnik za skupno rabo, uporabite [novo pravilnik](https://docs.microsoft.com/powershell/module/exchange/new-sharingpolicy). Če želite [uporabiti pravilnik o skupni rabi za nabiralnik ali uporabnika](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy%23use-exchange-online-powershell-to-apply-a-sharing-policy-to-one-or-more-mailboxes) , morate uporabiti kombinacijo [set-Mailbox](https://docs.microsoft.com/powershell/module/exchange/set-mailbox) in [zaslužiti-poštni nabiralnik](https://docs.microsoft.com/powershell/module/exchange/get-mailbox) z novo ustvarjeno politiko. V [ublažiti, onesposobiti ali premestitev a črepina zvitost](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy) vi potreba rabiti [število enakih oseb-sharingpolicy](https://docs.microsoft.com/powershell/module/exchange/set-sharingpolicy) ter [premestitev-sharingpolicy](https://docs.microsoft.com/powershell/module/exchange/remove-sharingpolicy).
+Če želite ustvariti pravilnik o skupni rabi, [»New-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/new-sharingpolicy). Če želite uporabiti[pravilnik za skupno rabo za nabiralnik ali uporabnika](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy#use-exchange-online-powershell-to-apply-a-sharing-policy-to-one-or-more-mailboxes)  morate uporabiti kombinacijo  [Set-Mailbox](https://docs.microsoft.com/powershell/module/exchange/set-mailbox) in [Get-Mailbox](https://docs.microsoft.com/powershell/module/exchange/get-mailbox) z novo ustvarjenim pravilnikom. Če  [spremeniti, onemogočiti ali odstraniti pravilnik o skupni rabi](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)  morate uporabiti  [Set-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/set-sharingpolicy) in [Remove-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/remove-sharingpolicy).
 
 **Za popolno razumevanje te teme preberite:**
 
-[Skupna raba v Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing)
+[Skupna raba v programu Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing)
