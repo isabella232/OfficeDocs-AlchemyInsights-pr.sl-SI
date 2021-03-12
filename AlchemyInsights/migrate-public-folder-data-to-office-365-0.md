@@ -12,12 +12,12 @@ ms.custom:
 - "639"
 - "3500007"
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: 778caff63db2c61c07f510309754681c3cab2c56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dac268b3371af3a28bf8ef598e3a74d954a595c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674630"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707322"
 ---
 # <a name="migrate-public-folder-data-to-microsoft-365"></a>Selitev podatkov v javni mapi v Microsoft 365
 
@@ -29,5 +29,5 @@ Za večje organizacije, ki selijo javne mape v Microsoft 365, imamo na voljo vod
 
 - [Selitev Exchange 2013, Exchange 2016 ali Exchange 2019 javnih map](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-exchange-online)
 
-Na voljo je tudi možnost [selitve javnih map v skupine Microsoft 365](https://docs.microsoft.com/Exchange/collaboration/public-folders/migrate-to-office-365-groups).
+Na voljo je tudi možnost [selitve javnih map v skupine Microsoft 365](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/migrate-your-public-folders-to-microsoft-365-groups).
   

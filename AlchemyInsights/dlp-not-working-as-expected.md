@@ -13,12 +13,12 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0ed893420b5813d5d18639c2c226c12f0306a13f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f07e64c95675a4f6a0aeb6df110fe4e6a21d72f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679709"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707826"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP ne deluje po pričakovanjih
 
@@ -28,7 +28,7 @@ ms.locfileid: "47679709"
 
 Ali imate težave s **preprečevanjem izgube podatkov (DLP)** v sistemu Office 365 ne deluje po pričakovanjih? V tem primeru preverite, ali je **pravilnik za DLP** pravilno nastavljen in da podatki vsebujejo, kaj išče **pravilnik DLP** , ko ga ocenjujete.
   
-Pravilniki DLP omogočajo prepoznavanje in zaščito občutljivih informacij v organizaciji. Če želite nastaviti pravilnike za DLP, uporabite informacije [tukaj](https://docs.microsoft.com/office365/securitycompliance/prevent-data-loss#set-up-dlp).
+Pravilniki DLP omogočajo prepoznavanje in zaščito občutljivih informacij v organizaciji. Če želite nastaviti pravilnike za DLP, uporabite informacije [tukaj](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template).
   
  **Katere pravilnike za DLP iščejo**
   

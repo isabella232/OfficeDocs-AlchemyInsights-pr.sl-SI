@@ -9,16 +9,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 22f5966fdae563c44affb7d0447787a4ee0aca93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3189fa61d28253569278024d4191ee63b917509f
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767679"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707970"
 ---
 # <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>Odpravljanje težav z dostopom do sporočil v skrbniškem središču za SharePoint/OneDrive
 
-Če prejmete sporočilo o zavrnjenem dostopu ob poskusu brskanja v skrbniškem središču za SharePoint/OneDrive, se prepričajte, da ste [uporabniku dodelili licenco](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). Če ima uporabnik licenco, se prepričajte, da jim je [dodeljena skrbniška vloga](hhttps://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) , ki lahko dostopa do skrbniških centrov.
+Če prejmete sporočilo o zavrnjenem dostopu ob poskusu brskanja v skrbniškem središču za SharePoint/OneDrive, se prepričajte, da ste [uporabniku dodelili licenco](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). Če ima uporabnik licenco, se prepričajte, da jim je [dodeljena skrbniška vloga](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles) , ki lahko dostopa do skrbniških centrov.
 
 Do te težave lahko pride tudi, ko je uporabnik izbrisan in znova ustvarjen z istim glavnim imenom uporabnika (UPN). Nov račun je ustvarjen z uporabo drugega PUID (ID Passporta Unique). Ko uporabnik poskuša dostopati do zbirke mest ali njihove OneDrive, ima uporabnik nepravilen PUID. Drugi scenarij vključuje sinhronizacijo imenika z organizacijsko enoto imenika Active Directory (OU). Če so uporabniki že vpisani v SharePoint, nato pa so premaknjeni v drug OU in znova sinhronizirani s storitvijo SharePoint, lahko ta težava pride do te težave.
 
