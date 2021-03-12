@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: ff7a5bb95c5400b8985850b73b5e934d0c5fb9f1
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 8f8efc5e888560965bf65c67c82c7deb2043ed01
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010162"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708510"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>Ni možnosti za namestitev Officea, Visia ali Projecta
 
 Če želite namestiti Officeove odjemalske aplikacije, morate imeti sklenjeno tako naročnino na Office 365 ali Microsoft 365, ki [vključuje Officeove odjemalske aplikacije](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e), npr. Microsoft 365 Business Premium, aplikacije ogrodja Microsoft 365 za poslovanje ali aplikacije ogrodja Microsoft 365 za podjetja.
 
-**Opomba**: [Office Home and Business](https://products.office.com/home-and-business) je izdelek [Office za domačo uporabo](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) in ni vključen v poslovno naročnino. Project Online Essentials ne vključuje namizne različice Projecta, zato ga ni treba namestiti. Uporabniki paketa Visio 1 lahko dostopajo do Visia v spletu, saj paket ne vsebuje namizne aplikacije za Visio. Namizni aplikaciji za Project in Visio nista na voljo za računalnike Mac
+**Opomba**: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) je izdelek [Office za domačo uporabo](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) in ni vključen v poslovno naročnino. Project Online Essentials ne vključuje namizne različice Projecta, zato ga ni treba namestiti. Uporabniki paketa Visio 1 lahko dostopajo do Visia v spletu, saj paket ne vsebuje namizne aplikacije za Visio. Namizni aplikaciji za Project in Visio nista na voljo za računalnike Mac
 
-Če imate sklenjeno naročnino, ki vključuje Officeove aplikacije, možnost za namestitev aplikacij ne bo prikazana, razen če ste vam je bila [dodeljena licenca](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Če ste skrbnik storitve Office 365, odgovoren za dodeljevanje licenc, glejte [Dodeljevanje licenc uporabnikom](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+Če imate sklenjeno naročnino, ki vključuje aplikacije Microsoft 365, možnost za namestitev aplikacij ne bo prikazana, razen če vam je bila [dodeljena licenca](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). Če ste skrbnik storitve Office 365, odgovoren za dodeljevanje licenc, glejte [Dodeljevanje licenc uporabnikom](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 
 Vsak uporabnik naj naredi to:
