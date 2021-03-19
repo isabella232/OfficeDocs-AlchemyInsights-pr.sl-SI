@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06b3e8b553de078a41980dc519db02ec8041e144
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706359"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50897099"
 ---
 # <a name="getting-started-with-intune"></a>Uvod v InTune
 
-Če si želite ogledati hitro predstavitev InTune in skrbniške konzole, si oglejte pregled funkcije [InTune v portalu Azure](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
+Če si želite ogledati hitro predstavitev InTune in skrbniške konzole, si oglejte pregled funkcije [InTune v portalu Azure](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager).
 
 Če želite preskusiti InTune ali nastaviti preskusno različico, si oglejte hitri pregled [: poskusite Microsoft InTune brezplačno](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
 
-Če že imate intuned in ste pripravljeni, da ga začnete uporabljati, si oglejte navodila za [Nastavitev InTune](https://docs.microsoft.com/intune/fundamentals/setup-steps) . 
+Če ste pripravljeni na začetek uporabe InTune, si oglejte [Nastavitev InTune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps). Za izkušnjo z vodenim nastavljanjem glejte [navodila za nastavitev InTune](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide).
