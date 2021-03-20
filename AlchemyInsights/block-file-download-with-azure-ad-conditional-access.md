@@ -1,25 +1,26 @@
 ---
-title: Blokiranje prenosa datotek s pogojnim dostopom Azure AD
+title: Blokiranje prenosa datoteke s pogojnim dostopom za Azure AD
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5710"
-ms.openlocfilehash: 284c82d3f7e3e75ad1ac2f502df11cd682781566
-ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
-ms.translationtype: MT
+ms.openlocfilehash: e52c8f5a0710b4c596d533bac76e03b357faf89d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/21/2020
-ms.locfileid: "44358470"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685722"
 ---
-# <a name="block-file-download-with-azure-ad-conditional-access"></a>Blokiranje prenosa datotek s pogojnim dostopom Azure AD
+# <a name="block-file-download-with-azure-ad-conditional-access"></a>Blokiranje prenosa datoteke s pogojnim dostopom za Azure AD
 
-Pravilniki varnostnega zasedanja aplikacije v oblaku omogočajo omejevanje seje na podlagi stanja naprave. Če želite doseči nadzor seje z uporabo njene naprave kot pogoja, ustvarite pravilnik o pogojnem dostopu in pravilnik seje.
+Pravilniki varnostne seje programa v oblaku vam omogočajo, da omejite sejo glede na stanje naprave. Če želite za pogoj uporabiti svojo napravo za nadzor seje, ustvarite pravilnik o pogojnem dostopu IN pravilnik seje.
 
-- [Prenos bloka datoteke s pogojnim dostopom Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Blokiranje prenosa datoteke s pogojnim dostopom za Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
