@@ -1,29 +1,31 @@
 ---
-title: Težave z uvajanje stroji
+title: Težave s računalniki za upravljanje s storitvijo Microsoft Defender za končne točke
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6023"
 - "9002913"
-ms.openlocfilehash: 19b516dc21472e2c80a8b9046f802b329d15e4d6
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
-ms.translationtype: MT
+ms.openlocfilehash: 7ccec69f8ab43f277978176519a7f8f8df443846
+ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141661"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901583"
 ---
-# <a name="issues-with-onboarding-machines"></a>Težave z uvajanje stroji
+# <a name="issues-with-onboarding-machines-to-microsoft-defender-for-endpoints"></a>Težave s računalniki za upravljanje s storitvijo Microsoft Defender za končne točke
 
-Morda imate težave z napravami za vkrcavanje na storitev MDATP. Če lahko dostopate do stroja za končnega uporabnika, sledite tem korakom:
+Morda imate težave s sprejemanjem računalnikov v storitev MDE. Če lahko dostopate do računalnika za končnega uporabnika, upoštevajte ta navodila:
 
-1. Prenesite diagnostično orodje [analizatorja povezljivosti odjemalca](https://aka.ms/mdatpanalyzer) .
-2. Citat ter prost dostop MDATPAnalyzer. cmd.
-3. Poiščite diagnostični dnevnik v mapi z imenom MDATPClientAnalyzerResult, isto mapo, kjer je orodje za analizo preneseno.
-4. Preglejte dnevniško datoteko, MDATPClientAnalyzer.txt, da poiščete težave z nastavitvami povezljivosti ali internetne proxy.
+1. Prenesite najnovejšo predogledno različico orodja za analizo [MDE in](https://aka.ms/betamdeanalyzer) za diagnostiko.
+2. Z desno tipko **MDEClientAnalyzer.cmd in** »Zaženi kot skrbnik«.
+3. Upoštevajte vsa predlagana navodila v **MDEClientAnalyzer.htm**.
+4. Če želite več podrobnejših dnevnikov, preglejte ustvarjeno podmapo z imenom **MDEClientAnalyzerResult**.
+5. Če potrebujete dodatna navodila, se obrnite na podporo za [Microsoft Defender za končno točko](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/contact-support) navedite nastalo datoteko MDEClientAnalyzerResult.zip za analizo.
