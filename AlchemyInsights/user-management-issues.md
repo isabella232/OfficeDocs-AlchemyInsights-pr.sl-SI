@@ -1,0 +1,57 @@
+---
+title: Težave z upravljanjem uporabnikov
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+ms.date: 03/19/2021
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9209"
+- "9005371"
+ms.openlocfilehash: 4b61686381de0cafa38857ca7a96b3a81aa191ec
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.translationtype: MT
+ms.contentlocale: sl-SI
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "51037509"
+---
+# <a name="user-management-issues"></a><span data-ttu-id="01fe4-102">Težave z upravljanjem uporabnikov</span><span class="sxs-lookup"><span data-stu-id="01fe4-102">User management issues</span></span>
+
+<span data-ttu-id="01fe4-103">**Kaj se zgodi s trenutnimi dodeljenimi uporabniki programa, če onemogočim» zahtevano dodelitev uporabnika «(nastavitev te lastnosti na ne)?**</span><span class="sxs-lookup"><span data-stu-id="01fe4-103">**What happens to current assigned users to the application if I disable the property ‘User assignment required’ (set this property to No)?**</span></span>
+
+<span data-ttu-id="01fe4-104">Onemogočanje **zahteve za dodelitev uporabnika** ne vpliva na trenutno dodeljene uporabnike.</span><span class="sxs-lookup"><span data-stu-id="01fe4-104">Disabling **User assignment required** does NOT affect the currently assigned users.</span></span> <span data-ttu-id="01fe4-105">Onemogočanje te lastnosti bo le vsem uporabnikom omogočilo dostop do programa.</span><span class="sxs-lookup"><span data-stu-id="01fe4-105">Disabling this property will only allow all users to access the application.</span></span> <span data-ttu-id="01fe4-106">Vsi navedeni uporabniki in Uporabniki, ki so dodeljeni skupinam v programu, bodo še vedno veljavni.</span><span class="sxs-lookup"><span data-stu-id="01fe4-106">All the listed users and those users assigned to groups in the application will still be valid.</span></span>
+
+- <span data-ttu-id="01fe4-107">Če želite omejiti program na določen nabor uporabnikov, glejte – [omejite aplikacijo AZURE ad v nabor uporabnikov – Microsoftova platforma za identiteto | Microsoft docs](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users#:~:text=Select%20the%20application%20you%20want%2cand%20set%20it%20to%20Yes.).</span><span class="sxs-lookup"><span data-stu-id="01fe4-107">To restrict your app to specific set of users, see - [Restrict Azure AD app to a set of users - Microsoft identity platform | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users#:~:text=Select%20the%20application%20you%20want%2cand%20set%20it%20to%20Yes.).</span></span>
+- <span data-ttu-id="01fe4-108">Če želite uporabnikom in skupinam dodeliti programe za podjetja v storitvi Azure Active Directory (Azure AD), ki so na portalu Azure ali z uporabo lupine PowerShell, glejte [upravljanje dodelitve uporabnika za program v imeniku Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).</span><span class="sxs-lookup"><span data-stu-id="01fe4-108">To assign users and groups, to enterprise applications in Azure Active Directory (Azure AD), either from within the Azure portal or by using PowerShell, see [Manage user assignment for an app in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).</span></span>
+- <span data-ttu-id="01fe4-109">Če želite dodeliti dovoljenja za ustvarjanje in upravljanje programov, glejte [dodeljevanje skrbniških dovoljenj za upravljanje programov – AZURE ad | Microsoft docs](https://docs.microsoft.com/azure/active-directory/roles/delegate-app-roles).</span><span class="sxs-lookup"><span data-stu-id="01fe4-109">To delegate Application creation and management permissions, see [Delegate application management administrator permissions - Azure AD | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/roles/delegate-app-roles).</span></span>
+- <span data-ttu-id="01fe4-110">**Skrivanje določenih aplikacij za podjetja od uporabnikov** – uporabite te korake, da skrijete vse aplikacije Microsoft 365 v podoknu **MyApps** .</span><span class="sxs-lookup"><span data-stu-id="01fe4-110">**Hide specific enterprise apps from users** - Use the following steps to hide all Microsoft 365 apps from the **MyApps** panel.</span></span> <span data-ttu-id="01fe4-111">Programi bodo še vedno vidni v portalu za Office 365.</span><span class="sxs-lookup"><span data-stu-id="01fe4-111">The apps will still be visible in the Office 365 portal.</span></span>
+
+ 1. <span data-ttu-id="01fe4-112">Vpišite se v portal Azure kot globalni skrbnik za vaš imenik.</span><span class="sxs-lookup"><span data-stu-id="01fe4-112">Sign-in to the Azure portal as a global administrator for your directory.</span></span> 
+ 2. <span data-ttu-id="01fe4-113">Izberite **Azure Active Directory**.</span><span class="sxs-lookup"><span data-stu-id="01fe4-113">Select **Azure Active Directory**.</span></span> 
+ 3. <span data-ttu-id="01fe4-114">Izberite **Uporabniki**.</span><span class="sxs-lookup"><span data-stu-id="01fe4-114">Select **Users**.</span></span> 
+ 4. <span data-ttu-id="01fe4-115">Izberite **nastavitve uporabnika**.</span><span class="sxs-lookup"><span data-stu-id="01fe4-115">Select **User settings**.</span></span> 
+ 5. <span data-ttu-id="01fe4-116">V razdelku **aplikacije Enterprise** kliknite **upravljanje, kako končni uporabniki zaženejo in si ogledajo svoje aplikacije**.</span><span class="sxs-lookup"><span data-stu-id="01fe4-116">Under **Enterprise applications**, click **Manage how end users launch and view their applications**.</span></span> 
+ 6. <span data-ttu-id="01fe4-117">**Uporabniki si lahko ogledajo le programe sistema office 365 na portalu za office 365**, kliknite **da**.</span><span class="sxs-lookup"><span data-stu-id="01fe4-117">For **Users can only see Office 365 apps in the Office 365 portal**, click **Yes**.</span></span> 
+ 7. <span data-ttu-id="01fe4-118">Kliknite **Shrani**.</span><span class="sxs-lookup"><span data-stu-id="01fe4-118">Click **Save**.</span></span> 
+ 8. <span data-ttu-id="01fe4-119">Če želite več informacij, glejte [skrivanje aplikacije Enterprise iz izkušnje uporabnikov v storitvi AZURE ad | Microsoft docs](https://docs.microsoft.com/azure/active-directory/manage-apps/hide-application-from-user-portal#:~:text=%20Hide%20an%20application%20from%20the%20end%20user,6%20Click%20Properties.%207%20Click%20Save.%20See%20More.)</span><span class="sxs-lookup"><span data-stu-id="01fe4-119">For more details, see [Hide an Enterprise application from user's experience in Azure AD | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/manage-apps/hide-application-from-user-portal#:~:text=%20Hide%20an%20application%20from%20the%20end%20user,6%20Click%20Properties.%207%20Click%20Save.%20See%20More.)</span></span>
+
+- <span data-ttu-id="01fe4-120">Če za številne organizacije ponudite programsko opremo kot storitev (SaaS), lahko program konfigurirate tako, da sprejema vpise iz katerega koli imenika Azure Active Directory (Azure AD).</span><span class="sxs-lookup"><span data-stu-id="01fe4-120">If you offer a Software as a Service (SaaS) app to many organizations, you can configure your app to accept sign-ins from any Azure Active Directory (Azure AD) tenant.</span></span> <span data-ttu-id="01fe4-121">Ta konfiguracija se imenuje» ustvarjanje več najemnikov aplikacije «.</span><span class="sxs-lookup"><span data-stu-id="01fe4-121">This configuration is called "making your application multi-tenant".</span></span> <span data-ttu-id="01fe4-122">Uporabniki v katerem koli najemniku v storitvi Azure AD se bodo lahko prijavili v vašo aplikacijo po tem, ko bodo privolili k uporabi svojega računa v aplikaciji.</span><span class="sxs-lookup"><span data-stu-id="01fe4-122">Users in any Azure AD tenant will be able to sign-in to your app after consenting to use their account with your app.</span></span> <span data-ttu-id="01fe4-123">Če želite več informacij, glejte [Ustvarjanje programov, ki se vpišejo v uporabnike storitve AZURE ad – Microsoftova platforma za identiteto | Microsoft docs](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant).</span><span class="sxs-lookup"><span data-stu-id="01fe4-123">For more information, see [Build apps that sign in Azure AD users - Microsoft identity platform | Microsoft Docs](https://docs.microsoft.com/azure/active-directory/develop/howto-convert-app-to-be-multi-tenant).</span></span>
+
+- <span data-ttu-id="01fe4-124">**Kako lahko končni uporabnik dostopa do aplikacije, ko je dodeljena programu?**</span><span class="sxs-lookup"><span data-stu-id="01fe4-124">**How can an end user access the application once he/she is assigned to the application?**</span></span>
+
+<span data-ttu-id="01fe4-125">Vsak program v rezilu aplikacije Enterprise ima povezavo za končne uporabnike za dostop.</span><span class="sxs-lookup"><span data-stu-id="01fe4-125">Each app in Enterprise application blade has a link for end users to access.</span></span> <span data-ttu-id="01fe4-126">Uporabniki lahko dostopajo do programa prek portala **Myapps** na preprost način.</span><span class="sxs-lookup"><span data-stu-id="01fe4-126">Users can also access the app through **Myapps** portal in an easy way.</span></span>
+
+- <span data-ttu-id="01fe4-127">**Ali želite izvedeti, katere aplikacije in vrsto programov uporabljajo Uporabniki?**</span><span class="sxs-lookup"><span data-stu-id="01fe4-127">**Want to know which applications and type of applications are being used by users?**</span></span>
+
+<span data-ttu-id="01fe4-128">Poročila o vpisu lahko prenesete v zadnjih 30 dneh od **portal.azure.com > Azure Active directory> Signins> prenos poročil**.</span><span class="sxs-lookup"><span data-stu-id="01fe4-128">You can download sign-in reports for the last 30 days from **portal.azure.com > Azure Active directory> Signins> download reports**.</span></span>
+
+- <span data-ttu-id="01fe4-129">Naučite se [dodeliti soglasje skrbnika za široko uporabo](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) in [konfigurirajte, kako končni uporabniki soglašajo z aplikacijami](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent).</span><span class="sxs-lookup"><span data-stu-id="01fe4-129">Learn how to [Grant tenant wide admin consent to an application](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) and [Configure how end users consent to applications](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent).</span></span>
+
+- <span data-ttu-id="01fe4-130">Razumete, [Kako soglasje deluje](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) in [upravlja soglasje za aplikacije](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests).</span><span class="sxs-lookup"><span data-stu-id="01fe4-130">Understand [how consent works](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) and [Manage consent to applications](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests).</span></span>
+
+
