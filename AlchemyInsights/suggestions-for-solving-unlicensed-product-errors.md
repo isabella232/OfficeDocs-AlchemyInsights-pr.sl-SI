@@ -2,8 +2,8 @@
 title: Predlogi za odpravljanje napak» nelicenciran izdelek «
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
+ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "849"
 - "2000021"
 ms.assetid: 6422774e-c7a5-4894-a60f-cdef5ca60afe
-ms.openlocfilehash: b1a1ebe313cc90d49633522546b7757fc2d93543
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1df8b7ef04d57c0cf8ac76385363175ac46d062b
+ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808435"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51200617"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>Predlogi za odpravljanje napak» nelicenciran izdelek «
 
-Zagotovite, da imate naročnino, ki omogoča odjemalske licence, kot so Microsoft 365 apps za podjetja ali Microsoft 365 Business Premium standard in [zagotovite, da ima uporabnik dodeljeno licenco](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). [Deaktivirajte namestitev](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) , da preverite, ali ste presegli število namestitev, ki jih podpira vaša naročnina.
+Zagotovite, da imate naročnino, ki omogoča odjemalske licence, kot so Microsoft 365 apps za podjetja ali poslovni standard Microsoft 365, in [zagotovite, da ima uporabnik dodeljeno licenco](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). [Deaktivirajte namestitev](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user) , da preverite, ali ste presegli število namestitev, ki jih podpira vaša naročnina.
   
 Zagotovite, da se uporabnik prijavi z istim računom, ki ima dodeljeno licenco.
   
