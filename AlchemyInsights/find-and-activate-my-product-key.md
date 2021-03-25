@@ -1,5 +1,5 @@
 ---
-title: Iskanje in aktiviranje ključa izdelka
+title: Microsoft Open License Program
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001519"
 - "3576"
-ms.openlocfilehash: 37a847074f14ac914950ad42dfc0c6c52db942a6
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: bbe0ee6718e470e5d1d309a6e87f5312ef806599
+ms.sourcegitcommit: 84f0aebdb278703f642a0c33fe260e3aee849be9
 ms.translationtype: MT
 ms.contentlocale: sl-SI
 ms.lasthandoff: 03/25/2021
-ms.locfileid: "51200725"
+ms.locfileid: "51217949"
 ---
-# <a name="find-and-activate-my-product-key"></a>Iskanje in aktiviranje ključa izdelka
+# <a name="microsoft-open-license-program"></a>Microsoft Open License Program
 
-Če ste Microsoft 365 za podjetja kupili prek [Microsoftovega programa za odpiranje licenc](https://go.microsoft.com/fwlink/p/?LinkID=613298), si oglejte, kako poiščete in aktivirate ključ izdelka.
+Če ste kupili Microsoft 365 za podjetja s programom [Microsoft Open License Program](https://go.microsoft.com/fwlink/p/?LinkID=613298), lahko tukaj najdete in aktivirate ključ izdelka.
 
-1. Ko kupite ključ od partnerja programa Microsoft 365, v mapi» Prejeto «poiščite e-poštno sporočilo od Microsofta, ki vsebuje povezavo za aktiviranje.
-
-    > [!NOTE]
-    > E-poštno sporočilo je poslano osebi, navedeni kot spletni skrbnik v pogodbi o količinskem licenciranju. Če niste prepričani, kdo je imenovan za skrbnika spletne strani, vprašajte svojega partnerja Microsoft 365.
-1. Če se želite vpisati s službenim ali šolskim računom, se povežite s povezavo v e-poštnem sporočilu in obnovite naročnino. Če želite pregled po korakih, Prenesite priročnik PDF, [aktivirajte spletne storitve: naročnina na Microsoft 365](https://go.microsoft.com/fwlink/p/?LinkId=618100).
+1. Ko pri partnerju za Microsoft 365 kupite ključ, preverite, ali je v mapi »Prejeto« e-poštno sporočilo od Microsofta, ki vsebuje povezavo za aktiviranje.
 
     > [!NOTE]
-    > Uporabniki količinskega licenciranja lahko tudi aktivirajo naročnine v [servisnem središču za količinsko licenciranje](https://go.microsoft.com/fwlink/p/?LinkID=282016). Če želite izvedeti, kako prenesete vodnik PDF, [aktivne spletne storitve v servisnem središču za količinsko licenciranje](https://go.microsoft.com/fwlink/p/?LinkId=618096).
+    > E-pošta je poslana osebi, ki je v pogodbi za količinsko licenciranje navedena kot spletni skrbnik. Če niste prepričani, kdo je spletni skrbnik, se obrnite na svojega partnerja za Microsoft 365.
+1. Sledite povezavi v e-poštnem sporočilu, da se vpišete s službeim ali šolskim računom, sprejmete licenčno pogodbo Open in podaljšate naročnino. Če želite navodila po korakih, prenesite vodnik za PDF, [Aktiviranje spletnih storitev: naročnina na Microsoft 365.](https://go.microsoft.com/fwlink/p/?LinkId=618100)
+
+    > [!NOTE]
+    > Stranke količinskega licenciranja lahko naročnine aktivirajo tudi v storitvenih [središčih za količinsko licenciranje.](https://go.microsoft.com/fwlink/p/?LinkID=282016) Če želite izvedeti, kako, prenesite vodnik v obliki zapisa PDF, [storitve Active Online Services v storitveno središče za količinsko licenciranje.](https://go.microsoft.com/fwlink/p/?LinkId=618096)
