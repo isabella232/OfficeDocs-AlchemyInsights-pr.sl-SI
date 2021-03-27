@@ -1,5 +1,5 @@
 ---
-title: Dodatni koncepti preverjanja pristnosti, ki veljajo za Microsoft Edge
+title: Koncepti naprednega preverjanja pristnosti, ki veljajo za Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,27 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "9003931"
 - "6986"
-ms.openlocfilehash: 241d594fac6664dd1e85fd60e30a6344c432555e
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+- "8329"
+- "9004625"
+ms.openlocfilehash: d469973c4f8605b00d32f6f625eb5fdd17e8f390
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573777"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398601"
 ---
-# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Dodatni koncepti preverjanja pristnosti, ki veljajo za Microsoft Edge
+# <a name="advanced-authentication-concepts-applicable-to-microsoft-edge"></a>Koncepti naprednega preverjanja pristnosti, ki veljajo za Microsoft Edge
 
-V nadaljevanju so opisani napredni koncepti preverjanja pristnosti, ki veljajo za Microsoft Edge:
+Spodaj so napredna zasnova preverjanja pristnosti, ki veljajo za Microsoft Edge:
 
 **Proaktivno preverjanje pristnosti**
 
-Ko omogočite pravilnik o [ProactiveAuthEnabled](https://go.microsoft.com/fwlink/?linkid=2134621) , bo Microsoft Edge poskušal proaktivno preveriti pristnost prijavljenih uporabnikov prek Microsoftovih storitev. V rednih časovnih presledkih bo uporaba spletne storitve za preverjanje posodobljenega manifesta, ki vsebuje konfiguracijo, ki ureja proaktivno preverjanje pristnosti.
+Ko omogočite pravilnik [ProactiveAuthEnabled,](https://go.microsoft.com/fwlink/?linkid=2134621) bo Microsoft Edge poskusil proaktivno preveriti pristnost vpisanih uporabnikov prek Microsoftovih storitev. V rednih intervalih bo spletna storitev preverjala, ali je na voljo posodobljen manifest, ki vsebuje konfiguracijo, ki urejajo proaktivno preverjanje pristnosti.
 
-Prednosti: proaktivno preverjanje pristnosti omogoča preverjanje pristnosti za ključne storitve, kot je na primer stran» Office New zavihek «. Če se Bing uporablja kot iskalnik, proaktivno preverjanje pristnosti izboljša učinkovitost naslovne vrstice in pomaga pri ustvarjanju rezultatov iskanja prilagojenih potrebam vašega podjetja.
+Prednosti: Proaktivno preverjanje pristnosti omogoča preverjanje pristnosti za ključne storitve, kot je stran na novem zavihku »Office«. Če kot iskalnik uporabljate Bing, proaktivno preverjanje pristnosti izboljša učinkovitost delovanja naslovne vrstice in pomaga ustvariti rezultate iskanja, prilagojene potrebam vašega podjetja.
 
-**Windows hello CredUI za preverjanje pristnosti NTLM**
+**Windows Hello CredUI za preverjanje pristnosti NTLM**
 
-Če Enotna prijava (SSO) ni na voljo, ko spletno mesto poskuša podpisati uporabnika prek mehanizma NTLM ali pogajanja, bo ta funkcija uporabniku omogočila skupno rabo poverilnic OS s spletnim mestom in za zadovoljevanje preverjanja pristnosti z uporabniškim vmesnikom Windows hello verodostojnost. Ta tok za vpis bo prikazan le v sistemu Windows 10 in le za uporabnike, ki ne prejmejo SSO med NTLM ali pogajalskim izzivom.
+Če enotna prijava (SSO) ni na voljo, ko se spletno mesto poskuša vpisati v uporabnika prek mehanizma NTLM ali Negotiate, ta funkcija omogoča uporabniku skupno rabo poverilnic operacijskega sistema s tem mestom in izpolnjevanje zahtev preverjanja pristnosti z uporabo uporabniškega vmesnika Windows Hello Cred UI. Ta tok vpisa bo prikazan le v sistemu Windows 10 in le za uporabnike, ki med izzivom NTLM ali izzivom s pogajajo ne bodo dobili SSO.
 
-**Uporaba shranjenih gesel za samodejno vpis**
+**Samodejno vpisovanje s shranjenimi gesli**
 
-Uporabniki, ki shranjujejo gesla v brskalniku Microsoft Edge, lahko omogočijo samodejno prijavo na spletna mesta, kjer imajo shranjene poverilnice. Uporabniki lahko to funkcijo vklopijo ali izklopijo v edge://settings/passwords, vi pa jo lahko konfigurirate v pravilnikih [upravitelja gesel](https://go.microsoft.com/fwlink/?linkid=2134622) .
+Uporabniki, ki shranijo gesla v brskalniku Microsoft Edge, lahko omogočijo samodejni vpis na spletna mesta, kjer so shranili poverilnice. Uporabniki lahko vklopijo ali izklopijo to funkcijo v edge://settings/passwords, lahko pa jo konfigurirate v [pravilnikih upravitelja](https://go.microsoft.com/fwlink/?linkid=2134622) gesel.

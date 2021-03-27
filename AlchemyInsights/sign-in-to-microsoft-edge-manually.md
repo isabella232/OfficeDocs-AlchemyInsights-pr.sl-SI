@@ -1,5 +1,5 @@
 ---
-title: Ročno vpis v Microsoft Edge
+title: Ročni vpis v Microsoft Edge
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/03/2020
@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678849"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398673"
 ---
-# <a name="sign-in-to-microsoft-edge-manually"></a>Ročno vpis v Microsoft Edge
+# <a name="sign-in-to-microsoft-edge-manually"></a>Ročni vpis v Microsoft Edge
 
-Če uporabnik ni samodejno vpisan med izkušnjo ob prvem zagonu, se lahko uporabnik ročno vpiše prek nastavitev brskalnika ali identitete flyout. Če želite upravljati vpis, uporabite te pravilnike:
+Če se uporabnik med izkušnjo prvega zagona ne vpiše samodejno, se lahko uporabnik ročno vpiše v nastavitvah brskalnika ali v letaku za identiteto. Če želite upravljati vpis, uporabite te pravilnike:
 
-1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – če želite zagotoviti, da ima uporabnik v brskalniku Microsoft Edge vedno delovni profil.
-2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – če želite omejiti vpis v nabor zaupanja vrednih računov.
-3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – če želite onemogočiti vpis ali prisiliti uporabnike k vpisu.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) – če želite zagotoviti, da ima uporabnik vedno službeni profil v brskalniku Microsoft Edge.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) – Če želite omejiti vpis v nabor zaupanja vrednih računov.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) – če želite onemogočiti vpis ali prisiliti uporabnike, da se vpišejo.
 
