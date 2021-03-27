@@ -1,5 +1,5 @@
 ---
-title: Uporaba Microsoftovega roba za oddaljeno iskanje napak naprave s sistemom Android iz razvojnega računalnika
+title: Iskanje napak v napravi s sistemom Android v razvojnem računalniku z brskalnikom Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583938"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398709"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a><span data-ttu-id="016a9-102">Uporaba Microsoftovega roba za oddaljeno iskanje napak naprave s sistemom Android iz razvojnega računalnika</span><span class="sxs-lookup"><span data-stu-id="016a9-102">Use Microsoft Edge to remotely debug an Android device from a development computer</span></span>
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a><span data-ttu-id="c9d74-102">Iskanje napak v napravi s sistemom Android v razvojnem računalniku z brskalnikom Microsoft Edge</span><span class="sxs-lookup"><span data-stu-id="c9d74-102">Use Microsoft Edge to remotely debug an Android device from a development computer</span></span>
 
-<span data-ttu-id="016a9-103">Če želite v napravi s sistemom Android v računalniku na daljavo najti oddaljeno vsebino, ki je na voljo:</span><span class="sxs-lookup"><span data-stu-id="016a9-103">To remotely debug live content on an Android device from your computer:</span></span>
+<span data-ttu-id="c9d74-103">Oddaljeno iskanje napak v vsebini v živo v napravi s sistemom Android v računalniku:</span><span class="sxs-lookup"><span data-stu-id="c9d74-103">To remotely debug live content on an Android device from your computer:</span></span>
 
-1. <span data-ttu-id="016a9-104">Nastavite napravo s sistemom Android za oddaljeno odpravljanje napak in jo Odkrijte iz razvojnega računalnika.</span><span class="sxs-lookup"><span data-stu-id="016a9-104">Set up the Android device for remote debugging and discover it from the development computer.</span></span>
-2. <span data-ttu-id="016a9-105">V računalniku za razvoj lahko pregledate in debug Live vsebino v napravi s sistemom Android.</span><span class="sxs-lookup"><span data-stu-id="016a9-105">From the development computer, inspect and debug live content on the Android device.</span></span>
-3. <span data-ttu-id="016a9-106">Screencast Live vsebine iz naprave Android na primer DevTools v razvojnem računalniku.</span><span class="sxs-lookup"><span data-stu-id="016a9-106">Screencast live content from the Android device onto a DevTools instance on the development computer.</span></span>
+1. <span data-ttu-id="c9d74-104">Nastavite napravo s sistemom Android za oddaljeno iskanje in iskanje napak ter jo odkrijte v razvojnem računalniku.</span><span class="sxs-lookup"><span data-stu-id="c9d74-104">Set up the Android device for remote debugging and discover it from the development computer.</span></span>
+2. <span data-ttu-id="c9d74-105">V razvojnem računalniku preglejte vsebino v živo in iskanje napak v živo v napravi s sistemom Android.</span><span class="sxs-lookup"><span data-stu-id="c9d74-105">From the development computer, inspect and debug live content on the Android device.</span></span>
+3. <span data-ttu-id="c9d74-106">Screencast live content from the Android device onto a DevTools instance on the development computer.</span><span class="sxs-lookup"><span data-stu-id="c9d74-106">Screencast live content from the Android device onto a DevTools instance on the development computer.</span></span>
