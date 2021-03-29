@@ -1,9 +1,9 @@
 ---
-title: Preverjanje naslovov za posredovanje v nabiralnikih
+title: Preverjanje, ali so v nabiralnikih naslovi za posredovanje
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 1b0a6c8fe368196f2d1f9811aea895c2c024b2e6
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3abd45230360c61ecb62e4b7a39d1b0b547271fc
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483924"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403327"
 ---
-# <a name="check-for-forwarding-addresses-on-mailboxes"></a>Preverjanje naslovov za posredovanje v nabiralnikih
+# <a name="check-for-forwarding-addresses-on-mailboxes"></a>Preverjanje, ali so v nabiralnikih naslovi za posredovanje
 
-Včasih hekerji posredujejo e-poštna sporočila uporabnikov, tako da najprej preverimo, ali so naslovi za posredovanje in pravila v nabiralniku. Nato bomo preverili dnevnike nadzora. Oglejte si navodila za preverjanje naslovov za posredovanje:
+Včasih hekerji posredujejo uporabnikova e-poštna sporočila sebi, zato bomo najprej preverili, ali so naslovi in pravila za nabiralnik posredovani. Nato bomo preverili dnevnike nadzora. Naslove za posredovanje preverite tako:
 
-1. Izberite **Uporabniki**  >  **aktivni uporabniki**.
-1. Izberite uporabnika, katerega račun je bil ogrožen.
-1. V flyout, ki se prikaže, razširite **Nastavitve pošte** in nato kliknite **Uredi** za **posredovanje e-pošte**.
+1. Izberite   >  **Uporabniki, ki so aktivni uporabniki.**
+1. Izberite uporabnika, za katerega je bil račun ogrožen.
+1. V prikazanem oknu razširite **Nastavitve pošte** in nato kliknite Uredi za posredovanje  **e-pošte.**
 1. Odstranite vse naslove za posredovanje, ki jih ne prepoznate.

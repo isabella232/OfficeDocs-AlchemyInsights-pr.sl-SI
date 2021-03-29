@@ -1,11 +1,26 @@
 ---
-naslov: "NDR s kodo napake" 554 5.2.2 nabiralnik poln "" MS. Author: chrisda Avtor: chrisda Manager: dansimp MS. Date: 04/21/2020 MS. publika: ITPro gospa. topic: člen MS. Service: o365-uprava roboti: NOINDEX, NOFOLLOW localization_priority: Normal MS. Custom: 
-- 1956
-- 3500007
+title: Sporočilo o neuspeli dostavi s kodo napake 554 5.2.2, polno
+ms.author: chrisda
+author: chrisda
+manager: dansimp
+ms.date: 04/21/2020
+ms.audience: ITPro
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.custom:
+- "1956"
+- "3500007"
+ms.openlocfilehash: a98f84fca8ddf89f04d325865932d457e4934978
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: MT
+ms.contentlocale: sl-SI
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403723"
 ---
+# <a name="ndr-with-error-code-554-522-mailbox-full"></a>Sporočilo o neuspeli dostavi s kodo napake 554 5.2.2, polno
 
-# <a name="ndr-with-error-code-554-522-mailbox-full"></a>NDR s kodo napake 554 5.2.2 nabiralnika v celoti
+Če prejemate sporočilo o neuspeli dostavi s kodo napake »554 5.2.2 nabiralnik je poln«, ko pošiljate e-poštna sporočila v javno mapo z omogočeno e-pošto:  
 
-Če ste dobili poročilo NDR s kodo napake» 554 5.2.2 Mailbox Full «, pri pošiljanju e-poštnih sporočil v javno mapo z omogočeno pošto:  
-
-Uporabite korake v [tem](https://aka.ms/554522) članku, da zagotovite, da ni dosežena količinska omejitev nabiralnika javne mape ali javne mape.
+S koraki v [tem članku](https://aka.ms/554522) lahko zagotovite, da količinska omejitev javnih map ali nabiralnikov javnih map ni bila dosežena.

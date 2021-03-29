@@ -1,9 +1,9 @@
 ---
-title: Microsoft Secure score
+title: Microsoftova ocena varnosti
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: c8fe2efbc8832b02004bcd01eb289d54a42d78f8
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483697"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403255"
 ---
-# <a name="microsoft-secure-score"></a>Microsoft Secure score
+# <a name="microsoft-secure-score"></a>Microsoftova ocena varnosti
 
-Okolju lahko zagotovite večjo varnost z uporabo Microsoftovega varnega rezultata. Pomislite na to kot na kreditno točkovanje za varnost. Prikaže vam dejanja, ki jih lahko izvedete, s katerimi lahko izboljšate varnost v organizaciji.
+Z Microsoftovo oceno varnosti lahko naredite svoje okolje varnejše. To si lahko pomislite kot na oceno varnosti. Pove vam, kako lahko ukrepate, s tem pa lahko izboljšate varnost svoje organizacije.
 
-1. Obiščite središče za [skladnost z varnostnim &om sistema Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Izberite kartico Microsoft Secure score ali pa pojdite na [Microsoftovo varno oceno](https://go.microsoft.com/fwlink/?linkid=2099589).
+1. Obiščite Središče [za varnost in skladnost s predpisi storitve Office 365 & s predpisi.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. Izberite kartico Microsoftove ocene varnosti ali pojdite v [Microsoftovo oceno varnosti.](https://go.microsoft.com/fwlink/?linkid=2099589)
     > [!TIP]
-    >  Na strani Microsoft Secure Scores Overview (pregled) izberite» izboljšave «za priporočila za zaščito organizacije. Če želite hitro prepoznati dejanja, ki bi lahko bila boljša, če jih dokončate, lahko v tabeli izberete filter ali skupino.
-1. Na seznamu izberite dejanje izboljšanja. Prikaže se flyout, ki poda kratek opis dejanja.
-1. Kliknite **nastavitve pogleda** in nato upoštevajte navodila, ki so na voljo v **naslednjih korakih**.
+    >  Na strani Microsoftovega pregleda rezultatov varnosti izberite Dejanja izboljšave za priporočila o zaščiti organizacije. V tabeli lahko izberete Filtriraj ali Združi po, da hitro prepoznate dejanja, ki bi bila morda boljša, če bi jih dokončali po tem vrstnem redu.
+1. Na seznamu izberite dejanje izboljšave. Prikaže se letak s kratkim opisom dejanja.
+1. Kliknite **Nastavitve pogleda** in upoštevajte navodila, ki so na voljo v naslednjih **korakih.**
     > [!NOTE]
-    > Na voljo so točke za konfiguriranje priporočene varnostne funkcije, vendar ne pozabite, da so nekatera dejanja označena kot **[ni dosežena]**. To pomeni, da tudi če uveljavite to izboljšavo, vam ne bo dodeljena nobena točka za svoj rezultat. V nasprotnem primeru *lahko traja do 24 ur* , da se vaš rezultat posodobi.
+    > Dobili ste točke za konfiguracijo priporočenih varnostnih funkcij, vendar upoštevajte, da so nekatera dejanja označena kot **[Ni ocenjenega]**. To pomeni, da tudi če izvedete to izboljšano dejanje, ne boste dobili nobenih točk za svoj rezultat. V nasprotnem *primeru lahko traja do 24* ur, da se rezultat posodobi.
 
-Če želite več informacij o Microsoftovih varnih ocenah, si oglejte [Microsoftov varni rezultat](https://go.microsoft.com/fwlink/?linkid=2103077).
+Če želite več informacij o Microsoftovi ocene varnosti, glejte [Microsoftova ocena varnosti.](https://go.microsoft.com/fwlink/?linkid=2103077)

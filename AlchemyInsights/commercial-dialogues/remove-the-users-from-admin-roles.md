@@ -3,7 +3,7 @@ title: Odstranjevanje uporabnikov iz skrbniških vlog
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: fc4bd22861fbc1d254d0fdd4d6c5fa46e63d550e
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 23a6533f0ae759a7b8bc4a668f1f6d11e297da26
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483210"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403147"
 ---
 # <a name="remove-the-users-from-the-admin-roles"></a>Odstranjevanje uporabnikov iz skrbniških vlog
 
 To naredite tako:
 
-1. V skrbniškem središču izberite **Uporabniki**  >  [**aktivni uporabniki**](https://go.microsoft.com/fwlink/p/?linkid=834822).
-1. Izberite uporabnika, katerega račun je bil ogrožen.
-1. V flyout, ki se prikaže, izberite **Uredi** za **vloge**. Odstranite uporabnika iz poljubnih skrbniških vlog, dokler ne boste prepričani, da njihov račun ni več ogrožen.
+1. V skrbniškem središču izberite Uporabniki   >  [**Aktivni uporabniki.**](https://go.microsoft.com/fwlink/p/?linkid=834822)
+1. Izberite uporabnika, za katerega je bil račun ogrožen.
+1. V prikazanem oknu izberite Uredi **za** **vloge.** Odstranite uporabnika iz skrbniških vlog, dokler niste prepričani, da ni več ogrožen njihov račun.
 

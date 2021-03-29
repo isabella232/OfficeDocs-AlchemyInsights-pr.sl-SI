@@ -1,9 +1,9 @@
 ---
-title: O napravah za ustvarjanje opozoril
+title: Opozorila o gradilih
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: 54f09d8aebcf5e10eaad7f19ec5138c9167962b4
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: bcafc8ef052e824093f29e16ffc16f68e6d4e667
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483497"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403651"
 ---
-# <a name="about-built-in-alerts"></a>Informacije o vgrajenih opozorilih
+# <a name="about-built-in-alerts"></a>O vgrajenih opozorilih
 
 Microsoft 365 vključuje nekaj vgrajenih opozoril za zaščito vašega sistema. Tukaj je nekaj informacij o njih:
 
-- Vgrajeno opozorilo je e-poštno sporočilo, poslano na globalni skrbnik iz *Office365Alerts@microsoft.com*. Vrstica z zadevo je opozorilo o nizki resnosti: <name of alert policy> .
-- Ta sporočila o opozorilih so poslana vam, ko nekdo naredi nekaj sumljivega. Pravila za mapo» Prejeto «so na primer ustvarjena za posredovanje ali preusmeritev e-pošte, dovoljenja pa so dodeljena nabiralniku, datoteke so v skupni rabi ali izbrisane v razsutem stanju iz SharePointa ali pa so E-odkrivanje dejavnosti ali zamude e-pošte.
-- Microsoft nikoli ne zaprosi za uporabniško geslo, varnostne podatke ali za vnovično preverjanje pristnosti uporabnika v e-poštnem sporočilu o opozorilih. Takšna e-poštna sporočila niso Microsoftova; e-poštna sporočila z lažnim predstavljanjem.
-- Če želite seznam vseh vgrajenih pravilnikov o opozorilih, glejte [privzete pravilnike o opozorilih](https://go.microsoft.com/fwlink/?linkid=2103170).
+- Vgrajeno opozorilo je e-poštno sporočilo, poslano globalnemu skrbniku iz *Office365Alerts@microsoft.com*. Vrstica z zadevo je opozorilo o nizki resnosti: <name of alert policy> .
+- Ta e-poštna sporočila z opozorili so poslana vam, ko nekdo naredi nekaj sumljivega. Ustvarjena so na primer pravila za mapo »Prejeto«, ki posredujejo ali preusmerijo e-pošto, dovoljenja so dodeljena nabiralniku, datoteke so v skupni rabi ali izbrisane množično iz SharePointa ali pa obstajajo dejavnosti e-odkrivanja ali zakasnitve e-pošte.
+- Microsoft nikoli ne zahteva uporabniškega gesla, varnostnih podrobnosti ali za ponovno preverjanje pristnosti uporabnika v e-poštnem sporočilu z opozorilom. Takšna e-poštna sporočila niso od Microsofta; so e-poštna sporočila z lažnim predstavljanjem.
+- Če želite seznam vseh vgrajenih pravilnikov za opozorila, glejte [Privzeti pravilniki za opozorila.](https://go.microsoft.com/fwlink/?linkid=2103170)

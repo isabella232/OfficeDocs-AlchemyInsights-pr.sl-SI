@@ -1,9 +1,9 @@
 ---
-title: Kaj storiti, ko je račun hacked
+title: Kaj narediti, ko nekdo vdre v račun
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 50451a32b4e798f3e2fd8ddebe573ef3435a4c71
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9c6bab9545136cf6bf26ae41c3776d6f7892a81f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483149"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402458"
 ---
-# <a name="what-to-do-when-an-account-is-hacked"></a>Kaj storiti, ko je račun hacked
+# <a name="what-to-do-when-an-account-is-hacked"></a>Kaj narediti, ko nekdo vdre v račun
 
-Če menite, da je bil uporabniški račun hacked, naredite to:
+Če mislite, da so vdrli v uporabniški račun, naredite to:
 
-1. *Takoj* [ponastavite geslo uporabnika](https://go.microsoft.com/fwlink/?linkid=2103704) . Ne pošiljaj novega gesla prek e-pošte uporabniku.
-1. [Odstranite vse sumljive naslove za posredovanje](https://go.microsoft.com/fwlink/?linkid=2103705) , nastavljene v nabiralniku.
-1. [Odstranite vsa pravila posredovanja](https://go.microsoft.com/fwlink/?linkid=2103706) , nastavljena v nabiralniku.
-1. Če je uporabnik blokiral pošiljanje e-pošte, potrdite, da njihov račun ni bil ogrožen in jih nato odstranite na [strani omejene uporabnike](https://go.microsoft.com/fwlink/?linkid=2103706).
-1. Odstranite uporabniški račun iz poljubnih [skrbniških skupin vlog](https://go.microsoft.com/fwlink/?linkid=2092294).
+1. [Takoj ponastavite geslo](https://go.microsoft.com/fwlink/?linkid=2103704) *uporabnika.* Novega gesla ne pošiljajte po e-pošti uporabniku.
+1. [Odstranite vse sumljive naslove za posredovanje,](https://go.microsoft.com/fwlink/?linkid=2103705) ki so nastavljeni za nabiralnik.
+1. [Odstranite vsa nastavljena pravila za](https://go.microsoft.com/fwlink/?linkid=2103706) posredovanje za nabiralnik.
+1. Če je uporabnik blokiran in ne more pošiljati e-pošte, preverite, ali je njihov račun ogrožen, in ga nato odstranite s strani [Omejeni uporabniki.](https://go.microsoft.com/fwlink/?linkid=2103706)
+1. Odstranite uporabniški račun iz [skrbniških skupin vlog.](https://go.microsoft.com/fwlink/?linkid=2092294)

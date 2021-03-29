@@ -1,5 +1,5 @@
 ---
-title: Potek dela se ne zažene
+title: Potek dela se ne začne
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,39 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: e3b8777ed74b812b31338784999eea43a95d3456
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e69f3e529e4a2202f641cb62f42b1a20d774a398
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794783"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403759"
 ---
-# <a name="workflow-is-not-starting"></a>Potek dela se ne zažene
+# <a name="workflow-is-not-starting"></a>Potek dela se ne začne
 
-- Poteki dela programa SharePoint 2010 in SharePoint 2013 se ne zaženeta.
+- Poteki dela v strežnikih SharePoint 2010 in SharePoint 2013 se ne začnejo.
 
-    - Če se potek dela ne zažene, je morda prišlo do začasne težave s storitvijo, kjer lahko uporabniki občasno zadržijo zamude pri napredovanju poteka dela. Preverite, ali je [Nadzorna plošča za zdravstveno stanje na voljo](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) , če želite preveriti, ali je vaša organizacija vplivala nanje.
+    - Če se potek dela ne začne, je morda prišlo do začasne težave storitve, kjer lahko uporabniki pride do začasnih zakasnitev pri poteku dela. Na nadzorni [plošči s stanjem](https://admin.microsoft.com/AdminPortal/Home/servicehealth) storitve preverite, ali je to v vaši organizaciji vplivalo.
 
-    - Če je minilo več kot 24 ur, odkar ste prvič videli to težavo, se prijavite v vstopnico za podporo. V številnih primerih že pripravljamo rešitev. Če želite dokončati rešitev, nam lahko daste vsaj 24 ur.
+    - Če je od prve težave minilo več kot 24 ur, zabeležite vstopnico za podporo. V številnih primerih že delamo na rešitvi. Če želite dokončati rešitev, nam dajte vsaj 24 ur.
 
-- Poteki dela programa SharePoint 2010 so zakasnjeni ob zagonu.
+- Poteki dela v programu SharePoint 2010 so na začetku zakasnjeni.
 
-    - Do tega pride, če je potek dela sprožen v velikih paketih. (na primer, ko je več elementov dodanih hkrati).
+    - Do tega pride, če se potek dela sproži v velikih paketih. (če je na primer dodanih več elementov hkrati).
 
-    - Poteki dela niso zasnovani za zagon v realnem času, tako da je zamuda vedenje po načrtovanju.
+    - Poteki dela niso načrtovani za izvajanje v realnem času, zato je zakasnitev privzeto vedenje.
 
-   -  Če gre za potek dela, je zapleteni jezik označevalnih predmetov (XMOL), urejanje je lahko počasno. Oglejte si [ta](https://support.microsoft.com//kb/3043697) članek.
+   -  Če je potek dela zapleten, je zbiranje lahko počasno. Oglejte [si ta](https://support.microsoft.com//kb/3043697) članek.
 
-    - Potek dela lahko poenostavite ali ga preoblikujete z vrsto platforme za potek dela programa Microsoft SharePoint 2013.
+    - Potek dela bi morali poenostaviti ali ga preoblikovati z vrsto platforme za poteke dela microsoft SharePoint 2013.
 
-    - Če je zgodovina poteka dela velika, boste morda želeli izbrisati elemente ali ustvariti nov seznam zgodovine.
+    - Če je zgodovina poteka dela več velika, boste morda želeli elemente očistiti ali ustvariti nov seznam zgodovine.
 
-        Več informacij: čiščenje [zgodovine poteka dela](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        Več informacij: [Čiščenje zgodovine poteka dela](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>Sorodne teme
-Ali želite preskusiti Microsoft Flow v storitvi SharePoint online?
-- [Ustvarjanje toka](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Ali želite preskusiti Microsoft Flow v SharePoint Onlineu?
+- [Create Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint in Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
-
-
