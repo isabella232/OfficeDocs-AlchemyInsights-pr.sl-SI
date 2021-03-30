@@ -11,17 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9466"
 - "9000730"
-ms.openlocfilehash: 9d413804c26dd6940060316394b1df6ff8e2b06b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+- "9000734"
+- "9466"
+- "10006"
+ms.openlocfilehash: 95941fec4951a0e5f01e4984b157d6760f542943
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037117"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401815"
 ---
 # <a name="assign-policies-in-microsoft-teams"></a>Dodeljevanje pravilnikov v aplikaciji Microsoft Teams
 
-- Če želite preprosto upravljati pravilnike v organizaciji, ponuja Teams več načinov dodeljevanja pravilnikov uporabnikom. Dodelite pravilnik neposredno uporabnikom, bodisi posamezno bodisi na lestvici prek paketne dodelitve, ali v skupino, v kateri so uporabniki člani.  Trenutno je dodeljevanje pravilnika skupinam, ki uporabljajo skrbniško središče za Microsoft Teams, na voljo le za določene vrste pravilnikov. 
-- Uporabnik ima eno učinkovito pravilo za vsako vrsto pravilnika. Če želite pregledati vrstni red, v katerem se pravilniki nanašajo na uporabnike, si oglejte [kateri pravilnik ima prednost?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
-- Če želite več informacij, glejte [dodeljevanje pravilnikov uporabnikom v aplikaciji Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies).
+- Teams omogoča preprosto upravljanje pravilnikov v organizaciji na več načinov za dodeljevanje pravilnikov uporabnikom. Pravilnik dodelite neposredno uporabnikom, bodisi posamezno bodisi pri dodelitvi paketa, bodisi skupini, v kateri so uporabniki člani.  Trenutno je dodelitev pravilnika skupinam, ki uporabljajo skrbniško središče Microsoft Teams, na voljo le za določene vrste pravilnikov. 
+- Uporabnik ima en učinkovit pravilnik za vsako vrsto pravilnika. Če želite pregledati vrstni red, po katerem so pravilniki uporabljeni za uporabnike, [ima prednost kateri pravilnik?](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
+- Če želite več informacij, glejte [Dodeljevanje pravilnikov uporabnikom v storitvi Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies).
