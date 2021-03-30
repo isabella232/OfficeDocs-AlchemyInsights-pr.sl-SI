@@ -1,5 +1,5 @@
 ---
-title: Skupna raba SharePointovih datotek ali map
+title: Skupna raba datotek ali map v storitvi SharePoint ali OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779031"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408130"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>Skupna raba SharePointovih datotek ali map
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>Skupna raba datotek ali map v storitvi SharePoint ali OneDrive
 
-Datoteke, ki jih shranite na SharePointovo mesto, so običajno na voljo vsem, ki imajo dovoljenja za mesto, vendar boste morda želeli dati v skupno rabo določene datoteke ali mape z osebami, ki nimajo drugega dostopa do mesta. Ko daste datoteke in mape v skupno rabo, se lahko odločite, ali želite osebam omogočiti urejanje ali pa si jih ogledati.
+Datoteke, ki jih shranite na SharePointovem mestu, so običajno na voljo vsem, ki imajo dovoljenja za mesto, vendar pa želite določene datoteke ali mape dati v skupno rabo z ljudmi, ki drugače ne imajo dostopa do mesta. Ko daste datoteke in mape v skupno rabo, se lahko odločite, ali jih lahko osebe urejajo ali si jih lahko le ogledajo. Za več informacij glejte:
 
 [Skupna raba SharePointovih datotek ali map](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[Skupna raba datotek in map v storitvi OneDrive](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
