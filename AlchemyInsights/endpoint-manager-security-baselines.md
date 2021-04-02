@@ -1,5 +1,5 @@
 ---
-title: EndPoint Manager – varnostni osnovni načrt
+title: Endpoint Manager – osnove varnosti
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,29 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "10084"
 - "6700005"
-ms.openlocfilehash: d2a063fdc4929cbee5fef71bfb47ace8f2ba458f
-ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
-ms.translationtype: MT
+- "10064"
+- "9003771"
+ms.openlocfilehash: 36b480c7ed4715338fda056eafd69c511093e627
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51421091"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440909"
 ---
-# <a name="endpoint-manager---security-baselines"></a>EndPoint Manager – varnostni osnovni načrt
+# <a name="endpoint-manager---security-baselines"></a>Endpoint Manager – osnove varnosti
 
-Varnostni osnovni načrt so vnaprej konfigurirane skupine nastavitev sistema Windows, s pomočjo teh nastavitev lahko uporabite varnostne nastavitve, ki jih priporočajo ustrezne varnostne skupine. Te osnovne vrstice je mogoče prilagoditi tako, da zagotavljajo le želene nastavitve in vrednosti. Če želite več informacij o varnostnih osnovnih črtah, glejte Uporaba varnostnih osnovnih načrta [za konfiguracijo naprav s sistemom Windows 10 v storitvi Intune.](https://docs.microsoft.com/mem/intune/protect/security-baselines)
+Osnove varnosti so vnaprej konfigurirane skupine nastavitev sistema Windows, ki vam pomagajo uporabiti varnostne nastavitve, ki jih priporočajo ustrezne varnostne skupine. Ta izhodišča je mogoče prilagoditi tako, da zagotavljajo samo želene nastavitve in vrednosti. Za več informacij o varnostnih izhodiščih glejte [Uporaba varnostnih izhodišč za konfiguriranje naprav Windows 10 v Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines).
 
-Trenutno obstajajo osnovni načrti za te izdelke:
+Trenutno obstajajo osnove za te izdelke:
 
-- Varnostne nastavitve sistema Windows MDM
-- Microsoft Defender for EndPoint Security
+- Varnostne nastavitve Windows MDM
+- Microsoft Defender za končno točko
 - Microsoft Edge
 
-Vsak osnovni načrt se redno posodablja in izda v postopnih različicah. Vsaka različica doda in odstrani nastavitve iz prejšnje različice in tako zagotovi, da osnovni načrt izpolnjuje trenutne smernice. Konzola »Varnostni osnovni osnovni načrt« v varnosti končne točke omogoča, da se različne različice primerjajo tako, da so spremembe vidne iz različice v različico.
+Posamezna izhodišča se redno posodabljajo in izdajajo v postopnih različicah. Vsaka različica doda in odstrani nastavitve iz prejšnje različice, da zagotovi, da osnova ustreza trenutnim navodilom. Konzola osnov varnosti v programu Endpoint Security omogoča primerjavo različnih različic, tako da so spremembe vidne od različice do različice.
 
-Navodila za najučinkovitejšo spremembo, katera različica osnovnega načrta je uvedena, so v članku Upravljanje profilov osnovnega načrta za varnost [v storitvi Microsoft Intune.](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure)
+Za napotke o tem, kako najučinkoviteje spremeniti uporabljeno različico osnove, glejte [Upravljanje varnostnih profilov osnovne linije v Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
-Ko uvedete varnostni osnovni načrt, lahko spremljate stanje uvajanja in pregledujete nastavitve na osnovi naprav.
+Po uvedbi osnove varnosti lahko spremljate stanje uvajanja in pregledate nastavitve za vsako napravo posebej.
 
-**Opomba:** Podatki poročanja za osnovne vrstice lahko trajajo do 24 ur, da se prikažejo od začetne uvedbe do naprave in do 6 ur za dodatne posodobitve. 
+**Opomba:** Podatki poročanja o napakah za osnove varnosti lahko trajajo do 24 ur, preden se prikažejo od začetne uvedbe do naprave, in do 6 ur za nadaljnje posodobitve. 
 
-Najpogostejši vzrok za neuuporabljena nastavitev osnovnega načrta je, ker se ista nastavitev uporablja v drugem profilu. Ta scenarij lahko raziščete za določeno napravo tako, da to napravo izberete v vozlišču Stanje naprave v profilu varnostnega osnovnega načrta. Če želite več informacij, [glejte Razreševanje sporov za varnostne osnovne načrte.](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines)
+Najpogostejši vzrok, da se osnovna nastavitev ne uporablja, je zato, ker se ista nastavitev uporablja v drugačnem profilu. Ta scenarij je mogoče raziskati za določeno napravo tako, da jo izberete v vozlišču Stanje naprave profila osnove varnosti. Če želite izvedeti več, si oglejte [Razreševanje sporov za osnove varnosti](https://docs.microsoft.com/mem/intune/protect/security-baselines-monitor#resolve-conflicts-for-security-baselines).
