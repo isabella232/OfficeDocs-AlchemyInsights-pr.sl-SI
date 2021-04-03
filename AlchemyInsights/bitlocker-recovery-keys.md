@@ -1,5 +1,5 @@
 ---
-title: Obnovitveni ključi za BitLocker
+title: Obnovitveni ključi za Bitlocker
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: 7c56e68cf303939d8e7d4ee0a7301e367ecfe9f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8708ed76f6abe81582823c8af89db8fffef9a3c5
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685902"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505084"
 ---
-# <a name="accessing-bitlocker-recovery-keys"></a><span data-ttu-id="b68bd-102">Dostop do obnovitvenih ključev BitLockerja</span><span class="sxs-lookup"><span data-stu-id="b68bd-102">Accessing Bitlocker recovery keys</span></span>
+# <a name="accessing-bitlocker-recovery-keys"></a><span data-ttu-id="04961-102">Dostop do obnovitvenih ključev za Bitlocker</span><span class="sxs-lookup"><span data-stu-id="04961-102">Accessing Bitlocker recovery keys</span></span>
 
-<span data-ttu-id="b68bd-103">Ko konfigurirate nastavitve pogona BitLocker in nastavite pravilnik o zaščiti končnih točk, lahko določite, ali naj bodo podatki o obnovitvi BitLockerja shranjeni v imeniku Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="b68bd-103">When configuring Bitlocker settings Intune Endpoint Protection Policy, it is possible to define whether Bitlocker recovery information should be stored in Azure Active Directory.</span></span>
+<span data-ttu-id="04961-103">Pri konfiguriranju nastavitev za Bitlocker Pravilnik za zaščito končne točke za Intune lahko določite, ali naj bodo podatki za obnovitev Bitlocker shranjeni v imeniku Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="04961-103">When configuring Bitlocker settings Intune Endpoint Protection Policy, it is possible to define whether Bitlocker recovery information should be stored in Azure Active Directory.</span></span>
 
-<span data-ttu-id="b68bd-104">Če je ta nastavitev konfigurirana, morajo biti shranjeni podatki za obnovitev vidni v obliki zapisa za InTune kot del podatkov o zapisu naprave v rezilu naprav za InTune na dva načina:</span><span class="sxs-lookup"><span data-stu-id="b68bd-104">If that setting is configured, the stored recovery data should be visible to an Intune admin as part of the device record data in Intune Devices blade in two ways:</span></span>
+<span data-ttu-id="04961-104">Če je ta nastavitev konfigurirana, morajo biti shranjeni podatki za obnovitev vidni skrbniku za Intune kot del podatkov zapisa naprave v reji naprav storitve Intune na dva načina:</span><span class="sxs-lookup"><span data-stu-id="04961-104">If that setting is configured, the stored recovery data should be visible to an Intune admin as part of the device record data in Intune Devices blade in two ways:</span></span>
 
-<span data-ttu-id="b68bd-105">Naprave – naprave Azure AD – >» Device «ali naprave – > vse naprave – >» Device «– > obnovitvene tipke</span><span class="sxs-lookup"><span data-stu-id="b68bd-105">Devices - Azure AD devices -> "Device"  OR Devices -> All Devices -> "Device" -> Recovery keys</span></span>
+<span data-ttu-id="04961-105">Naprave – naprave Azure AD -> »Naprava« ALI Naprave -> Vse naprave -> »Naprava« –> Obnovitveni ključi</span><span class="sxs-lookup"><span data-stu-id="04961-105">Devices - Azure AD devices -> "Device"  OR Devices -> All Devices -> "Device" -> Recovery keys</span></span>
 
-<span data-ttu-id="b68bd-106">Če pa obstaja skrbniški dostop do same naprave, je mogoče, da je obnovitveni ključ (geslo) videti tako, da zaženete ta ukaz v povišanem ukaznem pozivu:</span><span class="sxs-lookup"><span data-stu-id="b68bd-106">Alternatively, if there is administrative access to the device itself, the recovery key (Password) can be seen by running the following command from an elevated command prompt:</span></span>
+<span data-ttu-id="04961-106">Če pa imate skrbniški dostop do same naprave, si lahko obnovitveni ključ (Geslo) ogledali tako, da v ukaznem pozivu na skrbniški ravni zaženete ta ukaz:</span><span class="sxs-lookup"><span data-stu-id="04961-106">Alternatively, if there is administrative access to the device itself, the recovery key (Password) can be seen by running the following command from an elevated command prompt:</span></span>
 
 ```
 manage-bde -protectors c: -get
@@ -43,8 +43,9 @@ All Key Protectors
       Password:
         393943-22222-281721-555554-577984-77777-194700-99999
 ```
-<span data-ttu-id="b68bd-107">Če je bila naprava pred vpisom šifrirana, je bil ključ za obnovitev morda povezan z» Microsoftovim računom «(MSA), ki se uporablja za vpis v napravo med postopkom OOBE.</span><span class="sxs-lookup"><span data-stu-id="b68bd-107">If the device was encrypted prior to enrolment in Intune, the recovery key may have been associated with the "Microsoft Account" (MSA) used to sign in to the device during the OOBE process.</span></span> <span data-ttu-id="b68bd-108">Če je bilo to res, se lahko z dostopom  https://onedrive.live.com/recoverykey in vpisom v MSA prikaže naprave, za katere so bile shranjene obnovitvene tipke.</span><span class="sxs-lookup"><span data-stu-id="b68bd-108">If that was the case, accessing  https://onedrive.live.com/recoverykey and signing in with that MSA should show the devices for which recovery keys were stored.</span></span>
+<span data-ttu-id="04961-107">Če je bila naprava šifrirana pred vpisom v Intune, je bil obnovitveni ključ morda povezan z Microsoftovim računom (MSA), ki se uporablja za vpis v napravo med postopkom OOBE.</span><span class="sxs-lookup"><span data-stu-id="04961-107">If the device was encrypted prior to enrolment in Intune, the recovery key may have been associated with the "Microsoft Account" (MSA) used to sign in to the device during the OOBE process.</span></span> <span data-ttu-id="04961-108">V tem primeru mora dostop do datoteke MSA in vpis z njim pokazati naprave, za katere so bili  https://onedrive.live.com/recoverykey shranjeni obnovitveni ključi.</span><span class="sxs-lookup"><span data-stu-id="04961-108">If that was the case, accessing  https://onedrive.live.com/recoverykey and signing in with that MSA should show the devices for which recovery keys were stored.</span></span>
  
-<span data-ttu-id="b68bd-109">Če je bila naprava šifrirana zaradi konfiguracije prek pravilnika skupine, so lahko informacije o obnovitvi shranjene v imeniku Active Directory.</span><span class="sxs-lookup"><span data-stu-id="b68bd-109">If the device was encrypted as a result of configuration through domain-based group policy, the recovery information may be stored in the on-premise Active Directory.</span></span>
- 
+<span data-ttu-id="04961-109">Če je bila naprava šifrirana zaradi konfiguracije s pravilnikom skupine, ki temelji na domeni, se informacije o obnovitvi lahko shranijo v imenik Active Directory na mestu uporabe.</span><span class="sxs-lookup"><span data-stu-id="04961-109">If the device was encrypted as a result of configuration through domain-based group policy, the recovery information may be stored in the on-premise Active Directory.</span></span>
+
+<span data-ttu-id="04961-110">Če ste konfigurirali pravilnik za zaščito končne točke tako, da shrani obnovitveni ključ v imeniku Azure Active Directory, vendar ključ za določeno napravo ni bil prenesen, lahko sprožite prenos tako, da za to napravo zasukate obnovitveni ključ iz konzole MEM.</span><span class="sxs-lookup"><span data-stu-id="04961-110">If you have configured Endpoint protection policy to store the recovery key in Azure Active Directory but the key for a specific device has not been uploaded, you can trigger the upload by rotating the recovery key for that device from the MEM console.</span></span> <span data-ttu-id="04961-111">Če želite več podrobnosti, glejte [Sukanje obnovitvenih ključev za BitLocker.](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys)</span><span class="sxs-lookup"><span data-stu-id="04961-111">For details, see [Rotate BitLocker recovery keys](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#view-details-for-recovery-keys).</span></span>
 
