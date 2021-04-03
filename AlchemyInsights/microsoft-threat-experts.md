@@ -1,5 +1,5 @@
 ---
-title: Microsoftovi strokovnjaki za nit
+title: Microsoftovi strokovnjaki za niti
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "7600"
-ms.openlocfilehash: f14410c61fe5c9dd3a72124da12915bc4dbf7182
-ms.sourcegitcommit: aebf4e1ef31305c2219f0c2ac7c3f1e30f6f1e66
+ms.openlocfilehash: b467320d6c9dd0f9613752560b056028e864ee5b
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50714542"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505408"
 ---
 # <a name="microsoft-threat-experts"></a>Microsoftovi strokovnjaki za grožnje
 
-Microsoft Threat Experts je upravljana storitev za lov grožnje v storitvi Microsoft Defender za končno točko.  Sodelujemo s središčem za varnostne operacije, s katerim nadzorujete, analiziramo in podpiramo prepoznavanje in odgovarjanje na kritične grožnje v edinstvenem okolju.
+Microsoftovi strokovnjaki za grožnje je storitev za upravljanje groženj v aplikaciji Microsoft Defender za končno točko.  Sodelujemo z vašim varnostnim središčem za nadzorovanje, analiziranje in podporo za prepoznavanje kritičnih groženj v vašem enoličnem okolju in odzivanje nanje.
 
-Ta upravljana storitev za lov na grožnje zagotavlja strokovno dostopne vpoglede in podatke v teh dveh zmogljivostih: ciljni napad na obvestila in dostop do strokovnjakov na zahtevo. Če želite podrobnosti, si oglejte dokumentacijo [strokovnjakov za Microsoft Threat](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-threat-experts) .
+Ta storitev za upravljanje groženj, ki zagotavlja strokovno vodene vpoglede in podatke s temi dvema zmogljivostima: obveščanje o ciljno usmerjenih napadih in dostop do strokovnjakov na zahtevo. Za podrobnosti o končni točki za Microsoft Defender glejte [Microsoftovi strokovnjaki za grožnje.]( https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-threat-experts)
+
+Če želite več informacij o storitvi za upravljanje groženj v kontekstu zaščite končnih točk, e-pošte in identitet organizacije, glejte Pregled Microsoftovih strokovnjakov za grožnje v storitvi [Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-experts?view=o365-worldwide)

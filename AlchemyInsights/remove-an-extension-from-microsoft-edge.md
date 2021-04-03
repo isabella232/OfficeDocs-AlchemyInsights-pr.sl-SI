@@ -1,5 +1,5 @@
 ---
-title: Odstranjevanje razširitve iz Microsoftovega roba
+title: Odstranjevanje razširitve iz brskalnika Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,18 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003881"
 - "6936"
-ms.openlocfilehash: d0fda273317a2f2437f8808cbf29d9a9788df225
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8311"
+- "9004621"
+ms.openlocfilehash: 1c8cfa9e871957de647b19b3ef6746740886d2fb
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679957"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51504976"
 ---
-# <a name="remove-an-extension-from-microsoft-edge"></a>Odstranjevanje razširitve iz Microsoftovega roba
+# <a name="remove-an-extension-from-microsoft-edge"></a>Odstranjevanje razširitve iz brskalnika Microsoft Edge
 
-Če želite odstraniti razširitev iz Microsoftovega roba:
+Če želite odstraniti razširitev iz brskalnika Microsoft Edge:
 
 1. Odprite Microsoft Edge.
-2. Izberite **... > pripone**.
-3. Na strani **nameščene razširitve** poiščite razširitev, ki jo želite odstraniti, nato pa izberite **Odstrani** ob možnosti.
-4. V pogovornem oknu za potrditev izberite **Odstrani**.
+2. Izberite **... > razširitve.**
+3. Na strani **Nameščene** razširitve poiščite razširitev, ki jo želite odstraniti, in nato **ob** priponi izberite Odstrani.
+4. V potrditvenem pogovornem oknu izberite **Odstrani**.
