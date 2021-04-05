@@ -1,5 +1,5 @@
 ---
-title: Sprostitev prostora na pogonu v sistemu Windows 10
+title: Nekaj prostora na pogonu v sistemu Windows 10
 ms.author: pebaum
 author: pebaum
 manager: dansimp
@@ -12,48 +12,50 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9771"
+- "9774"
+- "9005390"
 - "9005403"
-ms.openlocfilehash: 3838f3db3bc5f54bcb1a2558484056f3194b76e1
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 2313636307bfddce2810c2d4c4ce9e3b407a7bdf
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037949"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505372"
 ---
-# <a name="free-up-drive-space-in-windows-10"></a>Sprostitev prostora na pogonu v sistemu Windows 10
+# <a name="free-up-drive-space-in-windows-10"></a>Nekaj prostora na pogonu v sistemu Windows 10
 
-Na voljo sta dve možnosti za sprostitev prostora na pogonu v sistemu Windows:
+Nekaj možnosti za posodobitev prostora na pogonu v sistemu Windows:
 
-- Sprostite prostor na pogonu v sistemu Windows 10.
-- Sprostite prostor za posodobitve sistema Windows 10 z zunanjo napravo za shranjevanje.
+- V sistemu Windows 10 lahko prostor na pogonu nekaj prostora zasukate.
+- Z zunanjo napravo za shranjevanje lahko nekaj prostora posodobite za Windows 10.
 
-Če imate še vedno nizek prostor na disku, potem ko uporabljate čiščenje diska, je mogoče, da se vaša mapa» Temp «hitro napolni z datotekami aplikacije (. APPX), ki jih uporablja Microsoft Store. To težavo odpravite tako, da ponastavite shrambo, počistite predpomnilnik shrambe in nato zaženete orodje za odpravljanje težav s storitvijo Windows Update. Preden nadaljujete s temi koraki, se prepričajte, da je Microsoft Store zaprt.
+Če je po uporabi čiščenja diska še vedno malo prostora, se lahko v mapi »Temp« hitro zapolnijo datoteke programa (.appx), ki jih uporablja Trgovina Microsoft. Če želite odpraviti to težavo, ponastavite Trgovino, počistite predpomnilnik Trgovine in nato zaženite orodje za odpravljanje težav s storitvijo Windows Update. Preden nadaljujete s temi koraki, se prepričajte, da je Trgovina Microsoft zaprta.
 
-**1. korak: ponastavitev trgovine Microsoft Store**
+**1. korak: Ponastavite Trgovino Microsoft**
 
-**Opomba** S tem trajno izbrišete podatke programa v napravi, vključno z vašimi nastavitvami in podrobnostmi za vpis.
+**Upoštevajte** S tem trajno izbrišete podatke programa v napravi, vključno z nastavitvami in podrobnostmi o vpisu.
 
-1. Izberite» **Start**  >  **Settings**  >  **apps**  >  **apps & funkcije**«.
+1. Izberite **Začni** > **nastavitve** > **Programi** > **programi in funkcije, ki**.
 
-1. Na seznamu aplikacij poiščite in izberite Microsoft Store.
+1. Na seznamu aplikacij poiščite in izberite Trgovino Microsoft.
 
-1. Izberite **dodatne možnosti**.
+1. Izberite **»Dodatne možnosti**«.
 
-1. Pomaknite se navzdol in izberite **Ponastavi**, nato pa **potrdite polje Ponastavi**.
+1. Pomaknite se navzdol in izberite **Reset**(Ponastavi), nato **Confirm Reset**(Ponastavi).
 
-**2. korak: počistite predpomnilnik trgovine Microsoft Store**
+**2. korak: počistite predpomnilnik Trgovine Microsoft**
 
-1. Pritisnite tipko z logotipom sistema Windows + R, da odprete pogovorno okno Zaženi.
+1. Pritisnite tipko z logotipom sistema Windows+R, da odprete pogovorno okno Zaženi.
 
-1. Vnesite wsreset.exe in izberite **v redu**.
+1. Vnesite wsreset.exe in izberite **»V**«.
 
-1. Odpre se okno s praznim ukaznim pozivom. Po približno 10 sekundah se okno zapre in trgovina se odpre samodejno.
+1. Odpre se prazno okno ukaznega poziva. Po približno 10 sekundah se okno zapre, Trgovina pa se odpre samodejno.
 
-**3. korak: ponastavitev sistema Windows Update**
+**3. korak: Ponastavitev storitve Windows Update**
 
-1. Izberite» **Začni**  >  posodobitve **Nastavitev «**  >  **& varnostno**  >  **Odpravljanje težav**.
+1. Izberite **Začni** > **nastavitve** > **»Posodobitev in** > **odpravljanje**«.
 
-1. Pomaknite se navzdol in izberite **Windows Update** s seznama, nato pa izberite **Zaženi orodje za odpravljanje težav**.
+1. Pomaknite se navzdol in **izberite** Windows Update in izberite **Zaženite orodje za odpravljanje**.
 
-1. Znova zaženite računalnik in preverite, ali še vedno prihaja do težave.
+1. Znova zaženite računalnik in preverite, ali še vedno prihaja do te težave.
 
