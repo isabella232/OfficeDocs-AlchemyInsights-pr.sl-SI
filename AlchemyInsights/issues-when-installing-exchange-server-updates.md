@@ -1,5 +1,5 @@
 ---
-title: Težave pri nameščanju posodobitev strežnika Exchange Server
+title: Težave pri namestitvi posodobitev strežnika Exchange Server
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005482"
 - "9421"
-ms.openlocfilehash: 04daad34d1097da0039ac63a13f793a550b68414
-ms.sourcegitcommit: 13d96a612b67e01c725d5c2a5a0212d824031f6e
+ms.openlocfilehash: cc05469475c469691c0f09562f8362bc6f4a638d
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50696304"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645183"
 ---
-# <a name="issues-when-installing-exchange-server-updates"></a>Težave pri nameščanju posodobitev strežnika Exchange Server
+# <a name="issues-when-installing-exchange-server-updates"></a>Težave pri namestitvi posodobitev strežnika Exchange Server
 
-Preden namestite posodobitve strežnika Exchange Server, si oglejte razdelek» najboljše prakse «v članku [Nadgradnja programa Exchange na najnovejšo kumulativno posodobitev](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates). Še posebej pomembno je, da namestite posodobitve s povišanim pozivom CMD (razen če so posodobitve nameščene prek storitve Microsoft Update). To velja za kumulativne in varnostne posodobitve!
+Če morate posodobiti na najnovejšo zbirno posodobitev za strežnik Exchange Server, lahko pridobite podroben nabor korakov za posodobitev iz trenutnega cuna na ciljno [https://aka.ms/ExchangeUpdateWizard](https://aka.ms/ExchangeUpdateWizard) cuno.
 
-Če vidite napake pri namestitvi varnostnih posodobitev ali po namestitvi posodobitve, si oglejte [Ta članek o odpravljanju težav z neuspešnimi namestitvami](https://aka.ms/exupdatefaq).
+Če med namestitvijo posodobitev strežnika Exchange Server ali po končani namestitvi posodobitev pride do napak, si oglejte razdelek »Najboljše prakse« v članku Nadgradnja strežnika Exchange na najnovejšo [zbirno posodobitev.](https://docs.microsoft.com/Exchange/plan-and-deploy/install-cumulative-updates) Pomembno je, da namestite varnostne posodobitve z uporabo ukaza CMD na skrbniški ravni (če posodobitev ni nameščena prek storitve Microsoft Update).
+
+Če pri nameščanju varnostnih posodobitev ali po namestitvi posodobitve vidite napake, glejte Popravilo ni uspelo namestitev zbirnih in varnostnih posodobitev [za Exchange.](https://aka.ms/exupdatefaq)

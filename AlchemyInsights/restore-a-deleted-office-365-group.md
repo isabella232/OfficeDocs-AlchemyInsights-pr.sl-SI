@@ -14,18 +14,18 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: caa2c8987eecb89bac3469bf9471847858cab0ba
-ms.sourcegitcommit: ec99a3a2e1e6a13d9a829d65ad1692a607dc3a17
+ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
+ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51597459"
+ms.lasthandoff: 04/08/2021
+ms.locfileid: "51645147"
 ---
 # <a name="restore-a-deleted-microsoft-365-group"></a>Obnovitev izbrisane skupine v storitvi Microsoft 365
 
 Izbrisano skupino v storitvi Microsoft 365 ali Microsoft Teams lahko obnovite v 30 dneh od izbrisa.
 
-1. Pojdite v [Skrbniško središče za Microsoft 365](https://aka.ms/RestoreDeletedGroup) in se prijavite ter navedite izbrisane skupine in skupine.
+1. Pojdite v Skrbniško središče za [Microsoft 365](https://aka.ms/RestoreDeletedGroup) in se prijavite na seznam izbrisanih skupin in skupin.
 
     **Opomba:** Prijavite se z računom, ki je dodeljen skrbniku najemnika ali skrbniški vlogi skupine.
 
