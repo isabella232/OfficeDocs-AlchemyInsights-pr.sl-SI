@@ -1,5 +1,5 @@
 ---
-title: 712 pretvorba seznama prejemnikov v skupino Microsoft 365
+title: 712 Pretvorba seznama prejemnikov v skupino Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,15 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 457dd29bd940e192eb4962d44bebc652646566f2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d184db0a82e4f10108ddad80611fc9a47483cfe7
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732983"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692338"
 ---
-# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>Pretvorba skupine prejemnikov v skupino Microsoft 365
+# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a>Pretvarjanje skupine prejemnikov v skupino Microsoft 365
 
-Skupine prejemnikov lahko pretvorite v skupine Microsoft 365, če izpolnjujejo določena merila. Če želite pretvoriti skupino ali odpraviti težave s pretvorbo, glejte [Nadgradnja seznamov prejemnikov v skupine Microsoft 365 v Outlooku](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).
+Skupine prejemnikov lahko pretvorite v skupine storitve Microsoft 365, če izpolnjujejo določene pogoje. Če želite pretvoriti skupino ali odpraviti težave s pretvorbo, glejte [Nadgradnja seznamov prejemnikov na skupine storitve Microsoft 365 v Outlooku.](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists)
+
+Poleg tega imate skript, ki ga lahko zaženete, da vam pomaga pri izpolnjevanju pogojev za preverjanje upravičenosti skupine prejemnikov do nadgradnje na [Microsoft 365 Group.](https://aka.ms/DLToM365Group)

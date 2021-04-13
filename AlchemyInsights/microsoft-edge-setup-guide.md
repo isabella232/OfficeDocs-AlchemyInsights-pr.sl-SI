@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004163"
 - "7280"
-ms.openlocfilehash: b41b54d6888e6cfed422d0c38d17bb86b24b187b
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+- "10908"
+- "9006389"
+ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679824"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692770"
 ---
 # <a name="start-using-microsoft-edge"></a>Začnite uporabljati Microsoft Edge
 
-Microsoft je izdal nov Microsoft Edge, ki je naslednja generacija svojega spletnega brskalnika. Zgrajena je na temelju za odprto kodo kroma in je optimizirana za delo z Microsoftovimi izdelki, kot sta SharePoint in OneDrive.
+Microsoft je izdal novi Microsoft Edge, ki je naslednja generacija spletnega brskalnika. Temelji na odprtokodni brskalnik Chromium in je optimiziran za delo z Microsoftovimi izdelki, kot sta SharePoint in OneDrive.
 
-Če imate težave s storitvijo Google Chrome, brskalnikom Mozilla Firefox ali Safarijem, vam priporočamo, da uporabite Microsoft Edge.
+Če imate težave s brskalnikom Google Chrome, Mozilla Firefox ali Safari, priporočamo, da uporabite Microsoft Edge.
 
-Če ste skrbnik velike organizacije, lahko začnete uporabljati naš vodnik za [nastavitev programa Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142423) .
+Če ste skrbnik velike organizacije, za začetek uporabite naš vodnik za nastavitev brskalnika [Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2142423)
 
-Če želite prenesti Microsoft Edge na eno napravo hkrati, pojdite na [predstavitev novega Microsoftovega roba](https://go.microsoft.com/fwlink/?linkid=2141049).
+Če želite prenesti Microsoft Edge v eno napravo, pojdite na Predstavitev [novega brskalnika Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).
