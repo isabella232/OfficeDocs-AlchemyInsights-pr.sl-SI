@@ -1,8 +1,8 @@
 ---
-title: Uporaba pomočnika za nastavitev in obnovitev za odpravljanje težav z OneDrive za podjetja
+title: Odpravljanje težav s storitvijo OneDrive za podjetja s pomočnikom za nastavitev in obnovitev
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: c687718de8ca78e1e1b896adc08368248fe4e0df
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 123c32a54ef3893448e8d149f35b9cb84fb10074
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749350"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770791"
 ---
-# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="e6cae-102">Odpravljanje težav s sinhronizacijo OneDrive</span><span class="sxs-lookup"><span data-stu-id="e6cae-102">Fix OneDrive sync problems</span></span>
+# <a name="fix-onedrive-sync-problems"></a><span data-ttu-id="dbda1-102">Odpravljanje težav s sinhronizacijo storitve OneDrive</span><span class="sxs-lookup"><span data-stu-id="dbda1-102">Fix OneDrive sync problems</span></span>
 
-<span data-ttu-id="e6cae-103">Aplikacija pomočnika za podporo in obnovitev vam lahko pomaga pri prepoznavanju in odpravljanju pogostih težav s sinhronizacijo datotek OneDrive.</span><span class="sxs-lookup"><span data-stu-id="e6cae-103">The Support and Recovery Assistant app can help you identify and fix common problems with syncing OneDrive files.</span></span> 
+<span data-ttu-id="dbda1-103">Z aplikacijo Pomočnik za podporo in obnovitev si lahko pomagate pri prepoznavanju in odpravljanju pogostih težav s sinhronizacijo datotek v storitvi OneDrive.</span><span class="sxs-lookup"><span data-stu-id="dbda1-103">The Support and Recovery Assistant app can help you identify and fix common problems with syncing OneDrive files.</span></span> 
   
-<span data-ttu-id="e6cae-104">[Prenesite pomočnika za podporo in obnovitev](https://aka.ms/sara), se vpišite s službenim ali šolskim računom in sledite navodilom v aplikaciji za odpravljanje težav z OneDrive za podjetja.</span><span class="sxs-lookup"><span data-stu-id="e6cae-104">[Download the Support and Recovery Assistant](https://aka.ms/sara), sign in with your work or school account, and follow the instructions in the app to troubleshoot OneDrive for Business.</span></span> 
+<span data-ttu-id="dbda1-104">[Prenesite pomočnika za podporo](https://aka.ms/sara)in obnovitev, vpišite se s službeim ali šolskim računom in upoštevajte navodila v aplikaciji za odpravljanje težav s storitvijo OneDrive za podjetja.</span><span class="sxs-lookup"><span data-stu-id="dbda1-104">[Download the Support and Recovery Assistant](https://aka.ms/sara), sign in with your work or school account, and follow the instructions in the app to troubleshoot OneDrive for Business.</span></span> 
   
-[<span data-ttu-id="e6cae-105">Več korakov za odpravljanje težav</span><span class="sxs-lookup"><span data-stu-id="e6cae-105">More troubleshooting steps</span></span>](https://go.microsoft.com/fwlink/?linkid=872097)
+[<span data-ttu-id="dbda1-105">Več korakov za odpravljanje težav</span><span class="sxs-lookup"><span data-stu-id="dbda1-105">More troubleshooting steps</span></span>](https://go.microsoft.com/fwlink/?linkid=872097)
   
 
