@@ -2,7 +2,7 @@
 title: Nastavitev posredovanja e-pošte
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,25 @@ ms.custom:
 - "20"
 - "1200004"
 ms.assetid: 15abf81d-5c5d-49da-ac81-1b4daa1809f6
-ms.openlocfilehash: 4ec122967a93f707478e05ac7874cbc884a88c84
-ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
+ms.openlocfilehash: a7fba259375c667ff2e0f14a03972e102468cd27
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50037201"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787153"
 ---
 # <a name="check-the-email-forwarding-settings-for-a-mailbox"></a>Preverjanje nastavitev posredovanja e-pošte za nabiralnik
 
-Prvič, posredovanje e-pošte mora biti omogočeno na ravni najemnika. Če ste nastavili posredovanje e-pošte v nabiralniku, vendar to ne deluje (prikaže se sporočilo o napaki **» 550 5.7.520 Access zavrnjeno, vaša organizacija ne dovoli zunanje posredovanosti «),** glejte [nadzor samodejnega posredovanja zunanjih e-pošte v Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide).
+Najprej morate omogočiti posredovanje e-pošte na ravni najemnika. Če ste za nabiralnik nastavili posredovanje e-pošte, vendar ta ne deluje (prikaže se napaka **»550 5.7.520 Access denied, Your organization does not allow external forwarding« (Dostop je zavrnjen 550 5.7.520,** vaša organizacija ne dovoli zunanjega posredovanja). Glejte Nadzor samodejnega posredovanja zunanjih e-poštnih sporočil v storitvi [Microsoft 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding?view=o365-worldwide)
 
-V nabiralniku lahko preprosto preverite nastavitve posredovanja e-pošte. Sledite tem korakom.
+Nastavitve posredovanja e-pošte za nabiralnik lahko preprosto preverite. Upoštevajte ta navodila.
   
-> Če gre za nabiralnik uporabnika, se pozanimajte **uporabnikov** \> **aktivni uporabniki** in izberite uporabnika, katerega nabiralnik želite posredovati. Na zavihku **pošta** izberite **upravljanje posredovanja e-pošte**.
+> Če gre za nabiralnik uporabnika, pojdite na **Uporabniki** aktivnih uporabnikov in izberite \>  uporabnika, katerega nabiralnik želite posredovati. Na **zavihku Pošta** izberite Upravljanje **posredovanja e-pošte.**
 
-> Če je to nabiralnik v skupni rabi, pojdite v razdelek **skupine** \> **nabiralniki v skupni rabi** in izberite nabiralnik v skupni rabi, ki ga posredujete. Izberite **Uredi** za posredovanje e-pošte.
+> Če gre za nabiralnik v skupni rabi, pojdite **v** skupine Nabiralniki v skupni rabi in izberite nabiralnik v skupni \>  rabi, ki ga želite posredovati. Izberite Uredi **za** posredovanje e-pošte.
 
-Če želite več informacij, glejte [Konfiguracija posredovanja e-pošte v programu Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Če želite več informacij, glejte [Konfiguracija posredovanja e-pošte v storitvi Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
   
-Če želite uporabnikom poslati navodila, da bodo lahko nastavili posredovanje e-pošte v lastne nabiralnike, jih usmerite na [posredovanje e-pošte iz microsoftovega 365 v drug e-poštni račun](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e). Upoštevajte, da lahko posredujete le en e-poštni naslov. Če želite nastaviti posredovanje skupini oseb, ustvarite seznam prejemnikov (v razdelku **skupine**), dodajte svoje uporabnike in nato konfigurirajte preusmeritev v to skupino.
+Če želite uporabnikom poslati navodila za nastavitev posredovanja e-pošte v svojih nabiralnikih, jih pošljite na Posreduj e-pošto iz storitve [Microsoft 365 v drug e-poštni račun.](https://support.office.com/article/Forward-email-from-Office-365-to-another-email-account-1ed4ee1e-74f8-4f53-a174-86b748ff6a0e) Posredujete lahko le na en e-poštni naslov. Če želite nastaviti posredovanje za skupino ljudi, ustvarite seznam prejemnikov (v razdelku **Skupine),** dodajte uporabnike in nato konfigurirajte posredovanje za to skupino.
   
-Ali imate delavca, ki odhaja? Glejte [odstranjevanje nekdanjega zaposlenega iz storitve Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee) za priporočene korake.
+Ali zaposleni zapušča podjetje? Če [želite priporočene korake, glejte Odstranjevanje nekdanjega zaposlenega iz storitve Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/add-users/remove-former-employee)

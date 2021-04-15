@@ -1,8 +1,8 @@
 ---
-title: Preverjanje domene s web.com
+title: Preverjanje domene pri web.com
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b3f87de3657ee5060e91abc76ff64a7e5ba7f5ab
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: a6b20db14f752a3a27970af0318934907ff21083
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815765"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770647"
 ---
-# <a name="verify-your-domain-with-webcom"></a>Preverjanje domene s web.com
+# <a name="verify-your-domain-with-webcom"></a>Preverjanje domene pri web.com
 
 Če želite preveriti domeno, morate registratorju domene dodati zapis TXT, da preverite, ali ste lastnik domene. 
 
-Najprej sledite [čarovniku za dodajanje domene](https://admin.microsoft.com/Adminportal#/Domains) tako, da izberete domene **Settings (nastavitve** ) \> **Domains**, nato pa **dodajte domeno**.
+Najprej upoštevajte navodila [čarovnika za dodajanje domene](https://admin.microsoft.com/Adminportal#/Domains) tako, da  \> **izberete Settings Domains (Nastavitve** domen) in **nato Add domain (Dodaj domeno).**
   
-Če želite navodila po korakih, glejte [Ustvarjanje zapisov DNS na spletnem mestu Web.com za Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) .
+Navodila po korakih najdete v web.com zapisov DNS za [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-web-com) pri ponudniku Microsoft 365.

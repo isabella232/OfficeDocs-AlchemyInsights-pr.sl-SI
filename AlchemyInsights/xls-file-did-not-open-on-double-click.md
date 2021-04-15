@@ -1,8 +1,8 @@
 ---
-title: Datoteka XLS se ni odprla z dvoklikom
+title: Datoteke XLS ni bilo mogoče odpreti z dvoklikom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 7e1ac03b26cdd8410e2c01efc642977a89b42082
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796340"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770611"
 ---
-# <a name="excel-file-doesnt-open"></a>Excelova datoteka se ne odpre
+# <a name="excel-file-doesnt-open"></a>Excelove datoteke ni mogoče odpreti
 
-Poskusite eno od teh predlogov:
+Poskusite enega od teh predlogov:
 
-**Izbira Excela kot privzetega**
+**Izberite Excel kot privzeto**
 
-* Z desno tipko miške kliknite delovni list, izberite **Odpri z**in nato izberite **Excel**
+* Z desno tipko miške kliknite delovni list, izberite **Odpri z**, nato pa izberite **Excel**
 
 **Zagon hitrega popravila**
 
-1. Pojdite na **Nadzorna plošča > programi > programi in funkcijami**.
+1. Odprite **nadzorno ploščo in > Programi > programi in funkcije.**
 
-2. Izberite Officeov izdelek, ki ga želite popraviti, in nato izberite **Spremeni**.
+2. Izberite Officeov izdelek, ki ga želite popraviti, nato pa izberite **Spremeni**.
 
-3. Izberite možnost za **hitro popravilo** in nato izberite **Popravi**.
+3. Izberite možnost **Hitro popravilo** in nato **Popravi.**
 
-**Odstranjevanje različic Officea, ki jih ne uporabljate**
+**Odstranitev različic Officea, ki jih ne uporabljate**
 
-1. Pojdite na **nadzorno ploščo > odstranite program**, nato pa izberite različico Officea, ki jo želite odstraniti.
+1. Odprite **nadzorno ploščo in > odstranitev programa** in nato izberite različico Officea, ki jo želite odstraniti.
 
-2. Kliknite **Odstrani**.
+2. Kliknite **Odstrani.**
 
 3. Znova zaženite računalnik.
 
-**Zaženite to orodje za odpravljanje težav, če želite nastaviti razširitve Officeovih datotek, da se odpre v Officeu**
+**Zaženite to orodje za odpravljanje težav, da nastavite Officeove datotečne pripone tako, da se odprejo v Officeu**
 
-1. Zaženite ta orodje za odpravljanje težav: https://aka.ms/diag_officefile .
+1. Zaženite to orodje za odpravljanje težav: https://aka.ms/diag_officefile .
 
-2. Odvisno od brskalnika, **odprite** ali **shranite** orodje za odpravljanje težav na namizje in ga **zaženite** .
+2. Odvisno od brskalnika, odprite **ali** **shranite orodje** za odpravljanje težav na namizje, nato pa **ga zaženite.**

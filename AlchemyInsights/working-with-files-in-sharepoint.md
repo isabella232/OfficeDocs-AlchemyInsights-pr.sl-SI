@@ -1,8 +1,8 @@
 ---
-title: Delo z datotekami v storitvi SharePoint online
+title: Delo z datotekami v SharePoint Onlineu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000292"
 - "5804"
-ms.openlocfilehash: 7b8466e4b96cc471e3f35b2f7eb682f4073e57dd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 74306672c3da424829c1476245a6dac960f264d5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47725531"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770755"
 ---
-# <a name="working-with-files-in-sharepoint-online"></a>Delo z datotekami v storitvi SharePoint online
+# <a name="working-with-files-in-sharepoint-online"></a>Delo z datotekami v SharePoint Onlineu
 
-Spodaj so navedene nekatere pogosto zahtevane teme za upravljanje datotek SharePoint online:
+Tukaj je nekaj pogosto zahtevanih tem za upravljanje datotek v SharePoint Onlineu:
 
 - [Delo z datotekami v knjižnici dokumentov](https://support.microsoft.com/office/a9d89171-1673-4892-9dd2-1ca52037dea2)
 - [Omejitve datotek](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)

@@ -2,7 +2,7 @@
 title: Preverjanje domene
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,19 +15,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: d30f9b51c0164acd126f214a581ad6cec5eec04e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a34de7fa2aaaae365cf4562d31590d4b5fb7544
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734322"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51771007"
 ---
 # <a name="verify-your-domain"></a>Preverjanje domene
 
- **Zapis verjetno ni bil posodobljen prek interneta.**
+ **Zapis verjetno ni bil posodobljen v internetu.**
   
-Po navadi traja le nekaj minut, da si lahko ogledate nov zapis, občasno pa lahko traja le nekaj ur. 
+Običajno traja le nekaj minut, da si lahko ogledamo nov zapis, občasno pa lahko traja tudi nekaj ur. 
   
-- Če ste že dolgo čakali, dvakrat preverite, ali ste kopirali in prilepili natančno vrednost v zapis za preverjanje TXT pri gostitelju DNS. Ena pogosta težava ni vključena v del zapisa» MS = «. Tudi to potrebujemo!
+- Če ste čakali že tako dolgo, še enkrat preverite, ali ste kopirali in prilepili natančno vrednost v zapis preverjanja TXT pri gostitelju zapisov DNS. Ena pogosta težava je, da ni 4 dela zapisa »MS=«. Tudi to potrebujemo!
 
-- Pri nekaterih gostiteljih DNS morate dodatno ukrepati, če želite shraniti datoteko območja (kjer je zapis DNS shranjen), tako da se bo posodobil prek interneta. Prepričajte se, da ste shranili spremembe, tako da lahko Microsoft vidi in preveri zapis.
+- Pri nekaterih gostiteljih zapisov DNS morate še dodatno shraniti datoteko območja (kjer je zapis DNS shranjen), tako da se bo posodobil v internetu. Shranite spremembe, da bo Microsoft lahko videl in preveril zapis.

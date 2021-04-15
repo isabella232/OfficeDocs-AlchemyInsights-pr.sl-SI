@@ -1,8 +1,8 @@
 ---
-title: Napaka» Teams 4c7 «
+title: Napaka »Teams 4c7«
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3472"
 - "9001211"
-ms.openlocfilehash: 08494b461a24eba8999a5edb99c89af7b17db9b3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 51f2aa936e803b63bcbdf73b89959cd3a1757751
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700219"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786685"
 ---
 # <a name="4c7-error-in-microsoft-teams"></a>Napaka 4c7 v aplikaciji Microsoft Teams
 
-Do te napake pride, ker Microsoft Teams zahteva preverjanje pristnosti obrazcev. Ko uvedete storitve Active Directory Federation Services (AD FS), preverjanje pristnosti obrazcev privzeto ni omogočeno za intranet. Če neuspešno preverjanje pristnosti sistema Windows ni uspelo, ste pozvani k vpisu s preverjanjem pristnosti obrazcev.
+Do te napake pride, ker Microsoft Teams zahteva preverjanje pristnosti obrazcev. Ko uvedete storitve AD FS (Active Directory Federation Services), preverjanje pristnosti obrazcev ni privzeto omogočeno za intranet. Če integrirano preverjanje pristnosti sistema Windows ne uspe, ste pozvani k vpisu s preverjanjem pristnosti obrazcev.
 
-Če želite odpraviti to težavo, omogočite preverjanje pristnosti obrazcev tako, da uporabite snap-in konzolo Microsoft Management Console (MMC) v računalniku, v katerem je lokalna kopija imenika Active Directory. Če želite to narediti, upoštevajte ta navodila: 
+Če želite odpraviti to težavo, omogočite preverjanje pristnosti obrazcev s snap-inom AD FS Microsoft Management Console (MMC) v računalniku, ki ima lokalno kopijo imenika Active Directory. To naredite tako: 
 
-1. V podoknu za krmarjenje Prebrskajte do **pravilnikov o preverjanju pristnosti**.
-2. V razdelku **dejanja** v podoknu s podrobnostmi izberite **Uredi globalno primarno preverjanje pristnosti**.
-3. Na zavihku **intranet** izberite **preverjanje pristnosti obrazcev**.
-4. Izberite **v redu** (ali **uporabi**).
+1. V podoknu za krmarjenje poiščite Pravilniki **za preverjanje pristnosti.**
+2. V **razdelku Dejanja** v podoknu s podrobnostmi izberite Urejanje **globalnega primarnega preverjanja pristnosti.**
+3. Na zavihku **Intranet** izberite Preverjanje **pristnosti obrazcev.**
+4. Izberite **V redu** (ali **Uporabi).**

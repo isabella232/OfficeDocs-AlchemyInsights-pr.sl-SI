@@ -1,8 +1,8 @@
 ---
-title: Uporaba izrezka & skice za zajemanje, označevanje in skupno rabo slik
+title: Uporaba skice & izreza za zajem, označevanje in skupno rabo slik
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: 43558de713ff9a79eb7d514aa3e262d329377787
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1de3027260152dc14e33496af7cfb1dd239447d6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773215"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770827"
 ---
-# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Uporaba izrezka & skice za zajemanje, označevanje in skupno rabo slik
+# <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>Uporaba skice & izreza za zajem, označevanje in skupno rabo slik
 
-Skica zaslona se zdaj imenuje **rezljanje & skica**. **Če želite hitro izvesti izrezek**:
+Skica zaslona se zdaj imenuje **izrez & skica.** **Če želite hitro zasneti izrez:**
 
-1. Pritisnite **tipko z logotipom sistema Windows + Shift + S**. Videli boste, da je vaš zaslon zatemnjen, kazalec pa je prikazan kot križec. 
+1. Pritisnite tipko **Windows + Shift + S**. Zaslon bo potemnjeni, kazalec pa bo prikazan kot križec. 
 
-2. Izberite mesto na robu območja, ki ga želite kopirati, in kliknite kazalec z levo tipko miške. 
+2. Izberite točko na robu območja, ki ga želite kopirati, in z levo tipko miške kliknite kazalec. 
 
-3. Premaknite kazalec, da označite območje, ki ga želite zajeti. Območje, ki ga boste zajeli, se bo prikazalo na zaslonu.
+3. Premaknite kazalec, da označite območje, ki ga želite zajeti. Območje, ki ga zajamete, se prikaže na zaslonu.
 
-   ![Slika označenega izbora](media/snipone.png)
+   ![slika označenega izbora](media/snipone.png)
 
-Slika, ki jo odstrižek, je shranjena v odložišče, pripravljena za lepljenje v e-poštno sporočilo ali dokument. 
+Slika, ki ste jo izrezali, je shranjena v odložišče, pripravljena za lepljenje v e-poštno sporočilo ali dokument. 
 
-**Če želite urediti ali si ogledati sliko**: 
+**Če želite urediti ali si ogledati sliko:** 
 
-- Kliknite ikono obvestila na skrajni desni strani opravilne vrstice; nato kliknite sliko, ki ste jo pravkar ujeli. Izrezek se odpre v programu izrezek & skica.
+- Kliknite ikono za obvestila na desni strani opravilne vrstice. nato pa kliknite sliko, ki ste jo pravkar zajeli. Izrez se odpre v aplikaciji Izrez & Skica.
 
-   ![Slika prikaza slike v programu za izrezovanje](media/sniptwo.png)
+   ![slika slike, ki prikazuje v programu za izrezovanje](media/sniptwo.png)
