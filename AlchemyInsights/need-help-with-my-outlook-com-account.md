@@ -1,8 +1,8 @@
 ---
-title: Potrebujete pomoč za moj račun za Outlook.com
+title: Potrebujem pomoč za moj Outlook.com račun
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf08692f42bb823a48455a595555fb1593b40070
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803297"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792400"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>Potrebujete pomoč za moj račun za Outlook.com
+# <a name="need-help-with-my-outlookcom-account"></a>Potrebujem pomoč za moj Outlook.com račun
 
-Če potrebujete pomoč za storitev Outlook.com, vam lahko pomagamo. Če želite pridobiti podporo neposredno v spletnem programu: 
+Če potrebujete pomoč pri Outlook.com, vam lahko pomagamo. Če želite podporo dobiti neposredno v spletni aplikaciji: 
 
-1. Ali želite klikniti? ikona v zgornjem desnem kotu zaslona. 
+1. Kliknite ? v zgornjem desnem kotu zaslona. 
 
-2. Vnesite tisto, kar potrebujete za pomoč, in sicer v polju pomoč, ki je prikazana na plošči pop up in kliknite **Pošlji**. 
+2. Vnesite, za kaj potrebujete pomoč, v polje za pomoč, ki je prikazano v pojavni plošči, in kliknite **pošlji.** 
 
-3. Če rešitev ni predstavljena, se pomaknite navzdol po stranski plošči in kliknite **pišite nam**.
+3. Če rešitev ni predstavljena, se pomaknite navzdol po stranske plošče in kliknite pošljite **e-poštno sporočilo.**

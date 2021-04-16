@@ -1,8 +1,8 @@
 ---
-title: Odpravljanje težav s povzročiteljem
+title: Odpravljanje težav s kazalom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001486"
 - "8000"
-ms.openlocfilehash: f2d870154f49215fe64d4193d590ba24b4930c0e
-ms.sourcegitcommit: 55d8b56bb8ab0ed07985ef2b5c48ffeb3440b5fc
+ms.openlocfilehash: 97a08f74c85d48746c04bcaf31c1265384941487
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50040232"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51793048"
 ---
-# <a name="mover-troubleshooting"></a>Odpravljanje težav s povzročiteljem
+# <a name="mover-troubleshooting"></a>Odpravljanje težav s kazalom
 
-Če želite več informacij o odpravljanju težav, obiščite to:
+Če želite informacije o odpravljanju težav s Mover, obiščite to:
 
-- [Odpravljanje težav po selitvi](https://docs.microsoft.com/sharepointmigration/mover-post-migration-troubleshooting)  
-- [Odpravljanje napak selitve povzročitelja težav](https://docs.microsoft.com/sharepointmigration/mover-error-faq)  
-- [Kode stanja prenosa](https://docs.microsoft.com/sharepointmigration/mover-transfer-status-codes)
+- [Odpravljanje težav po selitvijo](https://docs.microsoft.com/sharepointmigration/mover-post-migration-troubleshooting)  
+- [Odpravljanje težav s selitvijo s selitvijo s mover](https://docs.microsoft.com/sharepointmigration/mover-error-faq)  
+- [Kode stanja prenosa mover](https://docs.microsoft.com/sharepointmigration/mover-transfer-status-codes)
 - [Pogosta vprašanja o računu](https://docs.microsoft.com/sharepointmigration/mover-account-faq)
