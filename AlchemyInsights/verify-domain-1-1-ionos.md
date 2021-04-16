@@ -2,7 +2,7 @@
 title: Preverjanje domene z 1&1 IONOS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: b01c5647c506086b1ccfa97c13758df1906f1fbd
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 40a5fb44de76ed76b415b909718450c18ea24b50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47816341"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808042"
 ---
 # <a name="verify-your-domain-with-11-ionos"></a>Preverjanje domene z 1&1 IONOS
 
 Če želite preveriti domeno, morate registratorju domene dodati zapis TXT, da preverite, ali ste lastnik domene. 
 
-Najprej sledite [čarovniku za dodajanje domene](https://admin.microsoft.com/Adminportal#/Domains) tako, da izberete domene **Settings (nastavitve** ) \> **Domains**, nato pa **dodajte domeno**.
+Najprej upoštevajte navodila [čarovnika za dodajanje domene](https://admin.microsoft.com/Adminportal#/Domains) tako, da  \> **izberete Settings Domains (Nastavitve** domen) in **nato Add domain (Dodaj domeno).**
   
-Glejte [Ustvarjanje zapisov DNS na spletnem mestu 1&1 IONOS za Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet) za navodila po korakih.
+Navodila [po korakih najdete v članku Ustvarjanje zapisov DNS pri ponudniku 1&1 IONOS za Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-1-1-internet)

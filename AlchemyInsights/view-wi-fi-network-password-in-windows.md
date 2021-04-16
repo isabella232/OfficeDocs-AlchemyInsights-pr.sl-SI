@@ -1,8 +1,8 @@
 ---
-title: Ogled omrežnega gesla Wi-Fi v sistemu Windows 10
+title: Ogled Wi-Fi omrežnega gesla v sistemu Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001467"
 - "3767"
-ms.openlocfilehash: dd4fa680b03a7f9dd29a22189b3e22b76e3f2025
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 254c192084ef7022f7bfbb146ecf8df57e6ff2a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689106"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51807394"
 ---
-# <a name="view-wi-fi-network-password-in-windows-10"></a>Ogled omrežnega gesla Wi-Fi v sistemu Windows 10
+# <a name="view-wi-fi-network-password-in-windows-10"></a>Ogled Wi-Fi omrežnega gesla v sistemu Windows 10
 
-1. Preverite, ali je računalnik s sistemom Windows 10 priključen na omrežje Wi-Fi.
+1. Preverite, ali je računalnik s sistemom Windows 10 povezan z Wi-Fi omrežja.
 
-2. Pojdite v razdelek **nastavitve > omrežja & Internet > stanje**ali kliknite ali tapnite [tukaj](ms-settings:network?activationSource=GetHelp) , da nam dovolite, da vas odpravimo zdaj.)
+2. Pojdite na **Nastavitve > Stanje & internetnega** omrežja > ali pa [](ms-settings:network?activationSource=GetHelp) kliknite ali tapnite tukaj, da vas takoj sprejmemo na to stran.)
 
-3. Kliknite **središče za omrežje in skupno rabo**.
+3. Kliknite **Središče za omrežje in skupno rabo.**
 
     ![Središče za omrežje in skupno rabo.](media/network-sharing-center.png)
 
-4. V **središču za omrežje in skupno rabo**ob možnosti **povezave**boste videli ime brezžičnega omrežja. Če je vaše omrežje na primer imenovano» ABC123 «, boste morda videli:
+4. V **središču za omrežje** in skupno rabo zraven možnosti **Povezave** boste videli ime brezžičnega omrežja. Če se na primer vaše omrežje imenuje »ABC123«, boste morda videli:
 
     ![Omrežne povezave.](media/network-connections.png)
 
-    Kliknite ime brezžičnega omrežja, da odprete okno stanja Wi-Fi. 
+    Kliknite ime brezžičnega omrežja, da odprete okno Wi-Fi stanje omrežja. 
 
-5. V oknu stanja Wi-Fi kliknite **brezžične lastnosti**, nato zavihek **varnost** in potrdite polje **Pokaži znake**.
+5. V oknu Wi-Fi stanje kliknite **Lastnosti brezžičnega omrežja,** nato **zavihek** Varnost in potrdite **polje Pokaži znake.**
 
-    ![Pokaži znake za gesla za Wi-Fi.](media/show-password-characters.png)
+    ![Pokaži Wi-Fi gesla.](media/show-password-characters.png)
 
