@@ -1,8 +1,8 @@
 ---
-title: Zakaj posodobitve programske opreme niso razporejene?
+title: Zakaj se ne uvajajo posodobitve programske opreme?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
-ms.translationtype: MT
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461978"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805702"
 ---
-# <a name="why-software-updates-are-not-being-deployed"></a><span data-ttu-id="0e39b-102">Zakaj posodobitve programske opreme niso razporejene?</span><span class="sxs-lookup"><span data-stu-id="0e39b-102">Why software updates are not being deployed?</span></span>
+# <a name="why-software-updates-are-not-being-deployed"></a><span data-ttu-id="6aad2-102">Zakaj se ne uvajajo posodobitve programske opreme?</span><span class="sxs-lookup"><span data-stu-id="6aad2-102">Why software updates are not being deployed?</span></span>
 
-<span data-ttu-id="0e39b-103">Če ste konfigurirali posodobitve programske opreme prek programa Windows 10 Update ring, vendar posodobitve niso razporejene, si oglejte ta navodila:</span><span class="sxs-lookup"><span data-stu-id="0e39b-103">Review the following if you configured software updates through a Windows 10 update ring but the updates are not being deployed:</span></span>  
+<span data-ttu-id="6aad2-103">Če ste konfigurirali posodobitve programske opreme prek zvonjenja za posodobitev sistema Windows 10, vendar posodobitve ne bodo uvedene, preglejte to:</span><span class="sxs-lookup"><span data-stu-id="6aad2-103">Review the following if you configured software updates through a Windows 10 update ring but the updates are not being deployed:</span></span>  
 
-- <span data-ttu-id="0e39b-104">Razmislite o spreminjanju servisiranja sistema Windows iz  **polletne**  vrste izdaje kanala v strožjo, pogostejšo vrsto izdaje</span><span class="sxs-lookup"><span data-stu-id="0e39b-104">Consider changing Windows servicing from a  **Semi-Annual Channel**  release type to a stricter, more frequent release type</span></span>  
-- <span data-ttu-id="0e39b-105">Preverite obdobje odloga za  **posodobitev kakovosti**  in  **posodobitev funkcij**.</span><span class="sxs-lookup"><span data-stu-id="0e39b-105">Check the deferral period for  **Quality update**  and  **Feature update**.</span></span> <span data-ttu-id="0e39b-106">Obdobje odloga lahko privede do zamude pri posodobitvah za največ 180 dni.</span><span class="sxs-lookup"><span data-stu-id="0e39b-106">The deferral period could lead to delay in updates for up 180 days.</span></span>
+- <span data-ttu-id="6aad2-104">Premislite o spreminjanju vzdrževanja sistema Windows  **vrsto izdaje**  v ožjo, pogosteje vrsto izdaje</span><span class="sxs-lookup"><span data-stu-id="6aad2-104">Consider changing Windows servicing from a  **Semi-Annual Channel**  release type to a stricter, more frequent release type</span></span>  
+- <span data-ttu-id="6aad2-105">Preverite obdobje odlogov za  **posodobitev kakovosti**  in  **posodobitev funkcij**.</span><span class="sxs-lookup"><span data-stu-id="6aad2-105">Check the deferral period for  **Quality update**  and  **Feature update**.</span></span> <span data-ttu-id="6aad2-106">Obdobje odloga lahko povzroči zakasnitev posodobitev za največ 180 dni.</span><span class="sxs-lookup"><span data-stu-id="6aad2-106">The deferral period could lead to delay in updates for up 180 days.</span></span>
