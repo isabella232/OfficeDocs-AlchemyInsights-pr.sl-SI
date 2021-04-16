@@ -1,36 +1,37 @@
 ---
-title: Pomoč pri vpisu v InTune
+title: Pomoč za včlanitev v storitev Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 184612df677770413c04ff6d62468373e8e17e4a
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
-ms.translationtype: MT
+ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569427"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811580"
 ---
-# <a name="help-with-intune-enrollment"></a><span data-ttu-id="6ff3a-102">Pomoč pri vpisu v InTune</span><span class="sxs-lookup"><span data-stu-id="6ff3a-102">Help with Intune Enrollment</span></span>
+# <a name="help-with-intune-enrollment"></a><span data-ttu-id="2a5b1-102">Pomoč za včlanitev v storitev Intune</span><span class="sxs-lookup"><span data-stu-id="2a5b1-102">Help with Intune Enrollment</span></span>
 
 
-- [<span data-ttu-id="6ff3a-103">Več o vpisu naprave z InTune</span><span class="sxs-lookup"><span data-stu-id="6ff3a-103">Learn about device enrollment with Intune</span></span>](https://docs.microsoft.com/intune/device-enrollment)
+- [<span data-ttu-id="2a5b1-103">Več informacij o včlanitvi naprave s storitvijo Intune</span><span class="sxs-lookup"><span data-stu-id="2a5b1-103">Learn about device enrollment with Intune</span></span>](https://docs.microsoft.com/intune/device-enrollment)
 
-- [<span data-ttu-id="6ff3a-104">Nastavitev enrollment iOS naprave z InTune</span><span class="sxs-lookup"><span data-stu-id="6ff3a-104">Set up iOS device Enrollment with Intune</span></span>](https://docs.microsoft.com/intune/ios-enroll)
+- [<span data-ttu-id="2a5b1-104">Nastavitev včlanitve naprave s sistemom iOS s storitvijo Intune</span><span class="sxs-lookup"><span data-stu-id="2a5b1-104">Set up iOS device Enrollment with Intune</span></span>](https://docs.microsoft.com/intune/ios-enroll)
 
-- [<span data-ttu-id="6ff3a-105">Nastavitev naprave Android včlanitev z InTune</span><span class="sxs-lookup"><span data-stu-id="6ff3a-105">Set up Android device Enrollment with Intune</span></span>](https://docs.microsoft.com/intune/android-enroll)
+- [<span data-ttu-id="2a5b1-105">Nastavitev včlanitve naprave s sistemom Android s storitvijo Intune</span><span class="sxs-lookup"><span data-stu-id="2a5b1-105">Set up Android device Enrollment with Intune</span></span>](https://docs.microsoft.com/intune/android-enroll)
 
-- [<span data-ttu-id="6ff3a-106">Nastavitev naprave Windows včlanitev z InTune</span><span class="sxs-lookup"><span data-stu-id="6ff3a-106">Set up Windows device Enrollment with Intune</span></span>](https://docs.microsoft.com/intune/windows-enroll)
+- [<span data-ttu-id="2a5b1-106">Nastavitev včlanitve naprave s sistemom Windows s storitvijo Intune</span><span class="sxs-lookup"><span data-stu-id="2a5b1-106">Set up Windows device Enrollment with Intune</span></span>](https://docs.microsoft.com/intune/windows-enroll)
 
-<span data-ttu-id="6ff3a-107">**Odpravljanje težav pri vpisu naprave**</span><span class="sxs-lookup"><span data-stu-id="6ff3a-107">**Troubleshooting device Enrollment**</span></span>
+<span data-ttu-id="2a5b1-107">**Odpravljanje težav z včlanitvijo naprave**</span><span class="sxs-lookup"><span data-stu-id="2a5b1-107">**Troubleshooting device Enrollment**</span></span>
 
-1. <span data-ttu-id="6ff3a-108">Uporabite InTune odpravljanje težav portal za diagnosticiranje in reševanje pogostih napak včlanitve.</span><span class="sxs-lookup"><span data-stu-id="6ff3a-108">Use Intune Troubleshooting Portal to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="6ff3a-109">Za več podrobnosti preglejte [ta](https://docs.microsoft.com/intune/help-desk-operators) dokument.</span><span class="sxs-lookup"><span data-stu-id="6ff3a-109">Review [this](https://docs.microsoft.com/intune/help-desk-operators) document for more details.</span></span>
+1. <span data-ttu-id="2a5b1-108">Uporabite Portal za odpravljanje težav v storitvi Intune, da diagnosticirate in odpravite nekatere pogoste napake.</span><span class="sxs-lookup"><span data-stu-id="2a5b1-108">Use Intune Troubleshooting Portal to diagnose and resolve common enrollment failures.</span></span> <span data-ttu-id="2a5b1-109">Preglejte [ta](https://docs.microsoft.com/intune/help-desk-operators) dokument, če želite več informacij.</span><span class="sxs-lookup"><span data-stu-id="2a5b1-109">Review [this](https://docs.microsoft.com/intune/help-desk-operators) document for more details.</span></span>
 
-2. <span data-ttu-id="6ff3a-110">Preglejte te dokumente za seznam pogostih napak, ki preprečujejo včlanitev in resolucije vsakemu: [vodnik za odpravljanje težav](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) in [Odpravljanje težav z zdravnikom](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).</span><span class="sxs-lookup"><span data-stu-id="6ff3a-110">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).</span></span>
+2. <span data-ttu-id="2a5b1-110">Preglejte te dokumente in si oglejte seznam pogostih napak, ki preprečujejo včlanitev, in rešitev za posamezne težave: [Vodnik za odpravljanje težav](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) in [Dokument za odpravljanje težav](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).</span><span class="sxs-lookup"><span data-stu-id="2a5b1-110">Review these documents for a list of common errors that prevent enrollment and resolutions to each: [Troubleshooting guide](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) and [Troubleshooting doc](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).</span></span>

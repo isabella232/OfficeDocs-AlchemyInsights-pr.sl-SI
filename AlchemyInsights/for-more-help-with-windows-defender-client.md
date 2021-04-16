@@ -1,8 +1,8 @@
 ---
-title: Če želite dodatno pomoč za odjemalca Windows Defender
+title: Za več pomoči z odjemalcem Windows Defender
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: e39ba958540c85eab3b35e78bf75adf017773247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5c584bdd39a98e19fde88c59bfdcb64cbd33d69
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708159"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812516"
 ---
-# <a name="for-more-help-with-windows-defender-client"></a><span data-ttu-id="529da-102">Če želite dodatno pomoč za odjemalca Windows Defender</span><span class="sxs-lookup"><span data-stu-id="529da-102">For more help with Windows Defender client</span></span>
+# <a name="for-more-help-with-windows-defender-client"></a><span data-ttu-id="02033-102">Za več pomoči z odjemalcem Windows Defender</span><span class="sxs-lookup"><span data-stu-id="02033-102">For more help with Windows Defender client</span></span>
 
-<span data-ttu-id="529da-103">Obiščite Microsoftovo središče za [varnostne dokumente](https://docs.microsoft.com/security/#pivot=products&panel=products1) .</span><span class="sxs-lookup"><span data-stu-id="529da-103">Visit Microsoft [Security documentation](https://docs.microsoft.com/security/#pivot=products&panel=products1) center.</span></span>
+<span data-ttu-id="02033-103">Obiščite Središče za [dokumentacijo Microsoftove](https://docs.microsoft.com/security/#pivot=products&panel=products1) varnosti.</span><span class="sxs-lookup"><span data-stu-id="02033-103">Visit Microsoft [Security documentation](https://docs.microsoft.com/security/#pivot=products&panel=products1) center.</span></span>
