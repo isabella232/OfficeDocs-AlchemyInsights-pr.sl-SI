@@ -1,8 +1,8 @@
 ---
-title: Office 2019 v terminalskem strežniku ali RDS
+title: Office 2019 v terminalskem strežniku ali rdsu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: 5454fad58411e9d86e19dfa83a1a553a2c2b05b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b61f0396c4698aaa54df74d6612d1a35d37f652
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754581"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790996"
 ---
-# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Uvedba sistema Office 2019 za uporabo v skupni rabi v programu RDS, Terminal Server ali VDI
+# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Uvajanje sistema Office 2019 za uporabo v skupni rabi v rds, terminalskem strežniku ali strežniku VDI
 
-Če je Office že nameščen v strežniku RDS s katerim koli drugim Officeovim paketom, ga odstranite. Na primer, pojdite na **Nadzorna plošča**  >  **odstranite program**. Če imate težave, odstranite s pomočjo [Microsoftovega pomočnika za podporo in obnovitev](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
+Če je Office že nameščen v strežniku RDS s pomočjo drugih Officeovih paketov, ga odstranite. Odprite na primer **Odstranitev programa**  >  **na nadzorni plošči.** Če prihaja do težav, odstranite microsoftovega [pomočnika za podporo in obnovitev.](https://aka.ms/SARA-OfficeUninstall-Alchemy) 
 
-Če želite namestiti Office, uporabite orodje za uvedbo sistema Office (ODT). Podrobna navodila najdete v članku [uvedba sistema Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
+Z orodjem za uvedbo sistema Office (ODT) namestite Office. Če želite podrobna navodila, [glejte Uvedba sistema Office 2019.](https://docs.microsoft.com/deployoffice/office2019/deploy)
 
-Če želite aktivirati aktiviranje, glejte [pregled aktivacije glasnosti Officea](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).
+Če želite več o aktiviranju, [glejte Pregled količinskega aktiviranja Officea.](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)
