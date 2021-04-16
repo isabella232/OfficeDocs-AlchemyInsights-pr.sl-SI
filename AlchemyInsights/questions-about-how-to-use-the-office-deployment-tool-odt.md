@@ -1,8 +1,8 @@
 ---
-title: Vprašanja o uporabi orodja za uvajanje sistema Office (ODT)
+title: Vprašanja o uporabi orodja za uvedbo sistema Office (ODT)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -10,22 +10,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: c5b055989014b464d3136895702c8ea40e8eb701
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086172"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790348"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="9bbbe-102">Vprašanja o uporabi orodja za uvajanje sistema Office (ODT)</span><span class="sxs-lookup"><span data-stu-id="9bbbe-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="032f3-102">Vprašanja o uporabi orodja za uvedbo sistema Office (ODT)</span><span class="sxs-lookup"><span data-stu-id="032f3-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
 
-<span data-ttu-id="9bbbe-103">Prenesite orodje za uvajanje sistema Office iz [Microsoftovega središča za prenose](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span><span class="sxs-lookup"><span data-stu-id="9bbbe-103">Download the Office Deployment Tool from the [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
+<span data-ttu-id="032f3-103">Prenesite orodje za uvedbo sistema Office z Microsoftovega centra [za prenose.](https://go.microsoft.com/fwlink/p/?LinkID=626065)</span><span class="sxs-lookup"><span data-stu-id="032f3-103">Download the Office Deployment Tool from the [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
   
-<span data-ttu-id="9bbbe-104">Ko prenesete datoteko, zaženite samoekstrahiranje izvršljive datoteke, ki vsebuje orodje za uvajanje sistema Office (setupodt.exe) in datoteko s konfiguracijo vzorca (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="9bbbe-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setupodt.exe) and a sample configuration file (configuration.xml).</span></span>
+<span data-ttu-id="032f3-104">Ko prenesete datoteko, zaženite samo ekstrahiranje izvedljive datoteke, ki vsebuje izvedljivo orodje za uvedbo sistema Office (setup.exe) in vzorčno konfiguracijsko datoteko (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="032f3-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span>
   
- <span data-ttu-id="9bbbe-105">**Če želite izključiti ali odstraniti aplikacije Microsoft 365 za izdelke podjetja iz odjemalskih računalnikov:**</span><span class="sxs-lookup"><span data-stu-id="9bbbe-105">**To exclude or remove Microsoft 365 Apps for enterprise products from client computers:**</span></span>
+ <span data-ttu-id="032f3-105">**Če želite izključiti ali odstraniti Programe storitve Microsoft 365 za podjetja iz odjemalskih računalnikov:**</span><span class="sxs-lookup"><span data-stu-id="032f3-105">**To exclude or remove Microsoft 365 Apps for enterprise products from client computers:**</span></span>
   
-<span data-ttu-id="9bbbe-106">Pri nameščanju programov Microsoft 365 za podjetja lahko izključite določene izdelke.</span><span class="sxs-lookup"><span data-stu-id="9bbbe-106">When installing Microsoft 365 Apps for enterprise, you can exclude specific products.</span></span> <span data-ttu-id="9bbbe-107">To naredite tako, da upoštevate navodila za namestitev Officea z datoteko ODT, vendar vključite element ExcludeApp v konfiguracijski datoteki.</span><span class="sxs-lookup"><span data-stu-id="9bbbe-107">To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file.</span></span> <span data-ttu-id="9bbbe-108">Ta konfiguracijska datoteka na primer namesti vse aplikacije Microsoft 365 za izdelke Enterprise, razen Publisherja:</span><span class="sxs-lookup"><span data-stu-id="9bbbe-108">For example, this configuration file installs all the Microsoft 365 Apps for enterprise products except Publisher:</span></span>
+<span data-ttu-id="032f3-106">Ko nameščate programe storitve Microsoft 365 za podjetja, lahko izključite določene izdelke.</span><span class="sxs-lookup"><span data-stu-id="032f3-106">When installing Microsoft 365 Apps for enterprise, you can exclude specific products.</span></span> <span data-ttu-id="032f3-107">Če želite to narediti, upoštevajte navodila za namestitev Officea z ODT, vendar vključite element ExcludeApp v konfiguracijsko datoteko.</span><span class="sxs-lookup"><span data-stu-id="032f3-107">To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file.</span></span> <span data-ttu-id="032f3-108">Ta konfiguracijska datoteka na primer namesti vse programe storitve Microsoft 365 za izdelke podjetja, razen Publisherja:</span><span class="sxs-lookup"><span data-stu-id="032f3-108">For example, this configuration file installs all the Microsoft 365 Apps for enterprise products except Publisher:</span></span>
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -36,6 +36,6 @@ ms.locfileid: "49086172"
 </Add>
 ```
 
-[<span data-ttu-id="9bbbe-109">Pregled orodja za uvedbo sistema Office</span><span class="sxs-lookup"><span data-stu-id="9bbbe-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[<span data-ttu-id="032f3-109">Pregled orodja za uvedbo sistema Office</span><span class="sxs-lookup"><span data-stu-id="032f3-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 
