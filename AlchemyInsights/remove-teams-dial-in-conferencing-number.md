@@ -2,21 +2,22 @@
 title: Odstranitev številke klicne konference za aplikacijo Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 8d78351a15886021621c81ba5900b3af5f58f308
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43784815"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799321"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>Odstranitev številke klicne konference za aplikacijo Teams
 
@@ -28,7 +29,7 @@ Privzeta telefonska številka za konferenčni most določa ID klicatelja, ki bo 
 
 2. Obiščite **skrbniško središče za Microsoft 365**.
 
-3. Pojdite v **Skrbniška središča | Teams in Skype **.
+3. Pojdite v **Skrbniška središča | Teams in Skype**.
 
 4. Pojdite na **Meetings**.
 

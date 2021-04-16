@@ -1,8 +1,8 @@
 ---
-title: Odstranjevanje velike Priloge
+title: Odstranjevanje velike priloge
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,24 +14,24 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 9ab6542d80ba62eb1640d0010d11ad6ae637ced9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1068f9e3b88dcc98a4d1042e923f235bf21ee727
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701695"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799249"
 ---
-# <a name="remove-the-large-attachment"></a>Odstranjevanje velike Priloge
+# <a name="remove-the-large-attachment"></a>Odstranjevanje velike priloge
 
-1. V Outlooku izberite» **Pošlji/Prejmi**  >  **delo brez povezave**«. 
+1. V Outlooku izberite **Pošlji/prejmi**  >  **delo brez povezave.** 
 2. V podoknu za krmarjenje izberite **Odpošlji**. Tukaj lahko: 
-    - Izbrišite sporočilo (Izberite jo, nato pa izberite **Izbriši**).
-    - Povlecite sporočilo v mapo» Osnutki «, dvokliknite, da ga odprete, in odstranite Prilogo in nato izberite **Izbriši**).
-3. Če prejmete sporočilo o napaki, ki jo Outlook poskuša prenesti, zaprite Outlook. Morda bo trajalo nekaj trenutkov za izhod. Če se Outlook ne zapre, pritisnite CTRL + ALT + DELETE in izberite **Zaženi upravitelja opravil**. V upravitelju opravil izberite zavihek **procesi** , se pomaknite navzdol do outlook.exe in izberite **Končaj postopek**.
-4. Ko se Outlook zapre, ga znova zaženite in ponovite korake 2 in 3. 
-5. Ko odstranite Prilogo, kliknite **Pošlji/Prejmi**  >  **delo brez povezave** , da nadaljujete delo v spletu. 
+    - Izbrišite sporočilo (izberite ga in nato izberite **Izbriši**).
+    - Povlecite sporočilo v mapo Osnutki, dvokliknite, da ga odprete, nato pa odstranite prilogo in jo izberite ter izberite **Izbriši**).
+3. Če se prikaže sporočilo o napaki, da Outlook poskuša prenesti sporočilo, zaprite Outlook. Izhod lahko traja nekaj trenutkov. Če se Outlook ne zapre, pritisnite Ctrl+Alt+Delete in izberite **Zaženi upravitelja opravil.** V upravitelju opravil izberite **zavihek Procesi,** se pomaknite navzdol do možnosti outlook.exe in izberite **Končaj proces**.
+4. Ko se Outlook zapre, ga znova zaženite in ponovite koraka 2 in 3. 
+5. Ko odstranite prilogo, kliknite **Pošlji/prejmi** delo  >  **brez povezave, da** nadaljujete delo s povezavo. 
 
-Sporočila se v mapi» Odpošlji «zatakne tudi, ko kliknete **Pošlji**, vendar nimate vzpostavljene povezave. Kliknite **Pošlji/Prejmi** in si oglejte gumb **delo brez povezave** . Če je moder, ste odklopljeni. Kliknite, da se povežete (gumb se obarva belo), nato pa kliknite **Pošlji vse**.
+Sporočila obtičijo tudi v mapi »Odpošlji«, ko kliknete Pošlji, vendar niste povezani. Kliknite **Pošlji/prejmi** in si oglejte gumb **Delo brez** povezave. Če je modra, je povezava prekinjena. Kliknite ga, da vzpostavite povezavo (gumb se obarva belo) in **kliknite Pošlji vse.**
  
- Če želite podrobnejše informacije, glejte:
-- [Videoposnetek: pošiljanje ali brisanje zalepljene e-pošte](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+ Če si želite ogledati vse podrobnosti, glejte:
+- [Videoposnetek: Pošiljanje ali brisanje e-poštnega sporočila, ki je obtičalo](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
