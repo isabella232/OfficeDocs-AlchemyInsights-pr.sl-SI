@@ -1,26 +1,26 @@
 ---
-title: Nastavitev SPF-a v Microsoft 365
+title: Nastavitev sistema SPF v storitvi Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 8b77871b7ae2706ca2d493f4a53f27d151d8bf77
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 11a972bf7f3c13c2fc67a79439873f587e4a9f15
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44501363"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804361"
 ---
-# <a name="set-passwords-to-never-expire"></a>Nastavitev gesel za nikoli ne poteče 
+# <a name="set-passwords-to-never-expire"></a>Nastavite gesla tako, da nikoli ne potečejo 
 
-Če želite nastaviti, da vsa gesla nikoli ne potečejo, v skrbniškem središču za Microsoft **Settings**365 pojdite na stran z varnostno zaščito za nastavitve  >  [ &amp; ](https://portal.office.com/adminportal/home#/settings/security) . Izberite **Uredi** poleg pravilnika **o** **geslu**in vklopite drsnik.
+Če želite nastaviti vsa gesla tako, da nikoli ne potečejo, v Skrbniškem središču za Microsoft 365 pojdite **na stran Nastavitve** za zasebnost  >  [ &amp; zasebnosti.](https://portal.office.com/adminportal/home#/settings/security) Izberite **Uredi** zraven **možnosti Pravilnik za** gesla in drsnik premaknite na **Vklop.**
   
-Za podrobnejše informacije glejte: [nastavite pravilnik o poteku gesla za vašo organizacijo.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+Če želite podrobnejše informacije, [glejte: Nastavitev pravilnika o poteku gesla za organizacijo.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-[Nastavitev gesla za določene uporabnike nikoli ne poteče](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+[Nastavitev gesla, da nikoli ne poteče za določene uporabnike](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
   

@@ -2,7 +2,7 @@
 title: Upravljanje sinhroniziranih uporabniških računov
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
-ms.openlocfilehash: 7566ad9a9591735a704649fd2599c75aef2895b0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1fe2857043434fd4b0b5723123b1fae908cd66ee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777835"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802903"
 ---
 # <a name="manage-synchronized-user-accounts"></a>Upravljanje sinhroniziranih uporabniških računov
 
-Po navadi uporabite skrbniško središče za Microsoft 365 za dodajanje in spreminjanje uporabniških računov. Vendar pa ga ne morete uporabiti, če so omogočeni imeniški sychronization ali SSO. Namesto tega upravljajte uporabnike z lupino Windows PowerShell, kot je opisano v [razdelku konfiguracija uporabniških računov v storitvi Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ). 
+V Skrbniškem središču za Microsoft 365 lahko običajno dodajate in spreminjate uporabniške račune. Ne morete pa ga uporabiti, če je omogočena sychronizacija imenika ali SSO. Namesto tega upravljajte uporabnike z lupino Windows PowerShell, kot je opisano v poglavju Konfiguracija lastnosti uporabniškega računa z lupino PowerShell za [Office 365.](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ) 
   
 
