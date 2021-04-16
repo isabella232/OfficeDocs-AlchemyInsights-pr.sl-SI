@@ -1,8 +1,8 @@
 ---
-title: Omogoči pošiljanje takoj, ko je povezava vzpostavljena
+title: Omogoči pošiljanje takoj, ko je vzpostavljena povezava
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,21 +14,21 @@ ms.custom:
 - "9000768"
 - "9002385"
 - "4645"
-ms.openlocfilehash: 25f0573d40ae49c2a62f63c9d655118ba9eddee5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ebd318af82a4e57dc9e2f51a88301c1d9a6851c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709599"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813992"
 ---
-# <a name="enable-send-immediately-when-connected"></a>Omogoči pošiljanje takoj, ko je povezava vzpostavljena
+# <a name="enable-send-immediately-when-connected"></a>Omogoči pošiljanje takoj, ko je vzpostavljena povezava
  
-1. Na zavihku Datoteka kliknite **možnosti**.
+1. Na zavihku Datoteka kliknite **Možnosti.**
 
-2. V pogovornem oknu Outlookove možnosti kliknite **dodatno**.
+2. V pogovornem oknu Outlookove možnosti kliknite **Dodatno.**
 
-3. V razdelku Pošlji in prejmi kliknite, če želite omogočiti **pošiljanje takoj, ko je povezava vzpostavljena**. Kliknite **V redu**.
+3. V razdelku Pošiljanje in prejemanje kliknite, če želite omogočiti možnost Pošlji **takoj, ko je povezava vzpostavljena.** Kliknite **V redu**.
 
-Če želite podrobnejše informacije, glejte:
-- [Videoposnetek: pošiljanje ali brisanje zalepljene e-pošte](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
-- [E-pošta ostane v mapi» Odpošlji «, dokler ročno ne uvedete postopka pošiljanja/prejemanja v Outlooku](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)
+Če si želite ogledati vse podrobnosti, glejte:
+- [Videoposnetek: Pošiljanje ali brisanje e-poštnega sporočila, ki je obtičalo](https://support.office.com/article/Video-Send-or-delete-an-email-stuck-in-your-outbox-26d5d34a-4e5f-444a-a9e8-44db04a94dec) 
+- [E-pošta ostane v mapi »Odpošlji«, dokler ročno ne sprožite postopka pošiljanja/prejemanja v Outlooku](https://support.microsoft.com/help/2797572/email-stays-in-the-outbox-folder-until-you-manually-initiate-a-send-re)

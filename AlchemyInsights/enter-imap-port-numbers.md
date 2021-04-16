@@ -1,8 +1,8 @@
 ---
-title: Vnašanje številk vrat IMAP
+title: Vnesite številke vrat IMAP
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001101"
 - "3062"
-ms.openlocfilehash: a38d01f41298ff3fde1927635c31e442a19012a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8479c4af8833fc4f1dbc66ef3c59a4e24290b83c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709455"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813848"
 ---
-# <a name="enter-imap-port-numbers"></a>Vnašanje številk vrat IMAP
+# <a name="enter-imap-port-numbers"></a>Vnesite številke vrat IMAP
 
-Prijavite se prek zaslona za nastavitev predvajanja in dodajte podatke o vratih za dvopičje v skladu z naslovi dohodnih in odhodnih strežnikov. (Te podrobnosti lahko dobite pri ponudniku e-poštnih storitev.) 
+Prijavite se prek zaslona za nastavitev vnaprej in dodajte podrobnosti vrat za dvopičjem v vrstico z naslovi strežnika za dohodno in odhodno pošto. (Te podrobnosti lahko dobite pri ponudniku e-poštnih storitev.) 
 
-Pojdite v razdelek **Nastavitve**  >  **Dodaj račun**  >  **IMAP** > in kliknite **Pokaži dodatne nastavitve**; nato vnesite svoje podatke. 
+Pojdite na **Nastavitve**  >  **Dodaj račun**  >  **IMAP** > kliknite Pokaži dodatne **nastavitve** in vnesite podrobnosti. 
 
-*Strežnik za dohodno pošto*: IMAP.servername.com:000 (običajno 993 ali 143) 
+*Strežnik za dohodno* pošto: imap.servername.com:000 (običajno 993 ali 143) 
 
-*Strežnik za odhodno pošto*: SMTP.servername.com:000 (običajno 465 ali 25) 
+*Strežnik za odhodno* pošto: smtp.servername.com:000 (običajno 465 ali 25) 
 
-Imejte v mislih, da je dvopičje pomembno. 
+Upoštevajte, da je dvopičje pomembno. 

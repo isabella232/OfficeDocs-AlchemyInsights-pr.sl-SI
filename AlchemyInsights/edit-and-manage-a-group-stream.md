@@ -1,8 +1,8 @@
 ---
-title: Urejanje in upravljanje skupine v programu Microsoft Stream
+title: Urejanje in upravljanje skupine v storitvi Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6452"
-ms.openlocfilehash: cc4c64468df911f803d7abbb90e5edd1123013fb
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: 801c945a88b6edd09fb6c39b3bca0646ace9f84b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48275016"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814460"
 ---
-# <a name="edit-and-manage-a-group-in-microsoft-stream"></a>Urejanje in upravljanje skupine v programu Microsoft Stream
+# <a name="edit-and-manage-a-group-in-microsoft-stream"></a>Urejanje in upravljanje skupine v storitvi Microsoft Stream
 
-Nastavitve skupine v Microsoft Streamu lahko v pretočnih nastavitvah določi lastnik skupine.  
+Nastavitve skupine v storitvi Microsoft Stream lahko lastnik skupine spremeni v storitvi Stream.  
 
-- [Urejanje in upravljanje skupine v programu Microsoft Stream](https://docs.microsoft.com/stream/portal-manage-groups)
+- [Urejanje in upravljanje skupine v storitvi Microsoft Stream](https://docs.microsoft.com/stream/portal-manage-groups)

@@ -2,7 +2,7 @@
 title: Skupna raba datotek prek omrežja v sistemu Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,33 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001476"
 - "3507"
-ms.openlocfilehash: 3fb07e2f870d93ddcb6133ac5fd290935a27c583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0503eb2e213054cb3528617e0e9b1eff7f0e4733
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745407"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813164"
 ---
 # <a name="file-sharing-over-a-network-in-windows-10"></a>Skupna raba datotek prek omrežja v sistemu Windows 10
 
-**Opomba**: Če ste prej uporabili domačo skupino za skupno rabo datotek, upoštevajte, da je bila domača skupina odstranjena iz sistema Windows 10 (različica 1803). Zdaj lahko omogočite skupno rabo tiskalnikov in datotek z vgrajenimi funkcijami v sistemu Windows 10.
+**Opomba:** Če ste za skupno rabo datotek prej uporabljali HomeGroup, upoštevajte, da je bila homegroup odstranjena iz sistema Windows 10 (različica 1803). Tiskalnike in datoteke lahko zdaj daste v skupno rabo z vgrajenimi funkcijami v sistemu Windows 10.
 
 **Skupna raba datotek ali map prek omrežja**
 
-- V **Raziskovalcu**izberite datoteko > kliknite zavihek **Skupna raba** na vrhu > v razdelku **Skupna raba z** , kliknite **določeni ljudje**.
+- V **Raziskovalcu** izberite datoteko, > kliknite  zavihek Skupna raba na vrhu  > razdelku Skupna raba z kliknite **Določene osebe.**
 
-    ![Dajte datoteko v skupno rabo z določenimi osebami.](media/share-with-specific-people.png)
+    ![Skupna raba datoteke z določenimi ljudmi.](media/share-with-specific-people.png)
           
-- Če izberete več datotek hkrati, jih lahko daste v skupno rabo na enak način. Deluje tudi za mape.
+- Če izberete več datotek hkrati, lahko daste vse v skupno rabo na enak način. Deluje tudi pri mapah.
 
-**Če si želite ogledati naprave v omrežju, ki so v skupni rabi datotek**
+**Ogled naprav v omrežju, ki delijo datoteke**
 
-- V **Raziskovalcu**pojdite v razdelek **omrežje**. Če odkrivanje omrežja ni omogočeno, se prikaže sporočilo o napaki» odkrivanje omrežja je izklopljeno... «
+- V **Raziskovalcu** pojdite na **Omrežje**. Če odkrivanje omrežja ni omogočeno, se prikaže sporočilo o napaki »Odkrivanje omrežja je izklopljeno ...«
 
-- Kliknite **odkrivanje omrežja je izklopljen** banner, nato pa kliknite **Vklopi odkrivanje omrežja in skupna raba datotek**.
+- Kliknite **pasico Odkrivanje omrežja je izklopljeno,** nato pa kliknite Vklopi odkrivanje omrežja in skupno rabo **datotek.**
 
     ![Vklopite odkrivanje omrežja in skupno rabo datotek.](media/turn-on-network-discovery.png)
 
-[Več informacij o skupni rabi datotek v omrežju](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
+[Preberite več o skupni rabi datotek prek omrežja](https://support.microsoft.com/help/4092694/windows-10-file-sharing-over-a-network)
 
-[Skupna raba datotek s programi, OneDrive, e-poštnimi sporočili in drugimi](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)
+[Skupna raba datotek z aplikacijami, storitvijo OneDrive, e-pošto in drugimi](https://support.microsoft.com/help/4027674/windows-10-share-files-in-file-explorer)

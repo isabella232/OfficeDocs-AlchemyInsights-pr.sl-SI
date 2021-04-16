@@ -1,8 +1,8 @@
 ---
-title: Napaka pri pošiljanju e-pošte, ki jo je blokiral SpamHaus
+title: Napaka pri pošiljanju e-pošte, ki jo blokira SpamHaus
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,19 +14,19 @@ ms.custom:
 - "255"
 - "3100003"
 ms.assetid: fa98ab4a-92eb-45e9-8d57-ad10fb123042
-ms.openlocfilehash: a0c2f4be0b2d8ba6fd3dadbdf306e6ce623ad380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8b5ac1df0b6a07a475345235a8b4b555d6881147
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783819"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51813740"
 ---
-# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Napaka pri pošiljanju e-pošte: gostitelj odjemalca je blokiran s storitvijo Spamhaus
+# <a name="error-sending-email-client-host-blocked-using-spamhaus"></a>Napaka pri pošiljanju e-pošte: Spamhaus blokira odjemalca gostitelja
 
-Naslov IP, ki je poslal sporočilo, je na seznamu blokov, ki je v lasti [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Razlogi za blokiranje s Spamhaus vključujejo ogrožene račune, ogrožene stroje, ki imajo v skupni rabi javni naslov IP in pravilnike internetnih storitev (ISP). Možni popravki so:
+Naslov IP, s katerega je bilo poslano sporočilo, je na seznamu blokiranih naslovov, ki je v [lasti podjetja Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245). Med razloge za blokiranje s strani podjetja Spamhaus spadajo ogroženi računi, ogroženi računalniki, ki delijo javni naslov IP, in pravilniki ponudnikov internetnih storitev (ISP). Možne popravke so:
   
-- Za blokirana dohodna sporočila, kjer nadzorujete izvorni e-poštni strežnik, morate določiti vzrok in odstraniti blok s spletnega mesta Spamhaus.
+- Za blokirana dohodna sporočila, kjer nadzirate izvorni e-poštni strežnik, morate določiti vzrok in odstraniti blokado s spletnega mesta Spamhaus.
 
-- Za blokirana dohodna sporočila, v katerih izvorni naslov IP pripada drugi osebi, mora lastnik naslova odstraniti blok s spletnega mesta Spamhaus. Če je naslov IP na seznamu za pravilnike (PBL), lahko lastnik dodeli drug statični naslov IP ali pa odstrani naslov iz PBL.
+- Za blokirana dohodna sporočila, kjer naslov IP pripada nekomu drugemu, mora lastnik naslova odstraniti blokado s spletnega mesta Spamhaus. Če je naslov IP na seznamu blokiranih pravilnikov (PBL), lahko lastnik dodeli drugačen statični naslov IP ali odstrani naslov s seznama PBL.
 
-- Za blokirana odhodna sporočila iz domene, ki je povezana z Microsoftom, se lahko prikaže to sporočilo o napaki, če so sporočila preusmerjena v storitev tretje osebe. Z orodjem za iskanje v storitvi WHOIS lahko poiščete lastnika blokiranega naslova IP.
+- Za blokirana odhodna sporočila iz vaše domene, povezane z Microsoftom, lahko to sporočilo o napaki prejmete, če so sporočila usmerjanje prek storitve drugega ponudnika. Z orodjem za iskanje WHOIS lahko najdete lastnika blokiranega naslova IP.

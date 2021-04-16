@@ -1,8 +1,8 @@
 ---
-title: orodje za izvoz E-odkrivanje
+title: Orodje za izvoz e-odkrivanja
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,20 +15,20 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277944"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814604"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Ne morete namestiti ali zagnati orodja za izvoz E-odkrivanje?
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Ali ne morete namestiti ali zagnati orodja za izvoz e-odkrivanja?
 
-Če ne morete namestiti ali zagnati orodja za izvoz E-odkrivanje za prenos rezultatov iskanja, si oglejte te stvari:
+Če ne morete namestiti ali zagnati orodja za izvoz e-odkrivanja, da bi prenesli rezultate iskanja, preverite te elemente:
   
-- Računalnik, ki ga uporabljate, izpolnjuje te pogoje:
+- Računalnik, ki ga uporabljate, izpolnjuje te zahteve:
 
-  - 32-ali 64-bitne različice sistema Windows 7 in novejše različice
+  - 32- ali 64-bitne različice sistema Windows 7 in novejše različice
 
   - Microsoft .NET Framework 4.7
 
@@ -42,10 +42,10 @@ ms.locfileid: "48277944"
 
     Drugi brskalniki, kot sta Google Chrome in Mozilla Firefox, niso podprti.
 
-- Vaša organizacija se lahko poveže s končno točko v storitvi Azure, ki je ** \* . blob.Core.Windows.net** (nadomestni znak predstavlja Enolični identifikator za izvozno opravilo).
+- Vaša organizacija se lahko poveže s končno točko v storitvi Azure, ki je **\* .blob.core.windows.net** (nadomestni znak predstavlja enolični identifikator za posel izvoza).
 
-- Izvozna vloga je dodeljena v središču za skladnost z varnostnim preverjanjem za Microsoft 365 &amp; . Ta vloga je privzeto dodeljena le skupini vlog E-odkrivanje Manager. Glejte [dodeljevanje dovoljenj za e-odkrivanje](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
+- Dodeljena vam je vloga za izvoz v Središču za varnost in skladnost s predpisi storitve Microsoft 365. &amp; Privzeto je ta vloga dodeljena le skupini vlog upravitelja e-odkrivanja. Glejte [Dodeljevanje dovoljenj za e-odkrivanje.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
-Če želite več informacij, glejte [izvoz rezultatov iskanja vsebine](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+Če želite več informacij, glejte [Izvoz rezultatov iskanja po vsebini.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 
-Če izvažate več kot 100K nabiralnike, boste morali uporabiti ta PowerShell za prenos rezultatov izvoza:  [izvažanje rezultatov iz več kot 100k nabiralnikov](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
+Če izvažate več kot 100.000 nabiralnikov, morate za prenos rezultatov izvoza uporabiti to storitev Powershell: Izvoz rezultatov iz več kot [100 K nabiralnikov.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)

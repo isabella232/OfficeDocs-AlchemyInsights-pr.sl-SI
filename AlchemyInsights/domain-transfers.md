@@ -2,34 +2,32 @@
 title: Prenosi domene
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "4985"
-ms.openlocfilehash: e78b560329254f7035869c076db5ff31427dc7ae
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: ffc549e81dff85ab3e91ddccd50e54603ee24ff0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43783987"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814893"
 ---
 # <a name="domain-transfers"></a>Prenosi domene
 
-- [Preberite več o tem, kako lahko po 60 dneh prenesete Microsoftovo kupljeno domeno k drugemu ponudniku](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider).
+[Preberite več o tem, kako lahko po 60 dneh prenesete Microsoftovo kupljeno domeno k drugemu ponudniku](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
 
-    - Čeprav Microsoftove kupljene domene ne podpirajo spreminjanja zapisov NS, priporočamo, da [posodobite zapise DNS za spletno mesto](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide), namesto da prenesete registracijo domene k spletnemu ponudniku gostovanja.
+- Upoštevajte, da Microsoftove kupljene domene ni mogoče prenašati med najemniki okolja Microsoft 365.
+- Čeprav Microsoftove kupljene domene ne podpirajo spreminjanja zapisov NS, priporočamo, da [posodobite zapise DNS za spletno mesto](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider?view=o365-worldwide), namesto da prenesete registracijo domene k spletnemu ponudniku gostovanja.
 
-- Microsoftove kupljene domene ni mogoče prenašati med najemniki okolja Microsoft 365. 
+Domene po meri je mogoče [preverjati in uporabljati z okoljem Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
 
-    - Domeno drugega ponudnika pa lahko prenašate med najemniki okolja Microsoft 365 tako, da [odstranite domeno iz najemnika](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide), nato pa preverite domeno v drugem najemniku.
+- Registracije ali obračunavanja domen po meri drugih ponudnikov ni mogoče prenesti k Microsoftu.
 
-- Registracije ali obračunavanja domen drugih ponudnikov ni mogoče prenesti k Microsoftu.
-
-    - Domene po meri pa je mogoče [preverjati in uporabljati z okoljem Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
-
-- Prvotnih privzetih domen onmicrosoft.com ni mogoče prenesti ali preimenovati.
+Privzetih domen onmicrosoft.com ni mogoče prenesti ali preimenovati.

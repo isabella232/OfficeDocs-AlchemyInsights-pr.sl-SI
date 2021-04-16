@@ -2,28 +2,29 @@
 title: Preverjanje EDU
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 1889eb9b18f312da00196d575376960bc6b028fd
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
-ms.translationtype: MT
+ms.openlocfilehash: 870f175adc5ee31d32266a69af9acedb66899bc8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45205283"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814388"
 ---
 # <a name="edu-verification"></a>Preverjanje EDU
 
-V večini primerov se zahteve za akademsko upravičenost obdelajo v 24–48 urah. Nekatere zahteve lahko zahtevajo temeljitejši pregled in lahko traja do 10 delovnih dni za obdelavo. Ko bo končano, vam bomo poslali e-poštno sporočilo s statusom upravičenosti vaše šole.
+V večini primerov so zahteve za akademsko upravičenost obdelane v 24–48 urah. Nekatere zahteve je morda treba natančneje pregledati, kar lahko traja do 10 delovnih dni. Ob zaključku postopka vam bomo poslali e-poštno sporočilo s stanjem upravičenosti vaše šole.
 
-**Pomembno je, da** Če ste pred vnosom v domeno zapustili čarovnika za preverjanje, [lahko](https://go.microsoft.com/fwlink/p/?linkid=2135255) med brezplačno preskusno različico kadar koli nadaljujete s čarovnikom za preverjanje.
+**Pomembno** Če ste pred vnosom domene zapustili čarovnika za preverjanje, lahko [v čarovniku za preverjanje nadaljujete](https://go.microsoft.com/fwlink/p/?linkid=2135255) kadarkoli v času brezplačnega preskusa.
 
-Če želite preveriti stanje domene, od tam obiščite [Skrbniško središče za Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). Na domači strani se pomaknite na dno in poiščite **kartico za obračunavanje.** Kartica **za obračunavanje** označuje stanje postopka preverjanja (odobreno, čakajoče, zavrnjeno ali dodajo domeno).
+Če želite preveriti stanje svoje domene, obiščite [Skrbniško središče za Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). Na domači strani se pomaknite na dno strani in poiščite razdelek **Obračunavanje**. Razdelek **Obračunavanje** kaže stanje postopka preverjanja (odobreno, čakajoče, zavrnjeno ali dodajanje domene).
 
-Če je vaša zahteva zavrnjena, [glejte Moja šola ni upravičena. Kaj naj storim zdaj?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
+Če je vaša zahteva zavrnjena, glejte [Moja šola ni upravičena. Kaj naj naredim?](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
