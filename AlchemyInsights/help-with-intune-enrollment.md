@@ -1,36 +1,37 @@
 ---
-title: Pomoč pri vpisu v InTune
+title: Pomoč za včlanitev v storitev Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002973"
 - "5687"
-ms.openlocfilehash: 184612df677770413c04ff6d62468373e8e17e4a
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
-ms.translationtype: MT
+ms.openlocfilehash: c749286a2b97b9ff36c25de30838ae38a2d0939a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44569427"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811580"
 ---
-# <a name="help-with-intune-enrollment"></a>Pomoč pri vpisu v InTune
+# <a name="help-with-intune-enrollment"></a>Pomoč za včlanitev v storitev Intune
 
 
-- [Več o vpisu naprave z InTune](https://docs.microsoft.com/intune/device-enrollment)
+- [Več informacij o včlanitvi naprave s storitvijo Intune](https://docs.microsoft.com/intune/device-enrollment)
 
-- [Nastavitev enrollment iOS naprave z InTune](https://docs.microsoft.com/intune/ios-enroll)
+- [Nastavitev včlanitve naprave s sistemom iOS s storitvijo Intune](https://docs.microsoft.com/intune/ios-enroll)
 
-- [Nastavitev naprave Android včlanitev z InTune](https://docs.microsoft.com/intune/android-enroll)
+- [Nastavitev včlanitve naprave s sistemom Android s storitvijo Intune](https://docs.microsoft.com/intune/android-enroll)
 
-- [Nastavitev naprave Windows včlanitev z InTune](https://docs.microsoft.com/intune/windows-enroll)
+- [Nastavitev včlanitve naprave s sistemom Windows s storitvijo Intune](https://docs.microsoft.com/intune/windows-enroll)
 
-**Odpravljanje težav pri vpisu naprave**
+**Odpravljanje težav z včlanitvijo naprave**
 
-1. Uporabite InTune odpravljanje težav portal za diagnosticiranje in reševanje pogostih napak včlanitve. Za več podrobnosti preglejte [ta](https://docs.microsoft.com/intune/help-desk-operators) dokument.
+1. Uporabite Portal za odpravljanje težav v storitvi Intune, da diagnosticirate in odpravite nekatere pogoste napake. Preglejte [ta](https://docs.microsoft.com/intune/help-desk-operators) dokument, če želite več informacij.
 
-2. Preglejte te dokumente za seznam pogostih napak, ki preprečujejo včlanitev in resolucije vsakemu: [vodnik za odpravljanje težav](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) in [Odpravljanje težav z zdravnikom](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+2. Preglejte te dokumente in si oglejte seznam pogostih napak, ki preprečujejo včlanitev, in rešitev za posamezne težave: [Vodnik za odpravljanje težav](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) in [Dokument za odpravljanje težav](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).

@@ -1,35 +1,36 @@
 ---
-title: Odpravljanje težav z odpiranjem prenosnih računalnikov
+title: Odpravljanje težav z odpiranjem zvezkov
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002359"
 - "4718"
-ms.openlocfilehash: c867da55661bd520367b8f909ebe18656e8ffc93
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: MT
+ms.openlocfilehash: 0d31e84fbb4faaadc435f826c61860c69ba01744
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "44283217"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812840"
 ---
-# <a name="fix-issues-with-opening-notebooks"></a>Odpravljanje težav z odpiranjem prenosnih računalnikov
+# <a name="fix-issues-with-opening-notebooks"></a>Odpravljanje težav z odpiranjem zvezkov
 
-**Pomembno**: morda boste videli sporočilo» v programu Microsoft Teams imamo omejitve z OneNotom. Za urejanje tega zvezka uporabite OneNote za splet. "
+**Pomembno**: morda se bo prikazalo sporočilo »prihaja do omejitev aplikacije OneNote v storitvi Microsoft Teams. Za urejanje te beležnice uporabite Microsoft OneNote v spletu.«
 
-Glejte razdelek [ID centra za sporočila: 207439 – zavedanje o začasnih prilagoditvah funkcije Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439).
+Glejte [ID središča za sporočila: 207439 – ozaveščenost o začasnih prilagoditvah funkcij storitve Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439).
 
 OneNote v aplikaciji Teams bo namenjen samo za branje za komercialne in šolske najemnike. Če želite urediti, uporabite OneNote za splet ali namizni program OneNote.
 
-Vsepovsod ste neki splošen odložnost v izdaja s predrtina zvezek:
+Nekaj pogostih rešitev težav z odpiranjem zvezkov:
 
-1. Prenosnega računalnika morda ne boste mogli odpreti, ker ste prijavljeni z osebnim računom namesto z delovnim ali šolskim računom.
-    - Če se prenosnik odpre v programu OneNote za splet, se prepričajte, da se prijavite s trenutnimi poverilnicami v OneNotu.
-    - V programu OneNote 2016 kliknite **File > račun** in **se odjavi** iz vseh računov. Znova se vpišite z uporabniškim računom z veljavno licenco. Če želite podrobne informacije, glejte razdelek [Računi v Officeu](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9). 
-    - V programu OneNote za Windows kliknite elipso (**...**) v zgornjem desnem kotu zaslona, kliknite **Nastavitve > računi**in zagotovite, da je na seznamu delovni ali šolski račun. 
-2. Če je prenosnik, ki se ne odpre, shranjen v storitvi OneDrive ali SharePoint online, poskusite odpreti zvezek v [OneNotu za splet](https://onenote.com). Če zvezek ni na seznamu, morda nimate dovoljenj za to. Če je prenosnik v skupni rabi, prosite lastnika, naj ga deli in zagotovi, da uporabljate pravilen račun za prijavo.
+1. Morda ne boste mogli odpreti zvezka, ker ste vpisani z osebnim računom in ne s službenim ali šolskim računom.
+    - Če se zvezek odpre v storitvi OneNote v spletu, se prepričajte, da se prijavljate s trenutnimi poverilnicami za OneNote.
+    - Odprite OneNote 2016, kliknite **Datoteka > Račun** in se **izpišite** iz vseh računov. Znova se vpišite z uporabniškim računom z veljavno licenco. Če želite podrobne informacije, glejte razdelek [Računi v Officeu](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9). 
+    - V storitvi OneNote za Windows kliknite tri pike (**…**) v zgornjem desnem kotu zaslona, kliknite **Nastavitve > Računi** in se prepričajte, da je naveden službeni ali šolski račun. 
+2. Če je zvezek, ki ga ni mogoče odpreti, shranjen v storitvi OneDrive ali SharePoint Online, ga poskusite odpreti v programu [OneNote v spletu](https://onenote.com). Če zvezka ni na seznamu, morda nimate dovoljenj za ta zvezek. Če je zvezek v skupni rabi, prosite lastnika, naj ga da v skupno rabo in se prepričajte, da za prijavo uporabljate pravi račun.

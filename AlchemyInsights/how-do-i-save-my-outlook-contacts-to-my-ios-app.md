@@ -1,8 +1,8 @@
 ---
-title: Kako shranim Outlookove stike v svoj program za stike s sistemom iOS?
+title: Kako shranim Outlookove stike v aplikacijo s stiki v iOS?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3058"
 - "9001097"
-ms.openlocfilehash: 2c787d41bd0c9226d35665f9394226e089049eb2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34603d90799951a8b567f75036370aa25a33ab2e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781803"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811148"
 ---
-# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Kako shranim Outlookove stike v svoj program za stike s sistemom iOS?
+# <a name="how-do-i-save-my-outlook-contacts-to-my-ios-contacts-app"></a>Kako shranim Outlookove stike v aplikacijo s stiki v iOS?
 
-Če želite shraniti Outlookove stike v domači adresar:
+Če želite shraniti Outlookove stike v izvirni adresar:
  
-1. Pojdite v razdelek **Nastavitve naprav**  >  **Contacts** in potrdite, da je **privzeti račun** nastavljen na **iCloud**. Upoštevajte, da je ta nastavitev na voljo le, če imate več računov, ki ste jih dodali v napravo. Če nimate vzpostavljene povezave z napravo, bodo Outlookovi stiki shranjeni lokalno, vendar ne bodo sinhronizirani z drugimi napravami.
+1. Pojdite na **Nastavitve naprave**  >  **Stiki in** preverite, ali je privzeti **račun** nastavljen na **iCloud.** Ta nastavitev je na voljo le, če ste v napravo dodali več računov. Če z napravo ni povezan noben račun, bodo Vaši Outlookovi stiki shranjeni lokalno, vendar ne bodo sinhronizirani z drugimi napravami.
  
-2. Odprite Outlook za iOS in v levem podoknu za krmarjenje izberite Orodja za nastavitve, izberite **Izberite svoj račun**in vklopite možnost **Shrani stike** .
+2. Odprite Outlook za iOS in v levem podoknu za krmarjenje izberite mehanizem  Nastavitve, izberite Izberite svoj račun in vklopite stikalo Shrani stike.
  
-Shranjeni stiki bodo dodani v razdelek stiki v vašem računu za iCloud. Ti stiki se bodo sinhronizirali z vsemi napravami, ki so vpisani z istim iCloud računom. Upoštevajte, da lahko hkrati izvozite le stike iz ene naprave.
+Shranjeni stiki bodo dodani pod stike v vašem računu za iCloud. Ti stiki bodo sinhronizirani z vsemi napravami, ki so vpisane z istim računom za iCloud. Upoštevajte, da lahko izvozite le stike iz ene naprave hkrati.
  
-Če ima uporabnik vklopljen stik z izvozom, mora biti onemogočena tako njihova iPad kot tudi iPhone, da se izognete sporom. Dvojniki lahko trajajo 24 ur, da se reconciliated.
+Če ima uporabnik vklopljeno možnost izvoza stikov, morate onemogočiti tako iPad kot tudi iPhone, da preprečite spore. Podvajanje lahko znova traja 24 ur.

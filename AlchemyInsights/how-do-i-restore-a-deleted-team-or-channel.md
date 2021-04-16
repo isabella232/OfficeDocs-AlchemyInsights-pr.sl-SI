@@ -2,7 +2,7 @@
 title: Kako obnovim izbrisano ekipo ali kanal
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,20 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726440"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811184"
 ---
-# <a name="how-to-restore-a-deleted-team-or-channel"></a>Obnovitev izbrisane skupine ali kanala
+# <a name="how-to-restore-a-deleted-team-or-channel"></a>Obnovitev izbrisane ekipe ali kanala
 
-Izbrisane kanale v skupini je mogoče obnoviti do 21 dni po tem, ko je kanal izbrisan.
+Izbrisane kanale znotraj ekipe lahko obnovite še 21 dni po tem, ko ste izbrisali kanal.
 
-Če želite obnoviti izbrisan kanal, lahko lastnik skupine naredi to:
+Če želite obnoviti izbrisani kanal, lahko lastnik ekipe naredi to:
 
-1. Odprite nastavitve skupine tako, da izberete 3 pike desno od imena ekipe.
-2. Izberite **Upravljaj**  >  **kanale** skupine  >  , ki so **izbrisani**, nato pa izberite **Obnovi** na desni strani.
+1. Odprite nastavitve ekipe tako, da izberete 3 pike na desni strani imena skupine.
+2. Izberite **Upravljanje**  >  **kanalov ekipe**  >  **Izbrisano** in nato **Obnovi** na desni strani.
 
-Če želite več informacij o obnavljanju skupine, glejte [arhiviranje ali brisanje skupine v aplikaciji Microsoft Teams – Microsoft Teams | Microsoft docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
+Če želite več informacij o obnovitvi ekipe, glejte Arhiviranje ali [brisanje ekipe v aplikaciji Microsoft Teams – paket Microsoft Teams | Microsoftovi dokumenti.](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team)

@@ -1,8 +1,8 @@
 ---
-title: Ustvarjanje samodejnih napisov in prepisa v Microsoft Streamu
+title: Ustvarjanje samodejnih napisov in prepisa v storitvi Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001699"
 - "3777"
-ms.openlocfilehash: e62b45859fcfecf2992f47a0c8c8b5c8ad84569a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 033c479cd31c5028b00b2ffe64d63fea2762f3fc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707799"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812439"
 ---
-# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Ustvarjanje samodejnih napisov in prepisa v Microsoft Streamu
+# <a name="generate-automatic-captions-and-a-transcript-in-microsoft-stream"></a>Ustvarjanje samodejnih napisov in prepisa v storitvi Microsoft Stream
 
-Stream lahko samodejno ustvari podnapise s samodejnim prepoznavanjem govora in si lahko ogledate okno s pomikanjem, da preprosto premikate in sledite skupaj z govorjeno vsebino videoposnetka.
+Pretakanje lahko samodejno ustvari napise s tehnologijo samodejnega prepoznavanja govora, ogledate pa si lahko okno prepisa z drsenem trakom za preprosto krmarjenje in spremljanje skupaj z govorjeno vsebino videoposnetka.
 
-- [Ustvarjanje samodejnih podnapisov in prepisa za videoposnetke v storitvi Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
+- [Ustvarjanje samodejnih napisov in prepisov videoposnetkov v storitvi Microsoft Stream](https://docs.microsoft.com/stream/portal-autogenerate-captions)
 
-- [Prikaz okna z drsečim prepisom za videoposnetek v Microsoft Streamu](https://docs.microsoft.com/stream/portal-configure-transcript-mode)
+- [Prikaz okna za prepis za drsenje za videoposnetek v storitvi Microsoft Stream](https://docs.microsoft.com/stream/portal-configure-transcript-mode)

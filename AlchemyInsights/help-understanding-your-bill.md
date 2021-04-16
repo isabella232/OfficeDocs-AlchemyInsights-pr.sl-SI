@@ -1,8 +1,8 @@
 ---
-title: Pomoč pri razumevanju računa
+title: Pomoč za razumevanje računa
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,23 +14,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: bf09bf13ae38f6fee0d8e9451504e26ea68c68e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fdd92779f009626afb8e9158e09c8254f089e42
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705459"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811616"
 ---
-# <a name="help-understanding-your-bill"></a>Pomoč pri razumevanju računa
+# <a name="help-understanding-your-bill"></a>Pomoč za razumevanje računa
 
-Znesek, ki ste ga zaračunali za naročnino, odraža ceno licence, pomnoženo s številom kupljenih licenc in vsemi potrebnimi davki/pristojbinami.
+Znesek, zaračunan za vašo naročnino, odraža ceno licence, pomnoženo s številom kupljenih licenc in zahtevanih davki/stroški.
   
-Če se znesek, ki je bil zaračunan, razlikuje od pričakovanega, obstaja nekaj razlogov, zaradi katerih se lahko zgodi to:
+Če se zaračunani znesek razlikuje od pričakovanega, lahko pride do tega iz več razlogov:
   
-- Licence so bile dodane ali odstranjene iz vaše naročnine. Ko so licence spremenjene sredi obdobja, se to odraža na tem računu. Morda boste prejeli dobropis in nov račun za prejšnje obdobje storitve za obračun te spremembe.
+- Licence so bile dodane naročnini ali odstranjene iz naročnine. Če licence spremenite sredi obdobja, je to prikazano na naslednjem računu. Morda boste prejeli dobropis in nov račun za prejšnje obdobje storitve za obračun te spremembe.
 
 - Naročnina je bila preklicana. Po preklicu naročnine boste prejeli račun z morebitnimi neporavnanimi zneski in upoštevanimi morebitnimi dobropisi.
 
 - Naročnino ste podaljšali za novo obdobje in cena licence se je spremenila.
 
-Če želite več informacij o računu, glejte: [razumevanje računa](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+Če želite več informacij o računu, glejte: [Razumevanje računa](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)

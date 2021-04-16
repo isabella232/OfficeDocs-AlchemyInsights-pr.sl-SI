@@ -2,39 +2,40 @@
 title: Uporaba MIP SKD
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "5631"
-ms.openlocfilehash: cbd35b48bc7d9f0c7b254ae5b16aa118d29fe34c
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: 79da600622cc02a3c959a32c84a413bb262bdc4b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358689"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51770971"
 ---
 # <a name="using-mip-skd"></a>Uporaba MIP SKD
 
-Če želite uporabljati SDK za MIP, potrebujete več korakov za namestitev in konfiguriranje naročnine na Office 365 in odjemalske delovne postaje. Ti koraki vključujejo:
+Za uporabo MIP SDK je potrebnih več korakov za nastavitev in konfiguracijo naročnine na Office 365 in odjemalske delovne postaje. Ti koraki so:
 
-- Prijavite se za naročnino na Office 365.
+- Prijava za naročnino na Office 365 Business.
 - Konfigurirajte oznake občutljivosti.
 - Konfigurirajte odjemalsko delovno postajo.
-- Registrirajte odjemalsko aplikacijo s storitvijo Azure Active Directory.
-- Zahtevajte sporazum o integraciji informacij o varstvu podatkov (IPIA).
-- Zagotovite, da ima aplikacija zahtevano izvajalno okolje.
+- Registrirajte odjemalski program z domenskimi storitvami Azure Active Directory.
+- Zahtevajte sporazum o integraciji zaščite informacij (IPIA).
+- Prepričajte se, da ima vaša aplikacija zahtevani izvajalnik.
 
-Če želite več informacij o korakih, glejte [namestitev in konfiguriranje kompleta za razvoj programske opreme MIP SDK](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
+Če želite več informacij o teh korakih, glejte [Namestitev in konfiguracija MIP SDK](https://docs.microsoft.com/information-protection/develop/setup-configure-mip).
 
-Za dodatna sredstva glejte:
+Če želite dodatne vire, glejte:
 
-- [Dokumentacija SDK za Microsoftovo zaščito informacij](https://docs.microsoft.com/information-protection/develop/)
-- [Vodnik za razvijalce za varstvo podatkov Azure](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
-- [Travnato gričevje mikroskop sporočilo varstvo software razvoj oprema](https://www.microsoft.com/download/details.aspx?id=57392)
-- [Nastavitev in konfiguracija SDK za Microsoftovo informacijsko zaščito (MIP)](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
-- [Vzorci kode Azure za SDK za MIP](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)
+- [Dokumentacija za Microsoft Information Protection SDK](https://docs.microsoft.com/information-protection/develop/)
+- [Vodnik razvijalca storitve Azure Information Protection](https://docs.microsoft.com/azure/information-protection/develop/developers-guide)
+- [Prenesite razvojni komplet za programsko opremo Microsoft Information Protection](https://www.microsoft.com/download/details.aspx?id=57392)
+- [Namestitev in konfiguracija Microsoft Information Protection (MIP) SDK](https://docs.microsoft.com/information-protection/develop/setup-configure-mip)
+- [Vzorci kode Azure za MIP SDK](https://azure.microsoft.com/resources/samples/?sort=0&term=mipsdk)

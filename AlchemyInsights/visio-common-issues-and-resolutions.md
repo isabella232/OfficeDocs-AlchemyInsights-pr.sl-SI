@@ -2,21 +2,22 @@
 title: Pogosta vprašanja in ločljivosti Visia
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 2310ae0d9b719830fc9d0e937909ff988eb9f2bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: MT
+ms.openlocfilehash: 759991c9e22facbfac54ae686ae7af60faef404a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505215"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806602"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>Pogosta vprašanja in ločljivosti Visia
 
@@ -24,7 +25,7 @@ Tukaj je nekaj pogostih vprašanj, ki so na voljo v programu Microsoft Visio:
 
 **Možnosti storitve Visio online**
 
-- Visio je prodan kot [samostojna aplikacija](https://products.office.com/visio/flowchart-software). Skrbniki lahko kupijo [Visiovo naročnino](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) iz skrbniškega središča Microsoft 365.
+- Visio je prodan kot [samostojna aplikacija](https://products.office.com/visio/flowchart-software). Skrbniki lahko kupijo [naročnino na Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) iz skrbniškega središča za Microsoft 365.
 
 - Visio ponuja [različne naročniške pakete](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). Če v Visiu manjka funkcija, [primerjajte Visiove možnosti](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options), če želite izvedeti več o razlikah med paketoma 1 in paketom 2.  Upoštevajte, da Visio online paket 1 ne vključuje namizne različice Visia.
 

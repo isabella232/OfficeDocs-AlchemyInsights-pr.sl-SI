@@ -2,7 +2,7 @@
 title: Potrebujete kopijo računa ali uporabe
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 5ec935ddd9e273561886831e60c98ae1a542f9da
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808377"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812435"
 ---
-# <a name="get-a-copy-of-your-bill-or-usage"></a>Pridobivanje kopije računa ali uporabe
+# <a name="get-a-copy-of-your-bill-or-usage"></a>Pridobite kopijo računa ali uporabe
 
-**Prenos računa Azure (. pdf)**
+**Prenesite račun Azure (.pdf)**
 
-1. Na [strani](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) » naročnine «na spletnem portalu Azure izberite svojo naročniško razmerje kot uporabnik, ki [ima dostop do računov](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) , nato pa izberite **računi** .
-2. Kliknite **Prenesi račun** , če si želite ogledati kopijo računa PDF. Če je navedeno, da **ni na voljo** , glejte [zakaj ne vidim računa za zadnje obdobje obračunavanja?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. Dnevno uporabo si lahko ogledate tudi tako, da kliknete obdobje obračunavanja, če želite pridobiti PDF računa in kopijo svoje podrobne dnevne datoteke za uporabo (. CSV): [pridobite podatke o računu in uporabi](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. Izberite naročnino na strani [»Naročnine« v](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) portalu Azure kot uporabnik z [dostopom do računov,](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) nato pa izberite **»Računi«**
+2. Kliknite **Prenesi račun,** da si ogledate kopijo računa PDF. Če piše **Ni na** voljo, glejte Zakaj ne vidim računa za zadnje obdobje [obračunavanja?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. Dnevni prikaz dnevne uporabe si lahko ogledate tudi tako, da kliknete obdobje obračunavanja Če želite pridobiti PDF računa in kopijo podrobne datoteke o dnevni uporabi (. CSV: [Pridobite podatke o računu in uporabi](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Pridobivanje računa v e-pošti (. pdf)**
+**Dobite račun po e-pošti (.pdf)**
 
-1. Izberite svojo naročnino na [strani](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)naročnin. Kliknite **računi** nato **Pošlji e-pošto na moj račun**
-2. Kliknite **opt** in Sprejmi pogoje. Za vsako naročnino, ki jo imate, boste morali izbrati. Opomba: Če po korakih ne dobite e-poštnega sporočila, se prepričajte, da je vaš e-poštni naslov pravilen v [nastavitvah komunikacije v profilu](https://account.windowsazure.com/profile) .
-3. [Računi v storitvi Azure e-pošte neposredno v mapo» Prejeto «](https://azure.microsoft.com/blog/azure-email-invoices/)
+1. Izberite naročnino na [strani Naročnine.](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) Kliknite **»Računi« in** nato **»Pošlji moj račun po e-pošti«**
+2. Kliknite **privolitev v sodelovanje in** sprejmite pogoje. Privolirati boste morali v vsako naročnino, ki je v lasti vas. Opomba: Če po korakih ne dobite e-poštnega sporočila, preverite, ali je vaš e-poštni naslov pravilen v nastavitvah [komunikacije v profilu.](https://account.windowsazure.com/profile)
+3. [Računi Azure, poslani neposredno v mapo »Prejeto«](https://azure.microsoft.com/blog/azure-email-invoices/)
 
 **Razumevanje dnevne uporabe:**  
  [Razumevanje računa za Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Upravljanje stroškov:** [preprečevanje nepričakovanih stroškov z upravljanjem Azure obračunavanja in stroškov](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**Upravljanje stroškov: Preprečevanje** [nepričakovanih stroškov z upravljanjem obračunavanja in stroškov v storitvi Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**Microsoft Customer (MCA)** :
+**Microsoftova pogodba za stranke (MCA)**:
 
-Preberite  [, kako preverite dostop do Microsoftove pogodbe s strankami?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
-Če imate [pogodbo za Microsoftovo stranko](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement), lahko prenesete uporabo v [portalu Azure](https://portal.azure.com/)
+Naučite  [se preveriti dostop do Microsoftove pogodbe za stranke?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
+Če imate Microsoftovo pogodbo za [stranke,](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)lahko prenesete uporabo na [portalu Azure](https://portal.azure.com/)
 
-**Pridobite račune Microsoftovih kupcev v e-pošti** :
+**Po e-pošti pridobite račune Microsoftove pogodbe za stranke:**
 
-Če imate pogodbo za Microsoftovo stranko, se lahko odločite, da prejmete račun v e-poštnem sporočilu. Vsi lastniki profilov za obračunavanje, sodelavci, bralci in upravitelji računov bodo prejeli račun po e-pošti. Bralci ne morejo posodobiti preference e-poštnega računa
+Če imate Microsoftovo pogodbo za stranke, lahko privolite v pošiljanje računa prek e-pošte. Vsi lastniki profilov za obračunavanje, sodelavci, bralci in upravitelji računov bodo prejeli račun po e-pošti. Bralci ne morejo posodobiti nastavitve e-poštnega računa
 
-- Poiščete **stroške Management + obračunavanje** . Izberite **profil obračunavanja** . V razdelku nastavitve izberite **lastnosti**
-- V razdelku e-poštni račun izberite **Posodobi preference e-poštnega računa** . Izberite opt in (Izberi). Kliknite **Posodobi**
+- Poiščite **Upravljanje stroškov + obračunavanje**. Izberite profil za **obračunavanje**. V razdelku »Nastavitve« izberite **»Lastnosti«**
+- V razdelku E-poštni račun izberite **Posodobi nastavitve e-poštnega računa.** Izberite privolitev v sodelovanje. Kliknite **»Posodobi«**
 
-**Poslovna pogodba (EA)**
+**Pogodba za poslovna podjetja (EA)**
 
-Če si želite ogledati podatke o uporabi in jih prenesti kot stranko EA, morate biti skrbnik podjetja, lastnik računa ali skrbnik oddelka z omogočenim pravilnikom za ogled stroškov.
+Če si želite ogledati in prenesti podatke o uporabi kot stranka EA, morate biti skrbnik podjetja, lastnik računa ali skrbnik oddelka z omogočenim pravilnikom za prikaz stroškov.
 
-- Vpišite se v portal Azure. Poiščete **stroške Management + obračunavanje** . Izbira profila obračunavanja
-- Izberite uporaba + stroški. Za mesec, ki ga želite prenesti, izberite Prenesi
+- Vpišite se v portal Azure. Poiščite **Upravljanje stroškov + obračunavanje**. Izberite profil za obračunavanje
+- Izberite Uporaba + stroški. Za mesec, ki ga želite prenesti, izberite Prenesi
 
 **Naročnina na MOSP Azure**  
-[Prenos računa naročnine na MOSP Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
+[Prenos računa za naročnino na MOSP Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
 
-**Odpravljanje težav: ne morem si ogledati računa za zadnje obdobje obračunavanja?**
+**Odpravljanje težav: Ali ne vidite računa za zadnje obdobje obračunavanja?**
 
-Nekaj možnih razlogov, zakaj morda ne vidite računa:
+Nekateri možni razlogi, zakaj ne vidite računa:
 
-- Imate mesečni znesek kredita z naročnino, ki je niste presegli ali pa imate brezplačno preskusno različico. Račun je ustvarjen le, ko dolgujete denar.
-- To je manj kot 30 dni od dneva, ko ste naročeni na Azure
-- Račun še ni ustvarjen. Počakaj do konca obdobja obračunavanja
-- Če niste skrbnik računa, starejši računi morda ne bodo na voljo za vas **Opomba** : Microsoft ne zagotavlja nobenih poročil o uporabi ali podatkov o porabi za stranke Azure CSP. Podatki o uporabi partnerskega središča so s partnerjem obrnjeni
-- Več informacij o sistemu AIO (Azure in Open) za obračunavanje in uporabo: [Azure in Open](https://azure.microsoft.com/offers/ms-azr-0111p/)
+- Za naročnino imate mesečni znesek dobropisa, ki ga niste presegli ali pa imate brezplačen preskus. Račun je ustvarjen le, če ste dolžni denar
+- Čez manj kot 30 dni od dneva, ko ste se naročili na Azure
+- Račun še ni ustvarjen. Počakajte do konca obračunskega obdobja
+- Če niste skrbnik računa, morda starejši računi ne bodo na voljo za vas **Opomba:** Microsoft strankam storitve Azure CSP ne posreduje poročil o uporabi ali porabe. Podatki o uporabi središča za partnerje so na voljo za partnerje
+- Preberite več o storitvi AIO (Azure v odprtem) obračunavanju in uporabi: [Azure v odprtem](https://azure.microsoft.com/offers/ms-azr-0111p/)
 
 **Priporočeni dokumenti**
 
 - [Zakaj morda ne vidite računa?](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-- [Zahteva/prenos/ogled računa Azure obračunavanje in uporaba podatkov](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Kako lahko e-poštne račune v storitvi» Prejeto «neposredno pošljete](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Zahtevanje/prenos/ogled računa za obračun za Azure in podatkov o uporabi](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Pošiljanje računov iz storitve Azure neposredno v mapo »Prejeto«](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Razumevanje podrobnih stroškov uporabe](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support#csv)
-- [Razumete izraze na računu](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Razumevanje pogojev na računu](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Razumevanje računa Azure CSP](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)

@@ -2,21 +2,22 @@
 title: Dovoljeno obdobje za brezplačno preskusno različico okolja Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5479"
-ms.openlocfilehash: d7c4e97371a4c9a8643573bebd114b18cb60c866
-ms.sourcegitcommit: 69663ab72f62f72ad28d43a08328c74caaa697bc
+ms.openlocfilehash: d4cfecf90fbc255bbd7ce396accdf8698f17b12f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44016992"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811832"
 ---
 # <a name="grace-period-for-microsoft-365-free-trial"></a>Dovoljeno obdobje za brezplačno preskusno različico okolja Microsoft 365
 

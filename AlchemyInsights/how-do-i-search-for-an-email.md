@@ -1,8 +1,8 @@
 ---
-title: Kako poiščem e-poštno sporočilo?
+title: Kako poiščem e-pošto?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3054"
 - "9001093"
-ms.openlocfilehash: ca787699c55d377784d269651b19b39b4345acee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 070a264f6af068e09a4d1143b95dabcaf4aeae04
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781695"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811112"
 ---
-# <a name="how-do-i-search-for-an-email"></a>Kako poiščem e-poštno sporočilo?
+# <a name="how-do-i-search-for-an-email"></a>Kako poiščem e-pošto?
 
-E-poštno sporočilo lahko poiščete tako, da si ogledate stik, ki vam je poslal e-poštno sporočilo, ali iskanje ključne besede, ki je v e-poštnem sporočilu.
+E-poštno sporočilo lahko poiščete tako, da poiščete stik, ki vam je poslal e-poštno sporočilo, ali tako, da poiščete ključno besedo, ki jo najdete v e-poštnem sporočilu.
 
-Tapnite povečevalno steklo v spodnji vrstici za krmarjenje. Nato vnesite zahtevo za iskanje v polje na vrhu zaslona. 
+Tapnite povečevalno steklo na spodnji vrstici za krmarjenje. Nato vnesite zahtevo za iskanje v polje na vrhu zaslona. 
 
-**Namig:** S povečevalnim steklom lahko dvotapnite, da se osredotočite na iskalno polje. Rezultati bodo prikazani med vnosom zahteve. 
+**Namig:** Dvotapnite povečevalno steklo, da fokus pripnete v iskalno polje. Rezultati bodo prikazani med tipkanjem zahteve. 

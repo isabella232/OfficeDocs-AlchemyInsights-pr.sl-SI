@@ -1,29 +1,30 @@
 ---
-title: Spreminjanje zaganjalnika aplikacij za Microsoft 365
+title: Spreminjanje Zaganjalnika programov v storitvi Office 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003052"
 - "5811"
-ms.openlocfilehash: adb59243b9d5abd6629848917fa99236b9d5e365
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
-ms.translationtype: MT
+ms.openlocfilehash: 1894d1c9b32318fdb69c613ab94325fc19ad04f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650442"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794920"
 ---
-# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Spreminjanje zaganjalnika aplikacij za Microsoft 365
+# <a name="make-changes-to-the-microsoft-365-app-launcher"></a>Spreminjanje Zaganjalnika programov v storitvi Office 365
 
-V Zaganjalnik aplikacij lahko dodate lastne ploščice po meri, ki kažejo na SharePointova mesta, zunanja spletna mesta, podedovane aplikacije in druge.
+V zaganjalnik aplikacij lahko dodate lastne ploščice po meri, ki kažejo na SharePointova spletna mesta, zunanja spletna mesta, starejše aplikacije in še več.
 
-1. [Zaganjalniku aplikacij v skrbniškem središču dodajte ploščico po meri](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) tako, da greste na **Nastavitve > org Settings** in izberete zavihek **organizacijski profil** .
-2. [Poviša ploščice v Zaganjalnik aplikacij](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher) tako, da **aplikacijo pripnete** v zaganjalnik.
-3. [Uredite ali izbrišite ploščico po meri](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile) , če se je nekaj spremenilo za aplikacijo.
+1. [Dodajte ploščice po meri v zaganjalnik aplikacij](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher) v skrbniškem centru tako, da odprete **Nastavitve > Nastavitve organizacije**  in izberite zavihek **Profil organizacije**.
+2. [Povišajte ploščico v zaganjalnik aplikacij](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#promote-the-tile-to-app-launcher) tako, da **aplikacijo pripnete** na zaganjalnik.
+3. [Uredite ali izbrišite ploščico po meri](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher#edit-or-delete-a-custom-tile), če se je kaj spremenilo za aplikacijo.
 
-Če želite več informacij, glejte [prilagajanje zaganjalnika aplikacij](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher).
+Za več informacij glejte [Prilagajanje zaganjalnika aplikacij](https://docs.microsoft.com/microsoft-365/admin/manage/customize-the-app-launcher).

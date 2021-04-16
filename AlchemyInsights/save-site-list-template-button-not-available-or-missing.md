@@ -1,31 +1,32 @@
 ---
-title: Shrani gumb predloge mesta/seznama, ki ni na voljo ali manjka
+title: Gumb za shranjevanje predloge mesta/seznama ni na voljo ali manjka
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5709"
-ms.openlocfilehash: 90ff4b0d84f9d27ea9662014545fb7045a720aea
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
-ms.translationtype: MT
+ms.openlocfilehash: a7dadd6fed2d6623c60e66a6ac564b6160be5aa5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358534"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789304"
 ---
-# <a name="save-sitelist-template-button-not-available-or-missing"></a>Shrani gumb predloge mesta/seznama, ki ni na voljo ali manjka
+# <a name="save-sitelist-template-button-not-available-or-missing"></a>Gumb za shranjevanje predloge mesta/seznama ni na voljo ali manjka
 
-Zmožnost shranjevanja spletnega mesta kot predloge ni podprta s sodobnimi komunikacijskimi ali skupinskega mesta. Če želite več informacij o uporabi predlog [, glejte shranjevanje, prenos in nalaganje SharePointovega mesta kot predloge](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
+Sodobna spletna mesta za komunikacijo ali skupino ne podpirajo možnosti shranjevanja spletnega mesta kot predloge. Če želite več informacij o uporabi predlog mest, glejte [Shranite, prenesite in naložite mesto programa SharePoint kot predlogo](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
-Skrbniki bodo morali dovoliti skript po meri za omogočanje funkcij predloge. Za podrobnejše korake, primere in premisleke glej:
+Skrbniki bodo morali omogočiti skript po meri, da omogočijo funkcije predloge. Za podrobne korake, primere in premisleke glejte:
 
 - [Omogočanje ali preprečevanje skripta po meri](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- Ukaz» Shrani mesto kot predlogo «ni podprt in lahko povzroči težave na spletnih mestih, ki uporabljajo infrastrukturo za objavljanje strežnika SharePoint Server.
+- Ukaz Shrani mesto kot predlogo ni podprt in lahko povzroči težave na mestih, ki uporabljajo infrastrukturo strežnika SharePoint Server za objavljanje.
 
 

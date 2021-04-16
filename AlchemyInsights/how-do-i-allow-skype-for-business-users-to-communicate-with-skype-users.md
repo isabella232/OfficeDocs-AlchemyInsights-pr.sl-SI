@@ -1,8 +1,8 @@
 ---
-title: Kako omogočim uporabnikom storitve Skype za podjetja, da komunicirajo z uporabniki Skype
+title: Kako uporabnikom Skypa za podjetja omogočim komunikacijo z uporabniki Skypa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000726"
 - "2649"
-ms.openlocfilehash: 6702f64f70f752667167b41e79c510367f95bfb7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e43ecf3af5311c6361b058918a4260c2cf8ef1be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781947"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811328"
 ---
-# <a name="let-skype-for-business-users-add-skype-contacts"></a>Dovoli uporabnikom Skype za podjetja dodajanje stikov iz storitve Skype
+# <a name="let-skype-for-business-users-add-skype-contacts"></a>Dovolite uporabnikom Skypa za podjetja, da dodajo stike v Skypu
 
-S programom Skype za podjetja lahko uporabniki poiščejo in pošiljajo podatke z vsemi, ki uporabljajo Skype, brezplačno aplikacijo! V tem članku je razloženo, kaj morate narediti, da bodo lahko dodali stike v storitvi Skype.
+S Skypom za podjetja lahko uporabniki poiščejo brezplačno aplikacijo Skype in NS z vsemi, ki uporabljajo Brezplačno aplikacijo Skype. V tem članku je razloženo, kaj morate narediti, če želite, da uporabniki lahko dodajajo stike v storitvi Skype.
 
-[Dovoli uporabnikom Skype za podjetja dodajanje stikov iz storitve Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)
+[Dovolite uporabnikom Skypa za podjetja, da dodajo stike v Skypu](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts)

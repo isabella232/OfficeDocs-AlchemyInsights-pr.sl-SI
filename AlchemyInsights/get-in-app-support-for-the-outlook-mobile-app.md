@@ -1,8 +1,8 @@
 ---
-title: 1800014 – podpora za aplikacijo Outlook Mobile
+title: 1800014 Pridobite podporo v aplikaciji za Outlookovo mobilno aplikacijo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,21 +14,21 @@ ms.custom:
 - "317"
 - "1800014"
 ms.assetid: ae8140e0-1802-4387-9fcc-3e4deda115d8
-ms.openlocfilehash: fe099b2cf0a596900c4e5a9b35d5d8f8b1ac5d07
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8912f52a968ce0d406479d4f1a403fd452b7126c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707727"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812300"
 ---
-# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Podpora za aplikacijo Outlook Mobile
+# <a name="get-in-app-support-for-the-outlook-mobile-app"></a>Pridobite podporo v aplikaciji za outlookovo mobilno aplikacijo
 
-1. V programu Outlook Mobile odprite **meni**.
+1. V outlookovi mobilni aplikaciji odprite **meni**.
 
-2. Izberite vprašaj, če želite odpreti zaslon s ** &amp; povratnimi informacijami za pomoč** .
+2. Izberite vprašaj, da odprete zaslon Povratne **informacije &amp; pomoči.**
 
-3. Tapnite **stik s podporo** in razložite težavo.
+3. Tapnite **Obrnite se na** podporo in pojasnite svojo težavo.
 
-4. Tapnite **Pošlji** in prejeli boste obvestilo v aplikaciji, ko vas bo posrednik s podporo poveže s stikom.
+4. Tapnite **Pošlji** in prejeli boste obvestilo v aplikaciji, ko vas posrednik za podporo obvesti.
 
-Če želite podrobna navodila, glejte [pridobivanje pomoči v aplikaciji za Outlook za iOS in Android](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support).
+Če želite podrobna navodila, [glejte Dobite pomoč v aplikaciji za Outlook za iOS in Android.](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
