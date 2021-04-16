@@ -2,7 +2,7 @@
 title: Več informacij o računu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: 83d19b73f46a3634d67b7223f01aee8c036bec95
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 58f775b89e574b03ad8d927c0952ad1c1d66243d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808392"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51782707"
 ---
 # <a name="understand-billing-amount"></a>Razumevanje zneska obračunavanja
 
-Ponudba za brezplačen račun Azure vključuje $200 za Azure Credit (ki jih je treba uporabiti v prvih 30 dneh prijave) in 12 mesecev izbire brezplačnih storitev (odvisno od spremembe)
+Ponudba za brezplačni račun za Azure vključuje 200 $ dobropisov za Azure (ki se uporabi v prvih 30 dneh po prijavi) in 12 mesecev za izbiro brezplačnih storitev (ki se lahko spremenijo)
 
-Ta ponudba je omejena na en vpis na upravičenega odjemalca in je ni mogoče združiti z nobeno drugo ponudbo, razen če Microsoft ne dovoli drugače
+Ta ponudba je omejena na eno včlanitev na upravičenega kupca in je ni mogoče združiti z nobeno drugo ponudbo, razen če Microsoft ne dovoljuje drugače
 
-V 30 dneh od prijave ali na izčrpanje kupčevih kreditov (odvisno od tega, kateri se zgodi prej), mora odjemalec nadgraditi na račun s plačilom kot vi, tako da odstranite omejitev porabe. To omogoča nadaljnjo uporabo brezplačnega računa Azure za preostale 11 mesecev. Ko je stranka nadgrajena, se uporabi zunaj začetnih kreditov in izberite brezplačne storitve, ki bodo zaračunane na ravni Pay-as-you-go. Če se stranka ne more nadgraditi, bo brezplačna naročnina na račun onemogočena.
+V 30 dneh od vpisa ali po tem, ko je odtegnjeno od strankinega dobroimetja (kar koli se zgodi prej), mora stranka nadgraditi na račun »Pay-As-You-Go, tako da odstrani omejitev za porabo«. To omogoča nadaljnjo uporabo brezplačnega računa za Azure za preostalih 11 mesecev. Ko stranka nadgradi, bo uporaba zunaj začetnih dobroimetij in izbor brezplačnih storitev zaračunana po cenah pay-as-you-go. Če stranka ne izbere, da bo nadgrajena, bo naročnina na brezplačni račun onemogočena.
 
-Več informacij: [izdelki, ki so na voljo mesečno brezplačno v okviru brezplačnega računa Azure](https://azure.microsoft.com/free/free-account-faq/)
+Več informacij: [z brezplačnim računom Azure vsak mesec na voljo brezplačno](https://azure.microsoft.com/free/free-account-faq/)
 
-**Vnovično omogočanje naročnine je onemogočeno po 30 dneh**
+**Ponovno omogočanje naročnine je onemogočeno po 30 dneh**
 
-- Ko znova omogočite in pretvorite brezplačen preskusno naročnino na PAYG brezplačne vključene storitve, naj se začnejo od trenutka, ko je naročnina omogočena. Poleg tega boste v primeru, ko vas pretvorite v brezplačen račun v storitvi X (razen PAYG), pomotoma še naprej prejemali prednosti.
+- Ko znova omogočite brezplačno preskusno naročnino in jo pretvorite v brezplačne vključene storitve PAYG, bi se morale začeti s časom, ko je naročnina omogočena. Poleg tega, če pretvorite brezplačni račun za Azure v ponudbo X (ki ni PAYG) pomotoma, boste še vedno prejemali ugodnosti.
 
-več: 
-- [Vnovična omogočanje naročnine](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
+Več informacij: 
+- [Ponovno omogočanje naročnine](https://docs.microsoft.com/azure/billing/billing-subscription-become-disable?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Preklic naročnine na Azure](https://docs.microsoft.com/azure/billing/billing-how-to-cancel-azure-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Nepričakovane stroške za račun**
+**Nepričakovani stroški za račun**
 
-- Če v računu vidite nepričakovane stroške, prenesite podatke o uporabi in preverite, ali so na voljo neželene storitve ali viri.
-- Več informacij: [prenos podatkov](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage) v storitvi Azure
+- Če so v vašem računu nepričakovani stroški, prenesite podatke o uporabi in preverite, ali imate kakršne koli neželene storitve ali vire, ki se izvajajo
+- Več informacij: [podatke o uporabi storitve Azure](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#download-usage)
 
-**Pogosta vprašanja:**
+**Pogosta vprašanja**
 
-**Ali plačujem vse, ko sem na brezplačnem računu Azure?**
+**Ali moram kaj plačati, ko uporabljam brezplačni račun za Azure?**
 
-Zaračunali boste le, če boste uvedli storitve, ki niso vključene v brezplačen račun Azure. Šele po tem, ko izčrpate kredit za $200 ali dosežejo 30-dnevno obdobje (kar koli je prej), boste začeli obračunavati na ravni Pay-as-you-go.
+Storitev vam bomo zaračunali le, če uvedete storitve, ki niso vključene v brezplačni račun za Azure. Šele potem, ko ste izpraznili dobroimetje za 200 $ ali dosegli 30-dnevno obdobje (kar koli se zgodi prej), boste začeli plačevati stroške po cenah, ki jih plačujete kot na primer Pay-As-You-Go.
 
-**Koliko naročnine na Azure Free Account lahko uporabim v svojem računu?**  
+**Koliko naročnin na brezplačni račun za Azure lahko uporabljam v mojem računu?**  
 
-Na računu je na voljo omejitev ene brezplačne naročnine na račun Azure.
+Obstaja omejitev ene naročnine na brezplačni račun za Azure na račun.
 
-**Kako deluje brezplačen račun za Azure s strankami za podjetja dogovore (EA)?**  
+**Kako deluje storitev Azure Free Account s strankami, ki imajo sklenjeno pogodbo Enterprise (EA)?**  
 
-Ta ponudba ni na voljo za stranke EA. Če pa ima stranka brezplačen račun in se pozneje preoblikuje v EA, se bodo brezplačne prednosti računa nadaljevale 12 mesecev od trenutka brezplačne prijave računa.
+Ta ponudba ni na voljo za stranke storitve EA. Če pa ima stranka brezplačen račun in se pozneje pretvori v stopnjo EA, se bodo prednosti brezplačnega računa nadaljevale še 12 mesecev od časa vpisa v brezplačni račun.
 
-**Ali bodo storitve na voljo v brezplačni stopnji, ki jo porabijo od začetnih $200 kreditov?**  
+**Ali bodo storitve, ki so na voljo na brezplačni ravni, porabile začetno dobroimetje za 200 $?**  
 
-ne. Stranke prejmejo nespremenljivo štetje brezplačnih storitev tier in $200 kreditov za prvih 30 dni. Tako lahko stranka uporabi dobropis $200 na drugih storitvah, ki niso brezplačne.
+Ne. Stranke bodo v prvih 30 dneh dobile nespremenljivo število storitev na ravni Free Tier in dobropis za 200 $. Torej bi stranka lahko na podlagi dobropisa za 200 $ uporabil druge storitve, ki niso proste stopnje.
 
-**Ali si lahko ogledam svoje podatke o sponzorstvu?**
+**Ali si lahko ogledam podrobnosti sponzorstva?**
 
-- Odpreti zasebno/nebeleženje okna brskalnika (Ctrl + Shift + P in Edge)
-- Pomikanje v storitvi [Azure sponzorstva](http://www.microsoftazuresponsorships.com/)
-- Kliknite povezavo preveri ravnotežje
-- Prijavite se s poverilnicami za sponzorirane račune Azure vlade (prijave morajo uporabljati obliko zapisa user.name@xxxx.onmicrosoft.com)
-- Usmerjeni boste na stran, ki prikazuje te informacije: začetni datum, končni datum, znesek sponzorstva, uporabljeno, preostalo ravnovesje
+- Odpiranje zasebnega okna/okna brez beleženja beleženja zaslona v brskalniku (Ctrl + Shift + P v brskalniku Edge)
+- Poiščite [Azure](http://www.microsoftazuresponsorships.com/)
+- Kliknite povezavo »Preveri stanje«
+- Prijavite se s poverilnicami računa, ki jih sponzorira Azure Government (prijava mora uporabljati user.name@xxxx.onmicrosoft.com obliki zapisa)
+- Preusmerjeni boste na stran s prikazom teh informacij: začetni datum, končni datum, znesek sponzorstva, uporabljena, preostala saldo
 
-**Kako lahko preverim, ali so brezplačne storitve aktivne ali ko bodo potekle?**
+**Kako lahko preverim, ali so brezplačne storitve aktivne ali kdaj bodo potekle?**
 
-V portalu Ibiza> naročnina > pregled strani > se pomaknite navzdol do brezplačnih storitev za 12 mesecev in kliknite ikono informacije. S tem boste prikazali datum, ko brezplačne storitve potečejo **opombo** : nobena v1 storitev ni del storitve Azure Free vključeno. Za najnovejši seznam brezplačnih storitev si oglejte, [kateri izdelki so brezplačni za 12 mesecev](http://www.microsoftazuresponsorships.com/) .
+Na portalu > stran > »Pregled« > 12 mesecev premaknite do možnosti »Brezplačne storitve« in kliknite ikono »Informacije«. Prikazala se bo datum poteka brezplačnih storitev **Opomba**: Nobena storitev V1 ni del storitev Azure Free Included Services. Če želite posodobljen seznam brezplačnih storitev, glejte [Kateri izdelki so brezplačno za 12 mesecev](http://www.microsoftazuresponsorships.com/)
 
-Dodatna pogosta vprašanja: [brezplačni pogosta vprašanja o računu](https://azure.microsoft.com/free/free-account-faq/)
+Dodatna pogosta vprašanja: pogosta [o brezplačnem računu](https://azure.microsoft.com/free/free-account-faq/)
 
 **Priporočeni dokumenti**
 
-- [Terms Free ponudba za račun Azure](https://azure.microsoft.com/offers/ms-azr-0044p/)
-- [Cene Azure](https://azure.microsoft.com/pricing/)
+- [Pogoji ponudbe za brezplačni račun za Azure](https://azure.microsoft.com/offers/ms-azr-0044p/)
+- [Cene za Azure](https://azure.microsoft.com/pricing/)

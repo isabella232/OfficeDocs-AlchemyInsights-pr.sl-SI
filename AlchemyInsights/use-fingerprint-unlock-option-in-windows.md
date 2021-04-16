@@ -1,8 +1,8 @@
 ---
-title: Uporaba možnosti odklepanja prstnih odtisov v sistemu Windows 10
+title: Možnost odklepanja prstnih odtisov v sistemu Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001689"
 - "3765"
-ms.openlocfilehash: 99f037f62748c06d77b526e35f67b711885c4a1e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba1f2e7b0bb54e89178a320b8579b8d1bfdaff9a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795260"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796693"
 ---
-# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Uporaba možnosti odklepanja prstnih odtisov v sistemu Windows 10
+# <a name="use-fingerprint-unlock-option-in-windows-10"></a>Možnost odklepanja prstnih odtisov v sistemu Windows 10
 
-**Omogočanje pozdravnega prstnega odtisa sistema Windows**
+**Omogočanje prstnih odtisov s funkcijo Windows Hello**
 
-Če želite odkleniti Windows 10 s prstnim odtisom, morate nastaviti pozdravni prstni odtis sistema Windows, tako da dodate (oddajanje sistema Windows se naučite prepoznati) vsaj en prst. 
+Če želite odkleniti sistem Windows 10 s prstnim odtisom, morate nastaviti prstni odtis Windows Hello tako, da dodate vsaj en prst (tako da sistem Windows prepozna). 
 
-1. Pojdite na **nastavitve > računov > možnosti za vpis** (ali kliknite [tukaj](ms-settings:signinoptions?activationSource=GetHelp)). Na voljo bodo navedene možnosti za vpis. Na primer:
+1. Pojdite na **Nastavitve > Računi > možnosti vpisa** (ali kliknite [tukaj](ms-settings:signinoptions?activationSource=GetHelp)). Na seznamu bodo navedene razpoložljive možnosti za vpis. Na primer:
 
     ![Možnosti vpisa.](media/sign-in-options.png)
 
-2. Kliknite ali tapnite **Pozdravni prstni odtis sistema Windows**, nato pa kliknite **Nastavi**. V oknu Windows hello **setup kliknite Začni**. Senzor prstnih odtisov bo aktiviran in pozvani boste, da postavite kazalec na tipalo:
+2. Kliknite ali tapnite **Windows Hello prstni** odtis , nato pa kliknite **Nastavitev**. V oknu za namestitev Windows Hello kliknite **Uvod.** Senzor prstnih odtisov se bo aktiviral in pozvani boste, da postavite prst na senzor:
 
    ![Senzor prstnih odtisov.](media/fingerprint-sensor.png)
 
-3. Sledite navodilom, ki vas bodo pozvali, da večkrat skenirate prst. Ko je ta možnost končana, boste lahko dodali še druge prste, ki jih boste morda želeli uporabiti za vpis. Ko se naslednjič vpišete v sistem Windows 10, boste imeli na voljo možnost uporabe prstnega odtisa.
+3. Upoštevajte navodila, ki vas bodo pozvala, da večkrat pregledate prst. Ko bo ta rešitev končana, lahko dodate druge prste, ki jih boste morda želeli uporabiti za vpis. Ko se boste naslednjič vpisati v Windows 10, boste imeli možnost, da za to uporabite svoj prstni odtis.
 
-**Pozdravni prstni odtis sistema Windows ni na voljo kot možnost za vpis**
+**Možnost za vpis s prstnim odtisom Windows Hello ni na voljo**
 
-Če se prstni odtis sistema Windows ne prikaže kot možnost v **možnostih za vpis**, to pomeni, da Windows ne pozna nobenega bralnika prstnih odtisov ali skenerja, ki je priključen na vaš računalnik, ali da sistemska politika preprečuje njegovo uporabo (če je na primer vaš računalnik upravljan na delovnem mestu). Odpravljanje težav: 
+Če možnost Prstni odtis Windows Hello ni prikazana kot možnost v možnostih vpisa, sistem Windows ne pozna bralnika prstnih odtisov/optičnega bralnika, ki je priključen na računalnik, ali da sistemski pravilnik preprečuje njegovo uporabo (če na primer vaš računalnik upravlja vaše delovno mesto). Odpravljanje težav: 
 
-1. V opravilni vrstici izberite gumb **Start** in poiščite **upravitelja naprav**.
+1. Izberite gumb **za začetni** meni v opravilni vrstici in poiščite **Upravitelja naprav**.
 
-2. Kliknite ali tapnite, da odprete **upravitelja naprav**.
+2. Kliknite ali tapnite, da odprete **upravitelja naprav.**
 
-3. V upravitelju naprav razširite biometrične naprave tako, da kliknete njen Chevron.
+3. V upravitelju naprav razširite biometrične naprave tako, da kliknete škarne.
 
    ![Biometrične naprave.](media/biometric-devices.png)
 
-4. Bralnik prstnih odtisov bi moral biti naveden kot biometrična naprava, kot je na primer Synaptics WBDI Scanner:
+4. Optični bralnik za prstni odtis mora biti naveden kot biometrična naprava, kot je optični bralnik Synaptics WBDI:
 
    ![Biometrične naprave.](media/biometric-devices-expanded.png)
 
-5. Če skenerja prstnih odtisov ni prikazan in je optični bralnik vdelan v računalnik, obiščite spletno mesto izdelovalca računalnika. V razdelku tehnična podpora za model računalnika poiščite gonilnik sistema Windows 10 za skener, ki ga lahko namestite.
+5. Če bralnik prstnih odtisov ni prikazan in je optični bralnik integriran z vašim računalnikom, obiščite spletno mesto izdelovalca računalnika. V razdelku za tehnično podporo za svoj model računalnika poiščite gonilnik sistema Windows 10, da poiščete optični bralnik, ki ga lahko namestite.
 
-6. Če je optični bralnik ločen od računalnika (priloženo prek USB-ja), obiščite spletno mesto izdelovalca optičnega bralnika, da poiščete in namestite programsko opremo gonilnika naprave Windows 10 za model skenerja, ki ga imate.
+6. Če je optični bralnik ločen od računalnika (priključen prek USB-ja), obiščite spletno mesto izdelovalca optičnega bralnika in poiščite ter namestite programsko opremo gonilnika naprave s sistemom Windows 10 za model optičnega bralnika, ki ga imate.

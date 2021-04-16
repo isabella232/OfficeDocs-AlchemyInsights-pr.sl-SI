@@ -1,8 +1,8 @@
 ---
-title: Kako počistim predpomnilnik ali lokalno ponastavitev/osveževanje odjemalca/aplikacije?
+title: Kako počistim predpomnilnik ali lokalno ponastavim/osvežim odjemalca/aplikacijo?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e48bc08ac8098d8783bdf884aaf618feb1967327
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780291"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795964"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Kako počistim predpomnilnik ali lokalno ponastavitev/osveževanje odjemalca/aplikacije?
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>Kako počistim predpomnilnik ali lokalno ponastavim/osvežim odjemalca/aplikacijo?
 
-Če vidite nepopolne ali nepravilne podatke, poskusite prisiliti zapiranje in znova odpreti program.  
+Če so nepopolni ali nepravilni podatki, poskusite vsiliti zapiranje programa in ga znova odpreti.  
 
 Če to ne deluje, lahko poskusite ponastaviti račun v napravi.
  

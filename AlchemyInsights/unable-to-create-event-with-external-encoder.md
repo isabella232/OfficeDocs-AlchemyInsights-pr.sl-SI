@@ -1,8 +1,8 @@
 ---
-title: 'Teams: dogodek v živo – ni mogoče ustvariti dogodka z zunanjim kodirnikom'
+title: 'Teams: dogodek v živo – ustvarjanje dogodka z zunanjim kodirom ni mogoče'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1780"
 - "9000208"
-ms.openlocfilehash: 79da25365c9e3131f35c080ecd1c7f904d3c05e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8af975ce7d19e27b2eefda712ac778c0f703d6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796916"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51797017"
 ---
-# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Ali želite konfigurirati dogodek v živo z zunanjim kodirnikom?
+# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>Ali želite konfigurirati dogodek v živo z zunanjim kodirom?
 
-Če imate težave pri pridobivanju kodirnika za delo z dogodkom v živo, si oglejte dokumentacijo za nastavitev kodirnika: [Konfiguracija kodirnikov za prenos v živo v Microsoft streamu](https://docs.microsoft.com/stream/live-encoder-setup)
+Če imate težave pri delu z dogodkom v živo v aplikaciji Teams, glejte dokumentacijo za nastavitev kodirnika: Konfiguriranje kodirnikov za pretakanje v živo v storitvi [Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)
