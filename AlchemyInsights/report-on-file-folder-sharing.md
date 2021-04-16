@@ -1,8 +1,8 @@
 ---
-title: Poročilo o skupni rabi datotek in map na SharePointovih mestih
+title: Poročanje o skupni rabi datotek in map na SharePointovih mestih
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3049"
-ms.openlocfilehash: f6c0e7d183ee7d656d0dd63ed7af621c03f3ce94
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccf53ac09e6f5ad5bc48dcd8b31fb27b3a7c7b95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692383"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799033"
 ---
-# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a><span data-ttu-id="ac959-102">Poročilo o skupni rabi datotek in map na SharePointovih mestih</span><span class="sxs-lookup"><span data-stu-id="ac959-102">Report on file and folder sharing in SharePoint sites</span></span>
+# <a name="report-on-file-and-folder-sharing-in-sharepoint-sites"></a><span data-ttu-id="3e584-102">Poročanje o skupni rabi datotek in map na SharePointovih mestih</span><span class="sxs-lookup"><span data-stu-id="3e584-102">Report on file and folder sharing in SharePoint sites</span></span>
 
-<span data-ttu-id="ac959-103">Ustvarite lahko datoteko CSV, v kateri je podrobno opisana vsaka enolična datoteka, uporabnik, dovoljenje in povezava na določenem SharePointovem mestu ali v OneDrive knjižnici.</span><span class="sxs-lookup"><span data-stu-id="ac959-103">You can create a CSV file detailing every unique file, user, permission, and link on a given SharePoint site or OneDrive library.</span></span> <span data-ttu-id="ac959-104">S tem lahko razumete, kako se uporablja skupna raba, in ali so vse datoteke ali mape v skupni rabi z gosti.</span><span class="sxs-lookup"><span data-stu-id="ac959-104">This can help you understand how sharing is being used and whether any files or folders are being shared with guests.</span></span>
+<span data-ttu-id="3e584-103">Ustvarite lahko datoteko CSV s podrobnostmi o vsaki enolični datoteki, uporabniku, dovoljenju in povezavi na določenem SharePointovem mestu ali v knjižnici storitve OneDrive.</span><span class="sxs-lookup"><span data-stu-id="3e584-103">You can create a CSV file detailing every unique file, user, permission, and link on a given SharePoint site or OneDrive library.</span></span> <span data-ttu-id="3e584-104">Tako boste bolje razumeli, kako se uporablja skupna raba in ali so v skupni rabi z gosti poljubne datoteke ali mape.</span><span class="sxs-lookup"><span data-stu-id="3e584-104">This can help you understand how sharing is being used and whether any files or folders are being shared with guests.</span></span>
 
-<span data-ttu-id="ac959-105">Če želite več informacij, [poročilo o skupni rabi datotek in map na SharePointovem mestu](https://docs.microsoft.com/sharepoint/sharing-reports).</span><span class="sxs-lookup"><span data-stu-id="ac959-105">For more information, [Report on file and folder sharing in a SharePoint site](https://docs.microsoft.com/sharepoint/sharing-reports).</span></span>
+<span data-ttu-id="3e584-105">Če želite več informacij, [prijavite datoteko in skupno rabo map na SharePointovem mestu.](https://docs.microsoft.com/sharepoint/sharing-reports)</span><span class="sxs-lookup"><span data-stu-id="3e584-105">For more information, [Report on file and folder sharing in a SharePoint site](https://docs.microsoft.com/sharepoint/sharing-reports).</span></span>
 
 > [!NOTE]
-> <span data-ttu-id="ac959-106">Ta funkcija je trenutno uvedena za najemnike prve izdaje in se bo postopoma izkazala vsem najemnikom proizvodnje.</span><span class="sxs-lookup"><span data-stu-id="ac959-106">This feature is currently deployed to First Release tenants and will gradually rolling out to all Production tenants.</span></span>
+> <span data-ttu-id="3e584-106">Ta funkcija je trenutno uvedena za najemnike prve izdaje in bo postopoma uvedena za vse najemnike izdelkov.</span><span class="sxs-lookup"><span data-stu-id="3e584-106">This feature is currently deployed to First Release tenants and will gradually rolling out to all Production tenants.</span></span>
