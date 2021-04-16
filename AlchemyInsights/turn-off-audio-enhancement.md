@@ -1,8 +1,8 @@
 ---
-title: Izklop zvočne opreme
+title: Izklop zvočne izboljšave
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3477"
 - "9001463"
-ms.openlocfilehash: 110b604be9285126cd436a27de1f053dcfd7b63c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2ef63ec3a2358fc1c1aedfe1e280c46b3d0eb029
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797204"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808771"
 ---
-# <a name="turn-off-audio-enhancement"></a><span data-ttu-id="4e5ae-102">Izklop zvočne opreme</span><span class="sxs-lookup"><span data-stu-id="4e5ae-102">Turn off audio enhancement</span></span>
+# <a name="turn-off-audio-enhancement"></a><span data-ttu-id="13c07-102">Izklop zvočne izboljšave</span><span class="sxs-lookup"><span data-stu-id="13c07-102">Turn off audio enhancement</span></span>
 
-<span data-ttu-id="4e5ae-103">Upoštevajte te korake:</span><span class="sxs-lookup"><span data-stu-id="4e5ae-103">Follow these steps:</span></span>
+<span data-ttu-id="13c07-103">Upoštevajte te korake:</span><span class="sxs-lookup"><span data-stu-id="13c07-103">Follow these steps:</span></span>
 
-1. <span data-ttu-id="4e5ae-104">Pojdite na **začetni zaslon**, vnesite **zvok**in izberite **Nadzorna plošča za zvok** ali pa na seznamu rezultatov **spremenite sistemske zvoke** .</span><span class="sxs-lookup"><span data-stu-id="4e5ae-104">Go to **Start**, enter **Sound**, and select **Sound Control Panel** or **Change system sounds** from the list of results.</span></span>
+1. <span data-ttu-id="13c07-104">Pojdite na **Začetni** zaslon , **vnesite Zvok** in **na** seznamu rezultatov **izberite Nadzorna** plošča za zvok ali Spreminjanje sistemskih zvokov.</span><span class="sxs-lookup"><span data-stu-id="13c07-104">Go to **Start**, enter **Sound**, and select **Sound Control Panel** or **Change system sounds** from the list of results.</span></span>
 
-2. <span data-ttu-id="4e5ae-105">Na zavihku **predvajanje** z desno tipko miške kliknite (ali tapnite in pridržite) privzeto napravo in izberite **lastnosti**.</span><span class="sxs-lookup"><span data-stu-id="4e5ae-105">On the **Playback** tab, right-click (or tap and hold) the Default Device and select **Properties**.</span></span>
+2. <span data-ttu-id="13c07-105">Na **zavihku Predvajanje** z desno tipko miške kliknite (ali tapnite in pridržite) privzeto napravo in izberite **Lastnosti.**</span><span class="sxs-lookup"><span data-stu-id="13c07-105">On the **Playback** tab, right-click (or tap and hold) the Default Device and select **Properties**.</span></span>
 
-3. <span data-ttu-id="4e5ae-106">Na zavihku **izboljšave** potrdite potrditveno polje **Onemogoči vse zvočne učinke** in poskusite predvajati zvočno napravo.</span><span class="sxs-lookup"><span data-stu-id="4e5ae-106">On the **Enhancements** tab, select the **Disable all sound effects** check box and try to play your audio device.</span></span> <span data-ttu-id="4e5ae-107">Če to ne deluje, izberite **Prekliči** in na zavihku **predvajanje** izberite drugo privzeto napravo (če jo imate), potrdite potrditveno polje **Onemogoči vse zvočne učinke** in poskusite znova predvajati zvok.</span><span class="sxs-lookup"><span data-stu-id="4e5ae-107">If that doesn't work, select **Cancel** and, on the **Playback** tab, select another default device (if you have one), select the **Disable all sound effects** check box, and try to play audio again.</span></span> <span data-ttu-id="4e5ae-108">To naredite za vsako privzeto napravo.</span><span class="sxs-lookup"><span data-stu-id="4e5ae-108">Do this for each default device.</span></span>
+3. <span data-ttu-id="13c07-106">Na **zavihku Izboljšave** potrdite polje **Onemogoči vse zvočne učinke** in poskusite predvajati zvočno napravo.</span><span class="sxs-lookup"><span data-stu-id="13c07-106">On the **Enhancements** tab, select the **Disable all sound effects** check box and try to play your audio device.</span></span> <span data-ttu-id="13c07-107">Če to ne deluje, izberite Prekliči  in na zavihku Predvajanje izberite drugo privzeto  napravo (če jo imate), potrdite polje Onemogoči vse zvočne učinke in poskusite znova predvajati zvok. </span><span class="sxs-lookup"><span data-stu-id="13c07-107">If that doesn't work, select **Cancel** and, on the **Playback** tab, select another default device (if you have one), select the **Disable all sound effects** check box, and try to play audio again.</span></span> <span data-ttu-id="13c07-108">To naredite za vsako privzeto napravo.</span><span class="sxs-lookup"><span data-stu-id="13c07-108">Do this for each default device.</span></span>
