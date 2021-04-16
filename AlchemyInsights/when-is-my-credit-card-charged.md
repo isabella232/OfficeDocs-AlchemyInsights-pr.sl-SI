@@ -1,8 +1,8 @@
 ---
-title: Kdaj je zaračunana moja kreditna kartica?
+title: Kdaj se bremeni moja kreditna kartica?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: dd0dde092494fbea5a262bfee59725bde9ebeb28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7b8c8144f7ac042726ceeb537bbf98a296e507d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796412"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806098"
 ---
-# <a name="when-is-my-credit-card-charged"></a>Kdaj je zaračunana moja kreditna kartica?
+# <a name="when-is-my-credit-card-charged"></a>Kdaj se bremeni moja kreditna kartica?
 
-Z začetnim nakupom lahko traja največ dva dni, da pride do te bremenitve.
+Po začetnem nakupu lahko traja do dva dni, da se bremenitev pojavi.
   
-Ponavljajoče se dajatve se zgodijo v enem dnevu, ko je bil ustvarjen račun.
+Ponavljajoče se bremenitve se zgodijo v enem dnevu po tem, ko je bil račun ustvarjen.
   
-Če je dajatev neuspešna, bo sistem še naprej poskušal poravnati ravnotežje v naslednjih nekaj tednih. Podatke o plačilu lahko kadar koli izvedete, da zagotovite, da bo naslednji poskus naračuna uspešen. Če želite več informacij, glejte [upravljanje načinov plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Če bremeniti neuspešen, bo sistem še naprej poskušal poravnati stanje v naslednjih nekaj tednih. Podatke o plačilu lahko posodobite kadar koli in tako zagotovite, da je naslednji poskus bremenjenja uspešen. Če želite več informacij, glejte [Upravljanje načinov plačila.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
