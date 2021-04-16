@@ -1,8 +1,8 @@
 ---
-title: Project v računalnik s sistemom Windows
+title: Projic sem v računalnik s sistemom Windows
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001520"
 - "5610"
-ms.openlocfilehash: e527feec0b695b3e966ed627ca23cb1fc8f2fd34
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27775e3521cdad926f26e8d34738e8c7129fb8d9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801632"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809960"
 ---
-# <a name="project-to-a-pc"></a>Project v računalnik s sistemom Windows
+# <a name="project-to-a-pc"></a>Projic sem v računalnik s sistemom Windows
 
-V ciljni napravi (projektiranje) poiščite» nastavitve projekcije «, da odprete stran z nastavitvami za **projektiranje v ta računalnik**. Prepričajte se, da:
-- » Nekateri Windows in naprave s sistemom Android lahko Project v ta računalnik, ko menite, da je v redu «spustni meni je nastavljen na **vedno izkljuèen**.
-- Spustni meni» Zahtevaj Project to PC «je nastavljen na vsakič, **ko je zahtevana povezava**.
-- Spustni meni» Zahtevaj PIN za seznanjanje «je nastavljen na **nikoli**.
+V ciljni napravi poiščite »Nastavitve projekcije«, da odprete stran Nastavitve projiciranje **v ta računalnik.** Nato se prepričajte, da:
+- Spustni meni »Nekatere naprave s sistemom Windows in Android lahko projiciijo v ta računalnik, ko se prikaže, da je v redu«, je nastavljeno na **Vedno izklopljeno.**
+- Spustni meni »Prosite za projekt s tem računalnikom« je nastavljen na **Vsakič, ko je zahtevana povezava.**
+- Spustni meni »Zahtevaj PIN za seznanitev« je nastavljen na **Nikoli.**
 
-V ciljni napravi zaženite aplikacijo **Connect** , tako da **zaženete** in poiščete» Connect «.
+V ciljni napravi zaženite **aplikacijo Poveži** tako, da zaženete **Začetni** meni in poiščete »Poveži«.
 
-Nato v izvorni napravi, s katero poskušate Project:
+Nato v izvorni napravi, v tej napravi želite projicvati:
 
-1. Pritisnite tipko **Windows + A** , da odprete središče za opravila.
-2. Kliknite **vzpostavi povezavo**.
-3. Kliknite napravo, na katero želite prestaviti zaslon.
+1. Pritisnite **tipki Windows + A,** da odprete središče za opravila.
+2. Kliknite **Poveži.**
+3. Kliknite napravo, v jo želite projicvati na zaslonu.
 
-![Project v računalnik s sistemom Windows](media/project-to-a-pc.png)
+![Projic sem v računalnik s sistemom Windows](media/project-to-a-pc.png)
 
-Po zgornjih korakih mora vaša ciljna naprava prikazati zaslon izvorne naprave, kot da je sekundarni monitor.
+Po zgornjih korakih bi se morala ciljna naprava prikazati na zaslonu izvorne naprave, kot bi bil sekundarni monitor.

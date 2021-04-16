@@ -2,7 +2,7 @@
 title: Obnovitev izbrisane javne mape
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3488"
-ms.openlocfilehash: bb7fe248714e9a7e7f4c48913b159b5c23132192
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d5480389c3bf50cee9fe30f7ec8d8ff28ef694ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774547"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809455"
 ---
 # <a name="restore-a-deleted-public-folder"></a>Obnovitev izbrisane javne mape
 
-**Če želite obnoviti izbrisane elemente iz javne mape**:
+**Obnovitev izbrisanih elementov iz javne mape:**
 
-- Glejte [ne morete obnoviti izbrisanih elementov iz javne mape, ki ni pošta, v programu Outlook 2016](https://aka.ms/pfrec).
+- Glejte [Izbrisanih elementov ni mogoče obnoviti iz javne mape, ki ni poštna, v programu Outlook 2016.](https://aka.ms/pfrec)
  
-**Če želite obnoviti izbrisano javno mapo (katere koli vrste)**: 
+**Če želite obnoviti izbrisano javno mapo (katere koli vrste):** 
 
-- Uporabite naslednji ukaz EKSO PowerShell:
+- Uporabite ta ukaz EXO PowerShell:
 
-    Sintaksa
+    Sintaksa:
 
      `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse  | ?{$_.Name -eq "\<name_of_deleted_public_Folder"};Set-PublicFolder $pf.identity -Path \<path where the folder will be restored>`
 
-    Primer: ta ukaz bo obnovil Subfolder1 in ga položil v \Parent1:
+    Primer: The following command will restore Subfolder1 and place it under \Parent1:
 
     `$pf=Get-PublicFolder \NON_IPM_SUBTREE\DUMPSTER_ROOT -Recurse | ?{$_.Name -eq "Subfolder1"};Set-PublicFolder $pf.identity -Path \Parent1`
 
-Če želite več informacij, glejte [obnovitev izbrisane javne mape](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) .
+Če [želite več podrobnosti, glejte Obnovitev izbrisane](https://docs.microsoft.com/exchange/collaboration-exo/public-folders/restore-deleted-public-folder) javne mape.

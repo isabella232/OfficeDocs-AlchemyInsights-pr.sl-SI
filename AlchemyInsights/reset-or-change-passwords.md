@@ -2,7 +2,7 @@
 title: Ponastavitev ali spreminjanje gesel
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: 459f1ae3ab26abbdb57c5b4b627f78c8091f5171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692167"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810212"
 ---
 # <a name="reset-or-change-passwords"></a>Ponastavitev ali spreminjanje gesel
 
-Uporabnik lahko spremeni svoje geslo iz varnosti **mojega računa**  >  [& zasebnosti](https://portal.office.com/account/#security).
+Uporabnik lahko spremeni svoje geslo v možnosti **Zasebnost in zasebnost**&  >  [računa.](https://portal.office.com/account/#security)
   
-Če je uporabnik pozabil svoje geslo, lahko skrbnik Ponastavi geslo tako, da **uporabnikom**  >  [aktivira aktivne uporabnike](https://portal.office.com/adminportal/home#/users), izbere uporabnika in nato kliknite **Ponastavi geslo**.
+Če je uporabnik pozabil svoje geslo, lahko skrbnik ponastavi geslo tako, da klikne Uporabniki aktivnih uporabnikov, izbere uporabnike in  >  [](https://portal.office.com/adminportal/home#/users) **klikne Ponastavi geslo.**
   
-[Kliknite tukaj, če želite izvedeti več](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), ali če želite, da uporabniki ponastavijo svoja pozabljena gesla.
+[Kliknite tukaj, če želite izvedeti več](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)ali uporabnikom dovolite ponastaviti svoja pozabljena gesla.

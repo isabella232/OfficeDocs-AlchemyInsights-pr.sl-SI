@@ -1,8 +1,8 @@
 ---
-title: Kako se Outlook sinhronizira z mojimi stiki s sistemom Android?
+title: Kako se Outlook sinhronizira s stiki v sistemu Android?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001115"
 - "3076"
-ms.openlocfilehash: 5600a56bcbbaf9d484986e1d4d45397dda936a4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 917bea163c3a85f6e1ab193db44a1e1aefd80e19
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781371"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810932"
 ---
-# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Kako se Outlook sinhronizira z mojimi stiki s sistemom Android?
+# <a name="how-does-outlook-sync-with-my-android-contacts"></a>Kako se Outlook sinhronizira s stiki v sistemu Android?
 
-Ko sestavite e-poštno sporočilo v Outlooku, poiščemo prejemnike iz adresarja v sistemu Android in Outlookovega adresarja. Poleg tega vam nudimo možnost sinhronizacije stikov iz e-poštnih računov v adresar s sistemom Android, ki jih lahko uporabite v drugih aplikacijah. 
+Ko sestavljate e-poštno sporočilo v Outlooku, poiščemo prejemnike iz adresarja sistema Android in Outlookovega adresarja. Poleg tega imate na voljo možnost sinhronizacije stikov iz e-poštnih računov z adresarju sistema Android za uporabo v drugih aplikacijah. 
  
-**Če želite omogočiti to funkcijo**:
+**Če želite omogočiti to funkcijo:**
  
-1. V napravi pojdite v razdelek **Nastavitve**.
+1. V napravi odprite **Nastavitve**.
 
-2. V razdelku **računi**tapnite račun, s katerim želite sinhronizirati stike.
+2. V **razdelku** Računi tapnite račun, s katerimi želite sinhronizirati stike.
 
-3. Vklopite drsnik za **sinhronizacijo stikov** .
+3. Vklopite **drsnik Sinhroniziraj** stike.
  
-**Opomba**: ko poskušate omogočiti sinhronizacijo stikov v programu Microsoft Outlook za Android, če je možnost preklopa za **sinhronizacijo stikov** onemogočena, se lahko prikaže sporočilo, prikazano z besedilom, *sinhronizacija stikov ni vklopljena v sistemskih nastavitvah*. To je morda posledica možnosti **samodejne sinhronizacije podatkov** , ki so onemogočene v sistemskih nastavitvah. Če želite odpraviti to težavo, omogočite  **samodejne sinhronizacije podatkov** v meniju  **računi** v  **nastavitvah**sistema Android. Ta možnost je običajno na voljo v navpični tri pike (⋮) ali Triple bar (⫼). Meni  **računi** so lahko na različnih lokacijah, odvisno od tega, ali je na voljo naprava in različica sistema Android. V večini novejših modelov je v **nastavitvah**mogoče iskati **račune** .
+**Opomba:** Če poskušate omogočiti sinhronizacijo stikov v Microsoft Outlooku  za Android in je možnost preklopa za možnost Sinhroniziraj stike onemogočena, se lahko prikaže sporočilo z besedilom *Sinhronizacija* stikov ni vklopljena v sistemskih nastavitvah. Do tega lahko pride, ker je **v sistemskih** nastavitvah možnost za samodejno sinhronizacijo podatkov onemogočena. Če želite odpraviti to težavo, omogočite **podatke o samodejni sinhronizaciji** v **meniju Računi** v nastavitvah sistema Android.  To možnost običajno najdete v navpičnih treh pikah (⋮) ali trojni vrstici (⫼). Meni  **Računi** je lahko na različnih mestih, odvisno od naprave in različice sistema Android. V večini najnovejših **modelov lahko** račune iščete v **nastavitvah.**
