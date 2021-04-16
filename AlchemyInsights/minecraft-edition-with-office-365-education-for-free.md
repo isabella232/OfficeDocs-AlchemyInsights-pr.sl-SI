@@ -1,8 +1,8 @@
 ---
-title: Izdaja minecraft z Office 365 Education brezplačno
+title: Minecraft Edition z brezplačno storitvijo Office 365 Education
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,27 +13,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: 385e50304405268da638a7422c215a95f3f11e3b
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: a0b529c1d9966d65604ade2fc812aa2926816e95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709446"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51793588"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a><span data-ttu-id="5b012-102">Izdaja minecraft z Office 365 Education brezplačno</span><span class="sxs-lookup"><span data-stu-id="5b012-102">Minecraft Edition with Office 365 Education for Free</span></span>
+# <a name="minecraft-edition-with-office-365-education-for-free"></a><span data-ttu-id="fc6de-102">Minecraft Edition z brezplačno storitvijo Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="fc6de-102">Minecraft Edition with Office 365 Education for Free</span></span>
 
-[<span data-ttu-id="5b012-103">Izdaja minecraft z Office 365 Education brezplačno</span><span class="sxs-lookup"><span data-stu-id="5b012-103">Minecraft Edition with Office 365 Education for Free</span></span>](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[<span data-ttu-id="fc6de-103">Minecraft Edition z brezplačno storitvijo Office 365 Education</span><span class="sxs-lookup"><span data-stu-id="fc6de-103">Minecraft Edition with Office 365 Education for Free</span></span>](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- <span data-ttu-id="5b012-104">**Minecraft: izobraževalna različica** zahteva Windows 10</span><span class="sxs-lookup"><span data-stu-id="5b012-104">**Minecraft: Education Edition** requires Windows 10</span></span>
+- <span data-ttu-id="fc6de-104">**Minecraft: Education Edition** zahteva Windows 10</span><span class="sxs-lookup"><span data-stu-id="fc6de-104">**Minecraft: Education Edition** requires Windows 10</span></span>
 
-- <span data-ttu-id="5b012-105">Poskusi ali naročnine na **minecraft: izobraževanje Edition** so na voljo za izobraževalne najemnike, ki jih upravlja Azure Active Directory (Azure ad)</span><span class="sxs-lookup"><span data-stu-id="5b012-105">Trials or subscriptions of **Minecraft: Education Edition** are offered to education tenants that are managed by Azure Active Directory (Azure AD)</span></span>
+- <span data-ttu-id="fc6de-105">Preskusi ali naročnine na **Minecraft: Education Edition** so na voljo za najemnike za izobraževalne ustanove, ki jih upravlja Azure Active Directory (Azure AD)</span><span class="sxs-lookup"><span data-stu-id="fc6de-105">Trials or subscriptions of **Minecraft: Education Edition** are offered to education tenants that are managed by Azure Active Directory (Azure AD)</span></span>
 
-  - <span data-ttu-id="5b012-106">Če vaša šola nima najemnika v storitvi Azure AD, [lahko skrbnik za IT nastavi eno](https://docs.microsoft.com/education/windows/school-get-minecraft) kot del postopka za pridobivanje **minecraft: Education Edition**.</span><span class="sxs-lookup"><span data-stu-id="5b012-106">If your school doesn't have an Azure AD tenant, the [IT administrator can set one up](https://docs.microsoft.com/education/windows/school-get-minecraft) as part of the process of getting **Minecraft: Education Edition**.</span></span>
+  - <span data-ttu-id="fc6de-106">Če vaša šola nima najemnika imenika Azure AD, ga lahko skrbnik za [IT](https://docs.microsoft.com/education/windows/school-get-minecraft) nastavi kot del postopka za pridobivanje storitve **Minecraft: Education Edition.**</span><span class="sxs-lookup"><span data-stu-id="fc6de-106">If your school doesn't have an Azure AD tenant, the [IT administrator can set one up](https://docs.microsoft.com/education/windows/school-get-minecraft) as part of the process of getting **Minecraft: Education Edition**.</span></span>
 
-  - <span data-ttu-id="5b012-107">Office 365 Education, ki vključuje spletne različice Microsoft 365 apps plus 1 TB online shramba je brezplačna za učitelje in študente.</span><span class="sxs-lookup"><span data-stu-id="5b012-107">Office 365 Education, which includes online versions of Microsoft 365 apps plus 1 TB online storage is free for teachers and students.</span></span> <span data-ttu-id="5b012-108">[Prijavite se v šolo za Office 365 Education](https://www.microsoft.com/education/products/office).</span><span class="sxs-lookup"><span data-stu-id="5b012-108">[Sign up your school for Office 365 Education](https://www.microsoft.com/education/products/office).</span></span>
+  - <span data-ttu-id="fc6de-107">Office 365 Education, ki vključuje spletne različice aplikacij Microsoft 365 in 1 TB internetne shrambe, je brezplačen za učitelje in študente.</span><span class="sxs-lookup"><span data-stu-id="fc6de-107">Office 365 Education, which includes online versions of Microsoft 365 apps plus 1 TB online storage is free for teachers and students.</span></span> <span data-ttu-id="fc6de-108">[Prijavite se v šolo za Office 365 Education.](https://www.microsoft.com/education/products/office)</span><span class="sxs-lookup"><span data-stu-id="fc6de-108">[Sign up your school for Office 365 Education](https://www.microsoft.com/education/products/office).</span></span>
 
-  - <span data-ttu-id="5b012-109">Če ima vaša šola naročnino na Office 365 Education, vključuje brezplačno naročnino na Azure AD.</span><span class="sxs-lookup"><span data-stu-id="5b012-109">If your school has an Office 365 Education subscription, it includes a free Azure AD subscription.</span></span> <span data-ttu-id="5b012-110">[Registrirajte svojo brezplačno naročnino na AZURE ad](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="5b012-110">[Register your free Azure AD subscription](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).</span></span>
+  - <span data-ttu-id="fc6de-109">Če ima vaša šola naročnino na Office 365 Education, vključuje brezplačno naročnino na Azure AD.</span><span class="sxs-lookup"><span data-stu-id="fc6de-109">If your school has an Office 365 Education subscription, it includes a free Azure AD subscription.</span></span> <span data-ttu-id="fc6de-110">[Registrirajte brezplačno naročnino na Azure AD.](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)</span><span class="sxs-lookup"><span data-stu-id="fc6de-110">[Register your free Azure AD subscription](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).</span></span>
 
-<span data-ttu-id="5b012-111">[Naučite se, kako lahko učitelji pridobijo in distribuirajo minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).</span><span class="sxs-lookup"><span data-stu-id="5b012-111">[Learn how teachers can get and distribute Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).</span></span>
+<span data-ttu-id="fc6de-111">[Preberite, kako lahko učitelji dobi in distribuirajo Minecraft: Education Edition.](https://docs.microsoft.com/education/windows/teacher-get-minecraft)</span><span class="sxs-lookup"><span data-stu-id="fc6de-111">[Learn how teachers can get and distribute Minecraft: Education Edition](https://docs.microsoft.com/education/windows/teacher-get-minecraft).</span></span>
   
-<span data-ttu-id="5b012-112">Naučite se, [Kako lahko skrbniki pridobijo in distribuirajo minecraft: izobraževanje Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)in kako upravljati dovoljenja za minecraft.</span><span class="sxs-lookup"><span data-stu-id="5b012-112">[Learn how IT administrators can get and distribute Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft), and how to manage permissions for Minecraft.</span></span>
+<span data-ttu-id="fc6de-112">[Preberite več o tem, kako lahko skrbniki IT dobi in distribuirajo Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)in kako upravljajo dovoljenja za Minecraft.</span><span class="sxs-lookup"><span data-stu-id="fc6de-112">[Learn how IT administrators can get and distribute Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft), and how to manage permissions for Minecraft.</span></span>
