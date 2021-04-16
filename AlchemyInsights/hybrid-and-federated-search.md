@@ -1,8 +1,8 @@
 ---
-title: Hibridno in Združeno iskanje
+title: Hibridno in kombinirano iskanje
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 43071a3166735d61ca8cd8ae5ce74aa018ed9d15
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f6e19baf0701c1feafa218773af7f0dcce5eaaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743847"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795892"
 ---
-# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="1a8df-102">Hibridna in združena iskanja</span><span class="sxs-lookup"><span data-stu-id="1a8df-102">Hybrid and federated searches</span></span> 
+# <a name="hybrid-and-federated-searches"></a><span data-ttu-id="fc59b-102">Hibridna in kombinirana iskanja</span><span class="sxs-lookup"><span data-stu-id="fc59b-102">Hybrid and federated searches</span></span> 
 
-<span data-ttu-id="1a8df-103">Če želite več informacij o hibridnem in Združenem iskanju v SharePoint Onlineu, glejte [hibridno iskanje v SharePointu](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span><span class="sxs-lookup"><span data-stu-id="1a8df-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
+<span data-ttu-id="fc59b-103">Če želite več informacij o hibridnem in zunanjim iskanju v SharePoint Onlineu, glejte [Hibridno iskanje v SharePointu.](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint)</span><span class="sxs-lookup"><span data-stu-id="fc59b-103">For information about hybrid and Federated Search in SharePoint Online, see [Hybrid search in SharePoint](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).</span></span>
 
-<span data-ttu-id="1a8df-104">Če želite več informacij o načrtovanju hibridnega Združenega iskanja, glejte načrtovanje [hibridnega Združenega iskanja za SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span><span class="sxs-lookup"><span data-stu-id="1a8df-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
+<span data-ttu-id="fc59b-104">Če želite več informacij o načrtovanju hibridnega kombiniranega iskanja, glejte [Načrtovanje hibridnega kombiniranega iskanja za SharePoint Server.](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search)</span><span class="sxs-lookup"><span data-stu-id="fc59b-104">For information on planning hybrid federated search, see [Plan hybrid federated search for SharePoint Server](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).</span></span>
