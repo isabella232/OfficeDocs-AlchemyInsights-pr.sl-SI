@@ -1,8 +1,8 @@
 ---
-title: Zahteva po stanju preverjanja kredita
+title: Zahteva za preverjanje stanja kreditne kartice
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,15 +14,15 @@ ms.custom:
 - "464"
 - "1500022"
 ms.assetid: 1ff0c139-3ce0-46e7-873c-35d4f60f9f7c
-ms.openlocfilehash: a39d58a8957879e28c6308936d7323e09edf8db9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b183f344af3e4f26c3da2e134223e14ee111787
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746451"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815955"
 ---
-# <a name="credit-check-status-request"></a><span data-ttu-id="ab56e-102">Zahteva po stanju preverjanja kredita</span><span class="sxs-lookup"><span data-stu-id="ab56e-102">Credit check status request</span></span>
+# <a name="credit-check-status-request"></a><span data-ttu-id="7e43f-102">Zahteva za preverjanje stanja kreditne kartice</span><span class="sxs-lookup"><span data-stu-id="7e43f-102">Credit check status request</span></span>
 
-<span data-ttu-id="ab56e-103">Vaše naročilo je čakajoče preverjanje kreditnega pregleda.</span><span class="sxs-lookup"><span data-stu-id="ab56e-103">Your order is pending credit verification.</span></span> <span data-ttu-id="ab56e-104">To je običajno dokončano v okviru 24 ur, vendar lahko traja do 48 ur.</span><span class="sxs-lookup"><span data-stu-id="ab56e-104">This is normally completed in under 24 hours, but can take up to 48 hours.</span></span> <span data-ttu-id="ab56e-105">Ko dokončate, se stanje naročnine spremeni iz čakajoče na aktivno in storitve bodo na voljo za uporabo.</span><span class="sxs-lookup"><span data-stu-id="ab56e-105">When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>
+<span data-ttu-id="7e43f-103">Vaše naročilo je v čakanju na preverjanje kreditnega tveganja.</span><span class="sxs-lookup"><span data-stu-id="7e43f-103">Your order is pending credit verification.</span></span> <span data-ttu-id="7e43f-104">Ta način se običajno dokonča v manj kot 24 urah, vendar lahko traja tudi do 48 ur.</span><span class="sxs-lookup"><span data-stu-id="7e43f-104">This is normally completed in under 24 hours, but can take up to 48 hours.</span></span> <span data-ttu-id="7e43f-105">Ko je postopek dokončan, se stanje vaše naročnine spremeni iz čaka v aktivna in storitve bodo na voljo za uporabo.</span><span class="sxs-lookup"><span data-stu-id="7e43f-105">When complete, your subscription status will change from Pending to Active, and services will be available for use.</span></span>
 
-<span data-ttu-id="ab56e-106">Če želite več informacij, glejte [Kdaj se lahko zahteva preverjanje kredita](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).</span><span class="sxs-lookup"><span data-stu-id="ab56e-106">For more info, see [when a credit check may be required](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).</span></span>
+<span data-ttu-id="7e43f-106">Če želite več informacij, [glejte kdaj bo morda treba preveriti kreditno kartico.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft)</span><span class="sxs-lookup"><span data-stu-id="7e43f-106">For more info, see [when a credit check may be required](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription?view=o365-worldwide#pay-by-invoice-check-or-eft).</span></span>

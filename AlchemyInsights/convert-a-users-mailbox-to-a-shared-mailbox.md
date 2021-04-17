@@ -2,7 +2,7 @@
 title: Pretvorba nabiralnika uporabnikov v nabiralnik v skupni rabi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 7c64e9db982ffb5e8a8e90d812ed09de45ef9fb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e359b3eeb4522ca18108a4dca6efc5aae17e594
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732911"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816612"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="bca2d-102">Pretvorba nabiralnika uporabnika v nabiralnik v skupni rabi</span><span class="sxs-lookup"><span data-stu-id="bca2d-102">Convert a user mailbox to a shared mailbox</span></span>
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a><span data-ttu-id="28396-102">Pretvorba nabiralnika uporabnika v nabiralnik v skupni rabi</span><span class="sxs-lookup"><span data-stu-id="28396-102">Convert a user mailbox to a shared mailbox</span></span>
 
-<span data-ttu-id="bca2d-103">Ko pretvorite nabiralnik posameznega uporabnika v nabiralnik v skupni rabi, so vsi obstoječi elementi e-pošte in koledarja ohranjeni v nabiralniku v skupni rabi, kjer lahko dostopa več oseb.</span><span class="sxs-lookup"><span data-stu-id="bca2d-103">When you convert an individual user's mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="bca2d-104">Nabiralnik v skupni rabi lahko pretvorite tudi v uporabnika (zasebni) nabiralnik.</span><span class="sxs-lookup"><span data-stu-id="bca2d-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
+<span data-ttu-id="28396-103">Ko nabiralnik posameznega uporabnika pretvorite v nabiralnik v skupni rabi, se vsi obstoječi elementi e-pošte in koledarja ohranijo v nabiralniku v skupni rabi, do katerih ima dostop več oseb.</span><span class="sxs-lookup"><span data-stu-id="28396-103">When you convert an individual user's mailbox to a shared mailbox, all of the existing email and calendar items are retained in a shared mailbox where multiple people can access.</span></span> <span data-ttu-id="28396-104">Nabiralnik v skupni rabi lahko tudi pretvorite nazaj v nabiralnik uporabnika (zasebni).</span><span class="sxs-lookup"><span data-stu-id="28396-104">You can also convert a shared mailbox back to a user (private) mailbox.</span></span>
   
-<span data-ttu-id="bca2d-105">Če želite več informacij, glejte [Pretvorba nabiralnika uporabnika v nabiralnik v skupni rabi](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="bca2d-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
+<span data-ttu-id="28396-105">Če želite več informacij, glejte [Pretvorba nabiralnika uporabnika v nabiralnik v skupni rabi.](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox)</span><span class="sxs-lookup"><span data-stu-id="28396-105">For more information, see [Convert a user mailbox to a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox).</span></span>
   
