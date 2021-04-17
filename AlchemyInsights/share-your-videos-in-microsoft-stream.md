@@ -1,8 +1,8 @@
 ---
-title: Skupna raba videov v programu Microsoft Stream
+title: Skupna raba videoposnetkov v storitvi Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 622431bc1a06a4f0f919df840320890f99f3eb01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8363706fbc6dc87ce06ead90a6ff68f809ca9ac4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727331"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828420"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a><span data-ttu-id="9d427-102">Skupna raba videov v programu Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="9d427-102">Share your videos in Microsoft Stream</span></span>
+# <a name="share-your-videos-in-microsoft-stream"></a><span data-ttu-id="caab5-102">Skupna raba videoposnetkov v storitvi Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="caab5-102">Share your videos in Microsoft Stream</span></span>
 
-<span data-ttu-id="9d427-103">Videoposnetke lahko daste v skupno rabo v storitvi Microsoft Stream z osebami, ki sicer nimajo dostopa.</span><span class="sxs-lookup"><span data-stu-id="9d427-103">You may want to share videos in Microsoft Stream with people who don't otherwise have access.</span></span> <span data-ttu-id="9d427-104">Videoposnetke lahko daste v skupno rabo na različne načine:</span><span class="sxs-lookup"><span data-stu-id="9d427-104">There are various ways to share your videos:</span></span>
+<span data-ttu-id="caab5-103">Morda boste želeli dati videoposnetke v skupno rabo v storitvi Microsoft Stream z ljudmi, ki drugače ne bodo imeli dostopa.</span><span class="sxs-lookup"><span data-stu-id="caab5-103">You may want to share videos in Microsoft Stream with people who don't otherwise have access.</span></span> <span data-ttu-id="caab5-104">Videoposnetke lahko daste v skupno rabo na več načinov:</span><span class="sxs-lookup"><span data-stu-id="caab5-104">There are various ways to share your videos:</span></span>
 
-- [<span data-ttu-id="9d427-105">Skupna raba videov v programu Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="9d427-105">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
+- [<span data-ttu-id="caab5-105">Skupna raba videoposnetkov v storitvi Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="caab5-105">Share your videos in Microsoft Stream</span></span>](https://docs.microsoft.com/stream/portal-share-video)
 
-- [<span data-ttu-id="9d427-106">Dovoljenja v videu</span><span class="sxs-lookup"><span data-stu-id="9d427-106">Permissions on your video</span></span>](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
+- [<span data-ttu-id="caab5-106">Dovoljenja za vaš videoposnetek</span><span class="sxs-lookup"><span data-stu-id="caab5-106">Permissions on your video</span></span>](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)

@@ -2,7 +2,7 @@
 title: Skupna raba Excelovega delovnega zvezka
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000689"
 - "2583"
-ms.openlocfilehash: 7691ef33408b8aa4acc7f641699f7696785e8fe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38422d44e584c68db1913198228b0091869a87b0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739301"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828456"
 ---
-# <a name="collaborate-on-excel-documents"></a><span data-ttu-id="c6c0b-102">Sodelovanje pri delu z Excelovimi dokumenti</span><span class="sxs-lookup"><span data-stu-id="c6c0b-102">Collaborate on Excel documents</span></span>
+# <a name="collaborate-on-excel-documents"></a><span data-ttu-id="73ffc-102">Sodelovanje v Excelovih dokumentih</span><span class="sxs-lookup"><span data-stu-id="73ffc-102">Collaborate on Excel documents</span></span>
 
-<span data-ttu-id="c6c0b-103">Če želite sodelovati s sodelavci v Excelovih dokumentih, uporabite **funkcijo soavtorstva**.</span><span class="sxs-lookup"><span data-stu-id="c6c0b-103">To collaborate with colleagues on Excel documents, use the **co-authoring feature**.</span></span> 
+<span data-ttu-id="73ffc-103">Če želite s sodelavci sodelovati v Excelovih dokumentih, uporabite **funkcijo soavtornja.**</span><span class="sxs-lookup"><span data-stu-id="73ffc-103">To collaborate with colleagues on Excel documents, use the **co-authoring feature**.</span></span> 
 
-<span data-ttu-id="c6c0b-104">Preberite več o tem, kako omogočite in uporabite to funkcijo, poleg tega, da si ogledate odgovore na pogosta vprašanja o možnostih skupne rabe in soavtorstva, pri sodelovanju v [Excelovih delovnih zvezkih hkrati s soavtorstvom](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span><span class="sxs-lookup"><span data-stu-id="c6c0b-104">Learn about enabling and using this feature, in addition to seeing answers to frequently asked questions about sharing and co-authoring scenarios, at [Collaborate on Excel workbooks at the same time with co-authoring](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span></span>
+<span data-ttu-id="73ffc-104">Več informacij o omogočanju in uporabi te funkcije najdete v možnosti Sodelovanje v Excelovih delovnih zvezkih skupaj s soavtorstvom, poleg tega pa si poleg ogleda odgovorov na pogosta vprašanja o scenarijih skupne rabe in soavtorjenja oglejte tudi možnost Sodelovanje v Excelovih delovnih [zvezkih.](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104)</span><span class="sxs-lookup"><span data-stu-id="73ffc-104">Learn about enabling and using this feature, in addition to seeing answers to frequently asked questions about sharing and co-authoring scenarios, at [Collaborate on Excel workbooks at the same time with co-authoring](https://support.office.com/article/7152aa8b-b791-414c-a3bb-3024e46fb104).</span></span>

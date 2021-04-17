@@ -1,8 +1,8 @@
 ---
-title: Izvajanje QoS in spremljanje kakovosti klicev v aplikaciji Teams
+title: Izvajanje kakovosti storitve in nadzorovanje kakovosti klicev v Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667966"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829248"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a><span data-ttu-id="48484-102">Izvajanje QoS in spremljanje kakovosti klicev v aplikaciji Teams</span><span class="sxs-lookup"><span data-stu-id="48484-102">Implement QoS and monitor call quality in Teams</span></span>
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a><span data-ttu-id="f2ad5-102">Izvajanje kakovosti storitve in nadzorovanje kakovosti klicev v Teams</span><span class="sxs-lookup"><span data-stu-id="f2ad5-102">Implement QoS and monitor call quality in Teams</span></span>
 
-<span data-ttu-id="48484-103">Analitika klicev in Nadzorna plošča za kakovost klicev lahko pomagate pri odpravljanju težav s kakovostjo klicev v aplikaciji Microsoft teams.</span><span class="sxs-lookup"><span data-stu-id="48484-103">Call Analytics and the Call Quality Dashboard can be used to help troubleshoot call quality issues in Microsoft Teams.</span></span> <span data-ttu-id="48484-104">Če želite izvedeti več o kakovosti storitve (QoS), analitiki klicev in nadzorni plošči kakovosti klicev (CQD), glejte [izvajanje QoS in spremljanje kakovosti klicev v aplikaciji Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos).</span><span class="sxs-lookup"><span data-stu-id="48484-104">To learn more about Quality of Service (QoS), Call Analytics, and the Call Quality Dashboard (CQD), see [Implement QoS and Monitor Call Quality in Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos).</span></span> 
+<span data-ttu-id="f2ad5-103">Z Analitiko klicev in nadzorno ploščo za kakovost klicev lahko odpravite težave s kakovostjo klicev v aplikaciji Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="f2ad5-103">Call Analytics and the Call Quality Dashboard can be used to help troubleshoot call quality issues in Microsoft Teams.</span></span> <span data-ttu-id="f2ad5-104">Če želite izvedeti več o kakovosti storitve , analitiki klicev in nadzorni plošči za kakovost klicev (CQD), glejte Izvajanje kakovosti storitve in nadzor kakovosti klicev v aplikaciji [Microsoft Teams.](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)</span><span class="sxs-lookup"><span data-stu-id="f2ad5-104">To learn more about Quality of Service (QoS), Call Analytics, and the Call Quality Dashboard (CQD), see [Implement QoS and Monitor Call Quality in Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos).</span></span> 

@@ -2,7 +2,7 @@
 title: Odstranjevanje ali izklop aplikacije Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001714"
 - "3796"
-ms.openlocfilehash: b40446cb7ed0c979c9b5bda3c7ff421f314d39a5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f50c22952a26b62b1af01a5a94ae334d7aff529
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776466"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828816"
 ---
-# <a name="remove-or-turn-off-microsoft-teams"></a><span data-ttu-id="9db30-102">Odstranjevanje ali izklop aplikacije Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="9db30-102">Remove or turn off Microsoft Teams</span></span>
+# <a name="remove-or-turn-off-microsoft-teams"></a><span data-ttu-id="1cbce-102">Odstranjevanje ali izklop aplikacije Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="1cbce-102">Remove or turn off Microsoft Teams</span></span>
 
-<span data-ttu-id="9db30-103">Ali vaša organizacija še ni pripravljena [sodelovati ali delati na daljavo z aplikacijo Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software?&OCID=AID2000955_SEM_WiLWtgAAAKcGoHNG:20200305184100:s&msclkid=cbe12a5675e41135662d7437325dbd9a&ef_id=WiLWtgAAAKcGoHNG:20200305184100:s)?</span><span class="sxs-lookup"><span data-stu-id="9db30-103">Is your organization not yet ready to [collaborate or work remotely with Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software?&OCID=AID2000955_SEM_WiLWtgAAAKcGoHNG:20200305184100:s&msclkid=cbe12a5675e41135662d7437325dbd9a&ef_id=WiLWtgAAAKcGoHNG:20200305184100:s)?</span></span>
+<span data-ttu-id="1cbce-103">Ali vaša organizacija še ni pripravljena na [sodelovanje ali oddaljeno delo z aplikacijo Microsoft Teams?](https://products.office.com/microsoft-teams/group-chat-software?&OCID=AID2000955_SEM_WiLWtgAAAKcGoHNG:20200305184100:s&msclkid=cbe12a5675e41135662d7437325dbd9a&ef_id=WiLWtgAAAKcGoHNG:20200305184100:s)</span><span class="sxs-lookup"><span data-stu-id="1cbce-103">Is your organization not yet ready to [collaborate or work remotely with Microsoft Teams](https://products.office.com/microsoft-teams/group-chat-software?&OCID=AID2000955_SEM_WiLWtgAAAKcGoHNG:20200305184100:s&msclkid=cbe12a5675e41135662d7437325dbd9a&ef_id=WiLWtgAAAKcGoHNG:20200305184100:s)?</span></span>
 
-- <span data-ttu-id="9db30-104">Kako [odstraniti aplikacijo Microsoft Teams](https://support.office.com/article/Uninstall-Microsoft-Teams-3b159754-3c26-4952-abe7-57d27f5f4c81).</span><span class="sxs-lookup"><span data-stu-id="9db30-104">How to [uninstall Microsoft Teams](https://support.office.com/article/Uninstall-Microsoft-Teams-3b159754-3c26-4952-abe7-57d27f5f4c81).</span></span>
+- <span data-ttu-id="1cbce-104">Kako odstraniti [Microsoft Teams.](https://support.office.com/article/Uninstall-Microsoft-Teams-3b159754-3c26-4952-abe7-57d27f5f4c81)</span><span class="sxs-lookup"><span data-stu-id="1cbce-104">How to [uninstall Microsoft Teams](https://support.office.com/article/Uninstall-Microsoft-Teams-3b159754-3c26-4952-abe7-57d27f5f4c81).</span></span>
 
-- <span data-ttu-id="9db30-105">[Kako vklopiti ali izklopiti ekipe za celotno organizacijo](https://docs.microsoft.com/MicrosoftTeams/office-365-set-up).</span><span class="sxs-lookup"><span data-stu-id="9db30-105">[How to turn Teams on or off for your entire organization](https://docs.microsoft.com/MicrosoftTeams/office-365-set-up).</span></span>
+- <span data-ttu-id="1cbce-105">[Kako vklopite ali izklopite Teams za celotno organizacijo.](https://docs.microsoft.com/MicrosoftTeams/office-365-set-up)</span><span class="sxs-lookup"><span data-stu-id="1cbce-105">[How to turn Teams on or off for your entire organization](https://docs.microsoft.com/MicrosoftTeams/office-365-set-up).</span></span>
 
-- <span data-ttu-id="9db30-106">[Preprečite, da bi se ekipe samodejno zagnale v oknu 10, tako da bi jih odstranili iz menija zagona](https://support.microsoft.com/help/4026268/windows-10-change-startup-apps).</span><span class="sxs-lookup"><span data-stu-id="9db30-106">[Prevent Teams from automatically starting on Window 10 by removing it from the startup menu](https://support.microsoft.com/help/4026268/windows-10-change-startup-apps).</span></span>
+- <span data-ttu-id="1cbce-106">[Preprečite samodejno zagon aplikacije Teams v oknu 10 tako, da ga odstranite iz menija ob zagonu.](https://support.microsoft.com/help/4026268/windows-10-change-startup-apps)</span><span class="sxs-lookup"><span data-stu-id="1cbce-106">[Prevent Teams from automatically starting on Window 10 by removing it from the startup menu](https://support.microsoft.com/help/4026268/windows-10-change-startup-apps).</span></span>
 
-- <span data-ttu-id="9db30-107">S [pravilnikom skupine lahko nadzorujete namestitev aplikacije Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="9db30-107">[Use Group Policy to control the installation of Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams).</span></span>
+- <span data-ttu-id="1cbce-107">[Uporaba pravilnika skupine za nadzor namestitve aplikacije Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams)</span><span class="sxs-lookup"><span data-stu-id="1cbce-107">[Use Group Policy to control the installation of Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams).</span></span>
 
-- <span data-ttu-id="9db30-108">[Uporabite pravilnik skupine, če želite preprečiti, da bi se Microsoft Teams po namestitvi samodejno zagnal](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).</span><span class="sxs-lookup"><span data-stu-id="9db30-108">[Use Group Policy to prevent Microsoft Teams from starting automatically after installation](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).</span></span>
+- <span data-ttu-id="1cbce-108">[S pravilnikom skupine lahko preprečite samodejni zagon aplikacije Microsoft Teams po namestitvi.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)</span><span class="sxs-lookup"><span data-stu-id="1cbce-108">[Use Group Policy to prevent Microsoft Teams from starting automatically after installation](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).</span></span>
 
-- <span data-ttu-id="9db30-109">[Računalnike v skupni rabi in okolja za okolje z aplikacijo Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="9db30-109">[Shared computer and VDI environments with Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span></span>
+- <span data-ttu-id="1cbce-109">[Računalnik v skupni rabi in okolja VDI v aplikaciji Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)</span><span class="sxs-lookup"><span data-stu-id="1cbce-109">[Shared computer and VDI environments with Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span></span>
