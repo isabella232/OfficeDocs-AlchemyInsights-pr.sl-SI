@@ -1,27 +1,28 @@
 ---
-title: Obnovi izbrisane elemente z ukazom» cmdlet «
+title: Obnovitev izbrisanih elementov z ukazom cmdlet
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "5718"
-ms.openlocfilehash: 86744d92a44096991079d1da3bdf4e95e58c55b7
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: d8f2a50f39d7bcd321692ab093e2efa6613e9814
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44493429"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835827"
 ---
-# <a name="recover-deleted-items-with-cmdlet"></a>Obnovi izbrisane elemente z ukazom» cmdlet «
+# <a name="recover-deleted-items-with-cmdlet"></a>Obnovitev izbrisanih elementov z ukazom cmdlet
 
-- Če si želite ogledati izbrisane elemente v nabiralnikih, uporabite ukaz» cmdlet « [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) . Ko najdete izbrisane elemente, uporabite ukaz» cmdlet « [Obnovi-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) , da jih obnovite.
+- Uporabite ukaz [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) cmdlet za ogled izbrisanih elementov v nabiralnikih. Ko najdete izbrisane elemente, jih obnovite z ukazom [Restore-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/Restore-RecoverableItems?view=exchange-ps) cmdlet.
 
-- Oglejte si vse podrobnosti v [pridobite-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
+- Vse podrobnosti najdete v [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
 
-- Preden lahko zaženete ta ukaz» cmdlet «, morate dodeliti vlogo uvoznega izvoza nabiralnika. Za več informacij glejte [pridobite-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps) .
+- Pred zagonom ukaza cmdlet morate imeti dodeljeno vlogo za uvoz in izvoz nabiralnika. Če želite več informacij, glejte [Get-RecoverableItems](https://docs.microsoft.com/powershell/module/exchange/get-recoverableitems?view=exchange-ps).
