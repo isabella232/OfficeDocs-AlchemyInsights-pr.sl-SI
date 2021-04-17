@@ -1,34 +1,35 @@
 ---
-title: Reševanje napak pri obračunavanju in plačilu
+title: Razreševanje napak pri obračunavanju in plačilu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003021"
 - "5757"
-ms.openlocfilehash: bcef12a3b1d4438df07a67b73ec8b59ac0f7d8c3
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.openlocfilehash: 1c126a088b79bc8ad415a5679e18d4da3fde8b15
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44708197"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830735"
 ---
-# <a name="resolving-billing-and-payment-errors"></a>Reševanje napak pri obračunavanju in plačilu
+# <a name="resolving-billing-and-payment-errors"></a>Razreševanje napak pri obračunavanju in plačilu
 
-Tukaj je nekaj pogostih scenarijev, povezanih z računom in napakami pri plačilih
+Tukaj je nekaj pogostih scenarijev, povezanih z napakami pri obračunavanju in plačilu
 
-- **Znesek zaračunan** se razlikuje od tistega, kar ste pričakovali.
-- Licence so bile dodane ali odstranjene iz naročnine. Ko se licence spremenijo srednjeročno, se to odraža na naslednjem računu. Za to spremembo boste morda videli dobropis in račun za prejšnje obdobje servisa.
+- **Obračunani znesek** se razlikuje od tistega, ki ste ga pričakovali.
+- Licence ste dodali naročnini ali jih iz naročnine odstranili. Če licence spremenite sredi obdobja, je ta sprememba razvidna na naslednjem računu. Zaradi upoštevanja te spremembe boste morda videli dobroimetje in ponovno zaračunali stroške za prejšnje obdobje storitve.
 - Naročnina je bila preklicana. Po preklicu naročnine boste prejeli račun z morebitnimi neporavnanimi zneski in upoštevanimi morebitnimi dobropisi.
 - Naročnino ste podaljšali za novo obdobje in cena licence se je spremenila.
-- Če želite več informacij o računu, glejte: [razumevanje računa.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
-- Imate **težave pri obdelavi plačil s kreditno kartico**
-- V **skrbniškem središču**pojdite na stran računi za **obračunavanje**   >   **&**   >   **[plačilna](https://go.microsoft.com/fwlink/p/?linkid=2018806)** plačila. Izberite način plačila in preverite, ali sta ime, datum poteka in naslov pravilna. Če želite več informacij, glejte [Odpravljanje težav s plačilno metodo](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).
+- Če želite več informacij o računu, glejte: [Razumevanje računa.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+- **Pri obdelavi plačila s kreditno kartico** imate težave
+- V **Skrbniškem središču** odprite stran **Obračunavanje**  >  **Računi in plačila**  >  **[Načini plačila](https://go.microsoft.com/fwlink/p/?linkid=2018806)**. Izberite način plačila in preverite, ali so ime, datum poteka in naslov pravilni. Če želite več informacij, preberite [Odpravljanje težav z načini plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).
 
-- Morate **spremeniti način plačila**. Način plačila lahko [dodajate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#add-a-payment-method), [posodabljate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#update-payment-method-details), [zamenjate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#replace-a-payment-method) ali [izbrišete](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#delete-a-payment-method) . Če želite izvedeti več, glejte [upravljanje plačilnih načinov](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
+- Spremeniti morate **način plačila**. Način plačila lahko [dodate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#add-a-payment-method),  [posodobite](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#update-payment-method-details),  [zamenjate](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#replace-a-payment-method)  ali  [izbrišete](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide#delete-a-payment-method). Za več informacij glejte [Upravljanje načinov plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide).
 - 

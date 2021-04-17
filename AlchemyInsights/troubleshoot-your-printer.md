@@ -2,25 +2,26 @@
 title: Odpravljanje težav s tiskalnikom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001214"
 - "3186"
-ms.openlocfilehash: 42125b5103f429c1287400c3c1dc659cfa2067b7
-ms.sourcegitcommit: e332b3229881a1cf65ac84250d88256081b237bf
+ms.openlocfilehash: 37bc4c1a8f39084e06b6f291c1245fa163e7b638
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/28/2020
-ms.locfileid: "43034413"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830490"
 ---
 # <a name="troubleshoot-your-printer"></a>Odpravljanje težav s tiskalnikom
 
-Najprej preskusite **nega cikla**za tiskalnik. Upoštevajte te korake:
+Najprej preskusite **nega cikla** za tiskalnik. Upoštevajte te korake:
 
 1. Izklopite tiskalnik in Iztaknite napajalni kabel.
 
@@ -28,21 +29,21 @@ Najprej preskusite **nega cikla**za tiskalnik. Upoštevajte te korake:
 
 3. Znova priključite tiskalnik in znova vklopite tiskalnik.
 
-Če s tem niste odpravili težave, zaženite orodje za odpravljanje težav s tiskalnikom tako, da odprete **Start > Nastavitve > Posodobitev in Varnost > Odpravljanje težav**. Kliknite **Tiskalnik**in nato kliknite **Zaženite orodje za odpravljanje težav**.
+Če s tem niste odpravili težave, zaženite orodje za odpravljanje težav s tiskalnikom tako, da odprete **Start > Nastavitve > Posodobitev in Varnost > Odpravljanje težav**. Kliknite **Tiskalnik** in nato kliknite **Zaženite orodje za odpravljanje težav**.
 
 **Če je vaš tiskalnik priključen na računalnik prek omrežne povezave** (če se vam mudi, lahko tiskalnik hitro deluje tako, da z uporabo kabla USB priključite tiskalnik neposredno v računalnik s sistemom Windows):
 
-1. **Preverite, ali je**omrežna povezava tiskalnika.
+1. **Preverite, ali je** omrežna povezava tiskalnika.
     
     - Upoštevajte navodila tiskalnika za preverjanje omrežne povezave.
 
     - Če tiskalnik nima vzpostavljene povezave z omrežjem, upoštevajte navodila naprave, da se povežete z omrežjem.
 
-2. **Povezali se boste z omrežno povezavo računalnika z**povezave s tiskalnikom.
+2. **Povezali se boste z omrežno povezavo računalnika z** povezave s tiskalnikom.
 
     - Kliknite **Start > Nastavitve > Omrežje in Internet**.
 
-    - V razdelku **stanje omrežnega**poiščete ime omrežja. To se mora popolnoma ujemati z imenom povezave tiskalnika.
+    - V razdelku **stanje omrežnega** poiščete ime omrežja. To se mora popolnoma ujemati z imenom povezave tiskalnika.
 
     - Če ti dve povezavi nista enaki, spremenite povezavo računalnika tako, da se bo ujemala z omrežjem tiskalnika.
 

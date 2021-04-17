@@ -1,8 +1,8 @@
 ---
-title: Ne morete prejemati e-pošte iz računov gmail
+title: Ni mogoče prejemati e-pošte iz računov za Gmail
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000048"
 - "3798"
-ms.openlocfilehash: ceaad0d8d09ffc5e16d7692d566627b4275638d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70472d6a25a386eff623389d29a4463098adb45a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735467"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830409"
 ---
-# <a name="unable-to-receive-email-from-gmail-accounts"></a>Ne morete prejemati e-pošte iz računov gmail
+# <a name="unable-to-receive-email-from-gmail-accounts"></a>Ni mogoče prejemati e-pošte iz računov za Gmail
 
-**VPRAŠANJE**
+**TEŽAVA**
 
-Zavedamo se, da nekateri uporabniki morda ne bodo mogli prejemati e-pošte iz računov gmail. Raziskujemo morebitno težavo.
+Zavedamo se, da nekateri uporabniki morda ne bodo mogli prejemati e-pošte iz računov za Gmail. Raziskujemo morebitno težavo.
 
 **REŠITEV**
 
-Preverite, ali je domena Gmaila pomotoma blokirana, ko blokirate enega uporabnika Gmaila.
+Preverite, ali ste pomotoma blokirali domeno Gmail, ko blokirate enega uporabnika storitve Gmail.
 
-1. Odprite [seznam blokiranih pošiljateljev](https://go.microsoft.com/fwlink/?linkid=2121010).
+1. Odprite [seznam blokiranih pošiljateljev.](https://go.microsoft.com/fwlink/?linkid=2121010)
 
-2. Če je argument» Gmail.com «na seznamu, kliknite ikono koša ob vnosu in pritisnite **Shrani**.
+2. Če Gmail.com je na seznamu, kliknite ikono koša ob vnosu in pritisnite **Shrani**.

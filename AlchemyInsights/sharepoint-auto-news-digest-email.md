@@ -1,8 +1,8 @@
 ---
-title: SharePoint samodejno prebavljanje e-pošte
+title: E-pošta s samodejnim digestom v SharePointu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003118"
 - "5894"
-ms.openlocfilehash: 42bfe92c835c2ad346ce62924d455e5d1396eaa6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f6d682947f1184c4576fca9d972da8c4cd48ae2d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751187"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831210"
 ---
-# <a name="sharepoint-auto-digest-email"></a>SharePoint samodejno prebavljanje e-pošte
+# <a name="sharepoint-auto-digest-email"></a>E-pošta s samodejnim digestom v SharePointu
 
-SharePoint Auto-News Digest pošlje avtomatizirano e-pošto uporabnikom v podjetju o najnovejših objavah novic, ki jih še niso prebrali, ki so zanje pomembne.
+SharePointov samodejni digest pošlje avtomatizirano e-pošto uporabnikom v podjetju o najnovejših objavah v novicah, ki jih še niso prebrali, ki so pomembne za njih.
 
 Če želite več informacij, obiščite spletno mesto [https://aka.ms/autonewsdigest](https://aka.ms/autonewsdigest)
 
 - ID načrta za Microsoft 365:  [64685](https://www.microsoft.com/microsoft-365/roadmap?filters=&featureid=64685)
-- Čas: ciljna izdaja kupcev v  **sredini julija (prej junij**  in dokončana za vse stranke do  **sredine avgusta (prej v začetku avgusta)**.
-- Uvajanje: uvajanje uporabnika ravni
-- Vrsta kontrolnika: uporabnik Control, * * admin Control prek lupine PowerShell (kmalu na voljo)
+- Časovna usklajenost: stranke ciljane izdaje sredi julija **(prej** junija in končane za vse stranke do sredine avgusta **(prej pred avgustom).**
+- Uvajanje: uvajanje na ravni uporabnika
+- Vrsta kontrolnika: nadzor uporabnika, **Nadzor skrbnika prek lupine PowerShell (kmalu na voljo)

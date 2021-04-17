@@ -1,8 +1,8 @@
 ---
-title: Opomnike
+title: Opomniki
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "3415"
 - "9001434"
-ms.openlocfilehash: 04380315483f59fc0a1fb59aae3356abac32880c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12b48e0fb15559a1efc463ab90378757a32c28a1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693715"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831390"
 ---
-# <a name="cannot-dismiss-reminders"></a>Opomnikov ni mogoče zavrniti
+# <a name="cannot-dismiss-reminders"></a>Opomnikov ni mogoče opustiti
 
-Če želite več informacij o tem, kaj narediti, ko ne morete zavrniti opomnikov koledarja, [si oglejte ne morete uspešno zavrniti opomnikov koledarja v Outlooku](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders).
+Če želite informacije o tem, kaj narediti, ko ne morete opustiti opomnikov za koledar, glejte Opomnikov koledarja v Outlooku ni mogoče [uspešno opustiti.](https://docs.microsoft.com/exchange/troubleshoot/calendar-reminders/cannot-dismiss-outlook-calendar-reminders)
 

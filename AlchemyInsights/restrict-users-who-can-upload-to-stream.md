@@ -1,8 +1,8 @@
 ---
-title: Omejevanje uporabnikov, ki lahko prenesejo na pretočni prenos
+title: Omejevanje uporabnikov, ki lahko prenesejo v storitev Stream
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: ff84a15bb765021d7b6a2aec76cd917823669f0b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 964087efb30bda9f6f78786d92e8ffb9a8f5b8a9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740851"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831318"
 ---
-# <a name="restrict-users-who-can-upload-to-stream"></a>Omejevanje uporabnikov, ki lahko prenesejo na pretočni prenos
+# <a name="restrict-users-who-can-upload-to-stream"></a>Omejevanje uporabnikov, ki lahko prenesejo v storitev Stream
 
-Kot organizacija boste morda želeli omejiti zaposlene, ki lahko prenesejo videoposnetke. Vsi v organizaciji lahko privzeto prenesejo videoposnetke.
+Kot organizacija boste morda želeli omejiti zaposlene, ki lahko nalagajo videoposnetke. Videoposnetke lahko privzeto prenesejo vsi v vaši organizaciji.
 
-- [Omejevanje zaposlenih, ki lahko ustvarijo vsebino v storitvi Microsoft Stream](https://docs.microsoft.com/stream/restrict-uploaders)
+- [Omejevanje zaposlenih, ki lahko ustvarjajo vsebino v storitvi Microsoft Stream](https://docs.microsoft.com/stream/restrict-uploaders)

@@ -1,8 +1,8 @@
 ---
-title: Odpravljanje težav z možnostmi za vpis Microsoft InTune
+title: Odpravljanje težav z možnostmi včlanitve v Microsoft Intune
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,21 +13,21 @@ ms.assetid: 3891bd0c-374c-49aa-9336-86caccb9639e
 ms.custom:
 - "786"
 - "6200002"
-ms.openlocfilehash: 9e375d1ae3f6bfa56c4c050a296a0ae9b0ce05f9
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 84159de0f29782d3c2a6a92ac77322e4bec525dd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708618"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830922"
 ---
-# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Odpravljanje težav z možnostmi za vpis Microsoft InTune
+# <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>Odpravljanje težav z možnostmi včlanitve v Microsoft Intune
 
-Preglejte spodaj navedene vire, da odpravite težavo zdaj.
+Preglejte vire spodaj, da odpravite težavo.
   
-- [Pregled predstavitve TechNeta za iskanje odgovorov in rešitev za pogoste težave](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [Preglejte intune TechNet, če želite poiskati odgovore in rešitve za pogoste težave.](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc)
 
-- V [portalu za odpravljanje težav](https://aka.ms/intunetroubleshooting) s težavo lahko diagnosticirate in odpravite pogoste napake pri vpisu. Če želite več podrobnosti, preglejte [ta dokument](https://docs.microsoft.com/intune/help-desk-operators) .
+- S [portalom za odpravljanje težav za Intune](https://aka.ms/intunetroubleshooting) lahko diagnosticirate in odpravite pogoste napake z včlani. Preglejte [ta dokument,](https://docs.microsoft.com/intune/help-desk-operators) če želite več podrobnosti.
 
-- Preglejte [ta dokument](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) za seznam pogostih napak, ki preprečujejo vpis in resolucije.
+- V [tem dokumentu](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune) si oglejte seznam pogostih napak, ki preprečujejo včlanitev in rešitve za posamezne uporabnike.
 
-- [Preberite več o možnostih za vpis v programu Microsoft InTune](https://docs.microsoft.com/intune/enrollment-options).
+- [Preberite več o možnostih včlanitve v storitvi Microsoft Intune.](https://docs.microsoft.com/intune/enrollment-options)
