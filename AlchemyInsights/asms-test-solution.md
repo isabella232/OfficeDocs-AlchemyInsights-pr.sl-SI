@@ -1,8 +1,8 @@
 ---
-title: Raztopina testa ASMS
+title: Rešitev za preskušanje ASMS
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003544"
 - "6460"
-ms.openlocfilehash: 7bca50d709f139d87105a3622ea7a85f92afb899
-ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
+ms.openlocfilehash: 77ad79da91ab0949973c5b2f8e19e5e9d4015d95
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48300101"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821166"
 ---
-# <a name="asms-test-solution"></a><span data-ttu-id="02d1b-102">Raztopina testa ASMS</span><span class="sxs-lookup"><span data-stu-id="02d1b-102">ASMS Test Solution</span></span>
+# <a name="asms-test-solution"></a><span data-ttu-id="30d6d-102">Rešitev za preskušanje ASMS</span><span class="sxs-lookup"><span data-stu-id="30d6d-102">ASMS Test Solution</span></span>
 
-<span data-ttu-id="02d1b-103">Stranke Azure z dogovorom Azure Enterprise (EA), Microsoft Customer sporazum (MCA) ali Microsoft partnerski sporazum (MPA) si lahko ogledajo in prenesejo svoje cene v portalu Azure.</span><span class="sxs-lookup"><span data-stu-id="02d1b-103">Azure customers with an Azure Enterprise Agreement (EA), Microsoft Customer Agreement (MCA), or Microsoft Partner Agreement (MPA) may view and download their pricing in the Azure portal.</span></span>
+<span data-ttu-id="30d6d-103">Stranke storitve Azure s pogodbo Azure Enterprise Agreement (EA), Microsoftovo pogodbo za stranke (MCA) ali pogodbo Microsoft Partner Agreement (MPA) si lahko ogledajo in prenesejo svoje cene na portalu Azure.</span><span class="sxs-lookup"><span data-stu-id="30d6d-103">Azure customers with an Azure Enterprise Agreement (EA), Microsoft Customer Agreement (MCA), or Microsoft Partner Agreement (MPA) may view and download their pricing in the Azure portal.</span></span>
