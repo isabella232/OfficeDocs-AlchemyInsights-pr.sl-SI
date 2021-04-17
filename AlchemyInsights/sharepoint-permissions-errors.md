@@ -1,8 +1,8 @@
 ---
-title: Napake v SharePointovih dovoljenjih
+title: Napake SharePointovih dovoljenj
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: e2685734657cb9e9e8c43cd19ac024b795dcd49b
-ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
+ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47653412"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826611"
 ---
-# <a name="sharepoint-permissions-errors"></a><span data-ttu-id="be80e-102">Napake v SharePointovih dovoljenjih</span><span class="sxs-lookup"><span data-stu-id="be80e-102">SharePoint permissions errors</span></span>
+# <a name="sharepoint-permissions-errors"></a><span data-ttu-id="f086d-102">Napake SharePointovih dovoljenj</span><span class="sxs-lookup"><span data-stu-id="f086d-102">SharePoint permissions errors</span></span>
 
-<span data-ttu-id="be80e-103">Obstaja veliko scenarijev, ki lahko pozovejo eno od teh sporočil.</span><span class="sxs-lookup"><span data-stu-id="be80e-103">There are many scenarios that can prompt one of these messages.</span></span> <span data-ttu-id="be80e-104">Najbolj pogosto so dovoljenja za uporabnika ali skrbnika konfigurirana nepravilno ali pa sploh ni konfigurirana.</span><span class="sxs-lookup"><span data-stu-id="be80e-104">Most frequently, permissions for the user or administrator are configured incorrectly or not configured at all.</span></span> 
+<span data-ttu-id="f086d-103">Na voljo je veliko scenarijev, ki lahko pozovejo k enemu od teh sporočil.</span><span class="sxs-lookup"><span data-stu-id="f086d-103">There are many scenarios that can prompt one of these messages.</span></span> <span data-ttu-id="f086d-104">Najpogosteje so dovoljenja za uporabnika ali skrbnika konfigurirana nepravilno ali sploh niso konfigurirana.</span><span class="sxs-lookup"><span data-stu-id="f086d-104">Most frequently, permissions for the user or administrator are configured incorrectly or not configured at all.</span></span> 
 
-<span data-ttu-id="be80e-105">Če želite več informacij, si oglejte»[dostop zavrnjen «,» potrebujete dovoljenje za dostop do tega mesta «ali» uporabnika, ki ga ni mogoče najti v imeniku «v storitvi SharePoint online in OneDrive za podjetja](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span><span class="sxs-lookup"><span data-stu-id="be80e-105">For more information, please see "[Access Denied," "You need permission to access this site," or "User not found in the directory" errors in SharePoint Online and OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span></span>
+<span data-ttu-id="f086d-105">Če želite več informacij, glejte »Dostop je zavrnjen«, »Potrebujete dovoljenje za dostop do tega mesta« ali Napake »Uporabnika ni bilo mogoče najti v imeniku« v[SharePoint Onlineu in storitvi OneDrive za podjetja.](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)</span><span class="sxs-lookup"><span data-stu-id="f086d-105">For more information, please see "[Access Denied," "You need permission to access this site," or "User not found in the directory" errors in SharePoint Online and OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).</span></span>

@@ -1,8 +1,8 @@
 ---
-title: Kreditna zahteva zaradi izpada storitve
+title: Zahteva za dobropis zaradi nenajavnosti storitve
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d71712aa863dda10896407acc5a8c5f8c3760ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726863"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826467"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a><span data-ttu-id="81817-102">Kreditna zahteva zaradi izpada storitve</span><span class="sxs-lookup"><span data-stu-id="81817-102">Credit request due to a service outage</span></span>
+# <a name="credit-request-due-to-a-service-outage"></a><span data-ttu-id="45d23-102">Zahteva za dobropis zaradi nenajavnosti storitve</span><span class="sxs-lookup"><span data-stu-id="45d23-102">Credit request due to a service outage</span></span>
 
-<span data-ttu-id="81817-103">Če želite zaprositi za kreditno zahtevo zaradi izpada storitve, odprite zahtevo za storitev.</span><span class="sxs-lookup"><span data-stu-id="81817-103">To apply for a credit request due to a service outage, please open a service request.</span></span>
+<span data-ttu-id="45d23-103">Če želite zaprositi za kreditno zahtevo zaradi nenajavnosti storitve, odprite zahtevo za storitev.</span><span class="sxs-lookup"><span data-stu-id="45d23-103">To apply for a credit request due to a service outage, please open a service request.</span></span>
 
-<span data-ttu-id="81817-104">Prepričajte se, da imate ID incidenta, ki ste ga našli na [strani za zdravstveno stanje storitve](https://docs.microsoft.com/office365/enterprise/view-service-health) v skrbniškem središču za Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="81817-104">Please be sure to have the Incident ID, found in the [service health page](https://docs.microsoft.com/office365/enterprise/view-service-health) in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="45d23-104">Id dogodka, ki ga najdete [](https://docs.microsoft.com/office365/enterprise/view-service-health) na strani stanje storitve v Skrbniškem središču za Microsoft 365, morate imeti.</span><span class="sxs-lookup"><span data-stu-id="45d23-104">Please be sure to have the Incident ID, found in the [service health page](https://docs.microsoft.com/office365/enterprise/view-service-health) in the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="81817-105">Bodite pozorni na to, da je vaša zahteva obdelana, da bo upoštevala vpliv izpadov.</span><span class="sxs-lookup"><span data-stu-id="81817-105">Please be advised that, as your request is processed, it will undergo validations to observe the impact of the outage.</span></span>
+<span data-ttu-id="45d23-105">Svetujemo vam, da ob obdelavi zahteve izvedete preverjanje veljavnosti, pri tem pa upoštevate vpliv outage.</span><span class="sxs-lookup"><span data-stu-id="45d23-105">Please be advised that, as your request is processed, it will undergo validations to observe the impact of the outage.</span></span>

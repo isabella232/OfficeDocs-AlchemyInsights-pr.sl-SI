@@ -1,8 +1,8 @@
 ---
-title: Nadgradnja iz storitve Skype za podjetja online v Teams
+title: Nadgradnja s Skypa za podjetja Online na Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2693"
-ms.openlocfilehash: ade3a20530a30ca5a703ce5a22af883cb827aecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6febce6559b697261c1a8dc3d72a39df2fb80652
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734747"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827340"
 ---
-# <a name="upgrade-from-skype-for-business-online-to-teams"></a><span data-ttu-id="457a3-102">Nadgradnja iz storitve Skype za podjetja online v Teams</span><span class="sxs-lookup"><span data-stu-id="457a3-102">Upgrade from Skype for Business Online to Teams</span></span>  
+# <a name="upgrade-from-skype-for-business-online-to-teams"></a><span data-ttu-id="07e54-102">Nadgradnja s Skypa za podjetja Online na Teams</span><span class="sxs-lookup"><span data-stu-id="07e54-102">Upgrade from Skype for Business Online to Teams</span></span>  
 
-<span data-ttu-id="457a3-103">Upoštevajte navodila v tem članku, če ste uvedli Skype za podjetja online in želite nadgraditi uporabnike iz Skype za podjetja v teams.</span><span class="sxs-lookup"><span data-stu-id="457a3-103">Follow the guidance in the article below if you have deployed Skype for Business Online and want to upgrade your users from Skype for Business to Teams.</span></span> <span data-ttu-id="457a3-104">Uporabnike lahko nadgradite v fazah ali vse hkrati, in sicer glede na pot nadgradnje, ki jo je vaša organizacija izbrala, tako da uporabnikom dodelite ustrezen način soobstoj in nadgradnje.</span><span class="sxs-lookup"><span data-stu-id="457a3-104">You can upgrade users in stages or all at one time, based on the upgrade journey that your organization has chosen, by assigning the appropriate coexistence and upgrade mode to your users.</span></span>
+<span data-ttu-id="07e54-103">Če ste deployedili Skype za podjetja Online in želite nadgraditi uporabnike iz Skypa za podjetja v Teams, upoštevajte navodila v tem članku.</span><span class="sxs-lookup"><span data-stu-id="07e54-103">Follow the guidance in the article below if you have deployed Skype for Business Online and want to upgrade your users from Skype for Business to Teams.</span></span> <span data-ttu-id="07e54-104">Uporabnike lahko nadgradite po stopnjah ali vse hkrati na podlagi poti nadgradnje, ki jo je izbrala vaša organizacija, tako da uporabnikom dodelite ustrezno soobstoj in način nadgradnje.</span><span class="sxs-lookup"><span data-stu-id="07e54-104">You can upgrade users in stages or all at one time, based on the upgrade journey that your organization has chosen, by assigning the appropriate coexistence and upgrade mode to your users.</span></span>
 
-[<span data-ttu-id="457a3-105">Nadgradnja iz storitve Skype za podjetja online v Teams</span><span class="sxs-lookup"><span data-stu-id="457a3-105">Upgrade from Skype for Business Online to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 
+[<span data-ttu-id="07e54-105">Nadgradnja s Skypa za podjetja Online na Teams</span><span class="sxs-lookup"><span data-stu-id="07e54-105">Upgrade from Skype for Business Online to Teams</span></span>](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline) 

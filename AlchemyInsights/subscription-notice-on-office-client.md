@@ -1,8 +1,8 @@
 ---
-title: Obvestilo o naročnini na Office Client
+title: Obvestilo o naročnini v Officeovem odjemalcu
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: f51d1fe248be9f8b71dc682851622ae6ed171f71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5682ed0496f17ab4a119aa9608d5e05de7bf060e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773683"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827952"
 ---
-# <a name="subscription-notice-in-your-office-client"></a><span data-ttu-id="beb48-102">Obvestilo o naročnini v Officeovem odjemalcu?</span><span class="sxs-lookup"><span data-stu-id="beb48-102">Subscription notice in your Office client?</span></span>
+# <a name="subscription-notice-in-your-office-client"></a><span data-ttu-id="89d76-102">Obvestilo o naročnini v Officeovem odjemalcu?</span><span class="sxs-lookup"><span data-stu-id="89d76-102">Subscription notice in your Office client?</span></span>
 
-<span data-ttu-id="beb48-103">Videti je, da vidite obvestilo v Officeovem odjemalcu, ki je povezano s stanjem naročnine.</span><span class="sxs-lookup"><span data-stu-id="beb48-103">It looks like you are seeing a notice in your Office client related to the status of your subscription.</span></span> <span data-ttu-id="beb48-104">Informacije o tem, kako odpravite težavo v tem članku: [prikaže se obvestilo o naročnini, ko odprem program Microsoft 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span><span class="sxs-lookup"><span data-stu-id="beb48-104">You can find information on how to fix the issue in this article: [A subscription notice appears when I open a Microsoft 365 application](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span></span>
+<span data-ttu-id="89d76-103">Videti je, da v odjemalcu sistema Office vidite obvestilo, ki se nanaša na stanje vaše naročnine.</span><span class="sxs-lookup"><span data-stu-id="89d76-103">It looks like you are seeing a notice in your Office client related to the status of your subscription.</span></span> <span data-ttu-id="89d76-104">Informacije o odpravljaju težave najdete v tem članku: Ko odprem aplikacijo za [Microsoft 365,](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx) se prikaže obvestilo o naročnini.</span><span class="sxs-lookup"><span data-stu-id="89d76-104">You can find information on how to fix the issue in this article: [A subscription notice appears when I open a Microsoft 365 application](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)</span></span>
   
-<span data-ttu-id="beb48-105">Če je vaša naročnina posodobljena, je morda prišlo do začasne težave, ki je povzročila neuspešno aktiviranje Officea.</span><span class="sxs-lookup"><span data-stu-id="beb48-105">If your subscription is up-to-date, you might have hit a temporary issue that caused your Office activation to fail.</span></span> <span data-ttu-id="beb48-106">Na voljo so preprosti koraki, s katerimi se lahko izognete tem sporočilom, kot je preverjanje časa računalnika, zagon Officea kot skrbnika in vpis v aktiviranje.</span><span class="sxs-lookup"><span data-stu-id="beb48-106">There are simple steps you can take to avoid these messages, like checking your computer time, running Office as Administrator, and signing in to activate.</span></span> <span data-ttu-id="beb48-107">Če želite odpraviti te težave v tem članku, lahko poiščete podrobne korake: [napake nelicenciranega izdelka in aktiviranje](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span><span class="sxs-lookup"><span data-stu-id="beb48-107">You can find detailed steps to fix those issues in this article: [Unlicensed Product and activation errors](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span></span>
+<span data-ttu-id="89d76-105">Če je vaša naročnina posodobljena, je morda prišlo do začasne težave, zaradi nje ni bilo mogoče aktivirati Officea.</span><span class="sxs-lookup"><span data-stu-id="89d76-105">If your subscription is up-to-date, you might have hit a temporary issue that caused your Office activation to fail.</span></span> <span data-ttu-id="89d76-106">Tem sporočilom se lahko izognete s preprostimi koraki, na primer preverjanje časa v računalniku, zagon Officea kot skrbnik in vpis za aktiviranje.</span><span class="sxs-lookup"><span data-stu-id="89d76-106">There are simple steps you can take to avoid these messages, like checking your computer time, running Office as Administrator, and signing in to activate.</span></span> <span data-ttu-id="89d76-107">Podrobna navodila za odpravljanje teh težav najdete v tem članku: Napake [v zvezi z nelicenciranim izdelkom in aktiviranjem.](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx)</span><span class="sxs-lookup"><span data-stu-id="89d76-107">You can find detailed steps to fix those issues in this article: [Unlicensed Product and activation errors](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).</span></span>
   
-<span data-ttu-id="beb48-108">Če ti ne delujejo, se obrnite na nas s spodnjimi povezavami in z veseljem vam bomo pomagali.</span><span class="sxs-lookup"><span data-stu-id="beb48-108">If these don't work for you, please contact us with the links below and we will be glad to help.</span></span>
+<span data-ttu-id="89d76-108">Če vam te možnosti ne delujejo, se obrnite na nas prek spodnjih povezav in z veseljem vam bomo pomagali.</span><span class="sxs-lookup"><span data-stu-id="89d76-108">If these don't work for you, please contact us with the links below and we will be glad to help.</span></span>
