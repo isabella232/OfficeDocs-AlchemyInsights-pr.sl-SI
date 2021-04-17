@@ -2,7 +2,7 @@
 title: Dovoljenja za Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2658"
 - "9000730"
-ms.openlocfilehash: e4acfcfdb65bbe5310f062f4f6cd21889159ec4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6ce1a6344c70f43f76164612bc55b95a61e97d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777728"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833775"
 ---
 # <a name="microsoft-teams-permissions"></a>Dovoljenja za Microsoft Teams
 
-Microsoft Teams vključuje dve uporabniški vlogi: lastnik in član. Uporabniku, ki ustvari novo skupino, je privzeto dodeljen status lastnika. Poleg tega imajo lahko lastniki in člani funkcije moderatorja za kanal (če je bil nastavljen moderiranje). Če je ekipa ustvarjena iz obstoječe skupine Microsoft 365, so dovoljenja podedovana. Če želite več informacij, si oglejte:
+Microsoft Teams vključuje dve uporabniški vlogi: lastnika in člana. Uporabniku, ki ustvari novo skupino, je privzeto dodeljen status lastnika. Lastniki in člani imajo lahko zmogljivosti moderatorja za kanal (če je upravljanje nastavljeno). Če skupino ustvarite iz obstoječe skupine v storitvi Microsoft 365, so podedovirana dovoljenja. Če želite več informacij, si oglejte:
 
-- [Dodeljevanje lastnikov in članov skupine v aplikaciji Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
-- [Dovoljenja in premisleki aplikacije Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
-- [Nastavitev dovoljenj za goste za kanale v aplikaciji Teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)
+- [Dodeljevanje lastnikov in članov ekip v aplikaciji Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-roles-permissions)
+- [Dovoljenja in pomisleki za aplikacije Microsoft Teams](https://docs.microsoft.com/microsoftteams/app-permissions)
+- [Nastavljanje dovoljenj za goste za kanale v teams](https://support.office.com/article/4756c468-2746-4bfd-a582-736d55fcc169)

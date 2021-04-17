@@ -2,7 +2,7 @@
 title: Prepoznavanje ID-ja najemnika
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002889"
 - "5517"
-ms.openlocfilehash: 7b41f44e251fa1668c6fc5073a432681fc9265a7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b64e3ea72265e99f843ef47b37a29c85738009aa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668290"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834063"
 ---
 # <a name="identify-your-tenant-id"></a>Prepoznavanje ID-ja najemnika
 
-Poiščite ID organizacije Microsoft 365 (ID najemnika) v skrbniškem središču za Azure.
+Poiščite ID organizacije za Microsoft 365 (ID najemnika) v Skrbniškem središču za Azure.
 
-1. Na [strani lastnosti](https://aka.ms/AzurePropertiesPage)pojdite v polje **ID imenika** .
+1. Na strani [Lastnosti pojdite](https://aka.ms/AzurePropertiesPage)v polje **ID imenika.**
 
 2. Po potrebi kopirajte ID.
 
-Če želite več informacij, glejte [Iskanje ID-ja organizacije Microsoft 365](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id).
+Če želite več informacij, [glejte Iskanje ID-ja organizacije za Microsoft 365.](https://docs.microsoft.com/onedrive/find-your-office-365-tenant-id)

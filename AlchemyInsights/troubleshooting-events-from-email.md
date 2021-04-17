@@ -1,8 +1,8 @@
 ---
-title: Odpravljanje težav z e-pošto
+title: Odpravljanje težav z dogodki iz e-pošte
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658750"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834855"
 ---
-# <a name="troubleshooting-events-from-email"></a>Odpravljanje težav z e-pošto
+# <a name="troubleshooting-events-from-email"></a>Odpravljanje težav z dogodki iz e-pošte
 
-1. Preverite, ali je funkcija omogočena za nabiralnik: **Get-EventsFromEmailConfiguration- <mailbox> Identity**
+1. Preverite, ali je funkcija omogočena za nabiralnik: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. Nato si oglejte dnevniki» dogodki iz e-pošte « **Izvozi – MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
+2. Nato si oglejte dnevnike »Dogodki iz **e-pošte« Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. V dnevnikih» dogodki iz e-pošte «poiščite InternetMessageId, ki se ujema z elementom v nabiralniku.  
+3. V dnevnikih »Dogodki iz e-pošte« poiščite IDza InternetMessageId, ki se ujema z elementom v nabiralniku.  
 
-4. TrustScore določi, ali je element dodan ali ne. Dogodki bodo dodani le, če je TrustScore = "zaupanja vreden".
+4. TrustScore določi, ali je element dodan ali ne. Dogodki bodo dodani le, če je TrustScore = »Zaupanja vreden«.
 
-TrustScore je določen z lastnostmi SPF, DKIM ali dMarc, ki so v glavi sporočila.
+TrustScore določa lastnosti SPF, Dkim ali Dmarc, ki so v glavi sporočila.
 
 Če si želite ogledati te lastnosti:
 
-**Namizni Outlook**
+**Namizna različica Outlooka**
 
 - Odpiranje elementa
-- Lastnosti datoteke >-> internetne glave
+- File -> Properties -> Internet Headers
 
 ali
 
 **MFCMapi**
 
-- Pomikanje do elementa v mapi» Prejeto «
+- Krmarjenje do elementa v mapi »Prejeto«
 - Poiščite PR_TRANSPORT_MESSAGE_HEADERS_W
 
-Te lastnosti so določene in zabeležene med prevozom in usmerjanjem. Če želite dodatno odpraviti težave, boste morda morali nadaljevati s podporo za prenos informacij o napakah v SPF, DKIM in. or DMARC.
+Te lastnosti so določene in zapisane med transportom in usmerjanjem. Za dodatno odpravljanje težav boste morda morali upoštevati podporo za prenos v zvezi z napakami v SPF, DKIM in.or DMARC.

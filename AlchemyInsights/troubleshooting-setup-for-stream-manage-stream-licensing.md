@@ -1,8 +1,8 @@
 ---
-title: Odpravljanje težav z nastavitvijo za Stream-upravljanje toka licenciranja
+title: Odpravljanje težav z nastavitvijo storitve Stream – upravljanje licenciranja storitve Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 43d0a04194214a9630958ad80707187d9f8f3270
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc09331d58503f5f44d8b942d81a00235ddf1585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749674"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834783"
 ---
 # <a name="managing-microsoft-stream-licenses"></a>Upravljanje licenc za Microsoft Stream
 
-**Pomembno:** Če želite izvesti postopke, opisane v tej temi, morate biti v skrbniški vlogi najemnika.
+**Pomembno:** Če želite izvajati postopke, opisane v tej temi, morate imeti vlogo skrbnika najemnika.
 
-Morate biti globalni skrbnik ali skrbnik za upravljanje uporabnikov. Več informacij najdete v članku [o skrbniških vlogah](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
+Biti morate globalni skrbnik ali skrbnik upravljanja uporabnikov. Če želite več informacij, glejte [O skrbniških vlogah.](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles)
 
-Licence lahko dodelite [uporabniškim računom s storitvijo Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
+Licence lahko [uporabniškim računom dodelite s storitvijo Office 365 PowerShell.](https://go.microsoft.com/fwlink/p/?linkid=850410)

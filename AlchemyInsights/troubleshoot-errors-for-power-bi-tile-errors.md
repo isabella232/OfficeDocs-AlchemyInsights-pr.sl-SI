@@ -1,8 +1,8 @@
 ---
-title: Odpravljanje težav z osveževanjem – napake ploščic
+title: Odpravljanje težav s scenariji osveževanja – napake ploščic
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5e71338da7bc9bdc1bc72c37479e5207fe32abf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690691"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834927"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Odpravljanje težav z osveževanjem – napake ploščic
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>Odpravljanje težav s scenariji osveževanja – napake ploščic
 
-Če pride do napak pri osveževanju ploščic v storitvi Power bi, počakajte približno 10-15 minut za osveževanje, ki jih je treba odražati v ploščicah nadzorne plošče. Če se še vedno ne prikaže, znova pripnite ponazoritev na nadzorno ploščo.
+Če pride do napak pri osveževanju ploščic v storitvi Power BI, počakajte približno 10–15 minut, da se osveževanje odraža na ploščicah nadzorne plošče. Če ponazoritev še vedno ni prikazana, jo znova pripni na nadzorno ploščo.
 
 Če želite več informacij: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

@@ -1,29 +1,30 @@
 ---
-title: Nekdo je že nastavil ekipo za vašo napako v organizaciji
+title: Napaka Nekdo je že nastavil Teams za vašo organizacijo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002343"
 - "5063"
-ms.openlocfilehash: 0aa2d68e737faba8b8558a1581e25bdb14e5a9ff
-ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
-ms.translationtype: MT
+ms.openlocfilehash: a22b8d7a64645b57eb813fb2cfc7c45cc90f556a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "44283065"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835323"
 ---
-# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>» Nekdo je že nastavil napako skupine Teams za vašo organizacijo «
+# <a name="someone-has-already-set-up-teams-for-your-organization-error"></a>Napaka »Nekdo je že nastavil Teams za vašo organizacijo«
 
-Če vidite napako» nekdo je že nastavil ekipe za vašo organizacijo «v storitvi Teams, je to lahko posledica:
+Če se v aplikaciji Teams prikaže napaka »Nekdo je že nastavil Teams za vašo organizacijo«, je to lahko posledica:
 
-1. Nekdo je že nastavil ekipo za vas. Preverite vaš e-poštni naslov za povabilo ali poskusite prijaviti v Teams v zasebnem/Incognito spletni brskalnik z vašimi domenskimi poverilnicami na [https://teams.microsoft.com](https://teams.microsoft.com) .
+1. Nekdo je za vas že nastavil Teams. Poiščite povabilo v svoji e-pošti ali se poskusite prijaviti v Teams v zasebnem spletnem brskalniku/brskalniku brez beleženja zgodovine s poverilnicami domene na [https://teams.microsoft.com](https://teams.microsoft.com).
 
-2. Poskušate se prijaviti s svojim e-poštnim naslovom, ki je vezan tako na delo kot na osebni račun. Contoso.com se na primer uporablja za Microsoftov račun storitve (Live ID) in vaš delovni račun (Active Directory). Če je temu tako, poskusite ustvariti ekipe v novem zasebnem/Incognito oknu brskalnika in izberite "Work ali School" različico vašega vpis namesto osebnega. Če to ne deluje, jih morate odstraniti, da bi pravilno ustvarili brezplačni račun teams. Če želite to narediti, upoštevajte navodila v razdelku» želim uporabiti drug naslov ali telefonsko številko za vpis «na strani, [spremenite e-poštni naslov ali telefonsko številko za svoj Microsoftov račun](https://support.microsoft.com/help/12407).
+2. Poskušate se prijaviti s svojim e-poštnim naslovom, ki je povezan tako s službenim kot z osebnim računom. Contoso.com se na primer uporablja tako za vaš Microsoftov račun storitve (Live ID) kot za vaš službeni račun (Active Directory). V tem primeru poskusite ustvariti Teams v novem oknu zasebnega brskalnika/brskalnika brez beleženja zgodovine in namesto osebne izberite različico »Služba ali šola« za prijavo. Če ne želite delovati, morate odstraniti povezave, da pravilno ustvarite brezplačen račun Teams. Če želite to storiti, sledite korakom v razdelku »Želim uporabiti drug naslov ali telefonsko številko za prijavo« na strani, [Spremenite e-poštni naslov ali telefonsko številko za svoj Microsoftov račun.](https://support.microsoft.com/help/12407).
 
-3. Vaš trenutni delovni naslov poskušate prijaviti svobodni najemniku. V tem primeru naj to ne bi uspelo, zato morate s tem naslovom uporabiti najemnika vaše organizacije. Brezplačno lahko ustvarite račun Teams z osebnim e-poštnim naslovom za vsako osebno uporabo [tukaj](https://products.office.com/microsoft-teams/group-chat-software).
+3. Svoj trenutni službeni naslov poskušate prijaviti brezplačnemu najemniku. V tem primeru bi to naj tukaj propadlo in s tem naslovom boste morali uporabiti najemnika organizacije. [Tukaj](https://products.office.com/microsoft-teams/group-chat-software) lahko ustvarite brezplačen račun Teams z osebnim e-poštnim naslovom za katero koli osebno uporabo.

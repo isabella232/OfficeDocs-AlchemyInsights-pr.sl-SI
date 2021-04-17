@@ -1,8 +1,8 @@
 ---
-title: Ali poskušate poiskati preskusno različico?
+title: Ali skušate najti preskusno različico?
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "488"
 - "1500033"
 ms.assetid: 12edf610-e7f1-4693-b767-a8d67b09c10b
-ms.openlocfilehash: 37670ede6c60292282c16a8da3a888c10e96bc76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb6d6dc4aad5e5b00b34f93211a51ba6edcdbeec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658390"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834711"
 ---
-# <a name="trying-to-find-a-trial"></a>Ali poskušate poiskati preskusno različico?
+# <a name="trying-to-find-a-trial"></a>Ali skušate najti preskusno različico?
 
-Če želite preskusiti novo storitev, lahko v skrbniškem središču za Microsoft 365 najdete seznam naročnin, ki so na voljo za preskus.
+Če želite preskusiti novo storitev, lahko seznam naročnin, ki so na voljo za preskusno različico, najdete v Skrbniškem središču za Microsoft 365.
   
-1. V skrbniškem središču obiščite stran storitve za **nakup obračunavanja** \> [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433) .
+1. V skrbniškem središču odprite stran **Nakupi** \> [obračunavanja.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 
-2. Izberite naročnino, ki ustreza vašim potrebam, in nato izberite  **pridobite brezplačno preskusno različico**.
+2. Izberite naročnino, ki ustreza vašim potrebam, in nato izberite  **Dobi brezplačno preskusno različico**.
 
     > [!NOTE]
-    > Med preskusom niso na voljo vsi naročnine. Če ne vidite gumba» **dobi brezplačen preskus** «, ko miško pokažete na naročnino, to pomeni, da preskus ni na voljo.
+    > Vse naročnine niso na voljo kot preskusna različica. Če ne vidite gumba Dobi **brezplačen preskus,** ko kazalec miške premaknete na naročnino, to pomeni, da preskusna različica ni na voljo.
   
-3. Morda boste pozvani, da vnesete kreditno kartico ali drug način plačila, da zagotovite dodatno preverjanje kot varnostni ukrep. Za to brezplačno preskusno različico vam ne bomo zaračunali. Podatke o plačilu bomo obdržali v datoteki in ga ne boste uporabili za noben nakup brez vaše odobritve.
+3. Morda boste morali vnesti kreditno kartico ali drug način plačila za zagotavljanje dodatnega preverjanja kot varnostnega ukrepa. Te brezplačne preskusne različice vam ne bomo zaračunali. Vaše podatke o plačilu bomo hranili in jih brez vaše odobritve ne bomo uporabili za kakršen koli nakup.
 
-4. Izberite **poskusi zdaj**.
+4. Izberite **Preskusi zdaj.**

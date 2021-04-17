@@ -2,7 +2,7 @@
 title: Zunanja skupna raba v storitvi Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3771"
-ms.openlocfilehash: 2d6831cfc8a35b8c7dc698ff57909fc024aa2691
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cd4ecb27d5ef6befb87c73f02b23975089e837c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675242"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833991"
 ---
 # <a name="microsoft-stream-external-sharing"></a>Zunanja skupna raba v storitvi Microsoft Stream
 
-Microsoft Stream še ne podpira scenarijev zunanje skupne rabe za goste ali osebe zunaj vaše organizacije. Vemo, da so te funkcije zelo potrebne in pripravljamo načrte za ustvarjanje teh funkcij.
+Microsoft Stream še ne podpira scenarijev zunanje skupne rabe za goste ali osebe zunaj organizacije. Vemo, da so te funkcije zelo potrebne, in delamo na načrtih za ustvarjanje teh funkcij.
 
 - [Zunanja skupna raba v toku](https://docs.microsoft.com/stream/portal-share-video#external-sharing)
 
-- [Skupna raba videov v programu Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
+- [Skupna raba videoposnetkov v storitvi Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)

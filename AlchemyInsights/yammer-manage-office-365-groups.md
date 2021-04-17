@@ -1,8 +1,8 @@
 ---
-title: 'Bastard – upravljanje skupin Microsoft 365 '
+title: 'Yammer – upravljanje skupin v storitvi Microsoft 365 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 543972a81a8958951e31d63a632283d07c06de4c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb5959f74793ce146d326d2ddc32c359daecc3ba
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668903"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834099"
 ---
-# <a name="manage-microsoft-365-groups-in-yammer"></a>Upravljanje skupin Microsoft 365 v storitvi Bastard
+# <a name="manage-microsoft-365-groups-in-yammer"></a>Upravljanje skupin v storitvi Microsoft 365 v storitvi Yammer
 
-Tukaj je nekaj odgovorov na najpogostejše težave s skupinami Microsoft 365 v storitvi Bastard.
+Tu je nekaj odgovorov na najpogostejše težave s skupinami storitve Microsoft 365 v storitvi Yammer.
 
-* **Microsoft 365 skupine** so delovni prostor v skupni rabi za e-pošto, pogovore, datoteke in dogodke, kjer lahko člani skupine sodelujejo. V Bastard imajo skupine Microsoft 365 številne prednosti v skupinah, ki niso v povezavi Bastard. Lahko na primer ustvarjate in gostite dogodke v živo, obnovite izbrisane skupine, uporabite dinamično članstvo v skupini, samodejno arhiviranje in dostopate do virov v skupni rabi, kot so SharePoint, OneNote in Planner.
+* **Skupine storitve Microsoft 365 so** delovni prostor v skupni rabi za e-pošto, pogovore, datoteke in dogodke, kjer lahko člani skupine sodelujejo. S storitvijo Yammer imajo skupine v storitvi Microsoft 365 veliko prednosti pred nepovezanimi skupinami v storitvi Yammer. Ustvarite lahko na primer dogodke v živo in jih gostite, obnovite izbrisane skupine, uporabite dinamično članstvo v skupini, samodejno arhivirate in dostopate do virov v skupni rabi, kot so SharePoint, OneNote in Planner.
 
-* Poveste lahko, ali je skupina Bastard povezanih s skupinami Microsoft 365, ko vidite razdelek **viri sistema Office 365** (SharePoint, OneNote, Planner) na desnem krmarjenju po skupini. Če viri niso na voljo, potrdite to možnost.
+* Če v desnem podoknu za krmarjenje skupine vidite razdelek z viri storitve Office 365 (Sharepoint, OneNote, Planner) skupine v storitvi **Office 365,** lahko vidite, ali je skupina v storitvi Yammer povezana s skupinami. Če viri niso na voljo, preverite to:
 
-  1. Omrežje Bastard mora biti v 1 najemnik: 1 Konfiguracija omrežja. Če želite preveriti, ali ste v konfiguraciji za 1:1, uporabite **orodje za selitev omrežja** , kot je opisano v [selitvi omrežja – uskladitev več Bastard omrežij](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. Omrežje storitve Yammer mora biti v konfiguraciji omrežja 1 najemnika:1. in preverite, ali uporabljate konfiguracijo 1:1, uporabite orodje za selitev omrežja, kot je opisano v poglavju Selitev omrežja – usklajevanje več omrežij [storitve Yammer.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks) 
 
-  2. Prebrskajte do **skrbnika omrežja, varnostne nastavitve**in zagotovite, da je **identiteta sistema Office 365** uveljavljena za uporabnike Bastard.
+  2. Prebrskajte **do možnosti Skrbnik omrežja, Nastavitev varnosti** in se prepričajte, da je identiteta Office **365** uveljavljena za uporabnike storitve Yammer.
 
-Če želite več informacij o skupinah in Bastard v storitvi Microsoft 365, glejte [Bastard in skupine microsoft 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). Če želite več informacij o upravljanju skupine, glejte [Upravljanje skupine v Bastard](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+Če želite več informacij o skupinah storitve Microsoft 365 in storitvi Yammer, glejte Skupine v storitvi Yammer in [Microsoft 365.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) Če želite več informacij o upravljanju skupine, glejte [Upravljanje skupine v storitvi Yammer.](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
