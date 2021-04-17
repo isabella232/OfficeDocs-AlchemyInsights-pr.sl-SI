@@ -1,8 +1,8 @@
 ---
-title: Vse pravilo za ulov naprednega uvajanja
+title: Napredna uvedba – zasuka vse pravilo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 audience: ITPro
 ms.topic: article
@@ -13,20 +13,20 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: bc340bb0242315eb46767074ce846df9393bc426
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
+ms.openlocfilehash: ec85676df299227a895c2755e8c26f9227fd113b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51123003"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821787"
 ---
-# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Namestitev Officea s svetovalcem za uvajanje programa Microsoft 365 apps
+# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a>Namestitev Officea s svetovalcem za uvedbo aplikacij za Microsoft 365
 
-[Svetovalec za uvajanje programa Microsoft 365 apps](https://go.microsoft.com/fwlink/?linkid=2145748) vam pomaga pridobiti naprave uporabnikov, ki izvajajo najnovejšo različico Officeovih izdelkov, kot so Word, Excel, PowerPoint in OneNote.
+Svetovalec za uvedbo aplikacij za [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2145748) vam pomaga pri uvajanju najnovejše različice Officeovih izdelkov, kot so Word, Excel, PowerPoint in OneNote, v napravah uporabnikov.
   
-Na voljo so navodila za različne metode uvajanja, ki vključujejo preproste možnosti za samostojno namestitev in uvajanje podjetij z orodji za upravljanje. Navodila vam bodo v pomoč pri ocenjevanju okolja, razbrati določene zahteve za uvedbo in izvedli potrebna orodja za podporo, da zagotovite uspešno namestitev.
+Dobili boste navodila za različne načine uvajanja, ki vključujejo preproste možnosti samonad namestitve, kot tudi uvedbe za podjetja z orodji za upravljanje. Z navodili boste lahko ocenili svoje okolje, ugotovili določene zahteve za uvedbo in izvedejo potrebna orodja za podporo ter tako zagotovili uspešno namestitev.
   
-Če želite več informacij o nastavitvi programa Microsoft 365 in pripravi okolja za Microsoft 365 in Office 365 Services, glejte:
+Če želite informacije o nastavitvi storitve Microsoft 365 in pripravi okolja za Microsoft 365 in storitve Office 365, glejte:
 
-- [Priprava priročnika za okolje](https://go.microsoft.com/fwlink/?linkid=2005213)
-- [Vodnik za nastavitev za Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2072646)
+- [Priprava vodnika za okolje](https://go.microsoft.com/fwlink/?linkid=2005213)
+- [Vodnik za nastavitev storitve Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2072646)

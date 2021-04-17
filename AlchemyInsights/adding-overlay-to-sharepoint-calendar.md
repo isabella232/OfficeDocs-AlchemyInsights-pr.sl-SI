@@ -1,8 +1,8 @@
 ---
-title: Dodajanje prosojnice v SharePointov koledar
+title: Dodajanje prekrivanja v SharePointov koledar
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2587"
-ms.openlocfilehash: 62db9568f228d0a14413c1678b47cfb09a3d25c4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f105c2e6035f7ac49c669d1196b688ab20ce34a7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663385"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822075"
 ---
-# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Dodajanje prosojnice v SharePointov koledar
+# <a name="adding-an-overlay-to-a-sharepoint-calendar"></a>Dodajanje prekrivanja v SharePointov koledar
 
-SharePointovi koledarji so klasične vrste seznamov, ki so včasih zamenjane s koledarji skupine Microsoft 365.
+SharePointovi koledarji so klasične vrste seznama, ki so včasih zamenjane s koledarji skupine v storitvi Microsoft 365.
  
-Če uporabljate SharePointov koledar na spletnem mestu, lahko v njem prekrivite lasten Exchangeev koledar, da ustvarite kombiniran pogled koledarja. Lahko pa tudi preslikate drug SharePointov koledar, dokler sta oba SharePointova koledarja v isti zbirki mest.
+Če na svojem spletnem mestu uporabljate SharePointov koledar, ga lahko prekrivnete s svojim Exchangeevim koledarjem in tako ustvarite pogled združenih koledarjev. Lahko pa prekrivnete drug SharePointov koledar, vendar morata biti oba SharePointova koledarja v isti zbirki mest.
  
-Če želite dodati prosojnico s klasičnim SharePointovim koledarjem, sledite navodilom v razdelku [prekrivanje SharePointovega koledarja s koledarjem iz strežnika Exchange ali SharePoint](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A).
+Če želite dodati prekrivanje v klasični SharePointov koledar, upoštevajte korake v možnosti Prekrivanje SharePointovega koledarja s koledarjem iz [Exchangea ali SharePointa.](https://support.office.com/article/Overlay-a-SharePoint-calendar-with-a-calendar-from-Exchange-or-SharePoint-4CAEBE59-3994-4A94-9322-B31ABB8A5E9A)

@@ -1,8 +1,8 @@
 ---
-title: Imenik Active Directory ni sinhroniziran
+title: Imenik Active Directory se ne sinhronizira
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001688"
 - "3754"
-ms.openlocfilehash: 3517f424b4dcd89f915acebab747a9bff993fdbd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 274855457a143cfccd25f9a161ff894882cee9c4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697645"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822867"
 ---
-# <a name="active-directory-not-syncing"></a>Imenik Active Directory ni sinhroniziran
+# <a name="active-directory-not-syncing"></a>Imenik Active Directory se ne sinhronizira
 
-Če prejemate napake pri sinhronizaciji, na primer» ni nedavne sinhronizacije «ali obvestilo o stanju sinhronizacije imenika v skrbniškem portalu za Office, je» nazadnje sinhronizirano več kot 3 dni nazaj «, da ima AADConnect nepravilne nastavitve ali nezadostna dovoljenja za izvajanje sinhronizacije.  
+Če prejemate napake pri sinhronizaciji, na primer »ni nedavne sinhronizacije«, ali pa opazite stanje sinhronizacije imenika v skrbniškem portalu za Office pravi »Nazadnje sinhronizirano pred več kot 3 dnevi«, ima AADConnect morda nepravilne nastavitve ali nezadostna dovoljenja za izvajanje sinhronizacije.  
 
-Če znova namestite AADConnect z izrazi z izrecnimi nastavitvami, lahko hitro odpravite težavo:
+Če znova namestite AADConnect s hitrimi nastavitvami, boste težavo morda lahko hitreje odpravili:
 
-1. [Prenesite najnovejšo različico storitve AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
+1. [Prenesite najnovejšo različico programa AADConnect.](https://go.microsoft.com/fwlink/?LinkId=615771)
 
-2. [Sledite navodilom za ekspresno namestitev](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+2. [Upoštevajte navodila za hitro namestitev.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-Če želite več informacij o računih storitve AADConnect, glejte [povezavo AZURE ad Connect: računi in dovoljenja](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+Če želite več informacij o računih storitve AADConnect, glejte [Azure AD Connect: računi in dovoljenja.](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions)
