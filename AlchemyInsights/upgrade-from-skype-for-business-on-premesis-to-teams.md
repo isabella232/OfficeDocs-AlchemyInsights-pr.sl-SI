@@ -1,8 +1,8 @@
 ---
-title: Nadgradnja iz storitve Skype za podjetja na mestu uporabe v skupine
+title: Nadgradnja s Skypa za podjetja na mestu uporabe na Aplikacijo Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000006"
 - "2694"
-ms.openlocfilehash: 3b55a91db4232e96c83a79f3f10abce1ac78a860
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6f15e028b33212b8dbedb4e319f9bcdc34d27e87
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734783"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827376"
 ---
-# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Nadgradnja iz storitve Skype za podjetja na mestu uporabe v skupine
+# <a name="upgrade-from-skype-for-business-on-premises-to-teams"></a>Nadgradnja s Skypa za podjetja na mestu uporabe na Aplikacijo Teams
 
-Če ste uvedli Skype za podjetja ali Microsoft Lync v prostorih in vaša organizacija želi nadgraditi na Teams, upoštevajte navodila v spodnjem članku. Hibridno povezljivost z najemnikom boste morali nastaviti in nato premakniti uporabnike v ekipe ter jim dodeliti ustrezen način soobstoj in nadgradnje. 
+Če ste deployed Skype za podjetja ali Microsoft Lync na mestu uporabe in vaša organizacija želi nadgraditi na Teams, upoštevajte navodila v članku spodaj. Z najemnikom boste morali nastaviti hibridno povezljivost, nato pa svoje uporabnike premakniti v Teams ter jim dodeliti ustrezno soobstoj in način nadgradnje. 
 
-[Nadgradnja iz storitve Skype za podjetja na mestu uporabe v skupine](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Nadgradnja iz Skypa za podjetja na mestu uporabe v Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
 

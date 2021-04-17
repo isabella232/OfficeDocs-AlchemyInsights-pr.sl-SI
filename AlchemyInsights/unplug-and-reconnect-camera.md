@@ -1,8 +1,8 @@
 ---
-title: Iztaknite in znova povežite kamero
+title: Odklopite in znova vzpostavite povezavo s kamero
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - gethelp
-ms.openlocfilehash: 8cd57e5df85717cb7814f7652f3a8cecaed2e031
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 9c733c69b1430c9a5439caf99cf8f6fddff60ef5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365255"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827736"
 ---
-# <a name="unplug-and-reconnect-camera"></a>Iztaknite in znova povežite kamero
+# <a name="unplug-and-reconnect-camera"></a>Odklopite in znova vzpostavite povezavo s kamero
 
-Žal mi je, da se ni izšlo. Če je kamera zunanja kamera, odklopite napravo in znova vzpostavite povezavo, lahko pomagate.
+Žal nam je, da vam to ni uspelo. Če je kamera zunanja kamera, boste morda lahko pomagali z izključitvijo naprave in znova vzpostavite povezavo.
 
-Če je to vgrajena kamera, vam bo morda pomagala znova zagnati računalnik.
+Če je to vgrajena kamera, si lahko pomagate s ponovnim zagonom računalnika.

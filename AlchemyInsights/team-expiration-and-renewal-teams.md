@@ -1,8 +1,8 @@
 ---
-title: Potek in obnovitev skupine v aplikaciji Microsoft Teams
+title: Potek in podaljšanje ekipe v aplikaciji Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6666"
 - "9003760"
-ms.openlocfilehash: 4514f06282f33a5dc360c2214cedf714633b34f0
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 8b82ef216903502e589c6b01cd7fe946e84cd54c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365046"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827916"
 ---
-# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Potek in obnovitev skupine v aplikaciji Microsoft Teams
+# <a name="team-expiration-and-renewal-in-microsoft-teams"></a>Potek in podaljšanje ekipe v aplikaciji Microsoft Teams
 
-Potek in obnovitev skupine v aplikaciji Microsoft Teams lahko pomagajo upravljati neuporabljene ekipe. Kot skrbnik lahko s  [pravilnikom o poteku veljavnosti skupine Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  samodejno počisti neuporabljene ekipe. Ker ekipe podpirajo skupine, se pravilniki o poteku skupin samodejno uporabljajo tudi za ekipe.
+Potek in podaljšanje ekipe v aplikaciji Microsoft Teams lahko upravljata neuporabljene ekipe. Kot skrbnik lahko s pravilnikom o zapadlosti skupine storitve  [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)  samodejno počistite neuporabljene ekipe. Skupine so varnostno kopirane po skupinah, zato pravilniki o zapadlosti skupine samodejno veljajo tudi za skupine.
 
-Če želite preprečiti nenamerno brisanje, je Samodejna obnovitev samodejno omogočena za skupino v pravilniku o poteku skupine. Ko je pravilnik o zapadlosti skupine nastavljen, je katera koli skupina, ki ima vsaj en obiskani kanal iz katerega koli člana skupine pred datumom poteka, samodejno obnovljena brez ročne intervencije lastnika skupine.  
+Če želite preprečiti nenamerno brisanje, je samodejno omogočeno samodejno podaljšanje za skupino v pravilniku o zapadlosti skupine. Ko je pravilnik o zapadlosti skupine nastavljen, je vsaka ekipa, ki ima vsaj en obisk kanala, od katerega koli člana skupine pred datumom poteka samodejno podaljšana brez ročnega posredovanja lastnika skupine.  
 
-Če želite več informacij, glejte  [potek in obnovitev skupine v](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)  aplikaciji Microsoft teams.
+Za [več informacij glejte Potek in podaljšanje ekip v aplikaciji Microsoft Teams.](https://docs.microsoft.com/microsoftteams/team-expiration-renewal)

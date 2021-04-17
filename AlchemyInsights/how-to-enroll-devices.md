@@ -1,8 +1,8 @@
 ---
-title: Kako vpisati naprave
+title: Včlanitev naprav
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "2683"
 - "6200002"
-ms.openlocfilehash: 8fe73750296cb163789e3b7639f6b2404252bc44
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: c40742d6bfb7d0431b788c15517b50d34dd199a0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089230"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825675"
 ---
-# <a name="how-to-enroll-devices"></a>Kako vpisati naprave
+# <a name="how-to-enroll-devices"></a>Včlanitev naprav
 
-V nadaljevanju so osnove za vpis:
+V nadaljevanju so osnove včlanitve:
 
-- Če želite izvedeti več o vpisu v sozvočju, glejte [Kaj je vpis naprave v programu InTune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
+- Če želite izvedeti več o včlanitvi intune, glejte [Kaj je včlanitev naprave v Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment).
 
-- Če želite podrobnejše informacije o vpisu določenih platform, navodil in vadnic, glejte [vpis naprav v Microsoft InTune](https://docs.microsoft.com/mem/intune/enrollment/) portalu.
+- Če želite podrobnejše informacije o včlanitvi za določene platforme, vodnike z navodila in vadnice, glejte Včlanitev naprav na [portalu za Microsoft Intune.](https://docs.microsoft.com/mem/intune/enrollment/)
 
-**Odpravljanje težav pri vpisu naprave**
+**Odpravljanje težav z včlanitev naprave**
 
-- [Odpravljanje težav pri vpisu naprave v Microsoft InTune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+- [Odpravljanje težav z včlanitvi naprave v storitvi Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-- [Odpravljanje težav z vpisom v napravo iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [Odpravljanje težav z včlanijo naprave iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-- [Odpravljanje težav pri vpisu v napravo Windows](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
+- [Odpravljanje težav z včlanitev naprave s sistemom Windows](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-enrollment-errors)
 
-- [Odpravljanje težav s samodejnim vpisom v sistem Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Odpravljanje težav s samodejno včlanijo sistema Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
 
-- [Odpravljanje težav z napravo Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
+- [Odpravljanje težav z napravo s sistemom Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
 
 

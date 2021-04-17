@@ -1,8 +1,8 @@
 ---
-title: Kako formalno končati srečanje
+title: Kako uradno končati srečanje
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5852"
 - "9002623"
-ms.openlocfilehash: 6a568fdcf2b431b67085a9c9d2c3e40bdcebf77c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67c33e90b1f7ca9f68af1ef01ce158075a0dc54d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780435"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825711"
 ---
-# <a name="how-to-formally-end-a-meeting"></a>Kako formalno končati srečanje
+# <a name="how-to-formally-end-a-meeting"></a>Kako uradno končati srečanje
 
-Organizatorji srečanja lahko končajo srečanje za vse udeležence srečanja v aplikaciji Teams tako, da kliknejo **konec srečanja** v kontrolnikih srečanja v srečanju.  
+Organizatorji srečanja lahko končajo srečanje za  vse udeležence srečanja v teams tako, da kliknejo Končaj srečanje med kontrolniki srečanja v srečanju.  
 
-Če želite končati srečanje v teku za vse udeležence, izberite kontrolniki srečanja, izberite ikono 3-dot in kliknite Končaj srečanje. Pozvani boste, da potrdite izbor. S potrditvijo izbire boste končali srečanje za vse.
+Če želite končati srečanje v teku za vse udeležence, izberite kontrolnike srečanja, izberite ikono 3-pika in kliknite Končaj srečanje. Pozvani boste k potrditvi izbire. Če potrdite izbiro, boste srečanje končali za vse.
 
-Opomba: srečanje se lahko konča le v organizatorju srečanja.
+OPOMBA: Srečanje lahko »konča« le organizator srečanja.

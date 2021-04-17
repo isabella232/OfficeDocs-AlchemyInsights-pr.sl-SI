@@ -1,8 +1,8 @@
 ---
-title: Teams dovoljujejo ali onemogočijo IP video
+title: Teams allow or disable IP video
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002537"
 - "5617"
-ms.openlocfilehash: cf2d67170f846db1d5d2f1ca8c8b50902e200e45
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 059d7a1ad619e25f14bc6f561693b6fe24355132
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670200"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826359"
 ---
-# <a name="teams-allow-or-disable-ip-video"></a>Teams dovoljujejo ali onemogočijo IP video
+# <a name="teams-allow-or-disable-ip-video"></a>Teams allow or disable IP video
 
-**Spreminjanje ali ustvarjanje pravilnika za srečanje**
+**Spreminjanje ali ustvarjanje pravilnika srečanja**
 
-Če želite spremeniti ali ustvariti pravilnik za srečanje, pojdite v **skrbniško središče za Microsoft teams > srečanja > pravilniki o srečanju**. Na seznamu izberite pravilnik ali kliknite **Dodaj**. Če ustvarjate nov pravilnik, dodajte ime in opis. V imenu ne sme biti posebnih znakov, ime pa ne sme biti daljše od 64 znakov. Izberite nastavitve in kliknite **Shrani**.
+Če želite spremeniti ali ustvariti pravilnik srečanja, pojdite v skrbniško središče za Microsoft Teams in **> Srečanja > Srečanja.** Na seznamu izberite pravilnik ali kliknite **Dodaj**. Če ustvarjate nov pravilnik, dodajte ime in opis. V imenu ne sme biti posebnih znakov, ime pa ne sme biti daljše od 64 znakov. Izberite nastavitve in kliknite **Shrani**.
 
-Recimo, da imate veliko uporabnikov in želite omejiti količino pasovne širine, ki bi jih zahtevala njihova seja. Ustvarite nov pravilnik po meri, imenovan »Omejena pasovna širina« in onemogočite te nastavitve:
+Recimo, da imate veliko uporabnikov in želite omejiti količino pasovne širine, ki bi jo srečanje zahtevalo. Ustvarite nov pravilnik po meri, imenovan »Omejena pasovna širina« in onemogočite te nastavitve:
 
 V razdelku **Zvok in video**:
 
@@ -38,6 +38,6 @@ Nato dodelite pravilnik uporabnikom.
 
 1. V levem podoknu za krmarjenje Skrbniškega središča za Microsoft Teams pojdite v razdelek **Uporabniki** in kliknite uporabnika.
 2. Izberite uporabnika tako, da kliknete levo stran imena uporabnika, nato pa kliknite **Uredi nastavitve**.
-3. V razdelku **pravilnik za srečanje**izberite pravilnik, ki ga želite dodeliti, in nato kliknite **uporabi**.
+3. V **razdelku Pravilnik** srečanja izberite pravilnik, ki ga želite dodeliti, in nato kliknite **Uporabi.**
 
-Če želite več informacij, glejte [upravljanje pravilnikov za srečanje v aplikaciji Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+Če želite več informacij, glejte [Upravljanje pravilnikov za srečanja v teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
