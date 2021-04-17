@@ -1,8 +1,8 @@
 ---
-title: Preverjanje domene s namecheap
+title: Potrditev domene pri storitvi Namecheap
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 670cdc69c8054c41c0d768d7beafc245b8145f24
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: dbeecb016708a127ea3980f11b793041f2f3f447
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815837"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824271"
 ---
-# <a name="verify-your-domain-with-namecheap"></a>Preverjanje domene s namecheap
+# <a name="verify-your-domain-with-namecheap"></a>Potrditev domene pri storitvi Namecheap
 
 Če želite preveriti domeno, morate registratorju domene dodati zapis TXT, da preverite, ali ste lastnik domene. 
 
-Najprej sledite [čarovniku za dodajanje domene](https://admin.microsoft.com/Adminportal#/Domains) tako, da izberete domene **Settings (nastavitve** ) \> **Domains**, nato pa **dodajte domeno**.
+Najprej upoštevajte navodila [čarovnika za dodajanje domene](https://admin.microsoft.com/Adminportal#/Domains) tako, da  \> **izberete Settings Domains (Nastavitve** domen) in **nato Add domain (Dodaj domeno).**
   
-Če želite navodila po korakih, glejte [Ustvarjanje zapisov DNS na spletnem mestu namecheap za Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) .
+Navodila po korakih najdete v članku Ustvarjanje zapisov DNS za [Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-namecheap) pri ponudniku Namecheap.

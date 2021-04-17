@@ -11,17 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: 4422ec5ca350dbb7608f936afa708887ce509ae3
-ms.sourcegitcommit: 1070c392bb32f0f9e660d9f156c10c212b5dfb50
+ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767953"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824631"
 ---
 # <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a>Ali v nabiralnik prejemate preveč lažne ali vsiljene pošte?
 
-> [!NOTE]
-> Do Varnostnega središča za Microsoft 365 lahko dostopate v [security.microsoft.com](https://security.microsoft.com).
+**Opomba** Do Varnostnega središča za Microsoft 365 lahko dostopate na spletnem mestu [https://security.microsoft.com](https://security.microsoft.com) .
 
 Kot skrbnik storitve Microsoft 365 lahko najbolje ugotovite, zakaj je bilo sporočilo z lažnim predstavljanjem ali neželeno pošto dostavljeno, tako da v Raziskovalcu [pošljete vzorec Microsoftu.](https://security.microsoft.com/reportsubmission) Takoj boste dobili povratne informacije, povezane s filtriranjem sporočil in zakaj obstajajo težave.
 

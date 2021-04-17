@@ -1,8 +1,8 @@
 ---
-title: Upravljanje dostopa za gostujočega uporabnika do načrtovalca
+title: Upravljanje dostopa za gostujo uporabnike do storitve Planner
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001705"
 - "3783"
-ms.openlocfilehash: 5ee138e42d0ab5a8e2a878fec33478adf362c720
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4b7852b101a342256ab64ef580e95512bfdb6860
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777987"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825495"
 ---
-# <a name="manage-guest-user-access-to-planner"></a>Upravljanje dostopa za gostujočega uporabnika do načrtovalca
+# <a name="manage-guest-user-access-to-planner"></a>Upravljanje dostopa za gostujo uporabnike do storitve Planner
 
-Gostujoči uporabniki lahko ustvarijo in izbrišejo vedra in opravila, urejajo polja opravil in urejajo ime načrta. Poleg tega bodo Gostujoči uporabniki prejeli tudi nekaj obvestil, povezanih z vašim načrtom. Spodaj so navedene nekatere pogosto zahtevane teme o gostujočih uporabnikih v orodju Planner:
+Gostujoši uporabniki lahko ustvarjajo in brišejo vedra in opravila, urejajo polja z opravili in urejajo ime načrta. Poleg tega gostujočih uporabnikov prejme tudi nekatera obvestila, povezana z vašim paketom. Tukaj je nekaj pogosto zahtevanih tem o gostujših uporabnikih v programu Planner:
 
-- Načrtovalnik gradi na [funkciji Microsoft 365 groups za dostop](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6). 
+- Planner gradi na funkciji dostopa za goste v skupinah storitve [Microsoft 365.](https://support.office.com/article/Adding-guests-to-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6) 
 
-- Oglejte si več informacij o dodajanju gostujočih uporabnikov v načrt, kako Gostujoči uporabniki lahko zapustijo načrt, pa tudi Uporabniki, ki jih gost lahko izvede v aplikaciji Planner v [programu Microsoft Planner](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6).
+- Preberite več o tem, kako lahko dodate gostujše uporabnike v načrt, kako lahko gostujo uporabniki zapustijo načrt in kaj lahko gostujo uporabniki storijo v aplikaciji Planner v možnosti »Dostop za goste v aplikaciji [Microsoft Planner«.](https://support.office.com/article/Guest-access-in-Microsoft-Planner-cc5d7f96-dced-4da4-ab62-08c72d9759c6)

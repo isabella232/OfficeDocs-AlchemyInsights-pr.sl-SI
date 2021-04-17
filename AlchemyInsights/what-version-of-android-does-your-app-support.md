@@ -1,8 +1,8 @@
 ---
-title: Katero različico aplikacije Android podpira vaša aplikacija?
+title: Katero različico sistema Android podpira vaša aplikacija?
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: e3e4f3bb248959b3826438578c5ae274ac04992f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773071"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824199"
 ---
-# <a name="what-version-of-android-does-your-app-support"></a>Katero različico aplikacije Android podpira vaša aplikacija?
+# <a name="what-version-of-android-does-your-app-support"></a>Katero različico sistema Android podpira vaša aplikacija?
 
-Za najboljšo učinkovitost delovanja naše aplikacije deluje v kateri koli napravi s sistemom Android, različica 5,0 in novejšo različico.
+Za najboljšo učinkovitost delovanja naša aplikacija deluje v kateri koli napravi z različico za Android 5.0 in novejšo.
 
-Če ste na tekočem s sistemom Android OS, vendar še vedno prejemate obvestila o nezdružljivosti OS z vašo napravo, poskusite počistiti predpomnilnik in podatke v aplikaciji trgovina Predvajaj.
+Če ste posodobljeni v sistemu Android, vendar kljub temu prejemate obvestila o tem, da operacijski sistem ni združljiv z vašo napravo, poskusite počistiti predpomnilnik in podatke programa Play Store.
 
 To naredite tako: 
 
-1. V telefonu ali tabličnem računalniku s sistemom Android odprite **Nastavitve** in nato **aplikacije** ali **aplikacije**.
+1. V telefonu ali tabličnem računalniku s sistemom Android odprite **Nastavitve** in nato **Aplikacije** ali **Aplikacije.**
 
-2. Na vrhu zaslona tapnite **več** (to so lahko pike ali tri navpične pike) in nato **prikažete sistem**. 
+2. Na vrhu zaslona tapnite Več **(to** so lahko tudi tri pike ali tri navpične pike) in nato **Pokaži sistem**. 
 
-3. Pomaknite se navzdol in tapnite **storitve Google Play**. 
+3. Pomaknite se navzdol in **tapnite Storitve Google Play.** 
 
-4. Tapnite **shramba** in nato **Počisti predpomnilnik**. 
+4. Tapnite **Prostor za** shranjevanje in nato **Počisti predpomnilnik.** 
 
-5. Tapnite **Upravljaj prostor** in nato **počistite vse podatke**. 
+5. Tapnite **Upravljanje prostora** in nato Počisti **vse podatke.** 
 
-6. Odprite **trgovino Google Play**. 
+6. Odprite **Trgovino Google Play.** 
 
-7. Počakajte 5 minut in poskusite znova. 
+7. Počakajte 5 minut, nato pa poskusite znova. 

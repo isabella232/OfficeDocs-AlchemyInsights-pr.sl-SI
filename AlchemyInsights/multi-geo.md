@@ -2,7 +2,7 @@
 title: Multi-Geo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3046"
 - "9001088"
-ms.openlocfilehash: 5e0b5f32fd2cb60ceae708cf9df62f78fb374322
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0fea960e68eb66d0d14423caa4a6a66f82d9c423
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702343"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825243"
 ---
-# <a name="microsoft-365-multi-geo"></a>Microsoft 365 multi-Geo
+# <a name="microsoft-365-multi-geo"></a>Microsoft 365 Multi-Geo
 
-V programu Microsoft 365 multi-Geo lahko vaša organizacija razširi svojo prisotnost Microsoft 365 na več geografskih regij in/ali držav znotraj obstoječega najemnika. Če želite več informacij, si oglejte spodnje povezave.
+S storitvijo Microsoft 365 Multi-Geo lahko vaša organizacija svojo prisotnost v storitvi Microsoft 365 razširi na več geografskih regij in/ali držav znotraj obstoječega najemnika. Več informacij najdete na spodnjih povezavah.
 
-- [Microsoft 365 multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
-- [Paket za Microsoft 365 multi-Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
-- [Konfiguracija multi-Geo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
+- [Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/office-365-multi-geo)
+- [Paket za Microsoft 365 Multi-Geo](https://docs.microsoft.com/office365/enterprise/plan-for-multi-geo)
+- [Konfiguracija funkcije Multi-Geo](https://docs.microsoft.com/office365/enterprise/multi-geo-tenant-configuration)
