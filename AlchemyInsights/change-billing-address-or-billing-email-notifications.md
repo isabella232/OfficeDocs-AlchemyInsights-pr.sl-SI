@@ -1,8 +1,8 @@
 ---
-title: Spreminjanje naslova za obračunavanje ali obvestila o obračunavanju e-pošte
+title: Spreminjanje naslova za obračunavanje ali e-poštnih obvestil za obračunavanje
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,33 +13,33 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1200012"
 - "4716"
-ms.openlocfilehash: 4a280eb646270bf5597e4e390be9c73bf3c357d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 013fd35e4c299d78504adbb59675a22df301c503
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793558"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819204"
 ---
-# <a name="change-billing-address-or-billing-email-notifications"></a>Spreminjanje naslova za obračunavanje ali obvestila o obračunavanju e-pošte
+# <a name="change-billing-address-or-billing-email-notifications"></a>Spreminjanje naslova za obračunavanje ali e-poštnih obvestil za obračunavanje
 
-**Spreminjanje naslova računa**
+**Spreminjanje Bill-To naslova**
 
-1. V skrbniškem središču pojdite na stran **obračunavanje > [načinov plačila](https://go.microsoft.com/fwlink/p/?linkid=2018806) ** .
+1. V skrbniškem središču odprite stran Načini **> [obračunavanje.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 
 2. Izberite kreditno kartico ali bančni račun, ki ga želite spremeniti.
 
-3. Na strani s **podrobnostmi o načinu plačila** kliknite **Uredi**.
+3. Na strani **Podrobnosti o načinu** plačila kliknite **Uredi**.
 
-4. Posodobite naslov plačnika in kliknite **shrani > opravljeno**.
+4. Posodobite naslov plačnika računa in kliknite **Shrani > končano.**
 
-**Spreminjanje nadomestnega e-poštnega naslova za obvestila o obračunavanju je poslano** 
+**Spremenite nadomestni e-poštni naslov, na katerega bodo poslana obvestila o obračunavanju** 
 
-1. Kliknite **ikono uporabnika**in nato še **moj račun**.
+1. Kliknite ikono **uporabnika**, nato pa še **Moj račun.**
 
-2. Kliknite **osebne informacije**.
+2. Kliknite **Osebni podatki.**
 
-3. V polju s **podrobnostmi stika** kliknite **Uredi**.
+3. V polju **Podrobnosti stika** kliknite **Uredi**.
 
-4. V polje **nadomestna e-pošta** vnesite nadomestni e-poštni naslov, ki ga želite uporabiti, in kliknite **Shrani**.
+4. V polje **Nadomestni e-poštni** naslov vnesite drug e-poštni naslov, ki ga želite uporabiti, nato pa kliknite **Shrani**.
 
-Če želite več informacij o spremembah naslova in obvestil, glejte [Spreminjanje naslovov za obračunavanje za Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide).
+Če želite več informacij o spremembah naslova in obvestil, [glejte Spreminjanje naslova plačnika računa za Microsoft 365 za podjetja.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses?view=o365-worldwide)

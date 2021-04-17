@@ -2,7 +2,7 @@
 title: Spreminjanje imena in e-poštnega naslova
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.assetid: 9e00841d-fda2-4610-95a6-c99a4b1e891a
 ms.custom:
 - "17"
 - "4"
-ms.openlocfilehash: 5f76ab1f3cec5cdf17cb8fa0aea179f29e271663
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: f65878f987924d4f1b428d66e9b82596b2760004
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683918"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819312"
 ---
 # <a name="change-a-name-and-email-address"></a>Spreminjanje imena in e-poštnega naslova
 
-Spreminjanje uporabniškega imena in e-poštnega naslova v storitvi Microsoft 365 je preprosto. Pojdite na stran **Uporabniki** \> [aktivnih uporabnikov](https://go.microsoft.com/fwlink/p/?linkid=834822) in izberite uporabnika, da uredite svoje podatke. Ta članek lahko uporabite tudi za navodila po korakih:
+Spreminjanje uporabniškega imena in e-poštnega naslova v storitvi Microsoft 365 je preprosto. Pojdite na stran **Uporabniki** \> [aktivnih](https://go.microsoft.com/fwlink/p/?linkid=834822) uporabnikov in izberite uporabnika, da uredite njihove informacije. Navodila po korakih so na voljo tudi v tem članku:
   
 [Spreminjanje uporabniškega imena in e-poštnega naslova v storitvi Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
- **Opomba**: Če spremenite glavni e-poštni naslov uporabnika, bo njihov star e-poštni naslov še vedno veljaven za prejemanje e-pošte (to se zgodi samodejno). Če je vaša organizacija v hibridnem stanju, je treba vse spremembe e-pošte in uporabniškega imena izvesti v imeniku Active Directory na mestu uporabe in nato sinhronizirati z oblakom.
+ **Opomba:** Če spremenite uporabnikov glavni e-poštni naslov, je stari e-poštni naslov uporabnika še vedno veljaven za prejemanje e-pošte (to se zgodi samodejno). Če je vaša organizacija v hibridnem stanju, je treba vse spremembe e-poštnega naslova in uporabniškega imena narediti v imeniku Active Directory na mestu uporabe in jih nato sinhronizirati z oblakom.

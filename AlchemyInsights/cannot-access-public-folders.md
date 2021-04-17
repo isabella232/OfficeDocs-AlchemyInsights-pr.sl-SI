@@ -1,8 +1,8 @@
 ---
-title: Dostop do javnih map ni mogoč
+title: Dostop do javnih map ni na voljo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812563"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819528"
 ---
 # <a name="outlook-cannot-connect-to-public-folders"></a>Outlook se ne more povezati z javnimi mapami
 
-Če dostop do javne mape ne deluje za nekatere uporabnike, poskusite to:
+Če dostop do javnih map ne deluje za nekatere uporabnike, poskusite to:
 
-Povežite se s EKSO PowerShell in konfigurirajte parameter DefaultPublicFolderMailbox v uporabniškem računu težave, da se ujema s parametrom v delujočem uporabniškem računu.
+Vzpostavite povezavo z exo PowerShell in konfigurirajte parameter DefaultPublicFolderMailbox za težaveni uporabniški račun, da se bo ujemal s parametrom v delovnem uporabniškem računu.
 
-Primer
+Primer:
 
-Get-poštni nabiralnik WorkingUser | ft DefaultPublicFolderMailbox, EffectivePublicFolderMailbox
+Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-Nastavitev nabiralnika ProblemUser-DefaultPublicFolderMailbox \<value from previous command>
+Set-Mailbox TežavaUporabnik -DefaultPublicFolderMailbox \<value from previous command>
 
 Počakajte vsaj eno uro, da sprememba začne veljati.
 
-Če težava ostane, upoštevajte [ta postopek](https://aka.ms/pfcte) , da odpravite težave z dostopom do javnih map z Outlookom.
+Če težave ne odpravite, upoštevajte ta [postopek](https://aka.ms/pfcte) in odpravite težave z dostopom do javnih map z Outlookom.
  
-**Če želite nadzorovati, kateri uporabniki lahko dostopajo do javnih map z Outlookom**:
+**Če želite nadzorovati, kateri uporabniki lahko dostopajo do javnih map v Outlooku:**
 
-1.  Uporabite ukaz» Set-CASMailbox <mailboxname> -PublicFolderClientAccess «$TRUE ali $FALSE  
+1.  Uporabite Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true ali $false  
       
-    $true: Omogočanje uporabnikom dostop do javnih map v Outlooku  
+    $true: Omogočanje dostopa uporabnikom do javnih map v Outlooku  
       
-    $false: preprečite uporabniku dostop do javnih map v Outlooku. To je privzeta vrednost.  
+    $false: Preprečite uporabnikom dostop do javnih map v Outlooku. To je privzeta vrednost.  
         
-2.  Set-OrganizationConfig-PublicFolderShowClientControl $true   
+2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**Opomba** S tem postopkom lahko nadzorujete povezave le s programom Outlook Desktop za odjemalce sistema Windows. Uporabnik lahko še naprej dostopa do javnih map s programom OWA ali Outlook za Mac.
+**Opomba** S tem postopkom lahko nadzorujete povezave le z namiznim programom Outlook za Windows. Uporabnik lahko še naprej dostopa do javnih map s programom OWA ali Outlook for Mac.
  
-Če želite več informacij, glejte [objava podpore za nadzorovane povezave z javnimi mapami v Outlooku](https://aka.ms/controlpf).
+Če želite več informacij, [glejte Napove najavljena podpora za nadzorovane povezave do javnih map v Outlooku.](https://aka.ms/controlpf)

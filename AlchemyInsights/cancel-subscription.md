@@ -2,7 +2,7 @@
 title: Preklic naročnine
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,27 +14,27 @@ ms.custom:
 - "6837"
 - "9003797"
 - "6839"
-ms.openlocfilehash: 5b1f336202c621f45b98b91772faf0b84887e48a
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: c4fc2f27afd623218ad413d8738ba9d9ea8d6115
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089025"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819636"
 ---
 # <a name="cancel-subscription"></a>Preklic naročnine
 
-Naročnina, ki ste jo izbrali na strani z osnovami, je že preklicana. Ali ste prepričani, da je to prava naročnina, ki jo želite preklicati?
+Naročnina, ki ste jo izbrali na strani z osnovnimi podatki, je že preklicana. Ali ste prepričani, da je to prava naročnina, ki jo želite preklicati?
 
-Naročnino na Azure lahko prekličete v portalu Azure le, če ste lastnik naročnine ali skrbnik računa. Upoštevajte spodnja navodila.
+Naročnino na storitev Azure lahko v portalu Azure prekličete le, če ste lastnik naročnine ali skrbnik računa. Upoštevajte spodnje korake.
 
-1. Izberite naročnino, ki jo želite preklicati s [strani naročnin v portalu Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. Izberite **pregled**, nato pa izberite **Prekliči naročnino**.
+1. Na strani [Naročnine na portalu Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) izberite naročnino, ki jo želite preklicati.
+2. Izberite **Pregled** in nato **Preklic naročnine**.
 
 **Kaj se zgodi, ko prekličem naročnino?**
 
-Ko prekličete, je obračunavanje takoj ustavljeno. Lahko pa traja do 10 minut, če želite, da se preklic prikaže v portalu. Če prekličete sredi obdobja obračunavanja, pošljemo končni račun na običajen datum računa po koncu obdobja.
+Ko prekličete naročnino, je obračunavanje takoj ustavljeno. Vendar pa lahko traja do 10 minut, da se preklic prikaže v portalu. Če naročnino prekličete sredi obračunskega obdobja, pošljemo končni račun na običajni datum računa, ko poteče obdobje.
 
-Ko prekličete, so storitve onemogočene. To pomeni, da so vaši virtualni stroji odklopljeni, začasni naslovi IP se sprostijo in shramba je samo za branje.
+Ko prekličete naročnino, so vaše storitve onemogočene. To pomeni, da vaši navidezni računalniki niso več dodeljeni, začasni naslovi IP so sproščeni, prostor za shranjevanje pa je samo za branje.
 
-Ko je naročnina preklicana, Microsoft počaka na 30-90 dni, preden trajno izbriše podatke, če želite dostopati do njega ali pa si premislite. Ne zaračunamo vam, da obdržite podatke. Če želite izvedeti več, glejte [središče za Microsoft Trust – Kako upravljamo vaše podatke](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+Ko je vaša naročnina preklicana, Microsoft počaka 30–90 dni, preden trajno izbriše vaše podatke v primeru, da morate do njih dostopati ali pa si premislite. Za ohranitev podatkov vam ne zaračunamo. Če želite izvedeti več, glejte [Središče zaupanja Microsoft – kako upravljamo vaše podatke](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 

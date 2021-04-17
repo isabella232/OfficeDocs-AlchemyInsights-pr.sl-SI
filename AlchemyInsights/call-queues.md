@@ -2,7 +2,7 @@
 title: Čakalne vrste klicev
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000731"
 - "2665"
-ms.openlocfilehash: 2cbb823c2051fd3c78233ce9ec5b090519654e69
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f905aedc95f5791c51bcff52a2a7a725c159732f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47734351"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819852"
 ---
-# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Klicne čakalne vrste v aplikaciji Microsoft Teams in Skype za podjetja 
+# <a name="call-queues-in-microsoft-teams-and-skype-for-business"></a>Čakalne vrste klicev v aplikaciji Microsoft Teams in Skypu za podjetja 
 
-Če želite začeti uporabljati čakalne vrste klicev, si oglejte te povezave.
+Če želite začeti uporabljati čakalne vrste klicev, glejte te povezave.
 
-- [Ustvarjanje čakalne vrste klica v oblaku](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
-- [Odgovarjanje na samodejne odzivne klice in klicne vrste klicev neposredno iz ekipe Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)
+- [Ustvarjanje čakalne vrste za klic v oblaku](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue)
+- [Sprejem samodejnega odzivnega središča in klicanje klicev v čakalni vrsti neposredno iz storitve Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls)

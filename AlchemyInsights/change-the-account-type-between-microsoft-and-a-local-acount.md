@@ -2,7 +2,7 @@
 title: Spreminjanje vrste računa med Microsoftovim računom in lokalnim računom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3450"
 - "9001449"
-ms.openlocfilehash: 2a353d83e341119b900d900c8c4a83bfba582f6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 488615dfb6bc1316c1d76d50e37737034b569113
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681528"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818448"
 ---
-# <a name="change-the-account-type-that-you-sign-in-with"></a>Spreminjanje vrste računa, s katerim se vpišete
+# <a name="change-the-account-type-that-you-sign-in-with"></a>Spreminjanje vrste računa, s svojim vpisom
 
-Če želite spremeniti vrsto računa, ki ga uporabljate za vpis v Windows 10, naredite to:
+Vrsto računa, ki ga uporabljate za vpis v Windows 10, spremenite tako:
 
-1. Izberite **Start**  >  **Settings**  >  **accounts**  >  **Your info**.
-2. Če uporabljate lokalni račun, ki ni povezan z e-poštnim naslovom, vendar želite uporabiti Microsoftov račun, izberite **vpis z Microsoftovim računom**.
-3. Če uporabljate Microsoftov račun, ki je povezan z e-poštnim naslovom, vendar želite uporabiti lokalni račun, izberite **vpis z lokalnim računom**.
-4. Po potrebi vnesite geslo in nato izberite **naprej**.
-5. Znova zaženite napravo. Ko se naslednjič vpišete, bo prikazan račun, ki ste ga zamenjali.
+1. Izberite **Začetni**  >  **meni Nastavitve**  >  **Računi**  >  **Vaši podatki.**
+2. Če uporabljate lokalni račun, ki ni povezan z e-poštnim naslovom, vendar želite uporabiti Microsoftov račun, izberite Vpišite se z **Microsoftovim računom.**
+3. Če uporabljate Microsoftov račun, ki je povezan z e-poštnim naslovom, vendar želite uporabiti lokalni račun, namesto tega izberite Vpišite se **z lokalnim računom.**
+4. Po potrebi vnesite geslo in izberite **Naprej**.
+5. Znova zaženite napravo. Ko se boste naslednjič vpisati, bo prikazan račun, na ki ste ga zamenjali.

@@ -1,30 +1,31 @@
 ---
-title: Spreminjanje imena organizacije za odjemalca sinhronizacije storitve OneDrive
+title: Sprememba imena organizacije za odjemalca za sinhronizacijo storitve OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003077"
 - "5850"
-ms.openlocfilehash: 5e4531d2d2a1ca78f8bc81a9246072dd6f3bd852
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
-ms.translationtype: MT
+ms.openlocfilehash: ca545ba51e39209f3302acdee1c24048515e2c1b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44708761"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818340"
 ---
-# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Spreminjanje imena organizacije za odjemalca sinhronizacije storitve OneDrive
+# <a name="change-the-organization-name-for-the-onedrive-sync-client"></a>Sprememba imena organizacije za odjemalca za sinhronizacijo storitve OneDrive
 
-OneDrive uporablja ime organizacije, ki ga je določil skrbnik najemnika.  Spremenite lahko [naslov organizacije, tehnični stik in še več](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more). Ko se ta sprememba izvede za najemnika, odjemalec za sinhronizacijo storitve OneDrive ne bo odražal novega imena, dokler uporabniki ne bodo odvezali in znova povezali svojega računa storitve OneDrive.
+Storitev OneDrive uporablja ime organizacije, ki ga je nastavil skrbnik najemnika.  [Spremenite lahko naslov organizacije, stik za tehnično podporo in še več](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more). Ko za najemnika to spremenite, odjemalec za sinhronizacijo storitve OneDrive ne bo odražal novega imena, dokler uporabniki ne odstranijo in znova dodajo svojega računa storitve OneDrive.
 
-Če želite prekiniti povezavo računa:
+Za odstranitev računa:
 
-1. Izberite modro ikono oblaka v storitvi OneDrive na skrajni desni strani opravilne vrstice, nato pa izberite **več > nastavitve > račun**.
-2. Poiščite račun, za katerega želite prekiniti povezavo, in izberite **Razdruži ta računalnik**, nato pa **odvezite račun**.
+1. Izberite modro ikono oblaka storitve OneDrive na desni strani opravilne vrstice, in nato izberite  **Več > Nastavitve > Račun**.
+2. Poiščite račun, katerega želite odstraniti, in izberite  **Odstrani računalnik**, nato pa še **Odstrani račun**.
 
-Če želite znova povezati račun, v možnosti nastavitve izberite **Dodaj račun** na kartici **račun** in se znova prijavite v OneDrive.
+Za ponovno dodajanje računa izberite **Dodaj račun** na zavihku **Račun** v Nastavitvah, in se znova vpišite v OneDrive.

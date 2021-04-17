@@ -2,7 +2,7 @@
 title: Preklic rezervacije
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,61 +12,61 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003552"
 - "6817"
-ms.openlocfilehash: 04875e33f07c6d0a4306b3579ef81f2d28c7f506
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: 6b27344b43aa5c20d64d148ff164be805f3b5ef8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807989"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819708"
 ---
 # <a name="cancelling-reservation"></a>Preklic rezervacije
 
-- **Samopostrežna storitev:** V storitvi [Azure portal](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade)lahko prekličete ali zamenjate rezerviran primerek. Izberite rezervacijo in kliknite povračilo ali Exchange. Upoštevajte, da morate imeti lastnik dostop do naročila za rezervacijo za zamenjavo ali povračilo. Dostop le do rezervacije vam ne dovoli nadaljevati s povračilom ali zamenjavo. Prosite lastnika naročila za rezervacijo, da vam omogoči lastniku dostop do vrstnega reda rezervacij
-- **Pravilnik za Exchange:** Rezervacijo lahko zamenjate za drugo rezervacijo iste vrste – pri izmenjavi rezervacij ni **kazni** . Skupna zaveza z novim rezervacijo bi morala biti večja od vsote zneska nadomestila, ki je bila izmenjana rezervacija, in prihodnjih mesečnih plačil (po potrebi)
-- **Pravilnik o nadomestilu:** Vsota nadomestila in preklicana prihodnja plačila ne morejo presegati $50.000 USD v 12-mesečnem voznem oknu. **Trenutno ne zaračunavamo nobene kazni** za nadomestila, vendar bi jo lahko zaračunali na prihodnja nadomestila  
-    **Izjeme:** Samopostrežna storitev Exchange in preklic zmogljivosti nista na voljo za stranke, ki so v podjetju ZDA
-- Podpora **API/PS/CLI** ni na voljo za preklic in povračilo [samopostrežnih izmenjav in nadomestil za rezervacije Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Samopostrežna storitev Exchange in preklic zmožnosti nista na voljo za stranke, ki so v podjetju ZDA. Druge vrste naročnine na AMERIŠKO vlado, vključno s plačili-as-you-go in CSP, so podprte
+- **Samopostrežba:** rezervirani primerek lahko prekinete ali zamenjate sami s pomočjo [portala Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Izberite rezervacijo in kliknite povračilo ali zamenjavo. Upoštevajte, da morate imeti lastniški dostop do naročila rezervacije za zamenjavo ali vračilo kupnine. Dostop samo do rezervacije vam ne bo omogočil vračila kupnine ali zamenjave. Prosite lastnika naročila rezervacije, da vam omogoči lastniški dostop do naročila rezervacije
+- **Pravilnik o izmenjavi:** rezervacijo lahko zamenjate za drugo rezervacijo iste vrste – za zamenjavo rezervacije **ni predvidenih nobenih kazni**. Skupna obveznost z novo rezervacijo mora biti večja od vsote vračila zamenjane rezervacije in prihodnjih mesečnih plačil (če je primerno)
+- **Politika vračila:** Vsota vračila in preklicana prihodnja plačila ne smejo preseči 50.000 USD v 12-mesečnem tekočem oknu. Trenutno **ne zaračunavamo nobene kazni** za vračila, lahko pa jo zaračunamo za prihodnja vračila  
+    **Izjeme:** Možnost samopostrežne izmenjave in preklica ni na voljo strankam ameriškega vladnega poslovnega sporazuma
+- Podpora za **API / PS / CLI** ni na voljo za preklic in povračila [ Samopostrežne menjave in vračila za rezervacije Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Možnost samopostrežne izmenjave in preklica ni na voljo strankam ameriškega vladnega poslovnega sporazuma. Podprte so druge vrste vladnih naročnin, vključno s Pay-As-You-Go in CSP
 
-Več informacij: [Kako se obdelujejo vračanje in menjava transakcij](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
-Več informacij: [Pravilniki o izmenjavi in nadomestilih](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
-Druga vprašanja: [obiščite rezervirane vzorčne dokumente](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Več informacij : [Kako se obdelujejo transakcije vračanja in menjave](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)  
+Več informacij : [Pravilniki o zamenjavi in ​​vračilu kupnine](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)  
+Druga vprašanja: [Obiščite dokumente o rezerviranem primerku](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Zamenjava obstoječega rezerviranega primerka (samopostrežna storitev)**
+**Zamenjajte obstoječi rezervirani primerek (samopostrežno)**
 
-Rezervacijo lahko zamenjate za drugo rezervacijo iste vrste. Rezervacijo lahko povrnete tudi do $50.000 USD na leto, če ga ne potrebujete več. Samopostrežna storitev Exchange in preklic zmožnosti nista na voljo za stranke, ki so v podjetju ZDA. Podprte so tudi druge vrste naročnine na AMERIŠKO vlado, vključno s plačili-as-you-go in CSP. Če želite zamenjati ali povrniti obstoječo rezervacijo, morate imeti lastnik dostop do naročila za rezervacijo.
+Rezervacijo lahko zamenjate za drugo rezervacijo iste vrste. Rezervacijo lahko vrnete, tudi do 50.000 USD na leto, če je ne potrebujete več. Možnost samopostrežne izmenjave in preklica ni na voljo strankam ameriškega vladnega poslovnega sporazuma. Podprte so druge vrste vladnih naročnin, vključno s Pay-As-You-Go in CSP. Morate imeti lastniški dostop do naročila rezervacije za zamenjavo ali vračilo kupnine obstoječe rezervacije.
 
-Navodila za dokončanje transakcije se bodo prikazala v teh navodilih
+Naslednji koraki vas bodo vodili skozi postopek za dokončanje transakcije
 
-1. Prijavite se v [portal Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Izberite rezervacije, ki jih želite povrniti, in kliknite **Exchange**
-2. Izberite izdelek VM, ki ga želite kupiti, in vnesite količino. Prepričajte se, da je nova skupna vsota nakupov večja od skupne vsote, ki [določa pravo velikost pred nakupom](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
-3. Preglejte in dokončajte transakcijo
+1. Prijavite se v vaš[portal Microsoft Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Izberite rezervacije, ki jih želite vrniti, in kliknite **Zamenjava**
+2. Izberite izdelek VM, ki ga želite kupiti, in vnesite količino. Prepričajte se, da je skupna vrednost novega nakupa večja od skupne vrednosti vrnitve [Pred nakupom določite pravo velikost](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+3. Predogled in dokončanje transakcije
 
-**Povračilo za rezerviran primer**
+**Povračilo stroškov za rezervirani primerek**
 
-Če želite povrniti rezervacijo, pojdite na **podrobnosti rezervacije** in kliknite **vračilo** .
+Če želite povrniti rezervacijo, pojdite na **Podrobnosti o rezervaciji** in kliknite **Vračilo**
 
-**Proocenjeno nadomestilo:**
+**Sorazmerno povračilo:**
 
-**Primeri Pro-obroka in minimalne zahteve za povračilo in zamenjavo**  
-Primer vnaprejšnje rezervacije:
+**Sorazmerno povračilo in primeri minimalnih zahtev za vračilo in zamenjavo kupnine**  
+Primer predhodne rezervacije:
 
-- Kupite enoletno obdobje RI za $120 v januarju 1
-- 7. april želite povrniti ali zamenjati rezervacijo
-- Ker je rezervacija v živo za 97 dni, boste dobili (1-97/365) * $120 vrnil. (tj. $88,1). Trenutno ni na voljo nobena kazen za povračilo
-- Če želite, da bo vaš novi nakup večji od $88,1
-- Trenutno ni nobene kazni za nadomestila
+- 1. januarja kupite enoletni RP za 120 USD
+- 7. aprila želite to rezervacijo povrniti ali zamenjati
+- Ker je rezervacija aktivna že 97 dni, boste dobili povrnjenih (1-97/365) * 120 USD. (tj. 88,1 USD). Trenutno ni nobene predvidene kazni glede povračila kupnine
+- Če opravite zamenjavo, mora biti vaš novi nakup višji od 88,1 USD
+- Trenutno ni nobene predvidene kazni glede povračila kupnine
 
-**Primer rezervacije načrta obračunavanja:**
+**Primer rezervacije načrta za obračunavanje:**
 
-- Kupite enoletno obdobje RI za $10 na mesec
-- 7. april želite povrniti ali zamenjati rezervacijo
-- Od zadnjega plačila se je zgodilo 7 dni, boste dobili (1-7/31) * $10 vrnil. (tj. $7,74)
-- Preklicana prihodnja plačila so $80. Trenutno ni na voljo nobena kazen za povračilo
-- Ta preklic bo odštel $87,74 od vašega zneska $50.000 nadomestila
-- Če je zamenjava, mora biti skupna vrednost novega nakupa večja od $87,74.
+- Kupite enoletni RP za 10 USD mesečno
+- 7. aprila želite to rezervacijo povrniti ali zamenjati
+- Ker je bilo zadnje plačilo opravljeno pred 7 dnevi, boste dobili povrnjenih (1-7/31) * 10 USD. (tj. 7,74 USD)
+- Prihodnja preklicana plačila bodo znašala 80 USD. Trenutno ni nobene predvidene kazni glede povračila kupnine
+- Ta preklic bo od vaše omejitve vračila v višini 50.000 USD odštel 87,74 USD
+- Če opravite zamenjavo, mora biti skupna vrednost vašega novega nakupa višja od 87,74 USD
 
 **Priporočeni dokumenti**
 
-- [Kako se obdelujejo vračanje in menjava transakcij](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
-- [Pravilniki o izmenjavi in nadomestilih](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)
+- [Kako se obdelujejo transakcije vračanja in menjave](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed)
+- [Pravilniki o zamenjavi in ​​vračilu kupnine](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies)

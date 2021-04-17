@@ -1,8 +1,8 @@
 ---
-title: Obvozna avla
+title: Obhodna čakalnica
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684966"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820050"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Nadzor nastavitev lobija in raven sodelovanja v aplikaciji Teams
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>Nadzor nastavitev čakalnice in raven sodelovanja v teams
 
-Če želite vsem, vključno s klici, zunanjimi in anonimnimi Uporabniki, omogočiti, da **zaobidejo preddverje**, uporabite PowerShell za izpolnitev tega opravila. Tukaj je primer spreminjanja globalnega pravilnika za srečanje za vašo organizacijo.
+Če želite vsem, vključno s klicnimi, zunanjimi in anonimnimi uporabniki, dovoliti, da preskočijo čakalnico **,** za dokončanje tega opravila uporabite PowerShell. Spodaj je primer spreminjanja pravilnika globalnega srečanja za vašo organizacijo.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-Ta ukaz» cmdlet «trenutno zahteva uporabo modula za Skype za podjetja PowerShell. Če želite nastaviti nastavitev za uporabo tega ukaza» cmdlet «, si oglejte [upravljanje pravilnikov prek lupine PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+Ta ukaz »cmdlet« trenutno zahteva uporabo modula PowerShell za Skype za podjetja. Če želite nastaviti uporabo tega ukaza »cmdlet« , si oglejte [Upravljanje pravilnikov prek lupine PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell)
 
-Ko nastavite pravilnik, ga morate uporabiti za uporabnike; Če pa ste spremenili globalni pravilnik, bo ta samodejno veljal za uporabnike. Za vsako spremembo pravilnika morate počakati vsaj **4 ure do 24 ur** , da bodo pravilniki lahko uveljavljeni. 
+Ko nastavite pravilnik, ga morate uporabiti za uporabnike. če ste spremenili globalni pravilnik, pa bo samodejno veljal za uporabnike. Če želite spremeniti pravilnik, morate počakati vsaj 4 ure do **24** ur, da bodo pravilniki veljati. 
 
-Če želite, da bodo te spremembe natančno razumele, kaj to omogoča, si oglejte dokumentacijo, ki je spodaj.
+Preden spremenite dokument, preberite spodnjo dokumentacijo, da boste natančno razumeli, kaj to omogoča.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Razumevanje kontrolnikov pravilnika lobiranja za Teams
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>Razumevanje kontrolnikov pravilnika čakalnice za srečanja v teams
 
-Te nastavitve nadzirajo, kateri udeleženci srečanja čakajo v preddverju, preden so sprejeti v srečanje, in raven udeležbe, ki jim je dovoljen v srečanju. S funkcijo PowerShell lahko posodobite nastavitve pravilnika srečanja, ki še niso bile uveljavljene (z oznako» kmalu na voljo «) v skrbniškem središču za ekipe. Glejte spodaj za primer» cmdlet «lupine PowerShell, ki vsem uporabnikom omogoča, da zaobidejo preddverje.
+Te nastavitve nadzirajo, kateri udeleženci srečanja počakajo v čakalnici, preden so sprejeti v srečanje, in raven sodelovanja, ki jim je dovoljena v srečanju. S storitvijo PowerShell lahko posodobite nastavitve pravilnika srečanja, ki še niso bile implementirane (v skrbniškem središču za Teams so označene z »kmalu na voljo«). Glejte spodaj za primer ukaza »cmdlet« lupine PowerShell, ki vsem uporabnikom omogoča, da preskočijo čakalnico.
 
-- [Samodejno priznavanje oseb](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) je pravilnik per organizatorja, ki nadzoruje, ali se ljudje neposredno pridruževanjo srečanju ali počakajo v čakalnici, dokler jih ne sprejme uporabnik s preverjeno pristnostjo.
+- [Samodejno sprejem oseb je](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) pravilnik na organizatorja, ki nadzira, ali se osebe pridružijo srečanju neposredno ali pa počakajo v čakalnici, dokler jih ne sprejmejo uporabnik s preverjeno pristnostjo.
 
-- [Dovolite anonimnim osebam, da začnejo srečanje](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) , je pravilnik na organizatorju, ki nadzoruje, ali se lahko anonimni ljudje, vključno z uporabniki B2B in Združenega uporabnika, pridružite srečanju uporabnikov brez preverjanja pristnosti v organizaciji.
+- [Anonimnim](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) ljudem dovoli začetek srečanja je pravilnik na organizatorja, ki nadzira, ali se lahko anonimne osebe, vključno z B2B in zunanji uporabniki, pridružijo srečanju uporabnika brez preverjenega uporabnika iz organizacije, ki se udeleži.
 
-- [Dovoli klicnim uporabnikom, da zaobidejo preddverje](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) (**kmalu**na voljo) je pravilnik na organizatorju, ki nadzoruje, ali osebe, ki kličejo s telefonom, neposredno pridružijo srečanju ali pa počakajo v preddverju, ne glede na nastavitev **samodejno priznavanje oseb** .
+- [Dovoli,](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) da klicni uporabniki preskočijo čakalnico **(** kmalu na voljo ) je pravilnik na organizatorja, ki nadzira, ali se osebe, ki so se srečanju neposredno pridružile s klicem po telefonu, ali pa počakajo v čakalnici ne glede na nastavitev Samodejno dovoli **dostop** oseb.
 
-- [Dovoli organizatorjem, da preglasijo nastavitve lobija](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**kmalu**na voljo) je pravilnik per organizatorja, ki nadzoruje, ali lahko organizator srečanja preglasi nastavitve lobija, ki jih skrbnik **samodejno prizna osebam** in **Dovoli klicne uporabnike, da zaobidejo preddverje** , ko načrtujejo novo srečanje.
+- [Dovoli](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) organizatorjem, da preglasijo nastavitve čakalnice **(** kmalu na voljo ) je pravilnik na  organizatorja, ki nadzoruje, ali lahko organizator srečanja preglasi nastavitve čakalnice, ki jih je nastavil skrbnik v možnosti Samodejno dovoli sprejem oseb **in** Dovoli, da klicni uporabniki preskočijo čakalnico, ko načrtujejo novo srečanje.
 
-**Opomba:** Preberite [upravljanje pravilnikov za srečanje v aplikaciji Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) za popoln pregled pravilnikov za srečanje Microsoft teams.
+**Opomba:** Celoten [pregled pravilnikov za srečanja v aplikaciji](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) Microsoft Teams je na voljo v članku Upravljanje pravilnikov za srečanja v aplikaciji Teams.

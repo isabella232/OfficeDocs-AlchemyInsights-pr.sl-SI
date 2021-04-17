@@ -2,7 +2,7 @@
 title: Ni mogoče vzpostaviti povezave z internetom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 50e901a0bb6e6b4abefbb3aa8946c40fb11dfc99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794278"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819456"
 ---
-# <a name="fix-network-connection"></a>Odpravljanje omrežne povezave
+# <a name="fix-network-connection"></a>Odpravljanje težav z omrežno povezavo
 
-Če želite odpraviti težave z omrežno povezavo, najprej poskusite zagnati orodje za odpravljanje težav z omrežjem. 
+Težave z omrežno povezavo odpravite tako, da najprej zaženete orodje za odpravljanje težav z omrežjem. 
 
-1. [Odprite nastavitve za odpravljanje težav](ms-settings:troubleshoot).
+1. [Odprite nastavitve za odpravljanje težav.](ms-settings:troubleshoot)
 
-2. V razdelku **internetne povezave**izberite **Zaženi orodje za odpravljanje težav**.
+2. V **razdelku Internetne povezave** izberite **Zaženi orodje za odpravljanje težav**.
 
-Če uporabljate povezavo Wi-Fi, se prepričajte, da je Wi-Fi vklopljena za vašo napravo (vključno s fizičnim stikalom Wi-Fi) in da se letalski način ne vklopi.
+Če uporabljate povezavo Wi-Fi, preverite, ali Wi-Fi vklopljena za napravo (vključno s fizičnim stikalom za Wi-Fi) in da letalski način ni vklopljen.
 
-Če uporabljate ethernetno povezavo, se prepričajte, da je kabel varno priključen v računalnik s sistemom Windows in usmerjevalnikom ali modemom.
+Če uporabljate ethernetno povezavo, preverite, ali je kabel varno priključen na računalnik in usmerjevalnik ali modem.
 
 Če to ne deluje, poskusite znova zagnati računalnik, modem in usmerjevalnik (če ga imate):
 
-1. Izključite napajanje iz modema in usmerjevalnika. Če ima vaš modem varnostno kopijo akumulatorja, morate baterijo odstraniti, da popolnoma izklopite napajanje.
+1. Izključite napajanje z modemom in usmerjevalnikom. Če ima modem varnostno kopijo baterije, morate odstraniti baterijo, da popolnoma izklopite napajanje.
 
-2. Počakajte približno 30 sekund. Če ste iz modema odstranili baterijo, jo znova vstavite.
+2. Počakajte približno 30 sekund. Če ste iz modema odstranili baterijo, jo vstavite nazaj.
 
 3. Priključite napajalni kabel za modem in usmerjevalnik.
 
-4. Medtem ko čakate, da se modem in usmerjevalnik v celoti napajata, znova zaženite **računalnik: zaženite**  >  **možnost**Zaženi  >  **znova**.
+4. Medtem ko čakate, da se modem in usmerjevalnik v celoti vklopite, znova zaženite **računalnik:** Zaženite Power  >    >  **Restart**.
 
 **Napredno odpravljanje težav**
 
-Če želite več naprednih korakov za odpravljanje težav, glejte [Odpravljanje težav z vzpostavljanjem povezave Wi-Fi v sistemu Windows](https://support.microsoft.com/help/10741?ocid=SMC10741%2F). 
+Če želite naprednejše korake za odpravljanje težav, [glejte Odpravljanje Wi-Fi s povezavo v sistemu Windows.](https://support.microsoft.com/help/10741?ocid=SMC10741%2F) 
 
-Če niste zadovoljni z več tehničnimi koraki za odpravljanje težav, se [obrnite na nas](https://support.microsoft.com/contactus).
+Če ne želite uporabiti tehničnih navodil za odpravljanje težav, se obrnite [na nas.](https://support.microsoft.com/contactus)
