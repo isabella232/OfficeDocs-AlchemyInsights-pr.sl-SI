@@ -1,8 +1,8 @@
 ---
-title: Fakturiranje e-pošte v storitvi Azure
+title: Izdajanje e-poštnih računov v storitvi Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 5dc4bcd7a3f81d5130fdb9330280f46d87fff1a1
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
-ms.translationtype: MT
+ms.openlocfilehash: 4b023c1a529618b89794360f27f0204fdf029225
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48922129"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820806"
 ---
-# <a name="azure-email-invoicing"></a>Fakturiranje e-pošte v storitvi Azure
+# <a name="azure-email-invoicing"></a>Izdajanje e-poštnih računov v storitvi Azure
 
-Imeti morate skrbniško vlogo v računu za naročnino ali paket podpore, da se odločite za prejemanje računa po e-pošti. E-poštni računi so na voljo le za naročnine in načrte podpore, ne za rezervacije ali nakupe v storitvi Azure Marketplace. Ko se odločite, lahko dodate tudi dodatne prejemnike, ki prejmejo račun po e-pošti. Upoštevajte ta navodila.
+V paketu naročnine ali podpore morate imeti vlogo skrbnika računa, da lahko račun prejmete po e-pošti. E-poštni računi so na voljo le za pakete naročnine in podpore, ne pa za rezervacije ali nakupe v storitvi Azure Marketplace. Ko se odločite za sodelovanje, lahko dodate dodatne prejemnike, ki prejmejo račun tudi po e-pošti. Sledite tem korakom.
 
-1. Vpišite se v [portal Azure](https://portal.azure.com/).
-2. Poiščete **stroške Management + obračunavanje**.
-3. Na levi strani izberite **računi** .
-4. Izberite naročnino na Azure ali paket podpore in nato izberite **Sprejmi račun po e-pošti**.
-5. Kliknite **e-poštni račun** in Sprejmite pogoje.
-6. Račun je poslan v želeno e-poštno sporočilo. Če želite posodobiti e-poštno sporočilo, izberite **Posodobi profil** .  
+1. Vpišite se v [portal storitve Azure](https://portal.azure.com/).
+2. Poiščite **Upravljanje stroškov + obračunavanje**.
+3. Na levi strani izberite **Računi**.
+4. Izberite naročnino storitve Azure ali naročnino na paket podpore in nato **Prejemanje računov po e-pošti**.
+5. Kliknite **E-poštni račun** in sprejmite pogoje.
+6. Račun je poslan na želen e-poštni naslov. Izberite **Posodobitev profila** in posodobite e-pošto.  
 
-    Račune za naročnino in podporo boste morda želeli dati v skupno rabo vsak mesec s svojo računovodsko ekipo ali jih poslati enemu od drugih e-poštnih naslovov.  
+    Račune za naročnino in paket podpore boste morda želeli dati vsak mesec v skupno rabo z računovodsko skupino ali pa jih boste poslali na enega od vaših drugih e-poštnih naslovov.  
 
-7. Upoštevajte zgornje korake, da najprej omogočite račun po e-pošti in nato izberite  **Konfiguriraj prejemnike.**
+7. Upoštevajte zgornja navodila in najprej omogočite izdajanje računov po e-pošti, nato pa izberite **Konfiguracija prejemnikov.**
 8. Vnesite e-poštni naslov, nato pa izberite **Dodaj prejemnika**. Dodate lahko več e-poštnih naslovov.
-9. Ko dodate vse e-poštne naslove, izberite **Dokončano** na dnu zaslona.
+9. Ko dodate vse e-poštne naslove, na dnu zaslona izberite **Končano**.

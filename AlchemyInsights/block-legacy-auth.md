@@ -2,7 +2,7 @@
 title: BlockLegacyAuth
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685614"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820194"
 ---
-# <a name="blocking-legacy-authentication"></a>Blokiranje podedovanega preverjanja pristnosti
+# <a name="blocking-legacy-authentication"></a>Blokiranje starejšega preverjanja pristnosti
 
-Podedovano preverjanje pristnosti je izraz, ki se sklicuje na zahtevo za preverjanje pristnosti, ki jo je naredila:
+Starejše preverjanje pristnosti je izraz, ki se nanaša na zahtevo za preverjanje pristnosti, ki jo je naredil:
 
-- Starejše Officeove odjemalce, ki ne uporabljajo sodobnega preverjanja pristnosti (na primer odjemalec za Office 2010).
+- Starejši odjemalci sistema Office, ki ne uporabljajo sodobnega preverjanja pristnosti (na primer odjemalec sistema Office 2010).
 
-- Kateri koli odjemalec, ki uporablja podedovane poštne protokole, kot je IMAP/SMTP/POP3.
+- Vsak odjemalec, ki uporablja podedovane poštne protokole, kot je IMAP/SMTP/POP3.
 
-Če želite več informacij o blokiranju podedovanega preverjanja pristnosti in omogočanju sodobnega preverjanja pristnosti, glejte [blokiranje podedovanega preverjanja pristnosti](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+Če želite več informacij o blokiranju starejšega preverjanja pristnosti in omogočanju sodobnega preverjanja pristnosti, glejte [Blokiranje starejšega preverjanja pristnosti.](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication)
 
-Varnostne privzete nastavitve v imeniku Azure Active Directory (Azure AD) Poenostavite varnost in zaščitite svojo organizacijo. Varnostne privzete vrednosti vsebujejo vnaprej konfigurirane varnostne nastavitve za pogoste napade.
-Če želite več informacij o varnostnih privzetih nastavitvah, glejte [Kaj so privzete nastavitve varnosti?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
+Z varnostnimi privzetimi nastavitvami v imeniku Azure Active Directory (Azure AD) boste lažje varni in zaščiteni vašo organizacijo. Varnostne privzete nastavitve vsebujejo vnaprej konfigurirane varnostne nastavitve za pogoste napade.
+Če želite več informacij o privzetih varnostih, [glejte Kaj so varnostne privzete nastavitve?](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
 
-**Opomba**: če je bil vaš najemnik ustvarjen na ali po 22 oktober 2019, je morda prišlo do novega varnega obnašanja in že imate omogočene varnostne nastavitve v najemniku.  V želji, da zaščitite vse uporabnike, se varnostne privzete nastavitve izvlečejo v vse nove ustvarjene najemnike.
+**Opomba:** Če je bil najemnik ustvarjen 22. oktobra 2019 ali po tem, je morda prišlo do novega varnega privzetega delovanja in v najemniku že imate omogočene varnostne privzete nastavitve.  Zaradi zaščite vseh naših uporabnikov bodo privzete varnostne nastavitve na voljo za vse nove najemnike, ki so bili ustvarjeni.

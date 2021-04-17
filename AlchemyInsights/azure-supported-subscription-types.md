@@ -1,8 +1,8 @@
 ---
-title: Podprte vrste naročnine
+title: Podprte vrste naročnin
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,53 +12,53 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807980"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820698"
 ---
-# <a name="supported-subscription-types"></a>Podprte vrste naročnine
+# <a name="supported-subscription-types"></a>Podprte vrste naročnin
 
-Če želite nadaljevati, si oglejte podprte vrste naročnine.
+Če želite nadaljevati, preglejte podprte vrste naročnin.
 
-[Podprte vrste naročnine](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
+[Podprte vrste naročnin](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
 
-**Prenos lastništva plačnika**
+**Prenos lastništva za obračunavanje**
 
-Portal Azure kot [skrbnik računa](https://ms.portal.azure.com/) za račun za obračunavanje, ki ima naročnino, ki jo želite prenesti
+Azure portal kot [Skrbnik računa](https://ms.portal.azure.com/) za obračunavanje z naročnino, ki jo želite prenesti
 
-- Iskanje po **stroških upravljanja + obračunavanje** . V levem podoknu izberite **naročnine** . Odvisno od Accessa boste morda morali izbrati obseg obračunavanja **in nato naročnine** ali **Azure naročnine** .
-- Izberite» prenos lastništva računa «za naročnino, ki jo želite prenesti
-- Vnesite e-poštni naslov uporabnika, ki je skrbnik za obračunavanje računa, ki bo novi lastnik za naročnino, nato pa izberite **Pošlji zahtevo za prenos**
-- Uporabnik dobi e-poštno sporočilo z navodili za pregled zahteve za prenos. Če želite odobriti zahtevo za prenos, uporabnik izbere povezavo v e-poštnem sporočilu in sledi navodilom.
+- Poiščete **Upravljanje stroškov in obračunavanje**. Izberite **Naročnine** v levem podoknu. Glede na dostop boste morda morali izbrati obseg obračunavanja in nato **Naročnine** ali **Naročnine Azure**.
+- Za naročnino, ki jo želite prenesti, izberite Prenesi lastništvo za obračunavanje.
+- Vnesite e-poštni naslov uporabnika, ki je skrbnik za obračunavanje računa, ki bo nov lastnik naročnine, nato pa izberite **pošljite zahtevo za prenos**.
+- Uporabnik prejme e-poštno sporočilo z navodili za pregled vaše zahteve za prenos. Če želite odobriti zahtevo za prenos, uporabnik izbere povezavo v e-poštnem sporočilu in sledi navodilom.
 
-Opomba: Če želite prenesti lastništvo nad naročnino na uporabniški račun v drugem najemniku storitve Azure AD, je treba trajno odstraniti vse naloge [nadzora dostopa, ki temeljijo na vlogi (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) za upravljanje virov v naročnini. Le novi lastnik bo imel dostop do upravljanja virov v naročnini. Če želite več informacij, glejte [prenos naročnine na uporabnika v drugem najemniku storitve AZURE ad](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+Opomba: Če prenesete lastništvo računov za naročnino na uporabniški račun v drugem najemniku Azure AD, bodo vse [dodelitve nadzora dostopa (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) za upravljanje virov v naročnini trajno odstranjene. Za upravljanje virov v naročnini bo imel dostop le nov lastnik. Če želite več informacij o tem, glejte [Prenašanje naročnine na uporabnika v drugem najemniku storitve Azure AD](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
 
 **Prenos lastništva naročnine**
 
-Naročnina za prenos lastništva za upravljanje virov v naročnini izgubi dostop. Če želite več informacij o dodajanju obstoječe naročnine najemniku, glejte [povezovanje ali dodajanje naročnine na Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+Prenos lastništva naročnine na podlagi vlog (RBAC) za upravljanje virov v naročnini izgubi dostop. Če želite več informacij o dodajanju obstoječe naročnine najemniku, glejte [Pridružitev ali dodajanje naročnine Azure v Azure Active Directory. ](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-- Prenos naročnine z obstoječim neporavnanim zneskom iz trenutnega cikla obračunavanja v novem računu ne bo prenesen v nov plačilni instrument. Le informacije, ki so na voljo uporabnikom v novem računu, so stroški zadnjega meseca za vašo naročnino. Preostali del uporabe in zgodovina obračunov se ne prenesejo z naročnino.
-- Naročnine na prenos lastništva poslovnih sporazumov (EA) je trenutno podprta le v portalu za podjetja s sporazumi
-- Prenos kreditne usmerjenih naročnine, kot je Visual Studio, BizSpark, Microsoft partnersko omrežje za novega uporabnika zahteva, da ima Visual Studio/Microsoft partnersko omrežno licenco, da sprejme zahtevo za prenos
-- Vsi viri, kot so navidezni stroji, diski in spletna mesta, so uspešno preneseni v nov račun. Na prenos naročnine prek najemnika lahko vplivajo ti viri:
+- Prenos naročnine z obstoječim neplačanim zneskom iz trenutnega obračunskega cikla ne bo prenesen na nov plačilni instrument v novem računu. Edine informacije, ki so na voljo uporabnikom v novem računu, so stroški vaše naročnine v zadnjem mesecu. Preostala zgodovina uporabe in obračunavanja se ne prenese z naročnino.
+- Prenos lastništva računov za naročnine na Enterprise Agreement (EA) je trenutno podprt samo na portalu Enterprise Agreement
+- Če želite prenesti kreditno naravnano naročnino, kot so Visual Studio, BizSpark, mrežo Microsoftovih partnerjev na novega uporabnika, mora imeti licenco Visual Studio/licenco mreže Microsoftovih partnerjev za sprejem zahteve za prenos
+- Vsi viri, kot so navidezni računalniki, diski in spletna mesta, se uspešno prenesejo na nov račun. Pri prenosu naročnine med najemniki bi lahko vplivali na naslednje vire:
 
-**Domenske storitve Azure AD**
+**Domenske storitve Azure AD Domain Services**
 
-Trezorji Azure Key
+Azure Key Vaults
 
-- [Povezani uporabniki in zbirke podatkov SQL](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) lahko vplivajo, še posebej, če stranka uporablja preverjanje pristnosti, povezane z imenikom Azure Active Directory.
-- **Storitve programov** , konfigurirane z preverjanjem pristnosti imenika Azure Active Directory
-- **Skupina za Visual Studio** Računi storitve, ki so priključeni na naročnine na Azure, lahko začasno izgubijo dostop, ko je povezava s povezavo Azure preklicana
+- To bi lahko vplivalo [na uporabnike in zbirke podatkov, povezane s SQL](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support), še posebej, če stranka uporablja preverjanje pristnosti, povezano z Azure Active Directory
+- To lahko vpliva na **storitve aplikacij**, konfigurirane z overjanjem Azure Active Directory
+- Računi Storitev **Visual Studio Team**, povezani z naročninami na Azure, lahko začasno izgubijo dostop, ko prekinete povezano naročnino na Azure
 
 **Priporočeni dokumenti**
 
-Koraki po sprejetju lastništva plačnika:
+Koraki po sprejemu lastništva računov:
 
-- Če želite ohraniti lastništvo obračuna, vendar spremenite vrsto naročnine, glejte: [preklop naročnine na Azure na drugo ponudbo](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Prenos vizualnega studia, Microsoft partnerskega omrežja (MPN) in plačila po naročnini za dev/test](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [Prenos lastništva v naročnini na podjetja (EA)](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
+- Če želite obdržati lastništvo računov, vendar spremeniti vrsto naročnine, glejte: [Preklop naročnine na Azure na drugo ponudbo](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Prenos Visual Studio, Microsoft partner Network (MPN) in Pay as you go dev/preskusne naročnine](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [Prenos lastništva za obračunavanje naročnin za Enterprise Agreement (EA)](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
 - [Pogosta vprašanja o prenosu lastništva](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [Odpravljanje težav pri prenosu lastništva](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+- [Odpravljanje težav s prenosom lastništva](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)

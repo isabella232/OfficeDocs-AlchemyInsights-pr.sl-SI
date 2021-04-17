@@ -1,8 +1,8 @@
 ---
-title: 'AIP: spremljanje in preklic portala'
+title: 'AIP: Portal za sledenje in preklic'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b187cd9a0f11168f54deb226c4828c280c0763cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663169"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821607"
 ---
-# <a name="aip-track-and-revoke-portal"></a>AIP: spremljanje in preklic portala
+# <a name="aip-track-and-revoke-portal"></a>AIP: Portal za sledenje in preklic
 
-Z **mestom za sledenje dokumenta** v portalu Azure lahko spremljate in prekličete dokumente, ko uporabljate zaščito informacij v storitvi Azure. Officeove aplikacije (Word, Excel in PowerPoint) in raziskovalca lahko uporabite tudi za spremljanje in preklic dokumentov.
+Z **mestom za sledenje dokumentom** v portalu Azure Portal lahko sledite dokumentom in jih prekličete, ko uporabljate Azure Information Protection. Z Officeovimi aplikacijami (Word, Excel in PowerPoint) in Raziskovalcem lahko sledite dokumentom in jih prekličete.
 
-1. Na mestu sledenja dokumenta kliknite **Prekliči dostop**. Preklic dokumenta odstrani dostop od pooblaščenih uporabnikov; dokument ni izbrisan.
-2. V Officeovem programu:
-    - Odprite zaščiten dokument, ki ga želite spremljati ali preklicati.
-    - Na zavihku **osnovno** v skupini **zaščita** kliknite **zaščiti > sledenja in preklic**.
+1. Na mestu za sledenje dokumentom kliknite **Prekliči dostop.** Preklic dokumenta odstrani dostop pooblaščenih uporabnikov. dokument ni izbrisan.
+2. V Officeovi aplikaciji:
+    - Odprite zaščiten dokument, ki mu želite slediti ali ga preklicati.
+    - Na **zavihku** Osnovno v skupini **Zaščita** kliknite Zaščiti in > sledenje in **preklic.**
 
-- Če želite več informacij o sledenju in preklicu dokumenta, glejte [sledenje in preklic](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
+- Če želite dodatne informacije o sledenju in preklicu dokumenta, glejte [Sledenje in preklic.](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
 
-Če želite več informacij o uporabi lupine PowerShell za upravljanje mesta za sledenje dokumentom, informacije o beleženju, glejte to:
-- [Priroènik za uporabo: sledite in prekličete dokumente, ko uporabljate informacije o zaščiti Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
-- [Navodila za skrbnike: konfiguriranje in uporabo sledenja dokumentom za zaščito informacij Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
-- [Licenca za upravljanje pravic](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [Pregled naročnin in funkcij za zaščito informacij Azure](https://azure.microsoft.com/pricing/details/information-protection)
-- [Zahteve za zaščito informacij Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [Vadnica za hitri začetek za informacijsko zaščito Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+Če želite informacije o uporabi PowerShella za upravljanje mesta za sledenje dokumentom, si oglejte te informacije o pisanju dnevnikov:
+- [Uporabniški priročnik: Sledenje in preklic dokumentov pri uporabi storitve Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- [Priročnik za skrbnike: Konfiguriranje in uporaba funkcije sledenja dokumentom za Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
+- [Licenca za uporabo upravljanja pravic](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
+- [Pregled naročnin in funkcij na Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)
+- [Zahteve za Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Vadnica za hitri začetek za Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
