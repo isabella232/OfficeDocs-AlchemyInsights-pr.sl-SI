@@ -1,8 +1,8 @@
 ---
-title: Sporočilo o aplikaciji Microsoft 365 – ni bilo mogoče najti Officeovih licenc, povezanih
+title: Sporočilo o aplikacijah Microsoft 365 – povezanih licenc sistema Office ni bilo mogoče najti
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802793"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836223"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Sporočilo o aplikaciji Microsoft 365 – ni bilo mogoče najti Officeovih licenc, povezanih
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Sporočilo o aplikacijah Microsoft 365 – povezanih licenc sistema Office ni bilo mogoče najti
 
 Če želite to napako odpraviti, poskusite to:
 
@@ -39,7 +39,7 @@ ms.locfileid: "47802793"
 
 - Ponastavite stanje aktiviranja Officea. Glejte [Ponastavite stanje aktiviranja naročnine Aplikacije ogrodja Microsoft 365 za podjetja](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Preverite požarni zid, protivirusno programsko opremo in nastavitve strežnika proxy, da potrdite, da ne blokirajo dostopa Microsoft 365 Apps v internet. 
+- Preverite nastavitve požarnega zidu, protivirusne programske opreme in strežnika proxy, da preverite, ali blokirajo programe storitve Microsoft 365 v internetu. 
 
 Za dodatne rešitve odpravljanja težav glejte:
 

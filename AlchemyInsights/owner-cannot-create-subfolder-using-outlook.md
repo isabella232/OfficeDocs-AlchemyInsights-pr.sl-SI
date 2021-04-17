@@ -2,7 +2,7 @@
 title: Lastnik ne more ustvariti podmape z Outlookom
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665734"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836151"
 ---
 # <a name="owner-cannot-create-sub-folder-using-outlook"></a>Lastnik ne more ustvariti podmape z Outlookom
 
-**V nadaljevanju je prišlo do težave z lastniki javnih map, ki ustvarijo podmape z Outlookom. Težava bo kmalu popravljena.**
+**Trenutno obstaja težava z ustvarjanjem podmap v Outlooku z lastniki javnih map. Ta težava bo kmalu odpravljena.**
 
-Medtem uporabite eno od teh rešitev:
+Medtem pa uporabite eno od teh rešitev:
 
-1. Uporaba Outlooka za MAC za ustvarjanje podmape kot težave vpliva le na Outlook za namizne Windows (vse različice)
-2. Ali je skrbnik ustvaril podmapo s funkcijo EKSO Shell ali EAC
-3. Spreminjanje DefaultPublicFolderMailbox/EffectivePublicFolderMailbox uporabnika v drugega nabiralnika, kot je nabiralnik vsebine za mapo, ki povzroča težavo  
-    - *Nastavitev nabiralnika UPORABNIK1 DefaultPublicFolderMailbox PubMBX3*
-4. Počakajte eno uro, znova zaženite Outlook Client
+1. Uporabite Outlook za MAC, da ustvarite podmapo, saj težava vpliva le na Outlook za namizno različico okna (vse različice)
+2. Naj skrbnik ustvari podmapo z lupino EXO ali EAC
+3. Spreminjanje mape DefaultPublicFolderMailbox/EffectivePublicFolderMailbox za uporabnika v drug nabiralnik in ne v nabiralnik vsebine za mapo, ki povzroča težavo  
+    - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*
+4. Počakajte eno uro, znova zaženite Outlookovega odjemalca

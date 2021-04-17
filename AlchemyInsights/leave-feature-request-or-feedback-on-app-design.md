@@ -1,8 +1,8 @@
 ---
-title: Zapuščanje zahteve za funkcijo ali povratne informacije o načrtovanju aplikacije
+title: Pustite zahtevo za funkcijo ali povratne informacije v načrtu programa
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676538"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836547"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Zapuščanje zahteve za funkcijo ali povratne informacije o načrtovanju aplikacije
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Pustite zahtevo za funkcijo ali povratne informacije v načrtu programa
 
-Cenimo, da delite svoje misli, ko nadaljujemo z delom v Outlooku. *UserVoice* je forum, kjer lahko pustite povratne informacije in glasujete o idejah drugih.  
+Cenimo, da delite svoje misli z drugimi med nadaljevanjem dela v Outlooku. *UserVoice* je forum, kjer lahko odidete s povratnimi informacijami in glasujete za zamisli drugih oseb.  
 
-Če nam želite pustiti idejo: 
+Če nam želite nekaj povedati: 
 
-**Nastavitve > pomoč & povratne informacije > predlagajte funkcijo > objava ideje** 
+**Nastavitve > pomoči in & povratnih > Predlog za funkcijo, > objavite idejo** 
 
-**Ali vas zanima, kako se prikaže vaše ime/e-pošta?**
+**Vas zanima, kako je prikazano vaše ime/e-pošta?**
 
-Ko dodate pripombo v obstoječo zahtevo funkcije, program samodejno napolni vaše ime ali e-poštni naslov iz primarnega računa, ki ste ga nastavili v aplikaciji. Če želite izbrati prikazano ime, morate poslati **novo** zahtevo za funkcijo. 
+Ko dodate pripombo obstoječi zahtevi za funkcijo, bo program samodejno zapolnil vaše ime ali e-poštni naslov iz primarnega računa, nastavljenega v programu. Če želite izbrati prikazano ime, morate poslati novo **zahtevo** za funkcijo. 
 
-Predložitev zahteve je preprost 3-stopenjski postopek. Na tretji in zadnji strani boste videli vrstico za svoj e-poštni naslov (zahtevano) in vrstico za vaše ime. Tukaj lahko izberete, kako bo vaše ime prikazano, ali pa jo lahko pošljete anonimno. 
+Pošiljanje zahteve je preprost postopek v 3 korakih. Na tretji in končni strani boste videli vrstico za svoj e-poštni naslov (obvezno) in vrstico za svoje ime. Tukaj lahko izberete, kako bo prikazano vaše ime, lahko pa zamisel pošljete anonimno. 
 
-**Opomba:** Morda boste morali spremeniti, kateri e-poštni naslov je samodejno naseljen na tej strani. Če je vaše ime nastavljeno na določen način v nastavitvah svojega e-poštnega odjemalca, lahko spremenite pošiljanje povratnih informacij v anonimne nastavitve. 
+**Opomba:** Morda boste morali spremeniti tudi to, kateri e-poštni naslov se samodejno izpolni na tej strani. Če je vaše ime nastavljeno na določen način znotraj nastavitev e-poštnega odjemalca, lahko vaše nastavitve preglašajo spremembo pošiljanja povratnih informacij na anonimno. 

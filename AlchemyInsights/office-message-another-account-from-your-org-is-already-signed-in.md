@@ -1,24 +1,25 @@
 ---
-title: Sporočilo v Officeovih aplikacijah – vpisan je že drug račun iz vaše organizacije
+title: Sporočilo v aplikacijah Microsoft 365 – vpisan je že drug račun iz vaše organizacije
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 5c5dfd24ccb3e31ce56db8be4f4aebcf60bfcb69
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
+ms.openlocfilehash: e7e71c5726e717a11e8f2be72c0966f1881ca68b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182917"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836259"
 ---
-# <a name="office-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Sporočilo v Officeovih aplikacijah – vpisan je že drug račun iz vaše organizacije
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>Sporočilo v aplikacijah Microsoft 365 – vpisan je že drug račun iz vaše organizacije
 
 Če želite to napako odpraviti, poskusite to:
 
@@ -31,6 +32,8 @@ ms.locfileid: "43182917"
 - Kliknite ikono **+**, da dodate ali povežete svoj račun. Vnesite poverilnice in počakajte, da se postopek dokonča.
 
 - Zaženite Officeovo aplikacijo in se po potrebi znova vpišite. 
+
+**Namig** na računalnikih s sistemom Windows lahko diagnosticirate in samodejno odpravite več pogostih težav pri vpisu v Office. Prenesite in zaženite orodje **[Pomočnik za podporo in obnovitev](https://aka.ms/SaRA-OfficeSignInScenario)** za uporabo avtomatiziranega orodja.
 
 Če težave ne boste mogli odpraviti, poskusite to: 
 
