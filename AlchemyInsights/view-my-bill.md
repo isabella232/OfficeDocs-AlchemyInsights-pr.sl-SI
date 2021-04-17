@@ -1,8 +1,8 @@
 ---
-title: Ogled računa ali računa
+title: Ogled računa
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,19 +13,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 05df0632b94862e96b21f6c68c0dde392e7b0cdc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb0a1a5535fc041103b31dea33fa5aa2d40ecfed
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796484"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834315"
 ---
-# <a name="view-my-bill-or-invoice"></a><span data-ttu-id="2042d-102">Ogled računa ali računa</span><span class="sxs-lookup"><span data-stu-id="2042d-102">View my bill or invoice</span></span>
+# <a name="view-my-bill-or-invoice"></a><span data-ttu-id="e4363-102">Ogled računa</span><span class="sxs-lookup"><span data-stu-id="e4363-102">View my bill or invoice</span></span>
 
-1. <span data-ttu-id="2042d-103">V skrbniškem središču za Microsoft 365 pojdite na stran **obračunavanje** \> [računov & plačila](https://go.microsoft.com/fwlink/p/?linkid=848039) .</span><span class="sxs-lookup"><span data-stu-id="2042d-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
+1. <span data-ttu-id="e4363-103">V Skrbniškem središču za Microsoft 365 odprite stran Računi  \> [& plačila.](https://go.microsoft.com/fwlink/p/?linkid=848039)</span><span class="sxs-lookup"><span data-stu-id="e4363-103">In the Microsoft 365 admin center, go to the **Billing** \> [Bills & payments](https://go.microsoft.com/fwlink/p/?linkid=848039) page.</span></span>
 
-2. <span data-ttu-id="2042d-104">Na spustnem seznamu izberite datumski obseg in nato izberite vrstni red, ki si ga želite ogledati.</span><span class="sxs-lookup"><span data-stu-id="2042d-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
+2. <span data-ttu-id="e4363-104">Na spustnem seznamu izberite datumski obseg in nato izberite vrstni red, ki ga želite videti.</span><span class="sxs-lookup"><span data-stu-id="e4363-104">Select a date range from the drop-down list, and then choose the order you want to view.</span></span>
 
-3. <span data-ttu-id="2042d-105">Če želite natisniti račun, prenesite račun kot datoteko PDF in kliknite **Natisni**.</span><span class="sxs-lookup"><span data-stu-id="2042d-105">To print the bill, download the bill as a PDF file and click **Print**.</span></span>
+3. <span data-ttu-id="e4363-105">Če želite natisniti račun, prenesite račun kot datoteko PDF in kliknite **Natisni**.</span><span class="sxs-lookup"><span data-stu-id="e4363-105">To print the bill, download the bill as a PDF file and click **Print**.</span></span>
 
-<span data-ttu-id="2042d-106">Če želite več informacij, glejte [Ogled računa ali fakture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="2042d-106">For more information see [View your bill or invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).</span></span>
+<span data-ttu-id="e4363-106">Če želite več informacij, glejte [Ogled računa ali fakture](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).</span><span class="sxs-lookup"><span data-stu-id="e4363-106">For more information see [View your bill or invoice](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).</span></span>
