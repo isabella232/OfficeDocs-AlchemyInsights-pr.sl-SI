@@ -1,8 +1,8 @@
 ---
-title: Težave z aplikacijo Apple Watch
+title: Težave z Apple Watch
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001107"
 - "3068"
-ms.openlocfilehash: d175e46d1a85715bc195d78e004dc3b57b77f124
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f7c7c91a25a18e21c1858aba0e54a42f27bc0f58
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700039"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832290"
 ---
-# <a name="trouble-with-the-apple-watch"></a>Težave z aplikacijo Apple Watch
+# <a name="trouble-with-the-apple-watch"></a>Težave z Apple Watch
 
-Če imate težave z Outlookom v storitvi Apple Watch, upoštevajte navodila za odpravljanje težav: 
+Če imate težave z uporabo Outlooka v programu Apple Watch, je tukaj nekaj korakov za odpravljanje težav: 
 
-1. Obiščite aplikacijo» ogled «na spletnem mestu iPhone.
+1. Odprite aplikacijo Watch v telefonu iPhone.
 
 2. Pomaknite se do aplikacije Outlook.
 
-3. Preklop» Pokaži aplikacijo v storitvi Apple Watch «, da **izklopite** odstranitev.
+3. Za odstranitev preklopite stikalo »Show App on Apple Watch« (Pokaži aplikacijo na apple **Watch)** na IZKLOPLJENO.
 
-4. Preklop» Pokaži aplikacijo v storitvi Apple Watch **«, da se znova** namesti na uro.
+4. Če želite znova namestiti aplikacijo v aplikaciji Watch, preklopite **možnost** »Pokaži aplikacijo v programu Apple Watch« na »ON«.
 
-5. Zaženite aplikacijo Outlook v storitvi Apple Watch in počakajte, da se podatki sinhronizirajo z najnovejšimi. 
+5. Zaženite program Outlook v storitvi Apple Watch in počakajte, da se podatki sinhronizirajo z najnovejšo različico. 
 
-Če vaša težava ni odpravljena, vam bo skupina za podporo z veseljem pomagala. Pojdite na **nastavitve > pomoč & povratne informacije > stik s podporo**. 
+Če težave ne odpravite, vam lahko pomaga skupina za podporo. Pojdite na **Nastavitve in > pomoč & povratne > se obrnite na podporo.** 

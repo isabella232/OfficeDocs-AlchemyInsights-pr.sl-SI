@@ -1,8 +1,8 @@
 ---
-title: Namestitev ekip kot samostojne ali z novimi/obstoječimi Officeovimi namestitve
+title: Namestitev aplikacije Teams kot samostojne namestitve ali z novimi/obstoječimi Officeovimi namestit
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: dc6c083c0f28a4724a23d829d03b9b78ea627270
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f3fb8c1430a54024c5cb00f2e002e4702d15e33c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663097"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831930"
 ---
-# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Namestitev ekip kot samostojne ali z novimi ali obstoječimi Officeovimi namestitvami
+# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>Namestitev aplikacije Teams kot samostojne namestitve ali z novimi ali obstoječimi Officeovimi namesticami
 
-Microsoft Teams je vključen kot del *novih namestitev* programov Microsoft 365 za podjetja, Microsoft 365 apps za podjetja in Office za Mac. Če želite več informacij, glejte [Kdaj bo Microsoft Teams začel uporabljati nove namestitve Officea?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Aplikacija Microsoft Teams je  vključena kot del novih namestitev aplikacij za Microsoft 365 za podjetja, Microsoft 365 Apps for Business in Office for Mac. Če želite več informacij, [glejte Kdaj bo microsoft Teams začel biti vključen v nove namestitve Officea?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Poleg tega se bodo v napravah s sistemom Windows, ko posodobite obstoječo namestitev na najnovejšo različico, začele s 1906 različicami v trenutnem kanalu, bo ekipam *dodana v obstoječe namestitve* aplikacij Microsoft 365 za podjetja (in Microsoft 365 apps za podjetja). Če želite več informacij, glejte [Kaj je z obstoječimi namestitvami Officea?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Poleg tega bo aplikacija Teams od različice 1906 v trenutnem kanalu dodan v obstoječe namestitve aplikacij Microsoft 365 za podjetja (in Microsoft 365 Apps for business) v napravah s sistemom Windows, ko posodobite obstoječo namestitev na najnovejšo različico.  Če želite več informacij, [glejte Kaj pa obstoječe namestitve Officea?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-Skupine lahko uvedete kot samostojne za uporabnike tako, da [upoštevate ta navodila](https://docs.microsoft.com/MicrosoftTeams/msi-deployment), lahko pa tudi sami namestite ekipe https://teams.microsoft.com/downloads .
+Teams lahko za svoje uporabnike uvedete kot samostojno aplikacijo tako, da sledite tem navodilom [ali](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)pa uporabnikom omogočite, da namestijo Aplikacijo Teams zase iz https://teams.microsoft.com/downloads .
 
-Ko je ekipa nameščena, se [samodejno posodobi](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) približno vsaka dva tedna z novimi funkcijami in posodobitvami kakovosti. 
+Ko namestite aplikacijo Teams, se samodejno [posodobi približno](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) na dva tedna z novimi funkcijami in posodobitvami kakovosti. 
 

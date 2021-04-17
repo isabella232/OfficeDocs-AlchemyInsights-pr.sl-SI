@@ -1,8 +1,8 @@
 ---
-title: Navodila za skrivanje/Razkrij skupino s seznama naslovov
+title: Navodila za skrivanje/prikaz skupine na seznamu naslovov
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: 1ad9ab294d46ca0fc88a454e3503ddcf80398896
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4d55866700b9b8494f1f692cd3b865116b96a1bc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663025"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831894"
 ---
-# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Skrij skupino Microsoft 365 na seznamu naslovov (GAL)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>Skrivanje skupine Microsoft 365 na seznamu naslovov (GAL)
 
-Če želite skriti skupino Microsoft 365 s seznamov naslovov (GAL) Exchangeevih odjemalcev (kot je Outlook ali OWA), uporabite ta ukaz v lupini EKSO:
+Če želite skriti skupino Microsoft 365 na seznamih naslovov odjemalcev za Exchange (kot je Outlook ali OWA), uporabite ta ukaz v lupini EXO:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-Če želite skriti skupino Microsoft 365, ki je vidna v Exchangeevem odjemalcu, uporabite ta ukaz v lupini EKSO:
+Če želite skriti skupino Microsoft 365, da ni vidna odjemalcem za Exchange, uporabite ta ukaz v lupini EXO:
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

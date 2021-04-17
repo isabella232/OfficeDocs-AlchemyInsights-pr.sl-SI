@@ -1,8 +1,8 @@
 ---
-title: Klicna ploščica za Teams
+title: Manjkajoča glasovna številčnica v teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2641"
 - "9000719"
-ms.openlocfilehash: 185c261311acc527b0f0469ef1d72ed00e56d17b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 6837cb9fffcf93a7fb99fec4c2343f476dd00599
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452064"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832362"
 ---
-# <a name="dial-pad-is-missing-in-microsoft-teams"></a>Klicna ploščica manjka v aplikaciji Microsoft Teams 
+# <a name="dial-pad-is-missing-in-microsoft-teams"></a>V aplikaciji Microsoft Teams manjka številčnica 
 
-Če v aplikaciji Microsoft Teams manjka klicna ploščica, preverite to:
+Če številčnica manjka v aplikaciji Microsoft Teams, preverite to:
 
 - Poskrbite, da bo imel uporabnik dodeljeno [licenco za aplikacijo Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
 - Poskrbite, da bo imel uporabnik dodeljen [načrt klicanja](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).

@@ -1,8 +1,8 @@
 ---
-title: Officeove izdelke, ki niso na voljo za platformo Mac
+title: Officeovi izdelki niso na voljo za platformo Mac
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -15,14 +15,14 @@ ms.custom:
 - "756"
 - "755"
 - "2000016"
-ms.openlocfilehash: 312ef6de211f972173eab6071bd5f8e44fc40bf3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ea579188d8b28f4af47e03e09e9767d9d84e5e7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802685"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832866"
 ---
-# <a name="office-products-not-available-for-the-mac-platform"></a>Officeove izdelke, ki niso na voljo za platformo Mac
+# <a name="office-products-not-available-for-the-mac-platform"></a>Officeovi izdelki niso na voljo za platformo Mac
 
-Visio, Project, Publisher in Access niso na voljo za platformo Mac, vendar so na voljo storitve Visio online in Project online ter delo na vseh platformah.
+Visio, Project, Publisher in Access niso na voljo za platformo Mac, vendar pa sta Visio Online in Project Online na voljo in delujeta v vseh platformah.
   

@@ -2,7 +2,7 @@
 title: Odpravljanje težav z zvokom v sistemu Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,55 +12,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "3476"
 - "9001463"
-ms.openlocfilehash: 88157f9c82bc970e989d47f5cf376b7ce485cb2a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1bafc97b2ab1394087d2451d73168a29267d64ab
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750359"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833307"
 ---
 # <a name="troubleshooting-audio-issues-in-windows-10"></a>Odpravljanje težav z zvokom v sistemu Windows 10
 
-**Zaženite orodje za odpravljanje težav z zvokom**
+**Zagon orodja za odpravljanje težav z zvokom**
 
-1.  Odprite [nastavitve za odpravljanje težav](ms-settings:troubleshoot).
+1.  Odprite nastavitve [za odpravljanje težav.](ms-settings:troubleshoot)
 
-2.  Izberite **predvajanje zvoka**  >  **zaženite orodje za odpravljanje težav**.
+2.  Izberite **Predvajanje zvoka**  >  **Zaženite orodje za odpravljanje težav**.
 
 **Nastavitev privzete naprave**
 
-Če vzpostavljate povezavo z zvočno napravo s sistemom USB ali HDMI, boste morda morali nastaviti to napravo kot privzeto:
+Če vzpostavljate povezavo z zvočno napravo prek kabla USB ali HDMI, boste morda morali nastaviti napravo kot privzeto:
 
-1. Odprite **Začetni**  >  **zvok**in nato izberite **zvok** ali **Spremeni sistemske zvoke** s seznama rezultatov.
+1. Odprite **začetni** meni Zvok in na seznamu rezultatov izberite Zvok ali Spremeni sistemske  >  zvoke.  
 
-2.  Na zavihku **predvajanje** izberite napravo, izberite **Nastavi privzeto**in nato kliknite **v redu**.
+2.  Na **zavihku** Predvajanje izberite napravo, izberite **Nastavi privzeto** in nato V **redu**.
 
-**Preverjanje kablov, glasnosti, zvočnikov in slušalk**
+**Preverite kable, glasnost, zvočnike in slušalke**
 
-1. Preverite povezave govornika in slušalke za ohlapne kable in se prepričajte, da so povezani s pravilnim vtičnico.
+1. Preverite, ali so priključki zvočnikov in slušalk razrahljani, in se prepričajte, da so povezani s pravilno vtičnico.
 
-2. Preverite moč in glasnost ter poskusite vklopiti vse kontrolnike za glasnost.
+2. Preverite napajanje in raven glasnosti ter poskusite spremeniti vse kontrolnike glasnosti navzgor.
 
-3. Nekateri zvočniki in programi imajo lastne kontrolnike glasnosti; Morda boste morali preveriti vse, da se prepričate, da so na pravi ravni.
+3. Nekateri zvočniki in aplikacije imajo svoje kontrolnike glasnosti. boste morda morali preveriti vse, da se prepričate, da so na pravih ravneh.
 
-4. Poskusite vzpostaviti povezavo z drugimi vrati USB.
+4. Poskusite uporabiti druga vrata USB.
 
-**Opomba**: ne pozabite, da zvočniki morda ne bodo delovali, ko so slušalke priklopljene.
+**Opomba:** Ne pozabite, da zvočniki morda ne bodo delovali, ko so priključene slušalke.
 
-**Preverjanje upravitelja naprav**
+**Preverite upravitelja naprav**
 
-Če želite preveriti, ali so gonilniki posodobljeni:
+Da se prepričate, da so gonilniki posodobljeni:
 
-1. Izberite **Start**, vnesite **upravitelj naprav**in nato na seznamu rezultatov izberite **upravitelj naprav** .
+1. Izberite **Začetni** meni , **vnesite Upravitelj** naprav in nato **na** seznamu rezultatov izberite Upravitelj naprav.
 
-2. V razdelku **Krmilniki za zvok, video in igre**izberite zvočno kartico, odprite, izberite zavihek **gonilnik** in izberite **Posodobi gonilnik**.
+2. V **razdelku Krmilniki za zvok, video** in igre izberite  zvočno kartico, jo odprite, izberite zavihek Gonilnik in izberite **Posodobi gonilnik**.
 
-**Opomba**: Če Windows ne najde novega gonilnika, ga poiščite na spletnem mestu izdelovalca naprave in upoštevajte navodila.
+**Opomba:** Če sistem Windows ne najde novega gonilnika, ga poiščite na spletnem mestu proizvajalca ter sledite navodilom.
 
-**Vnovična namestitev gonilnika**
+**Ponovna namestitev gonilnika**
 
-Če ne morete posodobiti prek upravitelja naprav ali poiskati novega gonilnika na spletnem mestu izdelovalca, poskusite s temi koraki:
+Če posodobitve ne morete posodobiti prek upravitelja naprav ali pa najdete novega na spletnem mestu proizvajalca, poskusite s temi koraki:
 
-1. V upravitelju naprav z desno tipko miške kliknite (ali pritisnite in pridržite) zvočni gonilnik in izberite **Odstrani**. Znova zaženite napravo in Windows bo poskušal znova namestiti gonilnik.
+1. V upravitelju naprav z desno tipko miške kliknite (ali pritisnite in pridržite) gonilnik zvočne kartice in izberite **Odstrani**. Znova zaženite napravo in sistem Windows bo poskusil ponovno namestiti gonilnik.
 
-2. Če vnovična namestitev gonilnika ne deluje, poskusite uporabiti splošen zvočni gonilnik, ki ga dobite s sistemom Windows. V upravitelju naprav z desno tipko miške kliknite (ali pritisnite in pridržite) zvočni gonilnik > **posodobitev gonilnika programske opreme**za programsko opremo  >  za gonilnik v računalniku izberite»**Moj računalnik za**gonilnike «  >  **Let me pick from a list of device drivers on my computer**, **High Definition Audio Device**da izberete možnost» **naprej**«in sledite navodilom za namestitev.
+2. Če ponovna namestitev gonilnika ne deluje, poskusite uporabiti splošni gonilnik za zvok v sistemu Windows. V upravitelju naprav z desno tipko miške kliknite (ali pritisnite > pridržite) gonilnik za zvok > Posodobite programsko opremo za gonilnik Prebrskaj moj računalnik in poišči programsko opremo Na seznamu gonilnikov naprav v računalniku lahko izbiram , izberem Zvočna naprava visoke ločljivosti , izbere Naprej in upoštevam navodila za  >    >  namestitev.  
