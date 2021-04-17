@@ -1,8 +1,8 @@
 ---
-title: Vzpostavljanje povezave z modulom MSCommerce
+title: Povezovanje z modulom MSCommerce
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 15dc7038426a8d436c236a91aa0f3462f6a3e366
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6819f6d6ff37baab4bdd49cb5a87c32490f841
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702631"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829752"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>MSCommerce zahteva skrbniški račun za podjetje ali obračunavanje
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a>Storitev MSCommerce zahteva račun skrbnika podjetja ali skrbnika za obračunavanje
 
-Modul MSCommerce zahteva račun s pravicami skrbnika podjetja ali obračunavanja. Če prejmete to sporočilo o napaki, boste morali znova vzpostaviti povezavo z drugim računom.
+Modul MSCommerce zahteva račun s pravicami podjetja ali skrbnika za obračunavanje. Če prejemate to napako, boste morali znova vzpostaviti povezavo z drugim računom.
 
-*» ErrorMessage «– oddaljeni strežnik je vrnil napako: (403) prepovedano. ErrorDetails – na C:\Programski Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char: 5*<br>
-*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError-ErrorContext $ _-CustomErrorMessage «ni uspelo retri...*<br>
+*ErrorMessage – oddaljeni strežnik je vrnil napako: (403) Prepovedano. ErrorDetails - At C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*<br>
+*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Ni bilo mogoče pridobiti ...*<br>
 \+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: NotSpecified: (:) [Napaka pri pisanju], WriteErrorException*<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId: Microsoft. PowerShell. Commands. WriteErrorException, HandleError*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo: Ni navedeno: (:) [Write-Error], WriteErrorException*<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*
 
-Če vaš račun nima skrbniških pravic za podjetja ali obračunavanje, se obrnite na skrbnika za IT.
+Če vaš račun nima pravic skrbnika podjetja ali skrbnika za obračunavanje, se obrnite na skrbnika za IT.

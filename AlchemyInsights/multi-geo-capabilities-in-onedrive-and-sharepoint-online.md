@@ -1,24 +1,25 @@
 ---
-title: Multi-Geo zmogljivosti v storitvi OneDrive in SharePoint online
+title: Multi-Geo Capabilities v storitvah OneDrive in SharePoint Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5694"
-ms.openlocfilehash: e0b22710e4a6924deacea4a624ffeb3188d0629f
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
-ms.translationtype: MT
+ms.openlocfilehash: 75ead5cfd37813d48ed86c23dbf5f6a1f42d95cd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44358390"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829716"
 ---
-# <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>Multi-Geo zmogljivosti v storitvi OneDrive in SharePoint online
+# <a name="multi-geo-capabilities-in-onedrive-and-sharepoint-online"></a>Multi-Geo Capabilities v storitvah OneDrive in SharePoint Online
 
-Zmogljivosti multi-Geo v storitvi OneDrive in SharePoint online omogočajo nadzor nad državo ali regijo, kjer so viri v skupni rabi, kot so SharePointova mesta ekip in nabiralniki Microsoft 365 Group, shranjeni v mirovanju.
-- [Multi-Geo capabilities v storitvi OneDrive in SharePoint online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)
+Multi-Geo Capabilities v OneDrive in SharePoint Online omogoča nadzor nad državo ali regijo, kjer so v skupni rabi viri, kot so mesta skupin SharePoint in nabiralniki skupine storitve Microsoft 365.
+- [Multi-Geo Capabilities v storitvah OneDrive in SharePoint Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365)

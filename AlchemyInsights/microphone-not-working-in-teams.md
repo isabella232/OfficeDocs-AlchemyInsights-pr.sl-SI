@@ -1,8 +1,8 @@
 ---
-title: Mikrofon ne deluje v aplikaciji Teams
+title: Mikrofon ne deluje v teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003568"
 - "6654"
-ms.openlocfilehash: 20aea78deaa63091183ca72380903ba6aa6c98cd
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
-ms.translationtype: MT
+ms.openlocfilehash: 32461b94abb4d7caf80096a1d36f414801e52cfc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365024"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830013"
 ---
-# <a name="microphone-isnt-working-in-teams"></a>Mikrofon ne deluje v aplikaciji Teams
+# <a name="microphone-isnt-working-in-teams"></a>Mikrofon ne deluje v teams
 
-Začnite odpravljati težave tako, da naredite to:
+Odpravljanje težav lahko začnete tako:
 
-- Preverite, ali so na voljo posodobitve za Windows in teams.
-- Zapiranje drugih programov, ki uporabljajo mikrofon.
-- Opravite preskusni klic, da preverite, ali mic deluje pravilno.
+- Preverjanje posodobitev za Windows in Teams.
+- Zaprite vse druge aplikacije, ki uporabljajo mikrofon.
+- S preskusnim klicom preverite, ali mikrofon deluje pravilno.
 
-Če želite več informacij in navodila za odpravljanje težav, glejte [moj mikrofon ne deluje v aplikaciji Teams](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a).
+Če želite podrobnosti in dodatne korake za odpravljanje težav, [glejte Moj mikrofon ne deluje v teams.](https://support.microsoft.com/office/666d1123-9dd0-4a31-ad2e-a758b204f33a)
