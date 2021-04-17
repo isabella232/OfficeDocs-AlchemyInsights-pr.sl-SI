@@ -1,44 +1,45 @@
 ---
-title: Ustvarjanje pravilnika o skupni rabi, ki uporabnikom omogoča, da delijo svoj koledar z osebami zunaj vaše organizacije
+title: Ustvarite pravilnik o skupni rabi, da lahko uporabniki dajo koledar v skupno rabo z osebami zunaj organizacije
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: cb2c0af55f4f8833709b6952d3a6e2ac258ce5fc
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
-ms.translationtype: MT
+ms.openlocfilehash: 016b915a9e8f7e32d5d393bc47347991866647c7
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862208"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816288"
 ---
-# <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Ustvarjanje pravilnika o skupni rabi, ki uporabnikom omogoča, da delijo svoj koledar z osebami zunaj vaše organizacije
+# <a name="create-a-sharing-policy-to-allow-your-users-to-share-their-calendar-with-people-outside-your-organization"></a>Ustvarite pravilnik o skupni rabi, da lahko uporabniki dajo koledar v skupno rabo z osebami zunaj organizacije
 
-1. Na nadzorni plošči Microsoft 365 admin center, pojdite na **admin**  >  **Exchange**.
-2. Odprite **organization**  >  **skupno rabo**organizacije.
-3. V prikazu seznama v razdelku **posamezna skupna raba**kliknite **novo** .
-4. V **novi politiki skupne rabe**vnesite prijazno ime za pravilnik o skupni rabi v polju **ime pravilnika** .
-5. Če želite določiti pravila za skupno rabo pravilnika, kliknite **Dodaj** .
-6. V **pravilu za skupno rabo**izberite eno od teh možnosti, če želite določiti domene, ki jih želite deliti z:
-    - **Deljenje z vsemi domenami**
-    - **Deljenje z določeno domeno**
-8. Če izberete **Skupna raba z določeno domeno**, vnesite ime domene, s katero želite deliti skupno rabo. Če morate za to politiko skupne rabe vnesti več domen, shranite nastavitve za prvo domeno, nato pa uredite pravila za skupno rabo, da dodate več domen.
-9. Če želite določiti informacije, ki jih je mogoče deliti, potrdite potrditveno polje **Skupna raba mape koledarja** in nato izberite eno od teh možnosti:
-    - **Informacije o prostem/zasedenem koledarju s časom**
-    - **Informacije o prostem/zasedenem koledarju s časom, predmetom in lokacijo**
-    - **Vse informacije o sestanku koledarja, vključno s časom, predmetom, lokacijo in nazivom**
-11. Če želite nastaviti pravila za pravilnik o souporabi, kliknite **Shrani** .
-12. Če želite to politiko skupne rabe nastaviti kot novo privzeto politiko skupne rabe za vse uporabnike v vaši organizaciji, potrdite polje Nastavi pravilnik za **privzeto skupno rabo** .
-13. Kliknite **Shrani** , če želite ustvariti pravilnik o skupni rabi.  
+1. Na nadzorni plošči Skrbniškega središča za Microsoft 365 odprite razdelek **Skrbnik** > **Exchange**.
+2. Pomaknite se v razdelek **Organizacija** > **Skupna raba**.
+3. V pogledu seznama v razdelku **Posamezna skupna raba** kliknite **Novo** .
+4. V razdelku **Nov pravilnik o skupni rabi** vnesite prijazno ime za pravilnik o skupni rabi v polje **Ime pravilnika**.
+5. Kliknite **Dodaj**, da določite pravila skupne rabe za ta pravilnik.
+6. V razdelku **Pravilo skupne rabe** izberite eno od teh možnosti, da določite domene, za katere želite omogočiti skupno rabo:
+    - **Skupna raba z vsemi domenami**
+    - **Skupna raba z določeno domeno**
+8. Če izberete **Skupna raba z določeno domeno**, vnesite ime domene, za katero želite omogočiti skupno rabo. Če želite vnesti več domen za ta pravilnik o skupni rabi, shranite nastavitve za prvo domeno, nato pa uredite pravila skupne rabe, da dodate več domen.
+9. Če želite določiti vrsto informacij za skupno rabo, potrdite polje **Skupna raba mape koledarja**, nato pa izberite eno od teh možnosti:
+    - **Samo podatki o prostem/zasedenem času v koledarju**
+    - **Podatki o prostem/zasedenem času, zadevi in lokaciji v koledarju**
+    - **Vsi podatki o sestankih v koledarju, vključno s časom, zadevo, lokacijo in naslovom**
+11. Kliknite **Shrani**, da nastavite pravila za pravilnik o skupni rabi.
+12. Če želite nastaviti ta pravilnik kot novi privzeti pravilnik o skupni rabi za vse uporabnike v organizaciji, potrdite polje **Omogoči ta pravilnik kot privzeti pravilnik o skupni rabi**.
+13. Kliknite **Shrani**, da ustvarite pravilnik o skupni rabi.  
 
-**Za popolno razumevanje te teme preberite:**
+**Za podrobne informacije o tej temi preberite:**
 
-- [Ustvarjanje pravilnika o delitvi v Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
-- [Uporaba pravilnika za skupno rabo za nabiralnike v Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
-- [Spreminjanje, onemogočanje ali odstranjevanje pravilnika o delitvi v Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)
+- [Ustvarjanje pravilnika o skupni rabi v storitvi Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/create-a-sharing-policy)
+- [Uporaba pravilnika o skupni rabi za nabiralnike v storitvi Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy)
+- [Spreminjanje, onemogočanje ali odstranjevanje pravilnika o skupni rabi v storitvi Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)

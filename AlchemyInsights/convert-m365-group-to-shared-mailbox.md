@@ -1,8 +1,8 @@
 ---
-title: Pretvorba skupine Microsoft 365 in nabiralnikov v skupni rabi
+title: Pretvorba skupine v storitvi Microsoft 365 in nabiralnikov v skupni rabi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "624"
 - "3500003"
-ms.openlocfilehash: 950c162276afb321774b58893271ab9ca654c705
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 4a8fecc830ac559a3c2ff62c9a120ac165153d0c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48823129"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816576"
 ---
-# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Pretvorba skupine Microsoft 365 in nabiralnikov v skupni rabi
+# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>Pretvorba skupine v storitvi Microsoft 365 in nabiralnikov v skupni rabi
 
-Trenutno ni mogoče pretvoriti med nabiralnikom skupine Microsoft 365 in nabiralnikom v skupni rabi.
+Trenutno ni mogoče pretvoriti med nabiralnikom skupine v storitvi Microsoft 365 in nabiralnikom v skupni rabi.
 
-Prosimo, da pomagate pri glasovanju za [to funkcijo.](https://aka.ms/M365GroupToShared)
+Glasujte za to [funkcijo](https://aka.ms/M365GroupToShared)tukaj.

@@ -1,8 +1,8 @@
 ---
-title: Ustvarjanje e-poštnega ulova
+title: Ustvarjanje e-poštnega sporočila »Zasuti vse«
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001524"
 - "3732"
-ms.openlocfilehash: 262d2c6a7181d94094f3d840c4ba3ebd07000cf4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b9131a620139a93ddb844fd49d8fa2ed68e52c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713002"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816216"
 ---
-# <a name="create-an-email-catch-all"></a>Ustvarjanje e-poštnega ulova
+# <a name="create-an-email-catch-all"></a>Ustvarjanje e-poštnega sporočila »Zasuti vse«
 
-Uporaba ulova je zelo odvrnjena. Bolje je, da pošljete pošiljateljem, da se ne morejo dostaviti tako, da bodo lahko ukrepali, če želite poslati odklon. Nadzorovani nabiralnik lahko omejite tudi tako, da ujamete le prej veljavne e-poštne naslove. 
+Uporaba catch all is strongly discouraged. Pošiljatelju raje pošljite sporočilo o tem, da sporočila ni bilo mogoče dostaviti kot obravnavano, zato da lahko ukrepajo. Nadzorujete lahko tudi nabiralnik, ki ste ga spremljali, in tako omejite, da v preteklosti velja le za veljavne e-poštne naslove. 
 
-Vsak ulov nabiralnika bo prejel dobro ponudbo neželene pošte in lahko sčasoma zapolni, če ni pozorno spremljati. (Obstajajo omejitve za prejemanje.) 
+Vsaka zaseda vse nabiralnike prejme veliko neželene pošte in bo sčasoma lahko zapolnila, če ne bo skrbno nadzorovana. (Omejitve prejemanja.) 
 
-Če se odločite nadaljevati, upoštevajte ta navodila:
+Če želite nadaljevati, upoštevajte ta navodila:
 
-1. Ustvarjanje dinamične distribucijske skupine & vključuje» vse vrste prejemnikov «.
+1. Ustvarite dinamično skupino prejemnikov, & »All Recipient Types« (Vse vrste prejemnikov).
 
-2. Ustvarjanje namenskega nabiralnika za lovljenje e-poštnih sporočil, na primer catchall@domain.com.
+2. Ustvarite namenski nabiralnik, da zasukate e-poštna sporočila, na primer catchall@domain.com.
 
-3. Za določeno domeno nastavite DomainType na» InternalRelay «. Če pozneje odstranite vse, se prepričajte, da je domena nastavljena na avtoritativno.
+3. Za določeno domeno nastavite DomainType na »InternalRelay«. Če pozneje odstranite catch all (zajemi), ne glede na to, ali ste domeno nastavili nazaj na Avtoritativno.
 
-4. Ustvarite pravilo za prenos Mailflow, kot sledi:
+4. Prenosno pravilo za poštni tok ustvarite tako:
 
-    - Če je pošiljatelj» zunaj organizacije «
-    - Preusmeritev sporočila v Catchall@domain.com
-    - Razen če je prejemnik član allusers@domain.com (skupina prejemnikov vsebuje vse člane)
-    - Preverite veljavnost novih nabiralnikov v dinamični distribucijski skupini.
+    - Če je pošiljatelj »Zunaj organizacije«
+    - Preusmeri sporočilo v Catchall@domain.com
+    - Razen če je prejemnik član skupine allusers@domain.com (skupina prejemnikov vsebuje vse člane)
+    - Preverite, ali so novi nabiralniki dodani v dinamično skupino prejemnikov

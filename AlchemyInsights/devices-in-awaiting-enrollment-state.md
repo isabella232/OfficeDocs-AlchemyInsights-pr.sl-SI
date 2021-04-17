@@ -1,8 +1,8 @@
 ---
-title: Naprave so v čakalni državi za vpis
+title: Naprave čakajo na stanje včlanitve
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730751"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815370"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a>Naprave so v stanju» čakanje na vpis «
+# <a name="devices-are-in-awaiting-enrollment-state"></a>Naprave so v stanju »Čakajoč na včlanitev«
 
-Namizna analitika nima diagnostičnih podatkov za to napravo. 
+Analitika namizja nima diagnostičnih podatkov za to napravo. 
 
-Do te težave lahko pride, ker ste pred kratkim dodali napravo v ciljno zbirko in še ni poslal podatkov. Lahko tudi pomeni, da naprava ni pravilno komunicirati s storitvijo, najnovejši diagnostični podatki pa so starejši od 28 dni.
+Do te težave lahko pride, ker ste napravo nedavno dodali v ciljno zbirko in še ni bila poslana. To lahko pomeni, da naprava ne komunicira pravilno s storitvijo in da so najnovejši diagnostični podatki stari več kot 28 dni.
 
-Prepričajte se, da lahko naprava komunicira s storitvijo. Če želite več informacij, glejte [končne točke](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).
+Prepričajte se, da naprava lahko komunicira s storitvijo. Če želite več informacij, glejte [Končne točke.](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints)
 
-Če želite več informacij o stanju čakanja na vpis, glejte [spremljanje stanja povezave](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).
+Če želite več informacij o stanju, ki vas čaka na včlanitev, glejte [Nadzor stanja povezave.](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment)

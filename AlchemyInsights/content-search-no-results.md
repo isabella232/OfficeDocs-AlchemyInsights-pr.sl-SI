@@ -1,8 +1,8 @@
 ---
-title: Iskanje vsebine ni rezultat
+title: Content Search No Results
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0267286ca5967ee891e65343d49adf776f0322a6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680663"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816864"
 ---
 # <a name="no-results-from-content-searchexports"></a>Ni rezultatov iskanja/izvoza vsebine
 
-Težave z iskanjem/izvozom vsebine ne vračajo nobenih podatkov je morda zaradi določenega filtra varnosti skladnosti, ki ga je nastavil določen skrbnik in ga ni mogoče sporočiti vsem skrbnikom.
+Težave z iskanjem vsebine/izvozi, ki ne vračajo nobenih podatkov, so lahko posledica določenega varnostnega filtra za skladnost s predpisi, ki ga je nastavljen določen skrbnik in ki je ne sporoča vsem skrbnikom.
 
-To težavo odpravite tako, da preverite, ali obstajajo filtri varnosti skladnosti, ki jih lahko povzroči to:
-1. Vzpostavljanje povezave z lupino PowerShell za varnost in skladnost s predpisi
-2. Zaženite ta ukazov:
+Če želite odpraviti to težavo, preverite, ali obstajajo morda kateri koli varnostni filtri za skladnost s predpisi, ki povzročajo to:
+1. Povezovanje z lupino Powershell v Središču za varnost in skladnost s predpisi
+2. Zaženite te ukazne vrstice:
 <br>$org = "yourdomain.com"
-<br>Get-ComplianceSecurityFilter-organizacija $org
+<br>Get-ComplianceSecurityFilter – organizacija $org

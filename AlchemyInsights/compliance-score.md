@@ -1,8 +1,8 @@
 ---
-title: Rezultat skladnosti
+title: Ocena skladnosti s predpisi
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: fc42b7d4959d624da68d444c03af94d2b3ba0af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78b0658902034560c4f568b1ae2dcd66bb5fb540
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47785475"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817332"
 ---
-# <a name="compliance-score"></a>Rezultat skladnosti
+# <a name="compliance-score"></a>Ocena skladnosti s predpisi
 
-Microsoftova ocena skladnosti (predogled) je funkcija v programu Microsoft 365, ki omogoča merjenje drže za skladnost organizacije. Uporablja oceno tveganja, ki temelji na napredku pri izvajanju dejanj, povezanih s skladnostjo.   Ocena skladnosti je poenostavljena različica [upravitelja skladnosti](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) in omogoča lažji pregled nad naravnanostjo in izvajanjem dejanj, ki jih je mogoče izboljšati. 
+Microsoftova ocena skladnosti s predpisi (predogled) je funkcija v storitvi Microsoft 365, s ki meri objave o skladnosti s predpisi vaše organizacije. Uporablja oceno na podlagi tveganja na podlagi vašega napredka izvajanja dejanj, povezanih s predpisi.   Ocena skladnosti s predpisi [](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) je poenostavljena različica upravitelja skladnosti s predpisi, ki omogoča preprostejši način pregleda in izvajanja ukrepov za izboljšanje skladnosti s predpisi. 
 
-Globalni skrbnik bo moral nastaviti ustrezna [dovoljenja](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) v Microsoftovem središču za skladnost za dostop do ocen skladnosti.  Vsa dovoljenja, ki so bila predhodno konfigurirana za upravitelja skladnosti, se ne prenesejo na rezultat skladnosti.
+Globalni skrbnik bo za dostop [](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) do ocene skladnosti s predpisi moral nastaviti ustrezna dovoljenja v Microsoftovem središču za skladnost s predpisi.  Vsa dovoljenja, ki so bila prej konfigurirana za upravitelja skladnosti s predpisi, ne bodo več na voljo za oceno skladnosti s predpisi.
 
-**Dostop do rezultata skladnosti**
+**Dostop do ocene skladnosti s predpisi**
 
-1. Pojdite v središče za skladnost Microsoftovega 365 in se **vpišite** s svojim računom za globalni skrbniški račun za Microsoft 365.
+1. Obiščite središče za skladnost s predpisi storitve Microsoft 365 in se **vpišite** s svojim računom globalnega skrbnika za Microsoft 365.
 
-2. Izberite **rezultat skladnosti** v levem podoknu za krmarjenje. Nato si oglejte [nadzorno ploščo za oceno skladnosti z rezultatom](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
+2. V **levem podoknu za** krmarjenje izberite Ocena skladnosti s predpisi. Svojo nadzorno ploščo rezultatov [skladnosti s predpisi bi morali videti s svojim rezultatom](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
  
 
-Če **želite več informacij o**:
+**Če želite več informacij o:**
 
-- Če želite nastaviti dovoljenja za dostop za oceno skladnosti, glejte [ponudite dostop uporabnikom do centrov za skladnost z varnostnimi & za Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
-- Delo z dejanji izboljšav v rezultatu skladnosti najdete v članku  [delo z oceno skladnosti](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
-- Kako se izračuna ocena skladnosti, glejte [metodologija ocene skladnosti](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
-- Rezultat usklajevanja v primerjavi z upraviteljem skladnosti, glejte [razmerje do upravitelja skladnosti](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- Če želite nastaviti dovoljenja za dostop za oceno skladnosti s predpisi, glejte Zagotavljanje dostopa uporabnikom do središča za varnost [in skladnost s predpisi storitve Microsoft 365 & za skladnost s predpisi.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
+- Delo z dejanji za izboljšanje skladnosti s predpisi je v pregledu skladnosti s [predpisi.](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)
+- Kako se izračuna ocena skladnosti s predpisi, glejte [Metodologija ocene skladnosti s predpisi.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology)
+- Ocena skladnosti s predpisi in Upravitelj skladnosti s predpisi, glejte [Odnos z upraviteljem skladnosti s predpisi.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager)
 

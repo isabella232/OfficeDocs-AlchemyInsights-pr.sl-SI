@@ -1,8 +1,8 @@
 ---
-title: Sodelovanje pri upravljanju
+title: Sou upravljanje
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50896811"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817728"
 ---
-# <a name="co-management"></a>Sodelovanje pri upravljanju
+# <a name="co-management"></a>Sou upravljanje
 
-**Zahteve za selitev iz hibridnega upravitelja config za InTune**
+**Pogoji za selitev iz hibridnega programa Config Manager v Intune**
 
-- Preglejte [Ta članek](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
-- [Uporabnikom dodajte licenco za InTune](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
-- Uporabite [brskalnik Edge](https://www.microsoft.com/edge) , ko konfigurirate soupravljanje.
+- Preglejte [ta članek.](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Dodajte uporabnikom licenco za Intune.](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign)
+- Ko [konfigurirate sou upravljanjem,](https://www.microsoft.com/edge) uporabite brskalnik Edge.
 
-Na voljo je tudi navodila za nastavitev, ki jih lahko najdete [tukaj](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide).
+Vodena izkušnja z nastavitvijo po korakih za sou upravljanje je na voljo [tukaj.](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide)
 
-**Kako namestim odjemalca upravitelja zaupnikov v napravah za InTune**
+**Namestitev odjemalca Config Manager v naprave, ki jih upravlja Intune**
 
-Glejte [InTune Mdm upravljane naprave s sistemom Windows](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+Glejte Naprave s sistemom Windows, ki jih upravlja [Intune MDM.](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
-**Kaj naj naredim, če želim spremeniti MDM avtoriteto?**
+**Kaj naj se zgodi, če želim le spremeniti pooblastilo za MDM?**
 
-MDM Authority lahko spremenite, ne da bi odprli primer podpore. Če želite pomoč pri spreminjanju MDM avtoritete, si oglejte to dokumentacijo:
+Pooblastilo MDM lahko spremenite, ne da bi odprli primer podpore. Preglejte to dokumentacijo, da boste lahko spremenili svoj organ MDM:
 
-- [Spreminjanje MDM avtoritete iz upravitelja konfiguracije za inuglaševanje samostojne](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
-- [Spreminjanje MDM avtoritete za InTune samostojne v upravitelja konfiguracije](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Spreminjanje pooblastila MDM iz samostojnega upravitelja konfiguracije v intune](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [Spreminjanje pooblastila MDM iz samostojnega programa Intune v upravitelja konfiguracije](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

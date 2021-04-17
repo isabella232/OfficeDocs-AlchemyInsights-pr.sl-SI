@@ -1,8 +1,8 @@
 ---
-title: Izbriši sliko računa
+title: Delete account picture
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7baa3267d62ae1bef64b9f7c91b5f8aedfcbc8e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730967"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815559"
 ---
 # <a name="delete-an-account-picture-in-windows-10"></a>Brisanje slike računa v sistemu Windows 10
 
-Windows je zasnovan tako, da omogoča preklop med tremi najnovejšimi slikami. Če morate izbrisati eno od slik svojega računa:
+Windows je zasnovan tako, da omogoča preklapljanje med tremi najnovejšimi slikami. Če želite izbrisati eno od slik računa:
 
-1. Odprite raziskovalca iz opravilne vrstice. Če v opravilni vrstici ne vidite raziskovalca (ikona mape), izberite **Začni** in vnesite **raziskovalca**.
+1. Odprite Raziskovalca iz opravilne vrstice. Če raziskovalec (ikona mape) ni prikazana v opravilni vrstici, izberite Začetni **meni** in vnesite **Raziskovalec**.
 
-2. Obiščite spletno mesto C:\Users \\ *yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
-    - Zamenjajte *yourname* z imenom računa.
-    - Če ne morete najti mape AppData v Raziskovalcu, je morda skrita. Izberite nastavitev **pogleda** in potrdite potrditveno polje **skrite elemente** , če želite prikazati vse elemente v mapi.
+2. Pojdite na C:\Users \\ *yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
+    - Zamenjajte *svoje ime* z imenom računa.
+    - Če ne najdete mape AppData v Raziskovalcu, je morda skrita. Izberite nastavitev **Pogled** in potrdite potrditveno **polje Skriti elementi,** da prikažete vse elemente v mapi.
 
-3. Izbrišite sliko računa, ki je ne želite več uporabljati.
+3. Izbrišite sliko računa, ki je ne želite več uporabiti.
  
  
