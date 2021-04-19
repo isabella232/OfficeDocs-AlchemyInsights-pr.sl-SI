@@ -1,50 +1,51 @@
 ---
-title: Ustvarjanje odnosa med organizacijami in omogočanje uporabnikom, da sodelujejo z drugo organizacijo
+title: Ustvarjanje odnosa organizacije, ki uporabnikom omogoča sodelovanje z drugo organizacijo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 2c6cd6a178c6e012bfe1c8d769b037168ffa3254
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: b595fb87e18a055a7df1ff4c782a93591dd1f024
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862193"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816144"
 ---
-# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Ustvarjanje odnosa med organizacijami in omogočanje uporabnikom, da sodelujejo z drugo organizacijo
+# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>Ustvarjanje odnosa organizacije, ki uporabnikom omogoča sodelovanje z drugo organizacijo
 
-1. Na nadzorni plošči Microsoft 365 admin center, pojdite na **admin**  >  **Exchange**.
-2. Odprite **organization**  >  **skupno rabo**organizacije.
-3. V razdelku **Skupna raba organizacije**kliknite **novo** .
-4. V **relaciji nova organizacija**v polju **ime relacije** vnesite prijazno ime za odnos organizacije.
-5. V polje **za skupno rabo s** poljem vnesite domeno za zunanji urad 365 ali Exchangeovo krajevno organizacijo, ki jo želite pustiti videti v koledarju. Če morate vnesti več domen, ločite imena domen z vejico. Na primer, contoso.com, service.contoso.com.
-6. Potrdite potrditveno polje **omogoči skupno rabo podatkov o prostih/zasedenem koledarju** , da vklopite skupno rabo koledarja z domenami, ki ste jih navedli. Nastavite raven skupne rabe za koledarske informacije o prostem/zasedenem času in nastavite, kateri uporabniki lahko delijo informacije o prostem/zasedenem koledarju.  
+1. Na nadzorni plošči Skrbniškega središča za Microsoft 365 odprite razdelek **Skrbnik** > **Exchange**.
+2. Pomaknite se v razdelek **Organizacija** > **Skupna raba**.
+3. V **razdelku Skupna raba** organizacije kliknite **Novo.**
+4. V **novem odnosu** organizacije v **polje Ime** relacije vnesite prijazno ime za odnos organizacije.
+5. V polje **Domains to share with** (Domene za skupno rabo) vnesite domeno za zunanjo organizacijo v storitvi Office 365 ali Exchange na mestu uporabe, kjer želite, da vaši koledarji vidijo. Če morate vnesti več domen, imena domen ločite z vejico. Na primer contoso.com service.contoso.com.
+6. Potrdite potrditveno **polje Omogoči skupno rabo informacij o prostem/zasedenem** času na koledarju, da vklopite skupno rabo koledarja z domenami, ki ste jih navedeni. Nastavite raven skupne rabe za podatke o prostem/zasedenem času na koledarju in nastavite, kateri uporabniki lahko dajo v skupno rabo informacije o prostem/zasedenem času koledarja.  
 
-Če želite nastaviti raven prostega/zasedenega dostopa, izberite nekaj od tega:
+Če želite nastaviti raven dostopa »prosto/zasedeno« izberite nekaj od tega:
 
-- **Informacije o prostem/zasedenem koledarju s časom**
-- **Prost/zaseden koledar s časom, predmetom in lokacijo**  
+- **Samo podatki o prostem/zasedenem času v koledarju**
+- **Koledar : prosto/zasedeno s časom, zadevo in lokacijo**  
 
- Če želite nastaviti, kateri uporabniki bodo delili informacije o prostem/zasedenem koledarju, izberite nekaj od tega:
+ Če želite nastaviti, kateri uporabniki bodo v skupno rabo dali informacije o prostem/zasedenem času na koledarju, izberite nekaj od tega:
 
 - **Vsi v vaši organizaciji**
 - **Določena varnostna skupina**  
 
-Kliknite **Prebrskaj** , če želite izbrati varnostno skupino s seznama, nato kliknite **v redu**.
+Kliknite **prebrskaj,** da na seznamu izberete varnostno skupino, nato pa kliknite V **redu.**
 
-Kliknite **Shrani** , če želite ustvariti odnos organizacije.  
+Kliknite **shrani,** da ustvarite odnos organizacije.  
 
-**Opomba:** Konfiguracije navzkrižne najemnikov ne podpirajo osebnih stikov za iskanje po prostem/zasedenem času. Stiki morajo biti vključeni v globalni seznam naslovov za iskanje prostega/zasedenega dela.
+**Opomba:** Konfiguracije v več najemnikih ne podpirajo osebnih stikov za iskanje prostega/zasedenega časa. Če želite, da iskanje prostega/zasedenega časa deluje, morajo biti stiki vključeni na globalni seznam naslovov.
 
-**Za popolno razumevanje te teme preberite:**
+**Za podrobne informacije o tej temi preberite:**
 
-- [Ustvarjanje odnosa organizacije v spletnem mestu Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
-- [Spreminjanje odnosa organizacije v Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
-- [Odstranjevanje odnosa organizacije v Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
+- [Ustvarjanje odnosa organizacije v Exchange Onlineu](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
+- [Spreminjanje odnosa organizacije v Exchange Onlineu](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
+- [Odstranjevanje odnosa organizacije v Exchange Onlineu](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
