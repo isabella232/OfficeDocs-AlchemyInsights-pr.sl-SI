@@ -20,8 +20,8 @@ ms.contentlocale: sl-SI
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51818880"
 ---
-# <a name="change-nameservers-at-amazon"></a><span data-ttu-id="47103-102">Sprememba imenskih strežnikov v storitvi Amazon</span><span class="sxs-lookup"><span data-stu-id="47103-102">Change nameservers at Amazon</span></span>
+# <a name="change-nameservers-at-amazon"></a><span data-ttu-id="21d8f-102">Sprememba imenskih strežnikov v storitvi Amazon</span><span class="sxs-lookup"><span data-stu-id="21d8f-102">Change nameservers at Amazon</span></span>
 
-[<span data-ttu-id="47103-103">Sprememba imenskih strežnikov za nastavitev storitve Microsoft 365 v storitvi Amazon Web Services</span><span class="sxs-lookup"><span data-stu-id="47103-103">Change nameservers to setup Microsoft 365 with Amazon Web Services</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-aws?view=o365-worldwide)
+[<span data-ttu-id="21d8f-103">Sprememba imenskih strežnikov za nastavitev storitve Microsoft 365 v storitvi Amazon Web Services</span><span class="sxs-lookup"><span data-stu-id="21d8f-103">Change nameservers to setup Microsoft 365 with Amazon Web Services</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-aws?view=o365-worldwide)
 
-<span data-ttu-id="47103-104">Za druge težave z domenami se obrnite na [pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="47103-104">For other domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="21d8f-104">Za druge težave z domenami si oglejte [pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="21d8f-104">For other domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>

@@ -20,8 +20,8 @@ ms.contentlocale: sl-SI
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51818808"
 ---
-# <a name="change-nameservers-at-google-domains"></a><span data-ttu-id="e7885-102">Sprememba imenskih strežnikov v storitvi Google Domains</span><span class="sxs-lookup"><span data-stu-id="e7885-102">Change nameservers at Google Domains</span></span>
+# <a name="change-nameservers-at-google-domains"></a><span data-ttu-id="ec7c5-102">Sprememba imenskih strežnikov v storitvi Google Domains</span><span class="sxs-lookup"><span data-stu-id="ec7c5-102">Change nameservers at Google Domains</span></span>
 
-[<span data-ttu-id="e7885-103">Sprememba imenskih strežnikov za nastavitev storitve Microsoft 365 v storitvi Google Domains</span><span class="sxs-lookup"><span data-stu-id="e7885-103">Change nameservers to setup Microsoft 365 with Google Domains</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-google-domains?view=o365-worldwide)
+[<span data-ttu-id="ec7c5-103">Sprememba imenskih strežnikov za nastavitev storitve Microsoft 365 v storitvi Google Domains</span><span class="sxs-lookup"><span data-stu-id="ec7c5-103">Change nameservers to setup Microsoft 365 with Google Domains</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-google-domains?view=o365-worldwide)
 
-<span data-ttu-id="e7885-104">Za druge težave z domenami se obrnite na [pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="e7885-104">For other Domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="ec7c5-104">Za druge težave z domenami si oglejte [pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="ec7c5-104">For other Domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>

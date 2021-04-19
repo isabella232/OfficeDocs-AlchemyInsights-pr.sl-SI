@@ -20,8 +20,8 @@ ms.contentlocale: sl-SI
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51818844"
 ---
-# <a name="change-nameservers-at-bluehost"></a><span data-ttu-id="70bb8-102">Sprememba imenskih strežnikov v storitvi Bluehost</span><span class="sxs-lookup"><span data-stu-id="70bb8-102">Change nameservers at Bluehost</span></span>
+# <a name="change-nameservers-at-bluehost"></a><span data-ttu-id="60d89-102">Sprememba imenskih strežnikov v storitvi Bluehost</span><span class="sxs-lookup"><span data-stu-id="60d89-102">Change nameservers at Bluehost</span></span>
 
-[<span data-ttu-id="70bb8-103">Sprememba imenskih strežnikov za nastavitev storitve Microsoft 365 v storitvi Bluehost</span><span class="sxs-lookup"><span data-stu-id="70bb8-103">Change nameservers to setup Microsoft 365 with Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-bluehost?view=o365-worldwide)
+[<span data-ttu-id="60d89-103">Sprememba imenskih strežnikov za nastavitev storitve Microsoft 365 v storitvi Bluehost</span><span class="sxs-lookup"><span data-stu-id="60d89-103">Change nameservers to setup Microsoft 365 with Bluehost</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-bluehost?view=o365-worldwide)
 
-<span data-ttu-id="70bb8-104">Za druge težave z domenami se obrnite na [pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="70bb8-104">For other Domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="60d89-104">Za druge težave z domenami si oglejte [pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="60d89-104">For other Domains issues try the  [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>

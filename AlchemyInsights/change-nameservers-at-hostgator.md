@@ -20,8 +20,8 @@ ms.contentlocale: sl-SI
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51818772"
 ---
-# <a name="change-nameservers-at-hostgator"></a><span data-ttu-id="c7e02-102">Sprememba imenskih strežnikov v storitvi Hostgator</span><span class="sxs-lookup"><span data-stu-id="c7e02-102">Change nameservers at Hostgator</span></span>
+# <a name="change-nameservers-at-hostgator"></a><span data-ttu-id="ffeae-102">Sprememba imenskih strežnikov v storitvi Hostgator</span><span class="sxs-lookup"><span data-stu-id="ffeae-102">Change nameservers at Hostgator</span></span>
 
-[<span data-ttu-id="c7e02-103">Sprememba imenskih strežnikov za nastavitev storitve Microsoft 365 v storitvi Hostgator</span><span class="sxs-lookup"><span data-stu-id="c7e02-103">Change nameservers to setup Microsoft 365 with Hostgator</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-hostgator?view=o365-worldwide)
+[<span data-ttu-id="ffeae-103">Sprememba imenskih strežnikov za nastavitev storitve Microsoft 365 v storitvi Hostgator</span><span class="sxs-lookup"><span data-stu-id="ffeae-103">Change nameservers to setup Microsoft 365 with Hostgator</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-hostgator?view=o365-worldwide)
 
-[<span data-ttu-id="c7e02-104">Za druge težave z domenami se obrnite na pogosta vprašanja o domenah</span><span class="sxs-lookup"><span data-stu-id="c7e02-104">For other domains issues try the Domains FAQ</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
+[<span data-ttu-id="ffeae-104">Za druge težave z domenami si oglejte pogosta vprašanja o domenah</span><span class="sxs-lookup"><span data-stu-id="ffeae-104">For other domains issues try the Domains FAQ</span></span>](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)

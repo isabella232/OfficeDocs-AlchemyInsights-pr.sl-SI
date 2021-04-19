@@ -20,8 +20,8 @@ ms.contentlocale: sl-SI
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51818700"
 ---
-# <a name="change-nameservers-at-namecheap"></a><span data-ttu-id="f102f-102">Sprememba imenskih strežnikov v storitvi Namecheap</span><span class="sxs-lookup"><span data-stu-id="f102f-102">Change nameservers at Namecheap</span></span>
+# <a name="change-nameservers-at-namecheap"></a><span data-ttu-id="d0cb8-102">Sprememba imenskih strežnikov v storitvi Namecheap</span><span class="sxs-lookup"><span data-stu-id="d0cb8-102">Change nameservers at Namecheap</span></span>
 
-[<span data-ttu-id="f102f-103">Sprememba imenskih strežnikov za nastavitev storitve Microsoft 365 v storitvi Namecheap</span><span class="sxs-lookup"><span data-stu-id="f102f-103">Change nameservers to setup Microsoft 365 with Namecheap</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-namecheap?view=o365-worldwide)
+[<span data-ttu-id="d0cb8-103">Sprememba imenskih strežnikov za nastavitev storitve Microsoft 365 v storitvi Namecheap</span><span class="sxs-lookup"><span data-stu-id="d0cb8-103">Change nameservers to setup Microsoft 365 with Namecheap</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-namecheap?view=o365-worldwide)
 
-<span data-ttu-id="f102f-104">Za druge težave z domenami se obrnite na [pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="f102f-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="d0cb8-104">Za druge težave z domenami si oglejte [pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="d0cb8-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>

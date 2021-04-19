@@ -19,6 +19,6 @@ ms.contentlocale: sl-SI
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51832434"
 ---
-# <a name="teams-freemium"></a><span data-ttu-id="9a976-102">Storitev Microsoft Teams brezplačno z omejitvami</span><span class="sxs-lookup"><span data-stu-id="9a976-102">Teams Freemium</span></span>
+# <a name="teams-freemium"></a><span data-ttu-id="c8349-102">Storitev Microsoft Teams brezplačno z omejitvami</span><span class="sxs-lookup"><span data-stu-id="c8349-102">Teams Freemium</span></span>
 
-<span data-ttu-id="9a976-103">Več o storitvi Microsoft Teams brezplačno z omejitvami (imenovani tudi Freemium) izveste [tukaj](https://docs.microsoft.com/alchemyinsights/teams-freemium).</span><span class="sxs-lookup"><span data-stu-id="9a976-103">You can learn more about Teams free (also called Freemium) [here](https://docs.microsoft.com/alchemyinsights/teams-freemium).</span></span>
+<span data-ttu-id="c8349-103">Več informacij o brezplačni različici aplikacije Teams (imenovani tudi brezplačna različica z omejitvami) [najdete na tej strani](https://docs.microsoft.com/alchemyinsights/teams-freemium).</span><span class="sxs-lookup"><span data-stu-id="c8349-103">You can learn more about Teams free (also called Freemium) [here](https://docs.microsoft.com/alchemyinsights/teams-freemium).</span></span>

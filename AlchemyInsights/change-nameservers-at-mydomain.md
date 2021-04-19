@@ -20,8 +20,8 @@ ms.contentlocale: sl-SI
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51818736"
 ---
-# <a name="change-nameservers-at-mydomain"></a><span data-ttu-id="80c29-102">Sprememba imenskih strežnikov v storitvi MyDomain</span><span class="sxs-lookup"><span data-stu-id="80c29-102">Change nameservers at MyDomain</span></span>
+# <a name="change-nameservers-at-mydomain"></a><span data-ttu-id="73cd6-102">Sprememba imenskih strežnikov v storitvi MyDomain</span><span class="sxs-lookup"><span data-stu-id="73cd6-102">Change nameservers at MyDomain</span></span>
 
-[<span data-ttu-id="80c29-103">Sprememba imenskih strežnikov za nastavitev storitve Microsoft 365 v storitvi MyDomain</span><span class="sxs-lookup"><span data-stu-id="80c29-103">Change nameservers to setup Microsoft 365 with MyDomain</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-mydomain?view=o365-worldwide)
+[<span data-ttu-id="73cd6-103">Sprememba imenskih strežnikov za nastavitev storitve Microsoft 365 v storitvi MyDomain</span><span class="sxs-lookup"><span data-stu-id="73cd6-103">Change nameservers to setup Microsoft 365 with MyDomain</span></span>](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-mydomain?view=o365-worldwide)
 
-<span data-ttu-id="80c29-104">Za druge težave z domenami se obrnite na [pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="80c29-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
+<span data-ttu-id="73cd6-104">Za druge težave z domenami si oglejte [pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="73cd6-104">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)</span></span>
