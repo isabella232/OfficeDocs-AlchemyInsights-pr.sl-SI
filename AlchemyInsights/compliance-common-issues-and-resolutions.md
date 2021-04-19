@@ -2,21 +2,22 @@
 title: Skladnost pogostih težav in resolucij
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: f3e8fc56e0eaf47e946ecf039aa49467689fd8e0
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
-ms.translationtype: HT
+ms.openlocfilehash: 128209e31b5697a3ab9252f339c9de3c3169e5c6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231659"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817368"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Skladnost pogostih težav in resolucij
 
@@ -31,5 +32,7 @@ Tukaj je nekaj pogostih zahtevanih tem za skladnost s predpisi:
 - Nadzor v O365: [dnevnik nadzora iskanja v O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide).
 
 - Preprečevanje izgube podatkov (DLP): Če želite več informacij, glejte [pregled preprečevanja izgub podatkov (DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide).
+ 
+- Oznake občutljivosti: Če želite izvedeti več, glejte Ustvarjanje in [konfiguracija oznak občutljivosti in njihovih pravilnikov.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
 
 **Opomba**: Če želite natančnejši odgovor o težavi s skladnostjo s predpisi, na kratko preoblikujte vprašanje in vključite morebitne napake, ki jih vidite, ali funkcije, ki jih uporabljate.

@@ -1,24 +1,25 @@
 ---
-title: Aktiviranje Microsoftovih 365 aplikacij
+title: Aktiviranje aplikacij storitve Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
-ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735228"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823047"
 ---
-# <a name="activating-microsoft-365-apps"></a>Aktiviranje Microsoftovih 365 aplikacij
+# <a name="activating-microsoft-365-apps"></a>Aktiviranje aplikacij storitve Microsoft 365
 
 Če želite aktivirati Office, glejte:
 
@@ -26,7 +27,7 @@ ms.locfileid: "44735228"
 
 - [Aktiviranje Officea v računalniku Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Opomba:**  Zagotovite, da imate naročnino na Office 365 ali Microsoft 365, ki [vključuje aplikacije Officeovega odjemalca](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e), na primer Microsoft 365 Business standard, Microsoft 365 aplikacije za podjetja ali Microsoft 365 apps za podjetje. Poleg tega zagotovite, da ima uporabniški račun, ki ga uporabljate za vpis v Officeove aplikacije, [dodeljeno licenco](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+**Opomba:**  Zagotovite, da imate naročnino na Office 365 ali Microsoft 365, ki vključuje [Officeove](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)odjemalske aplikacije, npr. Microsoft 365 Business Standard, Aplikacije Microsoft 365 za podjetja ali Aplikacije storitve Microsoft 365 za podjetja. Poleg tega poskrbite, da ima uporabniški račun, ki ga uporabljate za vpis v Officeove [aplikacije, dodeljeno licenco.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Če želite popraviti težave z aktivacijo Officea, glejte:
 
@@ -35,7 +36,9 @@ ms.locfileid: "44735228"
 
 - [Kaj storiti, če ni mogoče namestiti ali aktivirati zbirke Office za Mac](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-Če se ne morete prijaviti v Microsoft 365 apps, sledite spodnjim korakom:
+**Namig** na računalnikih s sistemom Windows lahko diagnosticirate in samodejno odpravite več pogostih težav pri vpisu v Office. Prenesite in zaženite orodje **[Pomočnik za podporo in obnovitev](https://aka.ms/SaRA-OfficeSignInScenario)** za uporabo avtomatiziranega orodja.
+
+Če se ne morete vpisati v aplikacije storitve Microsoft 365, upoštevajte spodnja navodila:
 
 1. Odprite Officeovo aplikacijo in se [izpišite](https://go.microsoft.com/fwlink/?linkid=2114082) iz vseh obstoječih uporabniških računov.
 

@@ -1,25 +1,28 @@
 ---
-title: Dostopa do skrbniškega središča SharePoint ali OneDrive ni mogoče dostopati
+title: Ni mogoče dostopati do skrbniškega središča za SharePoint ali OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001459"
 - "5638"
-ms.openlocfilehash: 1b710436b78ff33292e0b1a66f1fb647febaabb4
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 7ba4a9c6995c03dd21e0e1aa387e407d41a08fb1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358529"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824451"
 ---
-# <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>Dostopa do skrbniškega središča SharePoint ali OneDrive ni mogoče dostopati
+# <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>Ni mogoče dostopati do skrbniškega središča za SharePoint ali OneDrive
 
-- Če je mesto skrbniškega središča SharePoint ali OneDrive nedostopno ali ni na voljo, lahko pride do začasne težave s storitvijo, kjer uporabniki pri dostopu do SharePointovih mest ali vsebine storitve OneDrive izkusijo prekinjene zamude ali napake pri krmarjenju. Če želite preveriti, ali je vaša organizacija vplivala, preverite [nadzorno ploščo storitve](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) .
+- Če mesto Skrbniškega središča za SharePoint ali OneDrive ni dostopno ali ni na voljo, je morda prišlo do začasne težave s storitvijo, zaradi katerih uporabniki pride do začasnih zakasnitev ali napak pri krmarjenju, ko dostopajo do SharePointovih mest ali vsebine v storitvi OneDrive. Na nadzorni [plošči s stanjem](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) storitve preverite, ali je to vplivalo na vašo organizacijo.
 
-- Svetovnim in SharePointovim skrbnikom je treba dodeliti licenco za SharePoint. Novo ustvarjeni računi, ki so pravkar dodeljeni s SharePointovo licenco ali skrbniško vlogo, lahko izkusijo težave pri dostopu do SharePointa, kot je» dostop zavrnjen «ali» uporabnik ni bil najden «. Prosimo, da vsaj 24 ur za sinhronizacijo za dokončanje v naših sistemih. Razumemo, da se lahko 24 ur zdi kot dolgo časa. V mnogih primerih že delamo na rešitvi.
+- Globalni skrbniki in skrbniki storitve SharePoint morajo biti dodeljeni licenci storitve SharePoint. Pri novo ustvarjenih računih, ki jim je bila pravkar dodeljena licenca SharePoint ali vloga skrbnika, lahko pride do težav pri dostopu do storitve SharePoint, na primer »dostop zavrnjen« ali »uporabnika ni bilo mogoče najti«. Počakajte najmanj 24 ur, da bo sinhronizacija dokončana v vseh naših sistemih. Razumemo, da se 24 ur morda zdi zelo dolgo. V številnih primerih že delamo na rešitvi.
+
+- Uporabniki s privilegiranim upravljanjem identitet[(PIM)](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-add-role-to-user?tabs=new)lahko prejmejo dostop zavrnjen, če je dovoljen časovni okvir za dostop zelo majhen, zato glejte Dostop je zavrnjen do računov [PIM.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts)

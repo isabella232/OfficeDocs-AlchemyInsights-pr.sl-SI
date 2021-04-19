@@ -1,37 +1,30 @@
 ---
-title: Dobropisi za komuniciranje
+title: Dobroinje za komunikacijo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: c22500656e8a1ffa20728699744a69c28b3b5159
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: a8e2fe0502f21286ebe3b272ed33e0eafb10632c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158735"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817476"
 ---
-# <a name="communication-credits"></a>Dobropisi za komuniciranje
+# <a name="communication-credits"></a>Dobroinje za komunikacijo
 
-Dobropisi za komunikacijo so priročen način plačevanja za zvočne konference in minute načrta klicanja.  Če želite s Skypom za podjetja in aplikacijo Microsoft Teams uporabljati brezplačne številke, morate nastaviti dobropise za komuniciranje.  Poleg tega priporočamo, da nastavite dobropise za komuniciranje za uporabnike načrtov klicanja (lokalne ali mednarodne) in zvočnih konferenc, ki morajo imeti možnost klicanja poljubnih številk.
+Dobroinje za komunikacijo je priročen način plačila za minute v paketih za glasovne konference in pakete klicev. Če želite s Skypom za podjetja in aplikacijo Microsoft Teams uporabljati brezplačne številke, morate nastaviti dobropise za komuniciranje.
 
-Kot skrbnik lahko sredstva dodate ročno ali pa nastavite samodejno polnjenje, kar priporočamo.  S samodejnim polnjenjem računa napolnite stanje, kadar pade pod nastavljen znesek, ki sproži opozorilo.  Možnosti plačila lahko posodobite kadar koli. Na strani **Obračunavanje > [Izdelki in storitve](https://go.microsoft.com/fwlink/p/?linkid=842054)** izberite naročnino dobropisa za komuniciranje in vnesite posodobitve.
+- Če želite nastaviti dobroigram za komunikacijo, [glejte Nastavitev dobroigrama za komunikacijo v organizaciji.](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) 
 
-1. Če želite dodati več sredstev, ne da bi nastavili samodejno polnjenje, v območju »Poraba« kliknite **Dodaj več sredstev** in vnesite znesek, ki ga želite dodati.
+- Če želite dodati in upravljati sredstva za dobroi nočno komunikacijo, [glejte Dodajanje sredstev in upravljanje dobroinje za komunikacijo.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits) 
 
-2. Če želite nastaviti samodejno polnjenje ali spremenite zneske samodejnega polnjenja in sprožilnik, kliknite **Spremenite nastavitve polnjenja** v razdelku za obračunavanje ali **Nastavitve samodejnega polnjenja** pri vrhu strani.  
-
-3. Vnesite znesek za polnjenje.  Toliko želite dodati z vsakim polnjenjem.  
-
-4. Vnesite vrednost v polje **Ko pade stanje pod**.  To je stanje, ob katerem se bo sprožilo polnjenje.
-
-5. Kliknite **Shrani spremembe**.
-
-Če želite več informacij o dodajanju in upravljanju sredstev za dobropise za komuniciranje, glejte [Dodajanje sredstev in upravljanje dobropisov za komuniciranje](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). Glejte tudi [Nastavitev dobropisov za komuniciranje za organizacijo](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization).
+Če želite več informacij, [glejte Kaj so dobropisi za komunikacijo?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

@@ -2,21 +2,22 @@
 title: Ponastavitev skrbniškega gesla
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 4286da1d56fb21821f8a9e3f044b7b3954ba498b
-ms.sourcegitcommit: f6b4bcb6b9dcb3dd17595d503d78b6ee36881a33
-ms.translationtype: HT
+ms.openlocfilehash: 40199032ee920496f21e1606a32332291815dd24
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/30/2020
-ms.locfileid: "43054047"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821931"
 ---
 # <a name="admin-password-reset"></a>Ponastavitev skrbniškega gesla
 
