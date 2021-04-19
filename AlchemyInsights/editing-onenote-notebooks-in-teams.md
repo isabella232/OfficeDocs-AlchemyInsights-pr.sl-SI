@@ -1,5 +1,5 @@
 ---
-title: Urejanje beležnic OneNote v storitvi Microsoft Teams
+title: Urejanje OneNotovih zvezkov v aplikaciji Microsoft Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,10 +19,10 @@ ms.contentlocale: sl-SI
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51814424"
 ---
-# <a name="editing-onenote-notebooks-in-teams"></a>Urejanje beležnic OneNote v storitvi Microsoft Teams
+# <a name="editing-onenote-notebooks-in-teams"></a>Urejanje OneNotovih zvezkov v aplikaciji Microsoft Teams
 
-**Pomembno**: morda se bo prikazalo sporočilo »prihaja do omejitev aplikacije OneNote v storitvi Microsoft Teams. Za urejanje te beležnice uporabite Microsoft OneNote v spletu.«  
+**Pomembno**: morda se bo prikazalo sporočilo »Prihaja do omejitev OneNota v aplikaciji Microsoft Teams. Za urejanje tega zvezka uporabite Microsoft OneNote v spletu.«  
 
-Za več informacij se obrnite na [Središča za sporočila, ID: 207439](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439).
+Za več informacij obiščite [središča za sporočila in poiščite ID: 207439](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439).
 
 OneNote v aplikaciji Teams bo namenjen samo za branje za komercialne in šolske najemnike. Če želite urediti, uporabite OneNote za splet ali namizni program OneNote.

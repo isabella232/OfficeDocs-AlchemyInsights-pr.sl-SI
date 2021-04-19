@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav pri sinhronizaciji storitve Microsoft OneDrive s storitvijo Microsoft SharePoint.
+title: Odpravljanje težav s sinhronizacijo s storitvijo OneDrive s SharePointom
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -19,6 +19,6 @@ ms.contentlocale: sl-SI
 ms.lasthandoff: 04/15/2021
 ms.locfileid: "51812769"
 ---
-# <a name="fix-onedrive-sync-issues-with-sharepoint"></a>Odpravljanje težav pri sinhronizaciji storitve Microsoft OneDrive s storitvijo Microsoft SharePoint.
+# <a name="fix-onedrive-sync-issues-with-sharepoint"></a>Odpravljanje težav s sinhronizacijo s storitvijo OneDrive s SharePointom
 
-Če se storitvi OneDrive in SharePoint ne sinhronizirata po vaših pričakovanjih ali pričakovanjih vaših uporabnikov, glejte [Odpravljanje težav s sinhronizacijo v storitvi SharePoint Online](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US).
+Če se OneDrive ne sinhronizira s SharePointom po vaših pričakovanjih ali pričakovanjih vaših uporabnikov, si oglejte [Odpravljanje težav s sinhronizacijo v storitvi SharePoint Online](https://support.office.com/article/fix-sharepoint-online-sync-problems-aaa2d172-8d45-4e94-9c04-5364d04ca2f4?ui=en-US&rs=en-US&ad=US).

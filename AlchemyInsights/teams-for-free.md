@@ -21,4 +21,4 @@ ms.locfileid: "51832434"
 ---
 # <a name="teams-freemium"></a>Storitev Microsoft Teams brezplačno z omejitvami
 
-Več o storitvi Microsoft Teams brezplačno z omejitvami (imenovani tudi Freemium) izveste [tukaj](https://docs.microsoft.com/alchemyinsights/teams-freemium).
+Več informacij o brezplačni različici aplikacije Teams (imenovani tudi brezplačna različica z omejitvami) [najdete na tej strani](https://docs.microsoft.com/alchemyinsights/teams-freemium).

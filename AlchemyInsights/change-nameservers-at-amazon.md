@@ -24,4 +24,4 @@ ms.locfileid: "51818880"
 
 [Sprememba imenskih strežnikov za nastavitev storitve Microsoft 365 v storitvi Amazon Web Services](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-aws?view=o365-worldwide)
 
-Za druge težave z domenami se obrnite na [pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
+Za druge težave z domenami si oglejte [pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
