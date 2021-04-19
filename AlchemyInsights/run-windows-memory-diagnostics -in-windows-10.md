@@ -1,42 +1,43 @@
 ---
-title: Zaženite Windows Memory diagnostika v operacijskem sistemu Windows 10
+title: Zagon diagnostike pomnilnika sistema Windows v sistemu Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002959"
 - "5661"
-ms.openlocfilehash: 3fedc52d02f1f70743429d0313eda0361306c3f3
-ms.sourcegitcommit: 18b080c2a5d741af01ec589158effc35ea7cf449
+ms.openlocfilehash: ff8f80b3df4e3809e844195128f4d99cbc4667be
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44358294"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826683"
 ---
-# <a name="run-windows-memory-diagnostics-in-windows-10"></a>Zaženite Windows Memory diagnostika v operacijskem sistemu Windows 10
+# <a name="run-windows-memory-diagnostics-in-windows-10"></a>Zagon diagnostike pomnilnika sistema Windows v sistemu Windows 10
 
-Če se Windows in aplikacije v računalniku zrušijo, zamrzujejo ali delujejo na nestabilen način, imate morda težave s pomnilnikom računalnika (RAM-a). Če želite preveriti težave z RAM-om računalnika, lahko zaženete diagnostiko pomnilnika sistema Windows.
+Če se Windows in aplikacije v računalniku zrušijo, zamrznejo ali delujejo nestabilen, imate morda težave s pomnilnikom računalnika (RAM). Zaženete lahko diagnostiko pomnilnika v sistemu Windows in preverite težave z RAM-om računalnika.
 
-V iskalno polje v opravilni vrstici vnesite **diagnostično pomnilniško kartico**in nato izberite **diagnostično pomnilniško kartico Windows**. 
+V iskalno polje v opravilni vrstici vnesite **diagnostika pomnilnika** in nato izberite **Diagnostika pomnilnika sistema Windows**. 
 
-Če želite zagnati diagnostiko, se mora računalnik znova zagnati. Vi življati predkupna pravica v zopet začeti takoj (prosim zaščititi vaš opus ter blizu plan listina ter črka e-verižna srajca prvi), ali tabela spoznati bolezen teči automatically naslednji čas PC zopet začeti:
+Če želite zagnati diagnostiko, morate računalnik znova zagnati. Na voljo je možnost za takojšni vnovični zagon (shranite svoje delo in najprej zaprite dokumente in e-poštna sporočila) ali pa načrtujte samodejno izvajanje diagnostike ob naslednjem ponovnem zagonu računalnika:
 
 ![Diagnostika pomnilnika sistema Windows](media/windows-memory-diagnostic.png)
 
-Ko se računalnik znova zažene, se bo **orodje za diagnostiko pomnilnika sistema Windows** samodejno zagnali. Stanje in napredek bosta prikazana kot diagnostična vaja, vi pa imate možnost preklica diagnostike tako, da na tipkovnici udarjajte tipko **ESC** .
+Ko se računalnik znova zažene, se orodje **za diagnostiko pomnilnika** sistema Windows zažene samodejno. Stanje in napredek bosta prikazana med izvajanjem diagnostike, diagnostiko pa lahko prekličete tako, da pritisnete tipko **ESC** na tipkovnici.
 
-Ko je diagnostika končana, se Windows zažene normalno.
-Takoj po vnovičnem zagonu, ko se prikaže namizje, se prikaže obvestilo (poleg ikone **središča za opravila** v opravilni vrstici), da označite, ali so bile najdene napake v pomnilniku. Na primer:
+Ko je diagnostika končana, se sistem Windows zažene normalno.
+Takoj po ponovnem zagonu, ko se prikaže namizje, se prikaže obvestilo (ob ikoni središča za opravila v opravilni vrstici), ki označuje, ali je prišlo do napak v pomnilniku.  Na primer:
 
 Tukaj je ikona središča za opravila: ![Ikona središča za opravila](media/action-center-icon.png) 
 
-In vzorčno obvestilo: ![Brez pomnilniških napak](media/no-memory-errors.png)
+In vzorčno obvestilo: ![Ni napak v pomnilniku](media/no-memory-errors.png)
 
-Če ste obvestilo zamudili, lahko v opravilni vrstici izberete ikono **središče za opravila** , da prikažete središče za **opravila** in si ogledate seznam obvestil, ki jih je mogoče zapisati.
+Če ste izbrali obvestilo,  lahko izberete ikono središče  za opravila v opravilni vrstici, da prikažete središče za opravila in si ogledate seznam obvestil, po ki se jih lahko premikate.
 
-Če želite pregledati podrobne informacije, v iskalno polje v opravilni vrstici vnesite **dogodek** in nato izberite **Pregledovalnik dogodkov**. V levem podoknu **pregledovalnika dogodkov**krmarite do **dnevnikov sistema Windows > System**. V desnem podoknu skenirajte seznam med iskanjem v **izvornem** stolpcu, dokler ne vidite dogodkov z izvorno vrednostjo **memorydiagnostics-rezultati**. Označite vsak tak dogodek in si oglejte informacije o rezultatih v polju pod zavihkom **splošno** pod seznamom.
+Če si želite ogledati podrobne informacije, **vnesite** dogodek v iskalno polje v opravilni vrstici, nato pa izberite **Pregledovalnik dogodkov.** V levem **podoknu pregledovalnika** dogodkov se pomaknite v okno Dnevniki **> Windows.** V desnem podoknu preglejte seznam, medtem  ko si ogledujete stolpec Vir, dokler ne vidite dogodkov z vrednostjo Source value **MemoryDiagnostics-Results.** Označite vsak tak dogodek in si oglejte informacije o rezultatu v polju pod **zavihkom** Splošno pod seznamom.

@@ -2,21 +2,22 @@
 title: 'Outlooka v spletu: pošiljanje odgovorov ob odsotnosti'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "3514"
-ms.openlocfilehash: 2122726c0503ee8ed8331cbbfd3bbe884e690a0e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 2aa47f7da34c1039925d12a51b4f906d6333abaa
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743289"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826944"
 ---
 # <a name="outlook-on-the-web-send-out-of-office-replies"></a>Outlooka v spletu: pošiljanje odgovorov ob odsotnosti
 
@@ -26,7 +27,7 @@ ms.locfileid: "43743289"
 
 2. Pri vrhu strani kliknite **Nastavitve > Prikaži vse Outlookove nastavitve > Pošta > Samodejni odgovori**.
 
-3. Izberite preklopni gumb**Vklopi samodejne odgovore**.
+3. Izberite preklopni gumb **Vklopi samodejne odgovore**.
 
 4. Potrdite polje **Odgovore pošlji samo v tem obdobju**, nato pa vnesite začetni in končni datum. Če ne nastavite časovnega obdobja, je samodejni odgovor vklopljen, dokler ga ne izklopite tako, da kliknete preklopni gumb **Samodejni odgovori so vklopljeni**.
 

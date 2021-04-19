@@ -1,23 +1,24 @@
 ---
-title: Namestite ekipe kot samostojne ali z novimi pisarnimi namestitvami
+title: Namestitev aplikacije Teams kot samostojne namestitve ali namestitve nove officea
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "5706"
-ms.openlocfilehash: d0e0f2ecace065d9f56b8eebc4bc6eb54879cfc5
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: b8ae6d0dbf25cfa482cdcbc93fe55a03c0dbaced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44358662"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832038"
 ---
-# <a name="install-teams-as-standalone-or-with-new-office-installs"></a>Namestite ekipe kot samostojne ali z novimi pisarnimi namestitvami
+# <a name="install-teams-as-standalone-or-with-new-office-installs"></a>Namestitev aplikacije Teams kot samostojne namestitve ali namestitve nove officea
 
-Za informacije o uvajanju ekip v organizaciji si oglejte [tukaj](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) .
+Tukaj najdete [informacije](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) o tem, kako uvedete Teams v svoji organizaciji.
