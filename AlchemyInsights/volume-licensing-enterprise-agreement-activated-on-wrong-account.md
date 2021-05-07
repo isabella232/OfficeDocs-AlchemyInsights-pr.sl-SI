@@ -1,5 +1,5 @@
 ---
-title: Poslovna pogodba o količinskem licenciranju je aktivirana na napačnem računu
+title: Pogodba Enterprise Agreement s količinskem licenciranjem je aktivirana v napačnem računu
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "463"
 - "1500021"
-ms.openlocfilehash: e8414dbbe27ee6c2e19c5d562e3a82a6abba43ef
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 7f0bd783afac9726e223de74c7ef286a4d971d02
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602596"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261860"
 ---
-# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="80b42-102">Poslovna pogodba o količinskem licenciranju je aktivirana na napačnem računu ali prenos licenc iz enega računa v drugega</span><span class="sxs-lookup"><span data-stu-id="80b42-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
+# <a name="volume-licensing-enterprise-agreement-activated-on-the-wrong-account-or-transferring-licenses-from-one-account-to-another"></a><span data-ttu-id="16997-102">Pogodba Enterprise Agreement s količinskem licenciranjem je aktivirana v napačnem računu ali pa prenaša licence iz enega računa v drugega</span><span class="sxs-lookup"><span data-stu-id="16997-102">Volume licensing enterprise agreement activated on the wrong account or transferring licenses from one account to another</span></span>
 
-<span data-ttu-id="80b42-103">Če najdete naročnine, kupljene prek **pogodbe o količinskem licenciranju** , je bil aktiviran na **napačnem najemniku** ali pa želite **prenesti licence** enega najemnika v drugega, se [obrnite na podporo](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).</span><span class="sxs-lookup"><span data-stu-id="80b42-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please [contact support](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products).</span></span>
+<span data-ttu-id="16997-103">Če ugotovite, da so bile vaše naročnine, kupljene s storitvijo količinskega licenciranja,  **pogodba Enterprise Agreement** aktivirane v napačnem najemniku **ali** pa želite prenesti licence iz enega najemnika v drugega, se obrnite na [podporo.](/microsoft-365/admin/contact-support-for-business-products)</span><span class="sxs-lookup"><span data-stu-id="16997-103">If you find your subscriptions purchased through a **Volume Licensing Enterprise Agreement** have been activated on the **wrong tenant**, or you'd like to **transfer licenses** from one tenant to another, please [contact support](/microsoft-365/admin/contact-support-for-business-products).</span></span>
