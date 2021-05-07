@@ -1,5 +1,5 @@
 ---
-title: Informacije o varnostnih posodobitvah strežnika Exchange Server
+title: Več Exchange Server o posodobitvah
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726543"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233478"
 ---
-# <a name="about-exchange-server-security-updates"></a>Informacije o varnostnih posodobitvah strežnika Exchange Server
+# <a name="about-exchange-server-updates"></a>Več Exchange Server o posodobitvah
 
-Microsoft je izdal niz kritičnih varnostnih posodobitev za strežnik Exchange Server na mestu uporabe. V prizadetih strežniških različicah so vse ravni posodobitev strežnika Exchange Server 2010, 2013, 2016 in 2019. Exchange Online ni na voljo, če pa imate nekaj strežnikov za Exchange na mestu uporabe zaradi hibridne konfiguracije, so potencialno ranljive.
+Microsoft običajno izdaja posodobitve Exchange Server torek (varnostne posodobitve) ali četrtletne (zbirne posodobitve). Če si želite ogledati obvestila o najnovejših izdanih posodobitvah, si oglejte [Exchange spletnem dnevniku skupine.](https://aka.ms/ehlo)
 
-Če si želite ogledati mesto popravkov, si oglejte to obvestilo: [izdano: varnostne posodobitve za marec 2021 Exchange Server](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)
+- Če želite inventar Exchange Strežniki, [uporabite skript Exchange Server Health Checker (GitHub, uporabite najnovejšo izdajo).](https://aka.ms/ExchangeHealthChecker) Ko zaženete ta skript, se vam pove, ali kateri od Exchange Strežniki podpirajo posodobitve (ZU-ji in SU-ji).
 
-**Pomembne opombe:**
+- Če želite posodobiti na najnovejšo zbirno posodobitev, [Exchange](https://aka.ms/ExchangeUpdateWizard) čarovnika za posodobitev in izberite trenutno izvajano cuno in ciljno cu. Izberite **Povej mi korake,** da pridobite navodila za pot za svoje okolje.
 
-Če ročno namestite posodobitve, preberite razdelek» znane težave «v razdelku posodobitev člankov KB za pomembne informacije. Varnostne posodobitve morajo biti zagnane v povišani vrstici CMD/PowerShell.
-
-Informacije o odpravljanju težav [najdete tukaj](https://aka.ms/exupdatefaq).
+- Če med namestitvijo ali po namestitvi posodobitev sistema Exchange Server prišlo do napak, glejte Popravilo ni uspelo namestitev Exchange [zbirnih in varnostnih posodobitev.](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues)

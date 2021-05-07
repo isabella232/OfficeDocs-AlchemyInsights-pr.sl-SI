@@ -13,12 +13,12 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: d5d5288dc3ea8a708e92d79adf03eb21d65d42ac
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 0c9e7a5bed309e473cc626f2572f902f1a581234
+ms.sourcegitcommit: 5b0cd6ecd16798a421b9614cfd0f416d43e7ce6a
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811076"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52261782"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – zvočne konference
 
@@ -40,4 +40,4 @@ Ali potrebujete pomoč pri vklopu ali nastavitvi [zvočnih konferenc v aplikacij
 
 7. Izberite želenega uporabnika in preverite, ali ima **privzeto plačljivo telefonsko številko**.
 
-Če potrebujete dodatno pomoč pri nakupu licenc za **Microsoftove zvočne konference**, pokličite [Microsoftovo podporo za obračunavanje](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support).
+Če potrebujete dodatno pomoč pri nakupu licenc za **Microsoftove zvočne konference**, pokličite [Microsoftovo podporo za obračunavanje](/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide#phone-support).
