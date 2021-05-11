@@ -1,5 +1,5 @@
 ---
-title: Zagon Microsoftovega roba v načinu kioska
+title: Zagon Microsoft Edge v načinu kiosk
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708546"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312420"
 ---
-# <a name="run-microsoft-edge-in-kiosk-mode"></a>Zagon Microsoftovega roba v načinu kioska
+# <a name="run-microsoft-edge-in-kiosk-mode"></a>Zagon Microsoft Edge v načinu kiosk
 
-Način kioska lahko konfigurirate v različici Microsoft Edge 77 in novejših različicah, kot tudi v različicah Microsoft Edge Legacy različice 45 in starejših.
+Način kiosk lahko konfigurirate v Microsoft Edge različicah 87 in novejših ter v starejša različica brskalnika Microsoft Edge različicah 45 in starejših različicah. Če želite več informacij, [glejte Microsoft Edge način kiosk.](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode)
 
-Naprave, ki se izvajajo v sistemu Windows 10, lahko konfigurirate tako, da se [izvajajo v načinu kioska z enim ali več](https://go.microsoft.com/fwlink/?linkid=2133659)programi.
+Naprave, ki se izvaja v Windows 10 lahko konfigurirate tako, da se izvaja v načinu kiosku z eno aplikacijo ali v [kiosku z več aplikacijami.](https://go.microsoft.com/fwlink/?linkid=2133659)
 
-Če želite več informacij o nastavljanju načina kioska v najnovejši različici kanala Microsoft Edge Stable in v storitvi Microsoft Edge Legacy, glejte:
+Če želite več informacij o nastavitvi načina kiosk v najnovejši različici Microsoft Edge stabilnem kanalu in v starejša različica brskalnika Microsoft Edge, glejte:
 
-- [Microsoft Edge s dodeljenim dostopom](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
-- [Parameter ukazne vrstice za Microsoft Edge»--kiosk «](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
-- [Podpora za Microsoft Edge podedovani način kioska](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
+- [Microsoft Edge z dodeljenim dostopom](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [Microsoft Edge Parameter ukazne vrstice »-kiosk«](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [Podpora za starejša različica brskalnika Microsoft Edge kiosk](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
