@@ -1,5 +1,5 @@
 ---
-title: 2681 simulator napada v Microsoft 365
+title: 2681 Attack Rio in Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,31 +12,31 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 7b48abea3400e3565f2ba33c97e24e5b9923eb3b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: e7d71fdb77b4a047c1998e9aba75cdd469a936a8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801567"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545742"
 ---
-# <a name="attack-simulator-in-microsoft-365"></a>Simulator napada v programu Microsoft 365
+# <a name="attack-simulator-in-microsoft-365"></a>Attack Rio in Microsoft 365
 
-- Ali zamujate simulator napada? Simulator napada zahteva **Microsoft Defender za office 365 (paket ATP 2)** ali **Office 365 Enterprise E5** . Simulator napada ni **vključen v** Microsoft Defender za Office 365 (paket ATP 1), Office 365 Enterprise E3 ali kateri koli Microsoft 365 apps za naročnine na podjetja.
+- Ali pogrešate napadajoče napade? Plan **2 ali Office 365 (Paket 2)** ali **paket Office 365 Enterprise E5** zahteva Microsoft Defender . Storitev Attack Premium **ni vključena** v Microsoft Defender za Office 365 paket 1, Office 365 Enterprise E3 ali katere koli Programi Microsoft 365 za manjša podjetja naročnine.
 
-- Z računom, ki ga uporabljate za zagon simuliranih napadov, potrebujete dovoljenja globalnega skrbnika ali varnostnega skrbnika in multi-Factor Authentication (MFA). Če želite več informacij o zahtevah simulatorja napada, si oglejte [to temo](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Račun, ki ga uporabljate za zagon simuliranih napadov, zahteva dovoljenja globalnega skrbnika ali skrbnika za varnost in večkratno preverjanje pristnosti (MFA). Če želite več informacij o zahtevah napadov z napadom, si [oglejte to temo.](/microsoft-365/security/office-365-security/attack-simulator)
 
-- Pomembne stvari, ki jih morate vedeti o simulacijah **nasilnih napadov gesel** :
+- Pomembne stvari, ki jih je treba vedeti **o simulacijah napadov z** grobih geslih:
 
-  - Če je v ciljnem računu omogočena funkcija MFA in je bilo geslo pravilno uganil, račun ne bo prikazan kot ogrožen (drugi faktor preverjanja pristnosti bo nepopoln).
+  - Če je v ciljnem računu omogočena storitev MFA in je bilo pravilno ugibanje gesla, račun ne bo prikazan kot ogrožen (drugi dejavnik preverjanja pristnosti bo nepopoln).
 
-  - Datoteka gesel ne more biti večja od 10 MB. Uporabite eno geslo na vrstico in vključite prazno vrstico (vračanje) po zadnjem geslu na seznamu.
+  - Datoteka z geslom ne sme biti večja od 10 MB. Uporabite eno geslo na vrstico in vključite prazno vrstico (prelom vrstice) za zadnjim geslom na seznamu.
 
-- Pomembne stvari, ki jih morate vedeti o prilaganju simulacij s **kopjem** :
+- Pomembne stvari, ki jih je treba vedeti **o simulacijah prilaganja spearnega** lažnega predstavljanja:
 
-  - Po načrtu ne morete ponuditi vrednosti po meri za **spletni naslov strežnika za prijavo lažnega predstavljanja** .
+  - Privzeto ni mogoče vati vrednosti po meri za URL strežnika za prijavo v lažno **predstavljanje.**
 
-  - Če prejemnik uporabi [dodatek» omogoči sporočilo za poročilo](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) «, da sporoči sporočilo kot lažno predstavljanje, morda ne boste prejeli opozoril za sporočilo (ker je to simulirani napad).
+  - Če prejemnik uporablja dodatek Omogoči sporočilo poročila [za](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) prijavite sporočilo kot lažno, morda ne boste prejeli opozoril za sporočilo (ker gre za simuliran napad).
 
-- Poročila: ko je simulirani napad končan, lahko kliknete **podrobnosti napada** , da si ogledate poročilo.
+- Poročila: Ko je simulacija napada končana, lahko kliknete **Podrobnosti** o napadu, da si ogledate poročilo.
 
-- Če želite podrobna navodila in nove funkcije v simulatorju napada, glejte [simulator napada v programu Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Če želite podrobna navodila in nove funkcije v napadu Rio, glejte [Attack Rio v Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).

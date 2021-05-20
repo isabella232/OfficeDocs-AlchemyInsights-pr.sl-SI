@@ -1,5 +1,5 @@
 ---
-title: 'Kako preveriti domeno '
+title: 'Preverjanje domene '
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683882"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569631"
 ---
-# <a name="how-to-verify-your-domain"></a>Kako preveriti domeno
+# <a name="how-to-verify-your-domain"></a>Preverjanje domene
 
-Če želite preveriti domeno, sledite [čarovniku za dodajanje domene](https://admin.microsoft.com/Adminportal#/Domains/Wizard)ali pa ročno pojdite na domene **setup**  >    >  **Dodaj domeno**.
+Če želite preveriti domeno, upoštevajte [čarovnika za](https://admin.microsoft.com/Adminportal#/Domains/Wizard)dodajanje domene ali ročno odprite nastavitev   >  **domene Dodaj**  >  **domeno.**
 
-Če želite več informacij o spremembah DNS, ki jih potrebujete za preverjanje domene, si oglejte navodila v razdelku [Dodajanje zapisov DNS za povezovanje domene](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Če želite več informacij o spremembah sistema DNS, ki so zahtevane za preverjanje domene, glejte navodila v razdelku [Dodajanje zapisov DNS za povezovanje domene.](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)
 
-Če želite več vprašanj o domenah, glejte Pogosta vprašanja o [domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Za vprašanja o drugih domenah glejte pogosta [vprašanja o domenah.](/microsoft-365/admin/setup/domains-faq)

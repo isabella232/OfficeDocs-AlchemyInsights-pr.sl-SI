@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 73edb04a186f81e1745ac1758f0d89f9d23af1e0
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 4ab3fb7929fe9c00c2e07985e95b9cc821579576
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489185"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545464"
 ---
 # <a name="unable-to-access-my-account"></a>Ne morem dostopiti do svojega računa
 
@@ -25,9 +25,9 @@ ms.locfileid: "48489185"
 
 **Vnovična aktivacija naročnine**
 
-1. V skrbniškem središču pojdite na stran **obračunavanje**  >  [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na zavihku **izdelki** poiščite naročnino, ki jo želite znova aktivirati. Izberite **več dejanj** (tri pike), nato pa izberite **Znova aktiviraj to naročnino**.
-3. V podoknu znova **Aktiviraj to naročnino** na spustnem seznamu izberite način plačila ali pa izberite **Dodaj način plačila**.
+1. V skrbniškem središču odprite stran  >  [Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **zavihku** Izdelki poiščite naročnino, ki jo želite znova aktivirati. Izberite tri pike (več dejanj), nato pa izberite **Znova aktiviraj to naročnino.**
+3. V **podoknu Znova aktiviraj** to naročnino na spustnem seznamu izberite način plačila ali pa **izberite Dodaj način plačila**.
 4. Izberite **Shrani**.
 
-Če želite več informacij, preberite članek [Vnovična aktivacija naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Če želite več informacij, preberite članek [Vnovična aktivacija naročnine](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "25"
 - "9"
-ms.openlocfilehash: 8d0071360330248b93dbd5bbf42a2b595d287364
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f20d0ff5e724ceab17a6d3d965534d63b00bbee7
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804649"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569595"
 ---
 # <a name="trying-to-remove-your-domain"></a>Ali poskušate odstraniti domeno?
 
-Upoštevajte navodila v razdelku [Odstranjevanje domene](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain).
+Upoštevajte navodila v razdelku [Odstranjevanje domene](/microsoft-365/admin/get-help-with-domains/remove-a-domain).
   
-Preden odstranite domeno, morate posodobiti vse uporabnike ali skupine, ki jim je dodeljeno to ime domene. Druge pogoste rešitve si lahko ogledate v članku [Pogosta vprašanja o domenah](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
+Preden odstranite domeno, morate posodobiti vse uporabnike ali skupine, ki jim je dodeljeno to ime domene. Druge pogoste rešitve si lahko ogledate v članku [Pogosta vprašanja o domenah](/microsoft-365/admin/setup/domains-faq).
   
