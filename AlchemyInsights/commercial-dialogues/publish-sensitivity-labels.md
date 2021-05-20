@@ -1,5 +1,5 @@
 ---
-title: Objavljanje oznak občutljivosti
+title: Objava oznak občutljivosti
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: 4a5fd418e59e9aa56522e9cef17bb72e6c8b8bd8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0fb43292dfa446c829dd41c8513c05285fbd79e0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748260"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539732"
 ---
-# <a name="publish-sensitivity-labels"></a>Objavljanje oznak občutljivosti
+# <a name="publish-sensitivity-labels"></a>Objava oznak občutljivosti
 
 Če želite objaviti oznake občutljivosti, izvedite te korake:
 
-1. Izberite **& center za skladnost s predpisi sistema Office 365 > razvrstitev > oznake občutljivosti**.
-2. Na strani **oznake občutljivosti** kliknite zavihek **Pravilniki za nalepke** .
-3. Kliknite **objavi nalepke**.
-4. Kliknite **Izberite oznake občutljivosti, ki jih želite objaviti**. 
-5. Izberite nalepke, ki jih želite dati na voljo v aplikacijah in storitvah, in nato kliknite **Dodaj**.
+1. Izberite **Office 365 Središče za & s predpisi in > razvrstitev > oznake občutljivosti.**
+2. Na strani **Oznake občutljivosti** kliknite zavihek **Pravilniki oznak.**
+3. Kliknite **Objavi nalepke.**
+4. Kliknite **Izberite oznake občutljivosti, ki jih želite objaviti.** 
+5. Izberite oznake, ki naj bodo na voljo v aplikacijah in storitvah, nato pa kliknite **Dodaj**.
 > [!IMPORTANT]
-> Če izberete podoznako, zagotovite, da izberete tudi njeno nadrejeno oznako.
-6. Preglejte izbrane nalepke. Če želite spremeniti vse spremembe, kliknite **Uredi**; v nasprotnem primeru kliknite **naprej**.
-7. Uporabite pozive, da konfigurirate nastavitve pravilnika.
-8. Ponovite te korake, če potrebujete različne nastavitve pravilnika za različne uporabnike ali mesta. Želite na primer dodati dodatne nalepke za skupino uporabnikov ali drugo privzeto oznako za podnabor uporabnikov.
-9. Če ustvarite več kot en pravilnik za nalepke, ki bi lahko povzročil spor za uporabnika ali mesto, preglejte vrstni red pravilnika in po potrebi premaknite navzgor ali navzdol. Če želite spremeniti vrstni red pravilnika nalepke, izberite **...** za **več dejanj** in nato izberite **Premakni gor** ali **Premakni dol**.
+> Če izberete podlabel, zagotovite, da izberete tudi njegovo nadrejeno oznako.
+6. Preglejte izbrane nalepke. Če želite kaj spremeniti, kliknite **Uredi**; v nasprotnem primeru kliknite **Naprej.**
+7. Upoštevajte navodila za konfiguracijo nastavitev pravilnika.
+8. Če potrebujete različne nastavitve pravilnika za različne uporabnike ali mesta, ponovite te korake. Želite na primer dodatne oznake za skupino uporabnikov ali drugačno privzeto oznako za podnabor uporabnikov.
+9. Če ustvarite več pravilnikov za oznake, ki lahko povzročijo spor za uporabnika ali lokacijo, preglejte vrstni red pravilnika in jih po potrebi premaknite navzgor ali navzdol. Če želite spremeniti vrstni red pravilnika za oznake, izberite tri pike (več dejanj) in nato izberite **Premakni navzgor** ali **Premakni navzdol**.
 
-Če dokončate čarovnika, program samodejno objavi pravilnik nalepke.
+Ko dokončate čarovnika, se samodejno objavi pravilnik o oznakah.
 
