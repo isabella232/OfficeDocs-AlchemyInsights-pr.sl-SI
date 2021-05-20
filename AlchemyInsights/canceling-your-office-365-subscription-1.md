@@ -1,5 +1,5 @@
 ---
-title: Ali želite preklicati naročnino na Microsoftovo 365?
+title: Želite preklicati Microsoft 365 naročnino?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "53"
 - "1400001"
-ms.openlocfilehash: 3d02536c6f7ff4411e0f5270209924c7e38a1c13
-ms.sourcegitcommit: 67f738193433cafc83dade2ac11b125af48a28c0
+ms.openlocfilehash: 485bfab1afac5f025cb28204638b987440dfaab2
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50931664"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543269"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Ali želite preklicati naročnino na Microsoftovo 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Želite preklicati Microsoft 365 naročnino?
 
-Žal nam je, da ste prišli, upoštevajte navodila za preklic naročnine:
+Žal nam je, da ste se tako izpisali. Spodaj so navodila za preklic naročnine:
 
-1. V skrbniškem središču pojdite na stran **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** in nato izberite zavihek **izdelki** .
-2. Poiščite naročnino, ki jo želite preklicati. Izberite **več dejanj** (tri pike), nato pa izberite **Prekliči naročnino**.
-3. V podoknu za **preklic naročnine** izberite razlog, zakaj želite preklicati. Po želji lahko ponudite povratne informacije.
+1. V skrbniškem središču odprite stran  >  **[Obračunavanje izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** in izberite **zavihek Izdelki.**
+2. Poiščite naročnino, ki jo želite preklicati. Izberite tri pike (več dejanj), nato pa izberite **Prekliči naročnino.**
+3. V **podoknu** Preklic naročnine izberite razlog za preklic. Po želji lahko tudi posredujete povratne informacije.
 4. Izberite **Shrani**.
 
-Če želite izvedeti več o preklicu naročnine ali možnosti, glejte [preklic naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Če želite izvedeti več o preklicu naročnine ali možnostih, glejte [Preklic naročnine.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-Če želite še naprej uporabljati naročnino za čas trajanja preskusa, lahko izklopite ponavljajoče se obračunavanje za naročnino. Če želite izvedeti, kako, si oglejte [podaljšanje Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Če želite še naprej uporabljati svojo naročnino za celotno preskusno različico, lahko izklopite ponavljajoče se obračunavanje za naročnino. Če želite izvedeti, kako [to izveste, Microsoft 365 naročnino za podjetja.](/microsoft-365/commerce/subscriptions/renew-your-subscription)

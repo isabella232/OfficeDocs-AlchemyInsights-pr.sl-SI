@@ -1,5 +1,5 @@
 ---
-title: Spreminjanje količine licence za program
+title: Spreminjanje količine licenc za aplikacije
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000568"
 - "2425"
-ms.openlocfilehash: 6b4256c1bd466ced0ad8b9f1d8eb6ae160d9961b
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 3e892e4754b959851fe82e15ee2f4c1eb355fd32
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232289"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543161"
 ---
-# <a name="change-app-license-quantity"></a>Spreminjanje količine licence za program
+# <a name="change-app-license-quantity"></a>Spreminjanje količine licenc za aplikacije
 
-Lahko si ogledate ali spremenite število licenc, ki jih imate, in jih dodelite uporabnikom v skrbniškem središču za Microsoft 365.
+V skrbniškem središču za Office 365 si lahko ogledate ali spremenite število licenc, ki jih imate, in jih Microsoft 365 uporabnikom.
 
-## <a name="to-change-license-quantity"></a>Spreminjanje količine licence
+## <a name="to-change-license-quantity"></a>Spreminjanje količine licenc
 
-**Oglejte si videoposnetek** , ki prikazuje, kako to naredite: [nakup novih licenc](https://go.microsoft.com/fwlink/p/?linkid=2154857) ali [odstranjevanje obstoječih licenc](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**OGLEJTE SI videoposnetek,** v ki prikazuje, kako to naredite: [Nakup novih licenc](https://go.microsoft.com/fwlink/p/?linkid=2154857) ali Odstranjevanje obstoječih [licenc](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-1. Pojdite na stran **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Na zavihku **izdelki** v razdelku **aplikacije** poiščite aplikacijo, ki jo želite upravljati. Izberite **več dejanj** (tri pike), nato pa izberite **Buy licenses (nakup licenc**).
-3. Če želite zmanjšati število licenc, na vrhu podokna **licence za nakup** izberite **Odstrani licence**.
-4. Če želite kupiti ali odstraniti licence, v razdelku **Nova količina** v polju **Skupna dovoljenja** vnesite skupno število licenc, ki jih želite za to naročnino. Če imate na primer licence za 100 in želite dodati še pet, vnesite 105. Če želite odstraniti pet od njih, vnesite 95.
+1. Odprite stran **Obračunavanje**  >  **[izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Na **zavihku** Izdelki v razdelku **Aplikacije** poiščite aplikacijo, ki jo želite upravljati. Izberite tri pike (več dejanj), nato pa **izberite Nakup licenc.**
+3. Če želite zmanjšati število licenc, pri vrhu podokna Nakup licenc izberite **odstrani licence**. 
+4. Če želite kupiti ali  odstraniti licence,  v razdelku Nova količina v polju Skupno število licenc vnesite skupno število licenc, ki jih želite za to naročnino. Če imate na primer 100 licenc in jih želite dodati še pet, vnesite 105. Če želite odstraniti pet od njih, vnesite 95.
 5. Izberite **Shrani**.
 
-## <a name="to-assign-app-licenses"></a>Dodeljevanje licenc za aplikacijo
+## <a name="to-assign-app-licenses"></a>Dodelitev licenc za aplikacijo
 
-1. Pojdite na stran **obračunavanje**  >  **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-2. Na zavihku **izdelki** v razdelku **aplikacije** poiščite aplikacijo, ki jo želite upravljati.
-3. V razdelku **nastavitve & dejanja** izberite povezavo, ki jo želite **upravljati v portalu za Publisher**.
+1. Odprite stran **Obračunavanje**  >  **[izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Na **zavihku** Izdelki v razdelku **Aplikacije** poiščite aplikacijo, ki jo želite upravljati.
+3. V **Nastavitve & dejanjih** izberite povezavo do možnosti **Upravljanje na portalu izdajatelja.**

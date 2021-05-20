@@ -1,5 +1,5 @@
 ---
-title: Ali želite preklicati naročnino na Microsoftovo 365?
+title: Želite preklicati Microsoft 365 naročnino?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "87"
 - "1400001"
-ms.openlocfilehash: 51832524d5acf6c761726d341e822796e532b950
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 43c70e34ea89f5579309bb831b2c20db0d9e7d7d
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232023"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543233"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Ali želite preklicati naročnino na Microsoftovo 365?
+# <a name="canceling-your-microsoft-365-subscription"></a>Želite preklicati Microsoft 365 naročnino?
 
-Žal nam je, da ste odšli!
+Žal nam je, da ste se tako izvašli.
   
-Glede na podatke organizacije menimo, da imajo vse vaše trenutne naročnine več kot 25 dodeljenih licenc. Preden lahko prekličete:
+Glede na podatke organizacije imajo po mnenju vse vaše trenutne naročnine več kot 25 licenc. Preden lahko prekličete:
 
-1. Odstranite licence uporabnikov, dokler nimate manj kot 25 licenciranih uporabnikov.
-2. Pojdite na stran **obračunavanje** \> **[izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-3. Na zavihku **izdelki** poiščite naročnino, ki jo želite preklicati, izberite **več dejanj** (tri pike), nato pa izberite **Prekliči naročnino**.
+1. Uporabnikom odstranite licence, dokler ne imate manj kot 25 licenciranih uporabnikov.
+2. Odprite stran **Obračunavanje** \> **[izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+3. Na **zavihku** Izdelki poiščite naročnino, ki jo želite preklicati, izberite tri pike (več dejanj), nato pa izberite **Prekliči naročnino.**
 
-**Povračilo:** Kateri koli promeran kredit vam bo vrnjen v naslednjem ciklu obračunavanja.
+**Vračilo kupnine:** Vsa dobropis za prooženje bo vrnjen v naslednjem obračunskem obdobju.
 
-Če želite izvedeti več, glejte [preklic naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Če želite več informacij, glejte [Preklic naročnine.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

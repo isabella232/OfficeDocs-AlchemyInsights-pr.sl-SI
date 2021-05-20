@@ -1,5 +1,5 @@
 ---
-title: Dodatek Outlook v aplikaciji Teams
+title: Teams Outlook (Skupna raba za Teams , Sestanek zdaj, Novo Teams, Pridružite se Teams srečanju)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835035"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542765"
 ---
-# <a name="teams-outlook-add-in"></a>Dodatek Outlook v aplikaciji Teams
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook dodatek (Skupna raba za Teams , Sestanek zdaj, Novo Teams, Pridružite se Teams srečanju)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Odpravljanje težav z manjkajočim dodatkom Teams za Outlook
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>Odpravljanje težav z Teams Outlook dodatkom
 
-1. Zaženite diagnostiko storitve v skrbniškem portalu. 
-2. Če diagnostika storitve ne pokaže težav, diagnosticirate in popravite morebitne težave z odjemalcem v računalnikih, v katerih to vpliva, tako da prenesete in zaženete primer dodatka [Microsoft Support and Recovery](https://aka.ms/SaRA-TeamsAddInScenario)Assistant Outlook  >  **Teams.**
+1. Zaženite diagnostični »Dodatek skupine manjka v Outlook«, s katerim preverite, ali ima uporabnik pravilne pravilnike, s katerimi lahko Teams Outlook dodatek. Za dostop do diagnostike vnesite **Diag: Teams dodatka ni v Outlook** v iskalno polje.
 
-Če želite ročno odpraviti težave manjkajoč dodatka Teams Outlook, si oglejte seznam morebitnih dejavnikov, ki bi lahko povzročili, da vaš dodatek za Teams ni prikazan na seznamu. Če želite več informacij, [glejte Dodatek Sestanek v aplikaciji Teams v Outlooku za Windows ni na voljo.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
+1. Če diagnostika storitve ne pokaže težav, diagnosticirate in odpravite morebitne težave z odjemalcem v računalnikih, v katerih to vpliva, tako, da prenesete in zaženete scenarij dodatka [Microsoft pomočnik za podporo in obnovitev](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook .**
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Odpravljanje težav pri načrtovanju srečanja v storitvi Teams v imenu druge osebe (pooblaščenec)
+Če želite ročno odpraviti Teams Outlook dodatka, preglejte seznam morebitnih dejavnikov, ki lahko povzročijo, da vaš Teams ne bo naveden. Če želite več informacij, [Teams dodatek Srečanje v dodatku Outlook za Windows ni pokaži.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)
 
-Če želite načrtovati srečanje v storitvi Teams v imenu druge osebe, glejte Odpravljanje težav [z interakcijo med aplikacijami Microsoft Teams in Exchange Server.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>Odpravljanje težav pri načrtovanju Teams srečanje v imenu druge osebe (pooblaščenec)
+
+Če želite načrt Teams srečanje v imenu druge osebe, glejte Odpravljanje težav [z Microsoft Teams in Exchange Server z drugimi.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

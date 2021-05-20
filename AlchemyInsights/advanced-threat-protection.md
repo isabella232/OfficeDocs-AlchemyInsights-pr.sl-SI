@@ -1,5 +1,5 @@
 ---
-title: Microsoftov branilec za Office 365
+title: Microsoft Defender za Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801243"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542909"
 ---
-# <a name="microsoft-defender-for-office-365"></a>Microsoftov branilec za Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender za Office 365
 
-- Varne Priloge, varne povezave in preprečevanje lažnega predstavljanja so del Microsoftovega zagovornika za Office 365 (ATP). Enterprise E5, izobraževanje a5 in Microsoft 365 Business Premium vključujeta ATP. Vsi drugi paketi zahtevajo naročnino na dodatek ATP.
+- Sef Priloge, Sef povezave in lažno predstavljanje so del programa Microsoft Defender za Office 365. Enterprise E5, Education A5 in Microsoft 365 Business Premium Microsoft Defender for Office 365. Za vse druge pakete potrebujete dodatek Microsoft Defender za Office 365 naročnino.
 
-- Za zaščito uporabnikov s sistemom Office 365 ATP morate dodeliti ustrezne licence. Če želite navodila o tem, kako v razsutem stanju uporabljati licence za uporabnike, si oglejte [to temo](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) .
+- Dodeliti morate ustrezne licence, da zaščitite uporabnike s programom Microsoft Defender za Office 365. Glejte [Dodajanje uporabnikov in dodeljevanje licenc hkrati](/microsoft-365/admin/add-users/add-users) za navodila o množični uporabi licenc za uporabnike.
 
-- Globalni skrbniki ali varnostni skrbniki lahko dostopajo do funkcij sistema Office 365 ATP v središču za skladnost varnostnega & na spletnem mestu **Threat Managmeent** \> **Policy** .
+- Globalni skrbniki ali skrbniki za varnost lahko dostopajo do programa Microsoft Defender Office 365 funkcije v Središču za varnost in skladnost s predpisi & **v** pravilniku o \> **grožnjah.**
 
-- Varne Priloge in pravilniki varne povezave lahko obsegajo vašo celotno organizacijo, določene domene ali manjše skupine uporabnikov.
+- Sef Pravilniki Sef povezavah so lahko na voljo za celotno organizacijo, določene domene ali manjše skupine uporabnikov.
 
-- Ni privzetega pravilnika za varno Prilogo za ATP. [Ustvariti morate pravilnik](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) in ga uporabiti za uporabnike.
+- Pravilnik o prilogah ni Sef privzeti pravilnik. Ustvariti morate [pravilnik in ga](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) uporabiti za uporabnike.
 
-- Na voljo je privzeta politika varnih povezav ATP, ki velja za vse v vaši organizaciji. Če želite urediti ta pravilnik ali ustvariti pravilnike po meri, si oglejte [to temo](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Privzeto je na voljo Sef povezave, ki velja za vse v vaši organizaciji. Če želite urediti ta pravilnik ali ustvariti pravilnike po meri, glejte Nastavitev pravilnikov Sef povezave v [aplikaciji Microsoft Defender za Office 365.](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)

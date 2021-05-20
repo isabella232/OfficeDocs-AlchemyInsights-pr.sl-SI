@@ -1,5 +1,5 @@
 ---
-title: Preklic naročnine na Project
+title: Preklic Project naročnine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 14f594f72e8104cbd900fcd4e2acc1232ca26167
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: c87f6ea32fa758d7b7779a77897b338edc0308e8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416477"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543413"
 ---
-# <a name="cancel-project-subscription"></a>Preklic naročnine na Project
+# <a name="cancel-project-subscription"></a>Preklic Project naročnine
 
-Skrbniki lahko prekličejo naročnino na projekt za svojo organizacijo v skrbniškem središču za Microsoft 365.
+Skrbniki lahko prekličejo Project naročnino za svojo organizacijo v skrbniškem Microsoft 365 središču.
 
-1. Pojdite na stran **obračunavanje** \> [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na zavihku **izdelki** poiščite naročnino na projekt, ki ga želite preklicati. Izberite **več dejanj** (tri pike), nato pa izberite **Prekliči naročnino**.
-3. V podoknu za **preklic naročnine** izberite razlog, zakaj želite preklicati. Po želji lahko ponudite povratne informacije.
+1. Odprite stran **Obračunavanje** \> [izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **zavihku** Izdelki poiščite naročnino Project jo želite preklicati. Izberite tri pike (več dejanj), nato pa izberite **Prekliči naročnino.**
+3. V **podoknu** Preklic naročnine izberite razlog za preklic. Po želji lahko tudi posredujete povratne informacije.
 4. Izberite **Shrani**.
 
-**Povračilo:** Kateri koli promeran kredit vam bo vrnjen v naslednjem ciklu obračunavanja.
+**Vračilo kupnine:** Vsa dobropis za prooženje bo vrnjen v naslednjem obračunskem obdobju.
 
-Če želite izvedeti več, glejte [preklic naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Če želite več informacij, glejte [Preklic naročnine.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

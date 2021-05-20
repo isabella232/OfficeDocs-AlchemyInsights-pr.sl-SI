@@ -1,5 +1,5 @@
 ---
-title: Preklic storitve Power bi
+title: Preklic storitve Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002564"
 - "5092"
-ms.openlocfilehash: 82fe905756030970241d0be48e5fb2d37e8386cc
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 321ce2fa2d40aafc040a1b3232474b108d0501f4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48287190"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543449"
 ---
-# <a name="cancel-power-bi"></a>Preklic storitve Power bi
+# <a name="cancel-power-bi"></a>Preklic storitve Power BI
 
-Power bi je mogoče preklicati v skrbniškem središču za Microsoft 365.
+Power BI lahko prekličete v skrbniškem Microsoft 365 za Power BI.
 
-1. V skrbniškem središču pojdite na stran **obračunavanje > strani [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
-2. Na zavihku **izdelki** poiščite naročnino, ki jo želite preklicati. Izberite **več dejanj** (tri pike), nato pa izberite **Prekliči naročnino**.
-3. V podoknu za **preklic naročnine** izberite razlog, zakaj želite preklicati. Po želji lahko ponudite povratne informacije.
+1. V skrbniškem središču odprite stran **Obračunavanje > [vaši izdelki.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. Na **zavihku** Izdelki poiščite naročnino, ki jo želite preklicati. Izberite tri pike (več dejanj), nato pa izberite **Prekliči naročnino.**
+3. V **podoknu** Preklic naročnine izberite razlog za preklic. Po želji lahko tudi posredujete povratne informacije.
 4. Izberite **Shrani**.
 
-**Vračilo: morebitna proplačana kreditna kartica bo vrnjena v naslednjem ciklu obračunavanja.**
+**Vračilo kupnine: vse dobropise v okviru obračuna vam bomo vrnili v naslednjem obračunskem obdobju.**
 
 > [!NOTE]
-> Če ne vidite možnosti za preklic, izberite naročnino, da si ogledate stran s podrobnostmi. V razdelku **Nastavitve naročnine in plačila** izberite **Prekliči naročnino**.
+> Če možnost za preklic ni na voljo, izberite naročnino, da si ogledate stran s podrobnostmi. V razdelku **z nastavitvami naročnine in** plačila izberite **Prekliči naročnino.**
 
-Če želite izvedeti več, glejte [preklic naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+Če želite več informacij, glejte [Preklic naročnine.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)

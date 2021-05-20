@@ -1,5 +1,5 @@
 ---
-title: ATP za SharePoint, OneDrive in Microsoft Teams
+title: Microsoft Defender za Office 365 za SharePoint, OneDrive in Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715577"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543593"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP za SharePoint, OneDrive in Microsoft Teams
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender za Office 365 za SharePoint, OneDrive in Microsoft Teams
 
-Upoštevajte ta navodila, da omogočite dodatno zaščito pred grožnjami:
+Upoštevajte ta navodila, da omogočite Microsoft Defender Office 365:
 
-1. Pojdite na [https://protection.office.com](https://protection.office.com) in se vpišite z računom globalnega skrbnika ali varnostnega skrbnika.
+1. Pojdite v [https://protection.office.com](https://protection.office.com) račun globalnega skrbnika ali skrbnika za varnost in se vpišite z njim.
 
-2. V levem podoknu za krmarjenje pod možnostjo» **upravljanje grožnje**«izberite» **Policy** \> **varne Priloge**pravilnika «.
+2. V levem podoknu za krmarjenje **v razdelku Upravljanje groženj** izberite Pravilnik **Sef** \> **priloge.**
 
-3. Izberite **Vklopi ATP za SharePoint, OneDrive in Microsoft Teams**.
+3. Izberite **Vklopi Defender za Office 365 za SharePoint, OneDrive in Microsoft Teams.**
 
-4. [Ustvarjanje pravilnika o opozorilih dejavnosti](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) za prejemanje obvestil, ko zaznamo zlonamerne datoteke.
+4. [Ustvarite pravilnik o opozorilih o dejavnosti za](/microsoft-365/compliance/create-activity-alerts) prejemanje obvestil, ko zaznamo zlonamerne datoteke.
 
-Če želite dokončati navodila, si oglejte to [temo](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+Če želite popolna navodila, glejte [to vklop Sef prilog za SharePoint, OneDrive in Microsoft Teams.](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams)
 
-**Opomba**: v programu SharePoint online, OneDrive za podjetja ali Microsoft Teams ni mogoče skenirati posameznih datotek. Datoteke so asinhrono skenirane s procesom, ki uporablja dejavnost skupne rabe, dejavnosti gosta in signala za grožnje, da prepozna zlonamerne datoteke. Če želite več informacij, glejte to [temo](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**Opomba:** Microsoft Defender za Office 365 privzeto ne pregleda vseh datotek v storitvi SharePoint Online, OneDrive za podjetja ali Microsoft Teams. Datoteke se asinhrono pregleda s postopkom, ki uporablja dejavnost skupne rabe, dejavnost gosta in signale o grožnjah za prepoznavanje zlonamernih datotek. Če želite več informacij, [glejte Sef Priloge za SharePoint, OneDrive in Microsoft Teams.](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)

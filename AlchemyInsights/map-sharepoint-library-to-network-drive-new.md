@@ -1,5 +1,5 @@
 ---
-title: Preslikava SharePointove knjižnice na omrežni pogon
+title: Preslikava SharePoint knjižnice na omrežni pogon
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,23 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8245c3-a179-4524-ae83-0c22d539c202
-ms.openlocfilehash: 9115a3ab8d1234127a95628a9a49679ef06f6d39
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6b7cb38362baa26bd39fe7478ef6dd1971b5b063
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806199"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542837"
 ---
-# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Preslikava SharePointove knjižnice na omrežni pogon
+# <a name="map-a-sharepoint-library-to-a-network-drive"></a>Preslikava SharePoint knjižnice na omrežni pogon
 
-Preslikava knjižnice kot omrežnega pogona je začasna in podprta le prek Internet Explorerja. V Internet Explorerju morate občasno odpreti SharePointovo mesto in izbrati» **Ostanite vpisani** «, da preprečite potečenje seje. Namesto tega [sinhronizirajte SharePointove datoteke z novim odjemalcem sinhronizacije za OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88) , </a> ki zagotavlja [datoteke na zahtevo](https://support.office.com/article/learn-about-onedrive-files-on-demand-0e6860d3-d9f3-4971-b321-7092438fb38e). Dostop do vseh datotek v storitvi OneDrive brez lokalnega prostora za shranjevanje.
+Namesto da presliknete omrežni pogon, sinhronizirajte SharePoint z novim odjemalcem za sinhronizacijo OneDrive, ki ponuja datoteke na zahtevo. Dostopajte do vseh svojih datotek v storitvi OneDrive brez uporabe lokalnega prostora v shrambi. Če želite več informacij, [glejte Sinhronizacija SharePoint in Teams](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88) datotek z računalnikom in Shranjevanje prostora na disku s datotekami OneDrive na zahtevo za [Windows 10.](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e)
 
-Če se odločite za preslikavo pogona, namesto da bi [uporabili novega odjemalca sinhronizacije za OneDrive](https://support.office.com/article/sync-sharepoint-files-with-the-new-onedrive-sync-client-6de9ede8-5b6e-4503-80b2-6190f3354a88), zagotovite, da upoštevate navodila v spodnjem članku. 
+Če ne želite uporabiti novega odjemalca za sinhronizacijo podatkov, ampak [OneDrive](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88)pogon, sledite tem korakom:
 
+- [Odpravljanje težav s preslikanimi omrežnimi pogoni, ki se povežejo s SharePoint Onlineom](/sharepoint/support/administration/troubleshoot-mapped-network-drives)
 
-**Konfiguracija in odpravljanje težav s preslikanimi omrežnimi pogoni**
+- [Do napak pri preverjanju pristnosti pride, če odjemalec nima podpore za TLS 1.2](/sharepoint/troubleshoot/administration/authentication-errors-tls12-support#network-drive-mapped-to-a-sharepoint-library)  
 
-
-Glejte [Odpravljanje težav s preslikanimi omrežnimi pogoni, ki se povezujejo s storitvami SharePoint online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
-
-Opomba: Če uporabljate Internet Explorer 10 s sistemom Windows 8 ali Windows 7 in prejmete **dostop zavrnjen** ali **pot ni dostopna** , ko kartiranje pogona, namestite [Ta hitri popravek](https://support.microsoft.com/help/2846960) , da odpravite to težavo. 
+**OPOMBA:** Če uporabljate aplikacijo Internet Explorer 10 s Windows 8 ali Windows 7 in je  **dostop** zavrnjen ali pot ni dostopna pri preslikavi pogona, to težavo odpravite tako, da namestite ta sprotni [popravek](https://support.microsoft.com/topic/error-when-you-open-a-sharepoint-document-library-in-windows-explorer-or-map-a-network-drive-to-the-library-after-you-install-internet-explorer-10-96e640ba-059f-9b09-bb91-2a0319ee8b1d).
