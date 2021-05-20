@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 2f09de066bf234bcc92935f662f2d3b1077d0217
-ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
+ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52233802"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539660"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Kako objaviti oznako občutljivosti
 
@@ -36,6 +36,6 @@ ms.locfileid: "52233802"
 
 1. Če potrebujete različne nastavitve pravilnika za različne uporabnike ali mesta, ponovite te korake. Želite na primer dodatne oznake za skupino uporabnikov ali drugačno privzeto oznako za podnabor uporabnikov.
 
-1. Če ustvarite več pravilnikov za oznake, ki lahko povzročijo spor za uporabnika ali lokacijo, preglejte vrstni red pravilnika in jih po potrebi premaknite navzgor ali navzdol. Če želite spremeniti vrstni red pravilnika za oznake, **izberite ...** za **Več dejanj** in nato Premakni **navzgor** ali **Premakni navzdol.**
+1. Če ustvarite več pravilnikov za oznake, ki lahko povzročijo spor za uporabnika ali lokacijo, preglejte vrstni red pravilnika in jih po potrebi premaknite navzgor ali navzdol. Če želite spremeniti vrstni red pravilnika za oznake, izberite tri pike (več dejanj) in nato izberite **Premakni navzgor** ali **Premakni navzdol**.
 
 Ko dokončate čarovnika, se samodejno objavi pravilnik o oznakah.

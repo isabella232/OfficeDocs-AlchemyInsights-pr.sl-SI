@@ -14,21 +14,21 @@ ms.custom:
 - "493"
 - "1500032"
 ms.assetid: 6860563a-b5e9-42f0-aa97-d2d4ed810069
-ms.openlocfilehash: f0b1244204b082e8c8e2fc7581af600526b40ec4
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: bb9750e7a2357254485c938da447b8f3579a77f5
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286866"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539984"
 ---
-# <a name="subscription-recurring-billing"></a>Naročnina na ponavljajoče se obračunavanje
+# <a name="subscription-recurring-billing"></a>Ponavljajoče se obračunavanje naročnine
 
-Če želite vedeti, kdaj je fakturirana mesečna ali Letna naročnina (če je **ponavljajoče se obračunavanje** vklopljeno) ali ko poteče (če je **ponavljajoče se obračunavanje** izklopljeno), uporabite te korake:
+Če želite vedeti, kdaj je obračunana mesečna  ali letna naročnina (če je vklopljeno ponavljajoče se obračunavanje) ali kdaj poteče (če je ponavljajoče se obračunavanje izklopljeno), sledite tem korakom: 
   
-1. V skrbniškem središču pojdite na stran **obračunavanje** \> [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na zavihku **izdelki** poiščite naročnino, o kateri želite izvedeti več. V stolpcu **stanje naročnine** je prikazan datum podaljšanja ali poteka.
-3. Če želite narediti spremembo, izberite **več dejanj** (tri pike), nato pa izberite **Uredi ponavljajoče se obračunavanje**.
-4. V podoknu **Urejanje ponavljajoče se obračunavanje** izberite **vklopljeno**, **naprej, obnovi enkrat**ali **izklopljeno**.
+1. V skrbniškem središču  odprite stran \> [Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **zavihku** Izdelki poiščite naročnino, o ki jo želite izvedeti več. V **stolpcu Stanje** naročnine je prikazan datum podaljšanja ali poteka.
+3. Če želite spremeniti nastavitev, izberite tri pike (več dejanj), nato pa izberite Uredi **ponavljajoče se obračunavanje.**
+4. V podoknu **Urejanje ponavljajočega** se obračunavanja izberite **On** **,On, renew once (V redu, podaljšaj enkrat)** ali **Off (Izklopljeno).**
 5. Izberite **Shrani**.
 
-Če želite več informacij, preberite [Vklop ali izklop ponavljajočega se obračunavanja](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+Če želite več informacij, preberite [Vklop ali izklop ponavljajočega se obračunavanja](/microsoft-365/commerce/subscriptions/renew-your-subscription).

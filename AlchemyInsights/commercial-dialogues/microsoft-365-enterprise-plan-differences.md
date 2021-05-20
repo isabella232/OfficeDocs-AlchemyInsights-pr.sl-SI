@@ -1,5 +1,5 @@
 ---
-title: Razlike med paketoma Microsoft 365 Enterprise
+title: Microsoft 365 Enterprise razlik v paketih
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748520"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539768"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a>Razlike med paketoma Microsoft 365 Enterprise
+# <a name="microsoft-365-enterprise-plan-differences"></a>Microsoft 365 Enterprise razlik v paketih
 
-Microsoft 365 Enterprise E5 vključuje vse funkcije Microsoft 365 Enterprise E3, poleg naprednih varnostnih ukrepov, kot so:
+Microsoft 365 Enterprise E5 vključuje vse funkcije sistema Microsoft 365 Enterprise E3 in napredne varnostne ukrepe, kot so:
 
-- Napredna zaščita pred grožnjami (ATP)
+- Zaščita pred grožnjami
 - Napredno upravljanje podatkov
-- Customer zatvornica
-- Varnost aplikacije v oblaku programa Microsoft 365
-- Napreden E-odkrivanje
-- Storitve za upravljanje pravic
-- Trezor Azure Key
+- Customer Lockbox
+- Microsoft 365 varnost aplikacij v oblaku
+- Advanced eDiscovery
+- Storitve upravljanja pravic
+- Shramba ključev Azure
 
-Microsoft 365 Enterprise E5 ima tudi zmogljive analitike in glasovne zmožnosti, kot so:
+Microsoft 365 Enterprise E5 vključuje tudi zmogljive analize in glasovne zmogljivosti, kot so:
 
 - Nadzorne plošče v živo
-- Poročila v storitvi Power bi
+- Poročila s power BI
 - Sodobni glas
 - Zvočne konference
 - Spletna srečanja
 
-Če želite izvedeti več o storitvi Microsoft 365 Enterprise E5 ali če se želite prijaviti za preskusno naročnino, glejte [poskus ali nakup naročnine na microsoftovo 365](https://go.microsoft.com/fwlink/?linkid=2099673).
+Če želite izvedeti več o Microsoft 365 Enterprise E5 ali če se želite prijaviti za preskusno naročnino, glejte [Preskus ali nakup Microsoft 365 naročnino.](https://go.microsoft.com/fwlink/?linkid=2099673)
 
-Če želite primerjati funkcije v paketih podjetij, glejte [Primerjava paketov Enterprise](https://go.microsoft.com/fwlink/?linkid=2097200).
+Če želite primerjati funkcije v paketih Enterprise, glejte [Primerjava paketov za podjetja.](https://go.microsoft.com/fwlink/?linkid=2097200)
 
-Cenimo vaše povratne informacije, zato izberite» da/ne «, da se prikaže vprašanje, in nato Ocenite svojo izkušnjo.
+Cenimo vaše povratne informacije, zato za vprašanje, ki se pojavi, izberite Da/ne in ocenite vašo izkušnjo.

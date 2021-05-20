@@ -1,5 +1,5 @@
 ---
-title: 975 ali želite prijaviti neželeno sporočilo neželene pošte Microsoftu?
+title: 975 Ali želite Microsoftu prijaviti napačno pozitivno neželeno pošto?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692347"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540416"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Ali želite prijaviti neželeno vsiljeno pošto Microsoftu?
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>Ali želite Microsoftu prijaviti napačno pozitivno neželeno pošto?
 
-Kot skrbnik je najboljši način za določanje, zakaj je bilo dostavljeno sporočilo o lažnem predstavljanju ali neželenem sporočilu, če želite poslati vzorec Microsoftu v [Raziskovalcu](https://protection.office.com/reportsubmission). Če želite, da bo easer, lahko uporabnikom omogočite neposredno poročanje Microsoftu prek [dodatka Message Report](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+Kot skrbnik lahko najbolje ugotovite, zakaj je bilo dostavljeno sporočilo z lažnim predstavljanjem ali neželena pošta, in sicer tako, da v Raziskovalcu [pošljete vzorec Microsoftu.](https://protection.office.com/reportsubmission) Uporabnikom lahko omogočite lažje poročanje neposredno Microsoftu prek dodatka [za](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)sporočila poročila.
 
-Če se odločite, da boste [obšli filtre neželene pošte za Microsoft 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters), Svetujemo previdnost.
+Če se odločite, da boste obšli filtre neželene [Microsoft 365, svetujemo, da jih preskočite.](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-**Ali ste vedeli?**: zdaj lahko vzorce pošljete neposredno iz [sledenja sporočil](https://protection.office.com/messagetrace) in s paketom E5/ATP 2 lahko stranke predložijo vzorce iz [raziskovalca grožnje](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**Ali ste vedeli?**: Vzorce lahko [](https://protection.office.com/messagetrace) zdaj pošljete neposredno iz sledenja sporočilu in E5/Microsoft Defender za Office 365 paket 2, lahko vzorce pošljete iz [Raziskovalca za grožnje.](/microsoft-365/security/office-365-security/threat-explorer)
