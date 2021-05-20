@@ -1,5 +1,5 @@
 ---
-title: Microsoft Threat Experts – ciljni opozorilni napad
+title: Microsoftovi strokovnjaki za grožnje – obvestilo o ciljnih napadih
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "8320"
-ms.openlocfilehash: 2f93020fc3b350e1d85064e9c57de80a65814687
-ms.sourcegitcommit: 581c696ec108184adae9d4bc8f47cb9247131de8
+ms.openlocfilehash: 4cb5194e692ad64fc85d35170659c55b546fc431
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714846"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545392"
 ---
-# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoft Threat Experts – ciljni opozorilni napad
+# <a name="microsoft-threat-experts---targeted-attack-notification"></a>Microsoftovi strokovnjaki za grožnje – obvestilo o ciljnih napadih
 
-Obvestilo o ciljnem napadu je eden od dveh zmožnosti Microsoftove grožnje strokovnjakov. Gre za proaktivno storitev za lov na grožnje, ki zagotavlja posebne vpoglede in analizo, s katerimi lahko zagotovite, da so najbolj kritične grožnje identificirane in hitro in natančno odgovorite.
+Obvestilo o ciljnih napadih je ena od dveh Microsoftovi strokovnjaki za grožnje napadov. Gre za proaktivno storitev za iskanje groženj, ki ponuja posebne vpoglede in analize, s katerimi je mogoče zagotoviti, da se najpomembnejše grožnje prepoznajo in se nanje odzivajo hitro in natančno.
 
-Če ste uporabnik storitve Microsoft Defender za končne točke, morate zaprositi za strokovnjake s posebnimi potrebami za grožnjo, da dobite posebne vpoglede in analizo, s katerimi boste lahko hitro odgovorili na najbolj kritične grožnje.
+Če ste uporabnik programa Microsoft Defender for Endpoint, zaprosite za obvestila o ciljnih napadih v storitvi Microsoftovi strokovnjaki za grožnje, da pridobite posebne vpoglede in analize, s pomočjo katerih boste prepoznali najpomembnejše grožnje, da se boste lahko hitro odzvali nanje.
 
-Če se želite vpisati v Microsoft Threat Experts – ciljni napad na obvestila o prednostih, pojdite na **Nastavitve**  >  **splošne**  >  **napredne funkcije**  >  **Microsoft Threat Experts – ciljne obvestila o napadih** , ki jih želite uporabiti. Ko boste sprejeti, boste dobili prednosti ciljnih obvestil o napadu.
+Če se želite včlanite v Microsoftovi strokovnjaki za grožnje – ugodnosti ciljanih napadov, pojdite v Nastavitve Splošne napredne funkcije, Microsoftovi strokovnjaki za grožnje – obvestila o ciljno usmerjenih  >    >    >   napadih, da jih uporabite. Ko jih sprejmete, boste lahko koristili obvestila o ciljnih napadih.
 
-V tem mediju lahko prejmete ciljno obvestilo o napadu iz Microsoftovih strokovnjakov za grožnje:
+S ciljanega obvestila o napadu lahko Microsoftovi strokovnjaki za grožnje naslednjega medija:
 
-- Stran» tožena stranka «v portalu za končne točke
-- Nadzorna plošča za opozorila na portalu za končne točke
-- OData opozarjanje API in REST API
-- DeviceAlertEvents tabela v naprednem lovu
-- Vaša e-pošta, če jo želite konfigurirati
+- Stran z dogodki v portalu za končne točke programa Defender for Endpoint
+- Nadzorna plošča opozoril portala za končne točke programa Defender za
+- API za opozorila OData in REST API
+- Tabela DeviceAlertEvents v naprednem lovu
+- E-pošta, če jo želite konfigurirati
 
-Če želite prejemati ciljna obvestila za napad prek e-pošte, ustvarite pravilo za e-poštno obvestilo. 
+Če želite prejemati obvestila o ciljnih napadih prek e-pošte, ustvarite pravilo e-poštnega obvestila. 
 
-Če želite več informacij, glejte [Konfiguriranje in upravljanje zmožnosti Microsoftove grožnje strokovnjakov za grožnjo](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) .
+Če [želite več informacij, Microsoftovi strokovnjaki za grožnje in upravljajte](/windows/security/threat-protection/microsoft-defender-atp/configure-microsoft-threat-experts) zmogljivosti poročanja.

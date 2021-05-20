@@ -1,5 +1,5 @@
 ---
-title: Kako kupiti licence za naročnino na Microsoft 365 apps za podjetja
+title: Nakup licenc za naročnino na Programi Microsoft 365 za manjša podjetja naročnino
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: cefa266e26a5ddeb60ca0496742e9051d6f14830
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 7b60f51f394c28d90b42a7d86ad08d1aeefd8a78
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50232347"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545356"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Kako kupiti licence za naročnino na Microsoft 365 apps za podjetja
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Nakup licenc za naročnino na Programi Microsoft 365 za manjša podjetja naročnino
 
-Ko dodelite licence uporabnikom, boste morda ugotovili, da morate kupiti dodatne licence.
+Ko uporabnikom dodeljujete licence, boste morda ugotovili, da morate kupiti dodatne licence.
 
-**Oglejte si videoposnetek** , ki prikazuje, kako to naredite: [nakup novih licenc](https://go.microsoft.com/fwlink/p/?linkid=2154857)
+**OGLEJTE SI videoposnetek,** v ki prikazuje, kako to naredite: [Nakup novih licenc](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-1. V skrbniškem središču pojdite na stran **obračunavanje**  >  [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na zavihku **izdelki** poiščite naročnino, ki jo želite posodobiti. Izberite **več dejanj** (tri pike), nato pa izberite **Buy licenses (nakup licenc**).
-3. V podoknu **nakup licenc** v razdelku **Nova količina** v polju **Skupna dovoljenja** vnesite skupno število licenc, ki jih želite za to naročnino. Če imate na primer licence za 100 in želite dodati še 25, vnesite 125.
+1. V skrbniškem središču odprite stran  >  [Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **zavihku** Izdelki poiščite naročnino, ki jo želite posodobiti. Izberite tri pike (več dejanj), nato pa **izberite Nakup licenc.**
+3. V **podoknu Nakup** licenc **v** razdelku  Nova količina v polju Skupno število licenc vnesite skupno število licenc, ki jih želite za to naročnino. Če imate na primer 100 licenc in jih želite dodati še 25, vnesite 125.
 4. Izberite **Shrani**.
 
-Če želite izvedeti več, glejte [nakup ali odstranjevanje licenc](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Če želite izvedeti več, [glejte Nakup ali odstranjevanje licenc.](/microsoft-365/commerce/licenses/buy-licenses)

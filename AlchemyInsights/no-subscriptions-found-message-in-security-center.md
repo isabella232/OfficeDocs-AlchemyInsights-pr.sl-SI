@@ -1,5 +1,5 @@
 ---
-title: V Varnostnem središču ni bilo mogoče najti sporočila» naročnine «
+title: V Varnostnem središču ni bilo mogoče najti sporočila o naročninah
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 01117bc535df14533e426fd2d31c336fccc75611
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 777fb9b09aa26d166f9971589bda464ccb90f4be
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50714388"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544124"
 ---
-# <a name="no-subscriptions-found-message-in-the-security-center"></a>V Varnostnem središču ni bilo mogoče najti sporočila» naročnine «
+# <a name="no-subscriptions-found-message-in-the-security-center"></a>V Varnostnem središču ni bilo mogoče najti sporočila o naročninah
 
-Če se pri dostopu do varnostnega središča Microsoft Defender prikaže sporočilo» brez naročnine «, to pomeni, da je imenik Azure Active Directory (ZVOČNa datoteka), ki se uporablja za prijavo uporabnika v portal, nima licence za Microsoft Defender ATP.  
+Če med dostopom do storitve Microsoft Defender Security Center prikaže sporočilo »Nobene naročnine ni bilo mogoče najti«, to pomeni, da storitev Azure Active Directory (AAD), ki se uporablja za prijavo uporabnika v portal, nima licence za Microsoft Defender ATP licence.  
 
-Licence sistema Windows E5 in Office E5 sta ločeni licenci.
+Licenci Windows E5 in Office E5 sta ločeni licenci.
 
-Odprite primer podpore, če je bila licenca kupljena, vendar ni bila omogočena za ta primerek. Ali imate: <br/>
--   Možna izdaja za omogočanje uporabe licence.<br/>
--   Licenco ste pomotoma omogočili za drugo Microsoftovo ZVOČNO polje, kot je bila uporabljena za preverjanje pristnosti v storitvi.
+Odprite primer podpore, če ste licenco kupili, vendar ni bila omogočena za ta primerek storitve AAD. Imate: <br/>
+-   Morebitne težave z omogočanjem uporabe licenc.<br/>
+-   Ne glede na to, ali ste licenco nenamerno omogočali za Microsoftovo storitev AAD, kot je bila ta, uporabljena za preverjanje pristnosti, v storitev.

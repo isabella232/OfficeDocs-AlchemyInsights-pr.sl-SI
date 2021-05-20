@@ -1,5 +1,5 @@
 ---
-title: Zaloga programske opreme manjka ali pa je netočna
+title: Zaloga programske opreme manjka ali je netočna
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665302"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543980"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>Zaloga programske opreme manjka ali pa je netočna
+# <a name="software-inventory-is-missing-or-inaccurate"></a>Zaloga programske opreme manjka ali je netočna
 
-Inventar programske opreme v storitvi Microsoft Defender ATP zagotavlja ime izdelka ali prodajalca, njeno najnovejšo številko različice in zaznane slabosti ter ranljivosti. Če želite več informacij, glejte [inventar programske opreme – upravljanje grožnje in ranljivosti](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Zaloga programske opreme v Microsoft Defender ATP storitev zagotavlja ime izdelka ali dobavitelja, njegovo najnovejšo številko različice ter zaznano ranljivost in ranljivost. Če želite več informacij, glejte [Zaloga programske opreme – upravljanje groženj in ranljivosti](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-Če želite poročati o nejasnih ali nepopolnih podatkih, netočnih številkah različic ali reposredovanih podatkih o inventarju programske opreme, upoštevajte ta navodila.  
+Tako lahko prijavite nejasne ali nepopolne informacije, netočne številke različic ali posodobljene podatke o zalogi programske opreme.  
 
-1. Odprite flyout programske opreme in izberite aplikacijo na strani inventar programske opreme.
-2. Izberite **netočnost poročila**in v podoknu flyout v spustnem meniju izberite kategorijo.
-3. Vnesite svoj e-poštni naslov in podrobnosti o netočnosti.
+1. Odprite letak za programsko opremo in izberite aplikacijo na strani Inventar programske opreme.
+2. Izberite **Natančnost poročila in** v podoknu z letali izberite kategorijo v spustnem meniju.
+3. Vnesite svoj e-poštni naslov in podrobnosti o točnosti.
 4. Izberite **Pošlji**.</br>
-    Vaše povratne informacije so takoj poslane v grožnjo & strokovnjakom za upravljanje ranljivosti.
+    Vaše povratne informacije so takoj poslane strokovnjakom za & za upravljanje ranljivosti.

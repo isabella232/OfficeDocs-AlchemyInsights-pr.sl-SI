@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav z Microsoftovim zagovornikom za Office 365
+title: Odpravljanje težav s programom Microsoft Defender Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 2c9543660056ebc02b0bd297f619f20fa6820093
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: 91d73853d3ea67d6c6954fffb32dd1428e3d9976
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801462"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545284"
 ---
-# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Odpravljanje težav z Microsoftovim zagovornikom za Office 365
+# <a name="troubleshooting-microsoft-defender-for-office-365"></a>Odpravljanje težav s programom Microsoft Defender Office 365
 
-- Ali opazite zamude pri dostavi sporočila? Uporabite možnost [dinamična dostava](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) v pravilniku o varnih prilogah za ATP. S tem se izognete zakasnitvam sporočil in zaščitite prejemnike pred zlonamernimi datotekami.
+- **Ali opazite zakasnitve pri dostavi sporočila?** Uporabite možnost [dinamične dostave](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) v pravilniku microsoft Defender za Office 365 Sef prilog. Tako boste preprečili zakasnitve sporočil in pri tem zaščitili prejemnike pred zlonamernimi datotekami.
 
-- Ali želite Microsoftu prijaviti lažne pozitivne ali lažne negativne izraze? S to [povezavo](https://www.microsoft.com/wdsi/filesubmission/) lahko pošljete datoteke v analizo.
+- **Ali želite Microsoftu prijaviti napačne pozitivne ali napačne negativne vrednosti?** Uporabite [Raziskovalca za pošiljanje.](https://protection.office.com/reportsubmission)
 
-- Ali ste vedeli, da lahko omogočite zaščito varnih povezav za notranjo e-pošto, poslano med prejemniki v organizaciji? Upoštevajte te korake:
+-** Ali ste vedeli, da lahko omogočite zaščito Sef povezave za notranjo e-pošto, poslano med prejemniki v organizaciji?** Upoštevajte ta navodila:
 
-  1. Pojdite na [https://protection.office.com](https://protection.office.com) in se vpišite z računom globalnega skrbnika ali varnostnega skrbnika.
+  1. Pojdite v [https://protection.office.com](https://protection.office.com) račun globalnega skrbnika ali skrbnika za varnost in se vpišite z njim.
 
-  2. V levem podoknu za krmarjenje v razdelku **upravljanje groženj** izberite povezave **pravilnika** za \> **varnost** .
+  2. V levem podoknu za krmarjenje **v razdelku Upravljanje groženj** izberite **Povezave** \> **Sef pravilnika.**
 
-  3. V razdelku **pravilniki, ki veljajo za celotno organizacijo** , izberite pravilnik in kliknite **Uredi** .
+  3. V razdelku **Pravilniki, ki veljajo za celotno organizacijo** izberite pravilnik in kliknite **Uredi**.
 
-  4. V razdelku **Nastavitve** omogočite **Uporaba varnih povezav do sporočil, poslanih v organizaciji** .
+  4. V **Nastavitve**, omogočite **Uporabi varne povezave za sporočila, poslana znotraj organizacije.**

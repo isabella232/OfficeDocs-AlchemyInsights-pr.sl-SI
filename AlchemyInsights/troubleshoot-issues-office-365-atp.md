@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav z aplikacijo Microsoft Defender za Office 365 (ATP)
+title: Odpravljanje težav s programom Microsoft Defender za Office 365
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,21 +11,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: cf54d5b3b854587202ff1b575889b9602228dd06
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: d6170ac52b9af4d2bc6f8822ff2a9b8c1b161ed9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801423"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544774"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>Odpravljanje težav s sistemom Office 365 ATP
+# <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>Odpravljanje težav s programom Microsoft Defender za Office 365
 
-- Ali ste **opazili zamude pri dostavi e-poštnega sporočila** ? Uporabite možnost dinamične dostave za pravilnike o varnih prilogah za ATP. S tem se izognete zakasnitvam dostave e-poštnih sporočil, medtem ko ščitite prejemnike pred zlonamernimi datotekami.
-- **Ali želite prijaviti lažne pozitivne ali lažne negativne** izraze? Uporabite to povezavo, če želite poslati datoteko za analizo: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **Ali ste vedeli, da lahko omogočite zaščito varne povezave s storitvijo ATP za e-pošto, poslano med osebami v vaši organizaciji** ? Upoštevajte te korake:
-    1. Pojdite na https://protection.office.com in se vpišite.
-    2. Pojdite na **Threat management**  >  **Policy**  >  **varna povezava** pravilnika za upravljanje groženj.
-    3. V razdelku **pravilniki, ki veljajo za določene prejemnike** , uredite (ali dodajte) pravilnik.
-    4. Izberite **uporabi varne povezave do sporočil, poslanih v organizaciji** .
-    5. Shranite pravilnik in počakajte približno 30 minut, da bodo spremembe delovale v podatkovnem središču.
-- Če želite pridobiti več pomoči za ATP, glejte [Microsoft Defender za Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
+- **Ali opazite zakasnitve pri dostavi e-poštnega sporočila?** Poskusite uporabiti možnost dinamične dostave za pravilnike o prilogah aplikacije Microsoft Defender Office 365 Sef o prilogah. Tako boste preprečili zakasnitve dostave e-poštnih sporočil in pri tem zaščitili prejemnike pred zlonamernimi datotekami.
+- **Ali želite poročati o napačnih pozitivnih ali neresničnih negativnih vrednostih?** Uporabite [Raziskovalca za pošiljanje.](https://protection.office.com/reportsubmission)
+- **Ali ste vedeli, da lahko microsoft Defender za Microsoft Defender** omogočite za zaščito Office 365 Sef za e-pošto, poslano med ljudmi v organizaciji? Upoštevajte te korake:
+    1. Odprite https://protection.office.com in se vpišite.
+    2. Pojdite na **Povezave**  >  **pravilnika**  >  **za Sef groženj.**
+    3. V **razdelku Pravilniki, ki veljajo za določene** prejemnike uredite (ali dodajte) pravilnik.
+    4. Izberite **Uporabi varne povezave za sporočila, poslana znotraj organizacije.**
+    5. Shranite pravilnik in počakajte do 30 minut, da bodo spremembe veljale.
+
+- Če želite več pomoči za aplikacijo Microsoft Defender za Office 365, [glejte Microsoft Defender za Office 365.](/microsoft-365/security/office-365-security/office-365-atp)
