@@ -1,5 +1,5 @@
 ---
-title: Razlike med paketoma Microsoft 365 Enterprise
+title: Microsoft 365 Enterprise razlik v paketih
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf35cee7bf3f1d6b761043be865dc35d80071c32
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 628c200d00f1d28d02a4efd560a4ca1e4f7eae0e
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748520"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539768"
 ---
-# <a name="microsoft-365-enterprise-plan-differences"></a><span data-ttu-id="91be2-102">Razlike med paketoma Microsoft 365 Enterprise</span><span class="sxs-lookup"><span data-stu-id="91be2-102">Microsoft 365 Enterprise plan differences</span></span>
+# <a name="microsoft-365-enterprise-plan-differences"></a><span data-ttu-id="2af7d-102">Microsoft 365 Enterprise razlik v paketih</span><span class="sxs-lookup"><span data-stu-id="2af7d-102">Microsoft 365 Enterprise plan differences</span></span>
 
-<span data-ttu-id="91be2-103">Microsoft 365 Enterprise E5 vključuje vse funkcije Microsoft 365 Enterprise E3, poleg naprednih varnostnih ukrepov, kot so:</span><span class="sxs-lookup"><span data-stu-id="91be2-103">Microsoft 365 Enterprise E5 includes all the features of Microsoft 365 Enterprise E3, plus advanced security measures such as:</span></span>
+<span data-ttu-id="2af7d-103">Microsoft 365 Enterprise E5 vključuje vse funkcije sistema Microsoft 365 Enterprise E3 in napredne varnostne ukrepe, kot so:</span><span class="sxs-lookup"><span data-stu-id="2af7d-103">Microsoft 365 Enterprise E5 includes all the features of Microsoft 365 Enterprise E3, plus advanced security measures such as:</span></span>
 
-- <span data-ttu-id="91be2-104">Napredna zaščita pred grožnjami (ATP)</span><span class="sxs-lookup"><span data-stu-id="91be2-104">Advanced Threat Protection (ATP)</span></span>
-- <span data-ttu-id="91be2-105">Napredno upravljanje podatkov</span><span class="sxs-lookup"><span data-stu-id="91be2-105">Advanced Data Governance</span></span>
-- <span data-ttu-id="91be2-106">Customer zatvornica</span><span class="sxs-lookup"><span data-stu-id="91be2-106">Customer Lockbox</span></span>
-- <span data-ttu-id="91be2-107">Varnost aplikacije v oblaku programa Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="91be2-107">Microsoft 365 Cloud App Security</span></span>
-- <span data-ttu-id="91be2-108">Napreden E-odkrivanje</span><span class="sxs-lookup"><span data-stu-id="91be2-108">Advanced eDiscovery</span></span>
-- <span data-ttu-id="91be2-109">Storitve za upravljanje pravic</span><span class="sxs-lookup"><span data-stu-id="91be2-109">Rights Management Services</span></span>
-- <span data-ttu-id="91be2-110">Trezor Azure Key</span><span class="sxs-lookup"><span data-stu-id="91be2-110">Azure Key Vault</span></span>
+- <span data-ttu-id="2af7d-104">Zaščita pred grožnjami</span><span class="sxs-lookup"><span data-stu-id="2af7d-104">Threat protection</span></span>
+- <span data-ttu-id="2af7d-105">Napredno upravljanje podatkov</span><span class="sxs-lookup"><span data-stu-id="2af7d-105">Advanced Data Governance</span></span>
+- <span data-ttu-id="2af7d-106">Customer Lockbox</span><span class="sxs-lookup"><span data-stu-id="2af7d-106">Customer Lockbox</span></span>
+- <span data-ttu-id="2af7d-107">Microsoft 365 varnost aplikacij v oblaku</span><span class="sxs-lookup"><span data-stu-id="2af7d-107">Microsoft 365 Cloud App Security</span></span>
+- <span data-ttu-id="2af7d-108">Advanced eDiscovery</span><span class="sxs-lookup"><span data-stu-id="2af7d-108">Advanced eDiscovery</span></span>
+- <span data-ttu-id="2af7d-109">Storitve upravljanja pravic</span><span class="sxs-lookup"><span data-stu-id="2af7d-109">Rights Management Services</span></span>
+- <span data-ttu-id="2af7d-110">Shramba ključev Azure</span><span class="sxs-lookup"><span data-stu-id="2af7d-110">Azure Key Vault</span></span>
 
-<span data-ttu-id="91be2-111">Microsoft 365 Enterprise E5 ima tudi zmogljive analitike in glasovne zmožnosti, kot so:</span><span class="sxs-lookup"><span data-stu-id="91be2-111">Microsoft 365 Enterprise E5 also comes with powerful analytics and voice capabilities, such as:</span></span>
+<span data-ttu-id="2af7d-111">Microsoft 365 Enterprise E5 vključuje tudi zmogljive analize in glasovne zmogljivosti, kot so:</span><span class="sxs-lookup"><span data-stu-id="2af7d-111">Microsoft 365 Enterprise E5 also comes with powerful analytics and voice capabilities, such as:</span></span>
 
-- <span data-ttu-id="91be2-112">Nadzorne plošče v živo</span><span class="sxs-lookup"><span data-stu-id="91be2-112">Live Dashboards</span></span>
-- <span data-ttu-id="91be2-113">Poročila v storitvi Power bi</span><span class="sxs-lookup"><span data-stu-id="91be2-113">Reports with Power BI</span></span>
-- <span data-ttu-id="91be2-114">Sodobni glas</span><span class="sxs-lookup"><span data-stu-id="91be2-114">Modern Voice</span></span>
-- <span data-ttu-id="91be2-115">Zvočne konference</span><span class="sxs-lookup"><span data-stu-id="91be2-115">Audio Conferencing</span></span>
-- <span data-ttu-id="91be2-116">Spletna srečanja</span><span class="sxs-lookup"><span data-stu-id="91be2-116">Online Meetings</span></span>
+- <span data-ttu-id="2af7d-112">Nadzorne plošče v živo</span><span class="sxs-lookup"><span data-stu-id="2af7d-112">Live Dashboards</span></span>
+- <span data-ttu-id="2af7d-113">Poročila s power BI</span><span class="sxs-lookup"><span data-stu-id="2af7d-113">Reports with Power BI</span></span>
+- <span data-ttu-id="2af7d-114">Sodobni glas</span><span class="sxs-lookup"><span data-stu-id="2af7d-114">Modern Voice</span></span>
+- <span data-ttu-id="2af7d-115">Zvočne konference</span><span class="sxs-lookup"><span data-stu-id="2af7d-115">Audio Conferencing</span></span>
+- <span data-ttu-id="2af7d-116">Spletna srečanja</span><span class="sxs-lookup"><span data-stu-id="2af7d-116">Online Meetings</span></span>
 
-<span data-ttu-id="91be2-117">Če želite izvedeti več o storitvi Microsoft 365 Enterprise E5 ali če se želite prijaviti za preskusno naročnino, glejte [poskus ali nakup naročnine na microsoftovo 365](https://go.microsoft.com/fwlink/?linkid=2099673).</span><span class="sxs-lookup"><span data-stu-id="91be2-117">To learn more about Microsoft 365 Enterprise E5 or to sign up for a trial subscription, see [Try or buy a Microsoft 365 subscription](https://go.microsoft.com/fwlink/?linkid=2099673).</span></span>
+<span data-ttu-id="2af7d-117">Če želite izvedeti več o Microsoft 365 Enterprise E5 ali če se želite prijaviti za preskusno naročnino, glejte [Preskus ali nakup Microsoft 365 naročnino.](https://go.microsoft.com/fwlink/?linkid=2099673)</span><span class="sxs-lookup"><span data-stu-id="2af7d-117">To learn more about Microsoft 365 Enterprise E5 or to sign up for a trial subscription, see [Try or buy a Microsoft 365 subscription](https://go.microsoft.com/fwlink/?linkid=2099673).</span></span>
 
-<span data-ttu-id="91be2-118">Če želite primerjati funkcije v paketih podjetij, glejte [Primerjava paketov Enterprise](https://go.microsoft.com/fwlink/?linkid=2097200).</span><span class="sxs-lookup"><span data-stu-id="91be2-118">To compare features across Enterprise plans, see [Compare Enterprise plans](https://go.microsoft.com/fwlink/?linkid=2097200).</span></span>
+<span data-ttu-id="2af7d-118">Če želite primerjati funkcije v paketih Enterprise, glejte [Primerjava paketov za podjetja.](https://go.microsoft.com/fwlink/?linkid=2097200)</span><span class="sxs-lookup"><span data-stu-id="2af7d-118">To compare features across Enterprise plans, see [Compare Enterprise plans](https://go.microsoft.com/fwlink/?linkid=2097200).</span></span>
 
-<span data-ttu-id="91be2-119">Cenimo vaše povratne informacije, zato izberite» da/ne «, da se prikaže vprašanje, in nato Ocenite svojo izkušnjo.</span><span class="sxs-lookup"><span data-stu-id="91be2-119">We'd appreciate your feedback, so please select Yes/No to the question that appears, and then rate your experience.</span></span>
+<span data-ttu-id="2af7d-119">Cenimo vaše povratne informacije, zato za vprašanje, ki se pojavi, izberite Da/ne in ocenite vašo izkušnjo.</span><span class="sxs-lookup"><span data-stu-id="2af7d-119">We'd appreciate your feedback, so please select Yes/No to the question that appears, and then rate your experience.</span></span>
