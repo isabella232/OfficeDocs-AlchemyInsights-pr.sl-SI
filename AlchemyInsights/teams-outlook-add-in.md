@@ -1,5 +1,5 @@
 ---
-title: Dodatek Outlook v aplikaciji Teams
+title: Teams Outlook (Skupna raba za Teams , Sestanek zdaj, Novo Teams, Pridružite se Teams srečanju)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835035"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542765"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="b9988-102">Dodatek Outlook v aplikaciji Teams</span><span class="sxs-lookup"><span data-stu-id="b9988-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a><span data-ttu-id="0b628-102">Teams Outlook dodatek (Skupna raba za Teams , Sestanek zdaj, Novo Teams, Pridružite se Teams srečanju)</span><span class="sxs-lookup"><span data-stu-id="0b628-102">Teams Outlook add-in (Share to Teams , Meet now, New Teams meeting, Join Teams meeting)</span></span>
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a><span data-ttu-id="b9988-103">Odpravljanje težav z manjkajočim dodatkom Teams za Outlook</span><span class="sxs-lookup"><span data-stu-id="b9988-103">To troubleshoot a missing Teams Outlook add-in</span></span>
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a><span data-ttu-id="0b628-103">Odpravljanje težav z Teams Outlook dodatkom</span><span class="sxs-lookup"><span data-stu-id="0b628-103">To troubleshoot a missing Teams Outlook add-in</span></span>
 
-1. <span data-ttu-id="b9988-104">Zaženite diagnostiko storitve v skrbniškem portalu.</span><span class="sxs-lookup"><span data-stu-id="b9988-104">Run the Service Diagnostic in the Admin Portal.</span></span> 
-2. <span data-ttu-id="b9988-105">Če diagnostika storitve ne pokaže težav, diagnosticirate in popravite morebitne težave z odjemalcem v računalnikih, v katerih to vpliva, tako da prenesete in zaženete primer dodatka [Microsoft Support and Recovery](https://aka.ms/SaRA-TeamsAddInScenario)Assistant Outlook  >  **Teams.**</span><span class="sxs-lookup"><span data-stu-id="b9988-105">If the Service Diagnostic indicates no issues, diagnose and correct any client issues on the affected user machines  by downloading and running the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook Add-in Scenario**.</span></span>
+1. <span data-ttu-id="0b628-104">Zaženite diagnostični »Dodatek skupine manjka v Outlook«, s katerim preverite, ali ima uporabnik pravilne pravilnike, s katerimi lahko Teams Outlook dodatek.</span><span class="sxs-lookup"><span data-stu-id="0b628-104">Run the diagnostic “Team Add-in is missing in Outlook,” which validates that a user has the correct policies to enable the Teams Outlook add-in.</span></span> <span data-ttu-id="0b628-105">Za dostop do diagnostike vnesite **Diag: Teams dodatka ni v Outlook** v iskalno polje.</span><span class="sxs-lookup"><span data-stu-id="0b628-105">To access the diagnostic, type **Diag: Teams Add-in Missing in Outlook** in the search box.</span></span>
 
-<span data-ttu-id="b9988-106">Če želite ročno odpraviti težave manjkajoč dodatka Teams Outlook, si oglejte seznam morebitnih dejavnikov, ki bi lahko povzročili, da vaš dodatek za Teams ni prikazan na seznamu.</span><span class="sxs-lookup"><span data-stu-id="b9988-106">To manually troubleshoot a missing Teams Outlook add-in, review the list of potential factors that might cause your Teams add-in not to appear listed.</span></span> <span data-ttu-id="b9988-107">Če želite več informacij, [glejte Dodatek Sestanek v aplikaciji Teams v Outlooku za Windows ni na voljo.](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)</span><span class="sxs-lookup"><span data-stu-id="b9988-107">For more info, see [Teams Meeting add-in in Outlook for Windows does not show](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
+1. <span data-ttu-id="0b628-106">Če diagnostika storitve ne pokaže težav, diagnosticirate in odpravite morebitne težave z odjemalcem v računalnikih, v katerih to vpliva, tako, da prenesete in zaženete scenarij dodatka [Microsoft pomočnik za podporo in obnovitev](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams Outlook .**</span><span class="sxs-lookup"><span data-stu-id="0b628-106">If the Service Diagnostic indicates no issues, diagnose and correct any client issues on the affected user machines  by downloading and running the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) > **Teams Outlook Add-in Scenario**.</span></span>
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a><span data-ttu-id="b9988-108">Odpravljanje težav pri načrtovanju srečanja v storitvi Teams v imenu druge osebe (pooblaščenec)</span><span class="sxs-lookup"><span data-stu-id="b9988-108">To troubleshoot scheduling a Teams meeting on behalf of someone else (Delegate)</span></span>
+<span data-ttu-id="0b628-107">Če želite ročno odpraviti Teams Outlook dodatka, preglejte seznam morebitnih dejavnikov, ki lahko povzročijo, da vaš Teams ne bo naveden.</span><span class="sxs-lookup"><span data-stu-id="0b628-107">To manually troubleshoot a missing Teams Outlook add-in, review the list of potential factors that might cause your Teams add-in not to appear listed.</span></span> <span data-ttu-id="0b628-108">Če želite več informacij, [Teams dodatek Srečanje v dodatku Outlook za Windows ni pokaži.](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show)</span><span class="sxs-lookup"><span data-stu-id="0b628-108">For more info, see [Teams Meeting add-in in Outlook for Windows does not show](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
 
-<span data-ttu-id="b9988-109">Če želite načrtovati srečanje v storitvi Teams v imenu druge osebe, glejte Odpravljanje težav [z interakcijo med aplikacijami Microsoft Teams in Exchange Server.](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)</span><span class="sxs-lookup"><span data-stu-id="b9988-109">To schedule a Teams meeting on someone else's behalf, see [Troubleshoot Microsoft Teams and Exchange Server interaction issues](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).</span></span>
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a><span data-ttu-id="0b628-109">Odpravljanje težav pri načrtovanju Teams srečanje v imenu druge osebe (pooblaščenec)</span><span class="sxs-lookup"><span data-stu-id="0b628-109">To troubleshoot scheduling a Teams meeting on behalf of someone else (Delegate)</span></span>
+
+<span data-ttu-id="0b628-110">Če želite načrt Teams srečanje v imenu druge osebe, glejte Odpravljanje težav [z Microsoft Teams in Exchange Server z drugimi.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)</span><span class="sxs-lookup"><span data-stu-id="0b628-110">To schedule a Teams meeting on someone else's behalf, see [Troubleshoot Microsoft Teams and Exchange Server interaction issues](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).</span></span>
