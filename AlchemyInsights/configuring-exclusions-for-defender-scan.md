@@ -1,5 +1,5 @@
 ---
-title: Konfiguriranje izključitve za Microsoft Defender pregled ATP
+title: Konfiguriranje izjem za Microsoft Defender ATP pregled
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "6027"
 - "9001464"
-ms.openlocfilehash: 912e77b9b1a149fef373f2d0814fb2f0671a48c6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5eb18f4133aca93c1506f4975c8d0567bede8d57
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50714352"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543701"
 ---
-# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Konfiguriranje izključitve za Microsoft Defender pregled ATP
+# <a name="configuring-exclusions-for-microsoft-defender-atp-scan"></a>Konfiguriranje izjem za Microsoft Defender ATP pregled
 
-Na splošno lahko izključite določene datotečne pripone in mesta map v storitvi Microsoft Defender ATP scans. Konfigurirate lahko tudi izključitve za datoteke, ki so bile odprte v določenih procesih. Če želite več informacij, si oglejte, [konfigurirajte in preverjajte izključitve, ki temeljijo na datotečni priponi in mestu mape](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) , ter [konfigurirajte izključitve za datoteke, ki so bile odprte s procesi](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus) .
+Na splošno lahko nekatere datotečne pripone in mesta map izključite iz Microsoft Defender ATP pregledih. Konfigurirate lahko tudi izključitve za datoteke, ki jih je mogoče odpreti z določenimi procesi. Če želite več informacij, glejte [Konfiguracija](/windows/security/threat-protection/microsoft-defender-antivirus/configure-extension-file-exclusions-microsoft-defender-antivirus) in preverjanje veljavnosti izključitev glede na datotečni pripono in mesto mape in Konfiguracija izključitev za datoteke, [ki jih odprejo postopki.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-process-opened-file-exclusions-microsoft-defender-antivirus)
 
-Če želite konfigurirati izključitve za  **Windows server 2016 in 2019**, glejte [Konfiguracija izključitve protivirusnega programa Microsoft Defender v sistemu Windows Server](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus).
+Če želite konfigurirati izjeme **za Windows Server 2016 in 2019,** [glejte Konfiguracija izključitev Microsoft Defender Antivirus v strežniku Windows Server.](/windows/security/threat-protection/microsoft-defender-antivirus/configure-server-exclusions-microsoft-defender-antivirus)
 
 **Mac**
 
-Če želite več informacij o podprtih vrstah izključitve in konfiguriranju seznama izključitve za Mac, glejte [podprte vrste izključitve](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) in [Kako konfigurirate seznam izključitve](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions).
+Če želite podrobnosti o podprtih vrstah izključitev in [](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#supported-exclusion-types) konfiguraciji seznama izjem za računalnike Mac, glejte Podprte vrste izjem in [Konfiguracija seznama izjem.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#how-to-configure-the-list-of-exclusions)
 
-**Opomba** Izključitvene sezname lahko tudi preverite s preskusno datoteko EICAR. Če želite več informacij, si oglejte [preverjanje veljavnosti izključitve seznamov s preskusno datoteko eicar](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Opomba** S preskusno datoteko EICAR lahko tudi preverite veljavnost seznamov izključitev. Če želite več informacij, glejte [Preverjanje veljavnosti seznamov izključitev s preskusno datoteko EICAR.](/windows/security/threat-protection/microsoft-defender-atp/mac-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 
 
 **Linux**
 
-Če želite več informacij o podprtih vrstah izključitve in konfiguriranju seznama izključitve za Linux, glejte [podprte vrste izključitve](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) in [Konfiguracija ter preverjanje izključitve za Microsoft Defender ATP za Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions).
+Če želite podrobnosti o podprtih vrstah izključitev in [](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#supported-exclusion-types) konfiguraciji seznama izjem za Linux, glejte Podprte vrste izjem in Konfiguriraj in preveri veljavnost izjem [za Microsoft Defender ATP za Linux.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions)
 
-**Opomba** Izključitvene sezname lahko tudi preverite s preskusno datoteko EICAR. Če želite več informacij, si oglejte [preverjanje veljavnosti izključitve seznamov s preskusno datoteko eicar](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file). 
+**Opomba** S preskusno datoteko EICAR lahko tudi preverite veljavnost seznamov izključitev. Če želite več informacij, glejte [Preverjanje veljavnosti seznamov izključitev s preskusno datoteko EICAR.](/windows/security/threat-protection/microsoft-defender-atp/linux-exclusions#validate-exclusions-lists-with-the-eicar-test-file) 

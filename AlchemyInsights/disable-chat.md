@@ -13,22 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: b6041dd41d0d94b832b962518c73560737684ce1
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
+ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089158"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52573762"
 ---
 # <a name="disable-chat"></a>Onemogočanje klepeta
 
-Če želite onemogočiti klepet za svojo organizacijo, lahko ustvarite pravilnike, s katerimi nadzorujete, kateri klepet in funkcije za sporočanje v kanalu so na voljo. To lahko dosežete na več načinov, odvisno od tega, kako morate konfigurirati klepet.
+Če želite omogočiti ali onemogočiti klepet za organizacijo, lahko ustvarite pravilnike, s katerimi boste lahko nadzirali, katere funkcije klepeta in kanala so na voljo. To lahko dosežete na več načinov, odvisno od tega, kako morate konfigurirati klepet.
 
-- **Pošiljanje sporočil**: v skrbniškem središču za ekipe pojdite na [pravilnike za sporočanje](https://admin.teams.microsoft.com/)in preklapljanje **med klepetom** **.** Če želite več informacij o pravilnikih za sporočanje po meri in načinu dodeljevanja pravilnikov uporabnikom, glejte [upravljanje pravilnikov za sporočanje v aplikaciji Teams](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams).
-- **Srečanje**: v skrbniškem središču za ekipe se pogovorite s [Pravilniki o srečanju](https://admin.teams.microsoft.com/) – nastavitev za klepet **omogoča klepet v srečanjih**. Če želite več informacij o ustvarjanju pravilnikov za srečanje po meri, glejte [upravljanje pravilnikov za srečanje v aplikaciji Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) in [Omogočanje klepeta v srečanjih](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
-- **Gostujoči uporabniki**: pravilnike za dostop za goste lahko konfigurirate tako, da omogočijo gostom dostop do klepeta, ki lahko Vklopi ali **Izklopi** **klepet** . Če želite več informacij, si oglejte [Konfiguracija dostopa za goste v skrbniškem središču za ekipe](https://docs.microsoft.com/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center).
-- **Študenti**: Če želite onemogočiti klepet za učenca, si oglejte možnosti za omogočanje klepeta v srečanjih in za omogočanje 1:1 klepeta v [pravilnikih in paketih politik za izobraževanje](https://docs.microsoft.com/microsoftteams/policy-packages-edu).
+- **Srečanje:** V skrbniškem središču Teams pojdite na Pravilniki srečanja [–](https://admin.teams.microsoft.com/) nastavitev za klepet je Dovoli klepet **v sestankih.** Če želite več informacij o ustvarjanju pravilnikov za srečanja po meri, [glejte Upravljanje pravilnikov srečanja v Teams in Dovoli](/microsoftteams/meeting-policies-in-teams) klepet med [srečanji.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
+- **M*essaging**: V skrbniškem središču za Teams pojdite na Pravilniki za sporočanje [in](https://admin.teams.microsoft.com/)vklopite ali izklopite **klepet.**  Če želite več informacij o pravilnikih pošiljanja sporočil po meri in dodeljevanju pravilnikov uporabnikom, glejte Upravljanje [pravilnikov za sporočanje v Teams](/microsoftteams/messaging-policies-in-teams).
+
+- **Študenti:** Če želite onemogočiti klepet za učenca, si oglejte možnosti za omogočanje klepeta na sestankih in za omogočanje klepeta v Teams in paketih pravilnikov za [izobraževanje.](/microsoftteams/policy-packages-edu)
+
+- Gostujoči uporabniki: Pravilnike za dostop za goste lahko konfigurirate  tako, da gostom omogočajo dostop do klepeta, ki lahko vklopijo ali izklopijo **klepet.** Če želite več informacij, glejte [Konfiguracija dostopa za goste v skrbniškem Teams za goste.](/microsoftteams/set-up-guests#configure-guest-access-in-the-teams-admin-center)
 
 
 

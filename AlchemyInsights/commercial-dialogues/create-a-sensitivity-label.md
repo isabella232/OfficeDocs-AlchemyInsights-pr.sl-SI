@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "7455"
 - "9000181"
-ms.openlocfilehash: c55550529aff28fd13c8329bc1f2303e04cf1316
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1869cff3a5ef80a90d36a7d40199c14011cd87a0
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747885"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543773"
 ---
 # <a name="create-a-sensitivity-label"></a>Ustvarjanje oznake občutljivosti
 
 Če želite ustvariti oznako občutljivosti, izvedite te korake:
 
-1. Pojdite na **[središče za skladnost z varnostnim &om sistema Office 365](https://sip.protection.office.com/) > razvrstitev > oznake občutljivosti**.
-2. Kliknite **+ Ustvari oznako** , da zaženete čarovnika za **novo oznako občutljivosti** . Če želite več informacij o nastavitvah šifriranja in samodejnem označevanju, si oglejte [omejevanje dostopa do vsebine s šifriranjem v oznakah občutljivosti](https://docs.microsoft.com/microsoft-365/compliance/encryption-sensitivity-labels) in [samodejno uporabo oznake občutljivosti za vsebino](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically).
-3. Ponovite te korake, če želite ustvariti več oznak. Če pa želite ustvariti podoznako, najprej izberite nadrejeno oznako, kliknite **...** za **več dejanj** in nato kliknite **Dodaj podoznako**.
-4. Ko ustvarite vse oznake, ki jih potrebujete, preglejte njihov vrstni red in po potrebi premaknite navzgor ali navzdol. Če želite spremeniti vrstni red nalepke, kliknite **...** za **več dejanj** in nato kliknite **Premakni gor** ali **Premakni dol**. 
+1. Pojdite na središče **[Office 365 za zagotavljanje & skladnosti](https://sip.protection.office.com/) s predpisi in > oznake > občutljivosti.**
+2. Kliknite **+ Ustvari oznako,** da zaženete **čarovnika za novo oznako občutljivosti.** Če želite več informacij o nastavitvah šifriranja in samodejnem označevanju, glejte Omeji dostop do vsebine s šifriranjem v [oznakah](/microsoft-365/compliance/encryption-sensitivity-labels) občutljivosti in Samodejno uporabi [oznako](/microsoft-365/compliance/apply-sensitivity-label-automatically)občutljivosti za vsebino.
+3. Če želite ustvariti več oznak, ponovite te korake. Če pa želite ustvariti podlabel, najprej izberite nadrejeno oznako, izberite tri pike (več dejanj) in nato izberite **Dodaj podoznako**.
+4. Ko ustvarite vse nalepke, ki jih potrebujete, preglejte njihov vrstni red in jih po potrebi premaknite navzgor ali navzdol. Če želite spremeniti vrstni red oznake, izberite tri pike (več dejanj) in nato izberite **Premakni navzgor** ali **Premakni navzdol**. 

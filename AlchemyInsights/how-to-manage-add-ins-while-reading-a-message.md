@@ -1,5 +1,5 @@
 ---
-title: Kako upravljati dodatke med branjem sporočila
+title: Upravljanje dodatkov med branjem sporočila
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "5890"
 - "9003117"
-ms.openlocfilehash: 163dfcc720cb15800ec6a6ae8a0ea909e588f191
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 772f7b8d3c88c38ad8a14585af398325349dc99a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50714340"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544016"
 ---
-# <a name="how-to-manage-add-ins-while-reading-a-message"></a>Kako upravljati dodatke med branjem sporočila
+# <a name="how-to-manage-add-ins-while-reading-a-message"></a>Upravljanje dodatkov med branjem sporočila
 
-1. V Outlooku v spletu Izberite sporočilo.
+1. V Outlook spletu izberite sporočilo.
     
-2. Na vrhu sporočila izberite **več dejanj** .
+2. Izberite tri pike (več dejanj) na vrhu sporočila.
 
-3. Pojdite na dno seznama in izberite **pridobi dodatke**.
+3. Pojdite na dno seznama **in izberite Dobi dodatke.**
     
-4. Na strani dodatki za Outlook izberite želeni dodatek.
+4. Na strani Dodatki za Outlook izberite dodatek, ki ga želite dodati.
     
-    Za brezplačne dodatke izberite **Dodaj** , da ga dodate v nabiralnik.
+    Če želite brezplačne dodatke, izberite **Dodaj,** da jih dodate v nabiralnik.
     
-    Za plačane dodatke in brezplačne preskuse izberite **pridobi** , da začnete nakup.
+    Če želite plačljive dodatke in brezplačne preskusne naročnine, izberite **Pridobite ga,** da začnete nakup.
     
-Če želite več informacij, glejte [Uporaba dodatkov v Outlooku v spletu](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce).
+Če želite več informacij, [glejte Uporaba dodatkov v Outlook v spletu.](https://support.microsoft.com/office/using-add-ins-in-outlook-on-the-web-8f2ce816-5df4-44a5-958c-f7f9d6dabdce)
