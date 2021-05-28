@@ -1,5 +1,5 @@
 ---
-title: Težave med selitvijo podatkov v SharePoint online
+title: Težave pri selitvi podatkov v SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700903"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694792"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Težave med selitvijo podatkov v SharePoint online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>Težave pri selitvi podatkov v SharePoint Online
 
-**Selitev prek 100TB podatkov**
+**Selitev več kot 100 TB podatkov**
 
-Zdi se, da selite prek 100TB podatkov v SharePoint online. Upoštevajte spodnja navodila, da vam lahko pomagamo takoj, ko bo mogoče. 
+Videti je, da selite več kot 100 TB podatkov v storitev SharePoint Online. Upoštevajte spodnja navodila, da vam bomo čim prej pomagali. 
 
-1. Izberite **Nova zahteva za storitev**in nato **Nova zahteva za storitev**. 
-2. Pustite naslov in opis kot **selitev SharePointa prek 100TB**.
-3. Ko je vozovnica poslana, jo posodobite s temi informacijami: 
+1. Izberite **Obrnite se na** podporo in nato Nova zahteva za **storitev.** 
+2. Naslov in opis pustite za **selitev SharePoint več kot 100 TB.**
+3. Ko je vstopnica poslana, jo posodobite s spodnjimi informacijami: 
 
     - Ocenjena velikost selitve.
-    - Ocena, Kdaj želite začeti in dokončati selitev.
-    - Opišite, od kod selite vsebino, kot je SharePoint Server, Box, GDrive, datotečni deli itd.
+    - Ocena, kdaj želite začeti in dokončati selitev.
+    - Opišite, iz kod selite vsebino, na primer iz strežnika SharePoint Server, Box, GDrive, datotek v skupni rabi itd.
