@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809779"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697046"
 ---
 # <a name="recording-in-teams"></a>Snemanje v Teams
 
-Snemanje srečanja v storitvi Microsoft Teams lahko zdaj shranite v OneDrive ali SharePoint, če želite več informacij in če želite privoliti v sodelovanje, glejte to objavo v središču za sporočila: [(posodobljeno) Microsoft Teams: posnetki srečanja, shranjeni v storitvi OneDrive in SharePointu](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+Če je uporabnikov  gumb Začni snemanje zatemnjen ali pa manjka v srečanju Teams, poskusite zagnati diagnostiko posnetka srečanja tako, da v zgornje polje vnesete **Diag:** Snemanje srečanja. 
 
-Če mesto shrambe premikate v Storitev OneDrive ali SharePoint, ne velja prejšnja zahteva, da je pretočni posnetek na voljo v vaši regiji.
+Microsoft Teams posnetkov sestanka je zdaj mogoče shraniti v OneDrive SharePoint. Premikanje mesta za shranjevanje na OneDrive in SharePoint odpravi težavo, kjer posnetki srečanja niso delovali, ker storitev Stream ni na voljo v vaši regiji. Če želite več informacij, glejte pogosta vprašanja o [storitvi Microsoft Stream.](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
 
-Če želite izvedeti, kako **omogočiti in konfigurirati funkcijo snemanja** v aplikaciji Teams za vašo organizacijo, **vključno s kontrolniki za omogočanje ali onemogočanje snemanja srečanja za določene uporabnike**, preglejte navodila za snemanje srečanja v oblaku v storitvi [Teams](https://docs.microsoft.com/microsoftteams/cloud-recording).
+Če želite več informacij o shranjevanju posnetkov srečanja, glejte objavo v središču za sporočila: [(posodobljeno) Microsoft Teams:](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)posnetki srečanja, shranjeni v OneDrive in SharePointu.
 
-Če **ne morete snemati v Teams ali če želite razumeti, kako snemati v Teams**, poskusite slediti nasvetom v enem od teh člankov:
+Če želite izvedeti, kako omogočite in konfigurirate funkcijo snemanja v programu Teams za svojo organizacijo, vključno s kontrolniki za omogočanje ali onemogočanje snemanja srečanja za določene uporabnike, Teams posnetek srečanja v [oblaku.](/microsoftteams/cloud-recording) 
 
-- Če še niste odločili za shrambo v storitvi OneDrive ali SharePoint za snemanje srečanja Teams, te možnosti temeljijo na to, da so na voljo možnosti pretočnega posnetka področne razpoložljivosti in razpoložljivosti v državi. Če ne morete posneti preverjanja srečanja in se [, da je Stream na voljo v vaši državi ali regiji](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). Če želite več informacij, preglejte to objavo v središču za sporočila v skrbniškem portalu: [posodobljena funkcija: posnetki v oblaku storitve Microsoft Stream z območnim nadzorom shrambe](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+Če še vedno ne morete posneti v Teams ali pa morate razumeti, kako snemati v Teams, glejte: 
 
-- Snemanje srečanja v storitvi Teams [licence in pravilnike, ki jih je treba dodeliti](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording), vključno z licencami za Stream za prenos posnetkov srečanja v Microsoft Stream ali prenos posnetkov srečanja.
+[Posodobljena funkcija: Območni kontrolnik shrambe za snemanje v oblaku za Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- Ko ste potrdili, da so vse zahteve izpolnjene, vključno z licenciranjem, pravilniki in regionalno razpoložljivostjo storitve Stream, preglejte postopek [Posnemi srečanje v skupini](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+Za snemanje srečanja v Teams potrebujete določene dodeljene licence in pravilnike, vključno z licencami za Stream, če želite prenesti posnetke srečanja v Microsoft Stream ali jih prenesti v storitev Microsoft Stream. Če želite več informacij, [glejte Pogoji za Teams srečanja v oblaku.](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)
+
+Ko ste potrdili, da so vse zahteve izpolnjene, vključno z licenciranjem, pravilniki in regionalno razpoložljivostjo storitve Stream, preglejte možnost Snemaj srečanje [v Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24). 

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573762"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696902"
 ---
 # <a name="disable-chat"></a>Onemogočanje klepeta
 
@@ -26,7 +26,7 @@ ms.locfileid: "52573762"
 
 - **Srečanje:** V skrbniškem središču Teams pojdite na Pravilniki srečanja [–](https://admin.teams.microsoft.com/) nastavitev za klepet je Dovoli klepet **v sestankih.** Če želite več informacij o ustvarjanju pravilnikov za srečanja po meri, [glejte Upravljanje pravilnikov srečanja v Teams in Dovoli](/microsoftteams/meeting-policies-in-teams) klepet med [srečanji.](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings)
 
-- **M*essaging**: V skrbniškem središču za Teams pojdite na Pravilniki za sporočanje [in](https://admin.teams.microsoft.com/)vklopite ali izklopite **klepet.**  Če želite več informacij o pravilnikih pošiljanja sporočil po meri in dodeljevanju pravilnikov uporabnikom, glejte Upravljanje [pravilnikov za sporočanje v Teams](/microsoftteams/messaging-policies-in-teams).
+- **Sporočanje:** V skrbniškem središču Teams pojdite na Pravilniki za sporočanje [in](https://admin.teams.microsoft.com/)vklopite ali izklopite **možnost Klepet** vklopite ali **izklopite.** Če želite več informacij o pravilnikih pošiljanja sporočil po meri in dodeljevanju pravilnikov uporabnikom, glejte Upravljanje [pravilnikov za sporočanje v Teams](/microsoftteams/messaging-policies-in-teams).
 
 - **Študenti:** Če želite onemogočiti klepet za učenca, si oglejte možnosti za omogočanje klepeta na sestankih in za omogočanje klepeta v Teams in paketih pravilnikov za [izobraževanje.](/microsoftteams/policy-packages-edu)
 
