@@ -12,16 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500011"
 - "5106"
-ms.openlocfilehash: 680df9e6e2404ff6b60b17d6ac88e202e9a7bb25
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 204e0248bc2f07f14fa789d1d2999495910ee034
+ms.sourcegitcommit: d2108b13acc44e26b65f9a2739cbce9bf98959a5
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830049"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52702142"
 ---
 # <a name="micro-delays-or-throttling-in-exchange-online-powershell"></a>Micro zamude ali omejevanje storitve PowerShell v storitvi Exchange Online
 
-Ko zaženete skripte in ukaze »cmdlet« v storitvi Exchange Online, boste morda opazili opozorila »Micro delay applied«. Na voljo sta dva predloga, povezana s tem:
+Ko zaženete skripte in ukaze »cmdlet« v storitvi Exchange Online, boste morda opazili opozorila »Micro delay applied«. Tukaj je nekaj predlogov, kako odpraviti to težavo:
 
-- Morda boste želeli uporabiti modul PowerShell za [Exchange Online v2](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps), ki vključuje ukaze »CMDlet«, ki temeljijo na storitvi API REST in so precej bolj izvajani. To je lahko odlična rešitev za veliko število ukazov» dobi «, ki se pogosto uporabljajo.
-- Če morate uporabiti ukaze »CMDlet«, ki niso zajeti v modulu v2, si oglejte [zagon ukazov » cmdlet« lupine PowerShell za veliko število uporabnikov v sistemu Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#), ki govori o tem, kako se prepričate, da so v storitvi Exchange Online na voljo omejitve omejevanja delovanja lupine PowerShell.
+- Zaženite diagnostiko, da sprostite najemnika pravilnike o zmogljivosti zmogljivosti PowerShell. S to rešitvijo boste težavo večino rešili.
+- Če težave še vedno ne odpravite, uporabite modul [Exchange Online v2 PowerShell,](/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps&preserve-view=true)ki vključuje ukaze CMDlet, ki temeljijo na vmesniku API REST in so znatno bolj učinkovitejši. To je lahko odlična rešitev za veliko število ukazov» dobi «, ki se pogosto uporabljajo.
+- Če morate uporabiti ukaze CMDlet, ki niso zajeti v modulu v2, glejte Zagon ukazov [»cmdlet«](https://techcommunity.microsoft.com/t5/exchange-team-blog/updated-running-powershell-cmdlets-for-large-numbers-of-users-in/ba-p/1000628#)lupine PowerShell za večje število uporabnikov v programu Office 365, ki govori o tem, kako se lahko v modulu PowerShell omejijo omejevanje zmogljivosti v Exchange Online.
