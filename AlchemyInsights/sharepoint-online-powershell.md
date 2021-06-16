@@ -1,5 +1,5 @@
 ---
-title: Sharepoint Online PowerShell
+title: Sharepoint PowerShell se ne more povezati
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: 4f8fb5838dd6c0c0f71c16f261acf1109dfcdaea
-ms.sourcegitcommit: edb9be61ff8c4df2a600f70952f6fa731c2093a9
+ms.openlocfilehash: ceb14ac484508480c771dd8406bc56220d7541ec
+ms.sourcegitcommit: e42bb24c9bae1d0df8c49c424d2aa5e7466703ac
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "52774375"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "52931027"
 ---
-# <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
+# <a name="sharepoint-powershell-unable-to-connect"></a>Sharepoint PowerShell se ne more povezati
 
-Ali delate z lupino PowerShell ali skripti v SharePoint Onlineu? Več informacij najdete na spodnjih povezavah.
-- [Uvod v lupino za SharePoint spletnega upravljanja](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [Povezovalnik z lupino SPO PowerShell z večkratnikom pristnosti (MFA)](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- [SharePoint vzorcih in praksah (PnP)](/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) vsebuje knjižnico ukazov ogrodja PowerShell, ki vam omogoča izvajanje zapletenih dejanj upravljanja v zvezi s Spom.
+Če imate težave s povezovanjem z modulom PowerShell za SharePoint Online, glejte Napake pri vzpostavljanju povezave z [lupino za SharePoint Online.](/sharepoint/troubleshoot/administration/errors-connecting-to-management-shell)
