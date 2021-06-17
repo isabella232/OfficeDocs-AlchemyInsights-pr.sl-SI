@@ -1,5 +1,5 @@
 ---
-title: Uporaba programa Microsoft InTune za upravljanje spletnega dostopa v brskalniku Microsoft Edge za iOS in Android
+title: Uporaba storitve Microsoft Intune za upravljanje spletnega dostopa v brskalniku Microsoft Edge za iOS in Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003846"
 - "6895"
-ms.openlocfilehash: 4d6ab4df4ff9588ce5052421602e347c76c91c3f
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+- "9006502"
+- "11144"
+ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679608"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989717"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Uporaba programa Microsoft InTune za upravljanje spletnega dostopa v brskalniku Microsoft Edge za iOS in Android
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>Uporaba storitve Microsoft Intune za upravljanje spletnega dostopa v brskalniku Microsoft Edge za iOS in Android
 
-Microsoft Edge za iOS in Android omogoča, da uporabnik brska po spletu iz več, popolnoma ločenih profilov.
+Microsoft Edge za iOS in Android omogoča uporabniku brskanje po spletu iz več popolnoma ločenih profilov.
 
-Najširše možnosti zaščite za Microsoft 365 so na voljo, ko se naročite na zbirko podatkov za podjetja Mobility + varnost, ki vključuje funkcije Microsoft InTune in Azure Active Directory Premium, kot je pogojni dostop. Na minimumu boste želeli uvesti pravilnik za pogojni dostop, ki omogoča uporabnikom, da vzpostavijo povezavo s prenosnimi napravami na Microsoft Edge za iOS in Android in da (2) izvaja pravilnik o zaščiti programa Microsoft InTune, ki zagotavlja zaščiteno izkušnjo brskanja.
+Ko se naročite na paket Enterprise Mobility + Security, ki vključuje funkciji Microsoft Intune in Azure Active Directory Premium, kot je pogojni dostop, so na voljo najožje zmogljivosti zaščite za podatke storitve Microsoft 365. Morali boste uvesti pravilnik o pogojnem dostopu, ki uporabnikom (1) omogoča, da se iz mobilnih naprav povežejo s brskalnikom Microsoft Edge za iOS in Android in da (2) uvaja pravilnik o zaščiti aplikacije Microsoft Intune, ki zagotavlja zaščiteno izkušnjo brskanja.
 
-Če želite razumeti, kako lahko uporabite pogojni dostop in pravilnike, glejte:
+Če želite razumeti, kako lahko uporabljate pogojni dostop in pravilnike, glejte:
 
-[Uporaba pravilnikov o pogojnem dostopu v storitvi Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[Uporaba pravilnikov o pogojnem dostopu imenika Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[Ustvarjanje pravilnikov za zaščito programa Microsoft InTune](https://go.microsoft.com/fwlink/?linkid=2132651)
+[Ustvarjanje pravilnikov o zaščiti aplikacije Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[Uporaba enotne prijave za imenik Azure Active Directory – vzpostavljeno povezavo spletnih programov v brskalnikih, ki so zaščiteni s pravilnikom](https://go.microsoft.com/fwlink/?linkid=2132482)
+[Uporaba enotne vpise za spletne aplikacije, povezane z imenikom Azure Active Directory, v brskalnikih, zaščitenih s pravilniki](https://go.microsoft.com/fwlink/?linkid=2132482)
 
 [Uporaba konfiguracije aplikacije za upravljanje izkušnje brskanja](https://go.microsoft.com/fwlink/?linkid=2132483)
 
 [Dovoli uporabo le službenih in šolskih računov](https://go.microsoft.com/fwlink/?linkid=2132652)
 
-[Uvajanje pravilnikov za konfiguracijo splošne aplikacije](https://go.microsoft.com/fwlink/?linkid=2132653)
+[Uvajanje splošnih pravilnikov o konfiguraciji aplikacij](https://go.microsoft.com/fwlink/?linkid=2132653)
 
-[Uvajanje pravilnikov o konfiguraciji programov za zaščito podatkov](https://go.microsoft.com/fwlink/?linkid=2132654)
+[Uvajanje pravilnikov o konfiguraciji aplikacije za zaščito podatkov](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[Uporaba Microsoftovega upravitelja končnih točk za uvajanje pravilnikov o konfiguraciji programov](https://go.microsoft.com/fwlink/?linkid=2132707)
+[Uporaba Microsoft Endpoint Managerja za uvajanje pravilnikov za konfiguracijo aplikacije](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-Če želite izvedeti več o dostopu do dnevnikov upravljanih programov, glejte [Uporaba programa Microsoft Edge za iOS in Android za dostop do dnevnikov upravljanih programov](https://go.microsoft.com/fwlink/?linkid=2132578).
+Če želite izvedeti, kako dostopate do upravljanih dnevnikov aplikacij, glejte Uporaba brskalnika Microsoft Edge za iOS in Android za [dostop do upravljanih dnevnikov aplikacij.](https://go.microsoft.com/fwlink/?linkid=2132578)
