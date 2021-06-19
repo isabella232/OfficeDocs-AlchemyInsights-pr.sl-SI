@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: d4b72ce8d44a3f45381b1866b22172ba92dc3cc5
-ms.sourcegitcommit: 1226e9a9601dc8fc8ec427235f3c2dd88ff84ced
+ms.openlocfilehash: c043569050a849a29982f6fdc4224b4e73d3ca5d
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721652"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023119"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 Uvoz storitve
 
@@ -29,9 +29,9 @@ ms.locfileid: "52721652"
 
 1. V levem podoknu središča za skladnost s predpisi storitve M365 v razdelku **Rešitve** izberite **Upravljanje informacij –**  >  **Uvoz**.
 
-1. Na strani **Uvozi** izberite **Nov posel uvoza.**
+1. Na strani **Uvozi** izberite **Nov posel uvoza.** Vnesite ime posla in izberite **Naprej**.
 
-1. Če želite dokončati korake čarovnika, glejte Uporaba prenosa prek omrežja za [uvoz datotek PST v](/compliance/use-network-upload-to-import-pst-files)organizaciji v Microsoft 365 .
+1. Izberite **Upload, če želite** za vrsto posla uvoza uporabiti možnost prenosa v **omrežje.** Če želite podrobna navodila, glejte Uporaba prenosa prek omrežja za uvoz datotek [PST organizacije v Microsoft 365.](/compliance/use-network-upload-to-import-pst-files)
 
 Če želite **dostopati do** strani Uvoz, se prepričajte, da so vam bila dodeljena ustrezna dovoljenja. Če želite več informacij, glejte [Uporaba prenosa prek omrežja za uvoz datotek PST.](/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files)
 

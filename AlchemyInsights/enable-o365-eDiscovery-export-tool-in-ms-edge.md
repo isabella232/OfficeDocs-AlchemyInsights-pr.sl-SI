@@ -1,5 +1,5 @@
 ---
-title: Omogočanje izvoznega orodja za Office 365 E-odkrivanje v brskalniku Microsoft Edge
+title: Omogočanje Office 365 za izvoz e-odkrivanja v Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583678"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023191"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Omogočanje izvoznega orodja za Office 365 E-odkrivanje v brskalniku Microsoft Edge
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>Omogočanje Office 365 za izvoz e-odkrivanja v Microsoft Edge
 
-Podpora za ClickOnce ni več omogočena v Microsoft Edge privzeto. Če želite nadaljevati z uporabo orodja za izvoz sistema Microsoft Office 365 E-odkrivanje, boste morali uporabiti Microsoft Internet Explorer ali omogočiti podporo za ClickOnce v brskalniku Microsoft Edge, ki je na voljo v brskalniku krom, in sicer tako:
+Podpora za ClickOnce ni več omogočena v Microsoft Edge privzeto omogočena. Če želite še naprej uporabljati orodje za izvoz e-odkrivanja v storitvi Microsoft Office 365, morate uporabiti Microsoft Internet Explorer ali omogočiti možnost podpore za ClickOnce v Chromium osnovi Microsoft Edge, in sicer tako:
 
-1. Pojdite na edge://flags/#edge – enkrat kliknite.
-1. Za možnost **podpore za ClickOnce** spremenite vrednost iz **privzete** ali **onemogočene** za **omogočene**.
-1. Na dnu okna brskalnika kliknite **znova Zaženi**. Sprememba bo veljala, ko znova zaženete Microsoft Edge.
+1. Odprite edge://flags/#edge-click-once.
+1. Za možnost **ClickOnce podporo** spremenite vrednost iz  Privzeto ali **Onemogočeno** v **Omogočeno.**
+1. Na dnu okna brskalnika kliknite Znova **zaženi.** Sprememba bo veljati po vnovičnem zagonu Microsoft Edge.
 
-Če želite izvedeti več, glejte [Uporaba orodja za izvoz e-odkrivanje za Office 365 v brskalniku Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).
+Če želite izvedeti več, [glejte Uporaba orodja Office 365 za izvoz e-odkrivanja v Microsoft Edge.](https://go.microsoft.com/fwlink/?linkid=2111611)
