@@ -1,5 +1,5 @@
 ---
-title: Navodila za nadgradnjo za Teams
+title: Teams navodila za nadgradnjo
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333944"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095416"
 ---
-# <a name="microsoft-teams-upgrade"></a>Nadgradnja aplikacije Microsoft Teams
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams nadgradnja
 
-**Pomembno**: Če ste nadgradili iz storitve Skype za podjetja online v aplikacijo Microsoft Teams v načinu Teams only, vendar še niste pripravljeni, vam lahko pomagamo odpraviti to težavo s funkcijo za diagnostiko podpore. Prepričajte se, da uporabljate novo skrbniško središče tako, da Drsnite stikalo v zgornjem desnem kotu, ki pravi, da je **novo skrbniško središče**desno. Uporabite novo skrbniško središče, kliknite **potrebujete pomoč?** widget, vnesite "**Teams Upgrade**", nato pa sledite navodilom za zagon diagnostike.
+Ne glede na to, ali ste šele začeli uporabljati Teams, Teams že uporabljate skupaj s storitvijo Skype za podjetja ali ste pripravljeni na nadgradnjo, želimo zagotoviti, da imate vse potrebno za uspešno Teams. Več informacij najdete na spodnjih povezavah.
 
-Ne glede na to, ali ste šele začeli uporabljati Teams, ki že uporabljate Teams poleg Skype za podjetja, ali ste pripravljeni na nadgradnjo, vam želimo zagotoviti, da imate vse, kar potrebujete za krmarjenje po uspešnem potovanju v ekipe. Če želite več informacij, si oglejte spodnje povezave.
+[Uvod v nadgradnjo Microsoft Teams nadgradnjo](/MicrosoftTeams/upgrade-start-here)
 
-[Uvod v nadgradnjo aplikacije Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[Načrtovanje nadgradnje](/MicrosoftTeams/upgrade-plan-journey)
 
-[Načrtovanje nadgradnje](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[Razumevanje Microsoft Teams in Skype za podjetja soobstoja](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[Razumevanje soobstoja aplikacije Microsoft Teams in Skype za podjetja](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[Nadgradnja iz storitve Skype za podjetja Online v Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[Izvajanje nadgradnje iz storitve Skype za podjetja online v Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[Izvajanje nadgradnje iz storitve Skype za podjetja na mestu uporabe v aplikaciji Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[Izvajanje nadgradnje z Skype za podjetja na mestu uporabe na Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[Preverjanje stanja Skype za podjetja online za nadgradnjo ekip z lupino PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[Preverjanje stanja storitve Skype za podjetja Online za nadgradnjo Teams z lupino PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
