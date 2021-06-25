@@ -13,18 +13,24 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 56936541c52e56d7aa9b0f5dad7b9a359c5b6185
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 3b07dd4ccc8570e77a9ce30df48f9ac987a1db71
+ms.sourcegitcommit: 93292c46464ac94971d11adfb808d066ab8bc406
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809671"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "53117999"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email"></a>Nastavite večfunkcijsko napravo ali aplikacijo za pošiljanje e-pošte
 
-Več informacij o možnostih in navodila najdete v članku [Nastavitev večfunkcijske naprave ali aplikacije za pošiljanje e-pošte z okoljem Microsoft 365](https://docs.microsoft.com/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
+Več informacij o možnostih in navodila najdete v članku [Nastavitev večfunkcijske naprave ali aplikacije za pošiljanje e-pošte z okoljem Microsoft 365](/Exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365).
   
-**Opomba:** če imate napravo ali aplikacijo, ki je nedavno prenehala delovati, je to morda zaradi tega, ker smo v okviru načrtov začeli [onemogočati šifro 3DES](https://docs.microsoft.com/microsoft-365/compliance/technical-reference-details-about-encryption). Če si želite ogledati prizadete naprave, pojdite na[ Poročilo o odjemalcih s preverjanjem pristnosti SMTP Auth](https://protection.office.com/mailflow/dashboard). Med pogostimi napakami so: napaka pri preverjanju pristnosti, napaka protokola TLS, napaka algoritma šifre, neujemanje algoritma ali prekinjena povezava. Za odpravo težave:
+Če imate napravo ali aplikacijo, ki je nedavno prenehala delovati, so najpogostejše težave:
 
- - **Sistem Windows Server 2003 IIS SMTP ne bo več deloval. Potrebujete novo različico sistema Windows.**  
- - Pri dobavitelju aplikacije ali naprave preverite, ali je podprta sodobna šifra oz. ali je na voljo posodobitev.
+- **Napake, povezane s preverjanjem pristnosti pri uporabi pošiljanja SMTP Auth odjemalca** Nedavno smo naredili nekaj sprememb, povezanih z načinom dela preverjanja pristnosti SMTP. Če želite več informacij o odpravljanju težav, glejte razdelek o neuspešnem preverjanju pristnosti v razdelku Odpravljanje težav s tiskalniki, optičnimi bralniki in programi LOB, ki pošiljajo e-pošto s programom [Microsoft 365 ali Office 365.](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off#error-authentication-unsuccessful)
+- **Sprejemamo le različico TLS 1.2, medtem ko pripravljamo varno povezavo za Office 365** Če uporabljate varno povezavo (TLS), se prepričajte, da vaša naprava aplikacije podpira TLS 1.2. Če želite več informacij, [glejte Priprava na TLS 1.2](/microsoft-365/compliance/prepare-tls-1.2-in-office-365)v Office 365 in Office 365 GCC.
+ 
+Če želite druge težave in rešitve, glejte Odpravljanje težav s tiskalniki, optičnimi bralniki in aplikacijami LOB, ki pošiljajo e-pošto [s Microsoft 365 ali s Office 365.](/Exchange/mail-flow-best-practices/fix-issues-with-printers-scanners-and-lob-applications-that-send-email-using-off)
+
+Če si želite ogledati prizadete naprave, pojdite na[ Poročilo o odjemalcih s preverjanjem pristnosti SMTP Auth](https://protection.office.com/mailflow/dashboard).
+
+**Opomba:** Exchange Online primeri množične pošte niso na voljo. Če želite poslati množično komercialno e-pošto (na primer glasila strank), uporabite tretje ponudnike, ki so posebni za te storitve.
