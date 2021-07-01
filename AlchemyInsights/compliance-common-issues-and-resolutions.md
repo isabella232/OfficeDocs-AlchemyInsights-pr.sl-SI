@@ -12,29 +12,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: 010d9e6b3a4bedb5b8649ece6eaa3d857883c729
-ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
+ms.openlocfilehash: b6d2ff60548cfb578b30890cba069f67515e9c05
+ms.sourcegitcommit: d6b1e4c843206d1977af861542f139d7a5042de7
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "52470219"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "53195500"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>Skladnost pogostih težav in resolucij
 
-Če želite pomoč za ogled opozoril, glejte [Pravilniki za opozorila v središču za varnost in skladnost s predpisi.](/microsoft-365/compliance/alert-policies.md)
+Če želite pomoč za ogled opozoril, glejte [Pravilniki za opozorila v središču za varnost in skladnost s predpisi.](/microsoft-365/compliance/alert-policies)
 
 Tukaj je nekaj pogostih zahtevanih tem za skladnost s predpisi:
 
-- Konfiguracija arhiva in sporočil, ki se ne premaknejo samodejno v arhiv: Če želite [omogočiti Arhiv, nastavite pravilnika arhiviranja](/microsoft-365/compliance/enable-archive-mailboxes.md) in [Povečati velikost arhiviranja](/microsoft-365/compliance/enable-unlimited-archiving.md).
+- Konfiguracija arhiva in sporočil, ki se ne premaknejo samodejno v arhiv: Če želite [omogočiti Arhiv, nastavite pravilnika arhiviranja](/microsoft-365/compliance/set-up-an-archive-and-deletion-policy-for-mailboxes) in [Povečati velikost arhiviranja](/microsoft-365/compliance/enable-unlimited-archiving).
 
-- Pravilniki o hranjenju: vprašanja glede [izračun starosti hranjenja](/exchange/security-and-compliance/messaging-records-management/retention-age.md), [dodajte ali odstranite oznake za hranjenje](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags.md), [z uporabo pravilnikov o hranjenju v središču za varnost in skladnost s predpisi](/microsoft-365/compliance/retention-policies.md) za ohranitev ali brisanje vsebine.
+- Pravilniki o hranjenju: vprašanja glede [izračun starosti hranjenja](/exchange/security-and-compliance/messaging-records-management/retention-age), [dodajte ali odstranite oznake za hranjenje](/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags), [z uporabo pravilnikov o hranjenju v središču za varnost in skladnost s predpisi](/exchange/security-and-compliance/messaging-records-management/create-a-retention-policy) za ohranitev ali brisanje vsebine.
 
-- Nastavitev EDiscovery in iskanje vsebine in izvoz: [iskanje vsebine](/microsoft-365/compliance/search-for-content.md) in [izvozite rezultate iskanja](/microsoft-365/compliance/export-search-results.md).
+- Nastavite e-odkrivanje in iskanje vsebine ter izvoz: iskanje [vsebine in](/microsoft-365/compliance/content-search) izvoz [rezultatov iskanja.](/microsoft-365/compliance/export-search-results)
 
-- Nadzor v O365: [dnevnik nadzora iskanja v O365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance.md).
+- Nadzor v O365: [dnevnik nadzora iskanja v O365](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
 
-- Preprečevanje izgube podatkov (DLP): Če želite več informacij, glejte [pregled preprečevanja izgub podatkov (DLP)](/microsoft-365/compliance/data-loss-prevention-policies.md).
+- Preprečitev izgube podatkov(DLP): če želite več informacij, glejte Pregled preprečevanja izgube podatkov [(DLP).](/microsoft-365/compliance/data-loss-prevention-policies)
  
-- Oznake občutljivosti: Če želite izvedeti več, glejte Ustvarjanje in [konfiguracija oznak občutljivosti in njihovih pravilnikov.](/microsoft-365/compliance/create-sensitivity-labels.md)
+- Oznake občutljivosti: Če želite izvedeti več, glejte Ustvarjanje in [konfiguracija oznak občutljivosti in njihovih pravilnikov.](/microsoft-365/compliance/create-sensitivity-labels)
+
+- Ogled pravilnikov opozoril: [Glejte Pravilniki za opozorila v Središče za skladnost okolja Microsoft 365.](/microsoft-365/compliance/alert-policies)
+
+- Complicance center permisions: See [Permissions in the Središče za skladnost okolja Microsoft 365](/microsoft-365/compliance/microsoft-365-compliance-center-permissions).
 
 **Opomba**: Če želite natančnejši odgovor o težavi s skladnostjo s predpisi, na kratko preoblikujte vprašanje in vključite morebitne napake, ki jih vidite, ali funkcije, ki jih uporabljate.

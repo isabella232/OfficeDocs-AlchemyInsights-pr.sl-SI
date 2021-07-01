@@ -1,5 +1,5 @@
 ---
-title: 955 kako konfigurirati MFA
+title: 955 Konfiguracija storitve MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,15 +12,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: f2431c33f4114ea0f6774aac45bc095402eecd8c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f535ddf697925b56ba8d72c0e68ed320bd8ea11
+ms.sourcegitcommit: cc7c443f23deede96de9532888e0e009430e61a4
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704469"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53218790"
 ---
-# <a name="configure-multi-factor-authentication"></a>Konfiguracija avtentikacije v več dejavnikih
+# <a name="configure-multi-factor-authentication"></a>Konfiguracija večkratnega preverjanja pristnosti
 
-Če želite konfigurirati funkcijo MFA, glejte [Nastavitev več dejavnikov preverjanja pristnosti](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication).
+Če želite konfigurirati storitev MultiFA, [glejte Nastavitev storitve Multi-Factor Authentication](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) ali Skrbniško središče za Microsoft 365 [vodnika za namestitev](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/mfasetupguide:)storitve .
 
-Upoštevajte, da morate biti globalni skrbnik, da omogočite in konfigurirate MFA.
+**Opomba:** Če želite omogočiti in konfigurirati storitev MFA, morate biti globalni skrbnik.
