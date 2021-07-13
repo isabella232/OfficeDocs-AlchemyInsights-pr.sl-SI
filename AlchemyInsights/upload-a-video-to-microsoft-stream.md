@@ -1,7 +1,7 @@
 ---
-title: Prenos videoposnetka v Microsoft Stream
-ms.author: cmcatee
-author: cmcatee-MSFT
+title: Upload videoposnetka v Microsoft Stream
+ms.author: pebaum
+author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5093"
-ms.openlocfilehash: 77a172462eef60c88c45e5ef0b6eb48f3b0af60a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4b4b5043d9cb3aaffd1546676d2cb805c4db3c38
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782491"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389341"
 ---
-# <a name="upload-a-video-to-microsoft-stream"></a>Prenos videoposnetka v Microsoft Stream
+# <a name="upload-a-video-to-microsoft-stream"></a>Upload videoposnetka v Microsoft Stream
 
 Prenos videoposnetkov s storitvijo Microsoft Stream je preprost in vsakdo lahko to stori.
 
-- [Prenos videoposnetka](https://docs.microsoft.com/stream/portal-upload-video)
+- [Upload videoposnetka](/stream/portal-upload-video)
