@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539660"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532271"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Kako objaviti oznako občutljivosti
 
-1. Pojdite v središče za Office 365 za & s predpisi in >  >  **občutljivosti razvrstitev.**
+1. Obiščite središče za Microsoft 365 s predpisi in > **oznake**  >  **podatkov.**
 
-1. Na strani Oznake občutljivosti izberite zavihek **Pravilniki oznak in** nato Objavi **oznake.**
+1. Izberite **+ objavi oznako,** da zaženete čarovnika za novo oznako občutljivosti.
 
 1. Izberite **Izberite oznake občutljivosti, ki jih želite objaviti.** Izberite nalepke, ki naj bodo na voljo v aplikacijah in storitvah, nato pa izberite **Dodaj**.
 

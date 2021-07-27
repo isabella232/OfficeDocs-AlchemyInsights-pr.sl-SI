@@ -1,5 +1,5 @@
 ---
-title: Dodajanje skupine na SharePointovo mesto
+title: Dodajanje skupine na SharePoint mestu
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,27 +9,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "5200004"
+- "5766"
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 9bec2f71465e43e1c3cba038e0e68949672ceb8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 396efbf9772b5398427a4fcc76e104fa95820af6
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771224"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532235"
 ---
-# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>Težave pri ustvarjanju spletnega mesta, ki je povezano s skupino v SharePointu
+# <a name="common-issues-when-creating-a-group-connected-site-in-sharepoint"></a>Pogoste težave pri ustvarjanju povezanega spletnega mesta skupine v SharePoint
 
-1. Nekaj pogostih težav, ki so se pojavile pri ustvarjanju ali vnovičnem ustvarjanju skupine, ki je povezano na mestu.
-Če ste izbrisali skupino in njeno povezano mesto in želite ustvariti drugo mesto z istim URL-jem, boste morali trajno odstraniti prejšnje mesto.
+1. Če ste izbrisali skupino in povezano spletno mesto ter želite ustvariti še eno mesto z istim URL-jem, boste morali trajno odstraniti prejšnje mesto.
 
-   - Prenesite [spo Management Shell](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
-   - Če želite več informacij o tem, kako začeti uporabljati PowerShell, glejte uvod [v storitev SharePoint online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
-   - Odstranite mesto iz izbrisanih mest z ukazom» cmdlet « [Remove-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) PowerShell. PowerShell je zahtevan za trajno brisanje mest skupine.
+   - Prenos [lupine za upravljanje SPO](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
+   - Če želite več informacij o tem, kako začeti uporabljati Powershell, [glejte Uvod v lupino za SharePoint Online.](/powershell/module/sharepoint-online/remove-sposite)
+   - Odstranite mesto z izbrisanih mest z ukazom »cmdlet« [Remove-SPODeletedSite](/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell. Če želite trajno izbrisati mesta skupine, potrebujete Powershell.
 
-1. Če ustvarjate spletno mesto skupine in prejmete opozorilo: **druga skupina z istim vzdevkom že obstaja**, preverite obstoječe skupine v [skrbniškem središču za Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Če želite odpraviti težavo, izbrišite obstoječo skupino, če ni več potrebna ali ustvarite mesto z drugim dodeljenim vzdevkom.
+1. Če ustvarjate spletno mesto, povezano s skupino, in prejmete **opozorilo:** Druga skupina z istim vzdevki že obstaja , preverite obstoječe skupine v [Skrbniško središče za Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/groups). Če želite odpraviti težavo, izbrišite obstoječo skupino, če je ne potrebujete več, ali pa ustvarite mesto z drugim vzdevki.
 
-1. V SharePointu lahko ustvarite in uporabljate različne načine za ustvarjanje in uporabo sodobnih skupin.
+1. Obstaja več načinov za ustvarjanje in uporabo sodobnih skupin v SharePoint.
 
-   - Obstoječa mesta lahko povežete s skupino Microsoft 365. Če želite več informacij, glejte [povezovanje skupine Microsoft 365 s SharePointovim uporabniškim vmesnikom](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
-   - Če želite ustvariti spletno mesto, ki je povezano s skupino Microsoft 365, morate ustvariti [spletno mesto skupine](https://admin.microsoft.com/sharepoint).
+   - Obstoječa mesta lahko povežete s skupino Microsoft 365 mest. Če želite več informacij, [Povezovalnik skupino Microsoft 365 prek SharePoint vmesnika](/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
+   - Če želite Microsoft 365 spletno mesto, povezano s skupino, morate ustvariti spletno [mesto skupine.](https://admin.microsoft.com/sharepoint)

@@ -1,5 +1,5 @@
 ---
-title: Izbriši spletno mesto skupine
+title: Brisanje spletnega mesta skupine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "567"
 - "5200006"
+- "7996"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 6087240b0615d4d0d6fcfdbbb77fdc15dbafd289
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 49b727ea5d08fff3101b3ab1d00631aaaa74f400
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745839"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532127"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Brisanje SharePointovega mesta, ki pripada skupini Microsoft 365
+# <a name="delete-a-sharepoint-site-that-belongs-to-a-microsoft-365-group"></a>Brisanje SharePoint mesta, ki pripada Microsoft 365 skupini
 
-Če izbrišete spletno mesto, ki je povezano s skupino, izbrišete skupino in vse njegove vire, vključno z Outlookovim nabiralnikom in koledarjem ter vsemi kanali za ekipe.
+Če izbrišete spletno mesto, povezano s skupino, izbrišete skupino in vse njene vire, vključno z nabiralnikom in koledarjem Outlook in vsemi Teams kanali.
   
-Pomembne
+Pomembno:
 
-- Izbrisana mesta lahko obnovite za 93 dni. Izbrisane skupine morajo biti obnovljene v 30 dneh. [Prikažite in obnovite izbrisana mesta](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) neposredno v skrbniškem središču za SharePoint. Če [si želite ogledati in obnoviti **izbrisane skupine**](https://outlook.office.com/people/group/deleted), izberite **Upravljaj skupine**in nato kliknite **Izbrisano**.
-- Če je mesto del pravilnika o hranjenju, ga morda ne boste mogli izbrisati, dokler ne odstranite mesta iz [skrbniškega središča za varnost & skladnost s predpisi](https://protection.office.com/?rfr=AdminCenter#/retention). Če želite več informacij, glejte [pregled pravilnikov o hranjenju](https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- Izbrisana mesta lahko obnovite 93 dni. Izbrisane skupine morajo biti obnovljene v 30 dneh. [Oglejte si izbrisana mesta in jih obnovite](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) SharePoint skrbniškem središču. Če si [želite ogledati **in obnoviti izbrisane**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/deletedgroups)skupine, **izberite Upravljanje skupin**, nato pa **izberite Izbrisano**.
+- Če je mesto del pravilnika o hranjenju, ga morda ne boste mogli izbrisati, dokler mesto ne bo odstranjeno iz Skrbniškega [središča za &](https://protection.office.com/?rfr=AdminCenter#/retention)s predpisi. Če želite več informacij, glejte [Pregled pravilnikov o hranjenju.](/microsoft-365/compliance/retention-policies)
   
-Če želite več informacij, glejte [upravljanje spletnih mest v novem skrbniškem središču za SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+Če želite več informacij, glejte [Upravljanje mest v novem skrbniškem SharePoint za Office 365.](/sharepoint/manage-sites-in-new-admin-center)
