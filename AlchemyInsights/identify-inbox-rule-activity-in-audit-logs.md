@@ -1,5 +1,5 @@
 ---
-title: Prepoznavanje dejavnosti pravila mape» Prejeto «v dnevnikih nadzora
+title: Prepoznavanje dejavnosti pravila nabiralnika v dnevnikih nadzora
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779067"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630193"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Prepoznavanje dejavnosti pravila mape» Prejeto «v dnevnikih nadzora
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>Prepoznavanje dejavnosti pravila nabiralnika v dnevnikih nadzora
 
-Z iskanjem dnevnika nadzora v središču za varnost & skladnost s predpisi Microsoft 365 si lahko ogledate dogodke pravila za mapo» Prejeto «(ustvarjanje, spreminjanje in brisanje pravil za mapo» Prejeto «).
+Z iskanjem v dnevniku nadzora v središču za varnost in skladnost & s predpisi storitve Microsoft 365 si lahko ogledate dogodke pravila nabiralnika (ustvarjanje, spreminjanje in brisanje pravil nabiralnika).
 
-1. Prijavite se v središče za preverjanje [varnosti & za skladnost s predpisi Microsoft 365](https://protection.office.com/).
+1. Prijavite se v središče [za Microsoft 365 s predpisi.](https://protection.office.com/)
 
-2. Pojdite na stran **Search**  >  **iskanje dnevnika nadzora** iskanja.
+2. Pojdite na stran **iskanja**  >  **v dnevniku nadzora** iskanja.
 
-3. Izberite datumski obseg v poljih **Začetni datum** in **končni datum** .
+3. Izberite datumski obseg v **poljih Začetni datum** in **Končni** datum.
 
-4. V razdelku **dejavnosti nabiralnika v storitvi Exchange**preverite, ali je polje **dejavnosti** nastavljeno na **novo InboxRule ustvarjanje/spreminjanje/omogoči/onemogoči pravilo mape» Prejeto «**.
+4. V **Exchange nabiralnika** preverite,  ali je polje Dejavnosti nastavljeno na **New-InboxRule Create/modify/enable/disable Inbox rule**.
 
-5. Kliknite **Išči**.
+5. Kliknite **Iskanje.**
 
-V rezultatih Izberite zapis nadzora. V razdelku podrobnosti flyout kliknite **več informacij**. Informacije o nastavitvah pravil za mapo» Prejeto «so prikazane v polju» **Parametri** «.
+Med rezultati izberite zapis nadzora. V oknu s podrobnostmi kliknite **Več informacij.** Informacije o nastavitvah pravila za mapo »Prejeto« so prikazane v **polju Parametri.**
 
-Če želite več informacij, glejte [določanje, ali je uporabnik ustvaril pravilo za mapo» Prejeto «](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+Če želite več informacij, glejte [Določanje, ali je uporabnik ustvaril pravilo za mapo »Prejeto«](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)

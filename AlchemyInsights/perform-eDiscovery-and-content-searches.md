@@ -1,5 +1,5 @@
 ---
-title: 1488 – iskanje z E-odkrivanje in vsebino
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668530"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630229"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Kako izvesti iskanja po vsebini in E-odkrivanje iskanja
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Izvajanje iskanih vsebin in iskanih z e-odkrivanjem
 
-**Če želite izvesti iskanje po vsebini**:
+**Če želite izvesti iskanje vsebine:**
 
-1. Pojdite v [središče za skladnost varnostnega &](https://protection.office.com) in se vpišite.
-2. Kliknite **išči > iskanje vsebine**.
-3. Kliknite **novo iskanje** , če želite ustvariti novo iskanje.
-4. Vnesite zahtevane pogoje iskanja, vključno s ključnimi besedami in lokacijami vsebine.
-5. Kliknite **shrani & Zaženi** , če želite poimenovati iskanje, ga začeti in nato predogledati rezultate.
+1. Obiščite središče Microsoft 365 za skladnost s predpisi in se vpišite.
+2. Izberite **Iskanje > Iskanje vsebine.**
+3. Izberite **Novo iskanje,** da ustvarite novo iskanje.
+4. Vnesite zahtevane pogoje iskanja, vključno s ključnimi besedami in mesti vsebine.
+5. Izberite **Shrani &, da** poimenate iskanje, ga zaženete in si nato ogledate predogled rezultatov.
 
 > [!NOTE]
-> V **središču za skladnost M365** v razdelku **rešitve** izberite razširi **E-odkrivanje** in izberite želeno orodje e-odkrivanje.
+> V **Microsoft 365 za skladnost s** predpisi  >  **razširite** **e-odkrivanje** in izberite želeno orodje za e-odkrivanje.
 
-Če želite podrobna navodila o iskanju vsebin, izvozu rezultatov in ustvarjanju E-odkrivanje primerov za zadržanje podatkov, si oglejte [Iskanje vsebine](https://docs.microsoft.com/microsoft-365/compliance/content-search) in [e-odkrivanje primerov](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+Če želite podrobna navodila o iskanju vsebine, izvažanju rezultatov in [](/microsoft-365/compliance/content-search) ustvarjanju primerov e-odkrivanja za zadržanje podatkov, glejte Primeri iskanja po vsebini in [e-odkrivanja.](/microsoft-365/compliance/ediscovery-cases)
 
-**Več informacij**:
+**Več informacij:**
 
-- Če želite več informacij o orodjih za E-odkrivanje v storitvi Microsoft 365, glejte [e-odkrivanje](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
-- Preberite več o dovoljenjih, zahtevah in omejitvah, ki so potrebne za izvajanje E-odkrivanje iskanj iz dovoljenj, ki jih [zahteva e-odkrivanje iskanja](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) in [zahteve ter omejitve](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search).
-- Če odpravljate težave z E-odkrivanje, si oglejte [E-odkrivanje odpravljanje težav s pogostimi vprašanji](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) in [preiskovanje delno indeksiranih elementov](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery).
+- Če želite več informacij o orodjih za e-Microsoft 365, glejte [e-odkrivanje.](/microsoft-365/compliance/ediscovery)
+- Seznanite se z dovoljenji, zahtevami in omejitvami, ki [](/microsoft-365/compliance/assign-ediscovery-permissions) so potrebne za izvajanje iskanih e-odkrivanja v dovoljenjih, zahtevanih za iskanja e-odkrivanje, ter zahteve in [omejitve.](/microsoft-365/compliance/limits-for-content-search)
+- Če odpravljate težave z e-odkrivanjem, glejte Odpravljanje pogostih težav z [e-odkrivanjem](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) in [preiskovanje delno indeksirane elemente.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)

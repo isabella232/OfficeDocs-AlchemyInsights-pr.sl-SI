@@ -13,27 +13,27 @@ ms.custom:
 - "1370"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: bc78076706aee15a3133c4b1a89064591f790b58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7dd9c98bd45c29702fbc6cc14bf82bf7bce7d89d
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696529"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630085"
 ---
 # <a name="audit-logs-for-deleted-email-messages"></a>Dnevniki nadzora za izbrisana e-poštna sporočila
 
-Z začetkom januarja 2019 se Microsoft samodejno vklopi v dnevnik nadzora nabiralnika. V nasprotnem primeru za pregled brisanja dogodkov sporočila za določenega uporabnika morate ročno omogočiti dejanja brisanja za nadzor. Če je pisanje dnevnika nadzora nabiralnika že omogočeno za vašo organizacijo ali za določenega uporabnika, upoštevajte spodnja navodila.
+Od januarja 2019 Microsoft privzeto vklanja pisanje dnevnika nadzora nabiralnika. Če želite pregledati dogodke sporočila za določenega uporabnika, morate ročno omogočiti dejanja brisanja za nadzor. Če je pisanje dnevnika nadzora nabiralnika že omogočeno za vašo organizacijo ali za določenega uporabnika, upoštevajte spodnja navodila.
 
-1. Prijavite se v [središče za varnost & skladnost s predpisi Microsoft 365](https://protection.office.com/)
+1. Prijavite se v središče [za Microsoft 365 s predpisi](https://protection.office.com/)
 
-2. Kliknite **iskanje in preiskovanje** in izberite **iskanje dnevnika nadzora**.
+2. Kliknite **Iskanje in raziskovanje in** izberite Iskanje v **dnevniku nadzora.**
 
-3. Izberite datumski obseg v poljih **Začetni datum** in **končni datum** . Določite uporabniško ime za uporabnika, ki ga želite raziskati (uporabnik, ki je izbrisal elemente). V polju **dejavnosti** izberite **izbrisana sporočila iz mape» Izbrisano «** in **premaknjena sporočila v mapo» Izbrisano «**.
+3. Izberite datumski obseg v **poljih Začetni datum** in **Končni** datum. Določite uporabniško ime za uporabnika, ki ga želite raziskati (uporabnik, ki je izbrisal elemente). V polju **Dejavnosti** izberite Izbrisana sporočila **iz mape Izbrisano** in Premaknjena sporočila v mapo **Izbrisano.**
 
-4. Kliknite **Išči**.
+4. Kliknite **Iskanje.**
 
-V rezultatih Izberite zapis nadzora. V razdelku podrobnosti flyout kliknite **več informacij**. Dodatne informacije o izbrisanem elementu (na primer vrstica z zadevo in lokacija elementa, ko je bila izbrisana) je prikazana v polju» **AffectedItems** «. Lastnost **ClientInfoString** se prikaže, če je prišlo do brisanja v Outlooku, Outlooku v spletu (prej znan kot Outlook Web App) ali kateri koli drugi napravi.
+Med rezultati izberite zapis nadzora. V oknu s podrobnostmi kliknite **Več informacij.** Dodatne informacije o izbrisanem elementu (na primer vrstica z zadevo in mesto elementa, ko je bil izbrisan) so prikazane v polju **AffectedItems.** Lastnost **ClientInfoString** bo pokazala, če se je brisanje zgodilo v Outlook, Outlook v spletu (prej imenovani Outlook Web App) ali kateri koli drugi napravi.
 
-Če želite več informacij, glejte [določanje, kdo je nastavil posredovanje e-pošte za nabiralnik](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items).
+Če želite več informacij, glejte [Določanje, kdo je nastavil posredovanje e-pošte za nabiralnik.](/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-if-a-user-deleted-email-items)
 
-**Opomba**: izbrisanih elementov ne morete pridobiti s funkcijo dnevnika nadzora. Če želite pridobiti izbrisana sporočila v Outlooku v spletu, [si oglejte obnovitev izbrisanih elementov v programu Outlook Web App](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4).
+**Opomba:** Izbrisanih elementov ne morete pridobiti s funkcijo dnevnika nadzora. Če želite izbrisana sporočila pridobiti Outlook v spletu programu, glejte [Obnovitev izbrisanih elementov Outlook programu Web App.](https://support.office.com/article/C3D8FC15-EEEF-4F1C-81DF-E27964B7EDD4)
