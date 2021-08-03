@@ -1,8 +1,10 @@
 ---
-title: Nakup Power bi
+title: Nakup storitve Power BI
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, drjones
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,26 +12,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "9002564"
 - "4961"
-ms.openlocfilehash: ec8e44bf634eb8393e26767dc153e7e404af54d1
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: c802485272c20d21201c76ce5986834ae45e1ea0
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50602056"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686434"
 ---
-# <a name="purchase-power-bi"></a>Nakup Power bi
+# <a name="purchase-power-bi"></a>Nakup storitve Power BI
 
-Power bi je mogoče kupiti v **skrbniškem središču za Microsoft 365**.
+Power BI lahko kupite v **Skrbniško središče za Microsoft 365**.
 
-1. Pojdite na stran za **obračunavanje > [storitev nakupa](https://go.microsoft.com/fwlink/p/?linkid=868433)** .
-2. Uporabite iskalno polje, da poiščete» Power bi «.
-3. Izberite paket Power bi, ki ga želite kupiti, izberite» **podrobnosti**«in nato» **kupi**«.
-4. Vnesite število licenc, ki jih potrebujete, in izberite, ali želite plačati vsak mesec ali celo leto. Izberite, ali želite samodejno dodeliti licence vsem, ki trenutno nimajo licence. Nato izberite **Rezerviraj zdaj**.
-5. Preglejte informacije o cenah in izberite **naprej**.
-6. Ponudite podatke o plačilu in nato izberite **postavi naročilo**  >  **Pojdi na domačo stran skrbnika**.
+1. Pojdite na stran **Obračunavanje > [nakup storitev.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
+2. V iskalnem polju poiščite »Power BI«.
+3. Izberite paket Power BI, ki ga želite kupiti, izberite **Podrobnosti** in nato **Nakup**.
+4. Vnesite število licenc, ki jih potrebujete, in izberite, ali želite plačevati mesečno ali za celo leto. Izberite, ali želite licence samodejno dodeliti vsem uporabnikom, ki trenutno nima licence. Nato izberite **Oglejte si zdaj.**
+5. Preglejte informacije o cenah in izberite **Naprej**.
+6. Navedite podatke o plačilu, nato pa izberite **Odneša naročilo**  >  **Pojdite na domačo stran za skrbnike**.
 
-Če želite uporabnikom dodeliti licence, si oglejte [dodeljevanje licenc uporabnikom](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
+Če želite uporabnikom dodeliti licence, [glejte Dodeljevanje licenc uporabnikom.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
-Če želite kupiti več ali odstraniti licence, glejte [nakup ali odstranjevanje licenc za naročnino na podjetje](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Če želite kupiti več licenc ali jih odstraniti, [glejte Nakup ali odstranjevanje licenc za naročnino za podjetja.](/microsoft-365/commerce/licenses/buy-licenses)

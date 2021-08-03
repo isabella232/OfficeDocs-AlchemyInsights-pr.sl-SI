@@ -3,6 +3,8 @@ title: Obračunavanje in plačilo
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820410"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686902"
 ---
 # <a name="billing-and-payment"></a>Obračunavanje in plačilo
 
@@ -35,27 +38,27 @@ Na strani **Obvestila** o obračunavanju obračunavanja lahko vklopite to funkci
 
 Če ste dodali novo kartico in še vedno dobivate obvestilo o zavrnini za staro kreditno kartico, boste morda morali to novo kartico povezati z naročnino.
 
-1. V skrbniškem središču odprite stran **Računi za**  >  **obračunavanje & načine**  >  [plačila.](https://go.microsoft.com/fwlink/p/?linkid=2018806)
+1. V Skrbniškem središču odprite stran **Obračunavanje** > **Računi in plačila** > [Načini plačila](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-2. Izberite vrstico načina plačila, ki ga želite zamenjati. V desnem podoknu so navedeni vsi profili za obračunavanje in posamezne naročnine, ki uporabljajo izbrani način plačila.
+2. Izberite vrstico plačilnega sredstva, ki ga želite zamenjati. V desnem podoknu so navedeni vsi profili za obračunavanje in posamezne naročnine, ki uporabljajo izbrani način plačila.
 
-3. V desnem podoknu izberite **Zamenjaj način plačila za vse artikle.**
+3. V desnem podoknu izberite **Zamenjaj plačilno sredstvo za vse izdelke**.
 
-4. Če želite uporabiti obstoječi način plačila, ga izberite na spustnem seznamu, nato pa izberite **Zamenjaj**.
+4. Če želite uporabiti obstoječe plačilno sredstvo, ga izberite na spustnem seznamu in izberite **Zamenjaj**.
 
     > [!NOTE]
-    > Če imate naročnine, povezane s profilom za obračunavanje, lahko za plačilo uporabite le kreditno ali debetno kartico. Če so na strani Načini plačila **navedeni bančni računi,** jih ni mogoče izbrati na spustnem seznamu.
+    > Če so vaše naročnine povezane s profilom za obračunavanje, jih lahko plačate samo s kreditno ali debetno kartico. Če imate na strani **Načini plačila** navedene bančne račune, jih na spustnem seznamu ni mogoče izbrati.
 
-5. Če želite dodati nov način plačila, izberite **Dodaj način plačila**.
+5. Če želite dodati novo plačilno sredstvo, izberite **Dodajanje načina plačila**.
 
-6. V **podoknu Dodaj način plačila** vnesite podatke o računu, nato pa izberite **Shrani**. Uporabiti morate način plačila iz iste države kot vaš najemnik.
+6. V podokno **Dodaj način plačila** vnesite podatke o računu in izberite **Shrani**. Uporabiti morate način plačila iz iste države kot vaš najemnik.
 
-7. Novi način plačila je že izbran na spustnem seznamu. Izberite **Zamenjaj**.
+7. Nov način plačila je že izbran na spustnem seznamu. Izberite **Nadomesti**.
 
-Če želite več informacij, glejte [Upravljanje načinov plačila.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Za več informacij glejte [Upravljanje načinov plačila](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frekvenca obračunavanja**
 
 Računi se ustvarijo mesečno ali letno, odvisno od pogostosti obračunavanja, izbrane ob 23.00.2007.  
 
-**Opomba:** Naročila z letnim obračunavanjem lahko prejmejo sredino obračuna, če so bile narejene spremembe, kot je dodajanje ali odstranjevanje licenc. [Spremenite pogostost obračunavanja.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Opomba:** Naročila z letnim obračunavanjem lahko prejmejo sredino obračuna, če so bile narejene spremembe, kot je dodajanje ali odstranjevanje licenc. [Spremenite pogostost obračunavanja.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
