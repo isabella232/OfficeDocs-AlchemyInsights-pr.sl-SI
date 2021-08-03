@@ -3,6 +3,7 @@ title: Stanje naročnine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,18 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "9001519"
 - "3586"
-ms.openlocfilehash: 262bafc9354e14c45eeda974cc9824be24f9d502
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 9d26786b1d1643278b50d25fd52f8eb46b4cfbef
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542801"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689566"
 ---
 # <a name="subscription-status"></a>Stanje naročnine
 
-Stanje naročnine, datum poteka in število licenc lahko najdete na strani Vaši **izdelki** v skrbniškem središču za Microsoft 365 podjetja.
+Stanje naročnine, datum poteka in število licenc so na voljo na **strani Vaši izdelki** na Skrbniško središče za Microsoft 365.
 
 1. V skrbniškem središču odprite stran  >  [Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **zavihku** Izdelki so privzeto prikazane vse naročnine in njihovo stanje (Aktivno, Poteklo, Onemogočeno ali Izbrisano). Če želite videti podnabor vseh naročnin, izberite ikono filtra in nato izberite stanje naročnine, **ki** si ga želite ogledati.

@@ -1,8 +1,9 @@
 ---
-title: Privzeto podaljšanje subsscription
+title: Privzeto podaljšanje podpisane naročnine
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,25 +11,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "3043"
 - "1500012"
-ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 9bf0273fc2f0ca653750d037f022c5bf367bf23a
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416619"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689314"
 ---
 # <a name="renewing-your-subscription"></a>Podaljšanje naročnine
 
-Če plačate s kreditno kartico ali bančnim računom, je ponavljajoče se obračunavanje privzeto vklopljeno. Ko je ponavljajoče se obračunavanje vklopljeno, bo vaša naročnina še naprej zaračunana vsako leto na dan, ko ste naročeni. Če je vaša naročnina aktivna, jo lahko izklopite ali znova vklopite v skrbniškem središču.
+Če plačujete s kreditno kartico ali z nakazilom na bančni račun, je ponavljajoče se obračunavanje privzeto vklopljeno. Če je ponavljajoče se obračunavanje prikazano, bo naročnina vsako leto obračunana na dan, ko ste se naročili. Če je vaša naročnina aktivna, jo lahko v skrbniškem središču izklopite ali znova vklopite.
 
-Če ste naročnino že plačali s ključem izdelka, bo vaša naročnina potekla ob koncu obdobja naročnine. Vklopite lahko ponavljajoče se obračunavanje in zagotovite podatke o kreditni kartici ali bančnem računu, tako da bo vaša naročnina še naprej zaračunana vsako leto na dan, ko ste naročeni.
+Če ste naročnino predplačani s ključem izdelka, bo vaša naročnina potekla na koncu obdobja veljavnosti naročnine. Vklopite lahko ponavljajoče se obračunavanje in vklopite podatke kreditne kartice ali bančnega računa, da bo vaša naročnina obračunana vsako leto na dan, ko ste se naročili.
 
-Če želite vklopiti ponavljajoče se obračunavanje:
+Ponavljajoče se obračunavanje vklopite tako:
 
-1. V skrbniškem središču pojdite na stran **obračunavanje**  >  [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. Na zavihku **izdelki** izberite naročnino, ki jo želite spremeniti.
-3. Na strani podrobnosti naročnine v razdelku **Nastavitve naročnine in plačila**izberite **Uredi ponavljajoče se obračunavanje**.
-4. V podoknu» **Urejanje ponavljajočih se nastavitev obračunavanja «** izberite **vklopljeno**, **vklopljeno, hkrati pa podaljšanje**ali izklop. **Turn off**
+1. V skrbniškem središču odprite stran  >  [Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. Na **zavihku** Izdelki izberite naročnino, ki jo želite spremeniti.
+3. Na strani s podrobnostmi naročnine v razdelku Nastavitve **naročnine in plačila** izberite Uredi **ponavljajoče se obračunavanje.**
+4. V **podoknu Urejanje nastavitev ponavljajočega se obračunavanja** izberite **Vklop** **, Vklop, vendar samo enkrat** ali **Izklopi**.
 5. Izberite **Shrani**. 

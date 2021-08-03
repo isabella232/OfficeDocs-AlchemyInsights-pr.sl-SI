@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002252"
 - "4365"
-ms.openlocfilehash: 8da057d33e6b733e3aeb899a5da97f83b96ea893
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 127a7f8f00843e5e6d6a833a7f3e39d8b73da7f2
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51801463"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688342"
 ---
 # <a name="port-existing-numbers-to-teams"></a>Prenos obstoječih števil v aplikacijo Teams
 
-Če imate trenutno ponudnika telefonskih storitev ali operaterja in že imate telefonske številke za svoje uporabnike ali storitve, morate ustvariti »naročilo prenosa« za prenos teh telefonskih številk v Microsoft Teams.
+Če imate trenutno ponudnika telefonskih storitev ali operaterja in že imate telefonske številke za svoje uporabnike ali storitve, morate ustvariti »naročilo prenosa« za prenos teh telefonskih številk v Microsoft Teams.  
 
-- Če želite izvedeti, kako dokončate prenos, glejte [Prenos telefonskih številk v aplikacijo Teams](https://docs.microsoft.com/microsoftteams/phone-number-calling-plans/transfer-phone-numbers-to-teams). 
+Če želite ustvariti novo naročilo za prenos ali preveriti obstoječega, upoštevajte ta navodila: 
 
-- Če želite navodila za upravljanje telefonskih številk, glejte [Upravljanje telefonskih številk za organizacijo](https://docs.microsoft.com/microsoftteams/manage-phone-numbers-for-your-organization/manage-phone-numbers-for-your-organization). 
+1. Odprite skrbniško [središče Teams,](https://admin.teams.microsoft.com/phone-numbers) da odprete stran Telefon številke številk. 
 
-Če želite več informacij, glejte [Pregled naročila prenosa](https://docs.microsoft.com/MicrosoftTeams/phone-number-calling-plans/port-order-overview). 
+1. Izberite **povezavo Pridobite podporo za telefonsko številko**. 
+
+Če se želite neposredno poiskovati na podporo za telefonske [številke, Telefon storitvenega središča za številke](https://pstnsd.powerappsportals.com/).  

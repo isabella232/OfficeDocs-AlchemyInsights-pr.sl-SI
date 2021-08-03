@@ -1,8 +1,10 @@
 ---
-title: Začasna prekinitev ali začasna prekinitev licenc
+title: Začasno prekini ali začasno ustavi licence
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: nicholak, sinakassaw
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,25 +12,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: 03cee51b8f4c86e36004a91d25c8ad7798383ef5
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: d4eb4a9415a4d506be7edb9efd3d83208413e9f3
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601002"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53689350"
 ---
-# <a name="suspend-or-pause-licenses"></a>Začasna prekinitev ali začasna prekinitev licenc
+# <a name="suspend-or-pause-licenses"></a>Začasno prekini ali začasno ustavi licence
 
-**Oglejte si videoposnetek** , ki prikazuje, kako to naredite: [odstranjevanje obstoječih licenc](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+**OGLEJTE SI videoposnetek,** v ki prikazuje, kako to naredite: [Odstranjevanje obstoječih licenc](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-Če želite začasno prekiniti ali začasno prekiniti uporabo licence, lahko odstranite licence iz skrbniškega središča za Microsoft 365 in jih nato znova dodate pozneje.
+Če želite začasno prekiniti ali začasno prekiniti uporabo licenc, lahko licence odstranite iz Skrbniško središče za Microsoft 365 in jih nato znova dodate pozneje.
 
-1. Preden odstranite licence iz naročnine, morate najprej [odvzeti licence za uporabnike](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
-2. Nato pojdite na stran **obračunavanje**  >  [izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-3. Na zavihku **izdelki** izberite naročnino, ki jo želite posodobiti.
-4. Na strani podrobnosti naročnine izberite **Odstrani licence**.
-5. V podoknu **Odstrani licence** v polje **skupne licence** vnesite skupno število licenc, ki jih želite za to naročnino, nato pa izberite **Shrani**. Če imate na primer licence za 100 in želite začasno prekiniti ali začasno ustaviti 25, vnesite 75 kot skupne licence za naročnino.
+1. Preden odstranite licence iz naročnine, morate najprej uporabnikom [odstraniti](/microsoft-365/admin/manage/remove-licenses-from-users)licence.
+2. Nato pojdite na stran  >  [Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+3. Na **zavihku** Izdelki izberite naročnino, ki jo želite posodobiti.
+4. Na strani s podrobnostmi naročnine **izberite Odstrani licence.**
+5. V **podoknu Odstranjevanje** licenc v **polje** Skupno število licenc vnesite skupno število licenc, ki jih želite za to naročnino, nato pa izberite **Shrani**. Če imate na primer 100 licenc in želite začasno prekiniti ali začasno prekiniti 25 licenc, vnesite 75 kot skupno število licenc za svojo naročnino.
 
-Če želite več informacij, glejte [Nakup ali odstranjevanje licenc](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
+Če želite več informacij, glejte [Nakup ali odstranjevanje](/microsoft-365/commerce/licenses/buy-licenses).
