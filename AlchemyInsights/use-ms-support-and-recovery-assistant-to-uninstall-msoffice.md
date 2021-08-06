@@ -1,5 +1,5 @@
 ---
-title: Odstranitev Microsoft Officea z Microsoftovim pomočnikom za podporo in obnovitev
+title: Odstranitev aplikacije pomočnik za podporo in obnovitev Microsoft Microsoft Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,21 @@ ms.custom:
 - "9004433"
 - "7212"
 - "8228"
-ms.openlocfilehash: 550cac9feea8ffe37784f731833d7522aef8ed96
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: b602018f17696a376697f240cf982bdb57eb70f99100b75c6b15867ee135bb5d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726579"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908444"
 ---
-# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>Odstranitev Microsoft Officea z Microsoftovim pomočnikom za podporo in obnovitev
+# <a name="use-microsoft-support-and-recovery-assistant-to-uninstall-microsoft-office"></a>Odstranitev aplikacije pomočnik za podporo in obnovitev Microsoft Microsoft Office
 
-To naredite tako:
+To lahko:
 
-1. Prenesite [Microsoftov pomočnik za podporo in obnovitev](https://go.microsoft.com/fwlink/?linkid=2139122).
-1. Na dnu okna brskalnika kliknite **Zaženi** , da zaženete datoteko **SetupProd_OffScrub.exe** .
-1. Izberite različico, ki jo želite odstraniti, in nato kliknite **naprej**.
-1. Sledite korakom. Ko ste pozvani, znova zaženite računalnik.
-1. Ko se računalnik znova zažene, se orodje samodejno odpre in vas vodi skozi preostale korake.
+1. Prenesite [Aplikacijo Microsoft pomočnik za podporo in obnovitev](https://go.microsoft.com/fwlink/?linkid=2139122).
+1. Na dnu okna brskalnika kliknite **Zaženi,** da zaženete **SetupProd_OffScrub.exe** datoteke.
+1. Izberite različico, ki jo želite odstraniti, in kliknite **Naprej.**
+1. Upoštevajte navodila. Ob pozivu znova zaženite računalnik.
+1. Ko se računalnik znova zažene, se bo orodje samodejno znova odprlo in vas vodilo skozi preostale korake.
 
-Če morate znova namestiti Microsoft Office, upoštevajte postopek, ki je določen za različico, ki jo potrebujete: M[icrosoft 365](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2019](https://go.microsoft.com/fwlink/?linkid=2138843), [Office 2016](https://go.microsoft.com/fwlink/?linkid=2138919), [office 2013](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2010](https://go.microsoft.com/fwlink/?linkid=2139237)ali [Office 2007](https://go.microsoft.com/fwlink/?linkid=2138644).
+Če želite znova namestiti Microsoft Office, upoštevajte navodila za različico, ki jo potrebujete: M[icrosoft 365,](https://go.microsoft.com/fwlink/?linkid=2138843) [Office 2019,](https://go.microsoft.com/fwlink/?linkid=2138843) [Office 2016](https://go.microsoft.com/fwlink/?linkid=2138919), [Office 2013,](https://go.microsoft.com/fwlink/?linkid=2138919) [Office 2010](https://go.microsoft.com/fwlink/?linkid=2139237) [ali Office 2007.](https://go.microsoft.com/fwlink/?linkid=2138644)

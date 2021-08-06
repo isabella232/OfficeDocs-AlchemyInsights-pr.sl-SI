@@ -1,5 +1,5 @@
 ---
-title: Nastavitev navideznega namizja sistema Windows
+title: Nastavitev navideznega Windows namizja
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679632"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036652"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>Nastavitev navideznega namizja sistema Windows
+# <a name="set-up-windows-virtual-desktop"></a>Nastavitev navideznega Windows namizja
 
-Navidezna namizna različica sistema Windows je celovita storitev za virtualizacijo namizja in programov, ki se izvaja v oblaku. To je edina navidezna namizna infrastruktura (VDI), ki zagotavlja poenostavljeno upravljanje, multi-session Windows 10, optimizacije za Microsoft 365 apps in podporo za okolja storitve oddaljenega namizja (RDS). V nekaj minutah lahko uvedete in prilagajate namizne računalnike sistema Windows in programe v Azure ter pridobite vgrajene funkcije za varnost in skladnost s predpisi.
+Windows Navidezno namizje je celovita storitev za virtualizacijo namizja in aplikacij, ki se izvaja v oblaku. To je edina navidezna infrastruktura namizja (VDI), ki omogoča poenostavljeno upravljanje, več sej Windows 10, optimizacije za okolje Programi Microsoft 365 in podporo za okolja rds (Remote Desktop Services). Namizna namizja in aplikacije Windows in jih povečajte s storitvijo Azure v nekaj minutah ter pridobite vgrajene funkcije za varnost in skladnost s predpisi.
 
-V [priročniku za nastavitev navideznega namizja sistema Windows](https://go.microsoft.com/fwlink/?linkid=2146236) so skrbniki z viri za načrtovanje in pogoji za uvajanje, usmerjanje nastavitev in dodatne vire.
+V [Windows navideznega namizja](https://go.microsoft.com/fwlink/?linkid=2146236) so skrbnikom na voljo viri za načrtovanje in pogoji za uvajanje, navodila za nastavitev in dodatni viri.

@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: 825f19c47ca94b52624934e0c58afaa5d9c0a479
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c8c6d80d6ec4efc77eed254103ffa52be4ab82a825a3902d490f7059708e76e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824667"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908690"
 ---
-# <a name="resolving-excel-clipboard-error"></a>Razreševanje napake Excelovega odložišča
+# <a name="resolving-excel-clipboard-error"></a>Razreševanje Excel odložišča
 
-Če se v Excelu prikaže sporočilo o napaki »Prišlo je do težave z odložiščem, vendar lahko vsebino še vedno prilepite v ta delovni zvezek«, poskusite onemogočiti funkcijo predogleda v živo tako, da sledite tem korakom:
+Če se v programu Excel prikaže sporočilo o napaki »Prišlo je do težave z odložiščem, vendar lahko še vedno prilepite vsebino v ta delovni zvezek«, poskusite onemogočiti funkcijo predogleda v živo tako, da sledite tem korakom:
 
-1. V Excelu kliknite **Možnosti**  >  **datoteke.**
-3. V pogovornem **oknu Excelove** možnosti izberite **Splošno**.
+1. V Excel kliknite **Možnosti**  >  **datoteke.**
+3. V **Excel pogovornem oknu** Možnosti izbora izberite **Splošno**.
 4. V **razdelku Možnosti uporabniškega vmesnika** **počistite polje Omogoči predogled v živo.**
 5. Kliknite **V redu**.
-6. Znova zaženite Excel.
+6. Znova Excel.

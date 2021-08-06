@@ -1,5 +1,5 @@
 ---
-title: Obnovitev izbrisanih elementov iz SharePointa ali OneDrive
+title: Obnovitev izbrisanih elementov iz SharePoint ali OneDrive
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d015b6a479e6045eac59c13a430ca903c497a84b12ddaeaa22aeec9fae88f4e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728195"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922319"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Obnovitev izbrisanih elementov iz SharePointa ali OneDrive
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>Obnovitev izbrisanih elementov iz SharePoint ali OneDrive
 
-1. Pojdite na OneDrive ali SharePointovo mesto.
+1. Obiščite spletno OneDrive ali spletno SharePoint mesta.
     
-2. V levem podoknu kliknite **koš** . 
+2. V **levem podoknu** kliknite Koš. 
     
 3. Kliknite levo od elementov ali datotek, ki jih želite obnoviti.
     
-4. Kliknite **Obnovi**. 
+4. Kliknite **Obnovi.** 
     
-Ko so datoteke, mape, knjižnice, seznami in elementi seznama izbrisani s SharePointovega mesta, se pomikajo v koš, kjer so shranjeni za 93 dni, razen če jih nekdo izbriše iz tega koša. Če so izbrisani iz tega koša (imenovan koš mesta), se pomikajo v koš zbirke mest za preostali čas, nato pa se trajno izbrišejo. Izbrisana mesta in zbirke mest se pomikajo neposredno v koš zbirke mest za 93 dni.
+Ko so datoteke, mape, knjižnice, seznami in elementi seznama izbrisani s spletnega mesta storitve SharePoint, so pre gredo v koš, kjer so shranjeni 93 dni, razen če jih nekdo izbriše iz tega koša. Če so izbrisani iz tega koša (imenovan koš mesta), so za preostali čas premaknjeni v koš zbirke mest, nato pa so trajno izbrisani. Izbrisana mesta in zbirke mest so pretehta neposredno v koš zbirke mest, in sicer 93 dni.
   
-[Obnovitev elementov v košu zbirke mest](https://go.microsoft.com/fwlink/?linkid=867800) (skrbniki zbirke mest) 
+[Obnavljanje elementov v košu zbirke mest](https://go.microsoft.com/fwlink/?linkid=867800) (skrbniki zbirke mest) 
   
-[Obnovitev izbrisanih zbirk mest](https://go.microsoft.com/fwlink/?linkid=867660) (globalnih ali SharePointovih skrbnikov v programu Microsoft 365) 
+[Obnovitev izbrisanih zbirk mest](https://go.microsoft.com/fwlink/?linkid=867660) (globalnih ali SharePoint skrbnikov v Microsoft 365) 
   
-Za mesta, ki pripadajo skupini Microsoft 365, morate obnoviti skupino, da obnovite mesto. Glejte [obnovitev izbrisane skupine Microsoft 365](https://go.microsoft.com/fwlink/?linkid=867802) (globalni skrbnik) 
+Za spletna mesta, ki pripadajo Microsoft 365, morate obnoviti skupino, da obnovite spletno mesto. Glejte [Obnovitev izbrisane Microsoft 365 skupine](https://go.microsoft.com/fwlink/?linkid=867802) (globalni skrbnik) 
   
 

@@ -1,5 +1,5 @@
 ---
-title: Dostop do naročnine
+title: Dostop z naročnino
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003799"
 - "6805"
-ms.openlocfilehash: 166380cff09f2a2bd9b7e8914d5db4071b6c3f12
-ms.sourcegitcommit: bec3554bf061ef28a009f460fb9d0a661b4fc008
+ms.openlocfilehash: b138c05e87e70c18bb6528819a34f8a9501446d57dcf4dbac0734f70fbc3466b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807722"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999256"
 ---
-# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Ne morem se vpisati v Azure zaradi težav z brskalnikom (brskalnik se obesi, se vrti, ne naloži, itd.)
+# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>Zaradi težav z brskalnikom se ni mogoče vpisati v Azure (brskalnik se obesi, vrteč se ne naloži itn.)
 
-Morda boste vplivali na izpad. Preverite, ali je prišlo do trajnega izpada: [stanje Azure Health](https://status.azure.com/status/history/).
+Morda bo to vplivalo na vas. Preverite, ali trenutno ni na voljo: stanje [storitve Azure Health.](https://status.azure.com/status/history/)
 
-Odjavite se iz vseh aktivnih sej v storitvi Azure. Začnite v zasebnem ali načinu brez beleženja zgodovine v spletnem brskalniku.
+Odjavi se iz vseh aktivnih sej Azure. Zaženite zasebni način ali način brez beleženja zgodovine spletnega brskalnika.
 
-Lahko tudi poskusite osvežiti brskalnik, uporabite drug brskalnik, izbrišete piškotke predpomnilnika, če zgoraj ne deluje.
+Lahko tudi poskusite osvežiti brskalnik, uporabite drug brskalnik in izbrišete piškotke predpomnilnika, če zgoraj ne deluje.
 
 Več informacij: [Odpravljanje težav z vpisom](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
 
-**Dostop do naročnin ni mogoč**
+**Dostop do naročnin ni uspel**
 
-V [portalu Azure](https://portal.azure.com/)se prepričajte, da je na računu v zgornjem desnem kotu izbran pravilen imenik Azure.
+V [portalu Azure preverite,](https://portal.azure.com/)ali je v računu zgoraj desno izbran pravilen imenik Azure.
 
-V [središču za Azure Account (račun](https://account.windowsazure.com/Subscriptions)) se prepričajte, ali je račun uporabljen pri skrbniku računa.
+V [središču za račun Azure](https://account.windowsazure.com/Subscriptions)preverite, ali je račun, uporabljen za skrbnika računa.
 
-Več informacij: [Odpravljanje težav z naročnino](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
+Več informacij: Odpravljanje [težav z naročninami ni bilo mogoče najti](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Dostop do zgodovine obračunavanja ni mogoč**
+**Do zgodovine obračunavanja ni mogoče dostopati**
 
-Skrbnik računa mora preveriti, ali je uporabnik, ki dostopa do informacij o obračunavanju, dodan v imeniku Azure Active Directory kot gostujoči uporabnik: [Dodajanje ali brisanje novega uporabnika](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+Skrbnik računa mora zagotovite, da je uporabnik, ki dostopa do podatkov za obračunavanje, dodan v imenik Azure Active directory kot gostujo uporabnik: Dodajte ali [izbrišite novega uporabnika](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-Uporabnik mora nato dati globalno skrbniško vlogo: [dodeliti vlogo uporabnikom](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+Uporabnik mora imeti vlogo globalnega skrbnika: [Dodelite vlogo uporabnikom.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-Objavite to, uporabniku je mogoče dodeliti dostop do obračunavanja s pravilniki RBAC: [dodeljevanje dostopa do obračunavanja](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support).
+Objavite to možnost, uporabniku lahko dodelite dostop za obračunavanje s pravilniki za RBAC: [Podelitev dovoljenja za dostop do obračunavanja.](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Priporočeni dokumenti**
 
--   [Ne morem se vpisati v upravljanje moje naročnine na Azure](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [Ne morem se vpisati za upravljanje naročnine na Azure](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)

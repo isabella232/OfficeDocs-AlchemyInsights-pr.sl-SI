@@ -1,5 +1,5 @@
 ---
-title: Preklicana naročnina – podedovano – priporočena navodila
+title: Naročnina je preklicana – starejša – priporočeni koraki
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: 88bb4209e0c157b938b5a1a1acdcc96492d1774b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 71628e61027ee842e942277451c9e6e9de9b250f39516b3be076a2ee61fb68c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565155"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999076"
 ---
-# <a name="subscription-cancelled---legacy---recommended-steps"></a>Preklicana naročnina – podedovano – priporočena navodila
+# <a name="subscription-cancelled---legacy---recommended-steps"></a>Naročnina je preklicana – starejša – priporočeni koraki
 
-Naš zapis kaže, da je naročnino preklical uporabnik z lastniki pravic. Če želite znova aktivirati naročnino, poiščite spodnja navodila.
+Iz zapisa je razvidno, da je naročnino preklical uporabnik z lastniškimi pravicami. Poiščite navodila spodaj, da znova aktivirate naročnino.
 
-[Skrbnik računa](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) lahko znova aktivira preklicano naročnino» plačilo kot vi-go «v središču za račune.
+Skrbnik [računa lahko](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) znova aktivira preklicano naročnino na Pay-As-You-Go v središču za račun.
 
-1. Vpišite se v [središče za račune](https://account.azure.com/Subscriptions).
+1. Vpišite se v [središče za račun.](https://account.azure.com/Subscriptions)
 2. Izberite preklicano naročnino in kliknite **Znova aktiviraj**.
 
-Za druge vrste naročnine se [obrnite na podporo](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) , da je vaša naročnina znova aktivirana.
+Če želite druge vrste naročnin, [se obrnite na](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) podporo, da bo vaša naročnina znova aktivirana.

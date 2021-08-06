@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976865"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019524"
 ---
 # <a name="authentication-issues"></a>Težave s preverjanjem pristnosti
 
@@ -75,14 +75,14 @@ Za več informacij o pogojnem dostopu glejte:
 - [Obravnavanje težav s pogojnim dostopom s knjižnico MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [Navodila za razvijalce za pogojni dostop za Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_Konec podpore za knjižnico Azure Active Directory Authentication Library (ADAL) in vmesnik API za Azure AD Graph (AAD Graph)_* _
+***Konec podpore za knjižnico za preverjanje Azure Active Directory pristnosti (ADAL) in Azure AD Graph API (AAD Graph)***
 
 - Od 30. junija 2020 ne dodajamo več novih funkcij v knjižnico Azure Active Directory Authentication Library (ADAL) in vmesnik API za Azure AD Graph (AAD Graph). Še naprej nudimo tehnično podporo in varnostne posodobitve, ne zagotavljamo pa več posodobitev funkcij.
 - 30. junija 2022 se je končala podpora za ADAL in AAD Graph, prav tako ni več na voljo tehnična podpora in varnostne posodobitve.
     - Aplikacije, ki uporabljajo ADAL v obstoječih različicah operacijskega sistema, bodo po tem obdobju še naprej delovale, vendar zanje ne bo več mogoče pridobiti tehnične podpore ali varnostnih posodobitev.
     - Aplikacije, ki uporabljajo AAD Graph, po tem obdobju morda ne bodo več prejemale odgovorov iz končne točke za AAD Graph.
 
-_ *Selitev knjižnice ADAL**
+**Selitev ADAL**
 
 Priporočamo, da izvedete nadgradnjo na knjižnico [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), ki vključuje najnovejše funkcije in varnostne posodobitve. To priporočilo je skladno s kontekstom selitve Microsoftovih aplikacij v knjižnico MSAL do roka za končanje podpore. Cilj selitve Microsoftovih aplikacij v knjižnico MSAL je zagotoviti aplikacijam prednosti rednih varnostnih in funkcijskih izboljšav knjižnice MSAL.
 

@@ -1,5 +1,5 @@
 ---
-title: Preklicana naročnina – omejitev za podedovano porabo
+title: Naročnina je preklicana – starejša – omejitev porabe
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6848"
-ms.openlocfilehash: da4f7456359b04619a505d3c9fd378387c255a24
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 31480f84c8eed63163b1436246eaf1812f15f6d7c2dad29653b2019f8a15f1af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565166"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999040"
 ---
-# <a name="subscription-cancelled---legacy---spending-limit"></a>Preklicana naročnina – omejitev za podedovano porabo
+# <a name="subscription-cancelled---legacy---spending-limit"></a>Naročnina je preklicana – starejša – omejitev porabe
 
-Naši zapisi kažejo, da je omejitev porabe nastavljena na naročnino, uporaba pa je presegla omejitev porabe. Tako je vaša naročnina onemogočena.
+Iz naše evidence je navedeno, da ste za naročnino nastavili omejitev porabe in da je uporaba presegla omejitev porabe. Zato je vaša naročnina onemogočena.
 
-**Omejitev porabe za naročnino je dosežena**
+**Dosežena je omejitev porabe za naročnino**
 
-Naročnine na Azure s krediti imajo omejitve za porabo. To pomeni, da lahko uporabite le storitve do vključenega kredita. Ko vaša uporaba doseže omejitev porabe, Azure onemogoči naročnino za preostanek tega obdobja obračunavanja. Vaša naročnina je onemogočena, da vas zaščiti pred nenamernim stroškom za uporabo prek dobropisa, ki je vključen v vašo naročnino. Če želite odstraniti omejitev porabe, glejte [odstranjevanje omejitve porabe v središču za račune](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove).
+Naročnine na Azure s kreditnimi karticami zanje lahko zapravijo omejitve. To pomeni, da lahko uporabljate le storitve do vključenega dobropisa. Ko vaša uporaba doseže omejitev porabe, Azure onemogoči vašo naročnino za preostali čas obračunavanja. Vaša naročnina je onemogočena, da bi vas zaščitila pred nenamerne bremenitve zaradi uporabe, ki ni vključena v vašo naročnino. Če želite odstraniti omejitev porabe, glejte [Odstranjevanje omejitve porabe v središču za račun.](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit#remove)
 
-Če želite odstraniti omejitev porabe in znova aktivirati naročnino, izvedite te korake:
+Izvedite te korake, da odstranite omejitev porabe in znova aktivirate naročnino:
 
 1. Vpišite se v [portal Azure](https://portal.azure.com/) kot skrbnik računa.
-2. Poiščete **stroške Management + obračunavanje**.
-3. Na seznamu **moji naročnine** izberite brezplačno naročnino na preskusno/račun.
-4. V razdelku Pregled naročnine kliknite oranžno pasico, da odstranite omejitev porabe.
-5. Izberite, ali želite odstraniti omejitev porabe za nedoločen čas ali le za trenutno obdobje obračunavanja.
-6. Kliknite **Izberite način plačila** , če želite izbrati način plačila za naročnino. To bo postalo aktivni način plačila za vašo naročnino.
-7. Kliknite **Dokončujej**.
+2. Poiščite **Upravljanje stroškov + obračunavanje**.
+3. Na seznamu **Moje naročnine** izberite naročnino na brezplačno preskusno različico/račun.
+4. V pregled naročnine kliknite oranžno pasico, da odstranite omejitev porabe.
+5. Izberite, ali želite omejitev porabe odstraniti za nedoločen čas ali le za trenutno obdobje obračunavanja.
+6. Kliknite **Izberi način plačila,** da izberete način plačila za svojo naročnino. To bo aktivni način plačila za vašo naročnino.
+7. Kliknite **Dokončaj.**

@@ -1,5 +1,5 @@
 ---
-title: Izpada storitvene infrastrukture za podporo
+title: Podpora za neustvadno infrastrukturo storitve
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5151"
 - "9002659"
-ms.openlocfilehash: a41cd828b41d871053e2fa78a3a706b6dedf26e5
-ms.sourcegitcommit: 201c70a805ee76a13f97696e5a07ba27d0ce70a7
+ms.openlocfilehash: 9cc999a288d7e08b83cb8a54720ff77286f645758ee42db14f68057b0edc3e46
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/05/2020
-ms.locfileid: "48365321"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998995"
 ---
-# <a name="support-service-infrastructure-outage"></a>Izpada storitvene infrastrukture za podporo
+# <a name="support-service-infrastructure-outage"></a>Podpora za neustvadno infrastrukturo storitve
 
-Trenutno doživljamo izpad v infrastrukturi storitve za podporo. Trudimo se, da težavo odpravimo čimprej, Toda medtem se lahko ob poskusu stika z Microsoftom prikaže zakasnitev odzivnega časa.
+Trenutno prihaja do težav z neshrunjeno infrastrukturo storitve za podporo. Trudimo se, da bi težavo čim prej odpravili, vendar pa boste pri poskusu stika z Microsoftom morda videli zakasnitve pri odzivih.

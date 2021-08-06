@@ -1,5 +1,5 @@
 ---
-title: Odstranitev Officea
+title: Odstranjevanje Office
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,25 +12,25 @@ ms.custom:
 - "937"
 - "2000023"
 ms.assetid: 6d728dd5-4b98-4bc3-a866-c0ec82779b6b
-description: V spodnjih navodilih je opisano, kako odstranite Office iz računalnika s sistemom Windows.
-ms.openlocfilehash: 1be113b2fd140dc30857de68a4ab851c0d946af7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: V spodnjih korakih je opisano, kako odstranite Office iz računalnika.
+ms.openlocfilehash: 50e276e1f0bc142b39515f8ee571bb028b2e5793c990e19f72da5b88ea81c848
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658282"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908618"
 ---
-# <a name="uninstall-office"></a>Odstranitev Officea
+# <a name="uninstall-office"></a>Odstranjevanje Office
 
 Prenesite in namestite [pomočnika za podporo in obnovitev](https://aka.ms/SARA-OfficeUninstall-Alchemy).
   
-1. Ko se odpre, **odstranite Officeove izdelke** izberite različico, ki jo želite odstraniti, in izberite **naprej**.
+1. Ko se odpre, na **strani Odstranitev Office izberite** različico, ki jo želite odstraniti, nato pa izberite **Naprej.**
 
 2. Pomikajte se po oknih in ob pozivu znova zaženite računalnik.
 
-    Po vnovičnem zagonu je pomočnik za podporo in obnovitev samodejno znova odprt za dokončanje postopka odstranjevanja.
+    Po ponovnem zagonu se pomočnik za podporo in obnovitev znova odpre okno za samodejno odpiranje, da dokončate postopek odstranitve.
 
-3. Sledenje preostalim pozivom in [Vnovična namestitev Officea](https://portal.office.com/OLS/MySoftware.aspx) ali zapiranje pomočnika.
+3. Sledite preostalim pozivom [in znova Office](https://portal.office.com/OLS/MySoftware.aspx) ali zaprite pomočnika.
 
-Če želite seznam drugih možnosti odstranjevanja, izberite [Odstrani Office iz računalnika](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)s sistemom Windows.
+Če želite seznam drugih možnosti za odstranitev, [izberite Office iz računalnika.](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8?wt.mc_id=Alchemy_ClientDIA)
   

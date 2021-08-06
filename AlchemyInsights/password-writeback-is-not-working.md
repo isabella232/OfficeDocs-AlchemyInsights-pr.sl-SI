@@ -1,5 +1,5 @@
 ---
-title: Geslo Nepotrjenim ne deluje
+title: Password Writeback ne deluje
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,42 +12,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8210"
-ms.openlocfilehash: d7766f908f025b5db8299aa45d01dc5389b321ec
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: 23f5e5fe9e00a4bb00f96d2023c81f6413a7d8b808fd46bfc94483944bb898dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243523"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999760"
 ---
-# <a name="password-writeback-is-not-working"></a>Geslo Nepotrjenim ne deluje
+# <a name="password-writeback-is-not-working"></a>Password Writeback ne deluje
 
-**Imam težave pri konfiguraciji gesla nepotrjenim**
+**Imam težave s konfiguracijo povratnega pisanja gesla**
 
-- Geslo nepotrjenim je funkcija Premium.
+- Funkcija pisanja gesla je vrhunska funkcija.
 - Prepričajte se, da razumete zahteve za licenciranje:
-  - Imeti morate vsaj eno licenco, dodeljeno v organizaciji.
-  - **Samo uporabniki v oblaku** – vsak Office 365 (O365) plačan sku ali Azure ad Basic
-  - **Uporabniki v oblaku in/ali na mestu uporabe** – Azure ad Premium P1 ali P2, Enterprise Mobility + Security (EMS) ali Secure produktivno podjetje (SPE)
-    - Če želite izvedeti več o zahtevah za licenciranje, glejte [zahteve za licenciranje za samopostrežno ponastavitev gesla za AZURE ad.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)
-- Imate vsaj en skrbniški račun in en preskusni uporabniški račun z eno od ustreznih licenc.
-- Če želite delati z geslom za nepotrjenim, morate povezati Azure AD, da se povežete z Emulatorjem primarnega krmilnika domene. Če želite uporabiti primarni krmilnik domene, lahko konfigurirate povezavo storitve Azure AD, tako da z desno tipko miške kliknete **lastnosti** povezovalnika imenika Active Directory in nato izberete **Konfiguracija particij imenikov**. V razdelku poiščite razdelek **Nastavitve povezave krmilnika domene** in potrdite polje z naslovom **uporabi le želene krmilnike domene**.
+  - V organizaciji morate imeti dodeljeno vsaj eno licenco
+  - **Samo uporabniki v oblaku** – Office 365 inventarna številka (O365) ali Azure AD Basic
+  - **Uporabniki v oblaku in/ali** uporabniki na mestu uporabe – Azure AD Premium P1 ali P2, Enterprise Mobility + Security (EMS) ali Secure Productive Enterprise (SPE)
+    - Če želite izvedeti več o zahtevah licenciranja, glejte [Zahteve licenciranja za](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing) samopostrežno ponastavitev gesla za Azure AD
+- Imate vsaj en skrbniški račun in en preskus uporabniškega računa z eno od ustreznih licenc.
+- Če želite, da deluje povratne Povezovalnik z geslom, morate povezati aplikacijo Azure AD in emulator primarnega krmilnika domene. Azure AD Povezovalnik za uporabo primarnega krmilnika domene tako,  da z desno tipko miške kliknete lastnosti povezovalnika za sinhronizacijo imenika Active Directory, nato pa izberete konfiguriraj particije **imenika.** Tam poiščite razdelek z nastavitvami povezave **za krmilnik** domene in potrdite polje z naslovom uporabi le **priljubljene kontrolnike domene**.
   > [!NOTE]
-  > Če želeni DC ni Emulator PDC, bo Azure AD Connect še vedno vzpostavil dostop do PDC za geslo nepotrjenim.
-- Ponastavitev gesla je bilo konfigurirano in omogočeno v najemniku. Če želite več informacij, glejte [Omogočanje uporabnikom, da ponastavijo gesla za AZURE ad](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started).
-- Prepričajte se, da je skrbniški račun uporabljen za omogočanje gesla Nepotrjenim je skrbniški račun za oblak (ustvarjen v storitvi Azure AD not AD na mestu uporabe)
-- Imate eno ali več-gozdno uvajanje na mestu uporabe s sistemom Windows Server 2008 R2, Windows Server 2012 ali Windows Server 2012 R2 z nameščenimi najnovejšimi servisnimi paketi
-- Imate nameščeno orodje za povezovanje v storitvi Azure AD in ste pripravili svoje OGLAŠEVALsko okolje za sinhronizacijo z oblakom. Preden preskusite geslo za nepotrjenim, se prepričajte, da ste najprej dokončali popolno uvoz in popolno sinhronizacijo iz oglasov AD in Azure AD v storitvi Azure AD Connect.
-- Če želite izvedeti več, glejte Kako narediti [popolno sinhronizacijo in poln uvoz v storitvi AZURE ad Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
+  > Če prednostni DC ni emulator PDC, se bo imenik Azure AD Povezovalnik še vedno stik s pdc-jem in vam vrnil geslo.
+- Ponastavitev gesla je bila konfigurirana in omogočena v vašem najemniku. Če želite več informacij, glejte [Omogočanje uporabnikom, da ponastavijo svoja gesla za Azure AD.](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-getting-started)
+- Prepričajte se, da je skrbniški račun, ki se uporablja za omogočanje povratnega pisanja gesla, skrbniški račun v oblaku (ustvarjen v imeniku Azure AD, ki ni ad na mestu uporabe)
+- V strežniku Windows Server 2008 R2, Windows Server 2012 ali Windows Server 2012 R2 imate eno ali več gozdno uvajanje z nameščenimi najnovejšimi servisnimi paketi
+- Nameščeno imate orodje Azure AD Povezovalnik in pripravite okolje AD za sinhronizacijo z oblakom. Preden preskusite pisanje gesla, morate najprej dokončati poln uvoz in popolno sinhronizacijo iz imenika AD in imenika Azure AD v imeniku Azure AD Povezovalnik.
+- Če želite izvedeti več, preberite, kako lahko v imeniku Azure AD v celoti sinhronizirate [in Povezovalnik](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-operations)
 
-**Imam težave s povezljivostjo z geslom nepotrjenim**
+**Imam težave s povezljivostjo povratnega pisanja gesel**
 
-1. Prenesite in omogočite najnovejšo različico storitve [AZURE ad Connect](https://www.microsoft.com/download/details.aspx?id=47594)
-2. Konfiguracija požarnega zidu: orodje za povezovanje v storitvi Azure AD (1.1.443 in zgoraj) bo moralo dostopati do programa **https** :
+1. Prenesite in omogočite najnovejšo različico [imenika Azure AD Povezovalnik](https://www.microsoft.com/download/details.aspx?id=47594)
+2. Konfiguracija požarnega zidu: orodje Azure AD Povezovalnik (1.1.443 in višje) potrebuje **odhodni dostop HTTPS** za:
     - passwordreset.microsoftonline.com
-    - servicebus. Windows. Networks
-3. Dovoli nedejavne povezave, da trajajo vsaj 2-3 minut
+    - servicebus.windows.networks
+3. Omogočanje, da se povezave nedejavnosti ohranijo vsaj 2–3 minute
 
-**Še vedno imam težave z geslom nepotrjenim**
+**Še vedno imam težave s pisanjem gesla**
 
-- Če imate še vedno težave, poskusite onemogočiti in znova omogočiti storitev nepotrjenim gesel v orodju za povezovanje v storitvi Azure AD.
-- Če želite izvedeti več, glejte kako [onemogočiti in znova omogočiti nepotrjenim gesla](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)
+- Če imate še vedno težave, poskusite onemogočiti in znova omogočiti storitev pisanja gesla v orodju Azure AD Povezovalnik 10
+- Če želite izvedeti več, si [oglejte, kako onemogočite in znova omogočite pisanje gesla](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-troubleshoot)

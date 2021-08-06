@@ -1,5 +1,5 @@
 ---
-title: Dodeljevanje skupin v vlogo Azure AD
+title: Dodeljevanje skupin vlogi imenika Azure AD
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,33 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "7898"
 - "9003230"
-ms.openlocfilehash: feca81fe785bc45e47f6faa876230b5c7701713d
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
-ms.translationtype: MT
+ms.openlocfilehash: 563b1a7c93c9ca64fdea51c57b70fd2132750c4ad8ee15de0c65c9668c9c3c56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036256"
 ---
-# <a name="assigning-groups-to-azure-ad-role"></a>Dodeljevanje skupin v vlogo Azure AD
+# <a name="assigning-groups-to-azure-ad-role"></a>Dodeljevanje skupin vlogi imenika Azure AD
 
-Če želite dodeliti skupino oglasov Azure ad z izvorom avtoritete v storitvi Azure AD na vlogo v storitvi Azure AD, izvedite te korake:
+Če želite dodeliti skupino Azure AD z virom pooblastila v imeniku Azure AD vlogi imenika Azure AD, izvedite te korake:
 
 1. Ustvarjanje nove skupine – če želite ustvariti novo skupino:
 
-    v. Vpišite se v skrbniško središče za Azure AD s **privilegiranim skrbnikom za vloge** ali **globalnimi skrbniškimi** dovoljenji.
-    b. Izberite **Azure Active Directory > skupine > vse skupine > novo skupino**.
+    a. Vpišite se v skrbniško središče za Azure AD s **skrbniškimi** dovoljenji s pravicami **skrbnika** vloge ali globalnega skrbnika.
+    b. Izberite **Azure Active Directory > Skupine > Vse skupine > skupini Novo.**
     c. Ustvarite skupino.
 
-2. Dodelite vlogo skupini bodisi med ustvarjanjem skupine ali ko je skupina ustvarjena.
+2. Dodelite vlogo skupini med ustvarjanjem skupine ali po tem, ko ustvarite skupino.
 
-    v. Če želite skupini dodeliti vlogo v času ustvarjanja skupine, lahko v skupino dodelite vloge preklopnega programa **AZURE ad** in ustvarite skupino.
-    b. Če želite skupini dodeliti vlogo, ko je bila ustvarjena, se pomaknite do zavihka **dodeljene vloge** za novo ustvarjeno skupino in dodelite vlogo skupini.  
+    a. Če želite skupini dodeliti vlogo v času ustvarjanja skupin, vklopite stikalo za vloge **Azure AD,** ki jih lahko dodelite skupini in ustvarite skupino.
+    b. Če želite skupini dodeliti vlogo, ko jo  ustvarite, se pomaknite na zavihek Dodeljene vloge za novo ustvarjeno skupino in dodelite vlogo skupini.  
 
-**Upravljanje članstva v skupini, ki je dodeljena vlogi storitve Azure AD**
+**Upravljanje članstva v skupini, ki je dodeljena vlogi imenika Azure AD**
 
-Če želite preprečiti dviganje privilegijev, lahko privzeti skrbniki, ki so dodeljeni vlogi, spremenijo le privilegirane skrbnike vlog in globalni skrbniki. Lahko pa se odločijo, da bodo dodeljene lastniku za to skupino in da prenesejo to opravilo.
+Če želite preprečiti prisvojen dostop do pravic, lahko le skrbniki vlog s pravicami in globalni skrbniki privzeto spremenijo članstvo v skupini, ki je dodeljena vlogi. Lahko pa se odločijo, da bodo dodelili lastnika za takšno skupino in dodelili to opravilo.
 
-Če želite več podrobnosti o dodeljevanju skupin v oblaku za vloge v storitvi Azure AD, [si oglejte Dodeljevanje vlog v skupini Cloud](https://docs.microsoft.com/azure/active-directory/roles/groups-concept). Če želite več informacij o odpravljanju težav, dodeljenih skupinam v oblaku, glejte [Odpravljanje težav z vlogami, dodeljenimi skupinam v oblaku](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting).
+Če želite več podrobnosti o dodeljevanju skupin v oblaku vlogam imenika Azure AD, glejte [Dodeljevanje vlog AD skupini v oblaku.](https://docs.microsoft.com/azure/active-directory/roles/groups-concept) Če želite več podrobnosti o odpravljanju težav z vlogami, ki so dodeljene skupinam v oblaku, glejte [Odpravljanje težav z vlogami, ki so dodeljene skupinam v oblaku.](https://docs.microsoft.com/azure/active-directory/roles/groups-faq-troubleshooting)
 
 
 

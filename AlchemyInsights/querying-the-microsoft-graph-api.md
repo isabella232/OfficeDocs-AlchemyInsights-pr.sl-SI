@@ -1,5 +1,5 @@
 ---
-title: Poizvedovanje po API-ju Microsoft Graph
+title: Poizvedovanje po Microsoftovem Graph API-ja
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,95 +12,95 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: 527e88c7b3cb1cc4f5535e3b0d2bc4d8d1163336
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923255"
 ---
-# <a name="querying-the-microsoft-graph-api"></a>Poizvedovanje po API-ju Microsoft Graph
+# <a name="querying-the-microsoft-graph-api"></a>Poizvedovanje po Microsoftovem Graph API-ja
 
-Ta tema se lahko uporablja tudi za razvijalce, ki še vedno uporabljajo vmesnik Azure AD Graph API. Vendar pa **je priporočljivo,** da uporabite Microsoft Graph za vse scenarije imenika, identitete in upravljanja Accessa.
+Ta tema lahko velja tudi za razvijalce, ki še vedno uporabljajo Azure AD Graph API. Vendar pa je zelo **priporočljivo, da** uporabite Microsoft Graph za vse scenarije za upravljanje imenika, identitete in dostopa.
 
-**Težave s preverjanjem pristnosti ali avtorizacije**
+**Težave s preverjanjem pristnosti ali pooblastilom**
 
-- Če vaš program **ne more pridobiti žetonov** za klicanje programa Microsoft Graph, izberite **težave z iskanjem žetona Microsoft Graph (preverjanje pristnosti)** , da pridobite natančnejšo pomoč in podporo v tej temi.
-- Če vaš program **prejema napake pri avtorizaciji v storitvi 401 ali 403** , ko kličete Microsoft Graph, izberite kategorijo» **pridobivanje zavrnjenega dostopa «(avtorizacija)** , ki je v kategoriji API za Microsoft Graph, da pridobite natančnejšo pomoč in podporo v tej temi.
+- Če vaša  aplikacija ne more pridobiti žetonov za priklic storitve Microsoft Graph, izberite Težava z pridobivanjem žetona za dostop **(preverjanje pristnosti)** v kategoriji Microsoft Graph, da pridobite natančnejšo pomoč in podporo za to temo.
+- Če je program pri klicu storitve Microsoft Graph prejel napake s pooblastilom **401 ali 403,** izberite kategorijo Pridobivanje napake s pooblastilom **za** Microsoft Graph API, da pridobite natančnejšo pomoč in podporo za to temo.
 
-**Želim uporabljati Microsoft Graph, vendar ne vem, kje naj začnem**
+**Želim uporabljati Microsoft Graph, vendar ne vem, kje začeti**
 
-Če želite izvedeti več o programu Microsoft Graph, glejte:
+Če želite izvedeti več o storitvi Microsoft Graph, glejte:
 
-- [Pregled programa Microsoft Graph](https://docs.microsoft.com/graph/overview)
-- [Pregled identitete in upravljanja dostopa v programu Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
-- [Uvod v izgradnjo aplikacij Microsoft Graph](https://docs.microsoft.com/graph/)
-- **Microsoft Graph Explorer** – preskusite API-je za Microsoft Graph v najemniku ali v demonstracijskem najemniku
+- [Pregled storitve Microsoft Graph](https://docs.microsoft.com/graph/overview)
+- [Pregled upravljanja identitet in dostopa v storitvi Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [Uvod v izgradnjo Aplikacij Microsoft Graph Microsoft](https://docs.microsoft.com/graph/)
+- **Microsoft Graph Explorer** – preskusite MICROSOFTOVE Graph API-je v najemniku ali demonantu
 
-**Želim uporabiti Microsoft Graph, vendar ne podpira API-jev imenika v 1.0, ki jih potrebujem?**
+**Želim uporabiti Microsoft Graph, vendar podpira API-je imenika v1.0, ki jih potrebujem?**
 
-Microsoft Graph je priporočen API za imenik, identiteto in upravljanje dostopa. Vendar pa še vedno obstaja nekaj vrzeli med tem, kar je mogoče v storitvi Azure AD Graph in Microsoft Graph. Preglejte te članke, ki poudarjajo najbolj posodobljene razlike, ki jih boste lažje izbrali:
+Microsoft Graph je priporočen API za upravljanje imenika, identitete in dostopa. Kljub temu pa obstaja še nekaj vrzeli med tem, kar je mogoče v storitvah Azure AD Graph in Microsoft Graph. Preglejte te članke, v katerih so poudarjene najbolj posodobljene razlike, s katerimi si lahko pomagate pri vaši izbiri:
 
-- [Razlike med vrstami virov med grafikonom Azure AD Graph in programom Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [Razlike med lastnostmi in grafikoni za Azure AD Graph in Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
-- [Razlike v metodi med storitvijo Azure AD in Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
+- [Razlike med vrsto vira med imenikoma Azure AD Graph in Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [Razlike med lastnostmi med imenikoma Azure AD Graph in Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [Razlike med metodami med imenikoma Azure AD in Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-**Ko poizvedujem po predmetu *uporabnika* , manjkajo številne njegove lastnosti**
+**Če poizvedem *po uporabniškem* predmetu, manjka veliko njegovih lastnosti**
 
-`GET https://graph.microsoft.com/v1.0/users` vrne le 11 lastnosti, saj Microsoft Graph samodejno izbere privzeti nabor *uporabniških* lastnosti za vrnitev. Če potrebujete druge lastnosti *uporabnika* , uporabite $SELECT, da izberete lastnosti, ki jih potrebuje vaš program. Najprej preskusite v **programu Microsoft Graph Explorer** .
+`GET https://graph.microsoft.com/v1.0/users`vrne le 11 lastnosti, saj Graph Microsoft samodejno izbere privzeti nabor uporabniških *lastnosti,* ki jih bo vrnil. Če potrebujete druge *uporabniške lastnosti,* uporabite $select in izberite lastnosti, ki jih potrebujete za aplikacijo. Najprej preskusite v **Microsoft Graph Explorerju.**
 
-**Nekatere vrednosti lastnosti uporabnika so *ničelne* , čeprav vem, da so nastavljene**
+**Nekatere vrednosti uporabniških lastnosti so *ničelne,* čeprav vem, da so nastavljene**
 
-Najbolj verjetna razlaga je, da je bila aplikacija dodeljena *uporabniku. ReadBasic. vse* dovoljenje. S tem lahko program prebere omejen nabor uporabniških lastnosti, vrne vse druge lastnosti kot NULL, tudi če so bile prej nastavljene. Poskusite podeliti *uporabnika aplikacije. preberi. vse* dovoljenje namesto tega.
+Najverjetnejša razlaga je, da je imela aplikacija dovoljenje *User.ReadBasic.All.* To aplikaciji omogoča, da prebere omejen nabor uporabniških lastnosti in vrne vse druge lastnosti kot ničelne vrednosti, tudi če so bile že nastavljene. Namesto tega odobrite *aplikacijo User.Read.All.*
 
-Če želite več informacij, glejte [uporabniška dovoljenja za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
+Če želite več informacij, [glejte Dovoljenja Graph Microsoftu.](https://docs.microsoft.com/graph/permissions-reference#user-permissions)
 
-**Imam težave z uporabo parametrov poizvedbe OData za filtriranje podatkov v mojih zahtevah**
+**Pri uporabi parametrov poizvedbe OData za filtriranje podatkov v zahtevah imam težave**
 
-Medtem ko Microsoft Graph podpira širok spekter parametrov OData poizvedbe, številni od teh parametrov niso v celoti podprti s imeniškimi storitvami (viri, ki dedujejo od *directoryObject*) v programu Microsoft Graph. Enake omejitve, ki so bile predstavljene v grafu Azure AD, se večinoma pojavljajo v programu Microsoft Graph:
+Microsoft Graph podpira širok nabor parametrov poizvedbe OData, vendar imeniške storitve (viri, ki dedujejo od *imenikaObject)* v microsoft Graph v celoti ne podpirajo teh parametrov. Enake omejitve, ki so bile prisotne v imeniku Azure AD Graph v Microsoft Graph:
 
-1. **Ni podprto**: $count, $search in *$filter v vrednosti null* ali *NOT NULL*
-2. **Ni podprto**: $filter v določenih lastnostih (glejte teme vira, ki jih je treba filtrirati)
-3. **Ni podprto**: ostranjevanje, filtriranje in razvrščanje hkrati
-4. **Ni podprto**: filtriranje v relaciji. Na primer – poiščite vse člane inženirske skupine, ki so v Združenem kraljestvu.
-5. **Delna podpora**: $OrderBy na *uporabnika* (le displayName in userPrincipalName) in *skupino*
-6. **Delna podpora**: $filter (podpira *le EQ*, *startswith*, or *in Limited* *) podpora*, $Expand (razširitev relacije posameznega predmeta vrne vse relacije, vendar pa je razširitev zbirke predmetov» relacija «omejena) 
+1. **Ni podprto:**$count, $search in $filter ničelne *ali* *ničelne* vrednosti
+2. **Ni podprto:**$filter določenih lastnostih (glejte teme o virih, za katere so lastnosti mogoče filtrirati)
+3. **Ni podprto:** ostranitev, filtriranje in razvrščanje hkrati
+4. **Ni podprto:** filtriranje relacije. Poiščite na primer vse člane inženirske skupine, ki so v Združenem kraljestvu.
+5. **Delna** podpora: $orderby *uporabnika* (samo prikazanoIme in uporabniškoImeU šablone) in *skupine*
+6. **Delna** podpora: $filter (podpira le eq *,* *startswith* *ali*, and , *and*, and limited *any*) podporo za $expand (razširjanje relacij enega predmeta vrne vse relacije, vendar je razširitev zbirke relacij predmetov omejena)
 
-Če želite več informacij, glejte [prilagajanje odgovorov s parametri poizvedbe](https://docs.microsoft.com/graph/query-parameters).
+Če želite več informacij, glejte [Prilagajanje odgovorov s parametri poizvedbe.](https://docs.microsoft.com/graph/query-parameters)
 
-**Klic API, ki ga kličem, ne deluje – kje lahko naredim več testiranj?**
+**API, ki ga kličem, ne deluje – kje lahko preskusim več?**
 
-**Microsoft Graph Explorer** – preskusite API-je za Microsoft Graph v najemnika ali demonstracijskega najemnika in preverite **vzorčne poizvedbe** v Raziskovalcu programa Microsoft Graph.
+**Microsoft Graph Explorer** – preskusite API Graph Microsoft Graph najemniku ali demonantu in  si oglejte vzorčne poizvedbe v Microsoft Graph Explorerju.
 
-**Ko poiščem podatke, se zdi, kot da dobim nedokončan nabor podatkov**
+**Ko poizvedim po podatkih, se zdi, da dobim nepopolni nabor podatkov**
 
-Če poizvedujete po zbirki (kot so *Uporabniki*), Microsoft Graph uporabi omejitve strani strežnika, tako da so rezultati vedno vrnjeni s privzeto velikostjo strani. Program mora vedno pričakovati, da se bo stran povrnila prek zbirk, vrnjenih iz storitve.
+Če želite s poizvedbo po zbirki (kot so *uporabniki),* Microsoft Graph uporablja omejitve strani na strani strežnika, tako da so rezultati vedno vrnjeni s privzeto velikostjo strani. Za vašo aplikacijo bi moralo biti vedno pričakovano, da bo prestala vse zbirke, ki ste jih vrnili iz storitve.
 
-Za več informacij glejte:
+Če želite več informacij, si oglejte:
 
-- [Najboljše prakse v programu Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Ostranjevanje podatkov v aplikaciji Microsoft Graph](https://docs.microsoft.com/graph/paging)
+- [Najboljše prakse Graph Microsoftu](https://docs.microsoft.com/graph/best-practices-concept)
+- [Paging Microsoft Graph data in your app](https://docs.microsoft.com/graph/paging)
 
-**Aplikacija je prepočasna in je tudi zadaviti. Katere izboljšave lahko izvedem?**
+**Moja aplikacija je prepočasna in je tudi dušena. Katere izboljšave lahko naredim?**
 
-Odvisno od vašega scenarija je na voljo več različnih možnosti, s katerimi lahko izboljšate svojo aplikacijo in v nekaterih primerih zmanjšate možnost za omejevanje storitve (ko vnašate preveč klicev).
+Glede na vaš scenarij so na voljo številne različne možnosti, s tem pa poskrbite, da bo vaša aplikacija bolj učinkovitejša in v nekaterih primerih s storitvijo manjša (če opravljate preveč klicev).
 
 Več informacij nadete v tem članku:
 
-- [Najboljše prakse v programu Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [Zahteve za betonarne](https://docs.microsoft.com/graph/json-batching)
-- [Sledenja spremembam prek poizvedbe Delta](https://docs.microsoft.com/graph/delta-query-overview)
-- [Pridobivanje obvestil o spremembah s pomočjo](https://docs.microsoft.com/graph/webhooks)
-- [Usmerjanje zadaviti](https://docs.microsoft.com/graph/throttling)
+- [Najboljše prakse Graph Microsoftu](https://docs.microsoft.com/graph/best-practices-concept)
+- [Zahteve za paketiranje](https://docs.microsoft.com/graph/json-batching)
+- [Sledenje spremembam s poizvedbo delta](https://docs.microsoft.com/graph/delta-query-overview)
+- [Get notified of changes through webhooks](https://docs.microsoft.com/graph/webhooks)
+- [Smernice za dušenje](https://docs.microsoft.com/graph/throttling)
 
 **Kje lahko najdem več informacij o napakah in znanih težavah?**
 
-- [Informacije o odgovoru na Microsoft Graph](https://docs.microsoft.com/graph/errors)
-- [Znane težave z Microsoft Graphom](https://docs.microsoft.com/graph/known-issues)
+- [Informacije o Graph o napakah v aplikaciji Microsoft Graph](https://docs.microsoft.com/graph/errors)
+- [Znane težave s storitvijo Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
 
 **Kje lahko preverim stanje razpoložljivosti storitve in povezljivosti?**
 
-Razpoložljivost storitve in povezljivost osnovnih storitev, do katerih lahko dostopate prek Microsoft Grapha, lahko vpliva na splošno razpoložljivost in učinkovitost delovanja programa Microsoft Graph.
+Razpoložljivost storitve in povezljivost temeljnih storitev, do katerih lahko dostopate prek storitve Microsoft Graph, lahko vplivajo na splošno razpoložljivost in učinkovitost delovanja storitve Microsoft Graph.
 
-- Za zdravje storitve Azure Active Directory preverite stanje storitve **Security + Identity** Services, ki so navedene na [strani stanja Azure](https://azure.microsoft.com/status/).
-- Za Officeove storitve, ki prispevajo k programu Microsoft Graph, preverite stanje storitev, ki so navedene v [nadzorni plošči» zdravstvena služba za Office](https://portal.office.com/adminportal/home#/servicehealth)«.
+- Če Azure Active Directory podatkov o stanju storitve, preverite stanje storitev **Varnost + identiteta,** ki so navedene na [strani Stanje storitve Azure.](https://azure.microsoft.com/status/)
+- Če Office storitve, ki prispevajo k storitvi Microsoft Graph, preverite stanje storitev, ki so navedene na [nadzorni plošči Office stanje storitve](https://portal.office.com/adminportal/home#/servicehealth).

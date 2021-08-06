@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7265"
-ms.openlocfilehash: 7c4c9d1a76f395dfb2f831d555199b76c354ca57
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 1faa9f69942d39b8d78c8f3e1316f93b52eeede6408dfabc89d0f7fe38b86fb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583953"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923147"
 ---
-# <a name="rbac-rules"></a>Pravila RBAC
+# <a name="rbac-rules"></a>Pravila za RBAC
 
-Če se prikaže napaka» dovoljenje «: 
+Če se prikaže napaka dovoljenja: 
 
-- **Odjemalec z ID-jem predmeta nima dovoljenja za izvajanje dejanj nad obsegom (koda: AuthorizationFailed)**: ko poskušate ustvariti vir, preverite, ali ste trenutno vpisani z uporabnikom, ki je dodeljen vlogi, ki ima dovoljenje za pisanje za vir v izbranem obsegu. Če želite na primer upravljati virtualne stroje v skupini virov, morate imeti vlogo [navideznega stroja](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) v skupini virov (ali nadrejenem obsegu). Če želite seznam dovoljenj za vsako vgrajeno vlogo, glejte [vgrajene vloge za vire Azure](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support).
-- Nimate **dovoljenja za ustvarjanje zahteve za podporo**: ko poskušate ustvariti ali posodobiti vstopnico za podporo, se prepričajte, da ste trenutno vpisani z uporabnikom, ki je dodeljen vlogi, ki ima Microsoftovo dovoljenje za podporo/supportTickets/pisanje, kot je na primer [Podpora za zahtevo](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor).
-- **Ne morete ustvariti več dodelitev vlog (koda: RoleAssignmentLimitExceeded)**: ko poskušate dodeliti vlogo, poskusite zmanjšati število dodelitev vlog tako, da dodelite vloge skupinam. Azure podpira do **2000** dodelitev vlog na naročnino.
+- Odjemalec z ID-jem predmeta nima pooblastila za izvajanje dejanja prek obsega **(koda: AuthorizationFailed):** ko poskušate ustvariti vir, preverite, ali ste trenutno vpisani z uporabnikom, ki ima dodeljeno vlogo, ki ima dovoljenje za pisanje za vir v izbranem obsegu. Če želite na primer upravljati navidezne računalnike v skupini virov, morate imeti vlogo navideznega strojnega sodelavka v skupini virov (ali nadrejenem obsegu). [](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) Seznam dovoljenj za vsako vgrajeno vlogo najdete v razdelku Vgrajene [vloge za vire Azure.](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Nimate **dovoljenja** za ustvarjanje zahteve za podporo: ko skušate ustvariti ali posodobiti vstopnico za podporo, preverite, ali ste trenutno vpisani z uporabnikom, ki ima dodeljeno vlogo Microsoft.Support/supportTickets/write, na primer [Sodelavec](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor)zahteve za podporo.
+- Ni več mogoče ustvariti nobene dodelitve vloge **(koda: RoleAssignmentLimitExceeded):** ko poskušate dodeliti vlogo, poskusite zmanjšati število dodelitev vlog tako, da dodelite vloge skupinam. Azure podpira do **2000 dodelitev** vlog na naročnino.
 
-Če želite več informacij o vlogah Azure RBAC, glejte vloge v storitvi [AZURE RBAC](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+Če želite več podrobnosti o vlogah za Azure RBAC, glejte [Vloge za Azure RBAC.](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support)

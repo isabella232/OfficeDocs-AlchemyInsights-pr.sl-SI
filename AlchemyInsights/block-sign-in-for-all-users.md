@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003536"
 - "6445"
-ms.openlocfilehash: b1596fdf463413a5b6714c48f4097e9552948070
-ms.sourcegitcommit: d151b09064df3fb573ae07a387a08d98a9553b9b
+ms.openlocfilehash: 90d29fe284e70959e8e2c85e15667269517dc9c3eaf75688bc4750d8767fa2fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807759"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019272"
 ---
 # <a name="block-sign-in-for-all-users"></a>Blokiraj vpis za vse uporabnike
 
-Če želite blokirati vse pred vpisom v Office, upoštevajte ta navodila:
+Če želite vsem blokirati vpis v Office, sledite tem korakom:
 
-1. V skrbniškem središču pojdite v razdelek [ **Uporabniki**  >  **aktivni uporabniki**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-2. Izberite vse uporabnike tako, da kliknete kljukico ob možnosti **prikazano ime** . Zagotovite, da počistite skrbniški račun, s katerim ste prijavljeni.
-3. Kliknite **»... «** ob možnosti **Izvozi uporabnike**  >  , da **uredite stanje vpisa** , nato pa izberite **Blokiraj uporabnike, da se vpišete** . Novi vpisi so takoj blokirani. Če je bil uporabnik že vpisan, bo uporabnik samodejno podpisan iz vseh Microsoftovih storitev v 60 minutah.
+1. V skrbniškem središču pojdite na [ **Uporabniki**  >  **aktivnih uporabnikov.**](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)
+2. Izberite vse uporabnike tako, da kliknete potrditveno oznako ob možnosti **Prikazano ime.** Prepričajte se, da ste počistili skrbniški račun, s katerimi ste prijavljeni.
+3. Kliknite **»...«** ob **možnosti Izvoz** uporabnikov – urejanje stanja vpisa  >  **,** nato pa izberite Uporabnikom prepreči **vpis.** Novi vpisi so takoj blokirani. Če je bil uporabnik že vpisan, bo uporabnik samodejno odjaven iz vseh Microsoftove storitve 60 minut.

@@ -1,5 +1,5 @@
 ---
-title: Nelicencirane funkcije so izklopljene za uporabnike standardnega podjetja
+title: Izklopljene nelicencirani funkcije za uporabnike storitve Business Standard
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 2fd5d03c287c81201d0d68cd718afef46db7a2f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9dd07f2914aa78ef17ef889ced9a5de849f4c6d8175866b8ed4a41cbd28b9510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53908582"
 ---
-# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Nelicencirane funkcije so izklopljene za uporabnike standardnega podjetja
+# <a name="unlicensed-features-turned-off-for-business-standard-users"></a>Izklopljene nelicencirani funkcije za uporabnike storitve Business Standard
 
-Nekateri uporabniki in organizacije storitve Microsoft 365 Business standard imajo na voljo več funkcij, kot jih imajo za licenco. Te funkcije vključujejo te nastavitve za razvrščanje, označevanje in zaščito (CLP) in upravljanje digitalnih pravic (DRM):
+Nekatere Microsoft 365 Business Standard uporabniki in organizacije imajo trenutno na voljo več funkcij, kot pa za njih je licenciranih. Te funkcije vključujejo te nastavitve za klasifikacijo, označevanje in zaščito (CLP) in upravljanje digitalnih pravic:
     
-Od junija 30, 2020 so dodatne funkcije za te uporabnike izklopljene v Microsoft Excelu, Microsoft Wordu, Microsoft PowerPointu in Microsoft Outlooku.
+Od 30. junija 2020 so za te uporabnike izklopljene dodatne funkcije v brskalnikih Microsoft Excel, Microsoft Word, Microsoft PowerPoint in Microsoft Outlook.
 
-Razmislite o spreminjanju vrste licence, ki jo je izdelal uporabnik, na licenco, ki vključuje te funkcije. 
+Razmislite o spreminjanju vrste licence za uporabnika na licenco, ki vključuje te funkcije. 
 
-Če želite več informacij, glejte [nelicencirane funkcije, ki so na voljo za uporabnike storitve Microsoft 365 Business standard](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)
+Če želite več informacij, glejte [Nelicencirana funkcija, ki Microsoft 365 Business Standard uporabnikom](https://support.microsoft.com/help/4568654/extra-features-to-be-turned-off-for-microsoft-365-business-standard?preview)

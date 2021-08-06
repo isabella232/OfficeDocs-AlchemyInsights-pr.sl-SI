@@ -1,5 +1,5 @@
 ---
-title: Blokiranje uporabnikov pred beleženjem srečanj
+title: Blokiraj uporabnika pred snemanjem srečanj
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "9325"
-ms.openlocfilehash: 3f633ee1fb3329b6fc634acabbc824af1eccfb33
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 7eb3fd34ec6f1a2d431ed276b00dd46b5ec6aa73d69b37ef88b1ba0ca6f5d077
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037068"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019200"
 ---
-# <a name="block-user-from-recording-meetings"></a>Blokiranje uporabnikov pred beleženjem srečanj
+# <a name="block-user-from-recording-meetings"></a>Blokiraj uporabnika pred snemanjem srečanj
 
-Če želite **preprečiti ali blokirati** določene uporabnike, da bi posneli srečanje ekip, lahko to naredite prek nastavitev pravilnika za srečanje teams. V skrbniškem središču za Microsoft Teams izklopite možnost **Dovoli snemanje v oblaku** v pravilniku srečanja, ki je dodeljen temu uporabniku. Če želite izvedeti več, glejte [upravljanje pravilnikov za srečanje v aplikaciji Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-cloud-recording).
+Če morate določenim uporabnikom **preprečiti snemanje** srečanj ali jih blokirati Teams lahko to naredite v Teams pravilnika srečanja. V skrbniškem Microsoft Teams, izklopite nastavitev  Dovoli snemanje v oblaku v pravilniku srečanja, ki mu je dodeljen. Če želite izvedeti več, glejte [Upravljanje pravilnikov za srečanja v Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-cloud-recording).
 
-Če želite preveriti, ali je določen uporabnik dovoljen ali ne, uporabite diagnostično podporo. Zaženite novo poizvedbo za podporo in vnesite» **diag «: snemanje srečanja** – diagnostika bo preverila nastavitve pravilnika za določenega uporabnika in določila njihove nastavitve pravilnika. Zapomnite si, lahko traja nekaj ur, da bodo nove nastavitve pravilnika začele veljati, če ste pravkar naredili spremembo, počakajte nekaj ur, preden znova zaženete diagnostiko.
+Če želite preveriti, ali je določenemu uporabniku dovoljeno snemanje srečanj ali Teams, uporabite diagnostiko podpore. Zaženite novo poizvedbo za podporo in vnesite **diag:** Snemanje srečanja – diagnostika preveri nastavitve pravilnika za določenega uporabnika in določi nastavitve pravilnika. Ne pozabite, da lahko traja nekaj ur, preden bodo nastavitve pravilnika začne veljati. Če ste torej ravno vneli spremembo, počakajte nekaj ur, preden znova zaženete diagnostiko.
 
-Če želite več informacij, si oglejte [Vklop ali izklop snemanja v oblaku](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
+Če želite več informacij, preberite [Vklop ali izklop snemanja v oblaku.](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording)
