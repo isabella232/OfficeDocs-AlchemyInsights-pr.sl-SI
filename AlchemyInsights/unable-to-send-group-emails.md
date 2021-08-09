@@ -1,5 +1,5 @@
 ---
-title: 8000053 ni mogoče pošiljati e-poštnih sporočil skupine
+title: 8000053 e-poštnih sporočil skupine ni mogoče poslati
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000053
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
-ms.openlocfilehash: dd014f9e5f4a126720614a2d92df3cfbc223bb17
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4be0f4a06100205083834763e39552a1daf008488232fbe681c3ab71e549f764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735251"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060584"
 ---
-# <a name="unable-to-send-group-emails"></a>E-poštnih sporočil skupine ni mogoče poslati
+# <a name="unable-to-send-group-emails"></a>Pošiljanje e-poštnih sporočil skupine ni mogoče
 
 Če ne morete poslati e-pošte na sezname stikov ali skupine stikov v Outlook.com, poskusite to:
   
-1. Uporabite Outlook.com beta. Če želite več informacij, [Preberite več o Outlook.com beta](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf).
+1. Uporabite Outlook.com beta. Za več informacij preberite [več o različici Outlook.com beta.](https://support.office.com/article/e2261c7f-d413-4084-8f22-21282f42d8cf)
     
-2. Če imate še vedno težave pri sestavljanju e-poštnega sporočila v skupino, pojdite na [osebe](https://outlook.live.com/people/), izberite seznam stikov ali skupino in nato izberite **Pošlji e-pošto**.
+2. Če imate še vedno težave pri sestavljanju e-poštnega sporočila v skupini, pojdite na Ljudje [,](https://outlook.live.com/people/)izberite seznam stikov ali skupino in nato izberite Pošlji **e-pošto**.
     
- **Opombe**
+ **Opombe:**
   
-1. Preverite, ali nimate blokiranih pojavnih oken: pošiljanje e-pošte s strani s seznamom stikov odpre novo okno.
+1. Prepričajte se, da nimate blokiranih pojavnih oken: pošiljanje e-pošte s strani s seznamom stikov odpre novo okno.
     
-2. Pošiljanje pošte s seznama stikov samodejno postavi seznam v vrstico» **za** «. Če želite skriti podrobnosti seznama stikov, kliknite **SKP** v zgornjem desnem kotu, nato kopirajte in prilepite seznam stikov v polje» **SKP** «in **izbrišite vnos.** 
+2. Pošlji pošto s seznama stikov samodejno shrani seznam v **vrstico »ZA«.** Če želite skriti podrobnosti seznama stikov, kliknite Skp v zgornjem desnem kotu,  nato kopirajte **in** prilepite seznam stikov v skp in izbrišite **vnos ZA.** 
     
-3. Ko uporabljate **SKP**, je dobra praksa, da je v vrstici» od «vedno na voljo nekaj **, na primer** naslov» od «. 
+3. Pri uporabi **polja Skp** je dobra praksa, da imate vedno nekaj v vrstici **»ZA«,** na primer lasten naslov »od«. 
     
 
