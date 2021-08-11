@@ -1,5 +1,5 @@
 ---
-title: Skrbnik aplikacije za Office za skrbnike
+title: Varovalo za aplikacije Office za skrbnike
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004584"
 - "8187"
-ms.openlocfilehash: 4d1f136cc57b100084dd5ac137828ececb1a03b0
-ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
+ms.openlocfilehash: 6d0fc347172257be489313e0874f064620d93e8cd24ccc74520954e7427bcd95
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50093122"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970131"
 ---
-# <a name="application-guard-for-office-for-admins"></a>Skrbnik aplikacije za Office za skrbnike
+# <a name="application-guard-for-office-for-admins"></a>Varovalo za aplikacije Office za skrbnike
 
-Aplikacija Guard za Office je na voljo organizacijam, ki imajo Microsoft 365 E5 ali Microsoft 365 E5 Mobility + varnostne licence. Uporabniki v teh organizacijah morajo uporabljati programe Microsoft 365 za podjetja v trenutnem kanalu ali na koledarju mesečnih podjetij.
+Varovalo za aplikacije za Office je na voljo organizacijam, ki imajo Microsoft 365 E5 ali Microsoft 365 E5 za mobilnost + varnost. Uporabniki v teh organizacijah morajo uporabljati programe Microsoft 365 podjetja v trenutnem kanalu ali mesečnem kanalu za podjetja.
 
 > [!NOTE]
-> Skrbnik aplikacije za Office zahteva, da je Microsoft Defender Application Guard (MDAG) v napravi najprej omogočen. Če želite uvesti MDAG v več naprav, glejte [Priprava na namestitev aplikacije Microsoft Defender Guard](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard).
+> Varovalo za aplikacije Office zahteva, da Microsoft Defender Application Guard napravo (MDAG) omogočite. Če želite sistem MDAG uvesti v več napravah, glejte [Priprava na namestitev Microsoft Defender Application Guard](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard).
 
-Če želite podrobne informacije o predpogojih, nastavitvah, omejitvah in odpravljanju težav z aplikacijo Guard za Office, glejte:
+Če želite podrobne informacije o predpogojih, nastavitvi, omejitvah in odpravljanju težav z aplikacijo Guard za Office glejte:
 
-- [Pogosta vprašanja: zaščita aplikacije za Office](https://support.microsoft.com/office/application-guard-for-office-9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
-- [Nastavitev aplikacije Guard za Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/install-app-guard)
+- [Pogosta vprašanja: Varovalo za aplikacije Office](https://support.microsoft.com/office/application-guard-for-office-9e0fb9c2-ffad-43bf-8ba3-78f785fdba46)
+- [Nastavljanje varovala za aplikacije Office](https://docs.microsoft.com/microsoft-365/security/office-365-security/install-app-guard)

@@ -1,5 +1,5 @@
 ---
-title: Novosti v sistemu Windows 10, različica 1703
+title: What's new in Windows 10, version 1703
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003894"
 - "6948"
-ms.openlocfilehash: b2b8882a3a4c2b527c1a6eb8300b810a539599c8
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 0e4dea85d86d768fce69f3c1aa5269a84d5103f6c908c72928d39bfc9143dd76
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680712"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970707"
 ---
-# <a name="whats-new-in-windows-10-version-1703"></a>Novosti v sistemu Windows 10, različica 1703
+# <a name="whats-new-in-windows-10-version-1703"></a>What's new in Windows 10, version 1703
 
-V nadaljevanju so navedene novosti na področju informacijskih tehnologij (IT) Pro v sistemu Windows 10, različica 1703, znana tudi kot ustvarjalci posodobitev:
+Spodaj so na voljo nove funkcije pro tehnologije za informacije v programu Windows 10, različica 1703, znana tudi kot posodobitev za ustvarjalce:
 
-1. [Konfiguracije](https://go.microsoft.com/fwlink/?linkid=2114188)
+1. [Konfiguracija](https://go.microsoft.com/fwlink/?linkid=2114188)
 1. [Uvajanje](https://go.microsoft.com/fwlink/?linkid=2114365)    
 1. [Varnost](https://go.microsoft.com/fwlink/?linkid=2114366)
 1. [Posodobitev](https://go.microsoft.com/fwlink/?linkid=2114189)
 1. [Upravljanje](https://go.microsoft.com/fwlink/?linkid=2114367)
-1. [Mobilna izboljšava sistema Windows 10](https://go.microsoft.com/fwlink/?linkid=2114368)
-1. [Miracast v obstoječem brezžičnem omrežju ali LAN-ju](https://go.microsoft.com/fwlink/?linkid=2114190)
+1. [Windows 10 Mobile izboljšav](https://go.microsoft.com/fwlink/?linkid=2114368)
+1. [Miracast v obstoječem brezžičnem omrežju ali omrežju LAN](https://go.microsoft.com/fwlink/?linkid=2114190)

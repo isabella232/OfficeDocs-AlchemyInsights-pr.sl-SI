@@ -1,5 +1,5 @@
 ---
-title: Dodajanje analitike na delovnem mestu
+title: Dodajanje analitike delovnega mesta
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004018"
 - "7081"
-ms.openlocfilehash: 37748293e62e490ad6322d9095cd7b08904f50c6
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: d3abd1110b78092563ce26b279cd955d31ef5063425db78567c3cfd906007c0e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49089032"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935137"
 ---
-# <a name="add-workplace-analytics"></a>Dodajanje analitike na delovnem mestu
+# <a name="add-workplace-analytics"></a>Dodajanje analitike delovnega mesta
 
-S pravilnim licenciranjem lahko podjetje pridobi analitiko na delovnem mestu kot dodatek k Pogodbi o licenciranju. Če želite omogočiti nakup analitičnih licenc na delovnem mestu, mora vaše podjetje narediti to: 
+Z ustreznim licenciranjem lahko vaše podjetje pridobi analitiko delovnih mest kot dodatek licenčni pogodbi. Če želite kupiti licence za analizo delovnega mesta, potrebuje vaše podjetje to: 
 
-- [Podjetje s pogodbo (EA)](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#enterprise-agreements) z Microsoftom
-- Izdelek sistema Office 365 ali Microsoft 365, ki vsebuje bodisi [Exchange Online (paket 1) ali Exchange Online (paket 2](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#exchange-online-plans) )
+- An [pogodba Enterprise Agreement (EA) with](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#enterprise-agreements) Microsoft
+- Izdelek Office 365 ali Microsoft 365, ki vsebuje [Exchange Online paket 1 ali Exchange Online paket 2](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements#exchange-online-plans)
 
-Če želite več informacij, glejte [zahteve za analitiko na delovnem mestu](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements). 
+Če želite več informacij, glejte [Zahteve za analitiko delovnega mesta.](https://docs.microsoft.com/workplace-analytics/setup/environment-requirements) 

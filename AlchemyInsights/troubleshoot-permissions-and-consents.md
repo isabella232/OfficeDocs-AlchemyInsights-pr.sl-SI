@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav z dovoljenji in soglasjem
+title: Odpravljanje težav z dovoljenji in dovoljenji
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7782"
-ms.openlocfilehash: a1b2dd99acfce24de00e471dda259598b17b4ee0
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 20abe52d6daa6863ea6f24548d23ab963f63620187c5f67fa9616c0efd428b91
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901603"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093002"
 ---
-# <a name="troubleshoot-permissions-and-consents"></a>Odpravljanje težav z dovoljenji in soglasjem
+# <a name="troubleshoot-permissions-and-consents"></a>Odpravljanje težav z dovoljenji in dovoljenji
 
-1. Preberite ta članek, da razumete [okvir za soglasje v storitvi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/consent-framework).
-1. [Dovoljenja in soglasje v končni točki Microsoftovega izhodišča identitete](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) so osnovni pojmi tega modela odobritve, vključno z obsegi, dovoljenji in soglasjem.
-1. Preberite, kako upravljate in ocenjujete soglasje: [upravljanje soglasja za aplikacije in ocenjevanje zahtev za soglasje](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
-1. [Razumevanje izkušenj s privolitvijo storitve AZURE ad](https://docs.microsoft.com/azure/active-directory/develop/application-consent-experience): Preberite več o uporabi uporabniške izkušnje v storitvi Azure Active Directory (Azure ad).
-1. Odpravljanje težav z [nepričakovanimi napakami pri izvajanju soglasja za aplikacijo](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. Preberite ta članek, če želite razumeti [ogrodje Azure Active Directory za soglasje.](https://docs.microsoft.com/azure/active-directory/develop/consent-framework)
+1. [Dovoljenja in soglasje v končni Microsoftova platforma za identitete vključuje](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) osnovne koncepte tega modela avtorizacije, vključno z obsegi, dovoljenji in soglasjem.
+1. Naučite se upravljati in ovrednotiti soglasje: [upravljanje soglasja z aplikacijami in ocenjevanje zahtev za soglasje.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)
+1. [Razumevanje izkušenj s soglasjem za aplikacijo Azure AD:](https://docs.microsoft.com/azure/active-directory/develop/application-consent-experience)Preberite več o Azure Active Directory s soglasjem za aplikacijo (Azure AD).
+1. Odpravite [nepričakovane napake pri izvajanju soglasja za aplikacijo.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
