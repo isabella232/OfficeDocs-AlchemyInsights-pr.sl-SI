@@ -1,5 +1,5 @@
 ---
-title: 'Nastavitve tipkovnice v sistemu Windows 10 '
+title: 'Nastavitve tipkovnice v Windows 10 '
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: be7203521aa2acf2fcf667c26a2d996eca5f846d14cc6957c0fde6b82d887aa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832983"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925613"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>Nastavitve tipkovnice v sistemu Windows 10
+# <a name="keyboard-settings-in-windows-10"></a>Nastavitve tipkovnice v Windows 10
 
 **Nastavitve vrste**
 
-Če želite spremeniti nastavitve sistema Windows, povezane s preverjanjem črkovanja, samodejnim popravkom, predlogi in drugimi vidiki strojne opreme in zaslonske tipkovnice, odprite Nastavitve > Naprave **> Tipkanje**. 
+Če želite Windows nastavitve, povezane s preverjanjem črkovanja, samodejnim popravkom, predlogi in drugimi vidiki strojne opreme in zaslonske tipkovnice, pojdite v Nastavitve > Naprave **> Tipkanje**. 
 
 **Nastavitve jezika in tipkovnice**
 
-Če želite spremeniti nastavitve, povezane s tipkovnico ali vnosno metodo, ki jih želite uporabiti za jezik v sistemu Windows, pojdite na Nastavitve **> za & jezika > sistema .** Izberite jezike na seznamu **Priljubljeni jeziki** in kliknite **Možnosti,** da dodate/odstranite tipkovnice ali vnosne metode (NS).
+Če želite spremeniti nastavitve, povezane s tipkovnico ali vnosno metodo, ki jih želite uporabiti za jezik Windows, pojdite na **Nastavitve > Jezik & za > jezika.** Izberite jezike na seznamu **Priljubljeni jeziki** in kliknite **Možnosti,** da dodate/odstranite tipkovnice ali vnosne metode (NS).

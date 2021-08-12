@@ -1,5 +1,5 @@
 ---
-title: Spreminjanje videza Outlook.com nabiralnika
+title: Spreminjanje videza nabiralnika v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "792"
 - "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 10f7b7e5dbee437f81a803f95b5529fcbc5e667a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbd92e3aa383bd84e2808297ffc6c75cd83878b8c4cd691b601af667f2110de2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756695"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916899"
 ---
-# <a name="change-the-look-of-your-outlook-mailbox"></a>Spreminjanje videza Outlookovega nabiralnika
+# <a name="change-the-look-of-your-outlook-mailbox"></a>Spreminjanje videza nabiralnika Outlook skupine
 
-V [nastavitvah postavitve](https://outlook.live.com/mail/options/mail/layout)lahko spremenite videz seznama sporočil in podokno za branje. Izberite, ali naj bo vaša e-pošta prikazana kot posamezna sporočila ali pogovori, če naj bodo nova sporočila prikazana na vrhu ali dnu seznama sporočil in še več.
+V nastavitvah postavitve lahko spremenite videz seznama sporočil in podokna [za branje.](https://outlook.live.com/mail/options/mail/layout) Izberite, ali želite, da so e-poštna sporočila prikazana kot posamezna sporočila ali pogovori, ali naj bodo nova sporočila prikazana na vrhu ali na dnu seznama sporočil in veliko več.
   
-Če želite izvedeti več, glejte [Spreminjanje videza Outlook.com nabiralnika](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Če želite izvedeti več, [glejte Spreminjanje videza nabiralnika v Outlook.com.](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)

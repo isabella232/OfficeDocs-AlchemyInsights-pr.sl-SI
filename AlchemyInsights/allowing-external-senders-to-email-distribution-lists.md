@@ -1,5 +1,5 @@
 ---
-title: 714 omogočanje zunanjih pošiljateljev na sezname prejemnikov e-pošte
+title: 714 Omogočanje zunanjim pošiljateljem, da pošiljajo e-poštne sezname prejemnikov
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 8f3511f0dc8c7951eaa7b0496797584efe2e7d4b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1949558863eab3d81c6ef9fb575068e9b43957227d9d7edc91af71bd93364574
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718169"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933409"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>Dovoli zunanjim pošiljateljem pošiljanje sporočil skupinam prejemnikov
 
-Če uporabniki zunaj organizacije prejmejo napake, ko pošiljajo sporočila v skupine prejemnikov, ali pa želite preveriti, ali so skupine prejemnikov konfigurirane za prejemanje pošte od zunanjih pošiljateljev, upoštevajte ta navodila:
+Če uporabniki zunaj vaše organizacije prejmejo napake, ko pošljejo sporočila skupinam prejemnikov, ali če želite preveriti, ali so vaše skupine prejemnikov konfigurirane za prejemanje pošte zunanjih pošiljateljev, upoštevajte ta navodila:
 
-1. V skrbniškem središču za Microsoft 365 pojdite na stran skupine **skupin**  >  [Groups](https://portal.office.com/adminportal/home#/groups) .  
+1. V Skrbniško središče za Microsoft 365 pojdite na stran   >  [Skupine](https://portal.office.com/adminportal/home#/groups) skupin.  
 
-2. Izberite skupino prejemnikov in v podoknu lastnosti skupine izberite zavihek **Nastavitve** .
+2. Izberite skupino prejemnikov in v podoknu z lastnostmi skupine izberite **zavihek Nastavitve** prejemnikov.
 
-3. Izberite **Dovoli zunanjim pošiljateljem, da pošljejo e-pošto tej skupini**, nato pa izberite **Shrani**.
+3. Izberite **Dovoli zunanjim pošiljateljem pošiljanje e-pošte tej** skupini in nato **shrani**.
