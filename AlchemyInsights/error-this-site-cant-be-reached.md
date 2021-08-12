@@ -1,5 +1,5 @@
 ---
-title: Tega mesta ni mogoče vzpostaviti – Napaka pri poskusu dostopa do SharePointovega mesta iz brskalnika ali ekip
+title: Do tega mesta ni mogoče priti – napaka, ko poskušate dostopati do SharePoint mesta iz brskalnika ali Teams
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005378"
 - "9266"
-ms.openlocfilehash: 451544fb85522e0eececc9274825805699685ee9
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 5f8861e85df21082329273237679e26a1b31ce694e11ad6407d4690d7caf2fc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747038"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946667"
 ---
-# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Ko poskušate dostopati do SharePointovega mesta iz brskalnika ali ekip, se prikaže sporočilo o napaki» tega mesta ni mogoče vzpostaviti «
+# <a name="this-site-cant-be-reached-error-when-trying-to-access-sharepoint-site-from-browser-or-teams"></a>Napaka »Dostop do tega mesta ni dosegljiv«, ko poskušate dostopati do SharePoint iz brskalnika ali Teams
 
-Uporabniki lahko prejmejo sporočilo o napaki» tega mesta ni mogoče dobiti «, ko poskušate dostopati do SharePointovega mesta v brskalniku ali v aplikaciji teams. 
+Uporabniki lahko prejmejo sporočilo o napaki »Dostop do tega mesta ni mogoč«, ko poskušajo SharePoint mesta iz brskalnika ali Teams. 
 
-To težavo odpravite tako: 
+Če želite odpraviti to težavo: 
 
-1. Preverite, ali je domača stran v košu ali koš druge stopnje in obnovite stran.
+1. Preverite, ali je domača stran v košu ali košu druge stopnje, in obnovite stran.
 
-**Vzorec neposrednega URL-ja v koš**: https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
+**Vzorčni neposreden URL v koš:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
 
-1. Če je domača stran trajno odstranjena iz koša, ustvarite novo stran mesta iz knjižnice strani mesta in jo naredite na domači strani. 
+1. Če je domača stran trajno odstranjena iz koša, ustvarite novo stran spletnega mesta iz knjižnice Strani mesta in jo naredite za domačo stran. 
 
-**Vzorčni neposredni spletni naslov**: https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx
+**Vzorčni neposreden URL:**https://contoso.sharepoint.com/sites/siteA/_layouts/15/RecycleBin.aspx

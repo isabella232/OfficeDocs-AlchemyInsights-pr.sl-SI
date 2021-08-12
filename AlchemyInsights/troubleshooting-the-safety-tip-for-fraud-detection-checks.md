@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav pri preverjanjih, povezanih z zaznavanjem prevar, v varnostnem namigu
+title: Odpravljanje težav pri varnostni namig pri preverjanjih zaznavanja prevar
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 85faa0086935fb7e7132ee9fdced546bafdb344c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c7ee1fcc887a3221b5f2acda1aa6ae6beb03cb96686d4ecb7828a02f8ff48302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834747"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955982"
 ---
-# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Odpravljanje težav pri preverjanjih, povezanih z zaznavanjem prevar, v varnostnem namigu
+# <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>Odpravljanje težav pri varnostni namig pri preverjanjih zaznavanja prevar
 
-Če se vam prikaže varnostni nasvet »Pošiljatelj ni uspel pri zaznavanju prevar in morda ni to, za koga je bil«, pošiljatelj ni uspešno uspešno opravil preverjanja pristnosti DKIM ali SPF. Najboljši način, da to razrešite, je, da se pošiljatelj pooblasti sam. Če pošiljatelj pošilja sporočila v vašem imenu, jih morate pooblastiti tako, da dodate naslov IP pošiljatelja v zapis SPF.
+Če ste dobili sporočilo varnostni namig ki pravi: »Pošiljatelj ni uspel pri preverjanju pristnosti pri zaznavanju prevar in morda ni to, za koga je bil«, pošiljatelj ni uspešno uspešno opravil preverjanja pristnosti DKIM ali SPF. Najboljši način, da to razrešite, je, da se pošiljatelj pooblasti sam. Če pošiljatelj pošilja sporočila v vašem imenu, jih morate pooblastiti tako, da dodate naslov IP pošiljatelja v zapis SPF.
   
-Če [želite več informacij, glejte Odpravljanje težav z rdečim (sumljivim) varnostnim](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) nasvetom za zaznavanje prevar.
+Če [želite več informacij, glejte Odpravljanje težav z varnostni namig rdečih (sumljivih) napak](https://blogs.msdn.microsoft.com/tzink/2016/11/02/troubleshooting-the-red-suspicious-safety-tip-for-fraud-detection-checks/) pri zaznavanju prevar.
   
 Tukaj je še nekaj drugih povezav, ki so vam lahko v pomoč:
   

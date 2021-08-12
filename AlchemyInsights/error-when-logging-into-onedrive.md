@@ -1,5 +1,5 @@
 ---
-title: 0x8004de40 pri zagonu storitve OneDrive
+title: 0x8004de40 pri zagonu OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6886"
 - "9003837"
-ms.openlocfilehash: e329d7fe881a0fc9514584e06aa2d6e8ebab5b11
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 23c57356c8bd94c1cbafb538c9318208429754115a7c4e88abc93d293b5ea6e1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813668"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946595"
 ---
-# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 pri zagonu storitve OneDrive
+# <a name="0x8004de40-error-when-launching-onedrive"></a>0x8004de40 pri zagonu OneDrive
 
-Če se pri prijavi v **OneDrive 0x8004de40** prikaže sporočilo o napaki, znova zaženite računalnik, ko imate vzpostavljeno povezavo s službeno ali šolsko domeno. Če po vnovičnem zagonu računalnika prejmete to napako, poskusite to, ko ste povezani s službeno ali šolsko domeno:
+Če se pri prijavi v **0x8004de40** prikaže sporočilo o napaki OneDrive znova zaženite računalnik, medtem ko imate vzpostavljeno povezavo s službeno ali šolsko domeno. Če po vnovičnem zagonu računalnika prejmete to napako, poskusite to, ko ste povezani s službeno ali šolsko domeno:
 
 1. Kliknite Start in v iskalno polje vnesite **cmd** ali **ukazni** poziv, z desno tipko miške kliknite aplikacijo ukaznega poziva in izberite **Zaženi kot skrbnik.** Če ste pozvani k vnosu skrbniškega gesla ali potrditvi, vnesite geslo ali kliknite **Dovoli.**  
 
