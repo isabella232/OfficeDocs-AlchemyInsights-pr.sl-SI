@@ -12,16 +12,16 @@ ms.assetid: 82c0a06e-86b0-4e8c-8644-59cbc02e7645
 ms.custom:
 - "9"
 - "1"
-ms.openlocfilehash: 7275cf99a92f0eedeeb86f7beb555120c5649453
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd398ebe9200615044f30304b6bd4cd61e00c8c2bbfac027ad50c9f5489b1734
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954029"
 ---
-# <a name="add-or-remove-an-email-address-for-a-user"></a>Dodajanje ali odstranjevanje e-poštnega naslova za uporabnika
+# <a name="add-or-remove-an-email-address-for-a-user"></a>Dodajanje ali odstranjevanje e-poštnega naslova uporabnika
 
-[Upoštevajte ta navodila](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) v skrbniškem središču za Microsoft 365, da začnete.
+[Če želite začeti,](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) upoštevajte Skrbniško središče za Microsoft 365 navodila v korakih.
 
- **Opomba**: lahko imate več e-poštnih naslovov za uporabnika, vendar lahko uporabite dodatne  *e-poštne vzdevke*  le za prejemanje e-pošte. Če želite poslati e-poštno sporočilo z vzdevkom, ustvarite [nabiralnik v skupni rabi](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox). Na ta način boste dobili vzdevek za pošiljanje in prejemanje pošte.
+ **Opomba:** Za uporabnika imate lahko več kot en  e-poštni naslov, vendar pa lahko dodatne e-poštne vzdevke uporabite le za prejemanje e-pošte. Če želite poslati e-pošto z vzdevki, ustvarite nabiralnik v [skupni rabi.](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) Tako boste dobili vzdevek za pošiljanje in prejemanje pošte.
   

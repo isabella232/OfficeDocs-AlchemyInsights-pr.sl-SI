@@ -1,5 +1,5 @@
 ---
-title: Dovoljenja za napravo
+title: Dovoljenja naprave
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8267"
-ms.openlocfilehash: a69f4d42381dfc73c24695b52922dc3e9f3e3be5
-ms.sourcegitcommit: 9400cd853b7a5a81f6f5a1ad9601fef37c18bcae
+ms.openlocfilehash: 86fdf7cf956f81904cd4df6cf2b4efef77c09d21d417228c5722f5afcbe5727f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50714528"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913983"
 ---
-# <a name="device-permissions"></a>Dovoljenja za napravo
+# <a name="device-permissions"></a>Dovoljenja naprave
 
-Če želite upravljati napravo s sistemom Windows, morate biti član lokalne skupine skrbnikov. Kot del postopka združevanja Azure Active Directory (Azure AD), Azure AD posodobi članstvo te skupine v napravi. Posodobitev članstva lahko prilagodite tako, da izpolnjujete svoje poslovne zahteve. Posodobitev članstva je na primer uporabna, če želite, da osebje za pomoč uporabnikom storitve za tehnična opravila omogoča opravljanje opravil, ki zahtevajo skrbniške pravice v napravi.
+Če želite Windows napravo, morate biti član lokalne skrbniške skupine. Kot del postopka pridružitve Azure Active Directory Azure AD, Azure AD posodobi članstvo te skupine v napravi. Posodobitev članstva lahko prilagodite tako, da izpolnjuje zahteve vašega podjetja. Posodobitev članstva je na primer uporabna, če želite osebju za pomoč omogočiti izvajanje opravil, ki zahtevajo skrbniške pravice v napravi.
 
-Če želite izvedeti, kako deluje posodobitev članstva lokalnih skrbnikov in kako jo lahko prilagodite med združevanjem v storitvi Azure AD, glejte [dodeljevanje lokalnih skrbnikov napravam](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin). Vsebina tega članka se ne nanaša na hibridne naprave, ki so bile Združene v strežnik Azure AD.
+Če želite izvedeti, kako deluje posodobitev članstva lokalnih skrbnikov in kako jo lahko prilagodite med pridružnji azure AD, glejte Dodelitev lokalnih [skrbnikov napravam.](https://docs.microsoft.com/azure/active-directory/devices/assign-local-admin) Vsebina tega članka ne velja za hibridne naprave, ki so pridružene imeniku Azure AD.
