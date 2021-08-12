@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2593"
 - "9000698"
-ms.openlocfilehash: 51190e74e22208b7229a5295adbcbbf98e1c6a6a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 055d0fc75cfda123fe3b5abfb28f530ef1f14a58ed3875fae01fc41c50e7ca84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815847"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914847"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>Klicanje prek omrežja PSTN s Skypom za podjetja Online
+# <a name="pstn-calling-with-skype-for-business-online"></a>Klicanje prek omrežja PSTN s Skype za podjetja Online
 
-Če želite klice prek omrežja PSTN vzpostaviti v storitvi Microsoft 365, potrebujete na paket za klicanje v storitvi [Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) ali povezavo z infrastrukturo telefonije PSTN na mestu uporabe. Če želite več informacij, si oglejte:
+Če želite klice prek omrežja PSTN Microsoft 365, potrebujete paket za klicanje prek omrežja [Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) ali povezavo z infrastrukturo telefonije omrežja PSTN na mestu uporabe. Če želite več informacij, si oglejte:
 
-- [Razpoložljivost držav in regij za glasovne konference in načrte za klicanje v storitvi Microsoft Teams](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
-- [Pogosta vprašanja o zvočnih konferencah v storitvi Microsoft 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [Country and region availability for Audio Conferencing and Microsoft Teams Calling Plans](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans)
+- [Pogosta vprašanja o Microsoft 365 za glasovne konference](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
 - [Dodajanje sredstev in upravljanje dobroinje za komunikacijo](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [Klicalniki PSTN se ne morejo pridružiti klicnim konferenčnim klicem v Skypu za podjetja](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [Klicalniki PSTN se ne morejo pridružiti Skype za podjetja klicni konferenci](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)

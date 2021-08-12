@@ -1,5 +1,5 @@
 ---
-title: Uvajanje Officea v vodnik za uporabnike
+title: Uvedi Office za uporabnike Vodnik
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448695"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948107"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>Uvajanje Officea v vodnik za uporabnike
+# <a name="deploy-office-to-your-users-guide"></a>Uvedi Office za uporabnike Vodnik
 
-Uvajanje Officeovih aplikacij iz oblaka z možnostjo prilagajanja namestitve z orodjem za uvedbo sistema Office.
+Uved Office programe iz oblaka z možnostjo prilagajanja namestitve z orodjem za Office uvedbe.
 
-V vodniku za [uvedbo Officea](https://go.microsoft.com/fwlink/?linkid=2146451) lahko ustvarite prilagojeno Officeovo konfiguracijo z dodatnimi nastavitvami ali pa uporabite vnaprej vgrajeno priporočeno konfiguracijo. Ne glede na to, ali vaši uporabniki izvajajo samostojno namestitev ali če želite uporabnikom omogočiti posamezno ali v razsutem stanju, lahko s tem naprednim čarovnikom ponudite navodila po korakih za uporabnike Officeove namestitve, ki so prilagojene vaši organizaciji.
+Z [vodnikom Office](https://go.microsoft.com/fwlink/?linkid=2146451) Uvajanje v pomoč pri ustvarjanju prilagojene konfiguracije sistema Office z naprednimi nastavitvami ali pa uporabite vnaprej vgrajeno priporočeno konfiguracijo. Ne glede na to, ali vaši uporabniki samo namestijo ali jih uvajate za posamezne ali več uporabnikov hkrati, vam ta napredni čarovnik ponuja navodila po korakih, ki uporabnikom omogočajo namestitev programa Office, ki je prilagojena vaši organizaciji.

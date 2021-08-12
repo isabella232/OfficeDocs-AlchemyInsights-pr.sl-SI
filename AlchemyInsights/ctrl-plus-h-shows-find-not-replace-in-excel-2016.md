@@ -1,5 +1,5 @@
 ---
-title: CTRL + H prikazuje iskanje in ne nadomeščanje v programu Excel 2016
+title: CTRL+H pokaže »Najdi«, ne »Zamenjaj« v Excel 2016
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,14 +14,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 8f141fdebbba0789a406dd18c56c16c9b2522d58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 69aa31b488e268507f0d091eaa6d06c966d38ca3a7a9d099b10886e1954b956b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746271"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914741"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL + H prikazuje iskanje in ne nadomeščanje v Excelu
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a>CTRL+H pokaže »Najdi«, ne »Zamenjaj« v Excel
 
-V programu Excel 2016 se s pritiskom tipke CTRL + H odpre pogovorno okno Najdi in zamenjaj in prikaže zavihek Najdi, namesto zavihka Zamenjaj. na zavihku Osnovno kliknite Zamenjaj. Ta težava je bila odpravljena v različici 1708 (8431,2094). To težavo odpravite tako, da posodobite najnovejšo različico Officea. Izberite **File** \> **Account** \> **Posodobi možnosti posodobitve** računa datoteke \> **Update Now**.
+Če Excel 2016 zavihek Zamenjaj, pritisnete CTRL+H, odprete pogovorno okno Najdi in zamenjaj in prikaže se zavihek Najdi namesto zavihka Zamenjaj. Tudi če na zavihku Osnovno kliknete Zamenjaj, to naredi enako. Ta težava je bila odpravljena v različici 1708 (8431.2094). Če želite odpraviti to težavo, posodobite na najnovejšo različico Office. Izberite **Možnosti posodobitve** \> **za** \> **datotečni račun** Posodobi \> **zdaj.**
   
