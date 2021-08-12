@@ -14,12 +14,12 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 232aa6ea3f4dae92b84436ef2441be095c858a3b65ca33e754d802f39edc2097
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972993"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>Zahtevane licence za Microsoft ToDo
 
@@ -29,11 +29,11 @@ Uporabnik mora imeti eno od teh licenc za uporabo aplikacije Microsoft ToDo:
   
 - Business Essentials
 
-- Business Premium
+- Poslovni Premium
 
 - Microsoft 365 Firstline F1
 
-- Kateri koli paket storitve Office 365 Enterprise
+- Kateri Office 365 Enterprise paket
 
 - Secure Productive Business
 
@@ -41,23 +41,23 @@ Uporabnik mora imeti eno od teh licenc za uporabo aplikacije Microsoft ToDo:
 
 - Secure Productive Enterprise E5
 
-- Kateri koli paket storitve Office 365 Education
+- Kateri Office 365 Education paket
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-Poleg veljavne licence izdelka potrebujete tudi eno od teh različic storitve Exchange Online, da bo toDo lahko sinhroniziral uporabniške podatke:
+Poleg veljavne licence izdelka potrebujete tudi eno od teh Exchange Online aplikacijo ToDo, da bo lahko sinhroniziral uporabniške podatke:
   
-- Exchange Online (paket 1)
+- Exchange Online Paket 1
 
-- Exchange Online (paket 2)
+- Exchange Online Paket 2
 
 - Exchange Essentials
 
-- Exchange Online Kiosk
+- Kiosk Exchange Online
 
 - Exchange Online POP
 
-[Dodeljevanje licenc uporabniškim računom s storitvijo Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[Dodeljevanje licenc uporabniškim računom s Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   

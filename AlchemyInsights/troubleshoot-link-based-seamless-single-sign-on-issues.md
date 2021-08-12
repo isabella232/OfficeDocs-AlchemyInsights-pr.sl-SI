@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav z nemoteno enotno prijavo (SSO), ki temelji na povezavi
+title: Odpravljanje težav s enotno prijavo na osnovi povezave
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9372"
-ms.openlocfilehash: 7f8b9247176df7f561ba89f8d75cbdc74155fcd3
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 95883de91a78f4a2821e50102be153e08f0d5cfb569d9d86c71d87fe5e28e149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50695043"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972876"
 ---
-# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Odpravljanje težav z nemoteno enotno prijavo (SSO), ki temelji na povezavi
+# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>Odpravljanje težav s enotno prijavo na osnovi povezave
 
-Večina uporabnikov lahko odpravite težavo z nemoteno enotno prijavo (SSO) s povezavo, in sicer s spodnjimi koraki:
+Večina uporabnikov lahko odpravi težavo s funkcijo enotne prijavo (SSO) na osnovi povezav tako, da sledite tem korakom:
 
-**Več informacij o povezani** storitvi SSO: [razumevanje povezanega znaka za vpis](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) – povezana možnost omogoča konfiguriranje ciljnega mesta, ko uporabnik izbere program v aplikaciji My apps ali Office 365 portal. V tem članku je več podrobnosti o povezani možnosti.
+Več informacij o **povezani SSO:** Razumevanje povezane vpise [–](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) s povezano možnostjo lahko konfigurirate ciljno mesto, ko uporabnik izbere aplikacijo v portalu »Moje aplikacije« ali Office 365 organizacije. V tem članku je podrobneje opisana povezana možnost.
 
-**Konfiguracija povezane SSO**: [Konfiguracija povezave](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
+**Konfiguracija povezane SSO:** [konfiguracija povezave](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
 
-**Poiščite pomoč**: [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) -Submit zahteve za funkcije in tehnična vprašanja o enotni prijavi za povezavo (SSO) v storitvi Azure Active Directory & razvoj.
+**Pomočnik:** [Microsoftova](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) vprašanja in&– pošiljanje zahtev za funkcije in tehničnih vprašanj o enotno prijavo na osnovi povezave (SSO) Azure Active Directory & razvoju.

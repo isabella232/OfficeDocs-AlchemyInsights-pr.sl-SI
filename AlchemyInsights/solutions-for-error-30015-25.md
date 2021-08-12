@@ -14,25 +14,25 @@ ms.custom:
 - "830"
 - "2000020"
 ms.assetid: 1f16f2c7-9593-4ef3-a4d4-e22b59814497
-ms.openlocfilehash: cb5836189a011ce67941329cbdbcf8fc2a6c4734
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7d0ede8f78d7c32e11241194c5df8c22bdac398ca095d65691d30b4e93f3f8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691339"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957296"
 ---
 # <a name="solutions-for-error-30015-25"></a>Rešitve za napako 30015-25
 
-Poskusite odpraviti te rešitve, da odpravite napako [30015-25](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
+Težavo [30015-25 poskusite odpraviti s temi rešitvami:](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)
   
-- Znova zaženite računalnik in poskusite [namestiti Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Znova zaženite računalnik [in poskusite namestiti Office](https://portal.office.com/OLS/MySoftware.aspx).
 
 - Prenesite in namestite [pomočnika za podporo in obnovitev](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Ko se odpre, **odstranite Officeove izdelke** izberite različico, ki jo želite odstraniti, in izberite **naprej**.
+1. Ko se odpre, na **strani Odstranitev Office izberite** različico, ki jo želite odstraniti, nato pa izberite **Naprej.**
 
 2. Pomikajte se po oknih in ob pozivu znova zaženite računalnik.
 
-    Po vnovičnem zagonu je pomočnik za podporo in obnovitev samodejno znova odprt za dokončanje postopka odstranjevanja.
+    Po ponovnem zagonu se pomočnik za podporo in obnovitev znova odpre okno za samodejno odpiranje, da dokončate postopek odstranitve.
 
-3. Sledenje preostalim pozivom in [Vnovična namestitev Officea](https://portal.office.com/OLS/MySoftware.aspx) ali zapiranje pomočnika.
+3. Sledite preostalim pozivom [in znova Office](https://portal.office.com/OLS/MySoftware.aspx) ali zaprite pomočnika.
