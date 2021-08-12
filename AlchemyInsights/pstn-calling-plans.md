@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 5371f41f5becd50eb19bd3359e82e171cdf7f80d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cfc35cd18eeb60b1f6010ac6c422536db42c2e5b51579c8866198e729bd98843
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835935"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943571"
 ---
 # <a name="pstn-calling-plans"></a>Načrti klicanja prek omrežja PSTN
 
@@ -28,4 +28,4 @@ ms.locfileid: "51835935"
 
 - Če želite preprečiti, da bi uporabnikom **zmanjkalo minut**, namestite [Dobropise za komunikacijo](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization). Cene si lahko ogledate [tukaj](https://products.office.com/microsoft-teams/voice-calling). 
 
-- Če želite več informacij, glejte [Na pakete za klicanje](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) v telefonih Microsoft Teams in Microsoft Teams ali Kaj so [dobroi področju komunikacije?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- Če želite več informacij, glejte [Microsoft Teams Telefon in Microsoft Teams klicanje](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) ali Kaj so [dobroi področju komunikacije?](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

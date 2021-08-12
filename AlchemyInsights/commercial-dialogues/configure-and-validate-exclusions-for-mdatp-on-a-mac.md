@@ -1,5 +1,5 @@
 ---
-title: Konfiguriranje in preverjanje izključitve za MDATP v računalniku Mac
+title: Konfiguracija in preverjanje veljavnosti izključitev za MDATP v računalniku Mac
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6614b017b6ef0aa71ef75887588d796d0d491279
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e115a29ff4d0d4b2a4b5a51d009f4a9d9c2d85f1e70d22a8ed804ce40ca7b4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916359"
 ---
-# <a name="configure-and-validate-exclusions-for-mdatp-on-a-mac"></a>Konfiguriranje in preverjanje izključitve za MDATP v računalniku Mac
+# <a name="configure-and-validate-exclusions-for-mdatp-on-a-mac"></a>Konfiguracija in preverjanje veljavnosti izključitev za MDATP v računalniku Mac
 
-V računalniku Mac lahko izključite določene datoteke, mape, procese in procesne datoteke, ki jih odprete v MDATP scans. Izključitve preprečujejo nepravilne odkrivanje programske opreme in datotek, ki so enolične ali prilagojene za vašo organizacijo. Izključitve pripomorejo tudi k ublažitvi težav z učinkovitostjo delovanja, ki jih povzroča MDATP.
+Iz optičnega branja MDATP v računalniku Mac lahko izključite določene datoteke, mape, procese in procesno odprte datoteke. Izključitve pomagajo preprečiti nepravilno zaznavanje programske opreme in datotek, ki so edinstvene ali prilagojene za vašo organizacijo. Izključitve pomagajo tudi ublažiti težave z učinkovitostjo delovanja, ki jih povzroča MDATP.
 
-Če želite izvedeti več, glejte [Konfiguriranje in potrjevanje izključitve za MDATP v računalniku Mac](https://go.microsoft.com/fwlink/?linkid=2144616).
+Če želite izvedeti več, [glejte Konfiguracija in preverjanje veljavnosti izključitev za MDATP v računalniku Mac.](https://go.microsoft.com/fwlink/?linkid=2144616)
