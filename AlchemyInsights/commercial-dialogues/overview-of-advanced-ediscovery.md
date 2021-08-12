@@ -1,5 +1,5 @@
 ---
-title: Pregled naprednih E-odkrivanje
+title: Pregled Advanced eDiscovery
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 9196d55a0643b37a2a5e0efcbe7b71de9737fa2d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a703bcd82bf345194028e350263c0650dbb520950f89725f57442c9c8c22035c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483336"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916179"
 ---
-# <a name="overview-of-advanced-ediscovery"></a>Pregled naprednih E-odkrivanje
+# <a name="overview-of-advanced-ediscovery"></a>Pregled Advanced eDiscovery
 
-Z naprednim e-odkrivanjem lahko analizirate nestrukturirane podatke in znižate stroške e-odkrivanja. Uporabite lahko analizo besedila, strojno učenje in primernost/napovedno kodiranje. Tukaj je nekaj namigov:
+Z naprednim e-odkrivanjem lahko analizirate nestrukturirane podatke in znižate stroške e-odkrivanja. Uporabite lahko analizo besedila, strojno učenje in primernost/napovedno kodiranje. Nekaj namigov:
 
-- Dodatna funkcija E-odkrivanje zahteva naročnino na E5 za vašo organizacijo ali naročnino na Office 365 E3 z dodatkom za napredno skladnost.
-- Če želite ustvariti nov napredni primer e-odkrivanje, pojdite v [središče za skladnost z varnostnimi &](https://go.microsoft.com/fwlink/p/?linkid=2077143) in izberite **e-odkrivanje**  >  **Advanced e-odkrivanje**.
-- Če želite več informacij, glejte [pregled programa Microsoft 365 Advanced e-odkrivanje](https://go.microsoft.com/fwlink/?linkid=2101588).
-- Če želite več informacij o potrebnih korakih za nastavitev naprednih E-odkrivanje, glejte [nastavitev programa Microsoft 365 Advanced e-odkrivanje](https://go.microsoft.com/fwlink/?linkid=2122672).
+- Za Advanced eDiscovery za organizacijo potrebujete naročnino na paket E5 ali naročnino na Office 365 E3 za napredno skladnost s predpisi.
+- Če želite ustvariti nov Advanced eDiscovery, pojdite v Središče [za varnost in &](https://go.microsoft.com/fwlink/p/?linkid=2077143) za skladnost s predpisi in izberite možnost **e-Advanced eDiscovery.**  >  
+- Če želite več informacij, [glejte Pregled Microsoft 365 Advanced eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2101588)
+- Če želite informacije o potrebnih korakih za Advanced eDiscovery, glejte [Nastavitev Microsoft 365 Advanced eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2122672)

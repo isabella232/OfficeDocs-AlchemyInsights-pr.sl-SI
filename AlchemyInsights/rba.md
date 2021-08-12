@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
-ms.openlocfilehash: ab0cc63ef12c675eeda8676fe129636ddb085c3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c185a606460b7b204d2f0ff11f6f77cb147c681feb6aa51401e1515ca8017a68
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797960"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911138"
 ---
-# <a name="about-room-mailboxes"></a>Več o nabiralnikih sob
+# <a name="about-room-mailboxes"></a>O nabiralnikih sob
 
-Nabiralnik sobe je nabiralnik vira, ki je dodeljen fizičnemu mestu, kot je konferenčna soba, avditorij ali izobraževalna soba. Če želite več informacij o nabiralnikih sob, si oglejte [Ustvarjanje in upravljanje nabiralnikov sob](https://go.microsoft.com/fwlink/p/?linkid=717533).
+Nabiralnik sobe je nabiralnik vira, ki je dodeljen fizični lokaciji, na primer konferenčni sobi, avditorij ali soba za izobraževanje. Če želite več informacij o nabiralnikih sob, [glejte Ustvarjanje in upravljanje nabiralnikov sob.](https://go.microsoft.com/fwlink/p/?linkid=717533)

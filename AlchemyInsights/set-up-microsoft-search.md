@@ -1,5 +1,5 @@
 ---
-title: Nastavitev iskanja Microsoft
+title: Nastavitev Iskanje Microsoft
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9264"
-ms.openlocfilehash: 5bc1f27377e48d54d82ab36705fe92a5a16f3c48
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 6eca85ef9909f80086376e5abcc16ccdcd298ff09a5507161b222447d9f690c0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405472"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958169"
 ---
-# <a name="set-up-microsoft-search"></a>Nastavitev iskanja Microsoft
+# <a name="set-up-microsoft-search"></a>Nastavitev Iskanje Microsoft
 
-Microsoft Search‎ provides a user-friendly interface to search and find results in your organization across ‎Microsoft 365‎ services and applications to help you complete what you're working on. It is included at no additional cost with your eligible ‎Microsoft 365‎ subscription.
+Iskanje Microsoft uporabnikom prijazen vmesnik za iskanje in iskanje rezultatov v organizaciji v različnih Microsoft 365 storitvah in aplikacijah, s pomočjo katerega lahko dokončate svoje delo. Dodatek je vključen brez dodatnih stroškov za vašo upravičeno Microsoft 365 naročnino.
 
-Uporabite vodnik [za nastavitev iskanja Microsoft,](https://go.microsoft.com/fwlink/?linkid=2156919) da konfigurirate, ali ga želite pilotirati skupini uporabnikov ali ga oblikovati vsem v organizaciji. Dodelili boste skrbnike za iskanje in urednike iskanja, nato pa prilagodili izkušnjo iskanja za uporabnike z odgovori in dodatnimi možnostmi, kot je dodajanje razširitve Bing v Chrome ali nastavitev storitve Bing kot privzetega iskalnika.
+V [Iskanje Microsoft](https://go.microsoft.com/fwlink/?linkid=2156919) za nastavitev programa lahko konfigurirate, ali ga želite pilotirati skupini uporabnikov ali ga želite uporabiti za vse v organizaciji. Dodelili boste skrbnike za iskanje in urednike iskanja, nato pa prilagodili izkušnjo iskanja za uporabnike z odgovori in dodatnimi možnostmi, kot je dodajanje razširitve Bing v Chrome ali nastavitev Bing kot privzeti iskalnik.

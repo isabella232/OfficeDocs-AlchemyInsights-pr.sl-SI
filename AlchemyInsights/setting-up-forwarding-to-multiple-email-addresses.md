@@ -12,19 +12,19 @@ ms.custom:
 - "837"
 - "1200004"
 ms.assetid: 81205bed-e32a-468d-9d4c-9e881622908b
-ms.openlocfilehash: 0b44d1e8f7f8c3674666b3ff6a8b515d2f2d66b3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 964285715720ee852ddb537ddfbaf1c6fb6bd3363eec83ffadc881b741035cad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798860"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958133"
 ---
 # <a name="setting-up-forwarding-to-multiple-email-addresses"></a>Nastavitev posredovanja na več e-poštnih naslovov
 
-Če morate nastaviti posredovanje e-pošte skupini uporabnikov, ustvarite seznam prejemnikov, dodajte več uporabnikov vanj in nato konfigurirajte preusmeritev na ta seznam. Najprej se v skrbniškem središču pomaknite do skupin **skupin**  >  [Groups](https://portal.office.com/adminportal/home#/groups).
+Če želite nastaviti posredovanje e-pošte skupini uporabnikov, ustvarite seznam prejemnikov, mu dodajte več uporabnikov in nato konfigurirajte posredovanje za ta seznam. Najprej se v skrbniškem središču pomaknite do  >  [skupine.](https://portal.office.com/adminportal/home#/groups)
   
-1. Ustvarite skupino.
+1. Ustvari skupino.
 
-2. Dodajte več uporabnikov vanj.
+2. Dodate več uporabnikov.
 
-3. Konfigurirajte preusmeritev nabiralnika v to skupino.
+3. Konfigurirajte posredovanje nabiralnikov za to skupino.

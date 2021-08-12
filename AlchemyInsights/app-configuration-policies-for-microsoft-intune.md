@@ -1,5 +1,5 @@
 ---
-title: Pravilniki za konfiguracijo aplikacij za Microsoft Intune
+title: Pravilniki konfiguracije Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,20 +14,20 @@ ms.custom:
 - "1030"
 - "9003770"
 - "6709"
-ms.openlocfilehash: e37485d6fecab8c0eeb513185adf71b394064744
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc23546a6287300075f0dcbc120e4e09dded2b8e03899e98d8c27ff6c94b737e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821346"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932005"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a>Pravilniki za konfiguracijo aplikacij za Microsoft Intune
+# <a name="app-configuration-policies-for-microsoft-intune"></a>Pravilniki konfiguracije Microsoft Intune
 
-Pravilniki za konfiguracijo aplikacij v storitvi Microsoft Intune se uporabljajo za zagotavljanje nastavitev konfiguracije za aplikacije sistema iOS ali Android. Te nastavitve konfiguracije omogočajo prilagajanje aplikacije. Ne pozabite, da obstajajo omejitve glede tega, katere različice operacijskega sistema in katere aplikacije podpirajo uporabo pravilnikov o konfiguraciji.
+Pravilniki o konfiguraciji Microsoft Intune v sistemu Windows uporabljajo za zagotavljanje nastavitev konfiguracije za aplikacije sistema iOS ali Android. Te nastavitve konfiguracije omogočajo prilagajanje aplikacije. Ne pozabite, da obstajajo omejitve glede tega, katere različice operacijskega sistema in katere aplikacije podpirajo uporabo pravilnikov o konfiguraciji.
 
 Podrobnosti najdete v tej dokumentaciji
 
-[Pravilniki za konfiguracijo aplikacij za Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+[Pravilniki konfiguracije aplikacij za Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
 
 [Dodajanje pravilnikov za konfiguracijo aplikacij za upravljane naprave s sistemom iOS](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
 

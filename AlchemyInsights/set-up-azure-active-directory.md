@@ -1,5 +1,5 @@
 ---
-title: Nastavitev imenika Azure Active Directory
+title: Nastavitev Azure Active Directory
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004192"
 - "7373"
-ms.openlocfilehash: 94078246562112709eee303fa13d4ac2aa651b12
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 92fadd9c98494af1a9ead97c414f3d417d37f57c77affdb9c9b3568dff4b889d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679645"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958205"
 ---
-# <a name="set-up-azure-active-directory"></a>Nastavitev imenika Azure Active Directory
+# <a name="set-up-azure-active-directory"></a>Nastavitev Azure Active Directory
 
-[Vodnik za nastavitev AZURE ad](https://go.microsoft.com/fwlink/?linkid=2134390) zagotavlja informacije, s katerimi zagotovite, da ima vaša organizacija močne varnostne temelje. V tem vodniku boste nastavili začetne funkcije, kot je na primer Azure nadzor dostopa na podlagi vloge (Azure RBAC) za skrbnike, Azure AD Connect za vaš imenik na mestu uporabe in storitev Azure AD Connect Health, tako da lahko spremljate zdravje hibridne identitete med avtomatiziranimi sinhronizacijami.
+V [vodniku za nastavitev imenika Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) so informacije, ki zagotavljajo, da ima organizacija močno varnostno osnovo. V tem vodniku boste nastavili začetne funkcije, kot je nadzor dostopa na osnovi vloge v storitvi Azure (Azure RBAC) za skrbnike, Azure AD Povezovalnik za imenik na mestu uporabe in Azure AD Povezovalnik Health, tako da lahko spremljate stanje vaše hibridne identitete med avtomatizirano sinhronizacijo.
 
-Vključuje tudi osnovne informacije o omogočanju samopostrežnega ponastavitve gesla, pogojnega dostopa in integriranega vpisa tretje osebe, vključno z izbirno dodatno zaščito identitete in avtomatizacijo za omogočanje uporabe uporabnika.
+Vključuje tudi bistvene informacije o omogočanju samopostrežne ponastavitve gesla, pogojnega dostopa in vgrajene funkcije za vpis drugega ponudnika, vključno z izbirno napredno zaščito identitete in avtomatizacijo omogočanja uporabe za uporabnike.

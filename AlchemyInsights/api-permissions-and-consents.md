@@ -1,5 +1,5 @@
 ---
-title: Dovoljenja za API in soglasja
+title: Dovoljenja in soglasje ZA API
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7756"
-ms.openlocfilehash: c99e5e2e8fb9bcc88e5221890ed9c28ed9e7d0c8
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: c45bab67d414c8f0f2ca1c5275084d4ecce538c5256154292302080ba5bd8175
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932113"
 ---
-# <a name="api-permissions-and-consent"></a>Dovoljenja za API in soglasja
+# <a name="api-permissions-and-consent"></a>Dovoljenja in soglasje ZA API
 
-Programi, ki se integrirajo s platformo Microsoft Identity, spremljajo model avtorizacije, ki uporabnikom in skrbnikom omogoča nadzor nad tem, kako je mogoče dostopati do podatkov. Izvajanje modela odobritve je bilo posodobljeno na končni točki Microsoftove platforme za identiteto. Spreminja, kako mora program delovati z Microsoftovo platformo Identity. [Dovoljenja in soglasje v končni točki Microsoftovega izhodišča identitete](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) so osnovni pojmi tega modela odobritve, vključno z obsegi, dovoljenji in soglasjem.
+Aplikacije, ki so integrirane s Microsoftova platforma za identitete, vključujejo model avtorizacije, ki uporabnikom in skrbnikom omogoča nadzor nad tem, kako je mogoče dostopati do podatkov. Izvedba modela avtorizacije je bila posodobljena v končni Microsoftova platforma za identitete končni točki. Spremeni način interakcije aplikacije z Microsoftova platforma za identitete. [Dovoljenja in soglasje v končni Microsoftova platforma za identitete vključuje](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) osnovne koncepte tega modela avtorizacije, vključno z obsegi, dovoljenji in soglasjem.
 
-[Okvir soglasja Azure Active Directory (AZURE ad)](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) omogoča preprosto razvijanje spletnih in odjemalskih programov za več najemnikov. Ti programi dovoljujejo vpis s strani uporabniških računov iz strežnika Azure AD najemnika, ki je drugačen od tistega, v katerem je program registriran. Poleg svojih spletnih vmesnikov API lahko tudi potrebujejo dostop do spletnih vmesnikov API, kot je Microsoft Graph API (za dostop do storitev Azure AD, InTune in storitve Microsoft 365) in drugih API-jev Microsoftovih storitev.
+Ogrodje [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/develop/consent-framework) omogoča preprost razvoj spletnih in izvornih odjemalskih aplikacij z več najemniki. Te aplikacije omogočajo vpis z uporabniškimi računi iz najemnika Azure AD, ki je drugačen od tistega, v katerem je registrirana aplikacija. Poleg lastnih API-jev v spletu bodo morda potrebovali tudi spletne API-je, kot je API za Microsoft Graph (za dostop do storitev Azure AD, Intune in storitev v strežniku Microsoft 365) in drugih API-jev Microsoftove storitve.
 

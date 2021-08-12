@@ -1,5 +1,5 @@
 ---
-title: gesla programa 500
+title: 500 gesel za aplikacije
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -15,25 +15,25 @@ ms.custom:
 - "387"
 - "1300011"
 ms.assetid: 4f670a84-a2b8-48ce-b0aa-a9ada3bad066
-ms.openlocfilehash: 13d83b4d97a2bab2251acb8eaf08cf80a769b639
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a384ea0de9b4f6ed58215fd988f9520ba0031af041eb326fda467b80d28406ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717053"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931969"
 ---
-# <a name="app-passwords"></a>Gesla za program
+# <a name="app-passwords"></a>Gesla za aplikacije
 
-Geslo programa je koda, ki daje programu ali napravi dovoljenje za dostop do Microsoftovega službenega ali šolskega računa. Če vaš račun zahteva več dejavnikov preverjanja pristnosti (MFA) in aplikacija vzpostavi povezavo z vašim računom, morate ustvariti geslo za aplikacijo, da se bo aplikacija lahko povezala z Microsoftom. Outlook 2016 in starejše različice Outlooka zahtevajo geslo za program.
+Geslo za aplikacijo je koda, ki programu ali napravi omogoča dostop do vašega Microsoftovega službenega ali šolskega računa. Če vaš račun zahteva večkratno preverjanje pristnosti (MFA) in se aplikacija poveže z vašim računom, morate ustvariti geslo za aplikacijo, da se bo aplikacija lahko povezala z Microsoftom. Za Outlook 2016 in starejše različice Outlook potrebujete geslo za aplikacijo.
 
- **Opomba**: preden preskusite te korake, se s skrbnikom za Microsoft 365 prepričajte, da je zahtevana MFA za vaš račun. Če ni, možnosti, opisane v korakih, ne bodo na voljo za vas.
+ **Opomba:** Pred naslednjimi koraki pri skrbniku preverite, Microsoft 365 je za vaš račun zahtevana MFA. Če niso, možnosti, opisane v korakih, ne bodo na voljo.
 
-1. Vpišite se s službenim ali šolskim računom in geslom.
+1. Vpišite se s službeim ali šolskim računom in geslom.
 
-2. Izberite **Nastavi zdaj**.
+2. Izberite **Nastavi zdaj.**
 
-3. Izberite način preverjanja pristnosti in upoštevajte pozive.
+3. Izberite način preverjanja pristnosti in upoštevajte navodila.
 
-4. Ko preverite svoj nadomestni način stika, izberite **naprej**.
+4. Ko preverite nadomestni način za stik, izberite **Naprej.**
 
-5. Prejeli boste geslo za program, ki ga lahko uporabite z Outlookom, Apple mailom in drugimi aplikacijami, ki jo zahtevajo. Izberite **Kopiraj** , da kopirate geslo, da ga boste lahko prilepili drugje (tega vam ni treba zapomniti).
+5. Dobili boste geslo za aplikacijo, ki ga lahko uporabite s programi Outlook, Apple Mail in drugimi aplikacijami, ki to zahtevajo. Izberite **Kopiraj,** da kopirate geslo, da ga lahko prilepite drugje (ni se vam treba zapomniti).
