@@ -1,5 +1,5 @@
 ---
-title: Posodobitev številke PO v portalu Azure EA – priporočena navodila
+title: Posodobitev številke naročila na portalu Azure EA – priporočeni koraki
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7290"
-ms.openlocfilehash: 0388ffa5e33cca366ab02c93bb70464fb2453752
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 160cdafd73fc3293eb154d156093a39844d0b84ea9f972691c3630693d720b38
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007194"
 ---
-# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Posodobitev številke PO v portalu Azure EA – priporočena navodila
+# <a name="update-po-number-in-azure-ea-portal---recommended-steps"></a>Posodobitev številke naročila na portalu Azure EA – priporočeni koraki
 
-Spremembe v številkah DDV/DAVČNEm ID-ju ali naročilnici (PO) bodo začele veljati na naslednjem računu. Če želite spremeniti ID za DDV/davek ali številko PO na račun, ki ste ga že ustvarili, odprite vstopnico za podporo. Če imate težave, povezane z ID-jem za DDV/davek, se povežite z Microsoftovim licenčnim partnerjem (partnerjem ali svetovalcem za programsko opremo). Povezali se bodo s središčem za regionalno poslovanje (ROC) za vprašanja glede vašega ID-ja za DDV/davek. 
+Spremembe ID-ja DDV-ja/davka ali številke naročila bodo vplivale na naslednji račun. Če želite spremeniti številko ID DDV/DAVEK ali številko računa na račun, ki je že bil ustvarjen, odprite vstopnico za podporo. Če imate kakršne koli težave, povezane z vašim ID-jem za DDV/DAVEK, se za pomoč glede microsoftovega partnerja za licenciranje (partnerja ali svetovalca za programsko opremo) obvestite o tem partnerju. Obrnite se na Regionalno operacijsko središče (ROC) za vprašanja o vaši ID-ju za DDV/DAVEK. 
 
-Portal Azure EA samodejno ustvari privzeto številko PO, razen če skrbnik EA nastavi eno pred datumom računa. Kot skrbnik EA (neposreden vpis)/partnerski skrbnik (posredni vpis) lahko posodobite številko PO v portalu Azure EA. Številko PO lahko posodobite kadar koli pred ustvarjenim računom za trenutno obdobje obračunavanja in največ sedem dni po prejemu e-poštnega sporočila o avtomatiziranem računu.    
+Portal Azure EA samodejno ustvari privzeto številko naročila, razen če skrbnik EA nastavi številko pred datumom računa. Kot skrbnik EA (neposredna včlanitev) /skrbnik partnerja (posredna včlanitev) lahko posodobite številko naročila v portalu Azure EA. Številko poštnega naloga lahko kadar koli posodobite, preden je bil račun ustvarjen za trenutno obdobje obračunavanja in največ sedem dni po prejemu samodejnega e-poštnega obvestila o računu.    
 
-Če želite posodobiti številko PO:
+Če želite posodobiti številko posoja:
 
-1. Vpišite se v [portal EA](https://ea.azure.com/).
-1. V levem podoknu kliknite **poročila**.
-1. Na vrhu strani kliknite **Povzetek uporabe** in izberite izbrano obdobje v spustnem meniju.
-1. Kliknite **Ogled/urejanje številk po**.
-1. Vnesite novo številko PO in kliknite **Shrani**.
+1. Vpišite se [v portal EA.](https://ea.azure.com/)
+1. V levem podoknu kliknite **Poročila.**
+1. Na vrhu strani kliknite Povzetek **uporabe in** na spustnem seznamu izberite ustrezno obdobje.
+1. Kliknite **Ogled/urejanje številk telefonskih številk.**
+1. Vnesite novo številko posnete in kliknite **Shrani.**
 
 **Priporočeni dokumenti** 
 
-- [Računi za vpis v Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
-- [Razumevanje računa za pogodbo Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
+- [Računi za včlanitev v azure podjetja](https://docs.microsoft.com/azure/billing/billing-ea-portal-enrollment-invoices) 
+- [Razumevanje računa za pogodba Enterprise Agreement Azure](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea)  
 - [Razumevanje vlog v storitvi Azure Enterprise](https://docs.microsoft.com/azure/billing/billing-understand-your-bill-ea) 
-- [Ustvarjanje drugega skrbnika za podjetja (skrbnik EA)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 
+- [Ustvarjanje drugega skrbnika podjetja (skrbnik EA)](https://docs.microsoft.com/azure/cost-management-billing/manage/ea-portal-administration#create-another-enterprise-administrator) 

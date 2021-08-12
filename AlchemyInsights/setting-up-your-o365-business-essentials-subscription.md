@@ -1,5 +1,5 @@
 ---
-title: Nastavitev naročnine na O365 Business Essentials
+title: Nastavitev naročnine na Office 365 Business Essentials
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,39 +9,39 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: fc17d73ccdddab7e1c9e7693f6715b38efef7f56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 63a435c63019a421ca440dc7eeb58ccb3a90a5786118eb96a081f60a10e7d0b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740131"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910634"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>Nastavitev naročnine na O365 Business Essentials
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>Nastavitev naročnine na Office 365 Business Essentials
 
-Ustvarjanje računov Microsoft 365 in dodajanje domene
+Ustvarjanje Microsoft 365 računov in dodajanje domene
   
-- V tem koraku uporabite čarovnika za nastavitev, da ustvarite račune Microsoft 365 za uporabnike in dodate svojo domeno. Čarovnik vam omogoča, da prilagodite vse ID-je uporabnikov in e-pošto za podjetja, na primer [rob@contoso.com](mailto:rob@contoso.com).
+- V tem koraku boste s čarovnikom za nastavitev ustvarili nove Microsoft 365 račune za uporabnike in dodali svojo domeno. S čarovnikom lahko prilagodite ID vsakega uporabnika in e-pošto za svoje podjetje, na [primer rob@contoso.com.](mailto:rob@contoso.com)
     
-- Pojdite v [skrbniško središče za Microsoft 365](https://login.partner.microsoftonline.cn/).
+- Pojdite na [Skrbniško središče za Microsoft 365.](https://login.partner.microsoftonline.cn/)
     
-- Če želite zagnati čarovnika, izberite **Pojdi na nastavitev**. Če želite izvedeti več, glejte [Dodajanje domene v Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
+- Čarovnika zaženete tako, da **izberete Pojdi na nastavitev**. Če želite izvedeti več, [glejte Dodajanje domene v Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain)
     
 Uvoz e-pošte
   
-- Premaknite obstoječo e-pošto in stike iz drugih e-poštnih sistemov v svoj nabiralnik v storitvi Microsoft 365, da boste lahko videli vse na enem mestu. Za možnosti selitve [preselite e-pošto in stike v Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
+- Premaknite obstoječo e-pošto in stike iz drugih e-poštnih sistemov v nabiralnik storitve Microsoft 365, da jih boste lahko videli na enem mestu. Možnosti selitve so na voljo [v možnostih selitve Selitev e-pošte in Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
-- Povezovanje e-poštnih računov
+- Povezovalnik e-poštni računi
     
-  - Poleg tega, da upravljate svojo e-pošto v Outlooku, lahko tudi druge e-poštne račune povežete z Outlookom, na primer račune Gmail in Yahoo. S tem lahko upravljate vsa e-poštna sporočila na enem mestu. Do 5 e-poštnih računov se lahko povežete z Outlookom. Če želite več informacij, glejte [povezovanje e-poštnih računov v Outlooku v spletu (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) . 
+  - Poleg upravljanja e-pošte v storitvi Outlook lahko z računom Outlook tudi druge e-poštne račune, na primer račune za Gmail in Yahoo. Tako lahko vso svojo e-pošto upravljate na enem mestu. S to povezavo lahko povežete do 5 e-poštnih Outlook. Če [Povezovalnik podrobnosti, glejte Outlook v spletu e-Microsoft 365 račune v](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) outlooku (Microsoft 365). 
     
 Namestitev Skype za podjetja
   
-- Vi in vaši člani skupine lahko [prenesete in namestite Skype za podjetja](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) v vseh računalnikih, računalnike Mac, tablične računalnike in telefone. Nato si boste lahko ogledali stanje v spletu svojih sodelavcev, začeli klepete iz drugih Officeovih programov in gostujoči videoposnetki z največ 250 osebami. 
+- Vi in člani vaše skupine lahko [prenesete in Skype za podjetja](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) v vse računalnike s sistemom Windows, računalnike Mac, tablične računalnike ter telefone. Nato boste lahko videli stanje prijave za svoje sodelavce, začeli klepet iz drugih programov za Office in gostili videoseje z do 250 ljudmi. 
     
 Shranjevanje datotek v spletu
   
-- Če želite izvedeti, katere lokacije za shranjevanje so najboljše za vaše podjetje, si oglejte, [kje lahko shranite datoteke v programu Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). Vsi dobijo **OneDrive** mesto shrambe v oblaku samodejno, ko ustvarite račune za Microsoft 365. Z OneDrive lahko dostopate do datotek v računalniku, telefonih in tabličnih računalnikih. 
+- Če želite izvedeti, katere lokacije za shranjevanje so najboljše za vaše podjetje, [glejte Kje lahko shranjujete datoteke Microsoft 365.](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx) Vsi samodejno OneDrive **mesto za shranjevanje** v oblaku, ko zanje Microsoft 365 račune. Z OneDrive lahko dostopate do datotek v vseh računalnikih, telefonih in tabličnih računalnikih. 
     
-Podrobna navodila za namestitev najdete v [tem članku](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
+Podrobna navodila za nastavitev so na voljo v tem [članku.](https://docs.microsoft.com/microsoft-365/admin/setup/setup)
   
 
