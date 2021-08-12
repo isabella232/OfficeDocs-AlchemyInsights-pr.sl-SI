@@ -1,5 +1,5 @@
 ---
-title: Prijava sumljivih prilog
+title: Poročanje o sumljivih prilogah
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: c4219d67666b46634506617a96c0ab458836410a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 78b803e25a7ec39b8b5a9328e32e380b1a1c16b8859cc713935f38590b1bf3ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748249"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948935"
 ---
-# <a name="report-suspicious-attachments"></a>Prijava sumljivih prilog
+# <a name="report-suspicious-attachments"></a>Poročanje o sumljivih prilogah
 
-1. V flyout **novo oddajo** izberite **Priloga** in nato Prenesite datoteko, ki jo želite skenirati.
+1. V **podoknu Nova** pošiljanje izberite **Priloga** in prenesite datoteko, ki jo želite optično prebrati.
     > [!NOTE]
-    > V tem trenutku je omejitev 3 MB. Če datoteka presega 3 MB, jo lahko namesto tega pošljete z e-poštnim ID-jem.
-2. Če izberete **bi morali biti blokirani**, bo element samodejno označen kot **zlonamerna programska oprema**.
+    > Trenutno je omejitev 3 MB. Če datoteka presega 3 MB, razmislite o pošiljanju datoteke z e-poštnim ID-jem.
+2. Če izberete **Bi moralo biti blokirano,** bo element samodejno označeval kot zlonamerna **programska oprema**.
 3. Izberite **Pošlji**.

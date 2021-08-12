@@ -1,5 +1,5 @@
 ---
-title: Težave z učinkovitostjo delovanja – SharePoint ali OneDrive
+title: Težave z učinkovitostjo SharePoint ali OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -13,22 +13,22 @@ ms.custom:
 - "2418"
 - "5200018"
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 28867b71df5353dcee5cc3361742f10357a0efe1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 921aae7eba8487c5600f290fd671ef2675372e6af0478b913e38354856cbaa22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771917"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911858"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint ali OneDrive počasno, nedostopno ali ni na voljo za več uporabnikov
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint, OneDrive, nedostopne ali nedostopne za več uporabnikov
 
-SharePoint ali OneDrive je lahko počasno, nedostopno ali pa ni na voljo ali pa lahko prikaže storitev nedostopnih ali 503, iz več razlogov:
+SharePoint ali OneDrive so lahko počasne, nedostopne ali niso na voljo ali pa so prikazane napake storitve, ki niso na voljo, ali 503 napak zaradi več razlogov:
   
-- Če je SharePointovo ali OneDrive mesto počasno ali Zakasnjeno za več uporabnikov, je morda prišlo do začasne težave s storitvijo, kjer uporabniki občasno opazijo ponavljajoče se zamude ali napake pri krmarjenju, ko dostopajo do SharePointovih mest ali vsebine OneDrive. Preverite, ali je [Nadzorna plošča za zdravstveno stanje na voljo](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , če želite preveriti, ali je vaša organizacija vplivala nanje.
+- Če je SharePoint ali OneDrive mesto počasno ali zakasnjeno za več uporabnikov, lahko pride do začasne težave s storitvijo, pri kateri lahko uporabniki pride do začasnih zakasnitev ali napak pri krmarjenju, ko dostopajo do SharePoint mest ali OneDrive vsebine. Na nadzorni [plošči s stanjem](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) storitve preverite, ali je to vplivalo na vašo organizacijo.
   
-- Uporabniki lahko prejmejo *strežnik 503,* ko poskušate krmariti do SharePointovih mest ali OneDrive. Do te napake lahko pride zaradi omejevanja v SharePointovi storitvi. Storitev SharePoint Online z omejevanjem zmogljivosti vzdržuje optimalno učinkovitost in zanesljivost storitve SharePoint Online. Omejevanje zmogljivosti omeji število uporabniških dejanj ali sočasnih klicev (s skriptom ali kodo) in tako prepreči prekomerno uporabo sredstev. Če želite več informacij o omejevanju prikaza, [preprečite, da bi se v SharePoint onlineu izognili omejevanju ali blokiranju](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
+- Uporabniki lahko prejmejo napako, da je strežnik *503* zaseden, ko poskušajo SharePoint ali OneDrive mesta. Do te napake lahko pride zaradi zmogljivosti v SharePoint storitve. Storitev SharePoint Online z omejevanjem zmogljivosti vzdržuje optimalno učinkovitost in zanesljivost storitve SharePoint Online. Omejevanje zmogljivosti omeji število uporabniških dejanj ali sočasnih klicev (s skriptom ali kodo) in tako prepreči prekomerno uporabo sredstev. Če želite več informacij o zmogljivostih, glejte Izogibanje dušenje ali [blokiranje v SharePoint Online.](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-- Če imate počasno učinkovitost delovanja s **klasičnim** ali **sodobnim** SharePointovim mestom ali stranjo, uporabite [diagnostično orodje](https://aka.ms/perftool) za analizo strani.
+- Če s klasičnim  ali sodobnim uporabniškim vmesnikom **SharePoint** učinkovitost delovanja, uporabite orodje [Diagnostika](https://aka.ms/perftool) strani za analizo strani.
   
-- Če še vedno uporabljate splošno počasno učinkovitost delovanja, si oglejte vire na dnu tega članka: [Uvod v prilagajanje učinkovitosti delovanja za SharePoint online](https://go.microsoft.com/fwlink/?linkid=2024334)
+- Če imate še vedno splošno počasno delovanje, si oglejte vire na dnu tega članka: Uvod v izboljšanje učinkovitosti [delovanja za SharePoint Online](https://go.microsoft.com/fwlink/?linkid=2024334)
   

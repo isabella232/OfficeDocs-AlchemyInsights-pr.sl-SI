@@ -1,5 +1,5 @@
 ---
-title: Raziskovanje lažnega predstavljanja, neželene pošte ali nepravilno filtrirane e-pošte
+title: Raziščite lažno predstavljanje, neželeno pošto ali nepravilno filtrirano e-pošto
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 2646a80ebcec959375c8fa938d420b5e11b0fdb8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750485"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948971"
 ---
-# <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Raziskovanje lažnega predstavljanja, neželene pošte ali nepravilno filtrirane e-pošte
+# <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Raziščite lažno predstavljanje, neželeno pošto ali nepravilno filtrirano e-pošto
 
-Za pošiljanje sporočila Microsoftu uporabite raziskovalca za pošiljanje. Takoj boste dobili povratne informacije o filtriranju sporočil in razlogu, zaradi katerega je prišlo do težave. Tukaj je povzetek korakov:
+Uporabite Raziskovalca za pošiljanje sporočila Microsoftu. Takoj boste dobili povratne informacije o filtriranju sporočil in razlog za težavo. Tukaj je povzetek korakov:
 
-1. Pojdite na [središče za skladnost z varnostnim &om sistema Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), izberite predložitve **grožnje za upravljanje**  >  in nato izberite **+ Nova predložitev**.
-2. Navedite podrobnosti v **novi oddaji** flyout.
-3. Obvestite uporabnike, da morajo prijaviti sumljiva e-poštna sporočila Microsoftu in da je [dodatek za poročilo s sporočilom](https://go.microsoft.com/fwlink/?linkid=2092385) orodje, ki ga morajo uporabiti za ta namen.
+1. Obiščite središče [za Office 365 za zagotavljanje &](https://go.microsoft.com/fwlink/p/?linkid=2077143) s predpisi , izberite Pošiljanje za upravljanje groženj in nato izberite +  >   **Nova pošiljanje**.
+2. Določite podrobnosti v podoknu **Nova pošiljanje.**
+3. Uporabnike obvestite, da morajo Microsoftu prijaviti sumljiva [e-poštna](https://go.microsoft.com/fwlink/?linkid=2092385) sporočila in da je dodatek za poročanje o sporočilih orodje, ki bi ga morali uporabiti za ta namen.
