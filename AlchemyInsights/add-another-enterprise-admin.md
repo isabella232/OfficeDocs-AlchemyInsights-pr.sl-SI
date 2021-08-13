@@ -1,5 +1,5 @@
 ---
-title: Dodajanje drugega skrbnika za podjetja – priporočena navodila
+title: Dodajanje drugega skrbnika podjetja – priporočeni koraki
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7425"
-ms.openlocfilehash: d5811b18e16a4b98cf507a79f212768c009b96b2
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 820bdb44e8efa6d14c6b5646cde432865a43e456a07219527218eecd1beb0819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755519"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954707"
 ---
-# <a name="add-another-enterprise-administrator---recommended-steps"></a>Dodajanje drugega skrbnika za podjetja – priporočena navodila
+# <a name="add-another-enterprise-administrator---recommended-steps"></a>Dodajanje drugega skrbnika podjetja – priporočeni koraki
 
-Na podlagi opisa vprašanja smo našli rešitev za vas. Večina kupcev je lahko svojo težavo razrešila sami po tem, ko je sledila naši dokumentaciji.
+Glede na opis vaše težave smo našli rešitev za vas. Večina strank je svojo težavo lahko sama razrešila po tem, kar smo dokumentacijo že odpravili.
 
-V vpisu podjetja imate lahko več skrbnikov Enterprise.
+V včlanitev v podjetje imate lahko več skrbnikov podjetja.
 
-**Če želite dodati drugega skrbnika podjetja:**
+**Če želite dodati še enega skrbnika podjetja:**
 
-1. Vpišite se v [portal Azure Enterprise](https://ea.azure.com/).
-1. Premaknite se do razdelka **upravljanje**  >  **podrobnosti o vpisu**.
-1. V zgornjem desnem kotu kliknite **+ Dodaj skrbnika** .
-1. Za dostop samo za branje nastavite možnost Read-Only na **da** , nato pa izberite **Dodaj**.
+1. Vpišite se v [portal Azure Enterprise.](https://ea.azure.com/)
+1. Pomaknite se do **možnosti Upravljanje**  >  **podrobnosti včlanitve.**
+1. Zgoraj **desno kliknite +** Dodaj skrbnika.
+1. Za dostop samo za branje nastavite možnost Read-Only na **Da,** nato pa izberite **Dodaj**.
 
-Zagotovite, da imate e-poštni naslov uporabnika in želeni način preverjanja pristnosti, kot je na primer službeni, šolski ali Microsoftov račun. Če niste skrbnik za podjetja, se obrnite na skrbnika podjetja in zahtevajte, da vas dodajo v vpis. Nove skrbnike dodajo le obstoječi skrbniki. Ko ste dodani v vpis, prejmete e-poštno sporočilo o aktivaciji.
+Prepričajte se, da imate uporabnikov e-poštni naslov in prednostni način preverjanja pristnosti, kot je službeni, šolski ali Microsoftov račun. Če niste skrbnik podjetja, se obrnite na skrbnika podjetja in ga zaprosite, da vas doda v včlanitev. Nove skrbnike dodajo le obstoječi skrbniki. Ko ste dodani v včlanitev, prejmete e-poštno sporočilo o aktiviranju.
 
 **Če želite dodati skrbnika oddelka:**
 
-Ko skrbnik za Azure EA ustvari oddelek, lahko skrbniki v podjetju Azure Enterprise dodajo skrbnike oddelka in povežejo vsakega od njih do oddelka. Za vsak vpis podjetja imate lahko več skrbnikov oddelka.
+Ko skrbnik za Azure EA ustvari oddelek, lahko skrbnik za Azure Enterprise doda skrbnike oddelkov in jih poveže z oddelkom. Za vsako včlanitev v podjetje imate lahko več skrbnikov oddelka.
 
-1. Vpišite se v [portal Azure Enterprise](https://ea.azure.com/).
-1. Premaknite se na zavihek **upravljanje**  >  **oddelka** in nato izberite oddelek.
+1. Vpišite se v [portal Azure Enterprise.](https://ea.azure.com/)
+1. Pomaknite se **na**  >  **zavihek** Upravljanje oddelka in izberite oddelek.
 1. Izberite **+ Dodaj skrbnika** in dodajte zahtevane informacije.
-1. Za dostop samo za branje nastavite možnost Read-Only na **da** , nato pa izberite **Dodaj**.
+1. Za dostop samo za branje nastavite možnost Read-Only na **Da,** nato pa izberite **Dodaj**.
 
 **Če želite posodobiti/odstraniti skrbnika:**
 
-1. Premaknite kazalec miške nad skrbnika EA, ki ga želite odstraniti, in kliknite ikono modrega **X** .
-1. Preverite, ali ste izbrali želenega skrbnika in kliknite **da**.
+1. Premaknite kazalec miške nad skrbnika EA, ki ga želite odstraniti, in kliknite modro **ikono X.**
+1. Potrdite, da je izbran želeni skrbnik, in kliknite **Da.**
 
 **Priporočeni dokumenti**
 
-- [Razumevanje upravnih vlog v storitvi Azure Enterprise v storitvi Azure](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
-- [Administracija portala Azure EA](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)
+- [Razumevanje skrbniških vlog pogodba Enterprise Agreement Azure v storitvi Azure](https://docs.microsoft.com/azure/billing/billing-understand-ea-roles)
+- [Skrbništvo portala Azure EA](https://docs.microsoft.com/azure/billing/billing-ea-portal-administration)

@@ -14,12 +14,12 @@ ms.custom:
 - "9004357"
 - "9384"
 - "9863"
-ms.openlocfilehash: bd3873c2db1b8d548f81d531a8bf5747130fe761
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 62f667cccd0761e081b3f651709fadfec12500e76fd8e30b8649a28e99001e4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51402283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966053"
 ---
 # <a name="configure-seamless-single-sign-on-sso"></a>Konfiguracija nemotene enotne vpise (SSO)
 
@@ -38,11 +38,11 @@ Za programe v galeriji boste našli podrobna navodila po korakih. Če želite do
 
 **Konfiguracija SSO, ki temelji na SAML**
 
-1. Hitri začetek: nastavitev enotne prijave [(SSO)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)za SAML za aplikacijo v najemniku imenika Azure Active Directory (Azure AD).
+1. Hitri začetek: Nastavitev enotne prijave [(SSO)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal-setup-sso)za program v najemniku Azure Active Directory (Azure AD) s storitvijo SAML.
 2. Če želite izvedeti več o možnostih enotne vpise, ki temelji na SAML, glejte Razumevanje enotne vpise, ki [temelji na SAML.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-saml-single-sign-on)
-3. Če želite izvedeti več o zahtevah za preverjanje pristnosti SAML 2.0 in odgovorih, ki jih Azure Active Directory (Azure AD) podpira za enotno Sign-On (SSO), glejte Protokol SAML za Sign-On enotno [uporabo.](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
-4. Če želite izvedeti, kako ustvarite in konfigurirate enotno prijavo (SSO) za aplikacijo v imeniku Azure Active Directory (Azure AD) z api-jem Microsoft Graph API, glejte Konfiguracija enotne prijave za program, ki temelji na [SAML,](https://docs.microsoft.com/graph/application-saml-sso-configure-api)z vmesnikom API za Microsoft Graph.
-5. Če želite izvedeti, kako Azure AD uporablja protokol SAML, glejte [Kako Microsoftova platforma identitete uporablja protokol SAML.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference)
+3. Če želite izvedeti več o zahtevah za preverjanje pristnosti SAML 2.0 in odgovorih, ki jih Azure Active Directory (Azure AD) podpira za enotno Sign-On (SSO), glejte Protokol [SAML](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)za Sign-On single Sign-On .
+4. Če želite izvedeti, kako ustvarite in konfigurirate enotno prijavo (SSO) za aplikacijo v storitvi Azure Active Directory (Azure AD) z vmesnikom API za Microsoft Graph, glejte Konfiguracija enotne prijave na osnovi [saml](https://docs.microsoft.com/graph/application-saml-sso-configure-api)za program z vmesnikom API za Microsoft Graph .
+5. Če želite izvedeti, kako Azure AD uporablja protokol SAML, glejte [kako Microsoftova platforma za identitete uporablja protokol SAML.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-saml-protocol-reference)
 
 **Konfiguracija žetonov in zahtevkov**
 
@@ -50,10 +50,10 @@ Za programe v galeriji boste našli podrobna navodila po korakih. Če želite do
 2. Če želite izvedeti, kako konfigurirate zahtevke z lupino PowerShell, glejte Navodila: prilagajanje zahtev, izpuščenih v žetonih za določen program v najemniku [(predogled)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-claims-mapping).
 3. Če želite izvedeti, kako konfigurirate izbirne zahtevke, glejte [Kako: navedite izbirne zahtevke za program.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-optional-claims)
 4. Če želite izvedeti, kako uporabiti atribute pripone sheme imenika za pošiljanje uporabniških podatkov programom v zahtevkih po žetonu, glejte Uporaba atributov pripone sheme imenika [v zahtevkih.](https://docs.microsoft.com/azure/active-directory/develop/active-directory-schema-extensions)
-5. Če želite izvedeti, kako konfigurirate življenjske dobe žetonov, glejte Življenjske dobe žetonov, ki jih je mogoče konfigurirati v Microsoftovi [platformi za identitete (predogled)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+5. Če želite izvedeti, kako konfigurirate življenjske dobe žetonov, glejte Konfiguriranje življenjske dobe žetonov [v Microsoftova platforma za identitete (predogled)](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 6. [Konfiguracija pravilnikov o življenjskem](https://docs.microsoft.com/azure/active-directory/develop/configure-token-lifetimes) dobi žetona (predogled) – v tem članku je pogost scenarij skupnega pravilnika, ki vam lahko pomaga uvesti nova pravila za življenjsko dobo žetona. V tem primeru se boste naučili ustvariti pravilnik, ki zahteva, da uporabniki pogosteje preverjajo pristnost v spletni aplikaciji.
 
 **Odpravljanje težav s konfiguracijo SSO**
 
-- Za pogosta vprašanja o nemoteni enotno prijavo v imenik Azure Active Directory (nemotena enotna prijava) Sign-On [Azure Active Directory:](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)pogosta vprašanja.
-- Če želite informacije o odpravljanju pogostih težav glede nemotene enotne enotne Sign-On imenika Azure Active Directory (Azure AD), glejte Odpravljanje težav s nemoteno enotno prijavo v [imenik Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)
+- Za pogosta vprašanja o nemoteni enotno Azure Active Directory (seamless Sign-On SSO) glejte [Azure Active Directory enotna prijava: pogosta vprašanja.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sso-faq)
+- Če želite informacije o odpravljanju pogostih težav v zvezi Azure Active Directory s nemoteno enotno prijavo (Azure AD) Sign-On enotno prijavo), glejte Odpravljanje težav Azure Active Directory enotno [prijavo.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-sso)

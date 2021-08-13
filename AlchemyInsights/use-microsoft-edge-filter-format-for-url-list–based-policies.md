@@ -1,5 +1,5 @@
 ---
-title: Uporaba oblike filtra Microsoft Edge za pravilnike, ki temeljijo na seznamu URL
+title: Uporaba Microsoft Edge filtra za pravilnike, ki temeljijo na seznamu URL-jev
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004031"
 - "7101"
-ms.openlocfilehash: 285864ccc74d40e3bf1472a1bf2e120827f85fc6
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 440e27e066cb8b2e8ca7d1c9e907a8c9bbd2a8cb23592c231f343442ff9e06d8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573789"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919475"
 ---
-# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>Uporaba oblike filtra Microsoft Edge za pravilnike, ki temeljijo na seznamu URL
+# <a name="use-microsoft-edges-filter-format-for-url-list-based-policies"></a>Uporaba Microsoft Edge filtra za pravilnike, ki temeljijo na seznamu URL-jev
 
-V programih Microsoft Edge 77 in novejših različicah je mogoče uporabiti obliko filtra za [pravilnike, ki temeljijo na seznamu URL](https://go.microsoft.com/fwlink/?linkid=2135179).
+V Microsoft Edge različicah 77 in novejših različicah lahko obliko filtriranja uporabite za pravilnike, ki temeljijo na [seznamih URL-jev.](https://go.microsoft.com/fwlink/?linkid=2135179)

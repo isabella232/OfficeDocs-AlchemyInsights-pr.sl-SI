@@ -1,5 +1,5 @@
 ---
-title: Nastavitev oddajanja srečanja v Skypu
+title: Nastavitev oddajanja srečanje v Skypu programa
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "9000058"
 - "2655"
 - "1563"
-ms.openlocfilehash: e85368d8d3e69cd8f2f6d236240c9d65b869053d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1d59207826ac284d9c95248003126b8d5a319fa9b4fa49e1c6a451558989b8cc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811040"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927089"
 ---
-# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Ali ne morete začeti oddajanja srečanja v Skypu ali se mu pridružiti?
+# <a name="cant-start-or-join-a-skype-meeting-broadcast"></a>Ali ne morete začeti ali se pridružiti srečanje v Skypu oddajanju?
 
-Če imate težave pri zagonu oddajanja srečanja v Skypu ali pri pridružitvi oddajanju srečanja v Skypu kot član skupine za dogodek (producent srečanja), znova preverite konfiguracijo. Za oddajanje srečanja v Skypu morate navodila za ročno nastavitev. Upoštevajte navodila v tem članku, da zagotovite pravilno konfiguracijo omrežja in portala Skypa za podjetja Online in da licence v sporu ne bo blokirala uporabnika, na katerega to vpliva:
+Če imate težave z zagonom ali pridružitvijo oddajanju srečanja srečanje v Skypu kot član skupine za dogodek (producent srečanja), znova preverite konfiguracijo. srečanje v Skypu Za oddajanje morate navodila za ročno nastavitev. Upoštevajte navodila v tem članku, da zagotovite pravilno konfiguracijo omrežja in portala za Skype za podjetja Online in da licence v sporu ne bo blokirala uporabnika, na katerega to vpliva:
 
-[Nastavitev omrežja za oddajanje srečanja v Skypu](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)
+[Nastavitev omrežja za srečanje v Skypu oddajanje](https://docs.microsoft.com/SkypeForBusiness/set-up-your-network-for-skype-meeting-broadcast/set-up-your-network-for-skype-meeting-broadcast)

@@ -1,5 +1,5 @@
 ---
-title: Dodajanje stikov v hitrostno izbiranje
+title: Dodajanje stikov v hitro klicanje
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6658"
 - "9003570"
-ms.openlocfilehash: aed240e9d7cdfdf4263093472cc9b66c95a837e6
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: d40b9f116efb1d4e929f2d5a90625751cf647c5a153eef74fe49ae09f1202263
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365035"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954569"
 ---
-# <a name="add-contacts-to-speed-dial"></a>Dodajanje stikov v hitrostno izbiranje
+# <a name="add-contacts-to-speed-dial"></a>Dodajanje stikov v hitro klicanje
 
-1. V razdelku  **klici**pojdite na  **» stiki «**.
-2. Če se prikaže kartica za osebo, ki jo želite dodati v hitrostno izbiranje, izberite  **več možnosti**  (tri pike) na kartici in izberite  **Dodaj med hitrim klicanjem**.
+1. V **meniju** Klici pojdite na **Stiki.**
+2. Če vidite kartico za osebo, ki jo želite dodati v hitro klicanje, izberite Več možnosti  **(tri**  pike) na kartici in izberite Dodaj v hitro  **klicanje**.
 
-Če osebe ne vidite, izberite  **Dodaj hitrostno izbiranje**  v zgornjem desnem kotu zaslona, začnite vnašati ime, izberite osebo in nato izberite  **Dodaj**.
+Če osebe ne vidite, izberite  Dodaj hitro klicanje v zgornjem desnem kotu zaslona, začnite vnašati njeno ime, izberite osebo in nato izberite **Dodaj**.

@@ -1,5 +1,5 @@
 ---
-title: Nadgradnja na polno različico aplikacije Microsoft Teams
+title: Nadgradite na polno različico Microsoft Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,19 +12,19 @@ ms.custom:
 - "933"
 - "6500004"
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: 94249c294c095fe14c8193451275de44d21ff90e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb507bedd059b6baf23b471b0fc2d75234cfab4e41eba655a83a645c65669680
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919619"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Nadgradnja na polno različico aplikacije Microsoft Teams
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a>Nadgradite na polno različico Microsoft Teams
 
-Ali potrebujete nadgradnjo iz brezplačne v polno različico aplikacije Microsoft Teams? Glejte [Nadgradnja aplikacije Microsoft Teams brezplačno na različico naročnine na microsoft 365](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
+Ali morate brezplačno nadgraditi na polno različico Microsoft Teams? Glejte [Nadgradnja Microsoft Teams različico naročnine Microsoft 365 naročnino](https://docs.microsoft.com/microsoftteams/upgrade-freemium)
 
 Izpolnjevati morate te zahteve:
 
-- Vi ste oseba, ki se je prijavila za trenutno brezplačno različico ekip.
-- Če imate svojo domeno, še ni povezana z imenikom Azure Active Directory.
-- Če želite prenesti podatke, ko nadgradite, se morate naroèiti med postopkom nadgradnje. Če ste kupili naročnino zunaj postopka nadgradnje, ne morete prenesti podatkov.
+- Ste oseba, ki se je prijavila za trenutno brezplačno različico Teams.
+- Če imate lastno domeno, je še ne morete povezati s Azure Active Directory.
+- Če želite prenesti podatke po nadgradnji, se morate naročiti med procesom nadgradnje. Če ste kupili naročnino zunaj postopka nadgradnje, ne morete prenesti podatkov.
