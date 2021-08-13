@@ -1,5 +1,5 @@
 ---
-title: Dodajanje skupine na SharePointovo mesto
+title: Dodajanje skupine na SharePoint mestu
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,39 +12,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 07850bc8c496df180d2e3c85dfbfc999231f6a54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e8dee2986c98b0ebf5eae6222a652fc999287b6efa3fe5a9099134c44dddf670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697357"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53936973"
 ---
-# <a name="add-a-group-to-a-sharepoint-site"></a>Dodajanje skupine na SharePointovo mesto
+# <a name="add-a-group-to-a-sharepoint-site"></a>Dodajanje skupine na SharePoint mestu
 
-Nekatera mesta SharePointovih skupin (vključno s tistimi, ki jih ustvarite v aplikaciji Microsoft Teams) upravljajo lastniki skupine Microsoft 365. SharePointova mesta in vsebina je mogoče dati v skupno rabo tudi v skupine Microsoft 365 in s SharePointovimi skupinami. SharePointova skupina je zbirka uporabnikov, ki imajo vsi enak nabor dovoljenj za mesta in vsebino. Za klasična mesta priporočamo, da uporabite skupine za priročno dodeljevanje enake ravni dovoljenj več osebam hkrati, namesto da dodelite dovoljenja za eno osebo hkrati.
+Nekatera SharePoint skupin (vključno s tistimi, ustvarjenimi v Microsoft Teams) upravljajo lastniki Microsoft 365 skupin. SharePoint spletnih mest in vsebine je mogoče tudi deliti Microsoft 365 skupinami in s SharePoint skupinami. Skupina SharePoint je zbirka uporabnikov, ki imajo enak nabor dovoljenj za mesta in vsebino. Za klasična spletna mesta priporočamo, da s skupinami preprosto dodelite isto raven dovoljenj več ljudem hkrati, namesto da bi dodelili dovoljenja eni osebi hkrati.
   
-Upravljanje članov skupine Microsoft 365:
+Upravljajte Microsoft 365 skupine:
   
-1. Pojdite na [stran skupine v skrbniškem središču za Microsoft 365](https://portal.office.com/adminportal/home#/groups).
+1. Pojdite na [stran Skupine v Skrbniško središče za Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. Izberite skupino, da si ogledate lastnike in člane. Če želite dodati ali odstraniti osebe, kliknite povezavo **Uredi** v vrstici» **lastniki** «ali» **člani** «. 
+2. Izberite skupino, da si ogledate lastnike in člane skupine. Če želite dodati ali odstraniti osebe, kliknite **povezavo Uredi** v vrstici **Lastniki** **ali** Člani. 
     
-Skupna raba spletnega mesta za komunikacijo s skupino Microsoft 365:
+Skupna raba mesta za komunikacijo s skupino Microsoft 365 skupine:
   
-1. Pojdite na spletno mesto v brskalniku in kliknite **Skupna raba mesta** v zgornjem desnem kotu. 
+1. V brskalniku odprite spletno mesto in v **zgornjem desnem kotu** kliknite Skupna raba mesta. 
     
-2. Vnesite ime skupine in nato izberite raven dovoljenj (branje, urejanje ali popoln nadzor).
+2. Vnesite ime skupine in nato izberite raven dovoljenja (Branje, Urejanje ali Poln nadzor).
     
-Ustvarite SharePointovo skupino, ki jo želite uporabiti s klasičnim mestom:
+Ustvarite skupino SharePoint za uporabo s klasičnim mestom:
   
-1. Pojdite na spletno mesto v brskalniku in kliknite ikono nastavitve v zgornjem desnem kotu.
+1. Pojdite na spletno mesto v brskalniku in kliknite ikono Nastavitve v zgornjem desnem kotu.
     
-2. Kliknite **Nastavitve mesta**, nato pa v razdelku **Uporabniki in dovoljenja**kliknite **dovoljenja za mesto**.
+2. Kliknite **Nastavitve mesta** in nato v razdelku Uporabniki in **dovoljenja** kliknite Dovoljenja **za mesto.**
     
-3. Na zavihku dovoljenja kliknite **Ustvari skupino**.
+3. Na zavihku Dovoljenja kliknite **Ustvari skupino.**
     
-[Povezovanje klasičnega spletnega mesta skupine z novo skupino Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2008654)
+[Povezovalnik klasičnega spletnega mesta skupine v novo Microsoft 365 skupine](https://go.microsoft.com/fwlink/?linkid=2008654)
   
-[Več informacij o delu s SharePointovimi skupinami](https://go.microsoft.com/fwlink/?linkid=874658)
+[Več informacij o delu s SharePoint skupinami](https://go.microsoft.com/fwlink/?linkid=874658)
   
 

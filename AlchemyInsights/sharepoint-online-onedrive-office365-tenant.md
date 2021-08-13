@@ -1,5 +1,5 @@
 ---
-title: SharePoint online ali OneDrive» nastavitev «
+title: SharePoint V OneDrive ali »Nastavljanje«
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771008"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093614"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint online ali OneDrive» nastavitev «
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint V spletu ali OneDrive »Nastavitev«
 
-Ko je uporabnik dodan obstoječemu najemniku, lahko vidijo ikone storitve SharePoint online ali OneDrive za podjetja, ki so navedene kot» nastavitev «ali» še vedno delamo na pridobivanju nastavitev datotek «, dokler ne dokončate postopka za omogočanje uporabe. Za pomoč uporabite ta [vodnik za odpravljanje težav](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) .
+Ko je uporabnik dodan v obstoječega najemnika, bo morda videl ikone storitve SharePoint Online ali OneDrive za podjetja navedene kot »Nastavitev« ali »Še vedno delamo na nastavitvi datotek«, dokler postopek omogočanja uporabe ni dokončan. Za pomoč [upoštevajte ta vodnik za](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) odpravljanje težav.
 
-Če ste opravili več kot 24 ur, odkar ste prvič videli to težavo, se obrnite na primer podpore.
+Če je od prve težave minilo več kot 24 ur, zabeležite primer podpore.
 
-Razumemo, da se 24 ur morda zdi, kot dolgo časa. V številnih primerih že pripravljamo rešitev. Če želite dokončati rešitev, nam lahko daste vsaj 24 ur.
+Razumemo, da se 24 ur morda zdi zelo dolgo. V številnih primerih že delamo na rešitvi. Če želite dokončati rešitev, nam dajte vsaj 24 ur.
