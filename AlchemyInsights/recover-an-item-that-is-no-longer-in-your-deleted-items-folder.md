@@ -1,5 +1,5 @@
 ---
-title: Obnovitev elementa, ki ni več v mapi» Izbrisano «
+title: Obnovitev elementa, ki ga ni več v mapi »Izbrisano«
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,38 +13,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: b6ac084ead88b090d6caab1405d5d96f24890ea7
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 81a7a2e9623c788743fad99e15c4d771bb12a6c1c81f35a9d2a6a0729ecf8db7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565133"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062378"
 ---
-# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Obnovitev elementa, ki ni več v mapi» Izbrisano «
+# <a name="recover-an-item-thats-no-longer-in-your-deleted-items-folder"></a>Obnovitev elementa, ki ga ni več v mapi »Izbrisano«
 
-Če ne najdete elementa v mapi» Izbrisano «, je naslednje mesto za iskanje v mapi» obnovljivi elementi «. To je skrita mapa, v katero so elementi premaknjeni, ko:
-- Izbrisani so iz mape» Izbrisano «.
-- Mapa» Izbrisano «je izpraznjena, tako z vami bodisi s pravilnikom, ki ga je določil skrbnik za IT.
-- Element izbrišete tako, da ga izberete in pritisnete **Shift + Delete**.
+Če ne najdete elementa v mapi »Izbrisano« je naslednje mesto, kjer ga lahko preiščete, mapa »Obnovljivi elementi«. To je skrita mapa, v kateri so premaknjeni elementi, ko:
+- Izbrisani so iz mape »Izbrisano«.
+- Mapa Izbrisano je izpraznjena, bodisi vi bodisi s pravilnikom, ki ga je nastavil skrbnik za IT.
+- Element izbrišete tako, da ga izberete in **pritisnete Shift+Delete**.
 
-Če si želite ogledati in obnoviti elemente, ki so bili premaknjeni v mapo» obnovljivi elementi «:
-1. V spletnem brskalniku se vpišite v aplikacijo Outlook Web App z URL-jem, ki vam ga je poslala oseba, ki upravlja e-pošto za vašo organizacijo. Vnesite uporabniško ime in geslo, nato pa izberite **vpis**.
-1. Na seznamu e-poštnih map z desno tipko miške kliknite **izbrisani elementi** in nato izberite **obnovi izbrisane elemente...**.
+Če si želite ogledati in obnoviti elemente, ki so bili premaknjeni v mapo »Obnovljivi elementi«:
+1. V spletnem brskalniku se vpišite v aplikacijo Outlook Web App z URL-jem, ki vam ga je poslala oseba, ki upravlja e-pošto za vašo organizacijo. Vnesite uporabniško ime in geslo ter izberite **Vpis**.
+1. Na seznamu e-poštnih map z desno tipko miške kliknite **Izbrisano**, nato pa izberite **Obnovi izbrisane elemente ...**.
 1. Po potrebi uporabite iskalno polje, da poiščete element, ki ga želite obnoviti.
-1. Ko najdete element, ga izberite in kliknite **Obnovi**.
+1. Ko najdete element, ga izberite in kliknite **Obnovi.**
    Obnovljeni elementi so premaknjeni na privzeto mesto za vsako vrsto elementa.
-    - Sporočila so premaknjena v mapo» Prejeto «.
-    - Elementi koledarja se povrnejo v koledar.
-    - Stiki so premaknjeni v mapo» Stiki «.
-    - Opravila se povrnejo v mapo» opravila «.
+    - Sporočila so pre poslana v mapo »Prejeto«.
+    - Elementi koledarja so prešteti v koledar.
+    - Stiki so prei podatki iz mape Stiki.
+    - Opravila so preizumna v mapo Opravila.
 
-**Namigi za obnovitev elementov v mapi» obnovljivi elementi «**
+**Nasveti za obnavljanje elementov v mapi »Obnovljivi elementi«**
 
-- Izbrisani datum elementa v mapi» obnovljivi elementi «je, ko je bil element premaknjen v mapo» Izbrisano «. Ni datum, ko je bil element premaknjen v mapo» obnovljivi elementi «.
-- Elementi v mapi» obnovljivi elementi «nimajo ikon, zato so vsi videti zelo podobni.
-    - Če iščete stik, poiščite element, ki ima ime osebe, ne pa vrstice z zadevo.
+- Datum izbrisanega elementa v mapi »Obnovljivi elementi« je, ko je bil element premaknjen v mapo »Izbrisano«. To ni datum, ko je bil element premaknjen v mapo »Obnovljivi elementi«.
+- Elementi v mapi »Obnovljivi elementi« niso ikone, zato so vsi videti zelo podobni.
+    - Če iščete stik, poiščite element z imenom osebe, vendar brez vrstice z zadevo.
     - Če iščete sestanek v koledarju, poiščite element, ki nima imena osebe ali vrstice z zadevo.
     - Če iščete stik, sestanek v koledarju ali opravilo, poiščite besedilo tega elementa.
-- Če želite obnoviti več elementov, premaknite kazalec miške nad posamezne elemente in potrdite potrditveno polje ob možnosti kliknite **Obnovi**. Več sosednjih elementov lahko obnovite tudi tako, da izberete potrditveno polje za prvi element, pridržite tipko **SHIFT** in nato izberete potrditveno polje za zadnji element. Ko so izbrani vsi elementi, izberite **Obnovi**.
-- Elemente lahko izbrišete na seznamu **obnovitev izbrisanih elementov** . Izberite element, nato pa izberite **Odstrani**. Če izbrišete element, ga ne boste mogli več uporabiti za obnovitev izbrisanih elementov. Čiščenje sporočila ne bo odstranjena iz vseh varnostnih kopij, ki so bile narejene, preden ste jo očistili.
-- Vaša organizacija je morda navedla, kako dolgo so elementi v mapi» obnovljivi elementi «na voljo za obnovitev. Na primer, morda obstaja pravilnik, ki izbriše vse, kar je bilo v mapi» Izbrisano «za 30 dni, in druga pravilnik, ki omogoča obnovitev elementov v mapi» obnovljivi elementi «, do dodatnih 14 dni.
+- Če želite obnoviti več elementov, premaknite kazalec miške nad posamezen element in potrdite polje ob elementu, kliknite **Obnovi**. Obnovite lahko tudi več sosednih elementov, tako da potrdite polje ob prvem elementu, pridržite tipko **Shift** in potrdite polje ob zadnjem elementu. Ko so izbrani vsi elementi, izberite **Obnovi**.
+- Elemente lahko izbrišete s seznama **Obnovitev izbrisanih** elementov. Preprosto izberite element in nato še **purge ( purge)**. Če izbrišete element, ne boste mogli uporabiti obnovite izbrisanih elementov, da bi ga dobili nazaj. Če odstranite sporočilo, ga ne odstranite iz varnostnih kopij, ki so bile narejene, preden ste ga odstranili.
+- Vaša organizacija je morda navedla, koliko časa so elementi v mapi »Obnovljivi elementi« na voljo za obnovitev. V skladu s pravilnikom je tako lahko izbrisano vse, kar je v mapi »Izbrisano« 30 dni, drug pravilnik pa vam omogoča, da obnovite elemente v mapi »Obnovljivi elementi« v zadnjih 14 dneh.

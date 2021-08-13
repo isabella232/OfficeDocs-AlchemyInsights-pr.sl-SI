@@ -1,5 +1,5 @@
 ---
-title: Aktiviranje Officea z licenciranjem na osnovi naprave
+title: Aktiviranje e Office z licenciranjem na osnovi naprave
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: f59e817192ee38bdafb5ad0de64ed12f0a4f0392
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b9552e8a1f28138bf72fbc97b9cdb1ab7545b5021acbfe417602d49d351de4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823011"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937333"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>Aktiviranje Officea z licenciranjem na osnovi naprave
+# <a name="activating-office-using-device-based-licensing"></a>Aktiviranje e Office z licenciranjem na osnovi naprave
 
-Licenciranje na osnovi naprav za aplikacije Microsoft 365 za podjetja je na voljo kot licenca le za nekatere komercialne in nekatere stranke v izobraževalnih ustanovah. Če želite več informacij, glejte: Licenciranje naprav za aplikacije storitve [Microsoft 365 za podjetja](https://docs.microsoft.com/deployoffice/device-based-licensing)
+Licenciranje na podlagi naprav za Programi Microsoft 365 za podjetja je na voljo kot licenca le za nekatere komercialne stranke in nekatere stranke v izobraževalnih ustanovah. Če želite podrobne informacije, glejte: [Licenciranje naprav za Programi Microsoft 365 za podjetja](https://docs.microsoft.com/deployoffice/device-based-licensing)
 
-Če želite aktivirati programe storitve Microsoft 365 za podjetja z licenciranjem na osnovi naprave, glejte:
+Če želite aktivirati Programi Microsoft 365 za podjetja z licenciranjem na osnovi naprave, glejte:
 
-- [Zahteve za uporabo licenciranja na osnovi naprave za aplikacije storitve Microsoft 365 za podjetja](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [Navodila za konfiguracijo licenciranja na osnovi naprave za aplikacije storitve Microsoft 365 za podjetja](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Zahteve za uporabo licenciranja na podlagi naprave za Programi Microsoft 365 za podjetja](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [Navodila za konfiguracijo licenciranja na podlagi naprave za Programi Microsoft 365 za podjetja](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
-Navodila za odpravljanje težav so v [članku Odpravljanje težav z licenciranjem naprav za aplikacije storitve Microsoft 365 za podjetja](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+Če želite navodila za odpravljanje težav, [glejte Odpravljanje težav z licenciranjem na podlagi naprave za Programi Microsoft 365 za podjetja](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise)
 
 > [!NOTE]
-> Če so aplikacije storitve Microsoft 365 že nameščene in aktivirane z licenciranjem naročnine na uporabnika ali aktiviranjem računalnika v skupni rabi, boste morali ponastaviti stanje licence v napravi, preden bo prestavljen na licenciranje na podlagi naprave. Če želite ponastaviti stanje aktiviranja, glejte [Ponastavitev stanja aktiviranja aplikacij za Microsoft 365 za podjetja](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)
+> Če Programi Microsoft 365 so že nameščeni in aktivirani z licenciranjem naročnine na uporabnika ali aktiviranjem računalnika v skupni rabi, boste morali ponastaviti stanje licence v napravi, preden bo prestavljen na licenciranje na podlagi naprave. Če želite ponastaviti stanje aktiviranja, [glejte Ponastavitev Programi Microsoft 365 za podjetja aktiviranje](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state)

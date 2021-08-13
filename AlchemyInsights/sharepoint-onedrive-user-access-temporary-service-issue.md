@@ -1,5 +1,5 @@
 ---
-title: Težave z učinkovitostjo delovanja – SharePoint ali OneDrive
+title: Težave z učinkovitostjo SharePoint ali OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,31 +9,31 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 39ec9b746c47414f1cfaad1342491b8f33a47d6f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08bdc2527147279063e3f66a1767203e5ccdc1dd4fd8b871f2800d3f71b9a233
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47771260"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093796"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint ali OneDrive počasno, nedostopno ali ni na voljo za več uporabnikov
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint ali OneDrive Slow, Nedostopen ali Nedostopen za več uporabnikov
 
-Če OneDrive ali SharePointovo mesto ni na voljo za več uporabnikov, ki so prej imeli dostop, je morda prišlo do začasne težave s storitvijo. [Preverite nadzorno ploščo za stanje storitve](https://portal.office.com/adminportal/home#/servicehealth).
+Če spletno OneDrive ali SharePoint ni na voljo več uporabnikom, ki so prej imeli dostop, je morda prišlo do začasne težave s storitvijo. [Preverite nadzorno ploščo s stanjem storitve.](https://portal.office.com/adminportal/home#/servicehealth)
 
-**Dodajanje in licenciranje uporabnika**
+**Dodajanje in licenca uporabnika**
 
-Zagotovite, da [dodelite licence uporabnikom v storitvi Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+Prepričajte se, [da uporabnikom v podjetju Microsoft 365 licence.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
 
 **Dodeljevanje dovoljenj**
 
-Če je uporabniku dodeljena SharePointova licenca in še vedno prejema sporočilo o zavrnjenem dostopu, zagotovite, da je dodeljena [ustrezna raven dovoljenj](https://docs.microsoft.com/sharepoint/understanding-permission-levels) .
+Če je bila uporabniku dodeljena SharePointova licenca in še vedno prejme sporočilo o zavrnjenem dostopu, preverite, ali je mu dodeljena [ustrezna](https://docs.microsoft.com/sharepoint/understanding-permission-levels) raven dovoljenj.
 
 **Razmislite o uporabi funkcije zahteve za dostop**
 
-[Funkcija zahteve za dostop](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) osebam omogoča, da zahtevajo dostop do vsebine, ki je trenutno nimajo dovoljenja za ogled.
+Funkcija [zahteve za dostop](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) omogoča ljudem, da zahtevajo dostop do vsebine, ki je trenutno ne želijo videti.
 
-**Dovoli skript po meri, lahko povzroči težave z zavrnjenim dostopom**
+**Omogočanje skripta po meri lahko povzroči težave z dostopom je zavrnjen**
 
-Obstajajo določeni scenariji, kjer lahko funkcija *skripta za dovolitev po meri* predstavlja dostop zavrnjen. Seznam funkcij, ki so na voljo, varnostna opozorila in možnost onemogočanja funkcije. Obiščite [Dovoli ali preprečite skript po meri](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+V nekaterih scenarijih funkcija za omogočanje *skripta po meri* morda predstavlja zavrnjen dostop. Seznam funkcij, na katere to vpliva, je treba upoštevati varnost in možnost onemogočanja funkcije. Obiščite [spletno mesto Dovoli ali prepreči skript po meri.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
