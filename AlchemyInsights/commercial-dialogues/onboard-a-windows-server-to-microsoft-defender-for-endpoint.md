@@ -1,5 +1,5 @@
 ---
-title: Na krovu sistema Windows Server za Microsoft Defender za končno točko
+title: Board a Windows server to Microsoft Defender for Endpoint
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 51bcb58f20b9867d2b75db5ee9df1c62e8b66109
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 0772f67175053be2cb1e8eacece98fe68776e35800763526e3e6f4fd5375228c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750277"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967529"
 ---
-# <a name="onboard-a-windows-server-to-microsoft-defender-for-endpoint"></a>Na krovu sistema Windows Server za Microsoft Defender za končno točko
+# <a name="onboard-a-windows-server-to-microsoft-defender-for-endpoint"></a>Board a Windows server to Microsoft Defender for Endpoint
 
-Za operacijski sistem Windows Server Microsoft Defender za končno točko zagotavlja napredne zmogljivosti za odkrivanje in preiskovanje napadov. Te zmogljivosti so na voljo nemoteno, in sicer prek konzole Microsoft Defender Security Center.
+Za operacijski sistem Windows Server Microsoft Defender for Endpoint zagotavlja dodatne zmogljivosti za zaznavanje in preiskovanje napadov. Te zmogljivosti so na voljo nemoteno prek Microsoft Defender Security Center konzole.
 
-Zagovornik za končno točko podpira te različice sistema Windows Server:
+Defender za končno točko podpira te različice Windows Server:
 
 - Windows Server 2008 R2 SP1
 - Windows Server 2012 R2
 - Windows Server 2016
-- Različica 1803 in novejše različice sistema Windows Server (SAC)
-- Windows Server 2019 in novejša različica
-- Različica sistema Windows Server 2019 Core Edition
+- Windows Server (SAC), različica 1803 in novejša
+- Windows Server 2019 in novejše različice
+- Windows Osnovna izdaja strežnika Server 2019
 
-Če želite več informacij, glejte [strežnike v sistemu Windows v storitvi Microsoft Defender za končne točke](https://go.microsoft.com/fwlink/?linkid=2143627).
+Če želite izvedeti več, glejte [Windows strežnikov za Microsoft Defender for Endpoint Service.](https://go.microsoft.com/fwlink/?linkid=2143627)
