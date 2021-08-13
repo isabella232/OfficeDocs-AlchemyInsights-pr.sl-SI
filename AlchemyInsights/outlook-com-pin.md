@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 85d65dc2071f7a0e50fb096ae881b2e344410435
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 430d4782ed17fe880f326e5ff6f4c96d51e1edf590ff75efd5ce59fe4ee1c379
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798212"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983865"
 ---
 # <a name="change-your-pin"></a>Spreminjanje kode PIN
 
-Outlook.com ne uporablja kode PIN, vendar se lahko v računalnik vpišete s kodo PIN ali Windows hello. Če želite spremeniti kodo PIN v sistemu Windows 10:
+Outlook.com ne uporablja kode PIN, vendar se lahko v računalnik vpišete s kodo PIN ali Windows Hello. Če želite spremeniti KODO PIN v Windows 10:
 
-1. Izberite gumb» Start «ali pritisnite tipko Windows na tipkovnici, nato pa izberite **Nastavitve**  >  **Accounts**  >  **za vpis**računov.
-2. Izberite gumb **Spremeni** pod možnostjo **PIN**.
-3. Vnesite trenutno kodo PIN, nato pa vnesite in potrdite svojo novo kodo PIN pod.
+1. Izberite gumb start ali pritisnite tipko Windows tipkovnici, nato **pa izberite Nastavitve**  >  **Možnosti**  >  **vpisa za račune.**
+2. Izberite gumb **Spremeni v** razdelku **PIN.**
+3. Vnesite trenutni PIN, nato pa spodaj vnesite in potrdite nov PIN.
 
-[Preberite več o sistemu Windows hello.](https://support.microsoft.com/help/17215/)
+[Preberite več o Windows Hello.](https://support.microsoft.com/help/17215/)

@@ -1,5 +1,5 @@
 ---
-title: 1800001 ustvarjanje ali urejanje profila
+title: 1800001 Ustvarjanje ali urejanje profila
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1800001
 ms.assetid: f08354bf-43c0-449a-91bc-85f76672550a
-ms.openlocfilehash: e56a4d4ae22c51d9e80892bcc0b5478a879cebab
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ba562c2a31fd39c86debc36c7520f1c3d27ac0c370894929b566147d965f3ad7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732443"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965405"
 ---
-# <a name="create-or-edit-an-outlook-profile"></a>Ustvarjanje ali urejanje Outlookovega profila
+# <a name="create-or-edit-an-outlook-profile"></a>Ustvarjanje ali urejanje Outlook profila
 
-Če želite ustvariti nov Outlookov profil, urediti profil ali preimenovati profil, uporabite te korake.
+Če želite ustvariti Outlook profil, urediti profil ali preimenovati profil, sledite tem korakom.
   
-1. V Outlooku izberite **File** \> **Nastavitve računa** datoteke \> **upravljanje profilov**.
+1. V Outlook izberite **Datotečni** \> **račun Nastavitve** Upravljanje \> **profilov.**
     
-2. V pogovornem oknu **Nastavitev pošte** izberite **Pokaži profile**.
+2. V pogovornem **oknu Namestitev** pošte izberite **Pokaži profile.**
     
 3. Naredite nekaj od tega:
     
   - Če želite ustvariti nov profil, izberite **Dodaj**.
     
-  - Če želite urediti ali preimenovati profil, izberite **lastnosti**.
+  - Če želite urediti ali preimenovati profil, izberite **Lastnosti**.
     
-Če imate težave z ustvarjanjem ali urejanjem Outlookovega profila, lahko v prizadetih strojih zaženete [orodje Outlook profil](https://aka.ms/SaRA-OutlookSetupProfile) . Izvedla bo nekaj preverjanj in ko boste pripravljeni, boste ustvarili Outlookov profil s svojim e-poštnim naslovom. 
+Če imate težave z ustvarjanjem ali urejanjem Outlook profila, lahko zaženete [orodje Outlook](https://aka.ms/SaRA-OutlookSetupProfile) profil v tem računalniku. Ta bo izvedel nekatera preverjanja, in ko boste pripravljeni, boste ustvarili profil Outlook z vašim e-poštnim naslovom. 
   
 

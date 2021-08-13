@@ -1,5 +1,5 @@
 ---
-title: Outlook.com mape» Prejeto «ni bilo naloženo
+title: Outlook.com se ne more naložiti
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,26 +12,26 @@ ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: 16e349fa06350264f34802aefa9176d742d7a188
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4788ff4a190fb34a852bf886d14457edbfb48fe438008ac7660ebe5bd377559a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984045"
 ---
-# <a name="empty-inbox"></a>Prazna mapa» Prejeto «
+# <a name="empty-inbox"></a>Praznjenje mape »Prejeto«
 
-**Moj Outlook.com nabiralnik je prazen**
+**Moja Outlook.com je prazna**
 
-- Nekateri dodatki v brskalniku Firefox morda ne bodo mogli naložiti vaše mape» Prejeto «. Obiščite podporo za Firefox, če želite izvedeti, kako [onemogočite ali odstranite dodatke](https://aka.ms/mozilla-add-ons).
+- Nekateri dodatki v brskalniku Firefox morda preprečujejo nalaganje mape »Prejeto«. Obiščite podporo za Firefox, če [želite izvedeti, kako onemogočite ali odstranite dodatke.](https://aka.ms/mozilla-add-ons)
 
-**Želim izprazniti mapo» Prejeto «**
+**Želim izprazniti mapo »Prejeto«**
 
-Če želite izprazniti mapo» Prejeto «in izbrisati celotno e-poštno sporočilo:
+Če želite izprazniti mapo »Prejeto« in izbrisati vso svojo e-pošto:
 
-1. Izberite krog <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQmA5S/CAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACPklEQVQ4ja2UTUsyURTHf3p1RB0ccRtuFBJsEbRKW+S6/AQG066l+IEiMNJPULQpqIXjbF1MoEgbl8FgvuLL5baIhnzKCh7/y3Pu+XHe7vEppRQbVOA742KxoNVqYVkW7Xab0WgEgK7rZDIZ8vk8u7u7BIPBL7G+fzPsdrtcXl7iui57e3vkcjlisRgAr6+v2LZNq9UiHo9jmibpdHqVqD6p0WioSqWiarWaGg6Hap2Gw6G6urpS5XJZWZa14vOAjuOoSqWi7u/v1XK5XAv70HK5VHd3d6pcLivHcTx74KOU6+tr9vf3OTw8RAjxa/OFEBQKBV5eXri5uWFrawvDMPADtNttptMp+Xz+T7DP0IODAyaTCZ1OBwC/lJJms0k6nSaZTP4KGY1G3tQBkskkqVQK27aRUuJ3XZfpdEo2m/0TrFqtUq/Xmc/nnn1nZ4fJZILruvjH4zGDwYBQKPRjJh8wn89HqVRC0zTPFwqF6Pf7jMfj7xd7Pp9Tq9WQUmKaJoAHM00TXdfXVuGPRqPEYjFms5ln1DSNk5MTlFJcXFxwfn7+I2w2mxGPx4lGo/gTiQThcJinp6eVR7quc3p6ihACTdN+zMxxHCKRCIlEgoAQglwux+3tLb1eb2XSuq5zdnYG8O2/Bej1ejw/P3N0dIQQ4n0PM5kM4XAYy7KQUq4EBIPBtTApJY1Gg0gkwvb29nsPAQzDoFgsYts2j4+PX6DrYA8PDzSbTY6PjzEM492x6eOw8fP1BQgbPrD/qzfGztb/Cf8baQAAAABJRU5ErkJggg==' /> ob možnosti [» Prejeto «](https://outlook.live.com/mail/inbox) na vrhu seznama sporočil izberite vsa sporočila.
-1. Na vrhu strani izberite **prazna mapa** (ali **prazen prazen fokus**  /  **Empty Other** , če je vklopljena mapa» Prejeto «v fokusu).
+1. Izbira kroga <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQmA5S/CAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAACPklEQVQ4ja2UTUsyURTHf3p1RB0ccRtuFBJsEbRKW+S6/AQG066l+IEiMNJPULQpqIXjbF1MoEgbl8FgvuLL5baIhnzKCh7/y3Pu+XHe7vEppRQbVOA742KxoNVqYVkW7Xab0WgEgK7rZDIZ8vk8u7u7BIPBL7G+fzPsdrtcXl7iui57e3vkcjlisRgAr6+v2LZNq9UiHo9jmibpdHqVqD6p0WioSqWiarWaGg6Hap2Gw6G6urpS5XJZWZa14vOAjuOoSqWi7u/v1XK5XAv70HK5VHd3d6pcLivHcTx74KOU6+tr9vf3OTw8RAjxa/OFEBQKBV5eXri5uWFrawvDMPADtNttptMp+Xz+T7DP0IODAyaTCZ1OBwC/lJJms0k6nSaZTP4KGY1G3tQBkskkqVQK27aRUuJ3XZfpdEo2m/0TrFqtUq/Xmc/nnn1nZ4fJZILruvjH4zGDwYBQKPRjJh8wn89HqVRC0zTPFwqF6Pf7jMfj7xd7Pp9Tq9WQUmKaJoAHM00TXdfXVuGPRqPEYjFms5ln1DSNk5MTlFJcXFxwfn7+I2w2mxGPx4lGo/gTiQThcJinp6eVR7quc3p6ihACTdN+zMxxHCKRCIlEgoAQglwux+3tLb1eb2XSuq5zdnYG8O2/Bej1ejw/P3N0dIQQ4n0PM5kM4XAYy7KQUq4EBIPBtTApJY1Gg0gkwvb29nsPAQzDoFgsYts2j4+PX6DrYA8PDzSbTY6PjzEM492x6eOw8fP1BQgbPrD/qzfGztb/Cf8baQAAAABJRU5ErkJggg==' /> zraven mape [Prejeto](https://outlook.live.com/mail/inbox) na vrhu seznama sporočil, da izberete vsa sporočila.
+1. Na vrhu strani izberite Izprazni mapo (ali Izprazni **mapo** »V fokusu prazno drugo«, če je mapa »Prejeto«  /   v fokusu vklopljena).
 1. Izberite **Izbriši vse**.
-1. Če želite odstraniti vsa izbrisana sporočila, odprite [mapo» Izbrisano](https://outlook.live.com/mail/deleteditems) «in izberite **izprazni mapo**  >  **Izbriši vse**, nato pa izberite Obnovi elemente, ki so bili **izbrisani iz te mape** na vrhu strani in znova izberite možnost **izprazni mapo** .
+1. Če želite izbrisati vsa izbrisana [](https://outlook.live.com/mail/deleteditems) sporočila, odprite mapo »Izbrisano« in izberite Izprazni mapo Izbriši vse , nato pa na vrhu strani izberite Obnovi elemente, izbrisane iz te mape in znova izberite  >   **Izprazni** mapo. 
 
-Če želite več informacij, glejte [brisanje e-pošte v](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy) storitvi Outlook.com
+Če želite več informacij, glejte [Brisanje e-pošte v Outlook.com](https://support.office.com/article/a9b63739-5392-412a-8e9a-d4b02708dee4?wt.mc_id=Office_Outlook_com_Alchemy)

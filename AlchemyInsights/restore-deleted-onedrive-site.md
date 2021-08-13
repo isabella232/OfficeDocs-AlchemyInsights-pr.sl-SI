@@ -1,5 +1,5 @@
 ---
-title: Obnovitev izbrisanega spletnega mesta OneDrive
+title: Obnovitev izbrisanega OneDrive mesta
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728051"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991299"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>Obnovitev izbrisanega spletnega mesta OneDrive
+# <a name="restore-a-deleted-onedrive-site"></a>Obnovitev izbrisanega OneDrive mesta
 
-Ko izbrišete uporabnika v skrbniškem središču za Microsoft 365 (ali ko je uporabnik odstranjen prek sinhronizacije imenika Active Directory), bo uporabnikov OneDrive ohranjen za število dni, ki jih določite v skrbniškem središču za OneDrive. (Če želite več informacij, glejte [Nastavitev privzetega hranjenja datotek za izbrisane OneDrive uporabnike](https://docs.microsoft.com/onedrive/set-retention).)
+Ko izbrišete uporabnika v imeniku Skrbniško središče za Microsoft 365 (ali ko uporabnika odstranite s sinhronizacijo imenika Active Directory), bo uporabnikov imenik OneDrive ohranjen še več dni, kot ste ga določili v skrbniškem središču za OneDrive. (Za informacije glejte Nastavitev [privzetega hranjenja datotek za izbrisane OneDrive uporabnike](https://docs.microsoft.com/onedrive/set-retention).)
 
-* [Obnovitev izbrisanega spletnega mesta OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [Obnovitev izbrisanega OneDrive mesta](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-Če je v zlonamerni programski opremi izbrisanih veliko datotek OneDrive, prepisanih, poškodovanih ali okuženih s škodljivo programsko opremo, lahko obnovite celotno OneDrive s prejšnjim časom.
+Če se veliko datotek OneDrive izbriše, prepišejo, poškodujejo ali okužijo z zlonamerno programsko opremo, lahko celotno vsebino obnovite na OneDrive obnovite na pretekli čas.
 
 * [Obnovitev OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

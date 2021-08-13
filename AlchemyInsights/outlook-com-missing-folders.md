@@ -1,5 +1,5 @@
 ---
-title: Outlook.com manjkajoče mape
+title: Outlook.com Manjkajoče mape
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -16,19 +16,19 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: 5ebabab51cceb9750ebc592218074c9c6604d7ca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ede5d5a7dede4356e20af57740440ce8773d27ddc97de699466ad05c1c7a4bb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777585"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984081"
 ---
 # <a name="find-missing-folders"></a>Iskanje manjkajočih map
 
-Med ogledom na malem zaslonu nekateri uporabniki morda ne bodo mogli videti levega podokna mape.
+Nekateri uporabniki morda ne bodo mogli videti levega podokna z mapami, ko si ga ogledajo na majhnem zaslonu.
 
-- Če ne vidite podokna z mapami, maksimirajte okno brskalnika ali se pomaknite levo, da si ogledate seznam map.
-- Podokno z mapami razširite le, ko ga potrebujete. Če želite prikazati ali skriti mape, izberite ikono tri vrstice v levi strani.
-- Odprite [Nastavitve postavitve](https://outlook.live.com/mail/options/mail/layout) in izberite **Skrij podokno za branje** , nato pa še **Shrani**. Tako boste na zaslonu omogočili več prostora za prikaz map.
+- Če podokna z mapami ne vidite, maksimirajte okno brskalnika ali pa se pomaknite levo, da prikažete seznam map.
+- Podokno z mapami razširite le, ko ga potrebujete. Izberite ikono treh črt v levi vrstici, da pokažete ali skrijete mape.
+- Odprite [nastavitve postavitve in](https://outlook.live.com/mail/options/mail/layout) izberite Skrij **podokno za branje,** nato pa **shrani**. Tako boste na zaslonu imeli več prostora za prikaz map.
 
-Če pomotoma izbrišete mapo, jo lahko obnovite, če je še vedno v mapi» Izbrisano «. Če želite izvedeti več, preberite [obnovitev izbrisanih e-poštnih sporočil v](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)storitvi Outlook.com.
+Če pomotoma izbrišete mapo, jo lahko obnovite, če je še vedno v mapi »Izbrisano«. Če želite izvedeti več, preberite [Obnovitev izbrisanih e-poštnih sporočil na Outlook.com.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50)
