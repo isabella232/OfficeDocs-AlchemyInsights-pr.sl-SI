@@ -1,5 +1,5 @@
 ---
-title: Skupna raba v SharePointu
+title: Skupna raba v SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: 4b30748337e695ffe6b28cb4220df57c5de40e86
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ede8daf49acaf1ad67e840b02364a2978d7f18ef2f219b4938dd14d0ca7e231c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739337"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094298"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>Skupna raba v storitvi SharePoint online
+# <a name="how-to-share-in-sharepoint-online"></a>Deljenje z drugimi v SharePoint Online
 
-Če želite dati mesto v skupno rabo:
+Skupna raba mesta:
   
-1. Odprite spletno mesto v spletnem brskalniku.
+1. Odprite mesto v spletnem brskalniku.
     
-2. Če mesto spada v skupino Microsoft 365, kliknite ikono nastavitve v zgornjem desnem kotu in nato še **dovoljenja za mesto**. Kliknite **povabi osebe**in nato izberite, če želite dodati člane v skupino Microsoft 365 ali pa dati v skupno rabo le mesto. 
+2. Če spletno mesto pripada skupini Microsoft 365, kliknite ikono Nastavitve v zgornjem desnem kotu in nato kliknite **Dovoljenja za mesto.** Kliknite **Povabi osebe** in nato izberite, ali želite dodati člane v skupino Microsoft 365 ali dati v skupno rabo le spletno mesto. 
     
-    Za mesto za komunikacijo kliknite **Skupna raba mesta** v zgornjem desnem kotu, vnesite ime osebe in nato izberite raven dovoljenj (branje, urejanje ali popoln nadzor). 
+    Za mesto za komunikacijo zgoraj desno kliknite Skupna raba mesta, vnesite ime osebe **in** nato izberite raven dovoljenja (Branje, Urejanje ali Poln nadzor). 
     
-    Za klasično spletno mesto skupine kliknite **Skupna raba** v zgornjem desnem kotu. Vnesite ime osebe, ki jo želite povabiti, ali pa vnesite vse, ki jih želite dati v skupno rabo z vsemi v organizaciji. Kliknite **Skupna raba**.
+    Za klasično spletno mesto skupine zgoraj **desno** kliknite Skupna raba. Vnesite ime osebe, ki jo želite povabiti, ali pa vnesite Vsi, da jih boste lahko delili z vsemi v organizaciji. Kliknite **Skupna raba.**
     
-[Naučite se dati v skupno rabo datoteko ali mapo](https://go.microsoft.com/fwlink/?linkid=511430)
+[Preberite, kako daste datoteko ali mapo v skupno rabo](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

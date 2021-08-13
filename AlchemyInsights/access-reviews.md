@@ -1,5 +1,5 @@
 ---
-title: Dostop do pregledov
+title: Ocene za Access
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,28 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7767"
-ms.openlocfilehash: b2ba50c4f8e667f81b638ba480fa846e149c3d43
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 92d4aa46c8385035275d7ccbb361a9199e7f5924a87998f3beba32a2b02bbcc9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014997"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938639"
 ---
-# <a name="access-reviews"></a>Dostop do pregledov
+# <a name="access-reviews"></a>Ocene za Access
 
-1. **Omogočanje pregledov Accessa**: lahko omogočite preglede, ko ustvarite nov paket za dostop ali uredite obstoječi paket za dostop. [Ustvarjanje pregleda dostopa do paketa za dostop v storitvi AZURE ad pravice za upravljanje](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) je opisano, kako omogočite pregled dostopa paketov za Access.
+1. **Omogoči ocene za Access:** Ocene lahko omogočite, ko ustvarite nov paket za dostop ali uredite obstoječi paket za dostop. [V članku Ustvarjanje pregleda dostopa za paket za dostop v storitvi Azure AD je](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) opisano, kako omogočite pregledovanje dostopa za pakete za dostop.
 
-1. **Pregled dostopa**: upravljanje pravic v storitvi Azure ad poenostavi, kako podjetja upravljajo dostop do skupin, programov in SharePointovih mest. [Pregled dostopa do paketa za dostop v storitvi AZURE ad pravice za upravljanje](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) je opisano, kako izvedete Accessove preglede za druge uporabnike, ki so dodeljeni Accessovemu paketu kot imenovani pregledovalci.
+1. **Pregled dostopa:** Upravljanje pravic do pravice za Azure AD omogoča lažje upravljanje dostopa podjetij do skupin, aplikacij in SharePoint mest. [V članku](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-create) Pregled dostopa do paketa za dostop v upravljanju pravic azure AD je opisano, kako izvajate ocene dostopa za druge uporabnike, ki so dodeljeni paketu za dostop kot določen pregledovalec.
 
-1. **Preglejte dostop do sebe**: [samopregled paketa za dostop v STORITVi Azure ad za upravljanje pravic](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) je opisano, kako uporabnik opravi samopregled svojih dodeljenih paketov za dostop.
+1. **Pregled dostopa zase:** Samoocena paketa za dostop v upravljanju pravic do imenika [Azure AD](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-access-reviews-self-review) opisuje, kako uporabnik samooceni dodeljene pakete za dostop.
 
-1. Končni uporabniki bodo v večini primerov poiskali pregled do odgovora v **Accessovi plošči**. To velja le za preglede skupin in programov, ne vlog. Za vse Accessove preglede vlog morajo končni uporabniki pomakniti se na privilegirano upravljanje identitete (PIM), da dokončajo pregled.
+1. V večini primerov bodo končni uporabniki v podoknu za dostop našli pregled, ki čaka na **njihov odgovor.** To velja le za ocene za skupine in aplikacije, ne pa za vloge. Za vse ocene dostopa za vloge se morajo končni uporabniki pomakneti do storitve Azure AD Privileged Identity Management (PIM), da dokončajo svoj pregled.
 
-    1. Prijava v portal Azure.
-    2. Premaknite se v imenik Azure AD PIM.
-    3. V levem podoknu za krmarjenje izberite »  >  **pregled** opravil «.
+    1. Prijavite se v portal Azure.
+    2. Pomaknite se do imenika Azure AD PIM.
+    3. V levem podoknu za krmarjenje izberite **Dostop do pregleda**  >  **opravil.**
     
-Za več informacij glejte:
+Če želite več informacij, si oglejte:
 
-- [Izvajanje pregleda za dostop do mojih vlog imenika Azure AD v sistemu PIM ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
-- [Izvajanje pregleda dostopa do mojih vlog» Azure Resource «v sistemu PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)
+- [Izvajanje pregleda dostopa za vloge imenika Azure AD v storitvi PIM ](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-perform-security-review/)
+- [Izvajanje pregleda dostopa za vloge sredstev storitve Azure v storitvi PIM](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-resource-roles-perform-access-review/)

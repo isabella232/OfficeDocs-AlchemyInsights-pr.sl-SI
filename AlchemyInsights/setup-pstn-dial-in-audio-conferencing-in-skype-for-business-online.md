@@ -1,5 +1,5 @@
 ---
-title: Nastavitev klicnih zvočnih konferenc prek omrežja PSTN v Skypu za podjetja Online
+title: Nastavitev klicnih zvočnih konferenc prek omrežja PSTN v Skype za podjetja Online
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.custom:
 - "9001521"
 - "3577"
 - "3579"
-ms.openlocfilehash: 9e401cb59d4536fb8d2def4e61017f13fc59e2c3
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f88489850f30efd31af5f9ccb67edb309f45cb8e123c94befc70fdd72ee98450
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835503"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54094406"
 ---
-# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Nastavitev klicnih zvočnih konferenc prek omrežja PSTN v Skypu za podjetja Online
+# <a name="setup-pstn-dial-in-audio-conferencing-in-skype-for-business-online"></a>Nastavitev klicnih zvočnih konferenc prek omrežja PSTN v Skype za podjetja Online
 
-Če želite nastaviti glasovne konference za Skype za podjetja Online, morate narediti nekaj stvari. 
+Če želite nastaviti glasovne konference za Skype za podjetja v spletu, morate narediti nekaj stvari. 
 
 - Preverite, ali je glasovna konferenca na voljo v vaši državi/regiji.
 
@@ -30,4 +30,4 @@ ms.locfileid: "51835503"
 
 - Pridobite in dodelite številke storitve.
 
-- Dokončajte kontrolni seznam v [razdelku Nastavitev glasovne konference za Skype za podjetja.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)
+- Dokončajte kontrolni seznam v [možnosti Nastavitev glasovne konference za Skype za podjetja.](https://docs.microsoft.com/SkypeForBusiness/audio-conferencing-in-office-365/set-up-audio-conferencing)

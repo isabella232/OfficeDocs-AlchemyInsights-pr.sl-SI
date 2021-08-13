@@ -12,51 +12,51 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003546"
 - "6462"
-ms.openlocfilehash: cfc4d84c8161c321a981eb5c4b0fb749c0c12047
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b757aa6ba3aa97e5f0b34d4c25e8778a13d30b9ee9a975ea1eb28a6afba4f8c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972183"
 ---
 # <a name="manage-card-and-payment-method"></a>Upravljanje kartice in načina plačila
 
-V portalu Azure kot skrbnik računa lahko dodate novo debetno/kreditno kartico, posodobite obstoječo debetno/kreditno kartico ali izbrišete debetno/kreditno kartico, ki je ne uporabljate. Za [Microsoftovo pogodbo za stranke](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)so načini plačila povezani s [profili obračunavanja](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Način plačila lahko posodobi le uporabnik, ki se je prijavil za Azure.
+V portalu Azure lahko kot skrbnik računa dodate novo debetno/kreditno kartico, posodobite obstoječo debetno/kreditno kartico ali izbrišete debetno/kreditno kartico, ki je ne uporabljate. V [Microsoftovi pogodbi za stranke](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement) so načini plačila povezani s [profili za obračunavanje](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile). Samo uporabnik, ki se je prijavil za Azure, lahko posodobi način plačila.
 
 **Dodajanje nove debetne ali kreditne kartice v naročnino na Azure**
 
-1. Vpišite se v [portal Azure](https://ms.portal.azure.com/) kot [skrbnik računa](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Izberite **upravljanje stroškov + obračunavanje**.
-2. Izberite naročnino, za katero želite dodati debetno ali kreditno kartico. Izberite **Načini plačila**.
-3. V zgornjem levem kotu izberite, **+** Če želite dodati kartico. Obrazec za debetno/kreditno kartico se prikaže na desni strani. Vnesite podrobnosti debetne ali kreditne kartice.
-4. Če želite, da bo ta kartica aktivni način plačila, potrdite polje ob možnosti **naredi to moj aktivni način plačila** na vrhu obrazca. Ta kartica bo postala aktivni plačilni instrument za vse naročnine, ki uporabljajo isto kartico kot izbrana naročnina. Izberite **naprej**.
-5. Kliknite **Nastavi aktivno**. 
+1. Vpišite se v [portal Azure](https://ms.portal.azure.com/) kot [skrbnik računa](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Izberite **Upravljanje stroškov + obračunavanje.**
+2. Izberite naročnino, v jo želite dodati. Izberite **Načini plačila.**
+3. Če želite dodati kartico, v **+** zgornjem levem kotu izberite . Na desni bo prikazan obrazec za debetno/kreditno kartico. Vnesite podrobnosti o debetni ali kreditni kartici.
+4. Če želite, da je ta kartica vaš aktivni način plačila, potrdite polje **Ob** možnosti Ta način plačila naj bo moj aktivni način plačila na vrhu obrazca. Ta kartica postane aktiven način plačila za vse naročnine, ki uporabljajo isto kartico kot izbrana naročnina. Izberite **Naprej**.
+5. Kliknite **Nastavi aktivno.** 
  
 **Posodobitev/spreminjanje/odstranjevanje obstoječe debetne ali kreditne kartice**
 
-1.  Vpišite se v [portal Azure](https://portal.azure.com/) kot [skrbnik računa](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Poiščete **stroške Management + obračunavanje**.
-2.  Izberite **Načini plačila**. Kliknite debetno ali kreditno kartico, ki jo želite urediti. Obrazec za debetno/kreditno kartico se prikaže na desni strani.
+1.  Vpišite se v [portal Azure](https://portal.azure.com/) kot [skrbnik računa](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa). Poiščite Upravljanje **stroškov + obračunavanje.**
+2.  Izberite **Načini plačila.** Kliknite debetno ali kreditno kartico, ki jo želite urediti. Na desni bo prikazan obrazec za debetno/kreditno kartico.
 3.  Posodobite podrobnosti debetne ali kreditne kartice. Izberite **Shrani**.
-4.  Če želite **odstraniti**, potrdite polje ob kartici, ki jo želite odstraniti.
-5.  Kliknite **Izbriši**.
+4.  Če **želite** odstraniti , potrdite polje ob kartici, ki jo želite odstraniti.
+5.  Kliknite **Izbriši.**
 
-**Opomba**: debetno/kreditno kartico ne morete odstraniti, če je povezana z drugimi aktivnimi Microsoft naročnine. Odstraniti morate debetno/kreditno kartico iz vseh aktivnih naročnin, ki jih imate z Microsoftom, in poskusite znova.
+**Opomba:** Debetne/kreditne kartice ne morete odstraniti, če je povezana z drugimi aktivnimi Microsoftovimi naročninami. Debetno/kreditno kartico boste morali odstraniti iz vseh aktivnih naročnin, ki jih imate pri Microsoftu, in poskusiti znova.
 
-Če želite več informacij, glejte [posodabljanje, spreminjanje ali odstranjevanje načinov plačila](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
+Če želite več informacij, [glejte Posodobitev, spreminjanje ali odstranjevanje načinov plačila.](https://docs.microsoft.com/azure/billing/billing-how-to-change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Odpravljanje težav s plačilom**
+**Odpravljanje težav s plačili**
 
-Preberite članek [Odpravljanje težav s plačilom/scenariji napak](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues) , da preverite, ali je odpravljena vaša težava.
+Oglejte si [Odpravljanje težav s plačili/scenariji napak](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-troubleshoot-azure-payment-issues), če želite odpraviti težavo. 
 
-Če je na kartici čakajoče plačilo, ki je posledica vaše finančne ustanove, ki vam je odvrnila kartico, se povežite z vašo **finančno institucijo** , da odpravite težavo. Uporabite spodnje kazalce:
+Če je plačilo na kartici v čakanju zaradi tega, ker je vaša  kreditna ustanova zavrnila vašo kartico, se obrnite na svojo finančno ustanovo, da razrešite težavo. Uporabite spodnje napotke:
 
-- Morda boste morali preveriti, ali je na voljo banka, da si ogledate: 
-    - Če je mednarodna transakcija omogočena na kartici
-    - Če ima kartica kreditno omejitev za poravnavo salda
-    - Če je na kartici omogočena ponavljajoče se plačilo
+- Morda boste morali pri banki preveriti, če si želite ogledate: 
+    - Če je na kartici omogočena mednarodna transakcija
+    - Če ima kartica kreditni limit za poravnavo stanja
+    - Če je na kartici omogočeno ponavljajoče se plačilo
 
 **Priporočeni dokumenti**
 
-- [Nastavitev fakturiranja](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice)
-- [Spreminjanje načina plačila – pogosta vprašanja](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
-- [Spreminjanje načina plačila za profil obračunavanja](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
-- [Preverjanje dostopa do Microsoftove pogodbe s strankami](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [Nastavitev izdajanja računov](https://docs.microsoft.com/azure/cost-management-billing/manage/pay-by-invoice)
+- [Spreminjanje načina plačila – Pogosta vprašanja](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions)
+- [Spremenite način plačila za profil za obračunavanje](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#change-payment-method-for-a-billing-profile)
+- [Preverite dostop do Microsoftove pogodbe za stranke](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)

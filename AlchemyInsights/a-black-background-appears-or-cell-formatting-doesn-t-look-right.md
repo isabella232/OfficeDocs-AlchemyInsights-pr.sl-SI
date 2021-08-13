@@ -1,5 +1,5 @@
 ---
-title: Prikaže se črno ozadje ali pa oblikovanje celice ne deluje pravilno
+title: Prikaže se črno ozadje ali pa oblikovanje celice ni videti v redu
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
-ms.openlocfilehash: 031acf2f47dbe9546a5042b88f53e03a8e96e917
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd6832e559e721a41b7afaebe97ec551d297a8b99bf1b323a5a5680365eacfac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663970"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917871"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Prikaže se črno ozadje ali pa oblikovanje celice ne deluje pravilno
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a>Prikaže se črno ozadje ali pa oblikovanje celice ni videti v redu
 
-V programu Excel 2016 se lahko prikaže nepričakovano črno ozadje ali pa se lahko prikaže oblikovanje celic, ki ni pravilno prikazano. To se lahko zgodi, ko dodate glavo ali nogo v pogledu postavitve strani in uporabite polnilo vzorca v celico. Ta težava je bila odpravljena v različici 1708 (graditev 8431,2094). To težavo odpravite tako, da posodobite najnovejšo različico Officea. Izberite **File** \> **Account** \> **Posodobi možnosti posodobitve** računa datoteke \> **Update Now**.
+V Excel 2016 vidite nepričakovano črno ozadje ali pa morda vidite oblikovanje celic, ki ni pravilno prikazano. To se lahko zgodi, ko v pogledu postavitve strani dodate glavo ali nogo in v celici uporabite polnilo z vzorcem. Ta težava je bila odpravljena v različici 1708 (gradnja 8431.2094). Če želite odpraviti to težavo, posodobite na najnovejšo različico Office. Izberite **Možnosti posodobitve** \> **za** \> **datotečni račun** Posodobi \> **zdaj.**
   
 

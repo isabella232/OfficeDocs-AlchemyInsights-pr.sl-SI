@@ -1,5 +1,5 @@
 ---
-title: Pokojnine za dostop do storitev
+title: Upokojitev Accessove storitve
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,26 +11,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 943066d5ac76c0630554ee724bbab9a94086fae4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32da879de230dc0ed99563ad881ab5b2479b8453933a127961a26d619e108ab9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698698"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938711"
 ---
-# <a name="access-services-retirement"></a>Pokojnine za dostop do storitev
+# <a name="access-services-retirement"></a>Upokojitev Accessove storitve
 
-Kot smo sprva objavili v MC97576, je marca 2017 in nadaljevalo komuniciranje v preteklem letu, ko so se upokojili. Naslednja faza v tem postopku bo odstranitev Accessovih spletnih zbirk podatkov, ki uporabljajo SharePointove sezname kot osnovna shramba podatkov.
+Kot smo prvotno objavili v programu MC97576, marca 2017, in še naprej komunicirali v preteklem letu Accessove storitve bili ukinnjeni. Naslednja faza tega postopka bo odstranitev Accessove spletne zbirke podatkov, ki uporabljajo SharePoint sezname kot temeljni prostor za shranjevanje podatkov.
 
 **Kako to vpliva name?**
 
-Z začetkom junija 2019 bomo ustavili ustvarjanje novih Accessovih zbirk podatkov v storitvi SharePoint online in zaprli storitev ter vse preostale aplikacije do aprila 2020.
+Od junija 2019 bomo ustavili ustvarjanje novih Accessovih zbirk podatkov v storitvi SharePoint Online ter do aprila 2020 zaustavili storitev in morebitne preostale programe.
 
 **Kaj moram narediti, da se pripravim na to spremembo?**
 
-Priporočamo vam, da ustvarite načrt prehoda za Accessove spletne zbirke podatkov organizacije. Skrbniki lahko s [skenerjem programa SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) pridobijo seznam Accessovih programov, ki jih uporabljajo spletna mesta.
+Spodbujamo vas, da ustvarite načrt prehoda za Accessove spletne zbirke podatkov organizacije. Skrbniki lahko s programom [SharePoint Access pridobijo](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) inventar Accessovih programov, ki jih uporabljajo mesta.
 
-Podatke o Accessovih spletnih zbirkah podatkov lahko preselite na več načinov:
+Podatke Accessove spletne zbirke podatkov lahko preselite na več načinov:
 
-- Uvoz v lokalno Accessovo zbirko podatkov (. ACCDB) ali v Excelovo datoteko.
-- Priporočamo tudi, da raziskujete Microsoft PowerApps kot alternativno platformo za ustvarjanje poslovnih rešitev brez kode za spletne in prenosne naprave.
+- Uvoz v lokalno Accessovo zbirko podatkov (. ACCDB) ali v Excel datoteke.
+- Priporočamo tudi, da raziskovanje Microsoft PowerApps kot nadomestno platformo za ustvarjanje poslovnih rešitev brez kode za spletne in mobilne naprave.
