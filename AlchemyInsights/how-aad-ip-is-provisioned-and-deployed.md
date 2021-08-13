@@ -1,5 +1,5 @@
 ---
-title: Kako je omogočena zaščita identitete imenika Azure Active Directory in je razporejena
+title: Kako Azure Active Directory zaščita identitete omogoča in uporablja
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927879"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Kako je zaščita identitete imenika Azure Active Directory omogočena in razporejena?
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>Kako Azure Active Directory zaščita identitete omogoča in uporablja?
 
-Privzeto so funkcije zaščite identitete imenika Azure Active Directory omogočene na ravni najemnika za vse uporabnike v najemniku.
+Privzeto so funkcije zaščite identitete Azure Active Directory za identitete omogočene na ravni najemnika za vse uporabnike v najemniku.
 
-Če želite izvedeti več, glejte [Kaj je zaščita identitete imenika Azure Active Directory?](https://go.microsoft.com/fwlink/?linkid=2130395)
+Če želite izvedeti več, glejte [Kaj je zaščita Azure Active Directory identitete?](https://go.microsoft.com/fwlink/?linkid=2130395)
