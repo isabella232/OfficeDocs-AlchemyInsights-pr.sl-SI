@@ -1,5 +1,5 @@
 ---
-title: ID pravila za omogočanje uporabe sistema iOS 1029
+title: ID pravila za omogočanje uporabe za profile v iOS 1029
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a52c98af0f5c5de3122bfc344029588234611da894994d719c95f6af78944405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925721"
 ---
-# <a name="ios-provisioning-profiles"></a>Profili za omogočanje uporabe sistema iOS
+# <a name="ios-provisioning-profiles"></a>IOS Provisioning Profiles
 
-V vrstici podjetja Apple iOS je uporabljen koncept profila za omogočanje uporabe, ki se uporablja za preverjanje celovitosti aplikacije in uveljavljanje pravilnikov, določenih v profilu. Ti profili za omogočanje uporabe potečejo po 12 mesecih, zato mora biti nov profil povezan z uvedenim programom, da bodo programi še naprej zagnani.
+Apple iOS za podjetja uporablja koncept profila omogočanja uporabe, ki se uporablja za preverjanje celovitosti aplikacije in uveljavljanje pravilnikov, določenih v profilu. Ti profili za omogočanje uporabe potečejo po 12 mesecih, zato morate z uvedenim programom povezati nov profil, da se bodo aplikacije lahko še naprej zaganjale.
   
-V tem članku je opisano, kako ustvarite povezavo z novim profilom za omogočanje uporabe s programom iOS LOB, ki je uveden s funkcijo InTune: [Uporaba profilov za omogočanje uporabe aplikacije IOS za preprečevanje potečenja programov](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+V tem članku je opisano, kako ustvarite nov profil za omogočanje uporabe z aplikacijo iOS LOB, uvedeno prek storitve Intune: Uporaba profilov za omogočanje uporabe aplikacije [za iOS](https://docs.microsoft.com/intune/app-provisioning-profile-ios) za preprečevanje poteka aplikacij
   

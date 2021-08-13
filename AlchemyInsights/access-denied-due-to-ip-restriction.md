@@ -1,5 +1,5 @@
 ---
-title: Zavrnjen dostop zaradi omejitve IP
+title: Dostop je zavrnjen zaradi omejitve ip
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,14 +15,14 @@ ms.custom:
 - "6830"
 - "9000150"
 - "7303"
-ms.openlocfilehash: 4447bacc7784496f449f6f7577a13b562e51349d
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: fb316fad5d7550f4449312e2ed3bc418d504b405bf01cd8bf0a180bac10379d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564891"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955397"
 ---
-# <a name="access-denied-due-to-ip-restriction"></a>Zavrnjen dostop zaradi omejitve IP
+# <a name="access-denied-due-to-ip-restriction"></a>Dostop je zavrnjen zaradi omejitve ip
 
-Kot skrbnik za IT lahko nadzorujete dostop do SharePointovih in OneDrive virov v programu Microsoft 365 na podlagi določenih omrežnih mest, ki jim zaupate. To je znana tudi kot pravilnik, ki temelji na lokaciji. Če želite več informacij, glejte [nadzor dostopa na podlagi omrežnega mesta](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location).
+Kot skrbnik za IT lahko nadzorujete dostop do SharePoint in OneDrive virov v Microsoft 365 na določenih omrežnih mestih, ki jim zaupate. To imenujemo tudi pravilnik na osnovi lokacije. Če želite več informacij, glejte [Nadzor dostopa na podlagi omrežnega mesta.](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
