@@ -1,5 +1,5 @@
 ---
-title: Povezovanje SharePointovega mesta s skupino
+title: Povezovalnik mesta SharePoint v skupino
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817080"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915423"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>Povezovanje SharePointovega mesta s skupino
+# <a name="connect-a-sharepoint-site-to-a-group"></a>Povezovalnik mesta SharePoint v skupino
 
-S čarovnikom za povezovanje skupine povežite SharePointovo mesto s skupino v storitvi Microsoft 365.
+S čarovnikom za povezovanje skupine povežite SharePoint mesto z Microsoft 365 skupine.
 
-1. Na spletnem mestu, ki ga želite povezati s skupino, izberite  **Nastavitve (ikona mehanizma)**.
-2. Izberite **Vzpostavi povezavo z novo skupino v storitvi Microsoft 365.**
+1. Na spletnem mestu, ki ga želite povezati s skupino, izberite Nastavitve **(ikona mehanizma)**.
+2. Izberite **Povezovalnik novo skupino Microsoft 365 .**
 3. Sledite čarovniku, da dokončate povezavo.
 
-**Opomba:**  Če povezava z novo skupino v storitvi Microsoft 365 ni na voljo, spletno mesto ne bo podpiralo povezave skupine.
+**Opomba:**  Če Povezovalnik skupino Microsoft 365 na voljo, spletno mesto ne bo podpiralo povezave skupine.
 
-Če želite več informacij, [glejte Vzpostavljanje povezave s skupino v storitvi Office 365.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
+Če želite več informacij, [Povezovalnik za Office 365 skupine.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)

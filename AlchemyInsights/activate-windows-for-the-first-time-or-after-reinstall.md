@@ -1,5 +1,5 @@
 ---
-title: Prva ali po vnovični namestitvi sistema Windows 10
+title: Prvo Windows 10 aktiviranje sistema ali po ponovni namestitvi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3485"
 - "9001418"
-ms.openlocfilehash: 1117105c30db642ae2d47df6caa57ed51529b04a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc10b443ef420184281a6872887ea0b9571c7dfb88c684d8399ca0c85e9f4ab3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823083"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53937801"
 ---
-# <a name="activate-windows-10"></a>Aktiviranje sistema Windows 10
+# <a name="activate-windows-10"></a>Aktiviranje Windows 10
 
-**Če želite sistem Windows 10 aktivirati po prvi namestitvi:**
+**Če želite Windows 10 aktivirati po prvi namestitvi:**
 
-- Z veljavnim ključem izdelka boste morali aktivirati Sistem Windows 10 v napravi, v nobeni od teh naprav ni bila aktivirana kopija sistema Windows 10.
-- Veljaven ključ izdelka boste potrebovali tudi, če nameščate izdajo sistema Windows 10, ki prej ni bila aktivirana v napravi. Če želite na primer namestiti in aktivirati Windows 10 Pro v napravi, v ki ima nameščen sistem Windows 10 Home, potrebujete veljaven ključ izdelka za Windows 10 Pro.
-- Med namestitvijo boste morali vnesti veljaven ključ izdelka. Po dokončani namestitvi bo Sistem Windows 10 samodejno aktiviran v spletu. Če želite preveriti stanje aktiviranja v sistemu Windows 10, izberite **Začni** >  **nastavitve**  >  **Posodobitev & aktiviranje**  >  **varnosti.**
+- Z veljavnim ključem izdelka boste morali aktivirati Windows 10 v napravi, v Windows 10 ni bila nikoli aktivirana kopija Windows 10 izdelka.
+- Veljaven ključ izdelka boste potrebovali tudi, če nameščate izdajo sistema Windows 10 ki prej ni bil aktiviran v napravi. Če želite na primer namestiti in aktivirati Windows 10 Pro v napravi, v Windows 10 Home nameščenega izdelka, potrebujete veljaven Windows 10 Pro izdelka.
+- Med namestitvijo boste morali vnesti veljaven ključ izdelka. Po dokončani namestitvi se Windows 10 aktivira samodejno v spletu. Če želite preveriti stanje aktiviranja Windows 10, **izberite Začni** >  **Nastavitve**  >  **Posodobitev &**  >  **aktiviranje.**
 
-**Aktiviranje po ponovni namestitvi sistema Windows 10:**
+**Če želite po ponovni namestitvi sistema aktivirati Windows 10:**
 
-- Če ste aktivirali brezplačno nadgradnjo na Windows 10 ali če ste kupili in aktivirali Windows 10 v trgovini Microsoft Store, boste imeli za svojo napravo namesto ključa izdelka digitalno licenco. To pomeni, da lahko znova namestite isto izdajo sistema Windows 10, za katero ima vaša naprava digitalno licenco, ne da bi morali vnesti ključ izdelka.
-- Če ste med vnovično namestitvijo pozvani k vnosu ključa izdelka, izberite **Preskoči**. Če je bil Windows 10 aktiviran v vaši napravi pred vnovično namestitvijo, se bo v večini primerov samodejno aktiviral, ko boste imeli povezavo s spletom.
+- Če ste aktivirali brezplačno nadgradnjo na Windows 10 kupili Windows 10 aktivirali Microsoft Store, boste imeli za napravo namesto ključa izdelka digitalno licenco. To pomeni, da lahko znova namestite isto izdajo Windows 10, za katero ima vaša naprava digitalno licenco, ne da bi morali vnesti ključ izdelka.
+- Če ste med vnovično namestitvijo pozvani k vnosu ključa izdelka, izberite **Preskoči**. Če je bil program Windows 10 napravi aktiviran, preden ste ga znova namestili, se bo v večini primerov samodejno aktiviral, ko boste imeli povezavo s spletom.

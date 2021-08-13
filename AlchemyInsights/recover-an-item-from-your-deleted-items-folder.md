@@ -1,5 +1,5 @@
 ---
-title: Obnovitev elementa iz mape» Izbrisano «
+title: Obnovitev elementa v mapi »Izbrisano«
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800008"
 - "7320"
-ms.openlocfilehash: 643c58003e62c88cb6ac6cf420f746dd8f03ed82
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: d90c9573cea9823310399bce452cb010343cdca1bfeefef7733550125b20fffc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49565144"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54062420"
 ---
-# <a name="recover-an-item-from-your-deleted-items-folder"></a>Obnovitev elementa iz mape» Izbrisano «
+# <a name="recover-an-item-from-your-deleted-items-folder"></a>Obnovitev elementa v mapi »Izbrisano«
 
-Ko izbrišete e-poštno sporočilo, stik, element koledarja ali opravilo, je premaknjen v mapo» Izbrisano «.
+Ko izbrišete e-poštno sporočilo, stik, element koledarja ali opravilo, se ta element premakne v mapo »Izbrisano«.
 
-1. V spletnem brskalniku se vpišite v aplikacijo Outlook Web App z URL-jem, ki vam ga je poslala oseba, ki upravlja e-pošto za vašo organizacijo. Vnesite uporabniško ime in geslo, nato pa izberite **vpis**.
-1. Na seznamu e-poštnih map izberite **izbrisani elementi**.
-1. Če želite obnoviti e-poštno sporočilo, naredite nekaj od tega: a. Če želite obnoviti sporočilo v mapo» Prejeto «, z desno tipko miške kliknite sporočilo, nato pa izberite **premakni > mapo» Prejeto «**.
-    b. Če želite obnoviti sporočilo v drugo mapo, z desno tipko miške kliknite sporočilo, nato pa izberite **premakni > več**. Izberite mesto mape in nato kliknite **Premakni**.
+1. V spletnem brskalniku se vpišite v aplikacijo Outlook Web App z URL-jem, ki vam ga je poslala oseba, ki upravlja e-pošto za vašo organizacijo. Vnesite uporabniško ime in geslo ter izberite **Vpis**.
+1. Na seznamu e-poštnih map izberite **Izbrisano.**
+1. Če želite obnoviti e-poštno sporočilo, naredite nekaj od tega: a. Če želite obnoviti sporočilo v mapo »Prejeto«, z desno tipko miške kliknite sporočilo, nato pa **izberite > mapo »Prejeto«**.
+    b. Če želite obnoviti sporočilo v drugo mapo, z desno tipko miške kliknite sporočilo in izberite **Premakni > Več.** Izberite mesto mape in kliknite **Premakni**.
 4. Če želite obnoviti druge vrste elementov:
-    - Če želite obnoviti stik, ga kliknite z desno tipko miške, nato pa izberite **Premakni v imenik**.
-    - Če želite obnoviti element koledarja, ga kliknite z desno tipko miške, nato pa izberite **Premakni v koledar**.
-    - Če želite obnoviti opravilo, ga kliknite z desno tipko miške, nato pa izberite **Premakni v opravila**.
+    - Če želite obnoviti stik, ga kliknite z desno tipko miške, nato pa **izberite Premakni v mapo »Stiki«**.
+    - Če želite obnoviti element koledarja, ga kliknite z desno tipko miške, nato pa **izberite Premakni v koledar**.
+    - Če želite obnoviti opravilo, ga kliknite z desno tipko miške, nato pa **izberite Premakni v opravila.**
 
-**Namigi za obnovitev elementov v mapi» izbrisani elementi «**
+**Nasveti za obnavljanje elementov v mapi »Izbrisano«**
 
-- Če izbrišete mapo, je premaknjena v mapo» Izbrisano «in je prikazana kot podmapa. Če želite obnoviti (in vse elemente, ki jih vsebuje), z desno tipko miške kliknite mapo Izbrisano, izberite **Premakni** in nato izberite mapo, kamor jo želite premakniti.
-- Vaš skrbnik je morda nastavil pravilnik, da izbriše elemente iz mape» Izbrisano «po določenem številu dni. Tako kot pri brisanju elementa so elementi, ki jih je izbrisal pravilnik, premaknjeni v mapo» obnovljivi elementi «. Če ne najdete vsebine v mapi» Izbrisano «, jo poiščite v mapi» obnovljivi elementi «.
+- Če izbrišete mapo, se ta premakne v mapo »Izbrisano« in je prikazana kot podmapa. Če jo želite obnoviti (in vse elemente v mapi), z desno tipko miške kliknite izbrisano mapo, izberite Premakni **in** nato izberite mapo, v kateri jo želite premakniti.
+- Vaš skrbnik je morda nastavil pravilnik za brisanje elementov iz mape »Izbrisano« po določenem številu dni. Podobno kot pri izbrisanem elementu se tudi elementi, izbrisani v skladu s pravilnikom, premaknejo v mapo »Obnovljivi elementi«. Če torej v mapi »Izbrisano« ne najdete nečesa, ga poiščite v mapi »Obnovljivi elementi«.

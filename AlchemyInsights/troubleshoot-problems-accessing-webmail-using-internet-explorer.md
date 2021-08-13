@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003958"
 - "7014"
-ms.openlocfilehash: 8711b33851e2dac4499f39e3bfbff955d3cb91e3
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: b38e953c69c3fbc0e1ac4771953b1777e7033286ea56554d42952c2df696bd70
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008016"
 ---
 # <a name="troubleshoot-problems-with-accessing-webmail"></a>Odpravljanje težav z dostopom do spletne pošte
 
-Nepravilne nastavitve datuma in ure v računalniku lahko povzročijo težave z dostopom do spletnih e-poštnih strežnikov. Če želite zagotoviti, da so nastavitve datuma in ure pravilne, upoštevajte ta navodila:
+Nepravilne nastavitve datuma in časa v računalniku lahko povzročijo težave z dostopom do spletnih e-poštnih strežnikov. Če želite zagotoviti pravilno nastavitev datuma in časa, upoštevajte ta navodila:
 
-1. Izberite **Start**, vnesite **datum in čas**, nato pa izberite **datum in čas**.
-2. V oknu» **datum & časa** «naredite nekaj od tega:
+1. Izberite **Začetni** meni , **vnesite datum in** čas , nato pa izberite Datum in **ura**.
+2. V **oknu & časa** naredite nekaj od tega:
 
-    - Samodejno vklopi **nastavitev časa** in **nastavite časovni pas samodejno**.
+    - Vklopite **možnost Samodejno nastavi čas in** Samodejno nastavi časovni **pas.**
 
-    - Ohranite samodejne nastavitve, vendar izberite gumb **Spremeni** , izberite nastavitve **datuma** in **ure** v pogovornem oknu **Spremeni datum in čas** in nato izberite **Spremeni**.
+    - Samodejne nastavitve naj bodo izklopljene, vendar  izberite  gumb Spremeni,  v pogovornem oknu Spreminjanje datuma in časa izberite nastavitve datuma in časa, nato pa izberite **Spremeni**. 
 
-Če želite več informacij, glejte [Odpravljanje težav z dostopom do spletne pošte s programom Internet Explorer](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888).
+Če želite izvedeti več, glejte [Odpravljanje težav z dostopom do spletne pošte z Internet Explorerjem.](https://answers.microsoft.com/windows/forum/all/problem-accessing-email-through-ie/41f871f3-6df3-4bc9-a5bd-7f71651a2888)
