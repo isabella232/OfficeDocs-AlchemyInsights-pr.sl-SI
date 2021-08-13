@@ -1,5 +1,5 @@
 ---
-title: posodobljena izkušnja iskanja 414
+title: 414 – posodobljena izkušnja z iskanjem
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -14,13 +14,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: 66f42725118b078bd833ae6a143f89825e1627aa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c0386b821e16226a50e49410fdbd23a8da02ac74b4967adf7409f93c49d8068
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691879"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958565"
 ---
-# <a name="search-experience-updated"></a>Posodobljena izkušnja iskanja
+# <a name="search-experience-updated"></a>Posodobljena izkušnja z iskanjem
 
-Iskanje se zdaj nahaja na dnu aplikacije. Z izkoriščanjem vam omogoča neposreden dostop do zgornjih stikov, prihajajočih potovalnih poti, dostave paketov in nedavnih prilog. E-poštna sporočila, datoteke in stike lahko poiščete v katerem koli od svojih računov z enim samim iskalnim poljem ali pa z našimi novimi filtri omejite iskanje.
+Iskanje je zdaj na dnu aplikacije. Če jo tapnete, omogočite neposreden dostop do najbolj nedavnih stikov, prihajajočih potovanj, dostav paketov in nedavnih prilog. V enem samem iskalnem polju lahko iščete e-poštna sporočila, datoteke in stike v vseh svojih računih ali pa uporabite naše nove filtre za zoženje iskanja.

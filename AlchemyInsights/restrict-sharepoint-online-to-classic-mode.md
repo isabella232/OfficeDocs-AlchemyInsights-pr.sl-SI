@@ -1,5 +1,5 @@
 ---
-title: Omejevanje storitve SharePoint online v klasični način
+title: Omeji SharePoint Online na klasični način
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,26 +13,26 @@ ms.custom:
 - "1835"
 - "1889"
 - "9000225"
-ms.openlocfilehash: 1887bf64df98bf90a1902250633d5774178dfa2f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6315a83ac825f96ceea60798d441de8e8e53336fe29eda4d0491dd8a6a43b352
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751438"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958817"
 ---
-# <a name="restrict-sharepoint-online-to-classic-mode"></a>Omejevanje storitve SharePoint online v klasični način
+# <a name="restrict-sharepoint-online-to-classic-mode"></a>Omeji SharePoint Online na klasični način
 
-Nekatere organizacije še vedno zahtevajo klasično izkušnjo načina. Čeprav ni načrtov za odstranjevanje klasičnega načina na ravni zrnatosti, ni več mogoče omejiti celotne organizacije (najemnika) v klasični način za sezname in knjižnice.
+Nekatere organizacije še vedno potrebujejo izkušnjo klasičnega načina. Čeprav ni načrtov za odstranitev klasičnega načina na razdrobljeni ravni, celotne organizacije (najemnika) ni mogoče več omejiti na klasični način za sezname in knjižnice.
 
-Skrbnik bo imel te možnosti za upravljanje posameznih seznamov in knjižnic v klasičnem načinu z uporabo neželenih stikal v granulah, ki jih nudimo na teh ravneh:
+Skrbnik ima na voljo te možnosti za upravljanje posameznih seznamov in knjižnic v klasičnem načinu z uporabo razdrobljenih stikal za zavrnitev sodelovanja, ki so na voljo na teh ravneh:
 
 - zbirka mest
-- mesta
+- mesto
 - seznam
 - knjižnica
 
-Poleg tega bodo seznami, ki uporabljajo določene funkcije in prilagoditve, ki jih sodobni ne podpirajo, še vedno samodejno preklopljeni v klasični način.
+Poleg tega bodo seznami, ki uporabljajo določene funkcije in prilagoditve, ki jih moderna oblika ne podpira, še vedno samodejno preklopili na klasični način.
 
-Začetek april 1, 2019, postopek za onemogočanje ravni najemnika, ki je izključena iz sodobnega seznama, in knjižnice se bodo zagnale in nadaljevale v maju 31, 2019.  Seznami in knjižnice, ki so v klasičnem načinu zaradi izključitve najemnika, bodo samodejno premaknjeni v moderno.
+Od 1. aprila 2019 se bo postopek za onemogočanje ravni najemnika, da zavrnete sodobni seznam in knjižnice, začel in nadaljeval do 31. maja 2019.  Seznami in knjižnice, ki so v klasičnem načinu zaradi zavrnitve najemnika, bodo samodejno premaknjeni v sodobno.
 
-Če potrebujete klasični način, si oglejte več informacij [tukaj](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) [in navodila za](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) uporabo storitve PnP PowerShell, ki opisujejo možnosti in orodja, ki jih lahko uporabite danes, da uporabite klasično izkušnjo načina.
+Če potrebujete klasični način, [](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Delivering-SharePoint-modern-experiences/ba-p/315023) si tukaj oglejte več [](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries-optout) informacij in navodila za PnP Powershell, ki opisujejo možnosti in orodja, ki jih lahko uporabljate danes za uporabo klasične izkušnje načina.

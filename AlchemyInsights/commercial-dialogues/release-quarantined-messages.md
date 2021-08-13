@@ -1,5 +1,5 @@
 ---
-title: Objava sporočil v karanteni
+title: Izdaja sporočil v karanteni
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b8fe293295e161dfc2a6476f16574febfb92bf29
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750054"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966989"
 ---
-# <a name="release-quarantined-messages"></a>Objava sporočil v karanteni
+# <a name="release-quarantined-messages"></a>Izdaja sporočil v karanteni
 
-Sporočila v karanteni (ali nabor sporočil) lahko sprostite za vse prejemnike ali pa le objavite sporočila določenim osebam, ki jih izberete na seznamu vseh prejemnikov.
+Sporočilo v karanteni (ali nabor sporočil) lahko spustite vsem prejemnikom ali pa sporočilo spustite le določenim ljudem, ki ste jih izbrali na seznamu vseh prejemnikov.
 
-1. Pojdite v [središče za skladnost varnostnega &](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Pojdite v razdelek» pregled **grožnje**«v  >    >  **karanteni**.
+1. Obiščite Središče [za & za skladnost s predpisi.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+2. Odprite **karanteno za pregled**  >  **upravljanja**  >  **groženj.**
 3. Izberite sporočila, ki jih želite sprostiti.
-4. Ko sprostite sporočilo, izberite **Osveži** , da osvežite podatke, in nato dvokliknite sporočilo. Videti je, da je bilo sporočilo izdano prejemnikom.
+4. Ko spustite sporočilo, izberite **Osveži,** da osvežite podatke, nato pa dvokliknite sporočilo. Sporočilo bi moralo biti izdano za prejemnike.
