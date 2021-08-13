@@ -1,5 +1,5 @@
 ---
-title: Izvažanje in uvažanje podatkov z Excelom
+title: Izvažanje in uvažanje podatkov s Excel
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000777"
 - "2718"
-ms.openlocfilehash: e06d88ce5d90e8b3eaf07c621ca62f64e0604fc2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6dc660d0b51a4bd104c25ee8315182eea6db3385e87034226dfc759b2f556728
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813308"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53978033"
 ---
-# <a name="exporting-and-importing-data-with-excel"></a>Izvažanje in uvažanje podatkov z Excelom
+# <a name="exporting-and-importing-data-with-excel"></a>Izvažanje in uvažanje podatkov s Excel
 
-Če želite pomoč pri izvažanju podatkov iz Excela ali uvozu podatkov v Excel, preglejte enega ali več teh člankov:
+Če želite pomoč pri izvažanju podatkov iz Excel podatkov ali uvažanju podatkov v Excel, preglejte enega ali več teh člankov:
 
-- [Izvoz v Excel iz SharePointa](https://support.office.com/client/bfb2ea48-6118-4fa9-abb6-cced9424e5d9)
+- [Izvozi v Excel iz SharePoint](https://support.office.com/client/bfb2ea48-6118-4fa9-abb6-cced9424e5d9)
 
-- [Ustvarjanje seznama na podlagi preglednice v SharePointu](https://support.office.com/article/Create-a-list-based-on-a-spreadsheet-380CFEB5-6E14-438E-988A-C2B9BEA574FA)
+- [Ustvarjanje seznama na podlagi preglednice v SharePoint](https://support.office.com/article/Create-a-list-based-on-a-spreadsheet-380CFEB5-6E14-438E-988A-C2B9BEA574FA)
 
 - [Izvoz podatkov iz Accessa](https://support.office.com/client/64E974E6-AE43-4301-A53E-20463655B1A9)
 

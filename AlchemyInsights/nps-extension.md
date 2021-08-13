@@ -1,5 +1,5 @@
 ---
-title: Razširitev strežnika omrežnega pravilnika
+title: Pripona strežnika omrežnega pravilnika
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "8603"
-ms.openlocfilehash: 6e4b4a0f9f891bbe6bc5140e119b55a802bcd7a5
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 26350d0adc665334163c5eff5f27b227bbf4c9312d76c441b2057471e99e0b30
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50428276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985917"
 ---
-# <a name="network-policy-server-extension"></a>Razširitev strežnika omrežnega pravilnika
+# <a name="network-policy-server-extension"></a>Pripona strežnika omrežnega pravilnika
 
-Razširitev storitve Network Policy Server (nacionalni strežnik) za večnamensko preverjanje pristnosti v oblaku v infrastrukturo za preverjanje pristnosti, ki uporablja obstoječe strežnike S podaljšanjem nacionalnih programov lahko dodate telefonski klic, besedilno sporočilo ali preverjanje aplikacije telefona v obstoječi potek preverjanja pristnosti, ne da bi morali namestiti, konfigurirati in vzdrževati nove strežnike.
+Razširitev network Policy Server (NPS) za Azure AD Multi-Factor Authentication doda zmogljivosti storitve MFA v oblaku v infrastrukturo preverjanja pristnosti z obstoječimi strežniki. S pripono NPS lahko v obstoječi tok preverjanja pristnosti dodate telefonski klic, besedilno sporočilo ali preverjanje aplikacije, ne da bi morali namestiti, konfigurirati in vzdrževati nove strežnike.
 
-Pripona nacionalnih parlamentov deluje kot adapter med RADIUSom in storitvijo Azure AD multi-Factor, ki temelji na oblaku, da zagotovi drugi dejavnik preverjanja pristnosti za Združene ali sinhronizirane uporabnike.
+Razširitev NPS deluje kot vmesnik med STORITVIJO RADIUS in storitvijo Azure AD Multi-Factor Authentication v oblaku, da zagotovi drugi dejavnik preverjanja pristnosti za zunanji ali sinhronizirani uporabnik.
 
-Če želite več informacij o tem, kako deluje podaljšanje sistema, glejte [vključevanje obstoječe infrastrukture omrežnih pravilnikov (nacionalni strežnik) v storitvi AZURE ad multi-Factor Authentication](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension).
+Če želite več podrobnosti o tem, kako deluje razširitev NPS, glejte Integracija obstoječe infrastrukture strežnika [network Policy Server (NPS) s storitvijo Azure AD Multi-Factor Authentication.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-nps-extension)

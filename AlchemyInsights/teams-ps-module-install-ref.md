@@ -1,5 +1,5 @@
 ---
-title: Namestitev in referenca z modulom za Teams PS
+title: Teams Namestitev in sklicevanje modula PS
 ms.author: heidip
 author: heidip
 manager: serdards
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1787"
 - "9000212"
-ms.openlocfilehash: 34f2165d2914a178a5232f92c32c0dffd2f62b90
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43eb15a49fe5f47aa524a6b3fd5cba39dfaa0bbb5e5c0643df90ae37b33dd1f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735899"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956561"
 ---
-# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Kaj lahko dosežete z modulom za Microsoft Teams PowerShell
+# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>Kaj lahko dosežete z modulom Microsoft Teams PowerShell
 
-Če morate vedeti, kako namestiti modul za Teams PowerShell, si lahko ogledate [ta spletni dnevnik](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/).
+Če želite izvedeti, kako namestite modul Teams PowerShell, si oglejte ta spletni [dnevnik.](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/)
 
 Dodatne informacije:
 
-- Preglejte [pregled» Teams PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) «, da razumete [zmožnosti skrbnika](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles), [ustvarite in Upravljajte ekipe prek lupine PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)ter [upravljajte pravilnike](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) ali [konfiguracije](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell). 
-- Pregled [ukaza za ukaz» Microsoft Teams PowerShell «](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) za seznam ukazov, ki so na voljo prek lupine PowerShell. 
+- Preglejte [pregled Teams PowerShell,](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) da razumete zmogljivosti skrbniških vlog [,](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)ustvarite in upravljajte ekipe prek storitve [Powershell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)ter [upravljate pravilnike](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) in [konfiguracije.](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell) 
+- Preglejte [Microsoft Teams ukazne lupine PowerShell za](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) seznam ukazov, ki so na voljo prek lupine PowerShell. 
