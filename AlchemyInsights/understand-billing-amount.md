@@ -1,5 +1,5 @@
 ---
-title: Razumevanje zneska za obračunavanje
+title: Razumevanje zneska obračunavanja
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: e18b01e75f8c0100df39f0c35ae8fe18846db803
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53919656"
 ---
-# <a name="understand-billing-amount"></a>Razumevanje zneska za obračunavanje
+# <a name="understand-billing-amount"></a>Razumevanje zneska obračunavanja
 
 **Led stranke (WD):**
 
 - Če želite pomoč pri pregledu in razumevanje računa, si oglejte: [Vadnica: pregled posameznih računov za Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Razumevanje pogojev na računu: razlaga [pogojev računa Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Razumevanje izrazov o stroških uporabe storitve Azure: [razlaga izrazov uporabe](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Če želite pridobiti kopijo računa v obliki zapisa PDF in kopijo podrobne datoteke o dnevni uporabi (. CSV: [Pridobite podatke o računu in uporabi](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Če želite pridobiti kopijo računa v obliki zapisa PDF in kopijo podrobne datoteke o dnevni uporabi (.CSV): Pridobite račun in [podatke o uporabi](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Opomba:** Če prekličete naročnino/vir sredi obračunskega obdobja, bo morda še vedno prikazan strošek za katero koli uporabo v prejšnjem mesecu. Če je bilo obdobje obračunavanja od 26. dne vsak mesec do 25. dne v naslednjem mesecu & ste 23. dni v obračunskem obdobju za junij začasno prekinili naročnino, ki je 28 dni, boste morda videli bremenitev za uporabo 28 dni. Če kljub preklicu naročnine vidite strošek, se prepričajte, da nimate nobenih drugih paketov podpore, ki povzročajo bremenjenje. Če ga imate, prekličite paket.
 
@@ -44,10 +44,10 @@ ms.locfileid: "51827880"
 - Če želite pomoč pri pregledu in razumevanje računa, si oglejte: [Vadnica: pregled računa za Microsoftovo pogodbo o partnerju](https://docs.microsoft.com/azure/cost-management-billing/understand/review-partner-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Razumevanje pogojev na računu: Razloženi [so pogoji v računu Microsoftove pogodbe za partnerje](https://docs.microsoft.com/azure/cost-management-billing/understand/mpa-invoice-terms?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Pogodba za poslovna podjetja (EA)**
+**pogodba Enterprise Agreement (EA)**
 
-- Če želite pomoč pri pregledu in razumevanje računa, glejte: Razumevanje računa [za pogodbo Azure Enterprise](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Če ste stranka storitve Azure s pogodbo Enterprise Agreement (stranka EA), ne morete prenesti računov organizacije. Računi so poslani osebi, ki je nastavljena za prejemanje računov za včlanitev, zato lahko prenesete uporabo na [portalu Azure.](https://portal.azure.com/)
+- Če želite pomoč pri pregledu in razumevanje računa, glejte: [Razumevanje računa za Azure pogodba Enterprise Agreement račun](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Če ste stranka storitve Azure z pogodba Enterprise Agreement (stranka EA), ne morete prenesti računov organizacije. Računi so poslani osebi, ki je nastavljena za prejemanje računov za včlanitev, zato lahko prenesete uporabo na [portalu Azure.](https://portal.azure.com/)
 
 Pregled računa za preobremnjenje storitve:
 
@@ -69,9 +69,9 @@ Primerjajte skupno vrednost Tržnice Azure na > povzetek uporabe v portalu za po
 - Skupno **število tržnice Azure** se mora ujemati s skupno **prodajo** na računu na tržnici
 - Če želite **več informacij o** stroških, ki se zaračunajo na podlagi uporabe, pojdite na prenos uporabe. V **razdelku Stroški za** Tržnico **izberite** **Prenesi opombo:** To poročilo ne vključuje davkov ali prikaz enkratnih nakupov
 
-**Ponudnik rešitev v oblaku (CSP)**
+**Cloud Solution Provider (CSP)**
 
-- Preberite več o tem, kako obračunavanje deluje v programu Azure Cloud Solution Provider (Azure CSP): [Obračunavanje pri ponudniku storitev Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Preberite več o tem, kako deluje obračunavanje v Cloud Solution Provider Azure Cloud Solution Provider (Azure CSP): [Obračunavanje storitve Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-billing-overview?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Preberite več o branju in razumevanju računa CSP: [račun Azure CSP](https://docs.microsoft.com/azure/cloud-solution-provider/billing/azure-csp-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Priporočeni dokumenti**
@@ -81,4 +81,4 @@ Primerjajte skupno vrednost Tržnice Azure na > povzetek uporabe v portalu za po
 - [Razumevanje omejitve porabe za Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/spending-limit?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Razumevanje obračunavanja storitve Azure za stroške zunanjih storitev: [Kako so obračunane zunanje storitve](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-azure-marketplace-charges?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Pogosta vprašanja o brezplačnem računu za Azure](https://azure.microsoft.com/free/free-account-faq/)
-- [Razumevanje skrbniških vlog v storitvi Azure Enterprise Agreement v storitvi Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Razumevanje skrbniških vlog pogodba Enterprise Agreement Azure v storitvi Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-ea-roles?WT.mc_id=Portal-Microsoft_Azure_Support)

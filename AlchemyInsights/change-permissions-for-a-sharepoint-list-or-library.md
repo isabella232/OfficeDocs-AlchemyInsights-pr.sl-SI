@@ -1,5 +1,5 @@
 ---
-title: Spreminjanje dovoljenj za SharePointov seznam ali knjižnico
+title: Spreminjanje dovoljenj za seznam SharePoint ali knjižnico
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1cb414cf-a4a4-4b35-84c2-0723cf5c5a14
-ms.openlocfilehash: 445f1edcae5a2581cf340898c823257e9e857ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b012606e5dadd0ea71eb68de9bc278faea41adbc99e662bfa3eea6653548c1a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681839"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979473"
 ---
-# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Spreminjanje dovoljenj za SharePointov seznam ali knjižnico
+# <a name="change-permissions-for-a-sharepoint-list-or-library"></a>Spreminjanje dovoljenj za seznam SharePoint ali knjižnico
 
-1. Pojdite na SharePointovo mesto v spletnem brskalniku in odprite seznam ali knjižnico.
+1. Pojdite na spletno SharePoint v spletnem brskalniku in odprite seznam ali knjižnico.
     
-2. Kliknite ikono nastavitve v zgornjem desnem kotu, nato pa kliknite **Nastavitve knjižnice** ali **Nastavitve seznama**. (Če ukaza ne vidite, izberite zavihek **Knjižnica** ali **seznam** , da odprete trak, in nato kliknite **Nastavitve knjižnice** ali **Nastavitve seznama** na traku.) 
+2. Kliknite ikono Nastavitve v zgornjem desnem kotu in nato kliknite Nastavitve **knjižnice ali** **Nastavitve seznama.** (Če ukaza ne vidite, izberite  zavihek Knjižnica ali Seznam, da odprete trak, nato pa na traku **Nastavitve** Knjižnica ali **Nastavitve** seznam.)  
     
-3. V razdelku **dovoljenja in upravljanje**kliknite **dovoljenja za ta seznam** ali **dovoljenja za to knjižnico dokumentov**.
+3. V **razdelku Dovoljenja in upravljanje** kliknite Dovoljenja za ta **seznam** ali Dovoljenja za to knjižnico **dokumentov.**
     
-Privzeto je, da SharePointovi seznami in knjižnice podedujejo njihova dovoljenja s spletnega mesta. Če prekinete dedovanje dovoljenj, bodo Trenutna dovoljenja kopirana na seznam ali v knjižnico in vse v njem. Če so dovoljenja za mesto pozneje spremenjena, spremembe ne bodo uporabljene na seznamu ali v knjižnici in elemente v njem.
+Upoštevajte, da seznami SharePoint in knjižnice privzeto podedujejo dovoljenja od mesta. Če prekinete dedovanje dovoljenj, bodo trenutna dovoljenja kopirana na seznam ali v knjižnico in vse v knjižnici. Če so dovoljenja za mesto pozneje spremenjena, spremembe ne bodo uporabljene za seznam ali knjižnico in elemente na tem mestu.
   
 

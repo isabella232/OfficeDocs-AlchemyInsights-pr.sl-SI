@@ -1,5 +1,5 @@
 ---
-title: Imenik Azure Active Directory (varnost in identiteta
+title: Azure Active Directory (varnost in identiteta)
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483524"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995457"
 ---
-# <a name="azure-active-directory-security-and-identity"></a>Imenik Azure Active Directory (varnost in identiteta)
+# <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (varnost in identiteta)
 
-Izberite eno od teh navodil za namestitev:
+Izberite enega od teh vodnikov za nastavitev:
 
-- **Azure Active Directory povežite** [uporabnike sinhronizacije z vašim imenikom](https://go.microsoft.com/fwlink/?linkid=2071310) konfiguriranje sinhronizacije z geslom ali preverjanje pristnosti, da se lahko uporabniki prijavijo v svojo e-pošto in v imenik Active Directory na mestu uporabe (krmilnik domene) z istim geslom. Prijavite se lahko tudi z vpisom federacije s storitvami Active Directory Federation Services (AD FS).
+- **Azure Active Directory Povezovalnik** [](https://go.microsoft.com/fwlink/?linkid=2071310) sinhronizacijo uporabnikov z imenikom Konfiguracija sinhronizacije z geslom ali prepustnega preverjanja pristnosti, tako da se lahko vaši uporabniki vpišejo v svojo e-pošto in v imenik Active Directory na mestu uporabe (kontrolnik domene) z istim geslom. Prav tako lahko nastavite vpis v povezovanje s storitvami Ad FS (Active Directory Federation Services).
 
-- **Nastavitev funkcije Azure** [ad](https://go.microsoft.com/fwlink/?linkid=2134390) za nastavitev storitve Azure oglasov nastavite napredne funkcije, ki so na voljo v storitvi Azure Active Directory Premium, kot je preverjanje pristnosti z več vrednostmi, registracija naprave in nadzor varnosti.
+- **Vodnik za nastavitev funkcij Azure** [AD](https://go.microsoft.com/fwlink/?linkid=2134390) Nastavitev naprednih funkcij, ki so na voljo v storitvi Azure Active Directory Premium, kot so večkratno preverjanje pristnosti, registracija naprave in nadzorovanje varnosti.
