@@ -1,5 +1,5 @@
 ---
-title: Outlook Desktop Prekliči ali Zamenjaj e-poštno sporočilo
+title: Outlook Preklic ali zamenjava e-poštnega sporočila na namizju
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,32 +10,32 @@ ms.service: o365-administration
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 578e2690061286bde74ee0b4b74a197630716f59
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33fe7ebd53d7ff11dbab54ce589aaf58e68c633be4d83a3cdfb00edc7752430e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918411"
 ---
-# <a name="recall-or-replace-an-outlook-email-message"></a>Preklic ali zamenjava Outlookovega e-poštnega sporočila
+# <a name="recall-or-replace-an-outlook-email-message"></a>Preklic ali zamenjava Outlook-poštnega sporočila
 
-- Kot skrbnik lahko v **imenu uporabnikov, ki uporabljajo PowerShell**, prekličete sporočila. Ne morete se spomniti sporočil v skrbniškem središču.
-- **Sporočila, ki so poslana osebam v organizaciji, lahko odpokličete le**. Če je bilo sporočilo poslano na naslov Gmail, ga na primer ne morete preklicati.
-- Sporočila, **poslana iz programa Outlook 2016**, lahko prekličete le v računalniku s sistemom Windows. Če uporabnik pošlje sporočilo z Outlookom za Mac ali Outlookom v spletu, ga ne morete preklicati.
+- Kot skrbnik lahko prekličete sporočila **v imenu uporabnikov, ki uporabljajo PowerShell.** Sporočil iz skrbniškega središča ni mogoče preklicati.
+- Prekličete **lahko le sporočila, ki so poslana ljudem v vaši organizaciji.** Če je bilo sporočilo na primer poslano na naslov storitve Gmail, ga ne morete preklicati.
+- Sporočila, **poslana iz računalnika s sistemom Windows Outlook 2016 lahko prekličete.** Če uporabnik pošlje sporočilo v Outlook za Mac ali Outlook v spletu, ga ne morete preklicati.
 
 Če želite preklicati ali zamenjati e-poštno sporočilo:
 
-1. V podoknu» mapa «na levi strani Outlookovega okna izberite mapo Poslano.
+1. V podoknu z mapami na levi strani okna Outlook izberite mapo Poslano.
 1. Dvokliknite sporočilo, ki ga želite preklicati, da ga odprete.
-1. Izberite zavihek **sporočilo** , nato pa izberite **dejanja**  >  **Prekliči to sporočilo**.
-1. Izberite **Izbriši neprebrane kopije tega sporočila** ali **Izbriši neprebrane kopije in jih Zamenjaj z novim sporočilom**, nato pa izberite **v redu**.
-1. Če pošiljate nadomestno sporočilo, sestavite sporočilo in nato izberite **Pošlji**.
-1. Uspeh ali neuspeh odpoklica sporočil je odvisen od nastavitev prejemnika v Outlooku. Če želite navodila za preverjanje odpoklica, glejte [Ta članek](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
+1. Izberite **zavihek** Sporočilo in nato **Dejanja** preklica  >  **tega sporočila.**
+1. Izberite **Izbriši neprebrane kopije tega sporočila** ali Izbriši **neprebrane kopije** in jih zamenjaj z novim sporočilom , nato pa izberite V **redu**.
+1. Če pošiljate nadomestno sporočilo, ga sestavite in izberite **Pošlji**.
+1. Uspeh ali neuspeh preklica sporočila je odvisen od prejemnikovih nastavitev v Outlook. Če želite navodila za preverjanje preklica, si oglejte [ta članek.](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0)
 
 Iskanje in brisanje e-poštnih sporočil v organizaciji
 
-- Če niste globalni skrbnik, mora biti vaš račun dodan v vlogo upravitelja E-odkrivanje ali upravljanje iskanja skladnosti, če želite poiskati sporočila. Če želite izbrisati sporočila, se morate vključiti v skupino vlog za upravljanje organizacije ali vlogo za upravljanje iskanja in čiščenja. Dovoljenja za te vloge so dodeljena v [središču za varnost in skladnost s predpisi](https://go.microsoft.com/fwlink/?linkid=2083731).
-- [Ustvarite iskanje vsebine](https://docs.microsoft.com/microsoft-365/compliance/content-search) , da poiščete sporočilo, ki ga želite izbrisati.
-- [Povežite se s središčem PowerShell za varnost in skladnost s predpisi](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps).
+- Če niste globalni skrbnik, mora biti vaš račun dodan v vlogo upravitelja e-odkrivanja ali vlogo upravljanja iskanja skladnosti, če želite poiskati sporočila. Če želite izbrisati sporočila, se morate pridružiti skupini vlog za upravljanje organizacije ali vlogi upravljanja iskanja in čiščenja. Dovoljenja za te vloge so dodeljena v središču za varnost in [skladnost s predpisi.](https://go.microsoft.com/fwlink/?linkid=2083731)
+- [Ustvarite iskanje vsebine in](https://docs.microsoft.com/microsoft-365/compliance/content-search) poiščite sporočilo, ki ga želite izbrisati.
+- [Povezovalnik v Središče za varnost in skladnost s predpisi PowerShell.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)
 
-Če uporabljate več dejavnikov preverjanja pristnosti, si oglejte [povezovanje z lupino za varnost in skladnost s programom Microsoft 365 z uporabo več dejavnikov preverjanja pristnosti](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps).
+Če uporabljate večkratno preverjanje pristnosti, glejte Povezovalnik za Microsoft 365 in skladnost s predpisi PowerShell z večkratno [preverjanjem pristnosti.](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps)

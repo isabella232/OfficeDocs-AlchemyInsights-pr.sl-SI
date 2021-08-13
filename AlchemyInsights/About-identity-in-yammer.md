@@ -1,5 +1,5 @@
 ---
-title: O identiteti v Bastard
+title: O identiteti v Yammer
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6039"
 - "9003111"
-ms.openlocfilehash: f417117acac4c3040932fc0a35e5d0b1c3709cd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 57e7e6328747fc05b89799d631b2c6d7e0056547253aa3d75cdecb38cea3ad7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918953"
 ---
-# <a name="about-identity-in-yammer"></a>O identiteti v Bastard
+# <a name="about-identity-in-yammer"></a>O identiteti v Yammer
 
-Priporočamo, da v vseh omrežjih naredite te korake, da se izognete težavam, povezanim z identiteto:
+Priporočamo, da vsa omrežja sprejmejo te korake in se izognejo težavam, povezanim z identiteto:
 
-1. Uveljavite identiteto sistema Office 365 po omogočanju uporabe računov Microsoft 365 za uporabnike v storitvi Azure AD za zagotovitev, da se vsi uporabniki vpišejo s primarnim računom Microsoft 365. Če želite več informacij, glejte [uveljavitev identitete sistema Office 365 za uporabnike Bastard](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity).
-2. Uskladitev več Bastard omrežij. Podedovane Bastard konfiguracije omogočajo, da je več Bastard omrežij povezano z enim najemnikom. Če želite več informacij, glejte [selitev omrežja – uskladitev več Bastard omrežij](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
-3. Po želji lahko uveljavite licenciranje za Bastard za blokiranje uporabnikov iz Bastard, če nimajo licence. Če želite več informacij, glejte [upravljanje Bastard uporabniških licenc v sistemu Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365).
-4. Na koncu Revidirajte seznam uporabnikov starejših Bastard omrežij in ustavite starejše uporabnike. Priporočamo vam, da začasno ustavite (deaktivirate) uporabnike, namesto da jih izbrišete, ker je brisanje nepreklicno. Če želite več informacij, glejte [nadzor Bastard uporabnikov v omrežjih, povezanih s sistemom Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) in [odstranjevanje uporabnikov](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users).
+1. Vsili Office 365 identitete, ko ste že omogočali uporabo Microsoft 365 računov za uporabnike v imeniku Azure AD in s tem zagotovite, da se vsi uporabniki vpišejo s primarnim Microsoft 365 računom. Če želite več informacij, glejte [Vsil Office 365 identitete za Yammer uporabnike.](https://docs.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity)
+2. Usklajevanje več Yammer omrežij. Podedovane Yammer omogočajo, da Yammer z enim najemnikom povezanih več omrežij. Če želite več informacij, [glejte Selitev omrežja – usklajevanje več Yammer omrežja.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
+3. Če želite, lahko uveljavite Yammer, s Yammer uporabnikom želite blokirati dostop, če ne imajo licence. Če želite več informacij, [glejte Yammer uporabniških licenc v Office 365.](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365)
+4. Na koncu nadziraj seznam uporabnikov za starejša omrežja Yammer in začasno prekini starejše uporabnike. Priporočamo, da začasno onemogočite (deaktivirate) uporabnike, namesto da jih izbrišete, saj izbris ni mogoče razveljaviti. Če želite več informacij, [glejte Nadzor Yammer v omrežjih, ki so povezana Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/audit-users-connected-to-office-365) in Odstranjevanje [uporabnikov.](https://docs.microsoft.com/yammer/manage-yammer-users/add-block-or-remove-users#remove-users)
 
-Ko konfigurirate Bastard s temi koraki, boste prav tako pripravljeni, da konfigurirate Bastard omrežje za izvorni način za Microsoft 365. Če želite več informacij, glejte [Konfiguracija omrežja Bastard za izvorni način za Microsoft 365](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode).
+Če konfigurirate Yammer uporabo teh korakov, boste pripravljeni na konfiguracijo omrežja omrežja Yammer za izvorni način za Microsoft 365. Če želite več informacij, [glejte Konfiguracija Yammer omrežja za izvorni način za Microsoft 365.](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode)

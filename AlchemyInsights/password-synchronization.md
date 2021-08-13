@@ -1,5 +1,5 @@
 ---
-title: Sinhronizacija gesel
+title: Sinhronizacija gesla
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004595"
 - "8619"
-ms.openlocfilehash: 601649f6e5212ca03df5fcc32cd1d02c133e9170
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 3cdde086e535d2397b4d1a8a66903121a5217015ca055fb9f8d025b0842f044b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50483084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960851"
 ---
-# <a name="password-synchronization"></a>Sinhronizacija gesel
+# <a name="password-synchronization"></a>Sinhronizacija gesla
 
-**Sinhronizacija gesel za gesla sploh ne deluje**
+**Sinhronizacija z gesli sploh ne deluje**
 
-Nekatere pogoste težave, s katerimi se srečujejo uporabniki, ko sinhronizacija z geslom ne deluje:
+Nekatere pogoste težave, do katerih pride, ko sinhronizacija hash gesla ne deluje:
 
-- Račun imenika Active Directory, ki ga uporablja storitev Azure AD Connect za komunikacijo z imenikom Active Directory na mestu uporabe, ni dodeljen za **ponovitev imenika** in **ponovitev imenika spremeni vsa** dovoljenja, ki jih potrebujete za sinhronizacijo gesel – to morate popraviti tako, da dodelite ta dovoljenja v račun imenika Active Directory.
-- Sinhronizacija z geslom za razprševanje je onemogočena, ko je skrbnik **spremenil funkcijo uporabnika** Sign-In iz **sinhronizacije z geslom** na drugo možnost, kot je na primer **zveza z AD FS** v čarovniku za povezovanje v storitvi Azure ad Connect.
-- Težave s povezljivostjo z imenikom Active Directory na mestu uporabe. Na primer nekateri krmilniki domen niso dostopni za povezavo s storitvijo Azure AD Connect ali pa so [vrata](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) blokirana s požarnim zidom – to morate popraviti tako, da zagotovite, da je povezljivost med povezovanjem s STREŽNIKOM Azure ad Connect Server in imenikom Active Directory pravilno delovala.
-- Strežnik Azure AD Connect Server trenutno poteka v načinu uprizoritev, zaradi česar se strežnik ne more razpršiti z geslom – če želite odpraviti težavo, upoštevajte navodila, opisana v razdelku [Odpravljanje težav z sinhronizacijo gesel s sinhronizacijo storitve AZURE ad Connect – nobena gesla niso sinhronizirana](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+- Računu imenika Active Directory, ki ga uporablja Azure AD Povezovalnik za  komunikacijo z  imenikom Active Directory na mestu uporabe, ni dodeljena replikacijam sprememb imenika in spremembam v imeniku . Vsa dovoljenja, ki so zahtevana za sinhronizacijo gesel – to morate popraviti tako, da podelite ta dovoljenja računu imenika Active Directory.
+- Sinhronizacija hash gesla je onemogočena, ko skrbnik  v čarovniku za azure AD Povezovalnik način uporabniškega Sign-In iz sinhronizacije gesel spremeni v  drugo možnost, na primer Povezovanje z ad **FS** – to težavo lahko odpravite tako, da znova omogočite funkcijo sinhronizacije z geslom v čarovniku za Azure AD Povezovalnik.
+- Težava s povezljivostjo z imenikom Active Directory na mestu uporabe. Nekateri krmilniki domen na primer niso dostopni s storitvijo [](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-ports) Azure AD Povezovalnik ali pa so zahtevana vrata blokirala požarni zid – to morate popraviti tako, da zagotovite pravilno delovanje povezljivosti med strežnikom Azure AD Povezovalnik in imenikom Active Directory na mestu uporabe.
+- Strežnik Azure AD Povezovalnik je trenutno v načinu uprizoritev, zaradi česar strežnik ne bo mogel do razčlenjevati gesel – če želite odpraviti težavo, upoštevajte navodila, opisana v razdelku Odpravljanje težav s sinhronizacijo gesel s sinhronizacijo imenika Azure AD Povezovalnik – gesla niso [sinhronizirana.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
-**Sinhronizacija gesel za gesla ne deluje za nekatere uporabnike**
+**Sinhronizacija z gesli ne deluje za nekatere moje uporabnike**
 
-1. Če ste opazili, da HASH gesla ni sinhroniziran za uporabnika, uporabite opravilo za **Odpravljanje težav** v storitvi Azure ad Connect, da razišče in odpravite težavo. Izvedite ta opravila:
+1. Če ste opazili, da se hash gesla ne  sinhronizira za uporabnika, uporabite opravilo za odpravljanje težav v imeniku Azure AD Povezovalnik raziščite in odpravite težavo. Izvedite ta opravila:
 
-    v. [Zagon opravila za odpravljanje težav v čarovniku](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
+    a. [Zagon opravila za odpravljanje težav v čarovniku](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-objectsync)
 
-    b. [Uporaba ukaza» cmdlet «za odpravljanje težav pri preverjanju težave pri sinhronizaciji gesel za določeno uporabo](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
+    b. [Uporabite ukaz »cmdlet« za odpravljanje težav, da raziščete težavo s sinhronizacijo hash gesla za določeno uporabo.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
-2. Uporabniški predmet uporabnika na mestu uporabe je omogočen za **uporabnika mora spremeniti geslo ob naslednji možnosti prijave** . Ko je ta možnost omogočena, je uporabniku dodeljeno začasno geslo in pozvani boste, da spremenite geslo v naslednji prijavi. Azure AD Connect ne sinhronizira začasnih gesel s storitvijo Azure AD.
+2. Uporabniški predmet Active Directory na mestu uporabe je omogočen za Uporabnika mora spremeniti **geslo ob naslednji možnosti** prijave. Ko je ta možnost omogočena, je uporabniku dodeljeno začasno geslo in ob naslednji prijavi pozvan k spremembi gesla. Azure AD Povezovalnik ne sinhronizira začasnih gesel z imenikom Azure AD.
 
-Če želite odpraviti zgoraj navedeno težavo, izvedite eno od teh opravil:
+Če želite odpraviti zgornjo težavo, izvedite enega od teh opravil:
 
-- Prosite uporabnika, naj se vpiše v program na mestu uporabe (na primer namizje sistema Windows), in spremenite geslo. Novo geslo bo sinhronizirano s storitvijo Azure AD.
-- Naj skrbnik posodobi uporabnikovo geslo, ne da bi omogočil, da **mora uporabnik spremeniti geslo ob naslednji prijavi** in dati v skupno rabo novo geslo za uporabnika.
+- Prosite uporabnika, da se vpiše v aplikacijo na mestu uporabe (na primer Windows Desktop) in spremeni geslo. Novo geslo bo sinhronizirano z imenikom Azure AD.
+- Naj skrbnik posodobi geslo uporabnika, ne da bi omogočil možnost Uporabnik mora spremeniti geslo ob naslednji prijavi **in** nato novo geslo deliti z uporabnikom.
 
-3. Predmet uporabnika imenika Active Directory na mestu uporabe ni **pravilno konfiguriran** za sinhronizacijo predmetov ali sinhronizacijo gesla. Če želite odpraviti to težavo, upoštevajte navodila, opisana v razdelku [Odpravljanje težav z razprševanjem gesel s sinhronizacijo storitve AZURE ad Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+3. Uporabniški predmet imenika Active Directory na mestu uporabe ni **pravilno konfiguriran za sinhronizacijo** predmetov ali sinhronizacijo gesel. Če želite odpraviti to težavo, upoštevajte navodila, opisana v poglavju Odpravljanje težav s sinhronizacijo gesla [z orodjem Azure AD Povezovalnik sinhronizacijo.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)
 
 
 

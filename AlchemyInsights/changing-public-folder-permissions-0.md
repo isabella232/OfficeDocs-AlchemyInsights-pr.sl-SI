@@ -12,27 +12,27 @@ ms.custom:
 - "633"
 - "3500007"
 ms.assetid: 0c37ab75-c81c-44e7-bda8-ea43263f9fdf
-ms.openlocfilehash: a2a902e8fdfd8628772364c173979c633d25a169
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c2fb89f8dd256afb7e922ca74976097501173bf605e6c5fccc73019a71edcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714263"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53950204"
 ---
 # <a name="changing-public-folder-permissions"></a>Spreminjanje dovoljenj za javno mapo
 
-Dovoljenja za javno mapo lahko spremenijo uporabniki in skrbniki v Outlooku. Skrbniki lahko nadzorujejo dovoljenja tudi v skrbniškem središču za Exchange (EAC), tako da naredite to:
+Dovoljenja za javno mapo lahko spremenijo uporabniki in skrbniki v Outlook. Skrbniki lahko tudi nadzorujejo dovoljenja v Skrbniškem Exchange (EAC) tako, da:
   
-1. V skrbniškem središču za Microsoft 365 pojdite v razdelek **Skrbniška središča** za \> **Exchange**.
+1. V Skrbniško središče za Microsoft 365 izberite **Skrbniška središča** \> **Exchange.**
 
-2. Izberite **javne mape**.
+2. Izberite **Javne mape.**
 
-3. Od tam lahko spremenite dovoljenja za posamezne javne mape tako, da dodelite varnostne skupine dovoljenjem. Če želite končni uporabnik spremeniti dovoljenja za javno mapo, mora imeti uporabnik lastnik pravice v mapi.
+3. Tam lahko spremenite dovoljenja za posamezne javne mape tako, da dodelite varnostne skupine dovoljenjem. Če želi končni uporabnik spremeniti dovoljenja za javno mapo, mora imeti uporabnik v mapi pravice lastnika.
 
-Upoštevajte postopek, opisan v razdelku [Kako diagnosticirati in odpraviti težave z dovoljenjem za javno mapo, da odpravite](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) težave z dovoljenji za javno mapo.
+Upoštevajte postopek, opisan v razdelku [Diagnosticiranje](https://docs.microsoft.com/exchange/troubleshoot/public-folders/public-folder-permission-issues) in odpravljanje težav z dovoljenji javne mape za odpravljanje težav z dovoljenji javne mape.
 
-**Opomba**: na voljo je več znanih težav, ki jih lahko naletite, ko poskušate spremeniti dovoljenja za javne mape. Če želite več informacij, si oglejte te članke.
+**Opomba:** Pri poskusu spremembe dovoljenj za javne mape lahko pride do več znanih težav. Če želite več informacij, glejte te članke.
 
-- [Ne morete uporabiti dovoljenj za podmape javnih map v programu EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
+- [Ni mogoče uporabiti dovoljenj za podmape javne mape v EAC](https://docs.microsoft.com/exchange/troubleshoot/public-folders/can%E2%80%99t-apply-permissions-public-folder-subfolders)
 
-- [Ko dostopate do javnih map, se prikaže sporočilo o napaki» nabiralnika ni mogoče najti v lokalnem gozdu «](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)
+- [Napaka »Nabiralnika ni mogoče najti v lokalnem gozdu«, ko dostopate do javnih map](https://docs.microsoft.com/exchange/troubleshoot/public-folders/mailbox-not-found-local-forest-public-folder)

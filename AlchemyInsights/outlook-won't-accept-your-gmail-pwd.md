@@ -1,5 +1,5 @@
 ---
-title: Outlook ne bo sprejel gesla za Gmail
+title: Outlook Ne sprejemamo gesla za Gmail
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,32 +13,32 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800027"
 - "7351"
-ms.openlocfilehash: 60e4f04fbf4cd2c3c2a21e6e18845ac6e93119d2
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: af07110d3b5231f25fad078cf7b71ef991600c345e1c057d8bfe1614d9570580
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924677"
 ---
-# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook ne bo sprejel gesla za Gmail
+# <a name="outlook-wont-accept-your-gmail-password"></a>Outlook ne sprejme gesla za Gmail
 
-Priporočamo, da vklopite preverjanje pristnosti v dveh dejavnikih in uporabite geslo za aplikacijo.
+Priporočamo, da vklanjate preverjanje pristnosti z dvema dejavnikoma in uporabite geslo za aplikacijo.
 
-Če želite vklopiti preverjanje pristnosti v dveh dejavnikih in pridobiti geslo za program, uporabite te korake.
+Če želite vklopiti dvakratno preverjanje pristnosti in dobite geslo za aplikacijo, sledite tem korakom.
 
-1. Pojdite v Gmail iz brskalnika in kliknite ikono za **Google aplikacije** v zgornjem desnem kotu zaslona.
-1. Na levi strani kliknite **varnost**.
-1. V razdelku vpis v Google, če je **preverjanje v dveh korakih** **izklopljeno**, kliknite **>** zraven možnosti **Izklopi** , da ga vklopite.  V nasprotnem primeru preskočite na korak 4.
-1. Na prvem zaslonu kliknite **continue (Nadaljuj**).
-1. Če ste pozvani, vnesite geslo za Gmail in kliknite **naprej**.
-1. Vnesite telefonsko številko in izberite, ali želite prejeti kode za preverjanje po besedilnem sporočilu ali telefonski klic.
-1. Kliknite **naprej**.
-1. Vnesite kodo, ki ste jo prejeli, in kliknite **naprej**.
-1. Kliknite **Vklopi** , da dokončujete nastavitev preverjanja v dveh korakih.
-1. Vrnite se na prejšnji zaslon tako, da kliknete puščico levo na vrhu zaslona ob možnosti preverjanje v **dveh korakih**.
-1. Izberite **>** skrajno desno od črte **gesla za program** .
-1. Vnesite Googlovo geslo in kliknite **vpis**. Na dnu naslednjega zaslona kliknite» **pošta** «in» **računalnik s sistemom Windows** «na spustnem seznamu, nato pa kliknite **Ustvari**.
-Google vam bo prikazal geslo za program. 
-13. Kopirajte to geslo (brez presledkov) in vnesite to geslo, ko vas Outlook pozove k geslu.
+1. V brskalniku odprite Gmail in **kliknite ikono aplikacije Google** v zgornjem desnem kotu zaslona.
+1. Na levi strani kliknite **Varnost.**
+1. Če je v razdelku Vpis v Google preverjanje v **dveh** korakih **IZKLOPLJENO,** kliknite ob možnosti **>** **IZKLOPLJENO,** da se vklopi.  V nasprotnem primeru preskočite na 4. korak.
+1. Na prvem zaslonu kliknite **NAPREJ**.
+1. Če ste pozvani, vnesite geslo za Gmail in kliknite **NAPREJ.**
+1. Vnesite svojo telefonsko številko in izberite, ali želite prejemati kode za preverjanje veljavnosti v besedilnem sporočilu ali v telefonskem klicu.
+1. Kliknite **NAPREJ.**
+1. Vnesite prejeto kodo in kliknite **NAPREJ.**
+1. Kliknite **VKLOPI,** da dokončate nastavitev preverjanja v dveh korakih.
+1. Na prejšnji zaslon se vrnete tako, da kliknete puščico levo na vrhu zaslona ob možnosti Preverjanje **v dveh korakih.**
+1. Izberite na **>** desnem desnem kotu **vrstice Gesla za** aplikacije.
+1. Vnesite geslo za Google in kliknite **Vpis**. Na dnu naslednjega zaslona **kliknite** **Pošta in Windows** računalnik na spustnem seznamu, nato pa kliknite **Ustvari**.
+Google prikaže geslo za aplikacijo. 
+13. Kopirajte geslo (brez presledkov) in ga vnesite Outlook morate vnesti geslo.
 
-Če želite več informacij, glejte [Dodajanje računa za Gmail v Outlook – Outlook (Microsoft.com)](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081).
+Če želite več informacij, [glejte Dodajanje računa za Gmail v Outlook – Outlook (microsoft.com).](https://support.microsoft.com/office/add-a-gmail-account-to-outlook-70191667-9c52-4581-990e-e30318c2c081)

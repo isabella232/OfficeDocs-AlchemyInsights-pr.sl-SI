@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 3b8a7f1ef0910214d297436b69c3699264c39b1d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66920e7bcc6880892cf1b3c3f34e7298dd6491cc79b5fd8ea6540ee10339f33e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960887"
 ---
 # <a name="enable-password-sync"></a>Omogočanje sinhronizacije gesla
 
-1.  Izberite **stanje DirSync** na domači strani skrbniškega središča za Microsoft 365. 
+1.  Izberite **Stanje orodja za sinhronizacijo** imenika Skrbniško središče za Microsoft 365 na domači strani. 
     
-     *Izmenično se lahko poiščete v razdelku **Uporabniki** \> **aktivni uporabniki**in na strani aktivni uporabniki izberite **več** \> **sinhronizacije imenika.*** 
+     *Druga možnost je, da izberete **Uporabniki** aktivnih uporabnikov in na \> strani Aktivni uporabniki izberete Več  \> **sinhronizacije imenika.*** 
     
-2. V podoknu za sinhronizacijo imenika izberite **Pojdi na DirSync Management**. 
+2. V podoknu Sinhronizacija imenika izberite **Pojdi v upravljanje orodja DirSync.** 
     
-3. Zdaj boste videli svoje stanje in naredili spremembe:
+3. Zdaj boste videli svoje stanje in spremembami:
     
-    **Sinhronizacija z geslom je omogočena:** (TRUE ali FALSE). Določa, ali imate omogočeno sinhronizacijo gesel med krajevnim in najemnikom. 
+    **Sinhronizacija gesla je omogočena:** (True ali False). Določa, ali imate omogočeno sinhronizacijo gesel med najemnikom na mestu uporabe in vašim najemnikom. 
     
-    **Sinhronizacija zadnjega gesla:** (zadnja sinhronizacija z geslom). S tem boste prikazali opozorilo in povezavo do orodja za odpravljanje težav, če je bila zadnja sinhronizacija pred več kot tremi dnevi. 
+    **Zadnja sinhronizacija gesla:** (čas zadnje sinhronizacije gesla). Prikaže se opozorilo in povezava do orodja za odpravljanje težav, če je bila zadnja sinhronizacija pred več kot tremi dnevi. 
     
 
