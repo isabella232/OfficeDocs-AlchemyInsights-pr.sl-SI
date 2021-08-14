@@ -1,5 +1,5 @@
 ---
-title: Oblika Dynamics 365 ni vidna
+title: Obrazec storitve Dynamics 365 ni viden
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1470"
 - "6200014"
-ms.openlocfilehash: db70e1a9aa41bbee46ddb9a50b32370b1150ad30
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 965ee010fbb979ffb75b44fd14fdf4f0f34cbdd445924aa52c0937b5b1f5cc8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678196"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947495"
 ---
-# <a name="dynamics-365-form-not-visible"></a>Oblika Dynamics 365 ni vidna
+# <a name="dynamics-365-form-not-visible"></a>Obrazec storitve Dynamics 365 ni viden
 
-* [Obrazec ni prikazan v izbirniku obrazcev](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
+* [Obrazec ni viden v izbirniku obrazca](https://docs.microsoft.com/dynamics365/customer-engagement/customize/control-access-forms)
 
-* [Zakaj moj obrazec ni prikazan na spustnem seznamu v poljubni aplikaciji?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)
+* [Zakaj moj obrazec ni prikazan v izbirniku obrazcev v nobeni aplikaciji?](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-design-forms?branch=master#why-is-my-form-not-visible-in-the-form-selector-drop-down-in-my-app)

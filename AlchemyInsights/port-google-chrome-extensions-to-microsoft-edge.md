@@ -1,5 +1,5 @@
 ---
-title: Razširitve za Google Chrome za Microsoft Edge (Chromium)
+title: Prenos razširitev Google Chrome Microsoft Edge (Chromium)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7102"
 - "8297"
 - "9004617"
-ms.openlocfilehash: 1c71d74d01c1e38e4c7789aea2c0b43701b3a5de
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 34ec7e71a2f27eb5b46395876a4d1c903189be1050e523796c9f2a817c20aaa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505300"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53973713"
 ---
-# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Razširitve za Google Chrome za Microsoft Edge (Chromium)
+# <a name="port-google-chrome-extensions-to-microsoft-edge-chromium"></a>Prenos razširitev Google Chrome Microsoft Edge (Chromium)
 
-Razširitve za [Google Chrome lahko preprosto odnehnete v brskalnik Microsoft Edge (Chromium).](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) V večini primerov so za zagon teh razširitev v brskalniku Microsoft Edge potrebne le minimalne spremembe.
+Razširitve za [Google Chrome lahko preprosto Microsoft Edge (Chromium).](https://docs.microsoft.com/microsoft-edge/extensions-chromium/developer-guide/port-chrome-extension) V večini primerov so za zagon teh razširitev na Microsoft Edge.
 
-API-ji razširitve in ključi manifesta, ki jih podpira Google Chrome, so združljivi s kodo v brskalniku Microsoft Edge. Toda Microsoft Edge ne podpira razširitev API-jev chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken in chrome.instanceID.
+API-ji razširitve in ključi manifesta, ki jih podpira Google Chrome, so združljivi s Microsoft Edge. Vendar pa Microsoft Edge podpira razširitev API chrome.gcm, chrome.identity.getAccounts, chrome.identity.getAuthToken in chrome.instanceID.

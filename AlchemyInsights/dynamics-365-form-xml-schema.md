@@ -1,5 +1,5 @@
 ---
-title: Shema XML v obliki Dynamics 365
+title: Shema XML obrazca storitve Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1471"
 - "6200019"
-ms.openlocfilehash: 57796a0845bc518d8d6bdbdf36398bd727abe704
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2605fa2490e8cd3ac5ed930970f637eaec68ebdc0250a3918bc40a1a2d467b7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947387"
 ---
-# <a name="dynamics-365-form-xml-schema"></a>Shema XML v obliki Dynamics 365
+# <a name="dynamics-365-form-xml-schema"></a>Dynamics 365 form XML Schema
 
-[Definicija sheme XML za prilagoditve obrazca za obveznosti v Dynamics 365 za stranke](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)
+[Definicija sheme XML obrazca za prilagoditve obrazca za sodelovanje strank v storitvi Dynamics 365](https://docs.microsoft.com/dynamics365/customer-engagement/developer/customize-dev/form-xml-schema)

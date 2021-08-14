@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje neuspelega toka
+title: Popravljanje neuspelega toka
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730211"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945983"
 ---
-# <a name="fix-a-flow-that-failed"></a>Odpravljanje toka, ki ni uspel
+# <a name="fix-a-flow-that-failed"></a>Popravljanje toka, ki ni uspelo
 
-1. Pojdite na [Microsoftov tok](https://flow.microsoft.com/)in kliknite ikono obvestila v zgornjem desnem kotu. (Ali v mobilnem programu izberite zavihek dejavnost.) Izberite tok, ki ni mogel pogledati podrobnosti.
+1. Odprite [Microsoft Flow](https://flow.microsoft.com/)in kliknite ikono Obvestila v zgornjem desnem kotu. (Ali v mobilni aplikaciji izberite zavihek Dejavnost.) Izberite tok, ki si ni mogel ogledati podrobnosti.
     
-2. Poiščite korak z rdečo ikono klicaj, da si ogledate sporočilo o napaki za tok.
+2. Poiščite korak z rdečo ikono klicaja, da prikažete sporočilo o napaki za tok.
     
-3. Odvisno od sporočila o napaki, boste lahko uredili tok in ga odpravili. 
+3. Odvisno od sporočila o napaki, boste lahko uredili tok in ga popravili. 
     
-[Pogoste nepopolnosti toka](https://go.microsoft.com/fwlink/?linkid=872110)
+[Pogoste napake poteka](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

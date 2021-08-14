@@ -1,5 +1,5 @@
 ---
-title: Stanje Outlook.com je vedno prikazano kot na voljo
+title: Outlook.com stanje »Na voljo« je vedno prikazano kot »Na voljo«
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,13 +15,13 @@ ms.custom:
 - "1768"
 - "8000049"
 ms.assetid: dcddbff8-6501-45c2-8169-f18de7613d81
-ms.openlocfilehash: 444864816bef298f664df5db701965c55f6d2211
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d6b19c87862d205fd4351a51331fd666d9c93ce98d48088629f054fe22b68c53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777021"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095162"
 ---
-# <a name="my-status-always-shows-as-available"></a>Moje stanje vedno prikazuje, kot je na voljo
+# <a name="my-status-always-shows-as-available"></a>Moje stanje je vedno prikazano kot »Na voljo«
 
-Vsakič, ko se vpišete v Outlook.com, bo stanje računa nastavljeno na na voljo. Stanje ne morete spremeniti tako, da se ne morete vpisati v Outlook.com. Če želite ostati vpisan, ko zaprete brskalnik, na strani za vpis v Outlook.com izberite potrditveno polje **obdrži me vpisano** .
+Vsakič ko se vpišete v Outlook.com, se stanje računa ponastavi na »Na voljo«. Spreminjanje stanja lahko preprečite tako, da se ne izštejete iz storitve Outlook.com. Če želite ostati vpisani, ko  zaprete brskalnik, na strani za vpis Outlook.com potrdite polje Ne izpiši me.

@@ -1,5 +1,5 @@
 ---
-title: Odstranjevanje oglasov v Outlook.com
+title: Odstranjevanje oglasov na Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "1917"
 - "8000028"
 ms.assetid: 718cb8b3-5d51-4e31-823d-7b306dd60f01
-ms.openlocfilehash: 6c9002d1487a8df02998c55343b452398e78a3cf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 39603738d9c7d3a7e4c189a9c0699e12108a82d84417de698b22195aef2cd2bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095198"
 ---
-# <a name="remove-ads-in-outlookcom"></a>Odstranjevanje oglasov v Outlook.com
+# <a name="remove-ads-in-outlookcom"></a>Odstranjevanje oglasov na Outlook.com
 
-Outlook.com je brezplačna e-poštna storitev, ki vsebuje oglase. Če želite odstraniti oglase v storitvi Outlook.com, Microsoft ponuja prvovrstne Outlookove funkcije s sistemom Office 365 Home ali Office 365 Personal naročnine. Če želite več informacij, glejte [pridobivanje premijskih funkcij Outlook s storitvijo Office 365](https://go.microsoft.com/fwlink/?linkid=872181).
+Outlook.com je brezplačna e-poštna storitev, ki vsebuje oglase. Če želite odstraniti oglase na spletnem mestu Outlook.com, Microsoft ponuja vrhunske Outlook z naročninami na Office 365 Home ali Office 365 Personal. Če želite več informacij, [glejte Dobite premium Outlook z Office 365.](https://go.microsoft.com/fwlink/?linkid=872181)
