@@ -1,5 +1,5 @@
 ---
-title: 1051 antispam 4.7.500 Access je zavrnjen, poskusite znova pozneje
+title: 1051 Antispam 4.7.500 Access denied, poskusite znova pozneje
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1051"
 - "3100024"
 ms.assetid: 5b195ea9-028b-42a8-8b39-e19797a00d8e
-ms.openlocfilehash: f5ee8db0239ad86501b175f069acf28211e3a323
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 20f783a4c931318003b36f38600e69918c43b474d0039d039da25684c865c5e9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717593"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932689"
 ---
-# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 dostop zavrnjen, poskusite znova pozneje
+# <a name="47500-access-denied-please-try-again-later"></a>4.7.500 Access denied, poskusite znova pozneje
 
-Do te napake pride, ko količina e-poštnega prometa iz izvornega naslova IP presega omejitev, ki temelji na ugledu (ali pomanjkanju slovesa) izvornega IP naslova.
+Do te napake pride, če količina e-poštnega prometa z izvornega naslova IP presega omejitev glede na ugled (ali ugled) izvornega naslova IP.
 
-Blokiranje e-pošte iz izvornega naslova IP se poteče čez eno uro. Če je izvorni naslov IP e-poštni strežnik na mestu uporabe, ki pripada vam, Preverite konfiguracijo povezovalnika toka pošte. Če se delovanje nadaljuje več kot eno uro, se obrnite na podporo, da zaprosite za izjemo za izvorni naslov IP.
+Blokiranje e-pošte z izvornega naslova IP bo poteklo v eni uri. Če je izvorni naslov IP e-poštni strežnik na mestu uporabe, ki pripada vam, preverite konfiguracijo povezovalnika toka pošte. Če delovanje traja več kot eno uro, se obrnite na podporo in zahtevajte izjemo za izvorni naslov IP.

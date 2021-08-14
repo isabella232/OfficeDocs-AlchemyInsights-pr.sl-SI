@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d57ca274-af16-4cc1-8c67-8c499f5c1d37
-ms.openlocfilehash: e2b0d6f6841481e7864c25872e6e8570b8a2fba3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8b94898e703a14fdfa4903565a680e7d5dea0f1cafedc59412d425b4ff9bbb2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717737"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932791"
 ---
 # <a name="anonymous-sharing"></a>Anonimna skupna raba
 
  **Omogočanje anonimnega dostopa**
   
-V novem skrbniškem središču za SharePoint kliknite **Skupna raba** v levem podoknu. 
+V novem skrbniškem središču SharePoint v levem **podoknu kliknite** Skupna raba. 
   
-- Izberite to: **Dovoli skupno rabo za zunanje uporabnike s preverjeno pristnostjo in uporabo anonimnega dostopa.**
+- Izberite to: Dovoli skupno **rabo zunanjim uporabnikom s preverjeno pristnostjo in z anonimnim dostopom.**
   
-(Po želji lahko nastavite povezave tako, da potečejo v določenem številu dni, in izberite, kako prejemniki lahko uporabljajo povezave.)
+(Po želji lahko nastavite povezave tako, da potečejo v določenem številu dni, in izberete, kako naj prejemniki uporabljajo povezave.)
     
- **Anonimno skupna raba datoteke ali mape**
+ **Anonimna skupna raba datoteke ali mape**
   
-- Izberite datoteko ali mapo, ki jo želite dati v skupno rabo, in nato kliknite **Skupna raba**. 
+- Izberite datoteko ali mapo, ki jo želite dati v skupno rabo, in nato kliknite Skupna **raba.** 
     
-- Za koga želite ustvariti to povezavo? kliknite **kdorkoli.**
+- Who želite, da ta povezava deluje? kliknite **Kdorkoli.**
   
- **Opomba**: **kdorkoli** ustvari povezavo, ki jo lahko vsakdo uporabi za dostop do dokumenta ali mape, tudi če ni prijavljen v Microsoft 365 ali OneDrive. S to možnostjo omogočite skupno rabo z drugimi osebami v podjetju ali zunaj nje. To povezavo lahko posredujete tudi vsem. 
+ **Opomba:** **Kdor koli** ustvari povezavo, ki jo lahko do dokumenta ali mape dostopa kdor koli, tudi če ni prijavljen v Microsoft 365 ali OneDrive. To lahko uporabite za skupno rabo s komerkoli, znotraj ali zunaj podjetja. To povezavo lahko posredujete tudi komur koli. 
     
 

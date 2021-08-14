@@ -1,5 +1,5 @@
 ---
-title: 1050 antispam 4.7.500 Server je zaseden. Poskusite znova pozneje [XXX.XXX.XXX.XXX]
+title: 1050 Antispam 4.7.500 Server busy. Poskusite znova pozneje na [XXX.XXX.XXX.XXX]
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "1050"
 - "3100024"
 ms.assetid: a97b7845-4884-4d99-bab6-52539603cab2
-ms.openlocfilehash: 76182c54fe16a01843db02f66dd7f94b4514d31e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 84a5dfccd7ec3e4640c728ab1740220309a0d97b61157d0fd4e463ed95aef0d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717557"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932653"
 ---
-# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 Server je zaseden, poskusite znova pozneje
+# <a name="47500-server-busy-please-try-again-later"></a>4.7.500 Strežnik je zaseden, poskusite znova pozneje
 
-Do te napake pride, ko količina e-poštnega prometa iz izvornega naslova IP presega omejitev, ki temelji na ugledu (ali pomanjkanju slovesa) izvornega IP naslova.
+Do te napake pride, če količina e-poštnega prometa z izvornega naslova IP presega omejitev glede na ugled (ali ugled) izvornega naslova IP.
 
-Blokiranje e-pošte iz izvornega naslova IP se poteče čez eno uro. Če je izvorni naslov IP e-poštni strežnik na mestu uporabe, ki pripada vam, Preverite konfiguracijo povezovalnika toka pošte. Če se delovanje nadaljuje več kot eno uro, se obrnite na podporo, da zaprosite za izjemo za izvorni naslov IP.
+Blokiranje e-pošte z izvornega naslova IP bo poteklo v eni uri. Če je izvorni naslov IP e-poštni strežnik na mestu uporabe, ki pripada vam, preverite konfiguracijo povezovalnika toka pošte. Če delovanje traja več kot eno uro, se obrnite na podporo in zahtevajte izjemo za izvorni naslov IP.

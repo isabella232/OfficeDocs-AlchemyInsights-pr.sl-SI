@@ -1,5 +1,5 @@
 ---
-title: Povezovanje spletnega mesta zvezdišča
+title: Povežite spletno mesto zvezdišča
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300012"
 - "1012"
-ms.openlocfilehash: dc81648caee1d824e525c73c9d7a90b9e1490e21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f9cc6512e50a7f2c49013d6b6659240e240141337396c961edc04225e130f54b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715757"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989643"
 ---
-# <a name="associate-existing-site-with-a-hub-site"></a>Povezovanje obstoječega mesta s spletnim mestom zvezdišča
+# <a name="associate-existing-site-with-a-hub-site"></a>Povezovanje obstoječega spletnega mesta z mestom zvezdišča
 
-Če želite povezati obstoječe mesto s mestom zvezdišča, naredite to:
+Če želite obstoječe spletno mesto povezati z vašim mestom zvezdišča, naredite to:
   
-1. Na spletnem mestu izberite **Nastavitve** (ikona zobnika v zgornjem desnem kotu), nato pa izberite **informacije o mestu**.
+1. Na spletnem mestu izberite **Nastavitve** (ikona mehanizma v zgornjem desnem kotu) in nato izberite **Informacije o mestu**.
 
-2. V podoknu za **urejanje informacij o mestu** v meniju **povezava zvezdišča** izberite mesto zvezdišča, ki ga želite povezati z vašim mestom, in nato kliknite **Shrani**. Videz spletnega mesta se spremeni tako, da se ujema z mestom zvezdišča in vrstica za krmarjenje mesta zvezdišča se prikaže na vrhu.
+2. V **podoknu Urejanje informacij**  o mestu v meniju Povezava spletnega mesta zvezdišča izberite spletno mesto zvezdišča, ki ga želite povezati s svojim mestom, in nato kliknite **Shrani**. Videz vašega spletnega mesta se bo spremenil tako, da se bo ujemal z videzom spletnega mesta zvezdišča, pri vrhu pa bo prikazana vrstica za krmarjenje po mestu zvezdišča.
 
 >**Opomba**
 >
->Če možnost združevanja mesta zvezdišča ni prikazana ali pa mesta niso navedena, mesta zvezdišča morda ne bodo omogočena ali pa morda nimate dovoljenja za povezovanja mest s spletnim mestom zvezdišča. Če želite več informacij, se obrnite na skrbnika.
+>Če možnost povezave spletnega mesta zvezdišča ni na voljo ali pa ni navedena nobena mesta, mesta zvezdišča morda niso omogočena ali pa nimate dovoljenja za povezovanje mest z mestom zvezdišča. Če želite več informacij, se obrnite na skrbnika.
 >
->Število mest, ki jih je mogoče povezati s mestom zvezdišča, ni omejeno.
+>Število spletnih mest, ki jih je mogoče povezati z mestom zvezdišča, ni omejitev.
   
