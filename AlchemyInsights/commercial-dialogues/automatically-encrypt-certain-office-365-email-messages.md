@@ -1,5 +1,5 @@
 ---
-title: Samodejno šifriranje določenih e-poštnih sporočil sistema Office 365
+title: Samodejno šifriranje določenih e Office 365-poštnih sporočil
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: e4b2f4ffcacf03e145b4c6d5ff6e73a75cb7c184
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 8ae1c6853f41790efc3b24a9dc696bccf8385967d8c9219a1200e287e6ce32a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949583"
 ---
-# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Samodejno šifriranje določenih e-poštnih sporočil sistema Office 365
+# <a name="automatically-encrypt-certain-office-365-email-messages"></a>Samodejno šifriranje določenih e Office 365-poštnih sporočil
 
-Samodejno lahko šifrirate sporočila, ki jih uporabniki pošiljajo določenim zunanjim osebam ali organizacijam. To naredite tako, da izvedete te korake:
+Sporočila, ki jih uporabniki pošiljajo določenim zunanjim ljudem ali organizacijam, lahko samodejno šifrirate. To naredite tako:
 
-1. V [skrbniškem središču za Exchange](https://outlook.office365.com/ecp/)izberite **pravila toka pošte >**. 
-2. Kliknite ikono **novo (+)** , nato pa kliknite **uporabi šifriranje sporočil sistema Office 365 in zaščito pravic za sporočila**.
-3. V polje **ime** vnesite ime za pravilo, na primer *šifriranje sporočil, poslanih v DrToniRamos@gmail.com*.
-4. **Če želite uporabiti to pravilo, če** izberite **prejemnik > je ta oseba**. 
-5. V oknu **Izberite člane** izberite ime osebe, za katero želite uporabiti pravilo šifriranja, in nato kliknite **Dodaj**. 
-6. Ko končate Dodajanje uporabnikov, kliknite **v redu**.
-7. Poleg polja **naredi to** kliknite **Izberi eno**. 
-8. V spustnem meniju **predloga RMS** izberite **Šifriraj** in nato kliknite **v redu**. (Če ne vidite te možnosti, to pomeni, da vaš paket ne vključuje samodejnega šifriranja. Vendar ga lahko dodate!)
-9. Izberite poljuben izbirni izbor (na seznamu izbirnih izbir, ki jih lahko naredite na tej strani, od katerih jih je mogoče preprostiti s privzeto nastavitev za enostavnost).
+1. V [skrbniškem središču Exchange](https://outlook.office365.com/ecp/)izberite tok **pošte > pravila.** 
+2. Kliknite ikono **Novo (+),** nato pa kliknite **Uporabi zaščito šifriranje sporočil v storitvi Office 365 in zaščito pravic v sporočilih.**
+3. V **polje** Ime vnesite ime pravila, na primer Šifriraj sporočila, *poslana DrToniRamos@gmail.com*.
+4. V **razdelku Uporabi to pravilo, če** izberite Ime > je ta **oseba.** 
+5. V **oknu Izbira** članov izberite ime osebe, za katero želite uporabiti šifrirno pravilo, in nato kliknite **dodaj**. 
+6. Ko dodate uporabnike, kliknite V **redu.**
+7. Ob polju **Naredi to kliknite** Izberi eno **možnost**. 
+8. V **spustnem meniju** predloge RMS izberite Šifriraj in nato kliknite V **redu.**  (Če ta možnost ni na voljo, vaš paket ne vključuje samodejnega šifriranja. Lahko pa jo dodate.)
+9. Izberite poljuben izbirni izbor (na seznamu izbirnih izborov, ki jih lahko izberete na tej točki, številni izbori pa lahko zaradi preprostosti izberejo privzeto nastavitev).
 10. Kliknite **Shrani**.
 
 > [!IMPORTANT]
-> Pozneje se lahko vrnete in uredite to pravilo.
+> To pravilo lahko vedno uredite pozneje.
 
-Če želite več informacij o ustvarjanju pravil za šifriranje, glejte [določanje pravil pretoka pošte za šifriranje e-poštnih sporočil v storitvi Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email).
+Če želite več informacij o ustvarjanju pravil za šifriranje, glejte Določanje pravil toka pošte [za šifriranje e-poštnih sporočil v Office 365.](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
 

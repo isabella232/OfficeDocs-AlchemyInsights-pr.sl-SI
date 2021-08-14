@@ -1,5 +1,5 @@
 ---
-title: 8000091 Outlook.com odziv pop up
+title: 8000091 Outlook.com React pojavno okno
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.custom:
 - "1412"
 - "1413"
 - "8000091"
-ms.openlocfilehash: e12b13d193a9cb381fd455ac4fc3c2170fa2f66c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6ab47415524be8d3a116144411d1b00a94b2a11be3d9f6cd3f4a755b235bf2c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095738"
 ---
 # <a name="outlookcom-is-ready-for-prime-time"></a>Outlook.com je pripravljen za najboljši čas
 
-Zavedamo se, da lahko nekateri uporabniki vidijo, da je» Outlook.com pripravljen za najboljši čas «, vsakič ko se vpišejo, in delamo na popravku.
+Zavedamo se, da bodo nekatere stranke ob vsakem vpisu morda videle pojavno okno »Outlook.com je pripravljeno za najboljši čas«, zato delamo na tem, da odpravimo to težavo.
 
-Žal mi je zaradi tega.
+Opravičujemo se vam za to.
 
-[Preberite več o novem Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[Več informacij o novi Outlook.com.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)

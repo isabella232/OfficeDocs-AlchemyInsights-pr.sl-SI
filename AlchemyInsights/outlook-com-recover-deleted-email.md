@@ -1,5 +1,5 @@
 ---
-title: Obnovitev izbrisane e-pošte v storitvi Outlook.com
+title: Obnovitev izbrisane e-pošte na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,23 +14,23 @@ ms.custom:
 - "261"
 - "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: c24980ff28d0400faadfa413eacfba37401068a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 922a793fa37a3b02502d8d7368e30f4e9335144b4b39e61ea956ea708cebf07f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723623"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095378"
 ---
-# <a name="recover-deleted-email-outlookcom"></a>Obnovitev izbrisanih e-poštnih Outlook.com
+# <a name="recover-deleted-email-outlookcom"></a>Obnovitev izbrisane e-pošte Outlook.com
 
-1. V levem podoknu izberite **izbrisani elementi**.
-2. Izberite element, ki ga želite obnoviti, in izberite **Obnovi**.
-3. Če sporočilo ni v mapi» Izbrisano «, izberite Obnovi elemente, ki so bili **izbrisani iz te mape** na vrhu okna.
+1. V levem podoknu izberite **Izbrisano.**
+2. Izberite element, ki ga želite obnoviti, nato pa izberite **Obnovi**.
+3. Če sporočila ni v mapi Izbrisano, izberite Obnovi elemente, **izbrisane iz** te mape na vrhu okna.
 
  **Pomembne informacije o izbrisanih elementih:**
   
-- Elementi, odstranjeni iz mape» Izbrisano «, so nadomestljivi za 30 dni.
-- Če se še niste vpisali v račun za 365 dni, bo vaša e-pošta izbrisana in je ni mogoče obnoviti.
-- E-pošte, ki je izbrisana iz otroških računov, ni mogoče obnoviti.
+- Elemente, ki ste jih odstranili iz mape »Izbrisano« lahko obnovite 30 dni.
+- Če se v račun niste vpišejo 365 dni, bodo e-poštna sporočila izbrisana in jih ne bo mogoče obnoviti.
+- E-poštnih sporočil, izbrisanih iz računov otrok, ni mogoče obnoviti.
 
-Če želite izvedeti več, glejte [obnovitev izbrisanih e-poštnih sporočil v](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)storitvi Outlook.com.
+Če želite izvedeti več, glejte [Obnovitev izbrisanih e-poštnih sporočil na Outlook.com.](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy)
