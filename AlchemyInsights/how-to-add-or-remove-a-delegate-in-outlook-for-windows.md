@@ -1,5 +1,5 @@
 ---
-title: Dodajanje ali odstranjevanje pooblaščenca v Outlooku za Windows
+title: Kako dodati ali odstraniti pooblaščenca v Outlook za Windows
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,46 +12,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7334"
-ms.openlocfilehash: fcbd6082c104f0e1bca022a23cbbeb6e3363a6c5
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: ee54e2bcca4f4591b33ee805290192311f6cde09a9e453a813e9db328d19634d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573812"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945353"
 ---
-# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Dodajanje ali odstranjevanje pooblaščenca v Outlooku za Windows
+# <a name="how-to-add-or-remove-a-delegate-in-outlook-for-windows"></a>Kako dodati ali odstraniti pooblaščenca v Outlook za Windows
 
-Če želite dodati pooblaščenca v Outlooku za Windows: 
+Če želite dodati pooblaščenca v Outlook za Windows: 
 
-1. Kliknite zavihek **Datoteka** , ki mu sledi **nastavitev računa**, nato pa izberite **pooblaščen dostop**.
-2. Kliknite **Dodaj**. Če se **Dodajanje** ne prikaže, aktivna povezava morda ne obstaja med Outlookom in storitvijo Exchange. V Outlookovi vrstici stanja je prikazano stanje povezave.
-3. Vnesite ime osebe, ki jo želite imenovati kot pooblaščenca, ali pa poiščite in izberite ime na seznamu rezultatov iskanja.
-
-    > [!NOTE]
-    > Pooblaščenec mora biti oseba na globalnem seznamu naslovov v organizaciji Exchange (GAL).
-4. Kliknite» **Dodaj** «in nato» **v redu «**.
-5. V pogovornem oknu **pooblaščena dovoljenja** sprejmite privzete nastavitve dovoljenj ali izberite ravni dostopa po meri za Exchangeeve mape.
-
-    - Če pooblaščenec potrebuje dovoljenje za delo le z povabili na srečanje in odgovori, so privzete nastavitve dovoljenj, kot je **pooblaščenec, prejele kopije sporočil, povezanih z srečanjem, ki so poslana meni** , zadoščajo. Nastavitev dovoljenja za **mapo» Prejeto «** lahko pustite **brez**. Povabila na srečanje in odgovori se bodo odpravili neposredno v mapo» Prejeto «pooblaščenca.
+1. Kliknite zavihek **Datoteka,** sledi **ime Nastavitve**, nato pa izberite **Dodeljevanje dostopa**.
+2. Kliknite **Dodaj.** Če **se** ne prikaže Dodaj, morda aktivna povezava ne bo obstajala med Outlook in Exchange. V Outlook stanja je prikazano stanje povezave.
+3. Vnesite ime osebe, ki jo želite določiti za pooblaščenca, ali poiščite in izberite ime na seznamu rezultatov iskanja.
 
     > [!NOTE]
-    > Pooblaščenec je privzeto dodeljen **urejevalniku (lahko bere, ustvarja in spreminja elemente)** dovoljenje za mapo **koledar** . Ko pooblaščenec odgovori na srečanje v vašem imenu, se ta samodejno doda v mapo s **koledarjem** .
+    > Pooblaščenec mora biti oseba na seznamu globalnih naslovov Exchange organizacije.
+4. Kliknite Dodaj **in** nato V **redu.**
+5. V pogovornem **oknu Dovoljenja pooblaščenca** sprejmite privzete nastavitve dovoljenj ali izberite ravni dostopa po meri za Exchange mape.
 
-5. Če želite poslati sporočilo, da obvesti pooblaščenca o spremenjenih dovoljenjih, potrdite potrditveno polje **samodejno Pošlji sporočilo, da je pooblaščeno povzemanje teh dovoljenj** .
-6. Če želite, potrdite potrditveno polje **Pooblaščenec lahko vidi moje zasebne elemente** .
+    - Če potrebuje pooblaščenec dovoljenje le za upravljanje zahtev za srečanja in odgovorov, zadoščajo privzete nastavitve dovoljenj, kot je Prejema kopije sporočil, povezanih s srečanjem, ki so **poslana** meni. Nastavitev dovoljenja za mapo **»Prejeto«** lahko pustite na **Brez.** Povabila na srečanja in odgovori bodo preneseni neposredno v pooblaščenevo mapo »Prejeto«.
+
+    > [!NOTE]
+    > Pooblaščenec ima za vašo mapo Koledar privzeto dovoljenje **Urednik (lahko bere,** ustvarja in **spreminja** elemente). Ko pooblaščenec odgovori na srečanje v vašem imenu, je srečanje samodejno dodano v vašo **mapo** Koledar.
+
+5. Če želite pooblaščenca obvestiti o spremenjenih dovoljenjih, pošljite sporočilo tako, da potrdite potrditveno polje Samodejno pošlji pooblaščenca sporočilo s **povzetkom** teh dovoljenj.
+6. Če želite, potrdite polje **Pooblaščenec lahko vidi zasebne** elemente.
 
     > [!IMPORTANT]
-    > Ta nastavitev vpliva na vse Exchangeeve mape. To vključuje vsa sporočila, stike, koledar, opravila, zapiske in mape dnevnika. Dostop do zasebnih elementov ni mogoče dodeliti le v določenih mapah.
+    > Ta nastavitev vpliva na vse Exchange mape. To vključuje vse mape Pošta, Stiki, Koledar, Opravila, Opombe in Dnevnik. Dostopa do zasebnih elementov ni mogoče dodeliti le v določenih mapah.
 
-7. Izberite **v redu**.
+7. Izberite **V redu**.
 
     > [!NOTE]
     >
-    > - Sporočila, poslana z dovoljenjem» Pošlji v imenu «, vključujejo oba pooblaščenca in vaša imena zraven možnosti **od**. Ko je sporočilo poslano z dovoljenjem» Pošlji kot «, se prikaže le vaše ime.
-    > - Ko dodate osebo kot pooblaščenca, lahko dodate Exchangeev nabiralnik v svoj Outlookov profil. Če želite navodila, glejte [upravljanje elementov pošte in koledarja druge osebe](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5).
+    > - Sporočila, ki so poslana z dovoljenji »Pošlji v imenu« vključujejo pooblaščenca in vaša imena zraven možnosti **Od.** Ko je sporočilo poslano z dovoljenji »Pošlji kot« , se prikaže samo vaše ime.
+    > - Ko osebo dodate kot pooblaščenca, lahko ta oseba doda vaš nabiralnik Exchange v svoj profil Outlook skupine. Če želite navodila, [glejte Upravljanje elementov pošte in koledarja drugih oseb.](https://support.microsoft.com/office/manage-another-person-s-mail-and-calendar-items-afb79d6b-2967-43b9-a944-a6b953190af5)
 
-Če želite odstraniti pooblaščenca v Outlooku za Windows:
+Če želite odstraniti pooblaščenca v Outlook za Windows:
 
-1. Kliknite zavihek **Datoteka** .
-2. Kliknite **Nastavitve računa** , ki mu sledi **pooblaščen dostop**.
-3. Izberite ime pooblaščenca, za katerega želite spremeniti dovoljenja, in nato kliknite **Odstrani** , ki ji sledi» **v redu «**.
+1. Kliknite **zavihek** Datoteka.
+2. Kliknite **kupca, Nastavitve** sledi **dodeljevanje dostopa.**
+3. Izberite ime pooblaščenca, za katerega želite spremeniti dovoljenja,  nato pa kliknite Odstrani, nato pa še V **redu.**

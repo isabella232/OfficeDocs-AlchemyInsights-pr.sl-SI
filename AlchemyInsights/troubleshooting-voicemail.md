@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679104"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972399"
 ---
 # <a name="troubleshooting-voicemail"></a>Odpravljanje težav z glasovno pošto
 
-Zagotovite, da je funkcija zasedenosti zasedena namerno.
+Zagotovite, da je funkcija Zaseden/zasedena nega namena.
 
-Če ta funkcija ni potrebna za tega uporabnika:
+Če ta funkcija za tega uporabnika ni potrebna:
 
-1. Pojdite v [skrbniško središče za Teams](https://admin.teams.microsoft.com/policies/calling).
-1. V levem tiru se pomaknite na pravilnike **za klicanje** klicev v pravilniku za  >    >   **klicanje**.
-1. Izberite **upravljanje uporabnikov**.
-1. Poiščete uporabnika in spremenite pravilnik klicev na tistega, ki je **zaseden na zasedenem mestu, je na voljo, ko je klic** **izklopljen**.
+1. Obiščite [skrbniško Teams za Office 365.](https://admin.teams.microsoft.com/policies/calling)
+1. Na levi strani se pomikajte po **pravilnikih za**  >  **glasovne klice** Upravljanje  >  **pravilnikov** v **pravilniku za klicanje.**
+1. Izberite **Upravljanje uporabnikov.**
+1. Poiščite uporabnika in spremenite pravilnik za klicanje na tistega, ki je zaseden, ko ste v klicu **na voljo na** **Izklopljeno.**
 1. Kliknite **Uporabi**.
 > [!NOTE]
-> Spremembe pravilnika lahko trajajo do 24 ur, da se replicirajo.
+> Spremembe pravilnikov lahko trajajo do 24 ur, da se pravilniki podvojijo.
 
-Če želite več informacij o tej funkciji, glejte: [zasedeno je na voljo med klicem](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+Če želite več informacij o tej funkciji, glejte: [Zaseden/-a je na voljo med klicom.](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)

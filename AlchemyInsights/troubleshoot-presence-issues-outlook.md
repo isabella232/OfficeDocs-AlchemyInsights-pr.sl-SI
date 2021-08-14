@@ -4,10 +4,10 @@ title: "Troubleshoot presence issues in Outlook" ms.author: pebaum author: pebau
 - 9003349
 ---
 
-# <a name="troubleshoot-presence-issues-in-outlook"></a>Odpravljanje težav s prisotnostjo v Outlooku
+# <a name="troubleshoot-presence-issues-in-outlook"></a>Odpravljanje težav s prisotnostjo v Outlook
 
-Če želite diagnosticirati in odpraviti težave s stanjem prisotnosti za uporabnika v Outlooku, prenesite in zaženite Microsoftovega pomočnika za podporo in obnovitev v > [scenarij prisotnosti v aplikaciji Teams.](https://aka.ms/SaRA-TeamsPresenceScenario)
+Če želite diagnosticirati in odpraviti težave s stanjem prisotnosti za uporabnika v storitvi Outlook, prenesite in zaženite Microsoft pomočnik za podporo in obnovitev > [Teams Scenarij prisotnosti](https://aka.ms/SaRA-TeamsPresenceScenario).
 
-Če želite ročno odpraviti težavo s prisotnostjo v Outlooku, upoštevajte korake v temi [Težave s stanjem prisotnosti uporabnika v Outlooku.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook)
+Če želite ročno odpraviti težavo s prisotnostjo v storitvi Outlook, upoštevajte navodila v temi Težave s stanjem prisotnosti uporabnika [v Outlook](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook).
 
-Če se stanje prisotnosti ne posodablja v teams, glejte Vaše dejansko stanje [prisotnosti se ne odraža v teams.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)
+Če se stanje prisotnosti ne posodablja v Teams, glejte Stanje prisotnosti [se ne odraža v Teams.](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status)

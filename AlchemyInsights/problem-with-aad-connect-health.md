@@ -1,5 +1,5 @@
 ---
-title: Težave s ZVOČNO povezavo za zdravje
+title: Težava z AAD Povezovalnik Health
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004649"
 - "8427"
-ms.openlocfilehash: f5624069a2e96fde8aed08965ca6b753f3aad1e8
-ms.sourcegitcommit: 5763fedfd5dd459249c81cdbb4af34181a757bd5
+ms.openlocfilehash: 82cfcc6132549b52278b174fce3173f5566268864a207882a4dd639cb8024ee3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50483120"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923768"
 ---
-# <a name="problem-with-aad-connect-health"></a>Težave s ZVOČNO povezavo za zdravje
+# <a name="problem-with-aad-connect-health"></a>Težava z AAD Povezovalnik Health
 
-- Zagotovite, da imate dovoljenje za izvedbo operacije. Globalni skrbniki imajo privzeto dostop do njih. Poleg tega lahko uporabite [nadzor dostopa](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) , ki temelji na vlogi, če želite dodeliti dovoljenje za registracijo plačniku.
-- Zagotovite, da so zahtevane končne točke omogočene in niso blokirane zaradi požarnega zidu. Če želite več informacij, glejte [zahteve](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install).
-- Registracija ni mogoča zaradi odhodne komunikacije, ki jo je treba pregledati prek omrežja SSL.
-- Preverite, ali ste preverili nastavitve obveščanja za povezavo z zdravjem za Azure AD Connect. Oglejte si nastavitev. S tem [vodnikom](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) lahko razumete, kako konfigurirate nastavitve obvestila za obvestila o zdravju v storitvi Azure ad Connect.
-- Če želite izvedeti več o poročilu o sinhronizaciji ZVOČNIh povezav in kako jo prenesti, glejte [poročilo o sinhronizaciji ravni predmeta](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync).
+- Prepričajte se, da imate dovoljenje za izvajanje operacije. Globalni skrbniki imajo privzeto dostop. Poleg tega lahko s kontrolnikom dostopa [na osnovi vloge](https://docs.microsoft.com/azure/active-directory/connect-health/active-directory-aadconnect-health-operations) dodelite dovoljenje za registracijo sodelavca.
+- Prepričajte se, da so zahtevane končne točke omogočene in ne blokirane zaradi požarnega zidu. Za podrobnosti glejte [zahteve.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-agent-install)
+- Registracija lahko ne uspe, ker omrežna plast pregleda SSL za odhodno komunikacijo.
+- Preverite, ali ste preverili nastavitve obvestil za Azure AD Povezovalnik Health. Preglejte svojo nastavitev. V [tem](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-operations) vodniku boste lahko razumeli, kako konfigurirate nastavitve obvestil za obvestila za Azure AD in Povezovalnik stanja storitve.
+- Če želite izvedeti več o poročilu o sinhronizaciji Povezovalnik stanje storitve in kako ga prenesete, glejte Poročilo o sinhronizaciji [na ravni predmeta.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-sync)
 
-Če želite odpraviti težave z zdravstvenimi opozorili, si oglejte [navodila za odpravljanje težav s povezovanjem zdravstvenih podatkov](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) in za pogosta vprašanja o [pogostosti težav s povezovanjem zdravja](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
+Če želite odpraviti težave z opozorili storitve AAD Povezovalnik Health, upoštevajte vodnik za odpravljanje težav za storitev [AAD Povezovalnik](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-data-freshness) Opozorila o svežini podatkov o zdravju in za pogosta vprašanja, glejte Pogosta vprašanja o storitvi [AAD Povezovalnik Health](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-health-faq).
