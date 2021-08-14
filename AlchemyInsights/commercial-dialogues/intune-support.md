@@ -1,5 +1,5 @@
 ---
-title: Podpora za InTune
+title: Podpora za Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 6fc37fc2c80387f8ea991bc3b3d1ae88618057cd
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2f1ce5af0a37cfa32a798a63a4208c512f9c651a8103ad2402ee3dd592a952eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750496"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949439"
 ---
-# <a name="intune-support"></a>Podpora za InTune
+# <a name="intune-support"></a>Podpora za Intune
 
-Ta dialog je del postopka podpore za InTune. Če nimate težave, povezane z InTune, naredite nekaj od tega:
+To dialog je del procesa podpore za Intune. Če ne na voljo težave, povezane s intune, izvedite nekaj od tega:
 
-- [Za upravitelja konfiguracije ali Co-Management podporo kliknite to povezavo in izberite ustrezno ploščico.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
-- [Za neuglašene težave upravitelja, ki niso dokončne, sledite tej povezavi in nato kliknite gumb pomoč v zgornjem desnem kotu skrbniškega portala.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)
+- [Za upravitelja konfiguracije Co-Management podporo kliknite to povezavo in izberite ustrezno ploščico.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/SupportMenu/helpSupport)
+- [Za težave, ki niso v upravitelju končnih točk za Intune, upoštevajte to povezavo in kliknite gumb pomoč v zgornjem desnem kotu skrbniškega portala.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/support/requests)

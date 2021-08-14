@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 239c4db4d3a0b4010d14c2fac63018e8ad817c93
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5f0e1b52e5a31d7bfd64ef40f9d8806358a6cad218b6a474b0d0e38aa051ac72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949475"
 ---
 # <a name="i-dont-see-automatic-replies"></a>Ne vidim samodejnih odgovorov
 
-Če po izbiri **datoteke** ne vidite samodejnih odgovorov, verjetno uporabljate Gmail, Yahoo ali drug račun pop ali IMAP, ki ne podpira funkcije Outlookovih samodejnih odgovorov. Nastavite lahko pravilo, ki bo odgovor na dohodna sporočila, vendar le, če pustite Outlook zagnan.
+Če ne vidite možnosti »Samodejni odgovori« po izboru možnosti »Datoteka« **,** verjetno uporabljate Gmail, Yahoo ali drug račun POP ali IMAP, ki ne podpira Outlook samodejnih odgovorov. Nastavite lahko pravilo, ki bo odgovarjalo na dohodna sporočila, vendar le, če se Outlook izvaja.

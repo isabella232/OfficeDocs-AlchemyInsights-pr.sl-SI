@@ -1,5 +1,5 @@
 ---
-title: Napake aplikacije
+title: Napake v aplikaciji
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,62 +13,62 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7841"
-ms.openlocfilehash: 2ef90b54ce222a06740e05891fabe87b6565cb14
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: ce4c89da79112726ed4fb25527edc8d082bd37f239595b9eab7279abeeecfd7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984658"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53931465"
 ---
-# <a name="application-errors"></a>Napake aplikacije
+# <a name="application-errors"></a>Napake v aplikaciji
 
-Iščete informacije o **AADSTS kodah napak** , ki so bile vrnjene v storitvi za varnost žetona Azure Active Directory ("Azure ad)" (STS)? Preberite [kode napak za preverjanje pristnosti in avtorizacije AZURE ad](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) , da poiščete opise napak AADSTS, popravke in nekatere predlagane rešitve.
+Iščete informacije o kodah napak **AADSTS,** ki jih vrne storitev varnostnega žetona Azure Active Directory (Azure AD) (STS)? Preberite [kode napak preverjanja pristnosti imenika Azure AD](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) in kode napak s pooblastilom, da najdete opise napak, popravke in nekatere predlagane rešitve za AADSTS.
 
-Napake pri avtorizaciji so lahko rezultat več različnih težav, od katerih večina ustvari napako 401 ali 403. To lahko na primer privede do napak pri avtorizaciji:
+Vzrok za napake avtorizacije so lahko različne težave – večina težav javi napako 401 ali 403. Na primer, vse to lahko povzroči napake pri avtorizacijah:
 
-- Nepravilni [tokovi za pridobitev žetona](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
-- Slabo konfigurirani [obsegi dovoljenj](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
-- Pomanjkanje [soglasja](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
+- Napačni [poteki pridobivanja žetona za dostop](https://docs.microsoft.com/azure/active-directory/develop/reference-aadsts-error-codes) 
+- Neustrezno konfigurirani [obsegi dovoljenja](https://docs.microsoft.com/azure/active-directory/develop/active-directory-v2-scopes) 
+- Manjkajoče [soglasje](https://docs.microsoft.com/azure/active-directory/develop/active-directory-devhowto-multi-tenant-overview#understanding-user-and-admin-consent)
 
-Če želite odpraviti pogoste napake avtorizacije, preskusite spodaj navedene korake, ki se najbolj ujemajo z napako, ki jo prejemate. Uporabite lahko več kot eno.
+Če želite odpraviti pogoste napake s pooblastilom, poskusite odpraviti napake, ki so navedene spodaj in se najbolj ujemajo z napako, ki ste jo prejeli. Morda je zahtevanih več.
 
-**nepooblaščena Napaka 401: ali je žeton veljaven?**
+**Napaka »401 Nepooblaščeno«: Ali je vaš žeton veljaven?**
 
-Zagotovite, da vaš program predstavlja veljaven žeton za dostop v Microsoft Graph kot del zahteve. Ta napaka pogosto pomeni, da žeton za dostop morda manjka v glavi zahteve za preverjanje pristnosti HTTP ali da je žeton neveljaven ali pa je potekel. Toplo priporočamo, da uporabite [Microsoftovo knjižnico za preverjanje pristnosti (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) za pridobitev žetona za dostop. Poleg tega lahko pride do te napake, če poskušate za dostop do API-ja, ki podpira le službene ali šolske račune (organizacijske račune), dodeliti žeton za pooblaščen dostop, ki je dodeljen osebnim Microsoftovim računom.
+Prepričajte se, da vaša aplikacija predstavlja veljaven žeton za dostop za Microsoft Graph kot del zahteve. Ta napaka običajno pomeni, da v glavi zahteve za preverjanje pristnosti HTTP manjka žeton za dostop ali pa žeton ni veljaven oziroma je potekel. Toplo priporočamo, da uporabite Microsoftovo knjižnico preverjanja [pristnosti (MSAL) za](https://docs.microsoft.com/azure/active-directory/develop/msal-overview) pridobivanje žetonov za dostop. Do te napake lahko pride tudi, če poskušate uporabiti žeton za pooblaščeni dostop, dodeljen osebnemu Microsoftovemu računu, za dostop do API-ja, ki podpira le službene ali šolske račune (račun organizacije).
 
-**403 prepovedana napaka: ali ste izbrali pravi nabor dovoljenj?**
+**Napaka »403 Prepovedano«: Ali ste izbrali ustrezen nabor dovoljenj?**
 
-Preverite, ali ste zahtevali pravilen nabor dovoljenj, ki temeljijo na aplikaciji Microsoft Graph API aplikacije. Priporočena najmanj privilegirana dovoljenja so na voljo v vseh temah referenčne metode za Microsoft Graph API. Poleg tega morajo ta dovoljenja odobriti aplikacija uporabnik ali skrbnik. Dodeljevanje dovoljenj se običajno zgodi prek strani s privolitvijo ali z uporabo rezila za registracijo aplikacije Azure portal. Iz rezila z **nastavitvami** za aplikacijo kliknite **zahtevana dovoljenja** in nato še **dodeli dovoljenja**.
+Preverite, ali ste zahtevali pravilen nabor dovoljenj, ki temeljijo na vmesnikih API Graph Microsoft Graph klici v aplikaciji. Priporočena dovoljenja z najmanj prednostmi so na voljo v vseh temah za referenčno metodo GRAPH Microsoft Graph API. Ta dovoljenja mora za aplikacijo odobriti uporabnika ali skrbnik. Dodeljevanje dovoljenj po navadi se dogaja na strani za soglasje ali tako, da odobrite dovoljenja z orodjem za registracijo aplikacije Azure Portal. Na listu **Nastavitve** za aplikacijo kliknite **Zahtevana dovoljenja**, nato pa kliknite **Odobri dovoljenja**.
 
 - [Dovoljenja za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) 
 - [Razumevanje dovoljenj in soglasja za Azure AD](https://docs.microsoft.com/azure/active-directory/develop/v2-permissions-and-consent) 
 
-**403 prepovedana napaka: ali je program pridobil žeton, ki ustreza izbranim dovoljenjem?**
+**Napaka »403 Prepovedano«: Ali je aplikacija pridobila žeton, ki ustreza izbranim dovoljenjem?**
 
-Prepričajte se, da je vrsta dovoljenj, ki jih zahteva ali dodeli, enaka vrsti žetona za dostop, ki ga program pridobi. Morda boste zahtevali in podelili dovoljenja za program, vendar z uporabo pooblaščenih žetonov za pretok kode, namesto žetonov za pretok poverilnic odjemalca, ali zahtevate in odobravanje pooblaščenih dovoljenj, vendar pa uporabite žetone za tokove poverilnic odjemalca namesto pooblaščenih žetonov za pretok kode.
+Prepričajte se, da se vrsta zahtevanih ali podeljenih dovoljenj ujema z vrsto žetona za dostop, ki ga pridobi program. Morda zahtevate in podeljujete dovoljenja za aplikacijo, vendar namesto žetonov poteka odjemalskih poverilnic uporabljate pooblaščene interaktivne kode ali pa zahtevate in dodelite pooblaščena dovoljenja, vendar namesto žetonov poteka kode uporabite žetone za odjemalce s poverilnicami toka.
 
-- [Pridobite dostop v imenu uporabnikov in pooblaščenih dovoljenj](https://docs.microsoft.com/graph/auth_v2_user) 
-- [Azure AD v 2.0-OAuth 2,0 avtorizacija kode](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
-- [Pridobite dostop brez uporabnika (storitev Daemon) in dovoljenja za program](https://docs.microsoft.com/graph/auth_v2_service) 
-- [Azure AD v 2.0-OAuth 2,0 Client poverilnice](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
+- [Pridobivanje dostopa v imenu uporabnikov in pooblaščenih dovoljenj](https://docs.microsoft.com/graph/auth_v2_user) 
+- [Tok avtorizacijske kode Azure AD v2.0 - OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-auth-code-flow) 
+- [Pridobivanje dostopa brez uporabnika (storitev strežniškega procesa) in dovoljenj za aplikacijo](https://docs.microsoft.com/graph/auth_v2_service) 
+- [Tok poverilnic odjemalca Azure AD v2.0 - OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) 
 
-**403 prepovedana napaka: ponastavitev gesla**
+**Napaka »403 Prepovedano«: ponastavitev gesla**
 
-Trenutno ni dovoljenj za dovoljenje za uporabo storitev daemon za storitve, ki omogočajo ponastavitev uporabniških gesel. Ti API-ji so podprti le z uporabo interaktivnih prenesenih šifer s pripisanim skrbnikom.
+Trenutno ni nobenega strežniškega procesa za dovoljenja »od storitve do storitve« za aplikacijo, ki omogočajo ponastavitev gesel. Ti vmesniki API so podprti le za uporabo tokov interaktivne pooblaščene kode z vpisanim skrbnikom.
 
 - [Dovoljenja za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference)
 
-**403 Forbidden: ali ima uporabnik dostop do licence?**
+**»403 Prepovedano«: Ali ima uporabnik dostop in ustrezno licenco?**
 
-Za prenesene tokove kode se Microsoft Graph ovrednoti, če je zahtevo dovoljeno glede na dovoljenja, ki so dodeljena programu, in dovoljenja, ki jih je imel prijavljeni uporabnik. Na splošno ta napaka pomeni, da uporabnik ni dovolj privilegiran za izvajanje zahteve ali pa uporabnik nima licence za dostop do podatkov. Zahtevi lahko uspešno omogočijo le uporabniki z zahtevanimi dovoljenji ali licencami.
+Za poteke pooblaščene kode Microsoft Graph oceni, ali je zahteva dovoljena glede na dovoljenja, dodeljena aplikaciji, in dovoljenja, ki jih ima vpisani uporabnik. Ta napaka običajno označuje, da uporabnik nima prednostnih dovoljenj za izvajanje zahteve ali pa nima licence za dostop do podatkov. Zahtevo lahko uspešno izvedejo le uporabniki z zahtevanimi dovoljenji ali licencami.
 
-**403 Forbidden: ali ste izbrali ustrezen API vira?**
+**»403 Prepovedano«: Ali ste izbrali pravilen vmesnik API vira?**
 
-Storitve API, kot je Microsoft Graph, preverijo, ali se trditev AUD (občinstvo) v prejetem žetonu ujema z vrednostjo, ki jo pričakuje zase, in če je ne, povzroči napako v 403, ki je prepovedana. Pogosta napaka, ki povzroči to napako, poskuša uporabiti žeton, ki je bil kupljen za Azure AD Graph API, Outlook API ali SharePoint/OneDrive API za klicanje Microsoft Graph (ali obratno). Zagotovite, da vir (ali obseg) program pridobi žeton za ujemanje API-ja, ki ga aplikacija kliče.
+Storitve API, kot je Microsoft Graph preverite, ali se zvočni zahteva (občinstvo) v žetonu za prejet dostop ujema z vrednostjo, ki jo pričakuje sama, in če ni, se prikaže sporočilo o napaki »403 – prepovedano«. Običajno do te napake pride, ker poskušate uporabiti žeton, pridobljen za vmesnike API za Azure AD Graph, vmesnike API za Outlook ali vmesnike API za SharePoint/OneDrive, da bi priklicali Microsoft Graph (ali obratno). Zagotovite da se vir (ali obseg), za katerega aplikacija želi pridobiti žeton, ujema z vmesnikom API, ki ga aplikacija želi priklicati.
 
-**400 slaba zahteva ali 403 prepovedana: ali uporabnik upošteva pravilnike za pogojni dostop organizacije (CA)?**
+**»400 Neprimerna zahteva« ali »403 Prepovedano«: Ali uporabnik deluje v skladu s pravilnikom o pogojnem dostopu organizacije?**
 
-Na podlagi pravilnikov CA organizacije se lahko uporabnik, ki dostopa do virov Microsoft Grapha prek vašega programa, pozove k dodatnim podatkom, ki niso na voljo v žetonu za dostop, ki ga je prvotno pridobil. V tem primeru aplikacija prejme 400 z napako *interaction_required* med pridobitvijo žetona Accessa ali 403 s *insufficient_claims* napako, ko pokličete Microsoft Graph. V obeh primerih je odgovor na sporočilo o napaki prikazan v dodatnih informacijah, ki jih je mogoče predstaviti na končni točki pooblastitev, da bi izzvali uporabnika za dodatne informacije (na primer preverjanje pristnosti z več dejavniki ali vpis naprave).
+Glede na pravilnike cajta organizacije je uporabnik, ki dostopa do virov storitve Microsoft Graph prek vaše aplikacije, morda zahteva dodatne informacije, ki jih ni v žetonu za dostop, ki ga je prvotno pridobil program. V tem primeru je v aplikaciji javljena napaka 400 *zahtevana_interakcija* med pridobivanjem žetona za dostop ali pa napaka 403 *nezadostne_zahteve* med izvajanjem postopka klicanja vmesnika Microsoft Graph. V obeh primerih odgovor o napaki vsebuje dodatne informacije, ki jih je mogoče predstaviti pooblaščeni končni točki za izziv uporabnika z dodatnimi informacijami (kot je večkratno preverjanje pristnosti ali včlanitev naprave).
 
-- [Obravnavanje izzivov s pogojnim dostopom z MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
-- [Navodila za razvijalce za pogojni dostop v storitvi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)
+- [Upravljanje izziva s pogojnim dostopom s storitvijo MSAL ](https://docs.microsoft.com/azure/active-directory/develop/msal-handling-exceptions#conditional-access-and-claims-challenges)
+- [Navodila za razvijalce za pogojni dostop za Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/conditional-access-dev-guide)
