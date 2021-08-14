@@ -1,5 +1,5 @@
 ---
-title: Pravilniki dovoljenj za aplikacijo
+title: Pravilniki dovoljenj za aplikacije
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951689"
 ---
-# <a name="app-permission-policies"></a>Pravilniki dovoljenj za aplikacijo
+# <a name="app-permission-policies"></a>Pravilniki dovoljenj za aplikacije
 
-S [Pravilniki dovoljenj za aplikacijo](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)lahko naredite to:
-- Kot skrbnik lahko upravljate pravilnike za nastavitev aplikacije v [skrbniškem središču za Microsoft Teams](https://admin.teams.microsoft.com/policies/app-permission).
-- Nadzirajte, kateri programi so na voljo za uporabnike storitve Microsoft Teams v vaši organizaciji s pravilnikom globalnega pravilnika ali [Ustvarjanje in dodeljevanje pravilnikov po meri](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) za prilagajanje in nadzor uporabniškega dostopa do programov. 
+S [pravilniki dovoljenj](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)za aplikacije lahko naredite to:
+- Kot skrbnik lahko upravljate pravilnike za nastavitev aplikacije v [skrbniškem središču Microsoft Teams aplikacije.](https://admin.teams.microsoft.com/policies/app-permission)
+- Z globalnim pravilnikom lahko nadzorujete, katere aplikacije [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) Microsoft Teams voljo uporabnikom v organizaciji, lahko pa tudi ustvarite in dodelite pravilnike po meri ter tako prilagodite in nadzorujete dostop uporabnikov do aplikacij. 
 > [!NOTE]
-> Nastavitve aplikacije org preglasijo globalno politiko in vse pravilnike po meri, ki jih ustvarite in dodelite uporabnikom.
-- S [Pravilniki za nastavitev aplikacije](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) lahko prilagodite Microsoft Teams, da označite aplikacije, ki so najpomembnejše za vaše uporabnike. 
+> Nastavitve aplikacije za celotno organizacijo preglasijo globalni pravilnik in vse pravilnike po meri, ki jih ustvarite in dodelite uporabnikom.
+- S pravilniki [za nastavitev aplikacij](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) lahko prilagodite Microsoft Teams in označite aplikacije, ki so najpomembnejše za vaše uporabnike. 
 
 
-Če želite več informacij o ustvarjanju pravilnikov programov za najemnika, glejte:
-- [Upravljanje programov v skrbniškem središču za Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [Upravljanje pravilnikov za dovoljenja za program v aplikaciji Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [Upravljanje pravilnikov in nastavitev programov po meri v aplikaciji Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+Če želite več informacij o ustvarjanju pravilnikov programa za najemnika, glejte:
+- [Upravljanje aplikacij v skrbniškem Microsoft Teams za Office](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [Upravljanje pravilnikov dovoljenj za aplikacije v Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [Upravljanje pravilnikov in nastavitev aplikacij po meri v Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)

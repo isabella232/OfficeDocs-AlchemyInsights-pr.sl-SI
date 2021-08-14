@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004354"
 - "7786"
-ms.openlocfilehash: 6154b4b9cce51be3271cb25132f409319d8da14b
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: 08d3bfa84fd5ab31d7165090c392866d863898545ade7631e820a100eef89dea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49901512"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952589"
 ---
 # <a name="admin-consent-issues"></a>Težave s soglasjem skrbnika
 
-1. Omogočite [potek dela](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) skrbnika, če želite uporabnikom omogočiti, da zahtevajo skrbniško odobritev neposredno na zaslonu soglasja.
+1. Omogočite potek [dela za soglasje skrbnika,](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) da uporabnikom omogočite, da na zaslonu s soglasjem zahtevajo odobritev skrbnika.
 
-1. Če vi ali uporabniki aplikacije vidijo nepričakovane napake med postopkom odobritve, si oglejte ta članek navodila za odpravljanje težav: [Nepričakovana napaka pri izvajanju dovoljenja za program](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. Če se med postopkom soglasja vi ali uporabniki vaše aplikacije pišejo nepričakovane napake, si v tem članku oglejte korake za odpravljanje težav: Nepričakovana napaka pri izvajanju [soglasja za aplikacijo.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
 
-1. Več informacij o [soglasju skrbnika na platformi Microsoft Identity](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent), kako deluje [poziv za privolitev](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) in kako [ovrednotiti zahtevo za odobritev skrbnika za celotno najemnika](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
+1. Preberite več o [soglasju skrbnika v](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) [](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) Microsoftova platforma za identitete , kako deluje poziv k soglasju in kako ovrednotiti zahtevo po soglasju skrbnika [najemnika.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)
 
-1. Programi, ki se integrirajo s platformo Microsoft Identity, spremljajo model avtorizacije, ki uporabnikom in skrbnikom omogoča nadzor nad tem, kako je mogoče dostopati do podatkov. Izvajanje modela za avtorizacijo je bilo posodobljeno na končni točki Microsoftovega izhodišča za identiteto in spremeni, kako mora program delovati z Microsoftovo platformo Identity. Če želite pregled tega modela odobritve, vključno s obsegi, dovoljenji in soglasjem, si oglejte [dovoljenja in soglasje v končni točki za Microsoft Identity platform](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) .
+1. Aplikacije, ki so integrirane s Microsoftova platforma za identitete, vključujejo model avtorizacije, ki uporabnikom in skrbnikom omogoča nadzor nad tem, kako je mogoče dostopati do podatkov. V končni točki preverjanja pristnosti je bilo posodobljeno izvajanje modela Microsoftova platforma za identitete in spremeni način interakcije programa s Microsoftova platforma za identitete. Pregled [tega modela za avtorizacijo, vključno z obsegi, dovoljenji in Microsoftova platforma za identitete,](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) si oglejte v končnem Microsoftova platforma za identitete in privolitev v storitev.

@@ -1,5 +1,5 @@
 ---
-title: Nastavitve pravilnika za zaščito aplikacije Android v programu Microsoft InTune
+title: Nastavitve pravilnika za zaščito aplikacije v sistemu Android Microsoft Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003997"
 - "7057"
-ms.openlocfilehash: 327df6e0a901037cd929cb845f805466d9bd4eff
-ms.sourcegitcommit: 81c86027933c06db08d264918f2698d9c9a1659a
+ms.openlocfilehash: ff253ad4b2ba12e25a786b5aa5bac76ae4765206a2e12880a0673ce5fcbf30c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951653"
 ---
-# <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>Nastavitve pravilnika za zaščito aplikacije Android v programu Microsoft InTune
+# <a name="android-app-protection-policy-settings-in-microsoft-intune"></a>Nastavitve pravilnika za zaščito aplikacije v sistemu Android Microsoft Intune
 
-V napravah s sistemom Android so na voljo tri kategorije nastavitev pravilnika za zaščito aplikacije:
+Za naprave s sistemom Android so na voljo tri kategorije pravilnika o zaščiti aplikacij:
 
-**Zaščita podatkov** nadzoruje, kako bodo obravnavani podatki podjetja, na primer, ali je mogoče podatke kopirati ali prilepiti na drug program, ali če je posnetek zaslona mogoče uporabiti. Nastavitve tudi uveljavijo šifriranje v podatkih podjetja in upravljajo, ali je mogoče nekatere podatke sinhronizirati s programi native Device, kot je seznam stikov ali spletni brskalnik. Če želite izvedeti več, glejte [zaščita podatkov](https://go.microsoft.com/fwlink/?linkid=2135259).
+**Zaščita podatkov** nadzira, kako se podatki podjetja obravnavajo, na primer, ali je podatke mogoče kopirati ali prilepiti v drugo aplikacijo ali pa se lahko posnetek zaslona uporabi za aplikacijo. Nastavitve uveljavljajo tudi šifriranje s podatki podjetja in upravljajo, ali je določene podatke mogoče sinhronizirati z aplikacijami izvorne naprave, kot je seznam stikov ali spletni brskalnik. Če želite izvedeti več, glejte [Zaščita podatkov.](https://go.microsoft.com/fwlink/?linkid=2135259)
 
-**Zahteve za dostop do** navodil, kako lahko uporabniki dostopajo do programa. Program lahko na primer zahteva, da uporabnik vnese kodo PIN ali prstni odtis za dostop do njega. Če želite izvedeti več, glejte [zahteve za dostop](https://go.microsoft.com/fwlink/?linkid=2135260).
+**Navodila za dostop** do aplikacije so navodila za dostop uporabnikov. Aplikacija lahko na primer od uporabnika zahteva, da za dostop vnese KODO PIN ali prstni odtis. Če želite izvedeti več, glejte [Zahteve za Access.](https://go.microsoft.com/fwlink/?linkid=2135260)
 
-**Pogojni zagon** ureja varnostne nastavitve za vpis za aplikacijo, na primer, maksimalne poskuse PIN pred zaklepanjem ali najnižji operacijski sistem, ki je potreben za zagon programa. Če želite izvedeti več, glejte [pogojni zagon](https://go.microsoft.com/fwlink/?linkid=2135507).
+**Pogojni** zagon ureja varnostne nastavitve vpisa za aplikacijo, na primer največji dovoljeni poskusi pri vpisu pred zaklenitev kode PIN ali minimalni operacijski sistem, ki je potreben za zagon programa. Če želite izvedeti več, glejte [Pogojni zagon.](https://go.microsoft.com/fwlink/?linkid=2135507)

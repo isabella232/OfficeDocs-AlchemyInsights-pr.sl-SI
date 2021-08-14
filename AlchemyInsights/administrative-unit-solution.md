@@ -1,5 +1,5 @@
 ---
-title: Rešitev upravne enote
+title: Rešitev skrbniške enote
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7896"
-ms.openlocfilehash: c32d0652642fa4143b037662809f3ca5dec079f0
-ms.sourcegitcommit: 6dc6f999e840c90694a246b90062950205679420
+ms.openlocfilehash: 93b77f0a23bc53035d63e08869067aff25270aed559d7cddded04aaa92285302
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49885383"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952481"
 ---
-# <a name="administrative-unit-solution"></a>Rešitev upravne enote
+# <a name="administrative-unit-solution"></a>Rešitev skrbniške enote
 
-1. Zagotovite, da je uporabnik, ki ustvarja skrbniške enote in dodeljevanje vlog, globalni skrbnik ali skrbnik vloge za privilegije.
-2. Zagotovite, da uporabnikom dodelite neposredno upravno enoto. Dodeljevanje skupine v upravno enoto ne dodeli vsem članom skupine v upravno enoto.
-3. Za množični postopek, ki se izvaja v upravni enoti, lahko spremembe trajajo nekaj časa, da odražajo v uporabniškem vmesniku, odvisno od različnih dejavnikov, kot je na primer trenutna obremenitev storitve.
+1. Zagotovite, da je uporabnik, ki ustvarja skrbniške enote in vloge za dodeljevanje, globalni skrbnik ali skrbnik vloge pravic.
+2. Prepričajte se, da uporabnikom dodeljujete neposredno skrbniške enote. Če dodelite skupino skrbniški enoti, ne dodelite vseh članov skupine skrbniški enoti.
+3. Pri množični operaciji, ki se izvede na skrbniški enoti, lahko traja nekaj časa, da spremembe odražajo v uporabniškem vmesniku, odvisno od različnih dejavnikov, kot je trenutna obremenitev storitve.
 
-Če želite več informacij o upravnih enotah, glejte [upravljanje vlog v skrbniški enoti](https://docs.microsoft.com/azure/active-directory/roles/administrative-units).
+Če želite več podrobnosti o skrbniških enotah, glejte [Upravljanje vlog v skrbniški enoti.](https://docs.microsoft.com/azure/active-directory/roles/administrative-units)

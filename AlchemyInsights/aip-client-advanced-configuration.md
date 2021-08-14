@@ -1,5 +1,5 @@
 ---
-title: Napredna Konfiguracija odjemalca AIP
+title: Napredna konfiguracija odjemalca AIP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,39 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "4781"
 - "9002277"
-ms.openlocfilehash: 2ef8535c66dabe75418df0b5ae53f27ffd6caca1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d2b096b9b438f257a50c9ec48379009f2a3798c1812fa531cdc30e61a5460a1e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663277"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951833"
 ---
-# <a name="aip-client-advanced-configuration"></a>Napredna Konfiguracija odjemalca AIP
+# <a name="aip-client-advanced-configuration"></a>Napredna konfiguracija odjemalca AIP
 
-Imate težave z naprednimi konfiguracijami odjemalca AIP? V tem primeru naredite to:
+Ali imate težave z napredno konfiguracijo odjemalca AIP? Če je tako, naredite to:
 
-1. Morda uporabljate pravilnike o obsegu, ki niso pravilno konfigurirani. Če želite več informacij, si oglejte [navodila za konfiguracijo pravilnika o varstvu podatkov v storitvi Azure za določene uporabnike s pravilniki o obsegu](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+1. Morda uporabljate pravilnike z obsegi, ki niso pravilno konfigurirani. Če želite več informacij, [glejte Konfiguracija pravilnika Azure Information Protection za določene uporabnike z uporabo pravilnikov o obsegu.](https://docs.microsoft.com/azure/information-protection/configure-policy-scope)
 
-2. Če še vedno pride do težave, si oglejte spodnje vire. Če težava ostane nerešena, naredite posnetek zaslona težave in jo priložite na vstopnico za podporo.
+2. Če težave ne boste več videli, si oglejte spodnje vire. Če težave ne morete odpraviti, naredite posnetek zaslona težave in ga priložite vstopnici za podporo.
 
 Če želite dodatne vire, glejte:
 
-- [Konfiguracija nastavitev pravilnika za zaščito informacij v storitvi Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
+- [Konfiguracija nastavitev pravilnika za Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
     
-- [Skrbniški priročnik: konfiguracije po meri za odjemalca za zaščito informacij Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
+- [Vodnik za skrbnike: konfiguracije po meri za odjemalca Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
     
-- [Kaj je zaščita informacij Azure?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [Kaj je Azure Information Protection?](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
     
-- [Navodila za uporabo pogostih scenarijev, ki uporabljajo zaščito informacij v storitvi Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [Vodniki z navodili za pogoste scenarije, ki uporabljajo storitev Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
-- [Konfiguriranje pravilnika o varstvu podatkov Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
+- [Konfiguriranje pravilnika Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
     
-- [Privzeti pravilnik o varstvu informacij Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
+- [Privzeti pravilnik za Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
     
-- [Ustvarjanje nove nalepke za zaščito informacij v storitvi Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
+- [Kako ustvariti novo nalepko za Azure Information Protection](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
     
-- [Konfiguracija oznake za zaščito upravljanja pravic](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
+- [Konfiguracija oznake za zaščito pravic](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
     
-- [Zahteve za zaščito informacij Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [Zahteve za Azure Information Protection](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 
-- [Vadnica: Konfiguracija nastavitev pravilnika za zaščito informacij Azure in ustvarjanje nove nalepke](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [Vadnica: konfiguracija nastavitev pravilnika Azure Information Protection in ustvarjanje nove oznake](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
