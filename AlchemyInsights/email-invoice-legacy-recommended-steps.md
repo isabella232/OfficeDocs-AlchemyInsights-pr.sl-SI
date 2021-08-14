@@ -1,5 +1,5 @@
 ---
-title: E-poštni račun – zapuščina
+title: E-poštni račun – podedovano
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6864"
-ms.openlocfilehash: 13ce920c7203c89d6bb4c671198eba89c98aeb0f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 2803ef358acd5e133e1eaff5c31b09143b3a4649c9c814d27b214585487c0e7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564913"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003640"
 ---
-# <a name="e-mail-invoice---legacy"></a>E-poštni račun – zapuščina
+# <a name="e-mail-invoice---legacy"></a>E-poštni račun – podedovano
 
-**Opt in prejemanje računov za naročnino po e-pošti**
+**Privolitev v prejemanje računov za naročnino prek e-pošte**
 
-Imeti morate skrbniško vlogo v računu za naročnino ali paket podpore, da se odločite za prejemanje računa po e-pošti. E-poštni računi so na voljo le za naročnine in načrte podpore, ne za rezervacije ali nakupe v storitvi Azure Marketplace. Ko se odločite, lahko dodate dodatne prejemnike, ki bodo prejeli račun po e-pošti.
+V paketu naročnine ali podpore morate imeti vlogo skrbnika računa, da lahko račun prejmete po e-pošti. E-poštni računi so na voljo le za pakete naročnine in podpore, ne pa za rezervacije ali nakupe v storitvi Azure Marketplace. Ko privolite v sodelovanje, lahko dodate dodatne prejemnike, ki bodo prejeli račun po e-pošti.
 
-Upoštevajte ta navodila, da dobite račune za naročnino po e-pošti:
+Upoštevajte ta navodila za pošiljanje računov za naročnino prek e-pošte:
 
-1. Vpišite se v [portal Azure](https://portal.azure.com/).
-2. Poiščete **stroške Management + obračunavanje**.
-3. Izberite **računi** iz možnosti na levi strani.
-4. Izberite naročnino na Azure ali paket podpore in nato izberite **Sprejmi račun po e-pošti**.
-5. Kliknite **e-poštni račun** in Sprejmite pogoje.
-6. Račun je poslan v želeno e-poštno sporočilo. Če želite posodobiti e-poštno sporočilo, izberite **Posodobi profil** .
+1. Vpišite se v [portal storitve Azure](https://portal.azure.com/).
+2. Poiščite **Upravljanje stroškov + obračunavanje**.
+3. Med **možnostmi na** levi strani izberite Računi.
+4. Izberite naročnino storitve Azure ali naročnino na paket podpore in nato **Prejemanje računov po e-pošti**.
+5. Kliknite **E-poštni račun** in sprejmite pogoje.
+6. Račun je poslan na želen e-poštni naslov. Izberite **Posodobitev profila** in posodobite e-pošto.
 
 **Dodajanje dodatnih prejemnikov za prejemanje računov**
 
-Če želite dati račune v skupno rabo za vsak mesec z računovodsko ekipo ali jih poslati na enega od drugih e-poštnih naslovov
+Če želite račune za naročnino in paket podpore deliti vsak mesec z računovodsko skupino ali jih poslati na enega od vaših drugih e-poštnih naslovov:
 
-1. Upoštevajte zgornje korake, da najprej omogočite račun po e-pošti in nato izberite **Konfiguriraj prejemnike.**
+1. Sledite zgornjim korakom, da najprej omogočite račun po e-pošti, nato pa izberite **Konfiguriraj prejemnike.**
 2. Vnesite e-poštni naslov, nato pa izberite **Dodaj prejemnika**. Dodate lahko več e-poštnih naslovov.
-3. Ko dodate vse e-poštne naslove, izberite **Dokončano** na dnu zaslona.
+3. Ko dodate vse e-poštne naslove, na dnu zaslona izberite **Končano**.
 
-**Dovolite drugim, da prenesejo vaš račun za naročnino**
+**Dovolite drugim, da prenesejo račun za naročnino**
 
-Če želite uporabnikom/skupinam omogočiti dostop do ravni naročnine za prenos računa:
+Če želite uporabnikom/skupinam z dostopom na ravni naročnine omogočiti prenos računa:
 
 1. Vpišite se v [portal Azure](https://portal.azure.com/) kot skrbnik računa za naročnino.
-2. Poiščete **stroške Management + obračunavanje**.
-3. Izberite **računi** iz možnosti na levi strani.
-4. Izberite naročnino na Azure in nato kliknite **dovoli drugim, da prenesejo račun**.
-5. Izberite **vklopljeno** in nato **shranite** na vrhu strani.
+2. Poiščite **Upravljanje stroškov + obračunavanje**.
+3. Med **možnostmi na** levi strani izberite Računi.
+4. Izberite naročnino storitve Azure in kliknite **Dovoli drugim, da prenesejo račune**.
+5. Izberite **Vklopljeno** in nato na vrhu strani **Shrani**.
 
 > [!NOTE]
-Če niste skrbnik računa, se obrnite na skrbnika računa in sledite zgornjim navodilom, da se odločite, dodajte prejemnike ali dovolite drugim uporabnikom, da prenesejo račun.
+Če niste skrbnik računa, se obrnite na skrbnika računa in upoštevajte zgornja navodila za privolitev v sodelovanje, dodajanje prejemnikov ali omogočanje drugim uporabnikom, da prenesejo račun.

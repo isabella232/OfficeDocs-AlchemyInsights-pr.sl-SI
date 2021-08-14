@@ -1,5 +1,5 @@
 ---
-title: Obnovitev izbrisanih videoposnetkov iz koša
+title: Obnovitev izbrisanih videoposnetkov Stream iz koša
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "8282"
-ms.openlocfilehash: 173df399f90ed2bae9b4b91d0f731bee7984c9ab
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 48e3aa2ac47b031f8380c6a03b43eb22419ba89eb149b98a0b63b71f3713ca0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294386"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959447"
 ---
-# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Obnovitev izbrisanih videoposnetkov iz koša
+# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>Obnovitev izbrisanih videoposnetkov Stream iz koša
 
-Ko so videoposnetki izbrisani v programu Microsoft Stream, gredo v koš 30 dni.
+Ko izbrišete videoposnetke v storitvi Microsoft Stream, se odprejo v košu 30 dni.
 
-Koš za videoposnetke omogoča obnovitev videoposnetkov, če so bili pomotoma izbrisani ali če želite trajno izbrisati videoposnetke, ki so že v košu pred 30-dnevnim limitom.
+S košem videoposnetka lahko obnovite videoposnetke, če so bili pomotoma izbrisani ali če želite trajno izbrisati videoposnetke, ki so že v košu, pred omejitvijo na 30 dni.
 
-Za več informacij glejte:
+Če želite več informacij, si oglejte:
 
 - [Obnovitev izbrisanih videoposnetkov iz koša](https://docs.microsoft.com/stream/portal-my-recycle-bin)
-- [Koš videoposnetka za skrbnika toka](https://docs.microsoft.com/stream/admin-recycle-bin)
+- [Koš videoposnetka za skrbnika storitve Stream](https://docs.microsoft.com/stream/admin-recycle-bin)

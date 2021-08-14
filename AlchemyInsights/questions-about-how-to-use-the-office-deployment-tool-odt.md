@@ -1,5 +1,5 @@
 ---
-title: Vprašanja o uporabi orodja za uvedbo sistema Office (ODT)
+title: Vprašanja o uporabi orodja za Office uvedbe (ODT)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -10,22 +10,22 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: 20e0b6aa3c298ee0a4291c3da6ae46978177e81f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d38866647c7bf286b5b5b21e7fdcc94af72ea1850bc40391af077aa230b8b4fd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790348"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959699"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Vprašanja o uporabi orodja za uvedbo sistema Office (ODT)
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>Vprašanja o uporabi orodja za Office uvedbe (ODT)
 
-Prenesite orodje za uvedbo sistema Office z Microsoftovega centra [za prenose.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
+Prenesite orodje Office za uvedbo sistema iz Microsoftovega centra [za prenose.](https://go.microsoft.com/fwlink/p/?LinkID=626065)
   
-Ko prenesete datoteko, zaženite samo ekstrahiranje izvedljive datoteke, ki vsebuje izvedljivo orodje za uvedbo sistema Office (setup.exe) in vzorčno konfiguracijsko datoteko (configuration.xml).
+Ko prenesete datoteko, zaženite izvedljivo datoteko s samo ekstrahiranjem, v kateri sta izvedljivi datoteki Office Deployment Tool (setup.exe) in vzorčna konfiguracijska datoteka (configuration.xml).
   
- **Če želite izključiti ali odstraniti Programe storitve Microsoft 365 za podjetja iz odjemalskih računalnikov:**
+ **Če želite izključiti ali Programi Microsoft 365 za podjetja izdelkov iz odjemalskih računalnikov:**
   
-Ko nameščate programe storitve Microsoft 365 za podjetja, lahko izključite določene izdelke. Če želite to narediti, upoštevajte navodila za namestitev Officea z ODT, vendar vključite element ExcludeApp v konfiguracijsko datoteko. Ta konfiguracijska datoteka na primer namesti vse programe storitve Microsoft 365 za izdelke podjetja, razen Publisherja:
+Pri nameščanju Programi Microsoft 365 za podjetja, lahko izključite določene izdelke. Če želite to narediti, upoštevajte navodila za namestitev Office z ODT, vendar v konfiguracijsko datoteko vključite element ExcludeApp. Ta konfiguracijska datoteka na primer namesti vse izdelke Programi Microsoft 365 za podjetja, razen Publisher:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -36,6 +36,6 @@ Ko nameščate programe storitve Microsoft 365 za podjetja, lahko izključite do
 </Add>
 ```
 
-[Pregled orodja za uvedbo sistema Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[Pregled orodja za Office uvedbe](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 

@@ -13,38 +13,38 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: a28e1f5bb8b5e1bff2f26c0d9e9c9c42e8324583
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fd451a8f08f50b7b4bff7b08ec5b54b57adc1f000eb8224112d84a4fb20e4359
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806595"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003660"
 ---
-# <a name="enable-and-search-the-audit-log"></a>Omogočanje in iskanje dnevnika nadzora
+# <a name="enable-and-search-the-audit-log"></a>Omogočanje in iskanje v dnevniku nadzora
 
 **Microsoft 365**
 
-Če želite iskati v dnevniku nadzora programa Microsoft 365, upoštevajte [ta navodila](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+Če želite iskati v Microsoft 365 nadzora, upoštevajte [ta navodila.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log)
 
 **Exchange**
 
-- Skrbniške dejavnosti za Exchange so privzeto revidirane.
+- Exchange skrbniške dejavnosti so nadzorovane privzeto.
 
-- Nadzor nabiralnika je privzeto omogočen v programu Microsoft 365. Če želite več informacij, glejte  [Ta članek](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing).
+- Nadzor nabiralnika je privzeto omogočen v Microsoft 365. Če želite več informacij, si oglejte [ta članek.](https://docs.microsoft.com/microsoft-365/compliance/enable-mailbox-auditing)
 
-- Nabiralniki skupine Microsoft 365 in nabiralniki javne mape v storitvi Exchange Online ne podpirajo pisanja dnevnika nadzora.
+- Microsoft 365 Nabiralniki skupine in nabiralniki javnih map v Exchange Online ne podpirajo pisanja dnevnika nadzora.
 
 **SharePoint in OneDrive**
 
-- Za omogočanje nadzora za SharePoint in OneDrive ni potrebna nobena dodatna konfiguracija.
+- Za omogočanje nadzora za te funkcije ni potrebna dodatna konfiguracija, SharePoint in OneDrive.
 
-- SharePointova in OneDrive podpora nadzirata te vrste dejavnosti:
+- SharePoint in OneDrive podporo za nadzor teh vrst dejavnosti:
 
-    - Dejavnosti datoteke, mape in strani
-    - Dejavnosti zahteve za skupno rabo in dostop
+    - Dejavnosti v datotekah, mapah in na strani
+    - Dejavnosti zahtev po skupni rabi in dostopu
     - Dejavnosti skrbništva mesta
     - Dejavnosti sinhronizacije datotek
 
-- Če želite več informacij o nadzorovanih dejavnostih v drugih storitvah, si oglejte  [tabelo v tem članku](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities).
+- Če želite informacije o nadzorovanih dejavnostih v drugih storitvah, [si oglejte tabelo v tem članku.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#audited-activities)
 
-- Tukaj je seznam pogosto zastavljenih vprašanj, ki so [pogosto zastavljena vprašanja](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) o iskanju dnevnika nadzora.
+- Tukaj je seznam pogostih vprašanj o [iskanju](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance#frequently-asked-questions) v dnevniku nadzora.
