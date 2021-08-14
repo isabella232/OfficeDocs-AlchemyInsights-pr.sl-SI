@@ -1,5 +1,5 @@
 ---
-title: Nastavitev upravljanja Microsoft Information
+title: Nastavitev upravljanja Microsoftovih informacij
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7428"
 - "9000273"
 - "9245"
-ms.openlocfilehash: 96fa4850636d9eb56fa91106bf5503c6eccb77ad
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 367b22259ba619230404ef967eef1530969b23aab0a5c5916382fd19cdb5986d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448774"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53921635"
 ---
-# <a name="set-up-microsoft-information-governance"></a>Nastavitev upravljanja Microsoft Information
+# <a name="set-up-microsoft-information-governance"></a>Nastavitev upravljanja Microsoftovih informacij
 
-V [vodniku za nastavitev upravljanja Microsoftove informacije](https://go.microsoft.com/fwlink/?linkid=2146529) najdete informacije, ki jih boste morali nastaviti in upravljati strategijo upravljanja organizacije, da zagotovite, da bodo vaši podatki razvrščeni in upravljani glede na določene smernice za življenjski cikel, ki ste jih nastavili.
+V [Vodniku](https://go.microsoft.com/fwlink/?linkid=2146529) za nastavitev upravljanja Microsoftovih informacij so na voljo informacije, ki jih boste potrebovali za nastavitev in upravljanje strategije vodenja organizacije, s katerimi zagotovite, da bodo vaši podatki razvrščeni in upravljani v skladu z določenimi smernicami življenjskega cikla, ki ste jih nastavili.
 
-V tem vodniku boste izvedeli, kako ustvariti, samodejno uporabiti ali objaviti nalepke, pravilnike oznak in pravilnike o hranjenju, ki so uporabljeni za vsebino, ki jo je mogoče znova uporabiti, in zapise o skladnosti organizacije. Prav tako boste dobili informacije o uvozu datotek CSV z načrtom datoteke za množične scenarije ali jih ročno uporabiti za posamezne dokumente.
+V tem vodniku boste izvedeli, kako ustvariti, samodejno uporabiti ali objaviti oznake, pravilnike za oznake in pravilnike o hranjenju, ki se uporabljajo za vsebino in zapise o skladnosti s predpisi organizacije za ponovno uporabo. Dobili boste tudi informacije o uvozu datotek CSV s paketom datotek za množične scenarije ali za ročno uporabo datotek v posameznih dokumentih.

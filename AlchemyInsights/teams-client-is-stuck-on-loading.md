@@ -1,5 +1,5 @@
 ---
-title: Odjemalec ekipe je obtičal pri nalaganju
+title: Teams odjemalec pri nalaganju
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000701"
 - "8019"
-ms.openlocfilehash: d8e9e57967fd1b4952f6d03dbc0070eec39910d6
-ms.sourcegitcommit: 9b8f2ca19fb81b2729ecf5ff7586f4e7d607ba9a
+ms.openlocfilehash: e9a62890210d8f1867d864b021bef194384ef494b35ece4c1962e4f33ac53272
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50093082"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981705"
 ---
-# <a name="teams-client-is-stuck-on-loading"></a>Odjemalec ekipe je obtičal pri nalaganju
+# <a name="teams-client-is-stuck-on-loading"></a>Teams odjemalec pri nalaganju
 
-Microsoft je seznanjen z napako v nedavni različici namizne aplikacije Teams, ki preprečuje uporabnikom, da se prijavijo. Uporabniki, ki so vplivali na uporabnike, vidijo nalaganje sporočila Microsoft Teams, ki se prikaže.
+Microsoft je seznanjen z napako v zadnji Teams namiznem programu, ki preprečuje uporabnikom prijavo. Tem uporabnikom se prikaže Microsoft Teams sporočilo o nalaganju.
 
-Najpreprostejša rešitev za zdaj je uporaba spletnega programa Teams <https://teams.microsoft.com/> .
+Najpogostejša rešitev za to težavo je uporaba spletne Teams programa <https://teams.microsoft.com/> .
 
-Če želite več informacij in trenutno stanje, si oglejte objava nadzorne plošče storitve na nadzorni plošči <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>
+Če želite več informacij in trenutno stanje, glejte objavo nadzorne plošče s stanjem storitve na <https://admin.microsoft.com/AdminPortal/Home#/servicehealth/advisories/:/alerts/TM236316>

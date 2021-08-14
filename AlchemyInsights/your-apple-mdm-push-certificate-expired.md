@@ -1,5 +1,5 @@
 ---
-title: Potrdilo o potiskanju Apple MDM je poteklo
+title: Vaše potisno potrdilo Apple MDM je poteklo
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2635"
 - "9000770"
-ms.openlocfilehash: 5ec7989600c224281a417ea102779f9e0dd19887
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a349b0c4a7a0b7fe8e28ab0ba107ed16cccf81638544a5009e93fab66094fac4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668831"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997438"
 ---
-# <a name="your-apple-mdm-push-certificate-has-expired"></a>Potrdilo o potiskanju Apple MDM je poteklo
+# <a name="your-apple-mdm-push-certificate-has-expired"></a>Vaše potisno potrdilo Apple MDM je poteklo
 
-Potrdilo Apple MDM Push Certificate je veljavno eno leto in ga je treba obnoviti vsako leto, če želite še naprej upravljati naprave iOS in macOS. Če potrdilo poteče, se ne morete povezati z včlanjenimi napravami Apple, nove naprave pa ne morejo biti včlanjene.
+Potrdilo Apple MDM Push Certificate je veljavno eno leto in ga je treba obnoviti vsako leto, če želite še naprej upravljati naprave iOS in macOS. Če potrdilo poteče, se ni mogoče obrnete na včlanitev naprav Družbe Apple in včlanitev novih naprav ni mogoče.
 
-Če želite navodila za podaljšanje potrdila o potiskanju Apple MDM, glejte podaljšanje naročnine na [Apple Mdm push Certificate](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate).
+Če želite navodila za podaljšanje potisnega potrdila Apple MDM, glejte [Podaljšanje potisnega potrdila Apple MDM.](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get#renew-apple-mdm-push-certificate)

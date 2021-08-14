@@ -1,5 +1,5 @@
 ---
-title: Stran za arhiviranje ali Nenalaganje v razdelku upravljanje informacij
+title: Stran arhiva je prazna ali se ne nalaga v razdelku »Upravljanje informacij«
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "8262"
-ms.openlocfilehash: eae42c31b7faf024e16ec5eb132abe30bd228b7a
-ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
+ms.openlocfilehash: d484d7a0cb5d4556a08639513071a9211875479a223e1da3228c7074fadcf4c8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "50243594"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997366"
 ---
-# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Stran za arhiviranje ali Nenalaganje v razdelku upravljanje informacij
+# <a name="archive-page-blank-or-not-loading-under-information-governance"></a>Stran arhiva je prazna ali se ne nalaga v razdelku »Upravljanje informacij«
 
-Če je stran» **Arhiv** «v razdelku upravljanje informacij v središču za varnost in skladnost s predpisi prazna ali pa se ne naloži, lahko namesto tega uporabite možnost» **Arhiviraj** «v novem središču za skladnost z M365.
+Če je **stran Arhiv** v razdelku Upravljanje informacij v središču za  varnost in skladnost s predpisi prazna ali se ne naloži, uporabite možnost Arhiviraj v novem središču za skladnost s predpisi storitve M365.
 
 1. pojdi k [https://compliance.microsoft.com](https://compliance.microsoft.com/)
-1. Izberite upravljanje informacij.
-1. Nato kliknite možnost **Arhiviraj** .
+1. Izberite Upravljanje informacij.
+1. Nato kliknite  možnost Arhiviraj.
 
-Ali pa upoštevate ta spletni naslov: [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)
+Ali pa upoštevajte ta URL: [https://compliance.microsoft.com/informationgovernance?viewid=archive](https://sip.compliance.microsoft.com/informationgovernance?viewid=archive)
