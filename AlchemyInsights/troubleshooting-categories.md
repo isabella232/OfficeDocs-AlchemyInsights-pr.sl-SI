@@ -1,5 +1,5 @@
 ---
-title: 604 kategorije odpravljanja težav
+title: Kategorije odpravljanja težav 604
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -14,15 +14,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: 4c06a6e1ddd333fff147912ac37a339574da4c9a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e2ca842df04a7d4b702606d57757192ffe328cad79f3f5a07abc450f8ff92288
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972543"
 ---
-# <a name="outlook-categories"></a>Outlookove kategorije
+# <a name="outlook-categories"></a>Outlook kategorije
 
-Kategorije veljajo le za elemente v koledarju. Če uporabite barvno kategorijo za povabilo na srečanje ali srečanje, ki ste ga prejeli od druge osebe, bo ta barvna Kategorija prikazana le v vašem koledarju.  Če uporabite barvno kategorijo v nabiralniku v skupni rabi, pooblastite nabiralnik, nabiralnik skupine, nabiralnik sobe itd. barvna Kategorija vpliva le na vaš pogled.
+Kategorije veljajo le za elemente v koledarju. Če uporabite barvno kategorijo za povabilo na srečanje ali srečanje, ki ste ga prejeli od druge osebe, bo ta barvna kategorija pokazala le v vašem koledarju.  Če uporabite barvno kategorijo za nabiralnik v skupni rabi, nabiralnik pooblaščenca, nabiralnik skupine, nabiralnik sobe itd. barvna kategorija vpliva le na vaš pogled.
 
-Če želite več informacij: [dodeljevanje barvne kategorije sestanku v koledarju, srečanju ali dogodku](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)
+Če želite več informacij: [Dodeljevanje barvne kategorije sestanku, srečanju](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527) ali dogodku na koledarju

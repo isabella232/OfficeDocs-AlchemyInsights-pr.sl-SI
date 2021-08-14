@@ -1,5 +1,5 @@
 ---
-title: Brisanje poslovnih podatkov iz programa InTune – upravljane aplikacije
+title: Brisanje poslovnih podatkov iz aplikacij, ki jih upravlja Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: ca62ad165bbb629323727928916720c6a2eab291
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 59c1309f60e03eda587c7a1f7bb5849f69b12a13d4365bcd6ca4e862d0e53e2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997762"
 ---
-# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Brisanje poslovnih podatkov iz programa InTune – upravljane aplikacije
+# <a name="wipe-corporate-data-from-intune-managed-apps"></a>Brisanje poslovnih podatkov iz aplikacij, ki jih upravlja Intune
 
-InTune podpira odstranjevanje podatkov o podjetjih iz upravljanih programov za zaščito aplikacije (aplikacija). 
+Intune podpira odstranjevanje poslovnih podatkov iz aplikacij, ki jih upravlja pravilnik za zaščito aplikacij (APP). 
 
-Če želite izvedeti več o brisanju, brisanju ali odstranjevanju poslovnih podatkov iz teh aplikacij, si oglejte, [kako izbrišete le podatke podjetja iz programov, ki jih upravlja InTune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe).
+Če želite izvedeti več o brisanju, brisanju ali odstranjevanju poslovnih podatkov iz teh aplikacij, glejte Kako izbrisati le poslovne podatke iz aplikacij, ki jih upravlja [Intune.](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe)

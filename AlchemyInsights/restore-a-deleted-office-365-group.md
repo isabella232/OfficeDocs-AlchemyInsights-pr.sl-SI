@@ -1,5 +1,5 @@
 ---
-title: Obnovitev izbrisane skupine v storitvi Microsoft 365
+title: Obnovitev izbrisane Microsoft 365 skupine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,22 @@ ms.custom:
 - "98"
 - "1200024"
 ms.assetid: bc0396ea-c426-4d1d-bb89-ced602d06fb6
-ms.openlocfilehash: b72b7c93ce9fe1b90d1608811b0eeabc8aec1363
-ms.sourcegitcommit: a5edaaefdc56f8d5c8220a335f4e8228e2de4ee0
+ms.openlocfilehash: 6262ca04335c355fb4de41a9e1d854b666f47e10321a843717d6eb951c46cafd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/08/2021
-ms.locfileid: "51645147"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959042"
 ---
-# <a name="restore-a-deleted-microsoft-365-group"></a>Obnovitev izbrisane skupine v storitvi Microsoft 365
+# <a name="restore-a-deleted-microsoft-365-group"></a>Obnovitev izbrisane Microsoft 365 skupine
 
-Izbrisano skupino v storitvi Microsoft 365 ali Microsoft Teams lahko obnovite v 30 dneh od izbrisa.
+Izbrisano skupino ali skupino Microsoft 365 lahko obnovite Microsoft Teams v 30 dneh od izbrisa.
 
-1. Pojdite v Skrbniško središče za [Microsoft 365](https://aka.ms/RestoreDeletedGroup) in se prijavite na seznam izbrisanih skupin in skupin.
+1. Pojdite v [Skrbniško središče za Microsoft 365,](https://aka.ms/RestoreDeletedGroup) da se prijavite na seznam izbrisanih skupin in skupin.
 
     **Opomba:** Prijavite se z računom, ki je dodeljen skrbniku najemnika ali skrbniški vlogi skupine.
 
-1. Izberite izbrisano skupino/skupino Storitve Microsoft 365/Teams, ki jo želite obnoviti, in **kliknite obnovi skupino.**
+1. Izberite izbrisano skupino Microsoft 365/skupine Teams ki jo želite obnoviti, in kliknite **obnovi skupino.**
 
     Če skupine ni mogoče obnoviti zaradi naslova SMTP v sporu, uporabite ta ukaz, da najdete predmet, ki povzroča spor, in odstranite naslov SMTP:
 
@@ -37,4 +37,4 @@ Izbrisano skupino v storitvi Microsoft 365 ali Microsoft Teams lahko obnovite v 
 
     **Opomba:** V nekaterih primerih lahko traja do 24 ur, da so skupina in vsi njeni podatki obnovljeni.
 
-    Če želite več informacij ali če želite izvedeti, kako obnovite skupine s storitvijo PowerShell, glejte Obnovitev izbrisane skupine v storitvi [Microsoft 365.](https://go.microsoft.com/fwlink/?linkid=867802)
+    Če želite več informacij ali če želite izvedeti, kako obnovite skupine s storitvijo PowerShell, [glejte Obnovitev izbrisane Microsoft 365 skupine.](https://go.microsoft.com/fwlink/?linkid=867802)

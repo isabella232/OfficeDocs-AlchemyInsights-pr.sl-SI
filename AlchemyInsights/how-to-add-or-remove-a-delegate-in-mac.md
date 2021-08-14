@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7336"
-ms.openlocfilehash: 631a1202eca985db93c31dbedca520674b06095e
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 90f9083d65a93cb6fc4f5ea3b8c1b378e209dc3a4500a29dbab04ef958ea93c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583693"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945389"
 ---
 # <a name="how-to-add-or-remove-a-delegate-in-mac"></a>Dodajanje ali odstranjevanje pooblaščenca v računalniku Mac
 
 Če želite dodati ali odstraniti pooblaščenca v računalniku Mac, naredite to:
 
-**Kako dodati pooblaščenca v računalnik Mac**:
+**Kako dodati pooblaščenca v računalnike Mac:**
 
-1. V meniju **Orodja** izberite **računi**.
-1. Izberite Exchangeev račun, ki ga boste uporabili za dostop do pooblaščenih elementov, kliknite **dodatno** in nato še **Pooblaščenci**.
-1. V razdelku **osebe, za katere sem pooblaščenec**, kliknite **Dodaj**. .
+1. V **meniju** Orodja izberite **Računi**.
+1. Izberite Exchange račun, ki ga boste uporabili za dostop do pooblaščenih elementov, **kliknite** Dodatno in nato kliknite **Pooblaščenci.**
+1. V **razdelku Osebe, ki sem pooblaščenec za** kliknite **Dodaj**. .
 1. Vnesite ime osebe, ki vas je dodala kot pooblaščenca.
-1. Izberite ime osebe v rezultatih iskanja in nato kliknite **Dodaj**.
+1. V rezultatih iskanja izberite ime osebe in nato kliknite **Dodaj**.
  
-**Kako odstraniti pooblaščenca v računalniku Mac**:
+**Kako odstraniti pooblaščenca v računalniku Mac:**
 
-1. V meniju **Orodja** izberite **računi**.
-1. Izberite Exchangeev račun, ki ga želite spremeniti, kliknite **dodatno** in nato jeziček» * * * * delegati «.
-1. V razdelku osebe, za katere **sem pooblaščenec**, izberite osebo, za katero želite, da ne bo pooblaščena, in nato kliknite **Odstrani**.
+1. V **meniju** Orodja izberite **Računi**.
+1. Izberite Exchange, ki ga želite spremeniti, kliknite **Dodatno** in nato kliknite zavihek ****Pooblaščenci.
+1. V **razdelku Osebe, ki sem pooblaščenec** za izberite osebo, za katero želite prenehati biti pooblaščenec, in nato kliknite **Odstrani**.
