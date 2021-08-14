@@ -1,5 +1,5 @@
 ---
-title: Uporaba najboljših praks za napredne poizvedbe za lov
+title: Uporaba najboljših praks za napredne poizvedbe za iskanje
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cd13e2e8801db3df91140ce371813d900d72e38b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: e2a22563a840cd6017afd343bad108be216738742938a48ba5ceb1010fd16098
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749549"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930149"
 ---
-# <a name="apply-best-practices-for-advanced-hunting-queries"></a>Uporaba najboljših praks za napredne poizvedbe za lov
+# <a name="apply-best-practices-for-advanced-hunting-queries"></a>Uporaba najboljših praks za napredne poizvedbe za iskanje
 
-Če želite hitreje dobiti rezultate in se izogniti časovnim presledkom med izvajanjem zapletenih poizvedb, uporabite te najboljše prakse:
+Če želite dobiti rezultate hitreje in se izogniti časovnim omejitev med izvajanjem zapletenih poizvedb, uporabite te najboljše prakse:
 
-- Ko poskušate uporabiti nove poizvedbe, vedno uporabite omejitev, da se izognete zelo velikim naborom rezultatov. Uporabite tudi, `count` Če želite opraviti začetno oceno velikosti nabora rezultatov.
-- Najprej uporabite časovne filtre. V idealnem primeru omejite svoje poizvedbe na sedem dni.
-- Na začetku poizvedbe takoj za časovnim filtrom dodajte filtre, ki naj bi odstranili večino podatkov.
-- Ko iščete polne žetone, uporabite `has` operator namesto `contains` .
-- Zaženite iskanje v določenem stolpcu in ne v vseh stolpcih.
-- Ko se pridružite tabelam, najprej določite tabelo z manj vrsticami.
-- `project` le potrebne stolpce iz tabel, ki ste jih priključili.
+- Ko poskušate nove poizvedbe, vedno uporabite omejitev, da preprečite pridobivanje izjemno velikih naborov rezultatov. Prav tako `count` se uporablja za začetno oceno velikosti nabora rezultatov.
+- Najprej uporabite časovne filtre. V idealnem primeru omejite poizvedbe na sedem dni.
+- Na začetku poizvedbe, takoj za časovnim filtrom, dodajte filtre, za katere ste pričakovali, da bodo odstranili večino podatkov.
+- Pri iskanjem polnih žetonov uporabite `has` operator namesto `contains` .
+- Namesto v vseh stolpcih zaženite iskanje v določenem stolpcu.
+- Ko združujete tabele, najprej določite tabelo z manj vrsticami.
+- `project` samo potrebni stolpci iz tabel, ki ste jih združili.
 
-Če želite izvedeti več, glejte [napredne prakse za lov](https://go.microsoft.com/fwlink/?linkid=2144812)na iskanje.
+Če želite več informacij, glejte [Napredne prakse za poizvedbe za poizvedovanje.](https://go.microsoft.com/fwlink/?linkid=2144812)

@@ -1,5 +1,5 @@
 ---
-title: Kako se izpisati iz Outlooka v spletu
+title: Kako se izpisati iz Outlook v spletu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9341cdededd28da9b224d292149cfc648d13939f28e11104cecdec14eef7c5da
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802145"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063176"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kako se izpisati iz Outlooka v spletu
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>Kako se izpisati iz Outlook v spletu
 
-Če se želite izpisati iz Outlooka v spletu, izberite svoje ime ali sliko v zgornjem desnem kotu in izberite **izpis**.
+Če se želite izpisati Outlook v spletu, izberite svoje ime ali sliko v zgornjem desnem kotu in **izberite Izpiši**.
 
-Če želite ustaviti samodejno vpis v službeni ali šolski račun:
+Če želite ustaviti samodejno vpisovanje v službeni ali šolski račun:
 
-1. Izberite svoje ime ali sliko in izberite **izpis**.
-1. Pojdite na [Outlook.Office.com](https://outlook.office.com/) in izberite **uporabi drug račun**.
+1. Izberite svoje ime ali sliko in nato **Še Izpiši**.
+1. Odprite [Outlook.office.com](https://outlook.office.com/) in izberite Uporabi **drug račun**.
 1. Vpišite se z e-poštnim naslovom, ki ga želite uporabiti.
 
-Če želite izvedeti več, glejte [Kako se vpisati v Outlook v spletu ali iz](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79)njega.
+Če želite izvedeti več, [glejte Kako se vpisati v ali izpisati iz Outlook v spletu](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).

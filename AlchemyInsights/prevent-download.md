@@ -1,5 +1,5 @@
 ---
-title: Prepreči prenos datotek iz SharePointa ali OneDrive
+title: Preprečite prenos datotek iz SharePoint ali OneDrive
 ms.author: pebaum
 author: pebaum
 manager: matteva
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: 3ada8657ebe4cd29d1390f9c30f75d1b0b95056a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d492f26584199f76531f0c1afe026b4754383a1457b33c2e4c643fb13977b319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47741571"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063068"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Prepreči prenos datotek iz SharePointa ali OneDrive
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>Preprečite prenos datotek iz SharePoint ali OneDrive
 
-Na voljo so različne metode, ki jih lahko uporabite za preprečevanje ali blokiranje prenosov. Spodaj najdete spodnje povezave za ustrezne metode:
+Obstajajo različni načini, ki se lahko uporabijo za preprečevanje ali blokiranje prenosov. Obiščite spodnje povezave za ustrezne načine:
 
-- [Blokirajte prenos datotek s pogojnim dostopom Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [Blokiranje prenosa datoteke s pogojnim dostopom za Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
-- [Nadzor dostopa v neupravljanih napravah](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [Nadzor dostopa iz neu upravljanje naprav](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [Konfiguracija pravilnikov IRM v SharePointovih knjižnicah dokumentov za omejevanje prenosa vsebine](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
+- [Konfiguriranje pravilnikov upravljanja pravic SharePoint za knjižnice dokumentov, da omejite prenos vsebine](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
