@@ -11,26 +11,26 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 09f326274ccd6d5164bac64c81c9b2684748aaba
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1dcba3ff83c4fa4db2e687ca9236ee8732102c431edc265b9856c94c126708d9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800408"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941384"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Opozorilo: pravilniki vaše organizacije vam ne omogočajo skupne rabe s temi Uporabniki
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>Opozorilo: pravilniki vaše organizacije ne omogočajo skupne rabe s temi uporabniki
 
-Uporabniki lahko ob poskusu skupne rabe z zunanjimi uporabniki vaše organizacije pojavijo opozorilno sporočilo. Sporočilo je **pravilnik organizacije, ki vam ne dovoljuje skupne rabe s temi uporabniki. Pojdite na zunanjo skupno rabo v skrbniškem središču za Microsoft 365, da ga omogočite**. To se pogosto zgodi, ko prvič poskušate dati v skupno rabo z zunanjimi uporabniki ali pri skupni rabi z novimi zunanjimi uporabniki.
+Ko uporabniki poskušajo dati storitev v skupno rabo z zunanjimi uporabniki v organizaciji, lahko pride do opozorila. Sporočilo je **pravilniki vaše organizacije ne omogočajo skupne rabe s temi uporabniki. Pojdite na Zunanja skupna raba v Skrbniško središče za Microsoft 365 da jo omogočite.** To se pogosto zgodi, ko prvič poskušate dati v skupno rabo z zunanjimi uporabniki ali ko daste v skupno rabo z novimi zunanjimi uporabniki.
 
-Preverite **Nastavitve zunanje skupne rabe v SharePointu in OneDrive** za svojo organizacijo.
+Preverite nastavitve **SharePoint in OneDrive zunanje skupne rabe** za svojo organizacijo.
 
-1. V [skrbniškem središču za Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)izberite **SharePoint**.
-3. Če si želite ogledati nastavitve zunanje skupne rabe, izberite **Skupna raba** .
+1. V [Skrbniško središče za Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)izberite **SharePoint**.
+3. Izberite Skupna **raba,** da si ogledate nastavitve zunanje skupne rabe.
 
-Preverite **Nastavitve zunanje skupne rabe** za določeno mesto.
+Preverite nastavitve **zunanje skupne rabe** za določeno mesto.
 
-1. V [skrbniškem središču za Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)izberite **SharePoint**.
-2. Če si želite ogledati spletna mesta, ki so na voljo, izberite **aktivna spletna mesta** .
-3. Izberite mesto, ki ga želite preveriti, nato pa izberite gumb za **skupno rabo** , ki se prikaže v menijski vrstici, da preverite nastavitve mesta.
+1. V [Skrbniško središče za Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)izberite **SharePoint**.
+2. Izberite **Aktivna mesta,** da si ogledate spletna mesta, ki so na voljo.
+3. Izberite spletno mesto, ki ga želite  preveriti, in nato izberite gumb Skupna raba, ki se prikaže v menijski vrstici, da preverite nastavitve spletnega mesta.
 
-Če želite več informacij, glejte [pregled zunanje skupne rabe](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+Če želite več informacij, glejte [Pregled zunanje skupne rabe.](https://docs.microsoft.com/sharepoint/external-sharing-overview)

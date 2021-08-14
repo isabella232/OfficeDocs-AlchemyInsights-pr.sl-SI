@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6875"
-ms.openlocfilehash: d5adc7f14baef80704d7455fafef36aed6cd5318
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 7948013bb4c1715512572880369a04adaff3c06b824d245394139380abc65378
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50482994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953129"
 ---
 # <a name="adding-members-to-private-channels"></a>Dodajanje članov v zasebne kanale
 
-Lastnik zasebnega kanala je tisti, ki ustvari zasebni kanal, ta oseba pa ima le privilegij, da neposredno doda ali odstrani osebe iz njega. Lastniki zasebnih kanalov lahko dodate katerega koli člana skupine v zasebni kanal, ki so ga ustvarili, vključno z gosti.
+Zasebni lastnik kanala ustvari zasebni kanal in ta oseba ima le pravico, da neposredno doda osebe ali jih odstrani iz kanala. Zasebni lastniki kanala lahko dodajo katerega koli člana ekipe v zasebni kanal, ki ga ustvarijo, vključno z gosti.
 
-Lastniki skupine lahko vidijo imena vseh zasebnih kanalov v ekipi in lahko izbrišejo tudi zasebni kanal v ekipi (izbrisan zasebni kanal je mogoče obnoviti v 30 dneh po tem, ko je izbrisan.). Lastniki skupine si ne morejo ogledati datotek v zasebnem kanalu ali pogovorov in seznama članov zasebnega kanala, razen če so člani tega zasebnega kanala.
+Lastniki ekip si lahko ogledajo imena vseh zasebnih kanalov v ekipi in izbrišejo lahko kateri koli zasebni kanal v ekipi (izbrisani zasebni kanal lahko obnovite v 30 dneh po izbrisu.). Lastniki ekip ne morejo videti datotek v zasebnem kanalu ali na seznamu pogovorov in članov zasebnega kanala, razen če so člani tega zasebnega kanala.
 
-Člani skupine lahko vidijo le zasebne kanale, do katerih so bili dodani.
+Člani ekipe si lahko ogledajo le zasebne kanale, v te kanale so bili dodani.
 
-Če želite več informacij, glejte [Dodajanje in odstranjevanje lastnikov in članov](https://docs.microsoft.com/MicrosoftTeams/private-channels#adding-and-removing-owners-and-members) iz zasebnih kanalov.
+Če želite več informacij, [glejte Dodajanje in odstranjevanje lastnikov in članov iz](https://docs.microsoft.com/MicrosoftTeams/private-channels#adding-and-removing-owners-and-members) zasebnih kanalov.

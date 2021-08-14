@@ -1,5 +1,5 @@
 ---
-title: OneDrive hranjenje in brisanje
+title: OneDrive hranjenja in brisanja
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed62445ffbac108bba6e7b8b8f4d8fcbcb3777d199e2a183fa457949cfe830a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673477"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985377"
 ---
-# <a name="onedrive-retention-and-deletion"></a>OneDrive hranjenje in brisanje
+# <a name="onedrive-retention-and-deletion"></a>OneDrive hranjenja in brisanja
 
-- [Izbrisane uporabnike lahko obnovite tako](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) , da OneDrive sami. So v košu za 93 dni.
+- Izbrisane [uporabnike lahko obnovite OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) sami. V košu so 93 dni.
 
-- Oglejte si [Ta članek](https://docs.microsoft.com/onedrive/retention-and-deletion) , če se želite naučiti:
-    - Kako omogočiti drugemu uporabniku dostop do OneDrive izbrisanega uporabnika.
-    - Kaj se zgodi z uporabnikovim OneDrive, ko izbrišete račun uporabnika Microsoft 365 za svojo organizacijo.
-    - Konfiguracija samodejnega dostopa do prenosa.
-    - Kako deluje postopek brisanja OneDrive.
+- Če želite [izvedeti več,](https://docs.microsoft.com/onedrive/retention-and-deletion) glejte ta članek:
+    - Kako drugemu uporabniku dati dostop do uporabnikove OneDrive.
+    - Kaj se zgodi z uporabnikovo OneDrive, ko izbrišete uporabnikov Microsoft 365 račun za svojo organizacijo.
+    - Kako konfigurirati pooblastitev samodejnega dostopa.
+    - Kako OneDrive postopek brisanja.
 
-- Če želite več informacij o obnavljanju elementov iz koša v OneDrive, glejte [obnovitev izbrisanih datotek ali map](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- Če želite informacije o obnovitvi elementov iz koša v OneDrive, glejte [Obnovitev izbrisanih datotek ali map.](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f)
 
-- Vas zanimajo varnostni in zaščitni centri v središču za skladnost in zadržanje?
-    - [Pravilniki o hranjenju za OneDrive in SharePointova mesta](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-    - [E-odkrivanje Hold za OneDrive in SharePointova mesta](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- Ali vas zanima hranjenje in zadržanje v središču za varnost in skladnost s predpisi?
+    - [Pravilniki o hranjenju za OneDrive in SharePoint mest](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+    - [Zadržanje e-odkrivanja za OneDrive in SharePoint mest](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

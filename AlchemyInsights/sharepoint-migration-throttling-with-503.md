@@ -1,5 +1,5 @@
 ---
-title: Omejevanje selitve v SharePoint s 503 napakami
+title: SharePoint zmogljivosti selitve s 503 napakami
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,22 +13,22 @@ ms.assetid: ''
 ms.custom:
 - "9000136"
 - "2541"
-ms.openlocfilehash: f7e0030670564eba15c89f7426e49283d44c3151
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4e11cfddf5f2a684ba19d78ba825384853bec310f3301f1177971c0a04548c05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947464"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53941420"
 ---
-# <a name="sharepoint-migration-throttling-with-503-errors"></a>Omejevanje selitve v SharePoint s 503 napakami
+# <a name="sharepoint-migration-throttling-with-503-errors"></a>SharePoint zmogljivosti selitve s 503 napakami
 
-Zdi se, da selite v SharePoint online in prejemate napake 503. Upoštevajte spodnja navodila, da vam lahko pomagamo takoj, ko bo mogoče.
+Videti je, da se selite v SharePoint in prejemate 503 napak. Upoštevajte spodnja navodila, da vam bomo čim prej pomagali.
 
-1. Kliknite **stik s podporo** in nato **Nova zahteva za storitev**.
-2. Za naslov in opis vnesite možnost za **omejevanje selitve v SharePoint s 503**.
-3. Ko je vozovnica poslana, jo posodobite s temi informacijami:
-    - Koliko je še ostalo od selitve (na primer koliko TBs)?
+1. Kliknite **Stik s podporo** in nato Nova zahteva za **storitev.**
+2. Za naslov in opis vnesite SharePoint **selitev s 503.**
+3. Ko je vstopnica poslana, jo posodobite s spodnjimi informacijami:
+    - Koliko še je ostalo selitve (na primer koliko TBS-jev)?
     - Začetni in končni datum selitve.
-    - Opišite, od kod selite vsebino, kot je SharePoint Server, Box, GDrive, datotečni deli itd.
-    - Ocenite število napak pri omejevanju (na primer, če je x dušilke na uro) in kdaj se je zadaviti.
+    - Opišite, iz kod selite vsebino, na primer iz strežnika SharePoint Server, Box, GDrive, datoteke v skupni rabi itd.
+    - Ocenite število napak z dušenje (na primer, x dušenje na uro) in kdaj se je zgodilo dušenje.
     - Katero orodje za selitev uporabljate (na primer SPMT ali ShareGate)?
