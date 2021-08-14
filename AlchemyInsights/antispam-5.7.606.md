@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 9abbff56570e27b2ad7308860be32ad6586cf4f7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 296ff78d6e285ed31f1fd3268b9078a2ffffc3515a59f367685d054fc76bcc4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821391"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932221"
 ---
 # <a name="banned-sending-ip"></a>Odstranjeno pošiljanje IP-ja
 
-Pri pošiljanju prejemniku storitve Office 365 bo pošiljatelju morda prišlo do te napake. Pošiljatelj mora obiskati Portal delist IP za preprečevanje neželene pošte v storitvi [Office 365](https://sender.office.com/) in zagotoviti njihov e-poštni naslov in naslov IP, ki ga je treba razčeniti. Če na portalu ne prejmejo potrditvene e-pošte, naj preverijo mapo z neželeno pošto in/ali poskusijo z drugim e-poštnim naslovom. 
+Pri pošiljanju prejemniku Office 365 morda prišlo do te napake pri pošiljanju pošiljatelju. Pošiljatelj mora obiskati portal delist ip Office 365 za preprečevanje neželene pošte in zagotoviti njihov [e-poštni](https://sender.office.com/) naslov in naslov IP, ki ga je treba razčneti. Če na portalu ne prejmejo potrditvene e-pošte, naj preverijo mapo z neželeno pošto in/ali poskusijo z drugim e-poštnim naslovom. 
 
 - Če želite podrobna navodila, glejte Uporaba portala za odstranjevanje samega sebe [s seznama blokiranih pošiljateljev.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide)

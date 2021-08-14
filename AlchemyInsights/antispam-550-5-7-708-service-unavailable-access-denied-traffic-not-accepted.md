@@ -1,5 +1,5 @@
 ---
-title: 1047 AntiSpam 550 5.7.708 storitev ni na voljo. Dostop zavrnjen, promet ni bil sprejet iz te preiskave
+title: 1047 AntiSpam 550 5.7.708 Service unavailable. Dostop zavrnjen, promet iz tega naslova IP ni sprejet
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: cbfef03232f14fa29d98f16066b4ae29dfd26660
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9cca7f38a38c28216371ac6d034d1f00870e814a48b5552edbc58f4faf871ac6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717233"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53932149"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708 dostop zavrnjen, promet ni bil sprejet iz tega IP
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a>550 5.7.708: zavrnjen dostop, promet ni sprejet s tega naslova IP
 
-Do te napake pride pri pošiljanju e-pošte iz znanih naslovov IP z nizkim ugledom, ki jih običajno uporabljajo nove stranke.
+Do te napake pride pri pošiljanju e-pošte z znanih naslovov IP z nizkim ugledom, ki jih običajno uporabljajo nove stranke.
 
-Če želite poslati e-pošto iz teh naslovov IP, preden lahko kupite licence, se obrnite na podporo, da zaprosite za izjemo, dokler ne morete kupiti licenc.
+Če morate poslati e-poštno sporočilo s teh naslovov IP, preden lahko kupite licence, se obrnite na podporo in zahtevajte izjemo, dokler ne boste mogli kupiti licenc.

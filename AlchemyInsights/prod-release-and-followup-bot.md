@@ -1,5 +1,5 @@
 ---
-title: 'Azure apps V 1.2 – faza 7: izdaja prod in nadaljnje – bot'
+title: 'Azure Apps V1.2 - 7. faza: izdaja in spremljanje izdelkov – bot'
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "8426"
 - "9004648"
-ms.openlocfilehash: e315941723ff075ef0e831c517c4547afee9c55c
-ms.sourcegitcommit: 266126f99a020c2332a4fea516edb4ace9d14148
-ms.translationtype: MT
+ms.openlocfilehash: 72d101e50f2aac631b5001758046c6f69cd0a1e675632435574a32530a4b3095
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50714785"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54009948"
 ---
-# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Azure apps V 1.2 – faza 7: izdaja prod in nadaljnje – bot
+# <a name="azure-apps-v12---phase-7-prod-release-and-followup---bot"></a>Azure Apps V1.2 - 7. faza: izdaja in spremljanje izdelkov – bot
 
-[Vodnik za integracijo programov neodvisnih ponudnikov](https://admin.microsoft.com/AdminPortal/Home) vam bo pomagal pri izvedbi teh opravil: 
-- Integracija programa v oblaku tretje osebe s storitvijo Azure AD 
-- Konfiguracija najboljše možnosti prijave za vašo organizacijo.
+V [vodniku za integracijo aplikacije drugega](https://admin.microsoft.com/AdminPortal/Home) ponudnika si boste lahko pomagali pri izvajanju teh opravil: 
+- Integracija aplikacije v oblaku drugega ponudnika s storitvijo Azure AD, 
+- Konfiguracija najboljše možnosti vpisa za vašo organizacijo.
 
-Ko integrirate program in konfigurirate enotno prijavo, Poenostavite dostop tako, da uporabnikom omogočite, da zaženejo aplikacijo v portalu **My apps** v storitvi Office 365. S to poenostavitvijo dostopa boste zmanjšali število pozivov za vpis ali jih v celoti odpravili.
+Z integracijo aplikacije in konfiguracijo enotne aplikacije boste poenostavili dostop, tako da boste uporabnikom omogočili zagon aplikacije v portalu **»Moji** programi« v brskalniku Office 365. S to poenostavitev dostopa boste zmanjšali število pozivov za vpis ali jih v celoti odstranili.
