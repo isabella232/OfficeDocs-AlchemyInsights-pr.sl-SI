@@ -1,5 +1,5 @@
 ---
-title: Ali se prikaže sporočilo o zakasnitvah ali pošti v čakalni vrsti?
+title: Ali vidite zakasnitve e-pošte ali pošto v čakalni vrsti?
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1937
 ms.assetid: ''
-ms.openlocfilehash: c2e6aa3de2ea86b70c8fb68503aa02027505326a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 47f2d4f61571c8ef1fd871a568909d7dab37fe7ecfca5a8e02728e12b759ae40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710247"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030180"
 ---
-# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Ali se prikaže sporočilo o zakasnitvah ali pošti v čakalni vrsti?
+# <a name="are-you-seeing-email-delays-or-queued-mail"></a>Ali vidite zakasnitve e-pošte ali pošto v čakalni vrsti?
 
-Pred kratkim smo začeli z zastarelimi končnimi točkami SMTP. Te ciljne vrednosti so bile na voljo za uporabo v zapisih MX in pametnih gostiteljih pred 2012. Če še vedno uporabljate eno od teh starejših vrednosti, boste morali posodobiti končno točko do podprte vrednosti. Če želite več informacij, glejte ta [Podpora KB](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo).
+Nedavno smo začeli zastarele starejše končne točke SMTP. Te ciljne vrednosti so bile na voljo za uporabo v zapisih MX in pametnih gostiteljih pred letu 2012. Če še vedno uporabljate eno od teh starejših vrednosti, boste morali posodobiti končno točko na podprto vrednost. Če želite več informacij, glejte to [podporo KB.](https://support.microsoft.com/help/4057301/attr35-response-code-when-mail-is-sent-to-eop-exo)

@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: c48c71b9084354bf5a56794795c7653b8d8e5b4c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c376447f5ca87d793d8b96617ac58706f2377e1b640270c9f861c4475b85cf72
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748925"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979077"
 ---
 # <a name="how-users-open-an-encrypted-email-message"></a>Kako uporabniki odprejo šifrirano e-poštno sporočilo
 
-Spodaj so navedeni nekateri scenariji, ki opisujejo, kako uporabniki prejmejo šifrirano e-poštno sporočilo:
+V nadaljevanju je opisanih nekaj primerov, ki opisujejo, kako ga uporabniki, ki prejmejo šifrirano e-poštno sporočilo, odprejo:
 
-- Če uporabnik uporablja e-poštni račun v storitvi Office 365, si ga bodo lahko ogledali tako kot vsa druga sporočila.
-- Če uporabnik uporablja Gmail, kliknite **Kliknite tukaj, da pripravite sporočilo** , nato pa se vpišejo in nato kliknite **Dovoli** , da si ogledate sporočilo.
-- Če uporabnik uporablja Yahoo ali drugega ponudnika internetnih storitev, bodo kliknili **prebrano sporočilo** ali pa **Kliknite tukaj, da preberete sporočilo**. videli boste povezavo, da dobite enkratno geslo. Če želite pridobiti kodo, morate klikniti povezavo in nato vnesti kodo. Nato si bodo lahko ogledali sporočilo v spletnem brskalniku.
-- Če uporabniki ne prejemajo šifriranih e-poštnih sporočil, morajo preveriti svojo **neželeno** ali mapo z **neželeno** pošto.
+- Če uporabnik uporablja e-poštni Office 365 račun, si ga bo lahko ogledočil kot vsa druga sporočila.
+- Če uporabnik uporablja Gmail, klikne  tukaj, da pripravi sporočilo, se vpiše in  klikne Dovoli, da si ogleda sporočilo.
+- Če uporabnik uporablja Yahoo ali drugega ponudnika internetnih storitev, klikne Preberite sporočilo ali kliknite tukaj, **da preberete sporočilo;**  videli bodo povezavo za enkratno geslo. Klikniti bodo morali povezavo, da bodo dobili kodo, in nato vnesti kodo. Nato si bo lahko sporočilo ogledočil v spletnem brskalniku.
+- Če uporabniki ne prejemajo šifriranih e-poštnih sporočil, morajo preveriti mapo z neželeno **pošto** ali **neželeno** pošto.
 
-Če želite več informacij, glejte [Kako odprem zaščiteno sporočilo](https://support.microsoft.com/topic/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098).
+Če želite več informacij, [glejte Kako odprem zaščiteno sporočilo.](https://support.microsoft.com/topic/how-do-i-open-a-protected-message-1157a286-8ecc-4b1e-ac43-2a608fbf3098)

@@ -1,5 +1,5 @@
 ---
-title: Težave pri razvoju programov z API-ji
+title: Težave pri razvoju aplikacij z API-ji
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7755"
-ms.openlocfilehash: 26d732819b64efa4fb84da44cc2a279368aa28b0
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 1de4e9aa5078507eecdbe53366e446e733029ecb1342f20ca701fa7f95a06fa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49975018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013476"
 ---
-# <a name="issues-developing-applications-with-apis"></a>Težave pri razvoju programov z API-ji
+# <a name="issues-developing-applications-with-apis"></a>Težave pri razvoju aplikacij z API-ji
 
-Za začetek uporabe API-ja v storitvi Azure Active Directory je na [sporedu vodnik AZURE ad GRAPH API](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) , ali pa si oglejte dokumentacijo priročnika [interaktivnih](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog)grafičnih grafikonov Azure ad.
+Če želite začeti uporabljati Azure Active Directory Graph API, glejte Vodnik za hiter začetek Graph API za Azure AD Graph ali pa si oglejte [interaktivno](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog)dokumentacijo z Graph za API za Azure [AD.](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro)
 
-**Konec podpore za knjižnico za preverjanje pristnosti v storitvi Azure Active Directory (knjižnice ADAL) in Azure AD Graph API (graf ZVOČNIh grafikonov)**
+**Konec podpore za knjižnico za preverjanje Azure Active Directory pristnosti (ADAL) in Azure AD Graph API (AAD Graph)**
 
-Z **začetkom junija 30th 2020** ne bomo več dodali nobenih novih funkcij v knjižnice adal in Azure ad Graph. Še naprej bomo zagotavljali tehnično podporo in varnostne posodobitve, vendar ne boste mogli več posredovati posodobitev funkcij.
+**Od 30. junija 2020** ne bomo več dodajali novih funkcij v ADAL in Azure AD Graph. Še naprej nudimo tehnično podporo in varnostne posodobitve, ne zagotavljamo pa več posodobitev funkcij.
 
-Z **začetkom junija 30th 2022** bomo zaključili podporo za knjižnice adal in Azure ad Graph in ne boste več zagotavljali tehnične podpore ali varnostnih posodobitev.
+**Od 30. junija 2022** se bo končala podpora za ADAL in Azure AD Graph in ne bomo več zagotavljali tehnične podpore ali varnostnih posodobitev.
 
-Programi, ki uporabljajo knjižnice ADAL v obstoječih različicah sistema OS, bodo po tem času še naprej delovali, vendar ne bodo prejeli nobene tehnične podpore ali varnostnih posodobitev.
+Aplikacije, ki uporabljajo ADAL v obstoječih različicah operacijskega sistema, bodo po tem obdobju še naprej delovale, vendar zanje ne bo več mogoče pridobiti tehnične podpore ali varnostnih posodobitev.
 
-Programi, ki uporabljajo Azure AD Graph, po tem času morda ne bodo več prejemali odgovorov iz končne točke grafikona Azure AD.
+Aplikacije, ki uporabljajo Azure AD Graph po tem času morda ne bodo več prejemali odgovorov iz končne točke Graph Azure AD.
 
-**Selitev v knjižnice ADAL**
+**Selitev ADAL**
 
-Priporočamo, da posodobite [Microsoftovo knjižnico za preverjanje pristnosti (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), ki ima najnovejše funkcije in varnostne posodobitve.
+Priporočamo, da izvedete nadgradnjo na knjižnico [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), ki vključuje najnovejše funkcije in varnostne posodobitve.
 
-Če uporabljate Microsoft apps, veste, da je Microsoft v postopku selitve svojih programov v MSAL z rokom za konec podpore, s čimer zagotovite, da bodo imeli koristi od trenutne varnosti in izboljšav funkcij v MSAL.
+Če uporabljate Microsoftove aplikacije, veste, da Microsoft do konca roka za podporo izvaja selitev svojih aplikacij v MSAL, pri čemer jim zagotavlja, da bo izkoristil prednosti trenutnih izboljšav MSAL in funkcij.
 
-1. [Preberite pogosta vprašanja o knjižnice adal](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. [Preberite več o tem, kako preseliti aplikacije na osnovi na platformi](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. Če potrebujete pomoč pri razumevanju, katere aplikacije uporabljajo knjižnice ADAL, vam priporočamo, da pregledate vse izvorne kode programov in po potrebi poiščete morebitne ISVs ali ponudnike programov. Microsoftova podpora vam omogoča tudi seznam vseh programov, ki niso Microsoftovi za knjižnice ADAL, v najemniku.
+1. [Preberite pogosta vprašanja o storitvi ADAL.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. [Preberite več o selitvi aplikacij na osnovi platforme.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. Če potrebujete pomoč pri razumevanju, katero od aplikacij uporabljate ADAL, vam priporočamo, da pregledate izvorno kodo vseh aplikacij in se, če je na voljo, preglejte morebitne ponudnike internetnih storitev ali ponudnike aplikacij. Microsoftova podpora vam lahko posreduje seznam vseh aplikacij ADAL v vašem najemniku, ki jih ne zagotavlja Microsoft.
 
-**Selitev diagrama ZVOČNIh grafikonov**
+**Selitev zmogljivosti AAD Graph**
 
-Za programe, ki uporabljajo grafiko Azure AD Graph, upoštevajte navodila za selitev [programov AZURE ad Graph v Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true).
+Za aplikacije, ki uporabljajo Azure AD Graph, upoštevajte naša navodila za selitev [aplikacij Azure AD Graph v Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true).
 
-1. [Naš kontrolni seznam selitve zagotavlja uvodno mesto](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-1. V portalu za registracijo aplikacije Azure so prikazani programi, ki uporabljajo ZVOČNI diagram. Priporočamo vam, da pregledate vse izvorne kode programov in po potrebi poiščete vse ponudnike ISVs ali aplikacije. Microsoftova podpora vam omogoča tudi seznam vseh uporab ZVOČNIh grafikonov v najemniku.
-1. Če želite za program dostopati do podatkov v programu Microsoft Graph, ga mora uporabnik ali skrbnik dodeliti pravilnim dovoljenjem prek postopka soglasja. [Sklici na dovoljenja za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) navajajo dovoljenja, povezana z vsakim glavnim naborom API-jev Microsoft Graph. Na voljo so tudi navodila za uporabo dovoljenj.
+1. [Kontrolni seznam za selitev vključuje točko za začetek izvajanja postopka](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+1. Na portalu za registracijo aplikacije Azure so prikazane aplikacije, ki uporabljajo AAD Graph. Priporočamo, da pregledate izvorno kodo vseh aplikacij ter po potrebi stopite v stik z morebitnimi neodvisnimi razvijalci programske opreme ali ponudniki aplikacij. Microsoftova podpora vam lahko zagotovi tudi seznam vseh AAD-Graph uporabe v vašem najemniku.
+1. Če želite, da vaša aplikacija dostopa do podatkov v Graph Microsoft Graph, ji mora uporabnik ali skrbnik prek postopka podelitve soglasja podeliti ustrezna dovoljenja. V [sklicu Graph Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) navedeni dovoljenji, ki so povezana z vsakim glavnim naborom API-jev Graph Microsoft Graph. V njem so na voljo tudi navodila za uporabo dovoljenj.

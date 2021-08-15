@@ -1,5 +1,5 @@
 ---
-title: Težave z razvojem programov
+title: Težave pri razvoju aplikacij
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,49 +13,49 @@ ms.collection: Adm_O365
 ms.custom:
 - "7754"
 - "9004342"
-ms.openlocfilehash: 652fd6431201380e8e96619f63ecac15a6704d4f
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: 065ff6d965063e44c4d1771821985058c9d020fbbabb0d381f30b6a11132c4ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974767"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013440"
 ---
-# <a name="issues-developing-applications"></a>Težave z razvojem programov
+# <a name="issues-developing-applications"></a>Težave pri razvoju aplikacij
 
-Če želite odpraviti najpogostejše težave pri gradnji programov Azure Active Directory (AD), si oglejte te članke:
+Če želite odpraviti najpogostejše težave pri Azure Active Directory aplikacij (AD), glejte te članke:
 
-- [Vidim težave pri vpisu v program le z brskalnikom Chrome](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
-- [Ne vem, kako naj spremenim privzete nastavitve žetona za moj program](https://docs.microsoft.com/azure/active-directory/develop/registration-config-change-token-lifetime-how-to) 
-- [Sem zbegan o tem, kako deluje soglasje aplikacije](https://docs.microsoft.com/azure/active-directory/application-dev-consent-framework) 
-- [Ne vem, kako dodeliti dovoljenja za moj program](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
-- [Ne razumem razlike med delegiranimi in dovoljenji za uporabo](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
+- [Vidim težave z vpisom v aplikacije le z brskalnikom Chrome](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
+- [Ne vem, kako spremenim privzete življenjske dobe žetona za svojo aplikacijo](https://docs.microsoft.com/azure/active-directory/develop/registration-config-change-token-lifetime-how-to) 
+- [Ne vem, kako deluje soglasje za aplikacijo](https://docs.microsoft.com/azure/active-directory/application-dev-consent-framework) 
+- [Ne vem, kako dodelim dovoljenja za aplikacijo](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent) 
+- [Ne razumem razlike med pooblaščenimi dovoljenji in dovoljenji za aplikacijo](https://docs.microsoft.com/azure/active-directory/develop/delegated-and-app-perms)
 
-***Konec podpore za knjižnico za preverjanje pristnosti v storitvi Azure Active Directory (knjižnice adal) in AZURE ad GRAPH API (zvočni grafikon)** _
+***Konec podpore za knjižnico za preverjanje Azure Active Directory pristnosti (ADAL) in Azure AD Graph API (AAD Graph)***
 
-- Z začetkom junija 30th 2020 ne bomo več dodali nobenih novih funkcij v knjižnico za preverjanje pristnosti v storitvi Azure Active Directory (knjižnice ADAL) in Azure AD Graph API (ZVOČNI grafikon). Še naprej bomo zagotavljali tehnično podporo in varnostne posodobitve, vendar ne boste mogli več posredovati posodobitev funkcij.
+- Od 30. junija 2020 ne dodajamo več novih funkcij v knjižnico Azure Active Directory Authentication Library (ADAL) in vmesnik API za Azure AD Graph (AAD Graph). Še naprej nudimo tehnično podporo in varnostne posodobitve, ne zagotavljamo pa več posodobitev funkcij.
 
-- Z začetkom junija 30th 2022 bomo zaključili podporo za knjižnice ADAL in ZVOČNI diagram ter ne bodo več zagotavljali tehnične podpore ali varnostnih posodobitev. Zaradi tega pogoja so te posledice:
+- 30. junija 2022 se je končala podpora za ADAL in AAD Graph, prav tako ni več na voljo tehnična podpora in varnostne posodobitve. Posledično so posledice za to stanje:
 
-    - Programi, ki uporabljajo knjižnice ADAL v obstoječih različicah sistema OS, bodo po tem času še naprej delovali, vendar ne bodo prejeli nobene tehnične podpore ali varnostnih posodobitev.
+    - Aplikacije, ki uporabljajo ADAL v obstoječih različicah operacijskega sistema, bodo po tem obdobju še naprej delovale, vendar zanje ne bo več mogoče pridobiti tehnične podpore ali varnostnih posodobitev.
 
-    - Programi, ki uporabljajo ZVOČNI diagram, po tem času morda ne bodo več prejemali odgovorov iz končne točke v grafu ZVOČNIka
+    - Aplikacije, ki uporabljajo AAD Graph, po tem času morda ne bodo več prejemali odgovorov iz končne Graph AAD
 
-_ *Knjižnice adal selitev**
+**Selitev ADAL**
 
-Če uporabljate Microsoft apps, priporočamo, da posodobite Microsoftovo knjižnico za preverjanje pristnosti (MSAL), ki ima najnovejše funkcije in varnostne posodobitve. To priporočilo je v kontekstu Microsoft, ki uvaja postopek selitve svojih programov v MSAL z rokom konca podpore. 
+Če uporabljate Microsoftove aplikacije, priporočamo nadgradnjo na Microsoftovo knjižnico preverjanja pristnosti (MSAL), ki ima najnovejše funkcije in varnostne posodobitve. To priporočilo je v kontekstu, ko Microsoft odlaša postopek selitve aplikacij v MSAL do roka za končanje podpore. 
 
-Selitev Microsoft svojih aplikacij v MSAL zagotavlja, da bodo aplikacije izkoristile prednosti sprotne varnosti in izboljšav funkcij MSAL.
+Microsoft lahko selitev njegovih aplikacij v storitev MSAL zagotovi, da imajo aplikacije prednosti zaradi trenutnih izboljšav varnosti in funkcij storitve MSAL.
 
-1. [Preberite pogosta vprašanja o knjižnice ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-2. [Preberite več o tem, kako preseliti aplikacije na osnovi na platformi](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
-3. Če potrebujete pomoč pri razumevanju, katere aplikacije uporabljajo knjižnice ADAL, priporočamo, da pregledate vse izvorne kode programov in po potrebi poiščete morebitne neodvisne prodajalce programske opreme (ISVs) ali ponudnike programov. Microsoftova podpora vam omogoča tudi seznam vseh programov, ki niso Microsoftovi za knjižnice ADAL, v najemniku.
+1. [Preberite pogosta vprašanja o knjižnici ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+2. [Več informacij o selitvi aplikacij glede na platformo](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq) 
+3. Če potrebujete pomoč pri razumevanju, katero od aplikacij uporabljate ADAL, priporočamo, da pregledate izvorno kodo aplikacije in, če je na voljo, se obrnite na neodvisne ponudnike programske opreme (ISVs) ali ponudnike aplikacij. Microsoftova podpora vam lahko posreduje seznam vseh aplikacij ADAL v vašem najemniku, ki jih ne zagotavlja Microsoft.
 
-**Selitev diagrama ZVOČNIh grafikonov**
+**Selitev zmogljivosti AAD Graph**
 
-Za programe, ki uporabljajo ZVOČNI graf, upoštevajte naše napotke za selitev programov ZVOČNIh grafikonov v Microsoft Graph:
+Za aplikacije, ki uporabljajo AAD Graph, upoštevajte naša navodila za selitev aplikacije AAD Graph v Microsoft Graph:
 
-1. [Naš kontrolni seznam selitve zagotavlja uvodno mesto](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-2. V portalu za registracijo aplikacije Azure so prikazani programi, ki uporabljajo ZVOČNI diagram. Priporočamo vam, da pregledate vse izvorne kode programov in po potrebi poiščete morebitne neodvisne prodajalce programske opreme (ISVs) ali ponudnike programov. Microsoftova podpora vam omogoča tudi informacije o uporabi ZVOČNIh grafikonov v najemniku.
+1. [Kontrolni seznam za selitev vključuje točko za začetek izvajanja postopka](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+2. Na portalu za registracijo aplikacije Azure so prikazane aplikacije, ki uporabljajo AAD Graph. Priporočamo, da pregledate vso izvorno kodo aplikacije in, če je na voljo, se obrnite na neodvisne ponudnike programske opreme (ISVs) ali ponudnike aplikacij. Microsoftova podpora vam lahko zagotovi tudi informacije o uporabi storitve AAD Graph v vašem najemniku.
 
 
 

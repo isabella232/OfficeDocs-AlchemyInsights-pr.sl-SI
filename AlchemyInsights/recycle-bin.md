@@ -12,24 +12,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 6cfb01fbe117fe3c1d3c3bddbec9f5a8188066ae
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 1a4843f43e1f5a261b06a0beca1231380a25c302605a2a82ef7143791f2964e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50709230"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991674"
 ---
-# <a name="restore-items-in-sharepoint-online"></a>Obnavljanje elementov v SharePoint Onlineu
+# <a name="restore-items-in-sharepoint-online"></a>Obnovitev elementov v SharePoint Online
 
-Ko izbrišete elemente v storitvi SharePoint online, so ohranjene za skupno 93 dni. Ves čas ostanejo v košu mesta, razen če ga ne izpraznite ali izbrišete elementov iz njega. V tem primeru se elementi pomikajo v koš zbirke mest, kjer ostanejo za preostanek 93 dni. Ob koncu časa so elementi trajno izbrisani. Če želite obnoviti izbrisane elemente iz koša mesta:
+Ko izbrišete elemente v SharePoint Online, so ohranjeni skupaj 93 dni. Ves čas ostanejo v košu spletnega mesta, razen če ga izpraznite ali izbrišete elemente iz koša. V tem primeru gredo elementi v koš zbirke mest, kjer ostanejo preostali čas od 93 dni. Na koncu so elementi trajno izbrisani. Obnovitev izbrisanih elementov iz koša spletnega mesta:
   
-1. Pojdite na mesto in v levem podoknu kliknite **koš** . 
+1. Pojdite na spletno mesto in v **levem podoknu** kliknite Koš. 
     
-    Če v levem podoknu ne vidite **koša** , kliknite ikono nastavitve v zgornjem desnem kotu in nato kliknite **Vsebina mesta**. Koš je na skrajni desni strani ukazne vrstice na vrhu.
+    Če koša ne vidite **v levem** podoknu, kliknite ikono Nastavitve v zgornjem desnem kotu, nato pa kliknite **Vsebina mesta.** Koš je na desni strani ukazne vrstice na vrhu.
     
-2. Na strani **koš** izberite elemente, ki jih želite obnoviti, tako da pokažete nanje in kliknete ikono kljukice, ki se prikaže. 
+2. Na strani **Koš izberite** elemente, ki jih želite obnoviti, tako da pokažite na njih in kliknete ikono potrditvene oznake, ki se prikaže. 
     
-3. Kliknite **Obnovi**.
+3. Kliknite **Obnovi.**
     
 [Obnovitev izbrisanih elementov iz koša zbirke mest](https://support.microsoft.com/office/restore-items-in-the-recycle-bin-that-were-deleted-from-sharepoint-or-teams-6df466b6-55f2-4898-8d6e-c0dff851a0be)
   

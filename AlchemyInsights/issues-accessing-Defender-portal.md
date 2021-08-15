@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6029"
 - "9001222"
-ms.openlocfilehash: a00096dd85e7b1ff87ea10dd8c69c8c27c02c07a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: e0ba1d1650d6656f79b74f975a8cc6429fe6d4f1b42edea1a6a02b574d2af057
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50714400"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013584"
 ---
 # <a name="issues-accessing-the-microsoft-defender-atp-portal"></a>Težave z dostopom do portala Microsoft Defender ATP
 
-Če prejmete sporočilo» vaša naročnina je potekla «, je vaša naročnina na spletno storitev potekla. V naročnini za Microsoft Defender, kot je na primer druga naročnina na spletne storitve, je datum poteka.
+Če prejmete sporočilo »Vaša naročnina je potekla«, je vaša naročnina na spletne storitve potekla. Naročnina na Microsoft Defender ATP, podobno kot druge naročnine na spletne storitve, ima datum poteka.
 
-Sporočilo» vaša naročnina je potekla «predstavlja možnost, da prenesete napravo off-table, če se odločite, da ne boste podaljšali licence.
+Sporočilo »Vaša naročnina je potekla« vsebuje možnost za prenos paketa za prenos naprave, če ne želite podaljšati licence.

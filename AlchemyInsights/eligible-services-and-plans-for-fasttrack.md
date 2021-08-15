@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003885"
 - "6938"
-ms.openlocfilehash: bb91628ac9df19cbaf17f53c3c5db13b9b592ffb
-ms.sourcegitcommit: 3e16fd8b7704bd44e07be90816a350bad21bcb1d
+ms.openlocfilehash: f8450e443cd89e4b8c17d888b4c15e4c81c0b20009368a59adf0cd38f110c1f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194636"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030252"
 ---
 # <a name="eligible-services-and-plans-for-fasttrack"></a>Upravičene storitve in paketi za FastTrack
 
-V storitvi FastTrack center za Office 365 lahko na daljavo delate z FastTrack specialisti – brez dodatnih stroškov – če želite, da bo vaš Office 365 okolju pripravljen za uporabo. FastTrack specialisti vam lahko pomagajo, ko kupite vsaj 150 licenc.
+S prednostjo središča FastTrack za Office 365 lahko delate na daljavo s strokovnjaki za FastTrack (brez dodatnih stroškov), da pripravite Office 365 okolje za uporabo. Ko kupite vsaj 150 licenc, vam lahko pomagajo strokovnjaki za FastTrack.
 
-Če želite poiskati pomoč prek portala FastTrack, se vpišite v [portal FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) in upoštevajte navodila za dokončanje **zahteve za pomoč v obliki Microsoft 365** .
+Če želite pomoč prek portala FastTrack, se vpišite v [portal FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) in upoštevajte navodila za dokončanje zahteve za pomoč **Microsoft 365** obrazcu.
 
 > [!NOTE]
-> Če imate težave z vpisom ali potrebujete dodatno pomoč, pošljite e-poštno sporočilo v [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
+> Če imate težave z vpisom ali potrebujete dodatno pomoč, pošljite e-poštno sporočilo [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
 
-Obstajajo različni FastTrack načrti za različne panoge, od podjetij do izobraževalnih ustanov.
+Za različne panoge so upravičeni različni paketi FastTrack, od poslovnih podjetij do izobraževalnih ustanov.
 
-Če želite izvedeti več, glejte [upravičeni paketi programa Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2125459).
+Če želite izvedeti več, glejte [Upravičeni Microsoft 365 paketi.](https://go.microsoft.com/fwlink/?linkid=2125459)
 
-V storitvi Exchange Online za Microsoft Teams, Microsoft 365 in Windows 10 je na voljo izbor upravičenih storitev.
+Na voljo je izbor upravičenih storitev, od Exchange Online do Microsoft Teams, Microsoft 365 in Windows 10.
 
-Za celoten seznam upravičenih storitev si oglejte [upravičene storitve](https://go.microsoft.com/fwlink/?linkid=2125636).
+Za celoten seznam upravičenih storitev glejte Upravičene [storitve.](https://go.microsoft.com/fwlink/?linkid=2125636)
