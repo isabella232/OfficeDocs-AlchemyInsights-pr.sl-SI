@@ -1,5 +1,5 @@
 ---
-title: Odpiranje dokumenta samo za branje
+title: Document opening in read-only
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,25 +15,25 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
-ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
-ms.translationtype: HT
+ms.openlocfilehash: f286aff794325b82679e59cd152189dc65b23e4d3c06b0b3da65851cd767bbaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49528998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030377"
 ---
-# <a name="documents-opening-in-read-only"></a>Odpiranje dokumentov samo za branje
+# <a name="documents-opening-in-read-only"></a>Dokumente, ki se odpirajo samo za branje
 
-Datoteke, ki jih odpirate, so lahko samo za branje. V nekaterih primerih je ta pogoj dodatna varnost, na primer pri odpiranju datotek iz interneta, drugič pa je to lahko posledica nastavitve, ki jo je mogoče spremeniti.
+Morda boste ugotovili, da so datoteke, ki jih odpirate, samo za branje. V nekaterih primerih ta pogoj služi kot dodana varnost, na primer ko odpirate datoteke iz interneta, včasih pa je ta pogoj lahko posledica nastavitve, ki jo je mogoče spremeniti.
 
-- [Datoteke SharePoint se odprejo samo za branje](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [SharePoint datotek, odprtih samo za branje](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
 
-Če stranka meni, da navedeni vzroki, kot je mehanizem za izboljšanje varnosti ali nespremenjena nastavitev, niso eden od scenarijev stranske zasnove, opisanih v [datotekah SharePoint, odprtih samo za branje](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out), so tu druge pogoste rešitve za dokumente, ki se odpirajo v načinu samo za branje.
+Če stranka meni, da navedeni vzroki, kot je mehanizem za izboljšanje varnosti ali nespremenjena nastavitev, ni eden od scenarijev glede na načrt, ki so opisani v datotekah [SharePoint,](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)odprtih samo za branje, so tukaj druge pogoste rešitve za dokumente, ki se odpirajo v načinu samo za branje.
 
-- Vnovič zaženite računalnik.
-- Namestite Officeove posodobitve.
+- Znova zaženite računalnik.
+- Namestite Office posodobitve.
 - Preverite protivirusni program v računalniku.
-- Zagotovite, da je spletno mesto v območju Zaupanja vredna mesta v Internet Explorerju.
-- Izvedite popravilo Officea.
-- Popravite predpomnilnik [Microsoft Officeovih dokumentov](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
+- Prepričajte se, da je mesto v območju zaupanja vrednih mest v Internet Explorerju.
+- Popravilo Office.
+- Počistite [Office predpomnilnik dokumentov.](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us)
 

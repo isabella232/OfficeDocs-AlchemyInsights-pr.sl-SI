@@ -1,5 +1,5 @@
 ---
-title: Posodobite naslov, ki je bil prodan in računa, povezan z vašim postopkom MCA – priporočene korake
+title: Posodobitev naslova prodajo in računa, povezanega s storitvijo MCA – priporočeni koraki
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: 8cdd2c64a95e88eb2fb4624c6e2696f77b75e198
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679981"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001524"
 ---
-# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Posodobite naslov, ki je bil prodan in računa, povezan z vašim postopkom MCA – priporočene korake
+# <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Posodobitev naslova prodajo in računa, povezanega s storitvijo MCA – priporočeni koraki
 
-Posodobite lahko naslov» prodaja «in» račun «, ki je povezan z vašo Microsoftovo pogodbo za stranke (MCA). 
+Posodobite lahko naslov kupca in naslov za obračun, ki je povezan z Microsoftovo pogodbo za stranke (MCA). 
 
 > [!NOTE]
-> Podatke uporabniškega profila v storitvi Azure Active Directory lahko spreminja le skrbnik uporabnika. Če nimate dodeljene vloge skrbnika uporabnika, se obrnite na skrbnika uporabnika. Če želite več informacij o spreminjanju uporabniškega profila, si oglejte [Dodajanje ali posodobitev uporabniških podatkov profila v storitvi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal).
+> Informacije o uporabniškem profilu lahko spremeni le Azure Active Directory uporabniškega profila. Če vam ni dodeljena vloga skrbnika uporabnika, se obrnite na skrbnika uporabnika. Če želite več informacij o spreminjanju uporabniškega profila, glejte Dodajanje ali posodabljanje podatkov [uporabniškega profila z uporabo Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
-Naslov, ki ga je treba **prodati** – naslov za prodajo je naslov in podatki za stik organizacije ali posameznika, ki je odgovoren za račun obračunavanja. Prikazana je v vseh računih, ustvarjenih za račun obračunavanja.
+**Naslov kupca** – naslov kupca je naslov in podatki za stik organizacije ali posameznika, ki je odgovoren za račun za obračunavanje. Prikazana je na vseh računih, ustvarjenih za račun za obračunavanje.
 
-Naslov **računa** – naslov računa je naslov in podatki za stik organizacije ali posameznika, ki je odgovoren za račune, ustvarjene za račun obračunavanja. Za račun obračunavanja za MCA je na voljo naslov za račun za vsak profil obračunavanja, ki je prikazan na računu, ustvarjenem za profil obračunavanja.
+**Naslov plačnika** – naslov plačnika računa je naslov in podatki za stik organizacije ali posameznika, ki je odgovoren za račune, ustvarjene za račun za obračunavanje. Za račun za obračunavanje za MCA je naslov plačnika računa za vsak profil za obračunavanje, ki je prikazan na računu, ustvarjenem za profil za obračunavanje.
 
-**Če želite posodobiti naslov, ki ga je treba prodati za račun MCA**:
+**Če želite posodobiti naslov plačnika računa MCA:**
 
-1. Vpišite se v portal Azure z e-poštnim naslovom, ki ima lastnika ali vlogo sodelavca na računu za obračunavanje za MCA.
-1. Iskanje   +  **obračunavanja** stroškov.
-1. Kliknite  >  **prodana posodobitev** lastnosti.
+1. Vpišite se v portal Azure z e-poštnim naslovom, ki ima vlogo lastnika ali sodelavca v računu za obračunavanje za MCA.
+1. Poiščite **Obračunavanje upravljanja**  +  **stroškov.**
+1. Kliknite **Posodobitev**  >  **lastnosti, ki je bila prodana.**
+1. Vnesite nov naslov in kliknite **Shrani.**
+
+Nekateri računi zahtevajo dodatno preverjanje, preden je mogoče posodobiti naslov prodajo. Če vaš račun zahteva ročno odobritev, boste pozvani, da se obrnete na podporo za Azure.
+
+**Če želite posodobiti naslov računa za obračunavanje MCA:** 
+
+1. Vpišite se v portal Azure z e-poštnim naslovom, ki ima vlogo lastnika ali sodelavca v računu za obračunavanje ali profilu za obračunavanje za mca.
+1. Poiščite **Obračunavanje upravljanja**  +  **stroškov.**
+1. Kliknite **Profili za obračunavanje** in izberite izberite profil za obračunavanje, da posodobite naslov za obračunavanje.
+1. Kliknite **Posodobi naslov**  >  **lastnosti.**
 1. Vnesite nov naslov in kliknite **Shrani**.
-
-Nekateri računi zahtevajo dodatno preverjanje, preden se lahko posodobi naslov, ki ga je mogoče prodati. Če vaš račun zahteva ročno odobritev, boste pozvani, da se obrnete na podporo za Azure.
-
-**Če želite posodobiti naslov računa MCA za obračunavanje**: 
-
-1. Vpišite se v portal Azure z e-poštnim naslovom, ki ima lastnika ali vlogo sodelavca na računu obračunavanja ali profilu obračunavanja za MCA.
-1. Iskanje   +  **obračunavanja** stroškov.
-1. Kliknite **profili obračunavanja** in izberite profil obračunavanja, da posodobite naslov plačnika.
-1. Kliknite   >  **naslov posodobitve** lastnosti.
-1. Vnesite nov naslov in nato kliknite **Shrani**.
 
 **Priporočeni dokumenti**
 
-[Spreminjanje informacij za stik za račun za obračun Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
-[Posodobitev nastavitev računa obračunavanja](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
-[Razumevanje skrbniških vlog za Microsoftovo pogodbo s strankami v storitvi Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
+[Spreminjanje podatkov za stik za račun za obračunavanje azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-azure-account-profile)   
+[Posodobitev nastavitev računa za obračunavanje](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+[Razumevanje skrbniških vlog v Microsoftovi pogodbi za stranke v storitvi Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/understand-mca-roles)
