@@ -1,5 +1,5 @@
 ---
-title: Dostop zavrnjen med ogledovanjem poteka dela
+title: Dostop zavrnjen pri ogledu poteka dela
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,24 +9,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b076ec5dca070555ce51b88631fb6bd619ed9269e59ccc799b23b8b95547c16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688818"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955217"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>Dostop zavrnjen med ogledovanjem poteka dela
+# <a name="access-denied-when-viewing-a-workflow"></a>Dostop zavrnjen pri ogledu poteka dela
 
-Poteki dela programa SharePoint 2013, ki poskušajo poslati e-poštno sporočilo v SharePointovo skupino, ne morejo narediti sporočila o napaki» dostop zavrnjen «, če članstvo v SharePointovi skupini ni nastavljeno na» vsi «.
+SharePoint 2013 Poteki dela, ki poskušajo poslati e-poštno sporočilo skupini storitve SharePoint, lahko ne uspejo, pri tem pa se prikaže sporočilo o napaki »Dostop zavrnjen«, če članstvo v skupini SharePoint ni nastavljeno na Vsi.
   
- **Če želite odpraviti to težavo, naredite te korake:**
+ **Če želite odpraviti to težavo, naredite to:**
   
- 1. Dovolite vsem, da si ogledajo člane SharePointove skupine.
+ 1. Vsem dovolite, da vidijo člane SharePoint skupine.
   
- 2. Odstranite SharePointovo skupino iz vrstice» za «ali» Kp «v e-poštnem sporočilu.
+ 2. Odstranite skupino SharePoint iz vrstice Za ali Kp e-poštnega sporočila.
   
- 3. Eksplicitno Dodajanje uporabnikov v vrstico» za «ali» Kp «, če vidnost članstva ni mogoče spremeniti za SharePointovo skupino.
+ 3. Izrecno dodajte uporabnike v vrstico Za ali Kp, če vidljivosti članstva ni mogoče spremeniti za SharePoint skupine.
   
-Če si želite ogledati več podrobnosti, se obrnite na [http nepooblaščeno za/_vti_bin/Client.SVC/SP.utilities.Utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+Če si želite ogledati več podrobnosti, [glejte HTTP Nepooblaščen dostop do strežnika /_vti_bin/client.svc/sp.utilities.utility.SendEmail.](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)
   

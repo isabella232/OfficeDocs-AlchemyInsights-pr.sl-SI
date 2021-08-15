@@ -1,5 +1,5 @@
 ---
-title: Nastavitev DKIM s domenami po meri
+title: Nastavitev kontrolnika DKIM z domenami po meri
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: c448956f0dad0738f4de7507ec4686c738a90a55
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bb19f0672a21ea8b99c433ad83db4d89536c9a1705245fd2a683471170ab51ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747636"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994839"
 ---
-# <a name="set-up-dkim-with-custom-domains"></a>Nastavitev DKIM s domenami po meri
+# <a name="set-up-dkim-with-custom-domains"></a>Nastavitev kontrolnika DKIM z domenami po meri
 
-Za vsako domeno po meri v storitvi DNS morate objaviti dva zapisa CNAME. To naredite tako, da uporabite to obliko zapisa:
+Objaviti morate dva zapisa CNAME za vsako domeno po meri v sistemu DNS. To naredite tako:
 
 ```console
 Host name:            selector1._domainkey
@@ -34,6 +34,6 @@ Points to address or value:    selector2-<domainGUID>._domainkey.<initialDomain>
 TTL:                3600
 ```
 > [!NOTE]
-> **DomainGUID** je besedilo levo od **. mail.Protection.Outlook.com** v prilagojenem zapisu MX za domeno po meri (na primer contoso-com za domeno **contoso.com**). **InitialDomain** je domena, ki ste jo uporabili, ko ste se prijavili za Office 365 (na primer **contoso.onmicrosoft.com**).
+> **DomainGUID** je besedilo levo od **.mail.protection.outlook.com** v prilagojenem zapisu MX za domeno po meri (na primer contoso-com za domeno, **ki contoso.com**). **InitialDomain** je domena, ki ste jo uporabili, ko ste se prijavili Office 365 (na primer **contoso.onmicrosoft.com**).
 
-Če želite več informacij o zapisih DNS, si oglejte [Ustvarjanje zapisov DNS pri katerem koli ponudniku gostovanja DNS za Office 365](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+Če želite več informacij o zapisih DNS, glejte Ustvarjanje zapisov DNS pri poljubnih ponudnikih [gostovanja DNS za Office 365.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)

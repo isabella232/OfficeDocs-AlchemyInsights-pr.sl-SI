@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c6155eb09a4051b145cd1002c7be3a811e6e1224d88daf48dccbb4e059475081
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038200"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>Posodobitev podatkov o mojem profilu ali spreminjanje slike
 
-Trenutno ni mogoče urediti in posodobiti podatkov profila neposredno v Outlooku za iOS, vendar lahko te informacije uredite drugje. 
+Trenutno ni mogoče urejati in posodabljati podatkov profila neposredno v storitvi Outlook za iOS, vendar lahko te informacije uredite drugje. 
 
-Profil lahko posodobite v Outlooku za Windows ali Outlooku v spletu (OWA). 
+Svoj profil lahko posodobite v programu Outlook za Windows ali Outlook spletu (OWA). 
 
 **Outlook za Windows:** 
 
-- **Datoteka**  >  **Officeov račun**  >  **Informacije o uporabniku**  >  **O meni** (v spletu odprem profil storitve Microsoft  365) > posodobite profil ali kliknite ikono kamere, da spremenite svojo fotografijo  
+- **Datoteka**  >  **Office kupca**  >  **Informacije o uporabniku**  >  **O meni** (odpre se Microsoft 365 profil v spletu) > posodobite profil ali kliknete ikono kamere, da spremenite svojo fotografijo   
   
-**Outlook v spletu (OWA)**: 
+**Outlook spletu (OWA)**: 
 
 - **Slika profila**  >  **Moj profil**  >  **Posodobitev profila**

@@ -1,5 +1,5 @@
 ---
-title: Odblokiranje e-pošte
+title: Deblokiraj e-pošto
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100002"
 - "7525"
-ms.openlocfilehash: 7b765dfd503906f5bba0f2b824442e13a3252493
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 17f447a12013f5ace0e85b38d95937abcf9cc7d60afbeef8dddd1c3315eb3467
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994737"
 ---
-# <a name="unblock-email"></a>Odblokiranje e-pošte
+# <a name="unblock-email"></a>Deblokiraj e-pošto
 
-Če je e-poštni račun uporabnika blokiran za pošiljanje neželene pošte, lahko to naredite tako:
+Če je uporabnikov e-poštni račun blokiran za pošiljanje neželene pošte, to poskusite znova tako:
 
-1. *Takoj* ponastavite geslo za prizadeti račun. Ne pošiljaj novega gesla uporabniku prek e-pošte. S tem preprečite, da bi kdorkoli dostopal do njega in pošiljal neželeno pošto.
-2. Pojdite v središče za skladnost varnostnega & in preverite, ali je račun na [seznamu omejenih uporabnikov](https://protection.office.com/#/restrictedusers).
-3. Izberite ikono za **Iskanje** in vnesite uporabniško ime omejenega uporabnika. Če je na primer e-poštni naslov uporabnika *rob@contoso.com*, preprosto vnesite **rob**.
-4. Če je račun na voljo, izberite **Deblokiraj**. Sledite korakom v podoknu flyout in nato izberite **da** , da potrdite.  
+1. Takoj ponastavite geslo za račun, na katerega to *vpliva.* Novega gesla ne pošiljajte uporabniku prek e-pošte. To preprečuje vsem, da bi do njih dostopali in jim tako pošiljali neželeno pošto.
+2. Pojdite v Središče za & s predpisi in si oglejte, ali je račun na [seznamu Omejeni uporabniki.](https://protection.office.com/#/restrictedusers)
+3. Izberite ikono **za** iskanje in vnesite uporabniško ime omejenega uporabnika. Če je e-poštni naslov uporabnika na primer *rob@contoso.com*, preprosto vnesite **rob**.
+4. Če je račun tam, izberite **Deblokiraj**. Upoštevajte navodila v podoknu z letali, nato pa izberite **Da, da** potrdite.  
     > [!NOTE]
-    > Ko deblokirate, lahko račun začne pošiljati sporočila v 3-4 urah.
+    > Ko je pošiljanje odblokiran, bo račun lahko pošiljal sporočila v 3–4 urah.
