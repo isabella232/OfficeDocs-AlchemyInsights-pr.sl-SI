@@ -1,5 +1,5 @@
 ---
-title: Izvajanje iskanja in izvoza E-odkrivanje/vsebine
+title: Izvajanje e-odkrivanja/iskanja vsebine in izvoza
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: e76467c42ffb9583aff51a05ea8ceaadb265a8ac
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 7c2e9cab71f8db31808164570b98f49d89610a1114f0fe624b4e6295c2b5d86d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483329"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016644"
 ---
-# <a name="perform-an-ediscoverycontent-search-and-export"></a>Izvajanje iskanja in izvoza E-odkrivanje/vsebine
+# <a name="perform-an-ediscoverycontent-search-and-export"></a>Izvajanje e-odkrivanja/iskanja vsebine in izvoza
 
-Spodaj je, kako poiščete vsebino v organizaciji in jo izvozite:
+Vsebino v organizaciji poiščete in izvozite tako:
 
-1. Premaknite se v [središče za skladnost z varnostnimi &](https://go.microsoft.com/fwlink/?linkid=2086958) **in se pomaknite do iskanja**  >  **vsebine** iskanja  >  **+ novo iskanje**.
+1. Obiščite Središče za [varnost in & za](https://go.microsoft.com/fwlink/?linkid=2086958) skladnost s predpisi in poiščite **Iskanje**  >  **vsebine +** novo  >  **iskanje**.
 1. Vnesite ključne besede in pogoje, ki jih želite poiskati.
-1. Na dnu strani določite lokacije, ki jih želite poiskati (na primer e-pošto, sporočila za ekipe, SharePointova mesta), ali pa kliknite **vsa mesta**.
-1. Kliknite **shrani & Zaženi**. Poimenujte iskalno poizvedbo in nato kliknite **Shrani**. Poizvedba se bo zagnala in vam prikazala rezultate.
+1. Na dnu strani določite mesta za iskanje (na primer e-pošta, Teams sporočila, spletna mesta SharePoint) ali kliknite **Vsa mesta.**
+1. Kliknite **Shrani & zaženi.** Poimenovati iskalno poizvedbo in nato kliknite **Shrani**. Poizvedba se zažene in prikaže rezultate.
 
-Če želite izvedeti, kako izvoziti rezultate iskanja, si oglejte [izvoz rezultatov iskanja po vsebini](https://go.microsoft.com/fwlink/?linkid=2102118).
+Če želite izvedeti, kako izvozite rezultate iskanja, glejte [Izvoz rezultatov iskanja po vsebini.](https://go.microsoft.com/fwlink/?linkid=2102118)
 

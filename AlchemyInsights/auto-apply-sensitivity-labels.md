@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707250"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969322"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>Samodejno uporabi oznake občutljivosti
 
-Oznake občutljivosti lahko ročno uporabite za vsebino uporabnikov, lahko pa jih konfigurirate tako, da jih samodejno uporabite za vsebino.
+Oznake občutljivosti lahko uporabniki ročno uporabijo za vsebino ali pa jih konfigurirate tako, da so samodejno uporabljene za vsebino.
 
-Samodejno uporaba oznak občutljivosti odstrani potrebe po usposabljanju uporabnikov o tem, kako razvrstiti vsebino in potrebo po obveščanju o konfiguraciji pravilnika.
+Samodejna uporaba oznak občutljivosti odstrani potrebo po usposabljanje uporabnikov o razvrščanju vsebine in o tem, da jih morate obvestiti o konfiguracijah pravilnikov.
 
-Če želite samodejno uporabiti nalepke, potrebujete to:
+Če želite, da se oznake uporabijo samodejno, morate:
 
 - Naročnina na Azure Information Protection P2
-- [Prenos in namestitev enotnega odjemalca za označevanje informacij o varstvu podatkov Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [Prenos in namestitev odjemalca za poenoteno označevanje za Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-Ukvarjamo se z izvorno podporo, ki v prihodnje ne bo zahtevala, da je odjemalec za označevanje informacij v storitvi Azure.
+Delamo na izvorni podpori, ki v prihodnje ne bo zahtevala odjemalca za poenoteno označevanje Azure Information Protection.
 
-Trenutno le Windows podpira odjemalca s poenotenim označevanjem.  Funkcija še ni podprta v računalnikih Mac, iOS in Android.
+Trenutno le Windows podpira odjemalca za poenoteno označevanje.  Funkcija še ni podprta v računalnikih Mac, sistemih iOS in Android.
 
-Če želite več informacij o oznakah občutljivosti in uporabi samodejno za vsebino, glejte:
+Če želite več informacij o oznakah občutljivosti in samodejni uporabi teh oznak v vsebini, glejte:
 
 - [Pregled oznak občutljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [Samodejno uporabo oznake občutljivosti za vsebino](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
+- [Samodejno uporabi oznako občutljivosti za vsebino](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)

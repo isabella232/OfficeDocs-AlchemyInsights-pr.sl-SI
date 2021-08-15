@@ -12,74 +12,74 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004330"
 - "7723"
-ms.openlocfilehash: e463e8181123277f3509c0b0bb6f871a1a09bed1
-ms.sourcegitcommit: c3574f574afe5a40a6ea2c6e399c58977d18bb73
+ms.openlocfilehash: 975d4850c1ecffae786dd19b7f4363e0c95378cff4f3ae6bb1968af33ef810b0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "50063688"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986835"
 ---
 # <a name="issues-with-credentials"></a>Težave s poverilnicami
 
-[Platforma Microsoft Identity in s tokom poverilnic odjemalca oauth 2,0 je](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) opisano, kako program neposredno v primerjavi s podelitvijo poverilnic odjemalca OAuth 2,0.
+Microsoftova platforma za identitete in tok poverilnic [odjemalca OAuth 2.0](https://docs.microsoft.com/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow) opisuje, kako program neposredno v odjemalcu poverilnice OAuth 2.0 odobrijo tok.
 
-**Kako upravljam geslo ali poverilnice potrdila programa?**
+**Kako upravljam geslo programa ali poverilnice za potrdilo?**
 
-V storitvi Azure CLI lahko uporabite [poverilnico programa AZ ad app](https://docs.microsoft.com/cli/azure/ad/app/credential) , če želite izbrisati, zapisati seznam ali ponastaviti geslo za program ali poverilnice potrdila.
+V storitvi Azure CLI lahko s poverilnicami za aplikacije [az ad izbrišete,](https://docs.microsoft.com/cli/azure/ad/app/credential) seznam ali ponastavite geslo aplikacije ali poverilnice za potrdilo.
 
-**Kako moji uporabniki ponastavijo gesla?**
+**Kako uporabniki ponastavijo svoja gesla?**
 
-Uporabniki se morajo [registrirati za samopostrežno ponastavitev gesla](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-reset-register) , preden lahko ponastavijo gesla. Ko je uporabnik registriran, lahko v tem članku upoštevajo navodila za ponastavitev gesla: [ponastavitev službenega ali šolskega gesla](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-reset-or-unlock-your-password-for-a-work-or-school-account).
+Uporabniki se morajo [registrirati za samopostrežno ponastavitev gesla,](https://docs.microsoft.com/azure/active-directory/user-help/active-directory-passwords-reset-register) preden lahko ponastavijo svoja gesla. Ko uporabnik registrira, lahko upošteva navodila v tem članku, da ponastavi svoje geslo: [Ponastavi vaše službeno ali šolsko geslo.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-reset-or-unlock-your-password-for-a-work-or-school-account)
 
-**Kako moji uporabniki spreminjajo svoja gesla?**
+**Kako moji uporabniki spremenijo svoja gesla?**
 
-Uporabniki lahko upoštevajo korake v tem članku, da spremenijo svoja gesla: [Kako spremeniti geslo](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-change-your-password).
-Prav tako lahko [upravljajo gesla za program za preverjanje v dveh korakih](https://docs.microsoft.com/azure/active-directory/user-help/multi-factor-authentication-end-user-app-passwords).
+Uporabniki lahko sledijo korakom v tem članku, če želite spremeniti svoja gesla: [Kako spremeniti geslo.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#how-to-change-your-password)
+Prav tako lahko [upravljajo gesla za aplikacije za preverjanje v dveh korakih.](https://docs.microsoft.com/azure/active-directory/user-help/multi-factor-authentication-end-user-app-passwords)
 
-**Moj uporabnik dobi napako pri spreminjanju ali ponastavitvi gesla**
+**Moj uporabnik pri spreminjanju ali ponastavitvi gesla je dobival napako**
 
-S to povezavo boste našli informacije o pogostih težavah, ki se lahko pojavijo, ko uporabnik poskuša ponastaviti svoje geslo: [pogoste težave in njihove rešitve](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#common-problems-and-their-solutions)
+Prek te povezave so navedene informacije o pogostih težavah, do katerih lahko pride, ko uporabnik poskuša ponastaviti svoje geslo: pogoste težave in [njihove rešitve](https://docs.microsoft.com/azure/active-directory/user-help/user-help-reset-password#common-problems-and-their-solutions)
 
 **Imam težavo s ponastavitvijo uporabniškega gesla**
 
-- Preverite, ali imate dovoljenje za ponastavitev gesel. *Gesla uporabnika lahko ponastavijo le globalni, geslo in skrbniki uporabnika.* Globalni skrbniki lahko ponastavijo tudi gesla drugih privilegiranih skrbnikov.
+- Prepričajte se, da ste pooblaščeni za ponastavitev gesel. *Uporabniška gesla lahko ponastavijo le globalni skrbniki, skrbniki gesel in skrbniki uporabnikov.* Globalni skrbniki lahko ponastavijo tudi gesla drugih skrbnikov s pravicami.
 
 - Prepričajte se, da razumete zahteve za licenciranje:
 
-  - Imeti morate vsaj eno licenco, ki je dodeljena v organizaciji:
-    - **Samo uporabniki v oblaku** – vsak Office 365 (O365) plačan sku ali Azure ad Basic
-    - **Uporabniki v oblaku in/ali na mestu uporabe** – Azure ad Premium P1 ali P2, Enterprise Mobility + Security (EMS) ali Secure produktivno podjetje (SPE)
-    - Če želite izvedeti več o zahtevah za licenciranje, glejte [zahteve za licenciranje za samopostrežno ponastavitev gesla za storitev AZURE ad](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing).
-- Če želite ponastaviti geslo uporabnika, poiščite uporabnika v storitvi Azure AD. Nato na rezilu pregled za tega uporabnika kliknite gumb» Ponastavi geslo «.
+  - V organizaciji morate imeti dodeljeno vsaj eno licenco:
+    - **Samo uporabniki v oblaku** – Office 365 inventarna številka (O365) ali Azure AD Basic
+    - **Uporabniki v oblaku in/ali** uporabniki na mestu uporabe – Azure AD Premium P1 ali P2, Enterprise Mobility + Security (EMS) ali Secure Productive Enterprise (SPE)
+    - Če želite izvedeti več o zahtevah licenciranja, glejte [Licenčne zahteve za samopostrežno ponastavitev](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-licensing)gesla za Azure AD.
+- Če želite ponastaviti geslo uporabnika, ga poiščite v imeniku Azure AD. Nato na retivu pregleda za tega uporabnika kliknite gumb »Ponastavi geslo«.
 
 **Gumb za ponastavitev gesla je zatemnjen**
 
-Nimate dovoljenja za ponastavitev gesel **tega** uporabnika. *Gesla uporabnika lahko ponastavijo le globalni, geslo in skrbniki uporabnika.* Globalni skrbniki lahko ponastavijo tudi gesla drugih privilegiranih skrbnikov.
+Niste pooblaščeni za **ponastavitev gesel** tega uporabnika. *Uporabniška gesla lahko ponastavijo le globalni skrbniki, skrbniki gesel in skrbniki uporabnikov.* Globalni skrbniki lahko ponastavijo tudi gesla drugih skrbnikov s pravicami.
 
-**Rezilo za ponastavitev gesla ne vidim**
+**Ne vidim re bladea za ponastavitev gesla**
 
-Nimate dovoljenja za ponastavitev gesel. *Gesla uporabnika lahko ponastavijo le globalni, geslo in skrbniki uporabnika.* Globalni skrbniki lahko ponastavijo tudi gesla drugih privilegiranih skrbnikov.
+Niste pooblaščeni za ponastavitev gesel. *Uporabniška gesla lahko ponastavijo le globalni skrbniki, skrbniki gesel in skrbniki uporabnikov.* Globalni skrbniki lahko ponastavijo tudi gesla drugih skrbnikov s pravicami.
 
-**V ponastavitev gesla ne vidim rezila za integracijo na mestu uporabe**
+**V ponastavitev gesla ne vidim re blade integracije na mestu uporabe**
 
-- Rezilo integracije na mestu uporabe je prikazano le v hibridnih okoljih, kar pomeni, da uporabljate geslo nepotrjenim za manipuliranje uporabnikovih gesel na mestu uporabe.
+- Re blade integracije na mestu uporabe se pojavi le v hibridnih okoljih – kar pomeni, da s pisanjem gesla upravljate gesla uporabnikov na mestu uporabe.
 
-- Tega rezila ne vidite, če:
+- Tega re blade ne vidite, če:
 
-  - Ne uporabljate gesla nepotrjenim
-  - Prišlo je do težave z namestitvijo/povezljivostjo gesla nepotrjenim
-  - Prišlo je do težave z namestitvijo/povezljivostjo storitve Azure AD Connect
-  - Če želite več korakov za odpravljanje težav z geslom nepotrjenim, glejte [Odpravljanje težav z geslom nepotrjenim](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
+  - Ne uporabljate povratnega gesla
+  - Prišlo je do težave z namestitvijo/povezljivostjo povratnega pisanja gesla
+  - Prišlo je do težave z namestitvijo/povezljivostjo storitve Azure AD Povezovalnik
+  - Če želite več korakov za odpravljanje težav s pisanjem gesla, glejte [Odpravljanje težav s pisanjem gesla](https://docs.microsoft.com/azure/active-directory/authentication/troubleshoot-sspr-writeback)
 
-**Ne vem, kako ponastavim geslo uporabnika**
+**Ne vem, kako ponastaviti uporabnikovo geslo**
 
 1. Vpišite se v portal Azure kot ustrezen skrbnik.
-2. Pojdite na rezilo **uporabnikov in skupin** , izberite **vsi uporabniki**.
-3. Izberite uporabnika s seznama.
-4. Za izbranega uporabnika izberite **pregled** in nato v ukazni vrstici izberite **Ponastavi geslo**.
-5. Izberite gumb za **ponastavitev gesla** in sledite navodilom na zaslonu.
-    - Le ponastavi, izvedeno prek nepotrjenim gesla za podporo **portala Azure** .
+2. Pojdite na re blade **Uporabniki in skupine,** izberite **Vsi uporabniki.**
+3. Na seznamu izberite uporabnika.
+4. Za izbranega uporabnika izberite **Pregled** in nato v ukazni vrstici izberite **Ponastavi geslo**.
+5. Izberite gumb **Ponastavi geslo** in sledite navodilom na zaslonu.
+    - Ponastavite le ponastavitve, ki jih **izvedete prek portala Azure,** in povratne informacije o geslih, ki jih podpira portal Azure.
 
-**Z geslom uporabnika na mestu uporabe v skrbniškem portalu za Office 365 ali v mobilnem programu Office 365 se uporabnik še vedno ne more vpisati**
+**Ponastavim geslo uporabnika na mestu uporabe iz portala za Office 365 Admin ali mobilnega programa Office 365, vendar se uporabnik še vedno ne more vpisati**
 
-V tem portalu ni podprt Nepotrjenim za gesla. Znova ponastavite geslo uporabnika v portalu Azure.
+Na tem portalu ni mogoče pisati gesla za pisanje gesla. Znova ponastavite geslo uporabnika na portalu Azure.

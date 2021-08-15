@@ -1,5 +1,5 @@
 ---
-title: Naučite se jezika za ustvarjanje naprednih lovskih poizvedb
+title: Spoznajte jezik za ustvarjanje naprednih poizvedb za tabele
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 68d6ffecc8540622795107ec00fe659f210ce3f1
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 40199ff5e880fa179a0ccd43e70e19c6c0347d56e7f2cbaca1b739dae2aede3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016788"
 ---
-# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Naučite se jezika za ustvarjanje naprednih lovskih poizvedb
+# <a name="learn-the-language-for-creating-advanced-hunting-queries"></a>Spoznajte jezik za ustvarjanje naprednih poizvedb za tabele
 
-Napredni lov temelji na [jeziku poizvedbe v Kusto](https://go.microsoft.com/fwlink/?linkid=2144620). S sintakso Kusto in operatorji lahko ustvarite poizvedbe, ki poiščejo informacije v [shemi](https://go.microsoft.com/fwlink/?linkid=2144621) , posebej strukturirane za napredno lov.
+Napredno združevanje temelji na jeziku [poizvedbe »Kusto«.](https://go.microsoft.com/fwlink/?linkid=2144620) S sintakso in operatorji Kusto lahko zgradite poizvedbe, ki poiščejo informacije v [shemi,](https://go.microsoft.com/fwlink/?linkid=2144621) zasnovane posebej za napredno iskanje.
 
-Če želite izvedeti več, glejte [učenje jezika za napredno iskanje](https://go.microsoft.com/fwlink/?linkid=2144518).
+Če želite izvedeti več, glejte [Naučite se dodatnega jezika poizvedbe za iskanje.](https://go.microsoft.com/fwlink/?linkid=2144518)
