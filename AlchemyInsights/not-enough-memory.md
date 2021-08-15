@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "2564"
 - "9000678"
-ms.openlocfilehash: 7e717f355152bb58285d3c0e817d2e0c12907ba2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: af7e6ece7d9f60cf6cd52b46bf87d21a5049c5b3c17c7c1da2241cab0bff3264
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51791140"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011532"
 ---
 # <a name="there-isnt-enough-memory-to-complete-this-action"></a>Za dokončanje tega dejanja ni dovolj pomnilnika
 
-Ko delate z Microsoft Excelovo datoteko, prejmete eno od teh sporočil:
+Ko delate z datoteko Microsoft Excel, prejmete eno od teh sporočil:
 
-- Excel ne more dokončati tega opravila z razpoložljivimi viri. Izberite manj podatkov ali zaprite druge programe.
+- Excel opravila ne morete dokončati z razpoložljivimi viri. Izberite manj podatkov ali zaprite druge programe.
 - Ni več v pomnilniku
 - Ni dovolj sistemskih sredstev za popolno prikaz
 - Za dokončanje tega dejanja ni dovolj pomnilnika. Poskusite uporabiti manj podatkov ali zaprite druge programe. Če želite povečati razpoložljivost pomnilnika, upoštevajte: 
-    - Uporaba 64-bitne različice Microsoft Excela.
+    - Uporaba 64-bitne različice Microsoft Excel.
     - Dodajanje pomnilnika v napravo.
 
-Če želite odpraviti te napake, glejte [Odpravljanje napak »razpoložljivih virov« v Excelu.](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)
+Če želite odpraviti te napake, glejte [Odpravljanje napak »razpoložljivih virov« v Excel.](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors)

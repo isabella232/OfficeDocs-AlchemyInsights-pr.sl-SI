@@ -1,5 +1,5 @@
 ---
-title: Spreminjanje imena računa v sistemu Windows 10
+title: Spreminjanje imena računa v Windows 10
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005297"
 - "9913"
-ms.openlocfilehash: a5dce4a8e929b580ccc8266b59b24aa671b2e07c
-ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
-ms.translationtype: MT
+ms.openlocfilehash: 95d7c81be6df8f27bded459fcad48e3e8d6b11fe190a9cef514fee1ba8e93cb4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "51405312"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54018798"
 ---
-# <a name="change-account-name-in-windows-10"></a>Spreminjanje imena računa v sistemu Windows 10
+# <a name="change-account-name-in-windows-10"></a>Spreminjanje imena računa v Windows 10
 
 Če želite izvedeti več o tem, kako spremenite prikazano ime Microsoftovega računa, glejte [Spreminjanje prikazanega imena Microsoftovega računa.](https://support.microsoft.com/account-billing/how-to-change-your-microsoft-account-display-name-917b1d70-5915-d04e-243a-a618f96ef1d5)
 

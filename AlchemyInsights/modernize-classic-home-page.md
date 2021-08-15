@@ -12,23 +12,23 @@ ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd26e9e923061e9bf88d8cd2c60164b95ec9cf3a671130960c0412e3f31acbaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026094"
 ---
 # <a name="modernize-the-classic-home-page"></a>Posodobitev klasične domače strani
 
-Nedavna posodobitev domačih strani na klasični SharePointovem mestu skupine vpliva na domačo stran klasičnih spletnih mest skupine (STS # 0), ko domača stran vsebuje *le izstopne privzete spletne gradnike* , kot je začetek, knjižnica dokumentov in vir novic.
+Nedavna posodobitev za klasične domače strani spletnega mesta skupine v storitvi SharePoint vpliva na domačo stran  klasičnih spletnih mest skupin (STS#0), ko domača stran vsebuje le vnaprej privzete spletne gradnike, kot so začetek dela, knjižnica dokumentov in vir novic.
 
-Oglejte si prehod spremembe [tukaj](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+Tukaj si oglejte pregled [spremembe.](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif) 
 
-**Opomba: klasična spletna mesta skupine, ki vsebujejo prilagojeno vsebino, ne bodo samodejno posodobljena.**
+**Opomba: Klasična spletna mesta skupine, ki vsebujejo prilagojeno vsebino, ne bodo samodejno posodobljena.**
 
-* Več informacij o pogojih posodabljanja na [klasični posodobitvi na domači strani](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
+* Več informacij o pogojih posodobitve na [klasični domači strani.](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)
 
-* [Nadgradite druge domače strani, ki niso bile del samodejnega posodabljanja](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
+* [Nadgradite druge domače strani, ki niso bile del samodejne posodobitve.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)
 
-* Onemogočite to nadgradnjo na določenih mestih z [ukazom» cmdlet «za SharePoint Patterns in Practices (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).
+* To nadgradnjo onemogočite na določenih mestih z SharePoint in praksami [(PnP) ukazom »cmdlet« ogrodja PowerShell.](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets)

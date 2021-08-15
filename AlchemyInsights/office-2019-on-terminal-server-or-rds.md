@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: 3b61f0396c4698aaa54df74d6612d1a35d37f652
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24691e0b523fad22f0b6ee3ed07ff08afd5b81d12c787f843aa94c5b6835915b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790996"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011568"
 ---
-# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Uvajanje sistema Office 2019 za uporabo v skupni rabi v rds, terminalskem strežniku ali strežniku VDI
+# <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>Uvajanje Office 2019 za uporabo v skupni rabi v rds, terminalskem strežniku ali strežniku VDI
 
-Če je Office že nameščen v strežniku RDS s pomočjo drugih Officeovih paketov, ga odstranite. Odprite na primer **Odstranitev programa**  >  **na nadzorni plošči.** Če prihaja do težav, odstranite microsoftovega [pomočnika za podporo in obnovitev.](https://aka.ms/SARA-OfficeUninstall-Alchemy) 
+Če Office strežniku RDS že nameščen v katerem koli drugem paketu Office, ga odstranite. Odprite na primer **Odstranitev programa**  >  **na nadzorni plošči.** Če prihaja do težav, odstranite aplikacijo [Microsoft pomočnik za podporo in obnovitev.](https://aka.ms/SARA-OfficeUninstall-Alchemy) 
 
-Z orodjem za uvedbo sistema Office (ODT) namestite Office. Če želite podrobna navodila, [glejte Uvedba sistema Office 2019.](https://docs.microsoft.com/deployoffice/office2019/deploy)
+Z orodjem Office za uvedbo sistema (ODT) namestite Office. Če želite podrobna navodila, [glejte Office 2019.](https://docs.microsoft.com/deployoffice/office2019/deploy)
 
-Če želite več o aktiviranju, [glejte Pregled količinskega aktiviranja Officea.](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)
+Če želite več o [aktiviranju, glejte Pregled količinskega aktiviranja Office.](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office)
