@@ -1,5 +1,5 @@
 ---
-title: Nadgradnja na mestu z vodnikom za konfiguracijo upravitelja konfiguracije
+title: Nadgradnja na mestu z vodnikom za upravitelja konfiguracije
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004199"
 - "7380"
-ms.openlocfilehash: 0c08cfee8264d6aac1166aeb11c0417e17c63fac
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 0e01230010df55e6ceb8508d86fd4833112c0972d5130871b717545d2b427170
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679368"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014772"
 ---
-# <a name="in-place-upgrade-with-configuration-manager-guide"></a>Nadgradnja na mestu z vodnikom za konfiguracijo upravitelja konfiguracije
+# <a name="in-place-upgrade-with-configuration-manager-guide"></a>Nadgradnja na mestu z vodnikom za upravitelja konfiguracije
 
-Postopek nadgradnje na mestu ohrani vse podatke, nastavitve, aplikacije in gonilnike iz obstoječe različice operacijskega sistema. Zasnovana je tako, da je zelo zanesljiva in ima možnost, da samodejno znova vzpostavi prejšnji operacijski sistem, če se pojavijo težave.
+Postopek nadgradnje na mestu uporabe ohrani vse podatke, nastavitve, aplikacije in gonilnike iz obstoječe različice operacijskega sistema. Zasnovano je tako, da je izjemno zanesljivo in lahko se samodejno vrne na prejšnji operacijski sistem, če naleti na težave.
 
-Ko nadgradite naprave s sistemom Windows 7 in Windows 8,1 v najnovejšo različico sistema Windows 10, uporabite [nadgradnjo na mestu z vodnikom za konfiguracijo upravitelja konfiguracije](https://admin.microsoft.com/adminportal/home#/win10upgrade) . S skriptom, ki je na voljo, lahko preverite pogoje in samodejno konfigurirate nadgradnjo na mestu uporabe.
+Pri [nadgradnji naprav](https://admin.microsoft.com/adminportal/home#/win10upgrade) s sistemom Windows 7 in Windows 8.1 na najnovejšo različico programa Windows 10 uporabite vodnika za nadgradnjo na mestu nadgradnje z upraviteljem Windows 10. Skript, ki je na voljo, boste uporabili za preverjanje pogojev in samodejno konfiguracijo nadgradnje na mestu uporabe.

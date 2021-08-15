@@ -1,5 +1,5 @@
 ---
-title: Uvoz Google koledarja v Outlook
+title: Uvoz koledarja iz storitve Google Outlook
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 9edeac48aa78da4ccdca2ec3641d4a3f07a04e17
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: d4588d2734b97ced4d369d7ad434cd88ed846f5ca7962ad5362301fea7c54114
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49598719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014844"
 ---
-# <a name="import-your-google-calendar-to-outlook"></a>Uvoz Google koledarja v Outlook
+# <a name="import-your-google-calendar-to-outlook"></a>Uvoz koledarja iz storitve Google Outlook
 
-Ta postopek ponovite vsak Googlov koledar, ki ga želite uvoziti v Outlook.
+Ponovite ta postopek za vsak Google Koledar, ki ga želite uvoziti v Outlook.
 
-1. V Outlooku na namizju (Outlook 2013 ali Outlook 2016) pojdite na **koledar**.
-1. Kliknite **Datoteka**  >  **Odpri & izvoz**  >  **uvoza/izvoza**.
-1. V **čarovniku za uvoz in izvoz** izberite **Uvozi datoteko iCalendar (. ICS) ali vCalendar** in nato kliknite **naprej**.
-1. Prebrskajte do mesta, kamor ste shranili ekstrahirano datoteko, in izberite tistega, ki se konča z **gmail.com**, in kliknite **v redu**.
-1. Kliknite **Uvozi**
+1. V Outlook računalniku (Outlook 2013 ali Outlook 2016) odprite **Koledar**.
+1. Kliknite **Datoteka –**&  >    >  **Izvozi ali izvozi.**
+1. V **čarovniku za uvoz in** izvoz izberite **Uvozi datoteko iCalendar (.ics) ali vCalendar** in kliknite **Naprej.**
+1. Poiščite mesto, kamor ste shranili ekstrahirani datoteko, in izberite datoteko, ki se konča **s gmail.com**, in kliknite V **redu.**
+1. Kliknite **»Uvozi«**
 
-Pojdite na Outlookov koledar. Zdaj morate videti svoje dogodke v storitvi Google Calendar.
+Odprite koledar Outlook koledar. V koledarju bi morali biti zdaj prikazni dogodki iz Google Koledarja.

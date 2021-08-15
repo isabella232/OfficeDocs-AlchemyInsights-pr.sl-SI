@@ -1,5 +1,5 @@
 ---
-title: Offboard, ki niso naprave s sistemom Windows, napredna zaščita pred grožnjami Microsoft Defender (ATP)
+title: Izklop naprave, ki niso Windows, iz napredne zaščite pred grožnjami za Microsoft Defender (ATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 435957c555cd80155a985a49bd94b041a4ada31d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: fbaab348e06691b73db68492a0083c4a5a54c4504e03d27ec53f2a9f5047266d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748483"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967817"
 ---
-# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Offboard, ki niso naprave s sistemom Windows, napredna zaščita pred grožnjami Microsoft Defender (ATP)
+# <a name="offboard-non-windows-devices-from-microsoft-defender-advanced-threat-protection-atp"></a>Izklop naprave, ki niso Windows, iz napredne zaščite pred grožnjami za Microsoft Defender (ATP)
 
-To naredite tako:
+To lahko:
 
-1. Če želite izključiti rešitev tretje osebe v storitvi Microsoft Defender ATP, glejte dokumentacijo tretje osebe.
-2. Iz svojega najemnika storitve Azure Active Directory odstranite dovoljenja za rešitev tretje osebe:
+1. Upoštevajte dokumentacijo drugega izdelka, da prekinete povezavo rešitve drugega izdelka s storitvijo Microsoft Defender ATP.
+2. V Azure Active Directory, odstranite dovoljenja za rešitev drugega ponudnika:
 
-    1. Vpišite se v [portal Azure](https://go.microsoft.com/fwlink/?linkid=2125612).
-    1. Izberite **vse storitve**  >  **Azure Active Directory**  >  **Enterprise aplikacije**.
-    1. Izberite aplikacijo, ki jo želite offboard.
+    1. Vpišite se v [portal storitve Azure](https://go.microsoft.com/fwlink/?linkid=2125612).
+    1. Izberite **Vse**  >  **storitve, Azure Active Directory** Enterprise  >  **Applications.**
+    1. Izberite aplikacijo, ki jo želite izklopiti.
     1. Izberite **Izbriši**.
 
-Če želite izvedeti več, glejte [offboard naprave, ki niso v sistemu Windows](https://go.microsoft.com/fwlink/?linkid=2143630).
+Če želite izvedeti več, glejte [Izklop naprave, ki niso Windows naprave.](https://go.microsoft.com/fwlink/?linkid=2143630)
