@@ -1,5 +1,5 @@
 ---
-title: Iskanje v storitvi SharePoint online
+title: Iskanje v SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,28 +8,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: f790efbe6ed445786933efa3fc980f974693d1d9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: daf21e311d29b801bd04e48adfba9446abf78de9377d2a029aebccbac3910c62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770783"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022818"
 ---
-# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Iskanje po vsebini in indeksiranje v storitvi SharePoint online
+# <a name="content-crawling-and-indexing-in-sharepoint-online"></a>Iskanje po vsebini in indeksiranje v SharePoint Online
 
-Vsebino je treba preiskati in dodati v indeks iskanja za uporabnike, da poiščejo, kaj iščejo v SharePoint Onlineu.
+Če želite, da uporabniki v programu SharePoint Online najdejo vsebino, morate preiskati vsebino in jo dodati v kazalo iskanja.
 
-- Prepričajte se, da je vsebine mogoče najti tako, [da ustvarite vsebino mesta](https://docs.microsoft.com/sharepoint/make-site-content-searchable).
+- Zagotovite, da bo vsebino mogoče najti tako, [da bo vsebino mesta mogoče poiskati.](https://docs.microsoft.com/sharepoint/make-site-content-searchable)
 
-- Ko spremenite upravljano lastnost ali ko spremenite preslikavo preiskanih in upravljanih lastnosti, je treba mesto znova preiskati, preden bodo spremembe prikazane v kazalu iskanja.
+- Če ste spremenili upravljano lastnost ali če ste spremenili preslikavo preiskanih in upravljanih lastnosti, mora biti mesto znova preiskano, preden bodo spremembe vidne v kazalu iskanja.
 
-- Če želite več informacij, glejte [Ročna zahteva iskanja po vsebini in vnovično indeksiranje spletnega mesta, knjižnice ali seznama](https://docs.microsoft.com/sharepoint/crawl-site-content).
+- Če želite več informacij, glejte Ročna zahteva iskanja po vsebini in [ponovno indeksiranje mesta, knjižnice ali seznama.](https://docs.microsoft.com/sharepoint/crawl-site-content)
 
-- Počakate vsaj 24 ur po ročnem zahtevanju iskanja po vsebini in polnem vnovičnem indeksiranju, da preverite, ali še vedno prihaja do težave.
+- Počakajte vsaj 24 ur, da ročno zahtevate iskanje po vsebini in popolno ponovno indeksiranje, da vidite, ali še vedno prihaja do težave.
 
-- Če je minilo več kot 24 ur od uvedbe iskanja po vsebini in polnem vnovičnem indeksiranju, se prijavite v primeru podpore. V številnih primerih že pripravljamo rešitev. Če želite dokončati rešitev, nam lahko daste vsaj 24 ur.
+- Če je od začetka iskanja po vsebini minilo več kot 24 ur in je bilo znova indeksirano celotno kazalo, zabeležite primer podpore. V številnih primerih že delamo na rešitvi. Če želite dokončati rešitev, nam dajte vsaj 24 ur.
 
-**Pomembno**: če je bilo mesto, dokument (knjižnica) ali je bil izbrisan in je prikazan seznam v rezultatih iskanja, bi morali uporabniki prejeti **datoteko z napako 404** , ko poskušate dostopati do njega. To težavo je treba zabeležiti kot primer podpore za nadaljnjo preiskavo.
+**Pomembno:** Če je bilo mesto, dokument (knjižnica) ali seznam izbrisan in je še vedno prikazan med rezultati iskanja, naj uporabniki prejmejo napako **404 Datoteka 404** Ni bila najdena, ko poskušajo dostopati do mesta. To težavo je treba zabeležiti kot primer podpore za nadaljnjo raziskovanje.
 
 
 

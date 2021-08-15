@@ -1,5 +1,5 @@
 ---
-title: 9000203 Outlook.com filtri
+title: 9000203 Outlook.com Filtri
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,17 +15,17 @@ ms.custom:
 - "1793"
 - "9000203"
 - "9000215"
-ms.openlocfilehash: f12663c5ece9849c0a1b550a3b07742eaf56c241
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff49ef320249b8f87d7325514570db39c63e403b06ca8320050d2feb140bba6f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671928"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984225"
 ---
-# <a name="filtering-in-outlookcom"></a>Filtriranje v Outlook.com
+# <a name="filtering-in-outlookcom"></a>Filtriranje v mestu Outlook.com
 
-E-poštna sporočila lahko filtrirate na več načinov v Outlook.com:
+E-poštna sporočila lahko filtrirate na več načinov na Outlook.com:
 
-1. [Spreminjanje načina razvrščanja e-pošte](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
-2. [Blokiranje e-poštnega naslova ali domene e-poštnega sporočila](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
-3. [Podrobnejše rezultate iskanja z naprednim iskanjem poizvedbe](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)
+1. [Spreminjanje razvrstitsti e-pošte](https://support.office.com/article/e650ae23-b558-4fbf-bdd1-73268f6852b7?wt.mc_id=Office_Outlook_com_Alchemy)
+2. [Blokiranje e-poštnega naslova ali e-poštne domene](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+3. [Uporaba naprednega iskanja s poizvedbo za natančnejše iskanje rezultatov](https://support.office.com/article/88108edf-028e-4306-b87e-7400bbb40aa7?wt.mc_id=Office_Outlook_com_Alchemy)

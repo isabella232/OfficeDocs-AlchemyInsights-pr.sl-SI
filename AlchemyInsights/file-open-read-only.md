@@ -13,12 +13,12 @@ ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
 ms.custom:
 - "765"
 - "2200014"
-ms.openlocfilehash: e478572ea82e5ea11bac9fd7eacafb833253235d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fb75f7ac5b8c7023f0258a567becdc5d023476b5e905d8f2cc17479faea76af1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51813200"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029820"
 ---
 # <a name="file-open-read-only"></a>Datoteka, odprta samo za branje
 
@@ -36,20 +36,20 @@ Lastnosti datoteke si lahko preverite tako, da z desno tipko miške kliknete dat
   
 Datoteke iz interneta in z drugih morda nevarnih mest lahko vsebujejo viruse, črve in drugo zlonamerno programsko opremo, ki lahko škoduje računalniku. Tako je pogosto pri e-poštnih prilogah ali prenesenih datotekah. Zaradi zaščite vašega računalnika se datoteke s teh morda nevarnih mest odprejo v zaščitenem pogledu. V zaščitenem pogledu lahko preberete datoteko in si ogledate njeno vsebino, hkrati pa zmanjšate nevarnost tveganja. Če želite več informacij o zaščitenem pogledu in oknu za spreminjanje nastavitev, si oglejte ta članek: [Kaj je zaščiten pogled?](https://support.office.com/article/d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653)
   
- **Ali je Storitev OneDrive polna?**
+ **Ali OneDrive poln?**
   
-Če je datoteka shranjena v storitvi OneDrive, prostor za shranjevanje v storitvi OneDrive pa je poln, ne boste mogli shraniti dokumenta, dokler ne boste pod dodeljenimi prostorom. Prostor v storitvi OneDrive si lahko preverite tako, da kliknete ikono storitve OneDrive v središču za obvestila in izberete Upravljanje shrambe, lahko pa greste na , vpišete se in si zabeležite količino uporabljenega prostora v spodnjem levem kotu [https://onedrive.live.com](https://onedrive.live.com) zaslona.
+Če je datoteka shranjena v OneDrive in je prostor v shrambi storitve OneDrive poln, ne boste mogli shraniti dokumenta, dokler ne boste pod dodeljeni prostor. Prostor za shranjevanje v aplikaciji OneDrive preverite tako, da v središču za obvestila kliknete ikono OneDrive in izberete Upravljanje shrambe, lahko pa greste na , se vpišete in si zabeležite količino uporabljenega prostora v spodnjem levem kotu [https://onedrive.live.com](https://onedrive.live.com) zaslona.
   
- **Ali je Office aktiviran?**
+ **Ali Office aktiviran?**
   
-Če Office ni aktiviran ali če je naročnina potekla, ste morda v načinu zmanjšane funkcionalnosti samo za branje. Če želite informacije o tem, kako aktivirate Office, glejte: Napake v Officeu, ki nelicencirani [izdelek in aktiviranje.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+Če Office aktivirana ali če je naročnina potekla, ste morda v načinu zmanjšane funkcionalnosti samo za branje. Če želite informacije o tem, kako aktivirate Office, glejte: Napake v zvezi z nelicenciranim izdelkom [in aktiviranjem Office.](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)
   
  **Če vse drugo ne uspe ...**
   
 - Poskusite znova zagnati računalnik
     
-- Namestitev posodobitev za Office
+- Namestitev Office posodobitev
     
-- Popravilo Officea v spletu
+- Izvedba spletnega popravila Office
     
 

@@ -1,5 +1,5 @@
 ---
-title: Brisanje najemnika
+title: Izbriši najemnika
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003256"
 - "7297"
-ms.openlocfilehash: aa1525c6d221dbcfe91da7abd3d094ae1c228ece
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 7377f77b7295e8134673c9a46fa7606842d4df949f535878d13986c6d39d0b5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993909"
 ---
-# <a name="delete-tenant"></a>Brisanje najemnika
+# <a name="delete-tenant"></a>Izbriši najemnika
 
-Če želite izbrisati oglas Azure, zagotovite:
+Če želite izbrisati Azure AD, poskrbite za to:
 - Ste globalni skrbnik v imeniku.
-- Niste vpisani z računom, ki ima privzeti imenik, kot je contoso.onmicrosoft.com, v računu, kot je na primer admin@contoso.onmicrosoft.com.
-- Pred brisanjem odstranite vse aktivne aplikacije v imeniku. Če želite odstraniti aktivne aplikacije, se pomaknite do registracij programov in odstranite obstoječe aplikacije.
-- Ni aktivnih naročnin za vse Microsoftove spletne storitve, kot je Microsoft Azure, Office 365 ali Azure AD Premium, ki je povezan v imeniku. Prenesite naročnine ali pospešite preklic aktivnih naročnin prek storitve Azure support in obračunavanje. Preberite več o tem, kako preklicati naročnine na Office 365 in Azure. Če želite navodila za združevanje ali dodajanje obstoječe naročnine najemniku, [si oglejte povezovanje ali dodajanje naročnine na AZURE ad najemniku](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
-- Ni aktivne licence. Če želite odstraniti licence, si oglejte [Kako odstranite naročnino, da odstranite licenco](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription).
-- Pri poskusu brisanja Azure AD ni nobenega drugega aktivnega uporabnika v imeniku poleg samega sebe kot globalnega skrbnika. Odstranite vse druge aktivne uporabnike, zato je treba odstraniti tudi vse odvisnosti v imenu domene po meri v najemniku, kot so uporabniki, ustvarjeni z admin@contoso.com.
+- NISTE vpisani z računom, ki ima privzeti imenik, kot je contoso.onmicrosoft.com v račun za vpis, na primer admin@contoso.onmicrosoft.com.
+- Pred brisanjem odstranite vse aktivne aplikacije v imeniku. Če želite odstraniti aktivne aplikacije, se pomaknite na Registracije aplikacij in odstranite obstoječe aplikacije.
+- Za nobeno od storitev Microsoft Online, kot je Microsoft Azure, Office 365 ali Azure AD Premium v imeniku ni aktivne naročnine. Prenesite svoje naročnine ali pospešite preklic aktivnih naročnin prek podpore in obračunavanja za Azure. Preberite več o preklicu naročnin na Office 365 Azure in Azure. Če želite navodila za povezovanje ali dodajanje obstoječe naročnine najemniku, glejte Povežite ali dodajte naročnino na Azure najemniku [imenika Azure AD.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
+- Aktivna licenca ni na voljo. Če želite odstraniti licence, glejte [Kako odstraniti naročnino za odstranitev licence.](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription)
+- V imeniku ni drugih aktivnih uporabnikov, razen sebe kot globalni skrbnik, ko poskušate izbrisati Imenik Azure AD. Odstranite vse druge aktivne uporabnike in odstraniti boste morali tudi morebitne odvisnosti od imena domene po meri v najemniku, na primer uporabnike, ustvarjene s storitvijo admin@contoso.com.
 
 Če želite več podrobnosti o tem, kako:
-- Izbrišite» imenik Azure Active Directory «ali» naročnina «, glejte [brisanje imenika Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto).
-- Če želite odstraniti aplikacije v imeniku, glejte [odstranjevanje programov](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app). 
+- Izbrišite »Azure Active Directory« ali »naročnino«, glejte [Brisanje Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto).
+- Odstranjevanje programov v imeniku, glejte [Odstranjevanje programov.](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app) 
