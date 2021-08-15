@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: 0d65cc1f65860249bf41490fc305c928d890dc3c
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 98c97992789ca0adc725797dbbd4eb94a37fccc4ff7463db01cf4f28e5106174
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483784"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017544"
 ---
 # <a name="create-an-email-signature-template"></a>Ustvarjanje predloge e-poštnega podpisa
 
-Obstaja veliko podjetij, ki so specializirana za predloge e-poštnih podpisov in zagotavljajo tudi velike vire. Predlagam, da si ogledate eno od njih.
+Obstaja veliko podjetij, ki so specializirana za predloge e-poštnih podpisov, poleg tega pa zagotavljajo tudi odlične vire. Priporočamo, da si jo izpomnete.
 
-Poiščite **predloge za e-poštne podpise** v internetu.
+V internetu poiščite predloge **e-poštnih podpisov.**

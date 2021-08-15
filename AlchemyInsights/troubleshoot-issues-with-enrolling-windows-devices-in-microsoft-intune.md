@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav z včlanijo naprav s sistemom Windows v storitvi Microsoft Intune
+title: Odpravljanje težav z včlani Windows v Microsoft Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.assetid: 20e9bd42-2db0-4dd7-b480-966571494dd9
 ms.custom:
 - "784"
 - "6200002"
-ms.openlocfilehash: a456cc8f2336e6b902de0b7873cb233f4b846140
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a2abb4d0ef5504c496afefe62a80f3fa21c7ec85536e822e402be33b3617b59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51808987"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981057"
 ---
-# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Odpravljanje težav z včlanijo naprav s sistemom Windows v storitvi Microsoft Intune
+# <a name="troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune"></a>Odpravljanje težav z včlani Windows v Microsoft Intune
 
 Preglejte vire spodaj, da odpravite težavo.
   
@@ -35,12 +35,12 @@ Nekatera pogosta sporočila o napakah in koraki za odpravljanje težav:
 
 -  Napravo že včlani drug uporabnik. V tem primeru odstranite napravo iz konzole Azure Intune ali ročno odstranite napravo, preden poskusite znova.
 
--  Naprava je Windows 10 Home. Imeniku Azure Active Directory se lahko pridružijo le inventavne datoteke (SK) za Windows 10 Pro, Education in Enterprise.
+-  Naprava je Windows 10 Home. Le Windows 10 Pro se lahko pridružijo inventarno poročilo za izobraževanje in velika poslovna Azure Active Directory.
 
 Dodatni viri za odpravljanje težave:
   
 -  S [portalom za odpravljanje težav za Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) lahko diagnosticirate in odpravite pogoste napake z včlani. Preglejte [ta dokument,](https://docs.microsoft.com/intune/help-desk-operators) če želite več podrobnosti.
 
--  V dokumentih si oglejte seznam pogostih napak, ki preprečujejo včlanitev in rešitve za posamezne uporabnike: Vodnik za odpravljanje težav [in](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) [Odpravljanje težav z dokumentom](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
+-  Preglejte te dokumente in si oglejte seznam pogostih napak, ki preprečujejo včlanitev, in rešitev za posamezne težave: [Vodnik za odpravljanje težav](https://support.microsoft.com/help/4089533/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune) in [Dokument za odpravljanje težav](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune).
 
-[Preberite, kako včlanite naprave s sistemom Windows v Microsoft Intune.](https://docs.microsoft.com/intune/windows-enroll)
+[Preberite, kako včlanite Windows v Microsoft Intune](https://docs.microsoft.com/intune/windows-enroll).
