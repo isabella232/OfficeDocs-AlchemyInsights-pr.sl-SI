@@ -1,5 +1,5 @@
 ---
-title: Zasebne ekipe
+title: Zasebni Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6258"
-ms.openlocfilehash: 84881abe0951eea2ae1e8e45c05fdb0977f1c285
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f92bd97ecf3145b4d27f14fdd788f7f83ddffb827871af3894aec78ba30f6a48
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836007"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960275"
 ---
-# <a name="managing-discovery-of-private-teams"></a>Upravljanje odkrivanja zasebnih ekip
+# <a name="managing-discovery-of-private-teams"></a>Upravljanje odkrivanja zasebnih Teams
 
 **Nove ekipe**
 
@@ -29,4 +29,4 @@ Ko lastnik skupine ustvari zasebno ekipo, lahko določi nastavitev odkrivanja ek
 
 Lastniki ekip lahko nastavitev odkrivanja za obstoječo zasebno ekipo nastavljajo neposredno v nastavitvah ekipe, skrbniki pa lahko to storijo z orodjem PowerShell.  
 
-Če želite več [informacij, glejte Upravljanje odkrivanja zasebnih ekip v aplikaciji Microsoft Teams.](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams)
+Če želite več [informacij, glejte Upravljanje odkrivanja zasebnih ekip v Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams).
