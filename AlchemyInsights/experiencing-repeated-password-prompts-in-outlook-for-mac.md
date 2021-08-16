@@ -1,5 +1,5 @@
 ---
-title: Imate ponavljajoče se pozive za gesla v Outlooku za Mac?
+title: Ali se v sistemu Outlook Mac ponavljajo pozivi za vnos gesla?
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: 7bb63e5035daa960de33b2b16e481226399245cf
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 5b3c42eaa4af881235ee5029063fa741ee4e952c451a6b87085f2294d2cd3f71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708762"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069188"
 ---
-# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Imate ponavljajoče se pozive za gesla v Outlooku za Mac?
+# <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>Ali se v sistemu Outlook Mac ponavljajo pozivi za vnos gesla?
 
-Pomagamo vam lahko zagotoviti bolj specializirano pomoč za Outlook za Mac neposredno iz aplikacije.
+Podrobnejše informacije o pomoči za Outlook za Mac vam lahko zagotovimo neposredno iz aplikacije.
   
-Obiščite Mac prizadeti Uporabniki, odprite Outlook in kliknite **pomoč** za \> **stik s podporo**.
+V računalniku Mac uporabnika, ki ima to vpliva, odprite Outlook in kliknite Stik **s** \> **podporo.**
   
-Če želite izvedeti več o uporabi Outlooka za Mac v aplikaciji Podpora uporabnikom, si oglejte ta članek: [Nova funkcija podpore za stik v programu Outlook 2016 za Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
+Če želite izvedeti več o uporabi storitve Outlook za podporo strankam v aplikaciji Mac, si oglejte ta članek: Nova funkcija »Stik s [podporo« Outlook 2016 za Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
   
 
