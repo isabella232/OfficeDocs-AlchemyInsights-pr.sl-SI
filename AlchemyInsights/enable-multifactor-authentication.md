@@ -1,5 +1,5 @@
 ---
-title: Omogočanje preverjanja pristnosti z več dejstvi
+title: Omogočanje večkratnega preverjanja pristnosti
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -16,27 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 885ebf78b39ffcbb7ce98935f4f52a7d041b440d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4de9a1baf12fad1de21af9c5739c1538e5ee7e176757fa8ce7586aa3a7f2b71f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47678052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002928"
 ---
-# <a name="enable-multi-factor-authentication"></a>Omogočanje preverjanja pristnosti v več dejavnikih
+# <a name="enable-multi-factor-authentication"></a>Omogočanje večkratnega preverjanja pristnosti
 
-Če želite omogočiti preverjanje pristnosti multi-Factor v skrbniškem središču za Microsoft 365:
+Če želite omogočiti večkratno preverjanje pristnosti v Skrbniško središče za Microsoft 365:
 
-1. Obiščite stran **Uporabniki** \> **aktivnih uporabnikov** .
+1. Pojdite na  stran \> **Uporabniki, ki so aktivni** uporabniki.
     
-2. Na vrhu strani izberite **multi-Factor preverjanje pristnosti**. 
+2. Na vrhu strani izberite **Multi-Factor Authentication**. 
     
-3. Poiščite uporabnika ali uporabnike, ki jih želite omogočiti za preverjanje pristnosti v več dejavnikih. Če si želite ogledati vse uporabnike, boste morda morali spremeniti stanje filtra za **več dejavnikov** na vrhu.
+3. Poiščite uporabnika ali uporabnike, ki jih želite omogočiti za večkratno preverjanje pristnosti. Če želite videti vse uporabnike, boste morda morali spremeniti filter stanja **storitve Multi-Factor Auth** na vrhu.
     
-4. Potrdite potrditveno polje ob uporabnikih, ki jih želite omogočiti.
+4. Potrdite polje ob uporabnikih, ki jih želite omogočiti.
     
-5.  V desnem podoknu z informacijami v razdelku **hitre korake**izberite **Omogoči**. 
+5.  V desnem podoknu z informacijami o uporabniku v **razdelku s hitrimi** koraki **izberite Omogoči**. 
     
-6. V pogovornem oknu, ki se odpre, izberite **Omogoči multi-Factor auth**. 
+6. V pogovornem oknu, ki se odpre, **izberite Omogoči multi-factor auth**. 
     
 

@@ -1,5 +1,5 @@
 ---
-title: Kako posodobiti podatke o računu obračunavanja
+title: Kako posodobiti podatke računa za obračunavanje
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7316"
-ms.openlocfilehash: 3f6e0b375189526e1a6da3c4320b7d2b97507cc6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 40b5cb04f053f23549ab61ba48badcdbfdf852aeead8fbda8a94e6e5184a3e73
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679501"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015348"
 ---
-# <a name="how-to-update-billing-account-information"></a>Kako posodobiti podatke o računu obračunavanja
+# <a name="how-to-update-billing-account-information"></a>Kako posodobiti podatke računa za obračunavanje
 
-Pred nakupom storitev, ki imajo pristojbino, morate dodati ali posodobiti poslovni naslov organizacije, se obrniti na e-poštni naslov in ime stika.
+Pred nakupom storitev, ki so plačane, morate dodati ali posodobiti naslov podjetja, e-poštni naslov za stik in ime stika.
 
-S poslovnim naslovom izračunavamo prodajne DAVKe in DDV. Če želite posodobiti številko DAVČNEga/DDV-ja, lahko lastnik računa obračunavanja za vaš Microsoftov odjemalec to naredi tako, da upošteva te korake:
+Naslov podjetja uporabimo za izračun prometnega davka in DDV-ja. Če želite posodobiti številko davka/DDV, lahko lastnik računa za obračunavanje za Microsoftovo pogodbo za stranke to naredi tako:
 
-**Če želite posodobiti podatke o računu obračunavanja in posodobiti svoj ID za davek**:
+**Če želite posodobiti podatke računa za obračunavanje in posodobiti ID za DAVEK:**
 
-1. Vpišite se v [trgovino Microsoft Store za podjetja](https://businessstore.microsoft.com/).
-1. Kliknite **upravljanje**  >  **računov obračunavanja**.
-1. V **razdelku Pregled** kliknite **Uredi podatke o računu obračunavanja**.
-1. Naredite svoje posodobitve in kliknite **Shrani**. 
+1. Vpišite se v [Microsoft Store za podjetja](https://businessstore.microsoft.com/).
+1. Kliknite Upravljanje **računov**  >  **za obračunavanje.**
+1. V **razdelku Pregled** kliknite Uredi podatke o računu za **obračunavanje.**
+1. Posodobite in kliknite **Shrani.** 
 
 **Priporočeni dokumenti**
 
@@ -39,4 +39,4 @@ S poslovnim naslovom izračunavamo prodajne DAVKe in DDV. Če želite posodobiti
 
 - [Ogled in prenos davčnih dokumentov za račun Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-download-tax-document)
 
-- [Posodobitev nastavitev računa obračunavanja](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Posodobitev nastavitev računa za obračunavanje](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

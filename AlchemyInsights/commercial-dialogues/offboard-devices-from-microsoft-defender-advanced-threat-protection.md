@@ -1,5 +1,5 @@
 ---
-title: Napredna zaščita pred grožnjami Microsoft Defender offboard naprave
+title: Offboard devices from Microsoft Defender Advanced Threat Protection
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f991a1c02318fbf5ebc4c4449331939e4d06bb3c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 60a25c92b45e050893cc20545fc7a9b753c01009197b209c63e3bc56accf1e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748494"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967853"
 ---
-# <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>Napredna zaščita pred grožnjami Microsoft Defender offboard naprave
+# <a name="offboard-devices-from-microsoft-defender-advanced-threat-protection"></a>Offboard devices from Microsoft Defender Advanced Threat Protection
 
-Glejte [naprave s sistemom Windows 10 offboard](https://go.microsoft.com/fwlink/?linkid=2143629) ali [offboard, ki niso naprave s sistemom Windows](https://go.microsoft.com/fwlink/?linkid=2143630).
+Glejte [Izklop Windows 10 ali Naprave,](https://go.microsoft.com/fwlink/?linkid=2143629) ki niso v [Windows, ki niso v napravi.](https://go.microsoft.com/fwlink/?linkid=2143630)
