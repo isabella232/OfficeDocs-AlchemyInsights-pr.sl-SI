@@ -1,5 +1,5 @@
 ---
-title: Uvod v SharePoint online
+title: Uvod v SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: bba89489cb75555e1f508224de223bee04e1d665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a14705003f742641f10c8459b7c7024146e4134a8d5113451e5732cef7326484
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700723"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051430"
 ---
-# <a name="workflows-in-sharepoint"></a>Poteki dela v SharePointu
+# <a name="workflows-in-sharepoint"></a>Poteki dela v SharePoint
 
-Če SharePointovi poteki dela ne pošiljajo e-poštnih sporočil, je vaša organizacija morda naletela na omejitve pošiljatelja za Exchange Online.
+Če SharePoint poteki dela ne pošiljajo e-pošte, je organizacija morda naletela na omejitve Exchange Online pošiljatelja.
 
-Sporočilo o napaki» potek dela je začasno ustavljeno «lahko pride, če imate enega od teh elementov:
+Če imate enega od teh elementov, se lahko prikaže sporočilo o napaki »Potek dela je začasno prekinjen«:
 
-- V storitvi SharePoint online imate potek dela, ki uporablja vrsto platforme za potek dela za SharePoint 2010 ali SharePoint 2013.
+- V storitvi SharePoint Online je potek dela, ki uporablja vrsto platforme poteka dela SharePoint 2010 ali SharePoint 2013.
 
 - Potek dela je konfiguriran za pošiljanje e-poštnega sporočila po meri več kot 200 uporabnikom hkrati, več kot 10.000 prejemnikov na dan ali več kot 30 sporočil na minuto.
 
-Ko zaženete potek dela, se e-poštno sporočilo ne pošlje in opazite sporočilo o napaki, da je notranje stanje nastavljeno na začasno prekinjeno ali ne more poslati prejemniku.
+Ko zaženete potek dela, e-poštno sporočilo ni poslano in opazite sporočilo o napaki Notranje stanje je nastavljeno na Začasno prekinjeno ali Prejemniku ni mogoče poslati.
 
-Če želite več informacij, si oglejte ta [članek](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running).
+Več informacij najdete v tem [članku.](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)
 

@@ -12,19 +12,19 @@ ms.custom:
 - "2679"
 - "6500001"
 ms.assetid: 7c44ed9c-e944-4a4a-b36f-81b637131a9f
-ms.openlocfilehash: 83739b66057dd25ef9c95a138598e61db4f221bc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96a57d523c75a2e0b3cebff6abe23377fa7d2525ce00cedeb1a16c6669255c8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777657"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54026886"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams – dostop za goste
 
-Potrebujete pomoč pri vklopu in nastavitvi funkcije za dostop za goste v aplikaciji Microsoft Teams?  
+Ali potrebujete pomoč pri vklopu in nastavitvi funkcije za dostop za goste v Microsoft Teams?  
 
-Najprej se prepričajte, da ste upoštevali vse korake v [kontrolnem seznamu za dostop za goste](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Ko dokončate vse korake, morate [počakati do 24 ur](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , da bodo nastavitve začele veljati.
+Najprej se prepričajte, da ste upoštevali vse korake na kontrolnem [seznamu za dostop za goste.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) Ko so vsi koraki dokončani, morate [počakati do 24 ur,](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) da nastavitve stopijo v veljavo.
 
-Če ste prepričani, da ste dokončali vse korake na kontrolnem seznamu in je bilo več kot 24 ur, nadaljujte in poskusite [dodati gosta v svojo skupino](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Če ste prepričani, da ste dokončali vse korake kontrolnega seznama in je že več kot 24 ur, nadaljujte in poskusite dodati gosta v ekipo [.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-Če želite več informacij, vključno z videoposnetki, glejte [dostop za goste v aplikaciji Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
+Če želite več informacij, vključno z videoposnetki z informacijami, glejte [Dostop za goste v Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).

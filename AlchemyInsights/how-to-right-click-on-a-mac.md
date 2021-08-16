@@ -1,5 +1,5 @@
 ---
-title: 8000063 kako z desno tipko miške klikniti računalnik Mac
+title: 8000063 kako z desno tipko miške klikniti v računalniku Mac
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 95d8a88bc1f0db2e2cadca887cb42f0c85b38f43
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 70b3f0ca2393dcb3bc0f85755aac1f7608dd3134335704f6f48af43fb33b4af8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779319"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001956"
 ---
-# <a name="how-to-right-click-on-a-mac"></a>Kako z desno tipko miške klikniti računalnik Mac
+# <a name="how-to-right-click-on-a-mac"></a>Kako z desno tipko miške klikniti v računalniku Mac
 
-V računalnikih Mac je z desno tipko miške znana kot sekundarni klik ali nadzor kliknite. Če miška, tir ali druga vhodna naprava ne vključuje gumba z desno tipko miške ali drugega načina za izvajanje klika z desno tipko miške, pridržite **tipko za nadzor** na tipkovnici, medtem ko klikate.
+V računalnikih Mac je klik z desno tipko miške znan kot sekundarni klik ali klik kontrolnika. Če miška, sledilna ploščica ali druga vnosna naprava ne vključuje gumba za desni klik ali drugega načina za desni klik, pritisnite in pridržite tipko **Control** na tipkovnici, medtem ko klikate.
   
-Če želite več informacij, glejte [Podpora za Apple](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
+Če želite več informacij, pojdite na podporo [za Apple.](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409)
   
