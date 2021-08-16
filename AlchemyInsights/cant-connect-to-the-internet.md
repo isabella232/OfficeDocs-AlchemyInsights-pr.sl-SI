@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3434"
 - "9001438"
-ms.openlocfilehash: 6d865aa08a5703ec5906d7f263532184fc50ed7e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1547d69cf990d6f0872e23162408860ed25aa805eb99f818eb079d0f7e04ce35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819456"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035680"
 ---
 # <a name="fix-network-connection"></a>Odpravljanje težav z omrežno povezavo
 
@@ -43,6 +43,6 @@ Težave z omrežno povezavo odpravite tako, da najprej zaženete orodje za odpra
 
 **Napredno odpravljanje težav**
 
-Če želite naprednejše korake za odpravljanje težav, [glejte Odpravljanje Wi-Fi s povezavo v sistemu Windows.](https://support.microsoft.com/help/10741?ocid=SMC10741%2F) 
+Če želite naprednejše korake za odpravljanje težav, [glejte Odpravljanje Wi-Fi s povezavo v Windows.](https://support.microsoft.com/help/10741?ocid=SMC10741%2F) 
 
 Če ne želite uporabiti tehničnih navodil za odpravljanje težav, se obrnite [na nas.](https://support.microsoft.com/contactus)

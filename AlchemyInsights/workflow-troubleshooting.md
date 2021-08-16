@@ -13,23 +13,23 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "2492"
-ms.openlocfilehash: 7bd210d6493569c28b9fd5abc05982f59e1ea34e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9deea782837098512bcec571415352927f431cfad294f0a15e89d777abea592a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688998"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072500"
 ---
 # <a name="workflow-troubleshooting"></a>Odpravljanje težav s potekom dela
 
-Če želite več informacij o odpravljanju napak v SharePointovih potekih dela, preglejte to:
-- Poteki dela, ki odpravljajo napake, so podobni prejšnjim različicam.  Če želite več informacij, glejte [Odpravljanje napak v SharePointovih potekih dela](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-- Če želite več informacij o odpravljanju težav, glejte [Odpravljanje napak pri preverjanju poteka dela strežnika SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+Če želite več informacij o SharePoint potekih dela, preglejte:
+- Iskanje in odpravljanje napak v potekih dela je podobno kot v prejšnjih različicah.  Če želite več informacij, glejte [Odpravljanje SharePoint potekov dela.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+- Če želite več informacij o odpravljanju težav, glejte [Odpravljanje SharePoint napak pri preverjanju veljavnosti poteka dela v strežniku.](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
  
 
 ## <a name="related-topics"></a>Sorodne teme
-Ali želite preskusiti Microsoft Flow v storitvi SharePoint online?
-- [Ustvarjanje toka](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Ali želite preskusiti Microsoft Flow spletnem SharePoint Onlineu?
+- [Ustvarjanje Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint in Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
