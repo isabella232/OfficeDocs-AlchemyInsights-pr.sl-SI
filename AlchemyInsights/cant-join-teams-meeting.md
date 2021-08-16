@@ -1,5 +1,5 @@
 ---
-title: Ne morem se vključiti v srečanje Teams
+title: Srečanju se ni mogoče Teams pridružiti
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003566"
 - "6656"
-ms.openlocfilehash: bc00638af3364f7d843c5b00d42a60491c4d1859
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
-ms.translationtype: MT
+ms.openlocfilehash: b2d53c7c06264fc0c6a9e682ff0802b1fbc562b378b75cfb06ca330492dfcf22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48365090"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019020"
 ---
-# <a name="cant-join-teams-meeting"></a>Ne morem se vključiti v srečanje Teams
+# <a name="cant-join-teams-meeting"></a>Srečanju se ni mogoče Teams pridružiti
 
 Predlogi za odpravljanje težav:  
 
-- Možnost»  **Dovoli srečanje zdaj «v**  pravilniku kanala v skrbniškem središču je morda izklopljena. Prosite skrbnika Teams, da to preveri.
-- Odprite spletni program Teams v brskalniku Google Chrome in se nato poskusite vključiti v srečanje.
-- Naj vas nekdo v srečanju povabi tako, da upoštevate navodila v razdelku» povabite ljudi «v  [začetnem neposrednem srečanju v aplikaciji Teams](https://support.microsoft.com/office/start-an-instant-meeting-in-teams-ff95e53f-8231-4739-87fa-00b9723f4ef5).
+- Možnost  **»Dovoli sestanek zdaj v kanalu«**  v skrbniškem središču je morda izklopljena. Prosite skrbnika Teams, naj preveri to možnost.
+- V Teams Google Chrome odprite spletno aplikacijo in se poskusite pridružiti srečanju.
+- Osebo v srečanju lahko povabite tako, da sledite navodilom v razdelku »Če želite povabiti osebe« v razdelku Začnite neposredno srečanje [v Teams](https://support.microsoft.com/office/start-an-instant-meeting-in-teams-ff95e53f-8231-4739-87fa-00b9723f4ef5).
 - Prepričajte se, da slika ni poškodovana.

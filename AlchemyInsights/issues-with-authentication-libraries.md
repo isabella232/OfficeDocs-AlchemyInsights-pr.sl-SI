@@ -1,5 +1,5 @@
 ---
-title: Težave s knjižnicami za preverjanje pristnosti
+title: Težave s knjižnicami preverjanja pristnosti
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,45 +12,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004333"
 - "7731"
-ms.openlocfilehash: ab4ffbc78a7cadd8acee3c98eaa5f3323da9c7e3
-ms.sourcegitcommit: 7e6d89f47eca1babf5aeba4995bceccd990c3963
+ms.openlocfilehash: 39336fa8840a28befcad449d0afa59c1df5c6bef5988cb197916a03aa2aa66c9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50063645"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028020"
 ---
-# <a name="issues-with-authentication-libraries"></a>Težave s knjižnicami za preverjanje pristnosti
+# <a name="issues-with-authentication-libraries"></a>Težave s knjižnicami preverjanja pristnosti
 
-1. [Knjižnice za preverjanje pristnosti za Microsoft Identity](https://docs.microsoft.com/azure/active-directory/develop/reference-v2-libraries) je na voljo za Microsoftove podprte in nezdružljive knjižnice odjemalca in vmesnega seznama.
-2. Microsoftova knjižnica za preverjanje pristnosti (MSAL) podpira več [tokov preverjanja pristnosti](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows) za uporabo v različnih scenarijih programov.
-3. Če želite preveriti pristnost in pridobiti žetone, inicializirate nov javni ali zaupen odjemalski program v kodi. Ko inicializirate odjemalski program v Microsoftovi knjižnici za preverjanje pristnosti (MSAL), lahko nastavite več možnosti konfiguracije. Če želite izvedeti več, glejte [možnosti konfiguracije aplikacije](https://docs.microsoft.com/azure/active-directory/develop/msal-client-application-configuration).
+1. [Microsoftova platforma za identitete knjižnice za preverjanje pristnosti](https://docs.microsoft.com/azure/active-directory/develop/reference-v2-libraries) naštejejo Microsoftove knjižnice, ki so podprte in združljive z odjemalcem in programsko opremo.
+2. Microsoftova knjižnica preverjanja pristnosti (MSAL) podpira več [tokov](https://docs.microsoft.com/azure/active-directory/develop/msal-authentication-flows) preverjanja pristnosti, ki jih lahko uporabite v različnih scenarijih aplikacije.
+3. Če želite preveriti pristnost in pridobiti žetone, v kodi inicializirate novo javno ali zaupno odjemalsko aplikacijo. Ko inicializirate odjemalski program v Microsoftovi knjižnici preverjanja pristnosti (MSAL), lahko nastavite več možnosti konfiguracije. Če želite izvedeti več, glejte [Možnosti konfiguracije aplikacije.](https://docs.microsoft.com/azure/active-directory/develop/msal-client-application-configuration)
 
-**Konec podpore za knjižnico za preverjanje pristnosti v storitvi Azure Active Directory (knjižnice ADAL) in Azure AD Graph API (graf ZVOČNIh grafikonov)**
+**Konec podpore za knjižnico za preverjanje Azure Active Directory pristnosti (ADAL) in Azure AD Graph API (AAD Graph)**
 
-Z **začetkom junija 30th 2020** ne bomo več dodali nobenih novih funkcij v knjižnice adal in Azure ad Graph. Še naprej nudimo tehnično podporo in varnostne posodobitve, ne zagotavljamo pa več posodobitev funkcij.
+**Od 30. junija 2020** ne bomo več dodajali novih funkcij v ADAL in Azure AD Graph. Še naprej nudimo tehnično podporo in varnostne posodobitve, ne zagotavljamo pa več posodobitev funkcij.
 
-Z **začetkom junija 30th 2022** bomo zaključili podporo za knjižnice adal in Azure ad Graph in ne boste več zagotavljali tehnične podpore ali varnostnih posodobitev.
+**Od 30. junija 2022** se bo končala podpora za ADAL in Azure AD Graph in ne bomo več zagotavljali tehnične podpore ali varnostnih posodobitev.
 
-Programi, ki uporabljajo knjižnice ADAL v obstoječih različicah sistema OS, bodo po tem času še naprej delovali, vendar ne bodo *prejeli nobene tehnične podpore ali varnostnih posodobitev*.
+Aplikacije, ki uporabljajo ADAL v obstoječih različicah operacijskega sistema, bodo po tem času še naprej delovale, vendar ne bodo dobile nobenih tehničnih posodobitev *za podporo ali varnostnih posodobitev.*
 
-Programi, ki uporabljajo Azure AD Graph, po tem času morda ne bodo več prejemali odgovorov iz končne točke grafikona Azure AD.
+Aplikacije, ki uporabljajo Azure AD Graph po tem času morda ne bodo več prejemali odgovorov iz končne točke Graph Azure AD.
 
-**Selitev v knjižnice ADAL**
+**Selitev ADAL**
 
 Priporočamo, da izvedete nadgradnjo na knjižnico [Microsoft Authentication Library (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview), ki vključuje najnovejše funkcije in varnostne posodobitve.
 
-Če uporabljate Microsoft apps, veste, da je Microsoft v postopku selitve svojih programov v MSAL z rokom za konec podpore, s čimer zagotovi, da bodo imeli koristi od trenutne varnosti in izboljšav funkcij v MSAL.
+Če uporabljate Microsoftove aplikacije, veste, da Microsoft do konca obdobja podpore izvaja selitev svojih aplikacij v MSAL, kar jim zagotavlja, da jim bo koristila stalna varnost in izboljšave funkcij MSAL.
 
-Za več informacij glejte:
+Če želite več informacij, si oglejte:
 
 1. [Preberite pogosta vprašanja o knjižnici ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
 2. [Več informacij o selitvi aplikacij glede na platformo](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
-3. Če potrebujete pomoč pri razumevanju, katere aplikacije uporabljajo knjižnice ADAL, vam priporočamo, da pregledate vse izvorne kode programov in po potrebi poiščete morebitne ISVs ali ponudnike programov. Microsoftova podpora vam lahko posreduje seznam vseh aplikacij ADAL v vašem najemniku, ki jih ne zagotavlja Microsoft.
+3. Če potrebujete pomoč pri razumevanju, katero od aplikacij uporabljate ADAL, vam priporočamo, da pregledate izvorno kodo vseh aplikacij in se, če je na voljo, preglejte morebitne ponudnike internetnih storitev ali ponudnike aplikacij. Microsoftova podpora vam lahko posreduje seznam vseh aplikacij ADAL v vašem najemniku, ki jih ne zagotavlja Microsoft.
 
 **Selitev zmogljivosti AAD Graph**
 
-Za programe, ki uporabljajo grafiko Azure AD Graph, upoštevajte navodila za [selitev programov AZURE ad Graph v Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview).
+Za aplikacije, ki uporabljajo Azure AD Graph, upoštevajte naša navodila za selitev [aplikacij Azure AD Graph v Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview).
 
-1. [Naš kontrolni seznam selitve zagotavlja uvodno mesto.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist)
-2. Na portalu za registracijo aplikacije Azure so prikazane aplikacije, ki uporabljajo AAD Graph. Priporočamo, da pregledate izvorno kodo vseh aplikacij ter po potrebi stopite v stik z morebitnimi neodvisnimi razvijalci programske opreme ali ponudniki aplikacij. Microsoftova podpora vam omogoča tudi seznam vseh uporab ZVOČNIh grafikonov v najemniku.
-3. Če želite za program dostopati do podatkov v programu Microsoft Graph, ga mora uporabnik ali skrbnik dodeliti pravilnim dovoljenjem prek postopka soglasja. [Sklici na dovoljenja za Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) navajajo dovoljenja, povezana z vsakim glavnim naborom API-jev Microsoft Graph. Na voljo so tudi navodila za uporabo dovoljenj.
+1. [Naš kontrolni seznam selitve zagotavlja točko za začetek.](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist)
+2. Na portalu za registracijo aplikacije Azure so prikazane aplikacije, ki uporabljajo AAD Graph. Priporočamo, da pregledate izvorno kodo vseh aplikacij ter po potrebi stopite v stik z morebitnimi neodvisnimi razvijalci programske opreme ali ponudniki aplikacij. Microsoftova podpora vam lahko zagotovi tudi seznam vseh AAD-Graph uporabe v vašem najemniku.
+3. Če želite, da vaša aplikacija dostopa do podatkov v Graph Microsoft Graph, ji mora uporabnik ali skrbnik prek postopka podelitve soglasja podeliti ustrezna dovoljenja. V [sklicu Graph Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference) navedeni dovoljenji, ki so povezana z vsakim glavnim naborom API-jev Graph Microsoft Graph. V njem so na voljo tudi navodila za uporabo dovoljenj.

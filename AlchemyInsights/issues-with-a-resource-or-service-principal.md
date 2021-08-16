@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004336"
 - "7741"
-ms.openlocfilehash: 9c37ad8e4dfecdb59a37d767f8eb4a5d99be7fa1
-ms.sourcegitcommit: d13f23fb7994871d4e0e6e3e43672a101bd779e8
+ms.openlocfilehash: 52b9b2e950d66c2f4105b76c4e2c70ed51320e4a57eb0008c353a9587fcc6510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50714460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028092"
 ---
 # <a name="issues-with-a-resource-or-service-principal"></a>Težave z glavnim virom ali storitvijo
 
-1. Če ste šele začeli [uporabljati glavne predmete aplikacije in storitve v storitvi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) , je v imeniku Azure Active Directory opisana registracija programov, predmeti aplikacije in upravniki storitev v imeniški storitvi, ki jih uporabljajo in kako so povezani s seboj. Predstavljen je tudi primer scenarija multi-najemnika, ki ponazarja razmerje med predmetom aplikacije in pripadajočimi glavnimi predmeti storitve.
-2. Več informacij o relacijah med programi in glavnimi storitvami najdete v članku branje [aplikacij in osnovnih predmetov storitve v imeniku Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).
-3. [Kako: uporabite portal za ustvarjanje aplikacije AZURE ad in glavnice storitve, ki lahko dostopajo do virov](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) , vam pokaže, kako ustvarite nov program za uporabo storitve Azure Active Directory (Azure ad), ki ga je mogoče uporabiti s kontrolnikom za dostop, ki temelji na vlogi.
-4. S [storitvijo glavnega vmesnika API](https://docs.microsoft.com/graph/api/resources/serviceprincipal)lahko programsko upravljate primerke programov in nadzorujete, kaj lahko stori aplikacija v najemniku.
-5. [servicePrincipal vrsta vira](https://docs.microsoft.com/graph/api/resources/serviceprincipal) prikaže seznam vseh lastnosti in načinov za vrsto vira servicePrincipal.
-6. [Razlike med vrstami virov med grafikonom AZURE ad Graph in programom Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences) osvetljujejo razlike med Grafikonoma Azure ad Graph in viri Microsoft Graph. Prikazuje vire, ki imajo različna imena ali pa niso na voljo; izpostavlja tudi vire, ki so na voljo v različici beta programa Microsoft Graph, vendar ne v različici v 1.0.
+1. Če ste šele začeli, glavni predmeti programa in storitve v programu Azure Active Directory opisujejo registracijo aplikacije, predmete programa in glavna vprašanja storitve v storitvi Azure Active Directory: kaj so, kako jih uporabljate [in](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) kako so med seboj povezani. Predstavljen je tudi primer z več najemniki, ki prikazuje razmerje med predmetom aplikacije in pripadajočimi glavnimi predmeti storitve.
+2. Več o odnosu med programi in glavnimi predmeti storitve lahko izveste v programih in glavnih [predmetih storitve v Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)
+3. [Navodila:](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) S portalom ustvarite glavno ime aplikacije in storitve Azure AD, ki lahko dostopa do virov, je prikazano, kako ustvarite novo aplikacijo in glavno ime storitve Azure Active Directory (Azure AD), ki ga lahko uporabljate s kontrolnikom za dostop na osnovi vloge.
+4. Z [glavnim API-jem](https://docs.microsoft.com/graph/api/resources/serviceprincipal)storitve lahko programsko upravljate primerke aplikacij in nadzorujete, kaj lahko aplikacija naredi v najemniku.
+5. [servicePrincipal resource type](https://docs.microsoft.com/graph/api/resources/serviceprincipal) lists all properties and methods for the servicePrincipal resource type.
+6. [Razlike med viri med viri Azure AD Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences) in Microsoft Graph med viri Azure AD Graph in Microsoft Graph. Prikazuje vire z različnimi imeni ali pa niso na voljo; prav tako označi vire, ki so na voljo v različici beta programa Microsoft Graph vendar ne v različici v1.0.
 
-**Težave z gostujočimi Uporabniki**
+**Težave z gostuimi uporabniki**
 
-- [Hitri začetek: dodajanje gostujočih uporabnikov v imenik v portalu Azure](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal#prerequisites) vam pokaže, kako dodate novega gostujočega uporabnika v imenik Azure ad prek portala Azure, pošljete povabilo in preverite, kako je videti postopek odkupa povabila gostujočega uporabnika.
-- [Vadnica: ustvarjanje tokov uporabnikov v storitvi Azure Active Directory B2C](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows) vam pokaže, kako ustvarite priporočene uporabniške tokove s portalom Azure. Če iščete informacije o tem, kako nastavite vir poverilnic za gesla za lastnike virov (ROPC) v aplikaciji, si oglejte konfiguracija poverilnic za gesla za lastnike virov v storitvi Azure AD B2C.
+- [Hitri začetek:](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal#prerequisites) Dodajanje gostužnih uporabnikov v imenik v portalu Azure vam pokaže, kako dodate novega gostujočega uporabnika v imenik Azure AD prek portala Azure, pošljete povabilo in si ogledate, kako je videti postopek za unovčenje povabila gostužnega uporabnika.
+- [Vadnica: ustvarjanje potekov uporabnikov v storitvi Azure Active Directory V2C](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows) je prikazano, kako ustvarite priporočene uporabniške tokove s portalom Azure. Če želite informacije o tem, kako nastavite tok gesla lastnika vira v aplikaciji, glejte Konfiguracija toka poverilnic lastnika vira v storitvi Azure AD B2C.
