@@ -1,5 +1,5 @@
 ---
-title: Zahteve pravilnika za zaščito aplikacije
+title: Zahteve pravilnika za zaščito aplikacij
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: b76754a696608939403498dcd996c04ff5338b68
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d07a9500b9f17e05b4982f1219f8b94cb8c8be4b5484d334108c9131b42b5659
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749560"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995389"
 ---
-# <a name="application-protection-policy-requirements"></a>Zahteve pravilnika za zaščito aplikacije
+# <a name="application-protection-policy-requirements"></a>Zahteve pravilnika za zaščito aplikacij
 
-Zahteve pravilnika za zaščito aplikacije:
+Zahteve pravilnika za zaščito aplikacij:
 
-- Uporabnik ima licenco za InTune ali EMS.
-- Uporabnik pripada skupini, ki je usmerjena v pravilnike o zaščiti programov.
-- Le en uporabnik podjetja je vpisan v zaščitene aplikacije v napravi.
-- [Aplikacija je izvedla InTune SDK. Če želite seznam programov, ki podpirajo SDK, glejte Microsoft InTune zaščitene aplikacije.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
+- Uporabnik ima licenco za Intune ali EMS.
+- Uporabnik pripada skupini, ki je usmerjena v pravilnike za zaščito aplikacij.
+- V zaščitene aplikacije v napravi je vpisan le en uporabnik v podjetjih.
+- [Aplikacija je implementirana v SDK za Intune. Če želite seznam aplikacij, ki podpirajo SDK, glejte Microsoft Intune aplikacije.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
 [Več informacij ...](https://docs.microsoft.com/mem/intune/apps/app-protection-policy)

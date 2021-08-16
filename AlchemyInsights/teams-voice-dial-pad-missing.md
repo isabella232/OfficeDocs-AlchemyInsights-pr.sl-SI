@@ -1,5 +1,5 @@
 ---
-title: Manjkajoča glasovna številčnica v teams
+title: Teams glasovne številčnice ni
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2641"
 - "9000719"
-ms.openlocfilehash: 6837cb9fffcf93a7fb99fec4c2343f476dd00599
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3d6856e643e7b0fe435333b87d2a27b76f8e3763be676554819d0147a352273f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832362"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981273"
 ---
-# <a name="dial-pad-is-missing-in-microsoft-teams"></a>V aplikaciji Microsoft Teams manjka številčnica 
+# <a name="dial-pad-is-missing-in-microsoft-teams"></a>V programu Microsoft Teams 
 
-Če številčnica manjka v aplikaciji Microsoft Teams, preverite to:
+Če številčnica manjka v Microsoft Teams, preverite to:
 
 - Poskrbite, da bo imel uporabnik dodeljeno [licenco za aplikacijo Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses).
 - Poskrbite, da bo imel uporabnik dodeljen [načrt klicanja](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).

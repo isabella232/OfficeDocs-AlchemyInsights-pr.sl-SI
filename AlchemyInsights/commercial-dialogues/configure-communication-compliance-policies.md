@@ -1,5 +1,5 @@
 ---
-title: Konfiguracija pravilnikov o skladnosti komunikacije
+title: Konfiguracija pravilnikov o skladnosti s predpisi komunikacije
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ae07f437ef50756862eb2f622cb107ccb003c9c9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 931e32353641e7d03a6f077206ac65a4c4c75b52a423b53817aa67db863bb20c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968141"
 ---
-# <a name="configure-communication-compliance-policies"></a>Konfiguracija pravilnikov o skladnosti komunikacije
+# <a name="configure-communication-compliance-policies"></a>Konfiguracija pravilnikov o skladnosti s predpisi komunikacije
 
-Po izdaji skladnosti s komunikacijami v skladu s skladnostjo s predpisi Microsoft 365 v februarju 2020, je nadzor v sistemu Office 365 upokojen. Pravilniki nadzora ne bodo več na voljo za ustvarjanje in pravilniki bodo po daljšem obdobju dostopa samo za branje.
+Po izdaji skladnosti komunikacije s predpisi Microsoft 365 skladnosti s predpisi februarja 2020 bo nadzor Office 365 ukini. Pravilniki za nadzor ne bodo več na voljo za ustvarjanje, pravilniki pa bodo sčasoma odstranjeni po daljšem obdobju dostopa samo za branje.
 
 > [!IMPORTANT]
-> Če uporabljate nadzor, upoštevajte, da:
+> Če uporabljate nadzor, ne pozabite:
 >
-> 1. Z začetkom junija 15, 2020, najemniki ne bodo imeli možnosti ustvarjanja novih pravilnikov nadzora.
-> 2. Z začetkom avgusta 31, 2020, obstoječe pravilnike ne bodo več zajele novih sporočil.
-> 3. Začetek oktobra 26, 2020, obstoječe pravilnike bodo izbrisane.
+> 1. Od 15. junija 2020 najemniki ne bodo imeli možnosti ustvariti novih pravilnikov za nadzor.
+> 2. Od 31. avgusta 2020 obstoječi pravilniki ne bodo več zajemali novih sporočil.
+> 3. Od 26. oktobra 2020 bodo obstoječi pravilniki izbrisani.
 
-Aktivno spodbujamo stranke, ki trenutno raziskujejo ali uporabljajo nadzor v sistemu Office 365, da uporabijo novo [rešitev za skladnost komunikacije v programu Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2128593) , da se lotite vašega nadzora komunikacije ali regulativnih zahtev z veliko bogatejšim naborom inteligentnih zmogljivosti.
+Stranke, ki trenutno raziskujejo ali uporabljajo nadzor v programu Office 365, aktivno spodbujamo, naj uporabijo novo rešitev za skladnost s predpisi za komunikacijo v programu [Microsoft 365,](https://go.microsoft.com/fwlink/?linkid=2128593) s tem pa zagotovi veliko boljše nabore pametnih zmogljivosti.

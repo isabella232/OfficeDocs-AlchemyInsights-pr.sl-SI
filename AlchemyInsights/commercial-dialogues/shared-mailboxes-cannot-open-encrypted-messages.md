@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 24c5fdd23482c96c7f7c901881e9bfa2c1b61ea8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d597fa0020beedd481e017ab707a5a4f5192219ac87609a894d8ba7345ce3110
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005718"
 ---
 # <a name="shared-mailboxes-cant-open-encrypted-messages"></a>Nabiralniki v skupni rabi ne morejo odpreti šifriranih sporočil
 
 - Nabiralniki v skupni rabi ne morejo odpreti šifriranih sporočil, ne glede na to, kateri odjemalski program uporabljate (na primer Outlook 2016 ali Outlook v spletu).
-- Šifrirana sporočila lahko pošiljate iz nabiralnika v skupni rabi. Nastavite naslov za šifriranje, kot bi bil za katerega koli drugega uporabnika nabiralnika v vaši organizaciji. Če ste na primer nastavili šifriranje sporočil za vsa e-poštna sporočila, poslana iz vaše organizacije, bo nabiralnik v skupni rabi vključen.
+- Šifrirana sporočila lahko pošiljate iz nabiralnika v skupni rabi. Nastavite naslov za šifriranje tako, kot bi ga nastavili za nabiralnike drugih uporabnikov v vaši organizaciji. Če ste na primer nastavili šifriranje sporočil za vsa e-poštna sporočila, poslana iz organizacije, bo privzeto vključen nabiralnik v skupni rabi.

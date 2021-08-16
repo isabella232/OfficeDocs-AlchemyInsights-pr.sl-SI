@@ -1,5 +1,5 @@
 ---
-title: S/MIME v programu Outlook v spletu
+title: S/MIME v Outlook v spletu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 2351504b2fd3c24ee5c4d1c0442e6408444dc48c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21744afbb5709ad994457643412859bbfd68f455158dbdaebe1f5c2d5ec39138
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666130"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982749"
 ---
-# <a name="encrypt-messages-using-smime"></a>Šifriranje sporočil s protokolom S/MIME
+# <a name="encrypt-messages-using-smime"></a>Šifriranje sporočil s S/MIME
 
-Če želite povečati varnost sporočil, uporabite S/MIME v programu Outlook v spletu. Digitalno šifrirano sporočilo lahko odprete le prejemniki, ki imajo pravilno tipko. Digitalni podpis zagotavlja prejemnikom, da sporočilo ni bilo spremenjeno.
+Uporabite S/MIME Outlook v spletu za povečanje varnosti sporočil. Digitalno šifrirano sporočilo lahko odprejo le prejemniki z pravilnim ključem. Elektronski podpis prejemnikom zagotavlja, da si sporočila niso nedovoljeno urejali.
 
 **Opomba:** Razširitev S/MIME mora namestiti skrbnik.
 
-Če želite spremeniti nastavitve S/MIME v programu Outlook v spletu:
+Če želite spremeniti nastavitve S/MIME v Outlook v spletu:
 
 1. pojdi k <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
- **Nastavitve**  >  **Ogled vseh Outlookovih nastavitev**.
-2. Izberite **pošta**  >  **S/MIME**.
+ **Nastavitve**  >  **Oglejte si Outlook nastavitve.**
+2. Izberite **Mail**  >  **S/MIME (Pošta S/MIME).**
 
-Če želite več informacij, preberite [šifriranje sporočil s protokolom s/MIME v programu Outlook v spletu](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) .
+Če želite več informacij, preberite šifriranje sporočil s programom [S/MIME Outlook v spletu](https://support.office.com/article/878c79fc-7088-4b39-966f-14512658f480?wt.mc_id=Office_Outlook_com_Alchemy) šifriraj sporočila.

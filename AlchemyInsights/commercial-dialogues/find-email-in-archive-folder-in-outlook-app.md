@@ -1,5 +1,5 @@
 ---
-title: Iskanje e-pošte v mapi» Arhiviraj «v programu Outlook
+title: Iskanje e-pošte v mapi »Arhiv« Outlook aplikaciji
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: fd13949e477c40801874bfd1a235f8c477e686c4
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 10703fea4789b0861e0e5714ccba976ef52ac9088eb7d38d4ff8e95236a413c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749040"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968033"
 ---
-# <a name="find-email-in-archive-folder-in-outlook-app"></a>Iskanje e-pošte v mapi» Arhiviraj «v programu Outlook
+# <a name="find-email-in-archive-folder-in-outlook-app"></a>Iskanje e-pošte v mapi »Arhiv« Outlook aplikaciji
 
-V programu Outlook 2016 je mapa arhiva ena od Outlookovih privzetih map, na primer mape» Prejeto «,» poslano «in» izbrisano «. Mape arhiva ni mogoče izbrisati. Če uporabljate Outlook z računom za Office 365, se pravilniki map, kot so pravilniki o hranjenju, uporabljajo v mapi arhiva.
+V Outlook 2016 mapa Arhiv je ena od Outlook map, kot so mape »Prejeto«, »Poslano« in »Izbrisano«. Arhivske mape ni mogoče izbrisati. Če uporabljate Outlook računom za Office 365, za arhivsko mapo veljajo pravilniki za mape, kot so pravilniki o hranjenju.
 
-Če želite poiskati mapo» Arhiv «:
+Če želite poiskati mapo arhiva:
 
-1. V Outlooku izberite zavihek **pogled** > podokno z **mapami**  >  **Normal**.
-2. Mapa» Arhiv «je na seznamu map.
-3. Ko iščete Outlookove elemente tako, da uporabite funkcijo trenutnega nabiralnika za iskanje na vrhu seznama map, Outlook preišče celoten nabiralnik, vključno z mapo» Arhiv «.
+1. V Outlook izberite zavihek **Pogled v navadnem** **podoknu >**  >  **map.**
+2. Arhivska mapa je na seznamu map.
+3. Ko iščete elemente v mapah Outlook s funkcijo iskanja v trenutnem nabiralniku na vrhu seznama map, funkcija Outlook išče v celotnem nabiralniku, vključno z arhivsko mapo.
