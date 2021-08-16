@@ -1,5 +1,5 @@
 ---
-title: Uvajanje pravilnika skupine
+title: Uvajanje predmeta pravilnika skupine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004400"
 - "8602"
-ms.openlocfilehash: d31f77e70e8456a4076a8146025f1f8ada977a06
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 6f9e164713ce36023de954d45031fd4414780e174bf5c7741c4aec274a65b32e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50428052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067856"
 ---
-# <a name="gpo-deployment"></a>Uvajanje pravilnika skupine
+# <a name="gpo-deployment"></a>Uvajanje predmeta pravilnika skupine
 
-Nastavitve za predmete uporabnika in računalnike v domenskih storitvah Azure Active Directory (Azure AD DS) pogosto upravljajo s predmeti pravilnika skupine (GPO-ji). Azure AD DS vključuje vgrajene GPO-je za uporabnike AADDC in AADDC računalnike. Te vgrajene GPO-je lahko prilagodite tako, da konfigurirate pravilnik skupine, kot je potrebno za vaše okolje. Člani skupine» Skrbniki v storitvi Azure AD DC «imajo skrbniške pravice pravilnika skupine v domeni Azure AD DS, lahko pa tudi ustvarijo GPO in organizacijske enote po meri (organizacijske). Če želite več informacij o tem, kaj je pravilnik skupine in kako deluje, glejte [pregled pravilnika skupine](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831791(v=ws.11)).
+Nastavitve za uporabniške in računalniške predmete v Azure Active Directory Domain Services (Azure AD DS) se pogosto upravljajo s predmeti pravilnika skupin. Azure AD DS vključuje vgrajene gpote za uporabnike AADDC in vsebnike računalnikov AADDC. Te vgrajene pravilnike skupin lahko prilagodite tako, da za okolje konfigurirate pravilnik skupine po potrebi. Člani skupine skrbnikov imenika Azure AD DC imajo skrbniške pravice pravilnika skupine v domeni Azure AD DS, lahko pa ustvarijo tudi gpote po meri in organizacijske enote (OU). Če želite več informacij o tem, kaj je pravilnik skupine in kako deluje, glejte [Pregled pravilnika skupine.](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831791(v=ws.11))
 
-V hibridnem okolju se pravilniki skupine, konfigurirani v okolju na mestu uporabe AD DS, ne sinhronizirajo s storitvijo Azure AD DS. Če želite določiti nastavitve konfiguracije za uporabnike ali računalnike v storitvi Azure AD DS, uredite enega od privzetih GPO-jev ali ustvarite GPO po meri.
+V hibridnem okolju se pravilniki skupin, konfigurirani v okolju AD DS na mestu uporabe, ne sinhronizirajo s storitvijo Azure AD DS. Če želite določiti nastavitve konfiguracije za uporabnike ali računalnike v storitvi Azure AD DS, uredite enega od privzetih pravilnikov skupin po meri ali ustvarite predmet pravilnika skupin po meri.
 
-V tem članku je [upravljanje pravilnika skupine](https://docs.microsoft.com/azure/active-directory-domain-services/manage-group-policy) prikazano, kako namestite orodja za upravljanje pravilnika skupine, kako lahko tone uredite vgrajene GPO-je in kako ustvarite GPO-je po meri.
+V tem [članku je](https://docs.microsoft.com/azure/active-directory-domain-services/manage-group-policy) prikazano, kako namestite orodja za upravljanje pravilnika skupin, kako tona uredi vgrajene predmete pravilnikov skupin in kako ustvarite pravilnike skupin po meri.
