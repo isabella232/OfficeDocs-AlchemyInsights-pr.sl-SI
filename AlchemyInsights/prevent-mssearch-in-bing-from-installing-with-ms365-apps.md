@@ -1,5 +1,5 @@
 ---
-title: Preprečevanje Microsoftovega iskanja v storitvi Bing iz namestitve s programi Microsoft 365
+title: Preprečite Iskanje Microsoft, Bing se namestitev s Programi Microsoft 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005302"
 - "9211"
-ms.openlocfilehash: 354aa41475f20bc959f25ce66d75962eed2ca44a
-ms.sourcegitcommit: 74663ad4a32dfa643f377fbd74151bdcb0e6ee75
+ms.openlocfilehash: f84dfeab060b819ecf76bba31cd24b05f01188316af8f4d6d02e205f8dd18b97
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "50816445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040126"
 ---
-# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Preprečevanje Microsoftovega iskanja v storitvi Bing iz namestitve s programi Microsoft 365
+# <a name="prevent-microsoft-search-in-bing-from-installing-with-microsoft-365-apps"></a>Preprečite Iskanje Microsoft, Bing se namestitev s Programi Microsoft 365
 
-Če želite preprečiti, da bi se v ozadju storitev za Microsoft Search v storitvi Bing namestili z aplikacijo Microsoft 365 apps za podjetja, uporabite eno od teh možnosti:
+Če želite preprečiti, da bi storitev ozadja Iskanje Microsoft Bing, da bi jo Programi Microsoft 365 za podjetja, uporabite eno od teh možnosti:
 
-- Orodje za uvajanje sistema Office ali pravilnik skupine
-- Upravitelj konfiguracije za Microsoft Endpoint (Trenutna veja) ali Microsoft InTune
+- The Office Deployment Tool or Group Policy
+- Microsoft Endpoint Configuration Manager (trenutna podružnica) ali Microsoft Intune
 
-Če želite izvedeti več, glejte [Kako preprečite, da bi bila storitev za ozadje za Microsoft Search v storitvi Bing nameščena s programi microsoft 365 za podjetja](https://go.microsoft.com/fwlink/?linkid=2151946).
+Če želite izvedeti več, glejte Kako preprečiti namestitev storitve v ozadju za Iskanje Microsoft [Bing v računalniku s Programi Microsoft 365 za podjetja](https://go.microsoft.com/fwlink/?linkid=2151946).

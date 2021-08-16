@@ -1,5 +1,5 @@
 ---
-title: 204 kako poiščete manjkajoče ali obnovite manjkajoče Outlookove pošte, koledar ali stike
+title: 204 Kako poiskati manjkajoče ali Outlook pošte, koledarja ali stikov
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "204"
 - "1800008"
 ms.assetid: 86752487-615c-447d-aebf-bf5abd49db20
-ms.openlocfilehash: 11ece8466011440afa97fbab729bf9d6ee45a724
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17a6eb841a87b046bd822052a467b4ad40d83b76f1aeac5bc56bea29b4d9a755
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780363"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54029172"
 ---
-# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Kako poiščete in obnovite manjkajoča sporočila, stike ali elemente koledarja v Outlooku
+# <a name="how-to-find-and-recover-missing-messages-contacts-or-calendar-items-in-outlook"></a>Iskanje in obnovitev manjkajočih sporočil, stikov ali elementov koledarja v Outlook
 
-1. V Outlooku pojdite na seznam e-poštnih map in nato kliknite **izbrisani elementi**. **Pomembno**: če ne vidite mape» **Izbrisano** «, vendar je namesto tega prikazana mapa» **koš** «, vaš račun ne podpira obnavljanja elementa, ki ni več v mapi» **Izbrisano** «.
+1. V Outlook pojdite na seznam e-poštnih map, nato pa izberite **Izbrisano**. **Pomembno:** Če ne vidite  mape »Izbrisano« in  si namesto tega oglejte mapo »Koš« vaš račun ne podpira obnavljanja elementa, ki ga ni več v mapi **»Izbrisano«.**
 
-2. V meniju **osnovno** kliknite **obnovi izbrisane elemente iz strežnika**. **Pomembno**: Če v meniju ni ukaza **obnovitev izbrisanih elementov iz strežnika** , vaš račun ne podpira obnavljanja elementa, ki ni več v mapi» **Izbrisano** «.
+2. V **meniju Osnovno** kliknite Obnovi **izbrisane elemente iz strežnika.** **Pomembno:** Če v  meniju ni ukaza Obnovi izbrisane elemente iz strežnika, vaš račun ne podpira obnovitev elementa, ki ga ni več v mapi **»Izbrisano«.**
 
-3. Izberite elemente, ki jih želite obnoviti, kliknite **Obnovi izbrane elemente**in nato kliknite **v redu**.
+3. Izberite elemente, ki jih želite obnoviti, kliknite Obnovi **izbrane elemente** in nato kliknite V **redu.**
 
-**Kam se odpravijo obnovljeni elementi?** Ko obnovite elemente iz mape» obnovljivi elementi «, so premaknjeni v mapo» **Izbrisano** «. Ko obnovite element, ga lahko poiščete v mapi» **Izbrisano** «, nato pa ga lahko premaknete v drugo mapo.
+**Kje so obnovljeni elementi?** Ko obnovite elemente v mapi »Obnovljivi elementi« se premaknejo v **mapo »Izbrisano«.** Ko obnovite element, ga lahko najdete v mapi **»Izbrisano«** in ga nato premaknete v drugo mapo.
 
-Uporabite lahko tudi težave s [pošiljanjem, prejemanjem ali iskanjem e-poštnih sporočil](https://aka.ms/SaRA-OutlookSendReceive) **v prizadetih strojih**. S tem orodjem boste preverili številne težave in predlagali možne rešitve.
+Prav tako lahko uporabite orodje [»Imam težave s pošiljanjem, prejemanjem](https://aka.ms/SaRA-OutlookSendReceive) ali iskanjem e-poštnih sporočil **v računalniku s to težavo«.** S tem orodjem boste preverili, ali so na voljo številne težave, predlagali pa bodo tudi možne rešitve.

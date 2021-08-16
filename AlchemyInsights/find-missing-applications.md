@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974970"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068936"
 ---
 # <a name="find-missing-applications"></a>Iskanje manjkajočih programov
 
-- [Hitri zagon: ogled seznama programov, ki uporabljajo vaš imenik Azure Active Directory (AZURE ad) za upravljanje identitete](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) , vam pokaže, kako si lahko ogledate aplikacije, znane tudi kot aplikacije, ki so že nastavljene za uporabo svojega najemnika storitve Azure ad kot svojega ponudnika identitete (IdP).
-- Če želite poiskati določen program, pojdite v meni **Vrsta aplikacije** , izberite **vsi programi** in izberite **uporabi**.
-  - Vnesite ime programa, ki ga želite poiskati. Če ste program dodali v najemnika storitve Azure AD, se prikaže v rezultatih iskanja. Vnesete lahko tudi prvih nekaj črk imena aplikacije.
-- [Odpravljanje pogoste težave pri dodajanju ali odstranjevanju programa v storitvi Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) lahko razumete pogoste težave, s katerimi se ljudje srečujejo z ogledom programov v storitvi Azure Active Directory.
+- Hitri začetek: Oglejte si seznam aplikacij, ki za upravljanje identitet uporabljajo najemnika [Azure Active Directory (Azure AD),](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) in vam pokaže, kako si ogledate aplikacije, znane tudi kot aplikacije, ki so že nastavljene za uporabo najemnika imenika Azure AD kot ponudnika identitete (IdP).
+- Če želite poiskati določeno aplikacijo, pojdite v meni **Vrsta programa,** **izberite Vsi programi** in izberite **Uporabi.**
+  - Vnesite ime programa, ki ga želite poiskati. Če ste program dodali v najemnika Azure AD, je ta prikazan med rezultati iskanja. Vnesete lahko tudi prvih nekaj črk imena programa.
+- [Odpravite pogoste težave z dodajanjem ali odstranjevanjem](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) programa v Azure Active Directory, da boste lažje razumeli pogoste težave, s katerimi se srečujejo osebe z Azure Active Directory.
