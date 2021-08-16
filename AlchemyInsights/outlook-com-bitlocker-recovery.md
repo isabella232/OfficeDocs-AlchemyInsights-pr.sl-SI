@@ -1,5 +1,5 @@
 ---
-title: Outlook.com BitLocker Recovery
+title: Outlook.com Obnovitev storitve BitLocker
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: b41797fbae6972bc0a9e0fa2252fec36f9b02ace
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 802a37239467624a856393b9909170c3f3b2233cfa238508fd0515749a71d1a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025122"
 ---
-# <a name="bitlocker-recovery"></a>Obnovitev BitLockerja
+# <a name="bitlocker-recovery"></a>Obnovitev storitve BitLocker
 
-Pojdite na [naprave](https://account.microsoft.com/devices/recoverykey) , da si ogledate obnovitvene ključe BitLockerja.
+Odprite Naprave, [da](https://account.microsoft.com/devices/recoverykey) si ogledate obnovitvene ključe za BitLocker.
 
-Če želite več informacij, glejte [Iskanje obnovitvenega ključa](https://support.microsoft.com/help/4026181)   za BitLocker.
+Če [želite več informacij, glejte Iskanje obnovitvenega ključa za BitLocker.](https://support.microsoft.com/help/4026181)
