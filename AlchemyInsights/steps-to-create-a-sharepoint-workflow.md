@@ -1,5 +1,5 @@
 ---
-title: Koraki za ustvarjanje SharePointovega poteka dela
+title: Steps to create a SharePoint workflow
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,29 +13,29 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 0d3ffde45f32224632b1b9e29b7e798aadd1a6b7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c90ba1467e3259334932938e7d647b7054970a75a78f86e76e503d7295670df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737933"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021396"
 ---
-# <a name="steps-to-create-a-sharepoint-workflow"></a>Koraki za ustvarjanje SharePointovega poteka dela
+# <a name="steps-to-create-a-sharepoint-workflow"></a>Steps to create a SharePoint workflow
 
-- Če ne morete dodati poteka dela odobritve za SharePoint 2010, glejte [ne morete dodati privzetega poteka dela za odobritev 2010](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
+- Če ne morete dodati poteka dela odobritve za SharePoint 2010, glejte Ni mogoče dodati privzetega poteka dela odobritve [za leto 2010.](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow)
 - Kako ustvariti poteke dela:
-    - [2013 potek dela v programu SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
-    - [2010 potek dela v programu SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
-    - [Uvod v SharePointov potek dela](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
+    - [Potek dela za leto 2013 iz SharePoint Designer](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
+    - [Potek dela za leto 2010 iz SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
+    - [Uvod v SharePoint poteka dela](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
 
-- Odpravljanje težav s potekom dela in razhroščevanje:
-    - Poteki dela, ki odpravljajo napake, so podobni prejšnjim različicam.  Če želite več informacij, glejte [Odpravljanje napak v SharePointovih potekih dela](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-    - Če želite več informacij o odpravljanju težav, glejte [Odpravljanje napak pri preverjanju poteka dela strežnika SharePoint Server](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+- Odpravljanje težav s potekom dela in odpravljanje napak:
+    - Iskanje in odpravljanje napak v potekih dela je podobno kot v prejšnjih različicah.  Če želite več informacij, glejte [Odpravljanje SharePoint potekov dela.](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows)
+    - Če želite več informacij o odpravljanju težav, glejte [Odpravljanje SharePoint napak pri preverjanju veljavnosti poteka dela v strežniku.](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio)
  
 
 ## <a name="related-topics"></a>Sorodne teme
-Ali želite preskusiti Microsoft Flow v storitvi SharePoint online?
-- [Ustvarjanje toka](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
+Ali želite preskusiti Microsoft Flow spletnem SharePoint Onlineu?
+- [Ustvarjanje Flow](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint in Flow](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 
 
