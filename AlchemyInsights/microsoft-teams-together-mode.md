@@ -1,5 +1,5 @@
 ---
-title: Način» Microsoft Teams Together «
+title: Microsoft Teams Način »Skupaj«
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "6036"
 - "9003218"
-ms.openlocfilehash: c2288511c404a33141d28a4b04a6b38428317f10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 94730df24a4fa025cfaa226a56e25beb8bc9c88fc1b6f8ea77bc6e97ee7c73f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012252"
 ---
-# <a name="microsoft-teams-together-mode"></a>Način» Microsoft Teams Together «
+# <a name="microsoft-teams-together-mode"></a>Microsoft Teams Način »Skupaj«
 
-Način skupaj združuje desetletja raziskav in razvoja izdelkov za udeležence na video klicu, ki je prikazan v navideznem prostoru, kot je Avditorij, sejna soba ali Kava bar. 
+Način »Skupaj« združuje že več deset dni raziskovanja in razvoja izdelka za udeležence videoklica, ki so videti skupaj v navideznem prostoru, kot je avditorij, soba za srečanja ali kavarna. 
 
-Nova funkcija jarki tradicionalno mrežo polj, ustvarjanje okolja, ki ga imajo uporabniki za to, da ima velik vpliv na delovanje konferenčne konference in zagotavlja večjo povezanost skupini. Če želite izvedeti več o načinu» skupaj «, si oglejte, [Kako lahko pridobite največ iz skupnega načina](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496).  
+Nova funkcija stisne tradicionalno mrežo polj in ustvari okolje, ki ga uporabniki imajo za vpliv na občutek videokonference in skupini ponuja več časa. Če želite izvedeti več [](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/how-to-get-the-most-from-together-mode/ba-p/1509496)o načinu »Skupaj«.  
 
-Če želite več informacij o načinu za združevanje, ki bo na voljo za vašo organizacijo, glejte načrt Microsoft 365, [način Microsoft Teams – skupaj](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)
+Če želite več informacij o tem, kdaj bo za vašo organizacijo na voljo način »Microsoft 365« v Microsoft Teams [– način »Skupaj«](https://www.microsoft.com/microsoft-365/roadmap?featureid=65942)

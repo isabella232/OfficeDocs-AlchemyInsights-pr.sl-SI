@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 075811418fc697bffdc9d9bfa2d8c4527b1cc7f91bf5892447d099f1c5ee6140
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815954"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012180"
 ---
-# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft za izvajanje skupne rabe najemnika
+# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do v skupno rabo med najemniki
 
-Microsoft omogoča, da podpira skupno rabo seznamov med osebnimi in službenimi računi. Tako lahko uporabniki v vaši organizaciji
+Microsoft To Do podpira skupno rabo seznama med osebnimi in službenimi računi. To uporabnikom v vaši organizaciji omogoča, da
 
-Pridružite se, si oglejte, spremenite in dodajte podatke na sezname, ki so v lasti osebnih Microsoftovih računov.
+združite, si ogledate, spremenite in dodate podatke na sezname, ki so v lasti osebnih Microsoftovih računov.
 
-Nova skrbniška nastavitev je na voljo za skrbnike za onemogočanje te funkcije s funkcijo un-preverjanje možnosti.
+Skrbniki lahko novo skrbniško nastavitev onemogočijo tako, da onemogočijo to možnost.
 
-Skrbnik lahko poišče to nastavitev v skrbniškem portalu v razdelku **Nastavitve**  >  **Org Settings**  >  **storitve**  >  **Microsoft** Settings.  
+Skrbnik lahko to nastavitev poišče v skrbniškem portalu v razdelku **Nastavitve**  >  **Org Nastavitve**  >  **Services**  >  **Microsoft To Do.**  
 
-[Zakaj se ne morem povezati s seznamom v skupni rabi?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
+[Zakaj se ne morem pridružiti seznamu v skupni rabi?](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
