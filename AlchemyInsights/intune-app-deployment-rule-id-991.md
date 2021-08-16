@@ -1,5 +1,5 @@
 ---
-title: Nastavitev ID-ja pravila za uvajanje programa 991
+title: ID pravila uvajanja aplikacije Intune 991
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: 90e8b8f2d66046f1e74d051343d8dded9d5c8f95
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 561ff3a3a70029a6c53776176602f6de10a6637f8ab66c0189d7584220316e87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014124"
 ---
-# <a name="intune-app-deployment"></a>Uvajanje programa InTune
+# <a name="intune-app-deployment"></a>Uvajanje programa Intune
 
-Uvajanje programov s programom InTune je postopek v treh korakih:
+Uvajanje programov v aplikaciji Intune poteka v treh korakih:
   
-1. Če **dodate aplikacijo** , lahko dodate program za shranjevanje aplikacij ali prenesete vrstico za podjetja.
+1. **Dodajanje programa –** dodate lahko program iz trgovine App Store ali prenesete poslovni program.
 
-2. **Dodeljevanje** aplikacije – določanje obsega uvedbe aplikacije.
+2. **Dodeljevanje programa –** določite obseg uvajanja programa.
 
-3. **Spremljanje programov** – Oglejte si stanje namestitve programov, seznam odkritih programov in upravljanje programov, kupljenih iz trgovin aplikacije.
+3. **Aplikacije za** nadzorovanje – oglejte si stanje namestitve aplikacij, seznam odkritih aplikacij in upravljanje aplikacij, kupljenih v trgovinah programov.
 
-Preberite, [Kaj je InTune upravljanje](https://docs.microsoft.com/intune/app-management) programov za walkthroughs in informacije o konfiguriranju in zaščiti aplikacij.
+Preberite [Kaj je Upravljanje aplikacij intune,](https://docs.microsoft.com/intune/app-management) če želite več informacij o konfiguraciji in zaščiti aplikacij.
   

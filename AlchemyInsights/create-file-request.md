@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: faf867f41679ad4f51b977b97678b62797488bd8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 01124fa426d2f2beaed81d646773efdf155f5f0d45a9c585f80913b111fa9598
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816027"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016284"
 ---
 # <a name="how-to-create-a-file-request"></a>Kako ustvariti zahtevo za datoteko
 
-S funkcijo zahteve za datoteko v storitvi OneDrive lahko izberete mapo, v kateri lahko drugi prenesejo datoteke prek povezave, ki ste jo vi poslali. Uporabniki, ki jim zahtevate datoteke, ne vidijo, kaj je v mapi, ampak lahko v mapo prenesejo le datoteke.
+Funkcija zahteve za datoteko v OneDrive omogoča izbiro mape, v kateri lahko drugi prenesejo datoteke s povezavo, ki ste jo vi poslali. Uporabniki, ki jim zahtevate datoteke, ne vidijo, kaj je v mapi, ampak lahko v mapo prenesejo le datoteke.
 
-**Opomba:** Skrbnik mora omogočiti vse [povezave v storitvi](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) OneDrive, da bodo zahteve za datoteke delovale.
+**Opomba:** Skrbnik mora omogočiti vse [povezave v programu](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) OneDrive datotečnim zahtevam za delo.
 
 - Če želite več informacij, [glejte Ustvarjanje zahteve za datoteko.](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af)

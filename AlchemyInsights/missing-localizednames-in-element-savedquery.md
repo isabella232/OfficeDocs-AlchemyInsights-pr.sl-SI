@@ -1,5 +1,5 @@
 ---
-title: Manjkajoči» LocalizedNames «v elementu» shranjeno poizvedbo «
+title: Manjkajoča »Lokalizirana Imena« v elementu »savedquery«
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 122904b1eb2d1c20fd26bb6a388aa50ced766cec9649fce15c0fae7f6b322832
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667138"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065624"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>Manjkajoči» LocalizedNames «v elementu» shranjeno poizvedbo «
+# <a name="missing-localizednames-in-element-savedquery"></a>Manjkajoča »Lokalizirana Imena« v elementu »savedquery«
 
-Če potrebujete pomoč za manjkajoče» LocalizedNames «, si oglejte [» element» shranjeno poizvedbo «ima nepopolno vsebino. Na seznamu možnih elementov, ki se pričakujejo: Napaka» LocalizedNames «se pojavi pri uvozu rešitve Dynamics 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+Če želite pomoč za manjkajoča »Lokalizirana Imena«, glejte [»Element »shranjenapoizvedbo« ima nepopolno vsebino. Pri uvozu rešitve storitve Dynamics 365 se pojavi seznam pričakovanih elementov: »LocalizedNames'« (Lokalizirana imena).](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element)
 
-Poiščite posebne znake v imenu pogleda, ki lahko povzročijo težavo. Odstranite vse posebne znake v imenu pogleda in znova izvozite rešitev.
+V imenu pogleda poiščite posebne znake, ki lahko povzročajo težavo. Odstranite vse posebne znake v imenu pogleda in znova izvozite rešitev.

@@ -1,5 +1,5 @@
 ---
-title: InTune inventarja naprave
+title: Intune – inventar naprav
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1281"
 - "6700008"
-ms.openlocfilehash: 5d2be7485be8578f7fdee3216dc6f3970be67fd1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00ee4f1d7130c239272e28ee8e051a18e6e0baf13040d2a892866be5900adfaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667894"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014088"
 ---
-# <a name="intune-device-inventory"></a>InTune inventarja naprave
+# <a name="intune-device-inventory"></a>Intune – inventar naprav
 
-Rezilo» Devices «omogoča skrbniku vpogled v naprave v razdelku upravljanje v programu InTune v napravi na osnovi. Prikazani podatki vključujejo: strojna oprema, odkrite aplikacije, stanje naprave za skladnost s predpisi in stanje konfiguracije naprave.
+Re blade Devices provides the administrator insight into devices under management in Intune on a per device basis. Prikazane informacije vključujejo: strojno opremo, odkrite aplikacije, stanje skladnosti naprave in stanje konfiguracije naprave.
 
-Podatki o inventarju strojne opreme in odkriti programi so zbrani v sedemdnevnem ciklu. Aplikacije in določeni elementi strojne opreme se razlikujejo glede na operacijski sistem naprave in ali je naprava osebno ali v lasti podjetja.
+Podatki o zalogi za strojno opremo in odkrite aplikacije se zbirajo v sedemdnevnem ciklu. Aplikacije in določeni elementi strojne opreme, o katerih je poročano, se razlikujejo glede na operacijski sistem naprave in glede na to, ali je naprava v lasti osebne naprave ali podjetja.
 
-Če želite več informacij, glejte [Ogled podrobnosti naprave v programu InTune](https://docs.microsoft.com/intune/device-inventory).
+Če želite več informacij, glejte [Podrobnosti naprave v intune.](https://docs.microsoft.com/intune/device-inventory)
 
 **Pogosta vprašanja**
 
-V: v napravah s sistemom Windows ne prejmem celotnega seznama inventarnih programov, ki so na voljo v razdelku InTune. zakaj pa ne?
+V: Nisem prejel polnega seznama inventarja aplikacij, ki so na voljo v napravah, včlanjenih Windows Intune. zakaj pa ne?
 
-A: trenutno so v računalnikih s sistemom Windows 10, ki so prepoznani kot podjetja, navedene le sodobne aplikacije. InTune ne zbira informacij o aplikacijah Win32, ki so nameščene v teh napravah.
+O: Trenutno so za računalnike s sistemom Windows, Windows 10 navedene kot naprave podjetja, navedene le sodobne aplikacije. Intune ne zbira informacij o aplikacijah Win32, nameščenih v teh napravah.
 
-V: zakaj se telefonske številke ne zbirajo v vseh napravah?
+V: Zakaj telefonske številke niso zbrane iz vseh naprav?
 
-A: telefoni, kategorizirani kot podjetja v programu InTune, niso identificirani s polno telefonsko številko, ko na primer zaženete poročilo o inventarju prenosne naprave. Telefonske številke, ki so na voljo za lastno napravo, so vedno delno prikrite z zvezdicami (* * * *) in prikazujejo le zadnje štiri števke.
+O: Telefoni, kategorizirani kot poslovne naprave v intune, niso prepoznani s polno telefonsko številko, če na primer zaženete poročilo o zalogi mobilne naprave. Telefonske številke iz naprave Bring-you-own-device so vedno delno zakrite z zvezdicami (****), in pokažejo le zadnje štiri števke.

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 2fe193cebfb00b22eda54f2dc0b264db7b9b84cb
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747235"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045148"
 ---
 # <a name="view-all-quarantined-messages"></a>Ogled vseh sporočil v karanteni
 
-1. V skrbniškem središču pojdite v središče za [skladnost varnostnega &.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Pojdite v razdelek» pregled **grožnje**«v  >    >  **karanteni**.
-3. Sporočila so privzeto razvrščena od najnovejših do najstarejšega na podlagi datuma, ko je bilo sporočilo prejeto. Polje lahko razvrstite tako, da kliknete glavo.
-4. Množične operacije lahko izvedete le v 100, tako da lahko filtriranje zmanjša nabor rezultatov, če imate več kot 100 elementov.
+1. V skrbniškem središču odprite središče za [varnost in & s predpisi.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+2. Odprite **karanteno za pregled**  >  **upravljanja**  >  **groženj.**
+3. Privzeto so sporočila razvrščena od najnovejšega do najstarejšega glede na datum, ko je bilo sporočilo prejeto. Po polju lahko razvrščate tako, da kliknete glavo.
+4. Uporabite lahko le množične operacije za največ 100 elementov, tako da lahko s filtriranjem tudi zmanjšate nabor rezultatov, če imate več kot 100 elementov.

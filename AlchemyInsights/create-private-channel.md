@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "6874"
 - "9001223"
-ms.openlocfilehash: c5d23ac050d92c1d6b8c188707255de0abf0b95c
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
-ms.translationtype: MT
+ms.openlocfilehash: 5845258aeccc700e865ab109be8662ccc61ffc15c0a4fc7439449af22c73b30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50483012"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016248"
 ---
 # <a name="create-a-private-channel"></a>Ustvarjanje zasebnega kanala
 
-Vsak lastnik skupine ali član skupine lahko privzeto ustvari zasebni kanal. Gostje ne morejo ustvariti zasebnega kanala. 
+Vsak lastnik ekipe ali član skupine lahko privzeto ustvari zasebni kanal. Gostje ne morejo ustvariti zasebnega kanala. 
 
-Možnost ustvarjanja zasebnih kanalov lahko upravljate na ravni skupine in na ravni organizacije. S pravilniki lahko nadzorujete, kateri uporabniki v vaši organizaciji lahko ustvarijo zasebne kanale. Ko nastavite pravilnike, lahko lastniki skupine onemogočijo ali omogočijo privilegij, da člani ustvarijo zasebne kanale na zavihku **Nastavitve** .
+Možnost ustvarjanja zasebnih kanalov lahko upravljate na ravni ekipe in na ravni organizacije. S pravilniki lahko nadzorujete, kateri uporabniki v vaši organizaciji lahko ustvarjajo zasebne kanale. Ko nastavite pravilnike, lahko lastniki ekip onemogočijo ali omogočijo pravice za člane, da ustvarijo zasebne kanale na **zavihku Nastavitve** skupine.
 
 > [!NOTE]
-> Vsaka skupina ima lahko največ 30 zasebnih kanalov in vsak zasebni kanal ima lahko največ 250 članov.
+> Vsaka ekipa ima lahko največ 30 zasebnih kanalov, vsak zasebni kanal pa lahko vključuje največ 250 članov.
 
-Če želite več informacij, glejte [Ustvarjanje zasebnih kanalov](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation).
+Če želite več informacij, glejte [Ustvarjanje zasebnega kanala.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation)
 
 

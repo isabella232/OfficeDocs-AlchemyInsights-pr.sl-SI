@@ -1,5 +1,5 @@
 ---
-title: Posodobitev nastavitev DNS
+title: Posodobitev nastavitev dns
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 37355c1b6658f21d35d03aacf292bbdc174a2359
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7dd2fbbd23beedda47bd724d84d717a3751f51f9607274d9b124f14463cf4b50
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747220"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045184"
 ---
-# <a name="update-dns-settings"></a>Posodobitev nastavitev DNS
+# <a name="update-dns-settings"></a>Posodobitev nastavitev dns
 
-Posodabljanje nastavitev DNS vključuje kopiranje in lepljenje vrednosti, ki jih Office 365 omogoča v registratorja domene ali ponudnika gostovanja DNS. To naredite tako, da izvedete te korake:
+Pri posodabljanju nastavitev sistema DNS morate kopirati in prilepiti vrednosti, ki jih Office 365 te vrednosti v registrator domene ali ponudnika gostovanja DNS. To naredite tako:
 
-1. Kopirajte in prilepite vrednosti, ki so prikazane na strani **Update DNS Settings (posodobi** ) v vaš ponudnik gostovanja DNS.
-2. Kliknite **preveri**.
-3. Kliknite **Dokončujej**.
+1. Kopirajte in prilepite vrednosti, prikazane na strani **Posodobitev nastavitev dns,** v ponudnika gostovanja DNS.
+2. Kliknite **Preveri.**
+3. Kliknite **Dokončaj.**
