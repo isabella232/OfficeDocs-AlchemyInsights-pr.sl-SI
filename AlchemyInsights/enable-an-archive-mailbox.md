@@ -12,12 +12,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: d0b7125cb25d739d553bf00054fb24c84eb4cae6
-ms.sourcegitcommit: 3e2a80d0db0111f203628e7232760b3e1e3a23a0
+ms.openlocfilehash: b7274404ed5c88273af1cc6ba0f967a7d9529a6126b6dc6f5a8e9561f0b77418
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51857896"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100814"
 ---
 # <a name="enable-an-archive-mailbox"></a>Omogočanje nabiralnika arhiva
 
@@ -31,7 +31,7 @@ Ali pa sledite [tej povezavi](https://sip.compliance.microsoft.com/informationgo
 
 Za nabiralnike v skupni rabi:
 
-1. Pojdite v [Skrbniško središče za Exchange](https://outlook.office365.com/ecp) in se vpišite s skrbniškem računom.
+1. Obiščite [skrbniško Exchange in](https://outlook.office365.com/ecp) se vpišite s skrbniškem računom.
 2. Pojdite na Prejemniki **v skupni**  >  **rabi.**
 3. Izberite nabiralnik v skupni rabi.
 4. V podoknu s podrobnostmi na desni strani **v** razdelku Arhiv na mestu **kliknite** Omogoči in nato **Da,** da omogočite nabiralnik arhiva.

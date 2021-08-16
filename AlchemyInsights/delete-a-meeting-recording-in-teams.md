@@ -1,5 +1,5 @@
 ---
-title: Brisanje posnetka srečanja v aplikaciji Teams
+title: Brisanje posnetka srečanja v Teams
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -8,26 +8,26 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c8e6c1bc9a64cca6bf84c13e71387629326f62f4
-ms.sourcegitcommit: dd4054a97ac9c317cb559994846a9695543ddc2c
+ms.openlocfilehash: b58ca3d72eb7e937fbc33beb87a5f47e4b6280ca845224f973189e689c33c03c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447470"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031566"
 ---
-# <a name="delete-a-meeting-recording-in-teams"></a>Brisanje posnetka srečanja v aplikaciji Teams
+# <a name="delete-a-meeting-recording-in-teams"></a>Brisanje posnetka srečanja v Teams
 
-Lastniki zapisov (oseba, ki je začela snemati ali kateri koli dodatni lastniki, ki jih je poimenovala ta oseba), so le osebe, ki lahko izbrišejo posnetke.  
+Lastniki posnetkov (oseba, ki je začela snemanje, ali dodatni lastniki, ki jih je ta oseba poimenovala) so edini, ki lahko izbrišejo posnetke.  
 
-Če želite izvedeti več o brisanju posnetka srečanja v OneDrive (za srečanja brez kanala),  [glejte tukaj](https://support.microsoft.com/office/21fe345a-e488-4fa7-932b-f053c1bebe8a).  
+Če želite izvedeti več o brisanju posnetka srečanja v OneDrive (za ne kanalna srečanja), [pojdite na to stran.](https://support.microsoft.com/office/21fe345a-e488-4fa7-932b-f053c1bebe8a)  
 
-Če želite izvedeti več o brisanju posnetka srečanja v SharePointu (za srečanja na kanalih),  [glejte tukaj](https://support.microsoft.com/office/71f3c90a-0d24-4d80-8b66-f88234b79a52).  
+Če želite izvedeti več o brisanju posnetka sestanka v SharePoint (za sestanke v kanalu), [pojdite na to stran.](https://support.microsoft.com/office/71f3c90a-0d24-4d80-8b66-f88234b79a52)  
 
-**Pomembne**
+**Pomembno:**
 
-- V Q1 2021 se **posnetki srečanja v programu Teams ne bodo več shranili v  [Microsoft Stream](https://stream.microsoft.com/)**. Premik naprej, vse posnetke srečanja bodo shranjene v OneDrive in SharePoint. Nekatere organizacije se že odločijo, da bodo spremenile to spremembo. Za te uporabnike se bo selitev v  [OneDrive in SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change)  začela oktobra 2020.
+- V 1. četrtletju 2021 Teams posnetki srečanja ne bodo več **shranjeni v [Microsoft Stream.](https://stream.microsoft.com/)** Če se boste premaknili naprej, bodo vsi posnetki srečanja shranjeni OneDrive in SharePoint. Nekatere organizacije se že odločijo za to spremembo. Za te uporabnike se bo [selitev v OneDrive in SharePoint](https://docs.microsoft.com/MicrosoftTeams/tmr-meeting-recording-change) začela oktobra 2020.
 
-**Če vaša organizacija še vedno uporablja pretočni** prenos, upoštevajte ta navodila:
+**Če vaša organizacija še vedno uporablja Stream,** upoštevajte ta navodila:
 
-- V aplikaciji Teams, pojdite na snemanje v zgodovini klepeta in kliknite več možnosti * * * * * * * > Odpri v Microsoft Stream.
-- V portalu Microsoft Stream kliknite * * * * * * * > Izbriši.
+- V Teams izberite posnetek v zgodovini klepeta in kliknite Več možnosti ******* in > Odpri v storitvi Microsoft Stream.
+- V portalu Microsoft Stream kliknite ******* in > Izbriši.

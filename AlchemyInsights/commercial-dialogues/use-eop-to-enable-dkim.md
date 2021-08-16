@@ -1,5 +1,5 @@
 ---
-title: Uporaba storitve PowerShell za Exchange Online za omogočanje DKIM za določeno domeno
+title: Uporaba Exchange Online PowerShell za omogočanje skripta DKIM za določeno domeno
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 2f2b60a63b512bde794ba588852db11423e766f3
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: ba627c6da96624914b858aa09d6eff9de709134c2c986fe363845c5ab2b66434
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070332"
 ---
-# <a name="use-exchange-online-powershell-to-enable-dkim-for-a-specific-domain"></a>Uporaba storitve PowerShell za Exchange Online za omogočanje DKIM za določeno domeno
+# <a name="use-exchange-online-powershell-to-enable-dkim-for-a-specific-domain"></a>Uporaba Exchange Online PowerShell za omogočanje skripta DKIM za določeno domeno
 
-Če v skrbniškem središču ne morete ustvariti DKIM zapisov DNS, poskusite uporabiti PowerShell za Exchange Online. 
+Če ne morete ustvariti zapisov DKIM DNS v skrbniškem središču, poskusite uporabiti Exchange Online PowerShell. 
 
-Če želite ustvariti zapis DNS DKIM s storitvijo Exchange Online PowerShell, izvedite te korake:
+Če želite ustvariti zapis DNS DKIM s Exchange Online PowerShell, izvedite te korake:
 
-1. Odprite Windows PowerShell kot skrbnik in v opisanem zaporedju zaženite te ukaze:
+1. Odprite Windows PowerShell kot skrbnik in zaženite te ukaze v opisanem zaporedju:
 
-    v. `$UserCredential = Get-Credential`
+    a. `$UserCredential = Get-Credential`
 
     b. `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
     c. `Import-PSSession $Session -DisableNameChecking`
     
-Če imate težave z vzpostavljanjem povezave s storitvijo Exchange Online PowerShell, glejte [Vzpostavljanje povezave s storitvijo Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
+Če imate težave pri vzpostavljanju povezave z Exchange Online PowerShell, [Povezovalnik za Exchange Online PowerShell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 
-2. Ko imate vzpostavljeno povezavo s storitvijo Exchange Online PowerShell, zaženite ta ukaz:
+2. Ko imate vzpostavljeno povezavo z Exchange Online PowerShell, zaženite ta ukaz:
 
     `New-DkimSigningConfig -DomainName < CustomDomain > -Enabled $true`
 
-3. Ko je zgornji ukaz uspešno izveden, zaženite ta ukaz, da prekinete sejo PowerShell za Exchange Online:
+3. Ko je zgornji ukaz uspešno izveden, zaženite ta ukaz, da prekinete sejo Exchange Online PowerShell:
 
     `Remove-PSSession $Session` 
 

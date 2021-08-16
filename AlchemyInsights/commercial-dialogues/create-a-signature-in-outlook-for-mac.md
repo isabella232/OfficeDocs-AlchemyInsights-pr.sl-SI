@@ -1,5 +1,5 @@
 ---
-title: Ustvarjanje podpisa v programu Outlook za Mac
+title: Ustvarjanje podpisa v programu Outlook for Mac
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: b970c008268d15f39a8d37a5ea44488198a21070
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 00db7b59e5a3d81c46d28cb919564ae99dca00b09c12f85388f5c419647dad01
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483917"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070736"
 ---
-# <a name="create-a-signature-in-outlook-for-mac"></a>Ustvarjanje podpisa v programu Outlook za Mac
+# <a name="create-a-signature-in-outlook-for-mac"></a>Ustvarjanje podpisa v programu Outlook for Mac
 
-1.  V **Outlookovem** meniju kliknite **Preferences (nastavitve**).
-2.  V razdelku **e-pošta** kliknite **Podpisi**.
-3.  Kliknite **Dodaj** **+** .
-4.  Dvokliknite **neimenovano**, nato pa vnesite ime za podpis.
+1.  V **Outlook** kliknite **Nastavitve.**
+2.  V **razdelku E-pošta** kliknite **Podpisi.**
+3.  Kliknite **Dodaj.** **+**
+4.  Dvokliknite **Brez naslova in** vnesite ime podpisa.
 5.  V desnem podoknu vnesite besedilo, ki ga želite vključiti v podpis.
-6.  Zaprite stran **Podpisi** .
-7.  Če želite uporabiti oblikovanje, na primer pisavo, slog pisave, velikost pisave, barvo pisave ali označevanje, izberite besedilo in nato v meniju Oblika kliknite želeno možnost.
-8.  Zaprite stran **Podpisi** .
+6.  Zaprite stran **Podpisi.**
+7.  Če želite uporabiti oblikovanje, na primer pisavo, slog, velikost pisave, barvo pisave ali označevanje, izberite besedilo in nato v meniju Oblika kliknite želeno možnost.
+8.  Zaprite stran **Podpisi.**

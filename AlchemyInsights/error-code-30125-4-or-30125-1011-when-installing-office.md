@@ -1,5 +1,5 @@
 ---
-title: Koda napake 30125-4 ali 30125-1011 pri nameščanju Officea
+title: Koda napake 30125-4 ali 30125-1011 pri namestitvi Office
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,26 +12,26 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: 26e4ba40a5517212fbd82308668e5a57e8d5be51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbb11eb5b4b8c0489cf0b496decdf7493f5b545656a38806a29a0a252903e000
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100706"
 ---
-# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Koda napake 30125-4 ali 30125-1011 pri nameščanju Officea
+# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>Koda napake 30125-4 ali 30125-1011 pri namestitvi Office
 
-To napako lahko vidite, če vaša protivirusna programska oprema, požarni zid, nastavitve strežnika proxy ali povezava preprečujejo namestitev Officea. Tukaj je nekaj stvari, s katerimi lahko poskusite odpraviti težavo:
+To sporočilo o napaki se lahko prikaže, če protivirusna programska oprema, požarni zid, nastavitve strežnika proxy ali povezava preprečuje namestitev Office. Tukaj je nekaj rešitev, s kako lahko poskusite odpraviti težavo:
   
 - Znova zaženite računalnik in znova namestite Office
 
-- Namestitev Officea z [namestitvenim programom za Office brez povezave](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- Namestitev Office uporabo namestitvenega [programa Office brez povezave](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- Začasno izklopite nastavitve strežnika proxy
+- Začasen izklop nastavitev proxyja
 
-- Začasno izklopite protivirusno programsko opremo
+- Začasen izklop protivirusne programske opreme
 
-- Začasno izklopite požarni zid
+- Začasen izklop požarnega zidu
 
-Če želite več informacij, glejte [koda napake 30125-4 ali 30125-1011 pri namestitvi Officea](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
+Če želite več [informacij, glejte Koda napake 30125-4 ali 30125-1011 pri namestitvi Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
   

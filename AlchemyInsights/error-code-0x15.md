@@ -12,24 +12,24 @@ ms.custom:
 - "919"
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
-description: Če prejmete sporočilo o napaki, medtem ko aktivirate Office 2013 za uvajanje oddaljenih namiznih storitev (RDS), razmislite o tem, kako omogočite knjižnice ADAL z urejanjem registra.
-ms.openlocfilehash: deb2ac4b0fb6a7b2e0045ff1b0ba95ad6e5e4a3a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+description: Če med aktiviranjem sistema Office 2013 v uvajanjih storitev oddaljenega namizja (RDS) prejemate sporočilo o napaki, razmislite o tem, da bi omogočili ADAL z urejanjem registra.
+ms.openlocfilehash: 247686bf26c11d07ed118bdb1ba190fc718e87cf140b88f79b8aa0b40c827b4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709203"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100778"
 ---
-# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Napaka pri aktivaciji sistema Office 2013 v storitvah oddaljenega namizja
+# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>Napaka med aktiviranjem Office 2013 v storitvah oddaljenega namizja
 
-Če prejmete sporočilo o napaki, medtem ko aktivirate Office 2013 za uvajanje oddaljenih namiznih storitev (RDS), razmislite o tem, kako omogočite knjižnice ADAL z urejanjem registra.
+Če med aktiviranjem sistema Office 2013 v uvajanjih storitev oddaljenega namizja (RDS) prejemate sporočilo o napaki, razmislite o tem, da bi omogočili ADAL z urejanjem registra.
   
-|**Registrski ključ**|**Vnesite**|**Vrednost**|
+|**Registrski ključ**|**Vrsta**|**Vrednost**|
 |:-----|:-----|:-----|
-|HKEY_CURRENT_USER \Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
+|HKEY_CURRENT_USER\Software\Microsoft\Office\15.0\Common\Identity\EnableADAL  <br/> |REG_DWORD  <br/> |1  <br/> |
 
-Če želite več informacij, glejte [Omogočanje sodobnega preverjanja pristnosti za Office 2013 v napravah s sistemom Windows](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication).
+Če želite več informacij, [glejte Omogočanje sodobnega preverjanja pristnosti Office 2013 v Windows napravah.](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)
   
 > [!NOTE]
->  KNJIŽNICE ADAL je privzeto omogočen v programih Microsoft 365 za podjetja in Office 2016. Oddaljenega namiznih storitev (RDS) je bilo prej imenovanih terminalskih storitev.
+>  ADAL je privzeto omogočena v brskalnikih Programi Microsoft 365 za podjetja in Office 2016. Storitev oddaljenega namizja (RDS) se je v preteklosti imenovala terminalske storitve.
   

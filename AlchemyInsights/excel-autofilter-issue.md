@@ -1,5 +1,5 @@
 ---
-title: Težave s samodejnim filtrom za Excel
+title: Excel Težava s samodejnim filtrom
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4ef9e25f-7ac3-46fc-af90-cb24ad1c99ce
-ms.openlocfilehash: c7d6bee548a8b7feeb5c9103c594d71754c4fc4f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b50a0c2bcc72674c55938608f09de324a18433879b4126fb0e9c3314480dc180
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783387"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54100562"
 ---
-# <a name="excel-autofilter-issue"></a>Težave s samodejnim filtrom za Excel
+# <a name="excel-autofilter-issue"></a>Excel Težava s samodejnim filtrom
 
-Ko uporabljate Excel 2016, če spustni seznam za samodejni filter ne pokaže vseh razpoložljivih potrditvenih polj ali pa potrditvenih polj ni mogoče klikniti, je morda zaradi znane težave v starejših različicah Excela. 
+Če pri uporabi Excel 2016 na spustnem seznamu Samodejno filtriranje niso prikazna vsa potrditvena polja, ki so na voljo ali pa potrditvenih polj ni mogoče klikniti, je do tega morda prišlo zaradi znane težave v starejših Excel. 
   
-Ta težava je zdaj odpravljena v **različici 1707 (8326,2073)** ali novejših različicah. Če želite takoj pridobiti posodobitev, odprite Excel **in izberite** \> **Account** \> Posodobi možnosti za **posodobitev** računov \> **Update Now**.
+Ta težava je zdaj odpravljena v **različici 1707 (8326.2073)** ali novejši različici. Če želite takoj odpreti posodobitev, odprite Excel in izberite **Možnost** posodobitve \> **podatkovnega** računa \>  \> **Posodobi zdaj.**
   
 

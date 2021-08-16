@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 94651ca9efff3c6b7ab1ba858e092247195679f9
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 55ee011c16fe9bd7a35cde1a73dd610d988f227c316f379adab0483973ab903d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747480"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070412"
 ---
 # <a name="set-up-online-services"></a>Nastavitev spletnih storitev
 
 Če želite nastaviti spletne storitve, izvedite te korake:
 
-1. Na strani **Dodajanje zapisov za spletno mesto** : a. Kliknite **naprej**, če nimate spletnega mesta. Nato pristanete na strani **posodobitev nastavitev DNS** .
-    b. Poiščite zapis pri ponudniku gostovanja DNS, če imate spletno mesto. Nato jo kopirajte in prilepite na stran.
-2. Kliknite **naprej** , da se vrnete na stran **Posodobi nastavitve DNS** .
+1. Na **strani Dodajte zapise za spletno** mesto: a. Če **nimate** spletnega mesta, kliknite Naprej. Nato se posnete na **stran Posodobitev nastavitev DNS.**
+    b. Če imate spletno mesto, poiščite zapis pri ponudniku storitev gostovanja DNS. Nato jo kopirajte in prilepite na stran.
+2. Kliknite **Naprej,** da se po levi strani **posodobite nastavitve sistema DNS.**

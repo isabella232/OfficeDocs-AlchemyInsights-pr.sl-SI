@@ -1,5 +1,5 @@
 ---
-title: Nastavitev varnih pravilnikov za povezavo v programu Microsoft Defender za Office 365
+title: Nastavitev pravilnikov Sef povezave v programu Microsoft Defender za Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a59f6fb22ae18d8d9ead98563af05b88e8208c5e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b6569d9a07cd5a5a72965020055ce7ed4c7f53bd4a9746e361c805c8410c0cde
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747443"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070376"
 ---
-# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Nastavitev varnih pravilnikov za povezavo v programu Microsoft Defender za Office 365
+# <a name="set-up-safe-link-policies-in-microsoft-defender-for-office-365"></a>Nastavitev pravilnikov Sef povezave v programu Microsoft Defender za Office 365
 
-Privzeti pravilnik za varne povezave v storitvi Microsoft Defender za Office 365 je že ustvarjen za vas. Če želite spremeniti konfiguracije:
+Privzeti pravilnik za povezave Sef Microsoft Defender za Office 365 je že ustvarjen. Če želite spremeniti konfiguracije:
 
-1. Obiščite središče za [skladnost z varnostnim &om sistema Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-2. Izberite pravilnik za **upravljanje grožnje**  >  . Na strani **pravilnika** izberite [Microsoft Defender za Office 365 Safe Links](https://go.microsoft.com/fwlink/?linkid=2101058).
-3. V razdelku **pravilniki, ki veljajo za celotno organizacijo** , izberite **privzeto** in nato izberite ikono za **Urejanje** .
-4. V razdelku **Blokiraj te URL-** je določite enega ali več URL-jev, ki jim želite preprečiti obisk oseb v organizaciji. Če želite več informacij, glejte [seznam» blokiranje teh URL-jev «za varne povezave](https://go.microsoft.com/fwlink/?linkid=2092123).
-5. V razdelku **nastavitve, ki veljajo za vsebino, razen za e-pošto** , izberite (ali počistite) možnosti, ki jih želite uporabiti. (Priporočljivo je, da izberete vse možnosti.)
+1. Obiščite središče [za Office 365 za & s predpisi.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+2. Izberite **Pravilnik za upravljanje**  >  **groženj.** Na strani **Pravilnik** izberite [Microsoft Defender za Office 365 Sef povezave.](https://go.microsoft.com/fwlink/?linkid=2101058)
+3. V razdelku **Pravilniki, ki veljajo za celotno** organizacijo izberite **Privzeto** in nato še **ikono Uredi.**
+4. V razdelku **Blokiraj te URL-je** navedite enega ali več URL-jev, na katere želite preprečiti obiske oseb v vaši organizaciji. Če želite izvedeti več, [glejte seznam »Blokiraj te URL-je« za Sef povezave.](https://go.microsoft.com/fwlink/?linkid=2092123)
+5. V **Nastavitve, ki veljajo za vsebino** razen e-pošte, izberite (ali počistite) možnosti, ki jih želite uporabiti. (Priporočamo, da izberete vse možnosti.)
 6. Izberite **Shrani**.

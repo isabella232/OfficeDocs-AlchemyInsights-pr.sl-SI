@@ -1,5 +1,5 @@
 ---
-title: Ustvarjanje predlog za obvestila zaposlenih
+title: Ustvarjanje predlog za obvestila o zaposlenih
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: ae3efbab6b8d7778911107ba6d724f3555078c55
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c4259668c500987b16a7a4f31e3be37c42b23d45efec35b522c95213680299f3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750993"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54070664"
 ---
-# <a name="create-employee-notice-templates"></a>Ustvarjanje predlog za obvestila zaposlenih
+# <a name="create-employee-notice-templates"></a>Ustvarjanje predlog za obvestila o zaposlenih
 
-Ta korak je izbiren. Predloge obvestil po meri lahko ustvarite tako, da pošljete e-poštna obvestila zaposlenim kot možnost sanacije za ujemanje pravilnika.
+Ta korak je izbiren. Ustvarite lahko predloge obvestil po meri za pošiljanje e-poštnih obvestil zaposlenim kot možnost popravkov za ujemanja s pravilnikom.
 
-Če želite, da se možnost odziva na opozorilo pravilnika tako, da pošljete obvestilo opomina pridruženemu delavcu, boste morali ustvariti vsaj eno predlogo obvestila v organizaciji.
+Če želite staviti na opozorilo pravilnika tako, da povezanemu zaposlenemu pošljete obvestilo o opomniku, morate v svoji organizaciji ustvariti vsaj eno predlogo obvestila.
 
-Če želite izvedeti več o tem, glejte [ustvarjanje predlog za obvestila zaposlenih](https://go.microsoft.com/fwlink/?linkid=2129080).
+Če želite izvedeti, kako, glejte [Ustvarjanje predlog obvestil za zaposlene.](https://go.microsoft.com/fwlink/?linkid=2129080)
