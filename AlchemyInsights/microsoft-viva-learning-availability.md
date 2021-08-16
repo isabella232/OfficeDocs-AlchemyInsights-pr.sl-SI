@@ -1,5 +1,5 @@
 ---
-title: Razpoložljivost aplikacije Microsoft Viva
+title: Razpoložljivost storitve Microsoft Viva Learning razpoložljivost
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8339"
-ms.openlocfilehash: d74b6bd000be6a8a93978b5e5f737e97ef3c0833
-ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
+ms.openlocfilehash: 27cd7ccd9cbd5afe5ca41177723a99a0f6a71aa720c9ebea1d3889bcbb140d20
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315501"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54097934"
 ---
-# <a name="microsoft-viva-learning-availability"></a>Razpoložljivost aplikacije Microsoft Viva
+# <a name="microsoft-viva-learning-availability"></a>Razpoložljivost storitve Microsoft Viva Learning razpoložljivost
 
-Od februarja 2021 naprej si bomo ogledali program Viva Learning za Teams z majhnim številom strank in partnerjev ter pričakovali, da bo na splošno na voljo pozneje v letošnjem letu. Priporočamo vam, da se [prijavite tukaj](https://aka.ms/VivaLearningSignup) , če želite izvedeti več o izdelavi Viva, vključno z dodatnimi podrobnostmi o novih izkušnjah, ko bodo na voljo.
+Od februarja 2021 si bomo v predogledu ogledali aplikacijo Viva Learning za Teams z manjšim številom strank in partnerjev ter pričakujemo, da bo na voljo pozneje to leto. Spodbujamo vas, da [se prijavite tukaj in](https://aka.ms/VivaLearningSignup) izveste več o sistemih Viva Learning, vključno z nadaljnjimi podrobnostmi o novih izkušnjah, ko so te na voljo.
 
-Če želite več informacij, glejte [objava Microsoft Viva Learning Private preview](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023).
+Če želite več informacij, [glejte Obveščanje osebe Microsoft Viva o Learning predogledu.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/announcing-microsoft-viva-learning-private-preview/ba-p/2107023)
