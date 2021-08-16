@@ -1,5 +1,5 @@
 ---
-title: Delo v programu Microsoft InTune
+title: Delo v Microsoft Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 2ea412617caa77d50813941dafce84a972a2cfe2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09401ceb0bcdcfe280f2e7e293caffc8a4189561bf26b713c98f015991134e21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50751030"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069909"
 ---
-# <a name="working-in-microsoft-intune"></a>Delo v programu Microsoft InTune
+# <a name="working-in-microsoft-intune"></a>Delo v Microsoft Intune
 
-Tukaj je nekaj osnov za InTune:
+Tu je nekaj osnov storitve Intune:
 
-- [Kaj je InTune?](https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune)
-- [Kako se prijaviti za InTune Trial?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)
-- [Prvič nastavljanje InTune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
-- [Kaj je vpis naprave v programu InTune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
-- [Uporaba portala za odpravljanje težav za uporabnike v podjetju](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
+- [Kaj je Intune?](https://docs.microsoft.com/mem/intune/fundamentals/what-is-intune)
+- [Kako se prijavim za preskusno različico storitve Intune?](https://docs.microsoft.com/mem/intune/fundamentals/free-trial-sign-up)
+- [Prva nastavitev storitve Intune](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps)
+- [Kaj je včlanitev naprave v Intune?](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment)
+- [Uporaba portala za odpravljanje težav za pomoč uporabnikom v podjetju](https://docs.microsoft.com/mem/intune/fundamentals/help-desk-operators)
 
-[Preberite več o storitvi Microsoft InTune...](https://docs.microsoft.com/mem/intune/)
+[Preberite več o Microsoft Intune ...](https://docs.microsoft.com/mem/intune/)
