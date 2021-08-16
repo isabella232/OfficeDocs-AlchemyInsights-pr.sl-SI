@@ -1,5 +1,5 @@
 ---
-title: Spreminjanje pisave ali velikosti pisave v Outlooku v spletu
+title: Spreminjanje pisave ali velikosti pisave v Outlook v spletu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000013"
 - "1999"
-ms.openlocfilehash: f85f4112bd884dd55da186645b622999fc5d0eac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a43154eec64bf8081c7c12f5a5df13cfbfec84af79245daedb86bcc3ac3a5192
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721848"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999940"
 ---
-# <a name="change-font-or-font-size-in-outlook-on-the-web"></a>Spreminjanje pisave ali velikosti pisave v Outlooku v spletu
+# <a name="change-font-or-font-size-in-outlook-on-the-web"></a>Spreminjanje pisave ali velikosti pisave v Outlook v spletu
 
-Ko berete e-pošto, lahko uporabite funkcijo povečave brskalnika, da povečate ali pomanjšate besedilo na zaslonu.
+Med branjem e-pošte lahko s funkcijo povečave v brskalniku povečate ali pomanjšate besedilo na zaslonu.
   
 Če želite spremeniti pisavo ali velikost pisave med sestavljanjem sporočila:
   
@@ -31,6 +31,6 @@ Ko berete e-pošto, lahko uporabite funkcijo povečave brskalnika, da povečate 
     
 2. Izberite pisavo ali velikost pisave, ki jo želite uporabiti.
     
-Če ne vidite menija možnosti oblikovanja na dnu podokna za sestavljanje, izberite <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAARCAYAAAAG/yacAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFgkLmMb9xQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABOklEQVQokZWTIa7CQBCGPwjJgoG0YkXTVV1HHSHBIHqCXgLDiSoRnIArYBC9QoNZQBRBitlUvWfoPkih5P1uk/l2vsxkevf7/YdHyrJku92yWq2YTCZ8Sv/5URQFAIfD4SPQgowxTKdTB3+FyrLker2SJAlCCKqq+g4VRYFSCiEEWutORQc1agBKqU7FQaN2Op0YDoeuuK5rqqp6O8V+oxaGIUoppJRIKQnD0Claa9nv9+R5/tfJGMNsNkNr7X4bj8cYY7DWkmUZnudxPB7xfZ9+XddIKVFKvShorVksFmRZRhRFpGlKEAScz2cGQgiSJGl5Nx2iKGK5XLLb7bDWMp/PX5fbBdxuN9brNaPRqA19A9z0/gO0oDzP8TyvEwDoPZ/GZrPhcrm4oncAPPb0nCAIiOOYOI7fAgC/6HCjfMhhDgMAAAAASUVORK5CYII=' /> **Možnosti oblikovanja**.
+Če ne vidite menija z možnostmi oblikovanja na dnu podokna za sestavljanje, izberite <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAARCAYAAAAG/yacAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wgCFgkLmMb9xQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAABOklEQVQokZWTIa7CQBCGPwjJgoG0YkXTVV1HHSHBIHqCXgLDiSoRnIArYBC9QoNZQBRBitlUvWfoPkih5P1uk/l2vsxkevf7/YdHyrJku92yWq2YTCZ8Sv/5URQFAIfD4SPQgowxTKdTB3+FyrLker2SJAlCCKqq+g4VRYFSCiEEWutORQc1agBKqU7FQaN2Op0YDoeuuK5rqqp6O8V+oxaGIUoppJRIKQnD0Claa9nv9+R5/tfJGMNsNkNr7X4bj8cYY7DWkmUZnudxPB7xfZ9+XddIKVFKvShorVksFmRZRhRFpGlKEAScz2cGQgiSJGl5Nx2iKGK5XLLb7bDWMp/PX5fbBdxuN9brNaPRqA19A9z0/gO0oDzP8TyvEwDoPZ/GZrPhcrm4oncAPPb0nCAIiOOYOI7fAgC/6HCjfMhhDgMAAAAASUVORK5CYII=' /> **Možnosti oblikovanja**.
   
-Če želite več informacij, glejte [Spreminjanje velikosti pisave v Outlooku v spletu](https://support.office.com/article/43a2137f-8c3c-46df-af4a-73a12c9bb86e).
+Če želite več informacij, [glejte Spreminjanje velikosti pisave v Outlook v spletu.](https://support.office.com/article/43a2137f-8c3c-46df-af4a-73a12c9bb86e)

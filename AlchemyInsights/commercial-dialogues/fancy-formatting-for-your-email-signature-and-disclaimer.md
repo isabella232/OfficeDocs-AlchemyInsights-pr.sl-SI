@@ -1,5 +1,5 @@
 ---
-title: Izmišljeno oblikovanje za vaš e-poštni podpis in zavrnitev odgovornosti
+title: Fancy formatting for your email signature and disclaimer
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: f179ff22dea8d5460e2a0604be9071747383e05b
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: b202d2812516ebc283075f6c626ef4ecbc382135a5265985ef61aab1c4eedca6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483372"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058702"
 ---
-# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>Izmišljeno oblikovanje za vaš e-poštni podpis in zavrnitev odgovornosti
-Če želite informacije o izmišljenem oblikovanju (na primer kako dodati ikone družabnih medijev, slike in povezave do svoje odgovornosti), informacije o združljivosti s prenosnimi napravami in še več.
+# <a name="fancy-formatting-for-your-email-signature-and-disclaimer"></a>Fancy formatting for your email signature and disclaimer
+Če želite informacije o posebno oblikovanju (na primer kako dodati ikone družabnih medijev, slike in povezave do zavrnitve odgovornosti v organizaciji), informacije o združljivosti s prenosnimi napravami in še več.
 
-Poiščite **vire za e-poštni podpis**, ki jih najdete v internetu. Več podjetij, ki ponujajo informacije in orodja, so Microsoftovi zlati partnerji.
+V internetu poiščite vire za **e-poštni podpis.** Več podjetij, ki ponujajo informacije in orodja, je microsoftovih partnerjev Gold.

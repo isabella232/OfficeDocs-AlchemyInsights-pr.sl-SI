@@ -1,5 +1,5 @@
 ---
-title: Primer Microsoftovega pravilnika za preprečevanje lažnega predstavljanja za Microsoft Defender za Office 365
+title: Primer programa Microsoft Defender za Office 365 za preprečevanje lažnega predstavljanja
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750797"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035022"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Primer Microsoftovega pravilnika za preprečevanje lažnega predstavljanja za Microsoft Defender za Office 365
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>Primer programa Microsoft Defender za Office 365 za preprečevanje lažnega predstavljanja
 
-Te nastavitve omogočajo pravilnik, imenovan *domena in izvršni direktor*. Ta pravilnik zagotavlja zaščito uporabnika in domene pred poosebljanje, nato pa uporabi pravilnik za vse e-poštne pošte, ki jih prejmejo uporabniki v domeni. Najprej dodajte te informacije, da ustvarite pravilnik:
+Te nastavitve omogočajo pravilnik, imenovan *Domena in CEO*. Ta pravilnik zagotavlja zaščito uporabnika in domene pred poosebljavo in nato uporabi pravilnik za vsa e-poštna sporočila, ki jih prejmejo uporabniki v domeni. Najprej dodajte te informacije, da ustvarite pravilnik:
 
-- **Ime**: domena in **Opis** CEO: zagotovite, da se direktor in vaša domena ne posnemata.
-  **Uporabljeno za**: izberite **domeno prejemnika**. V razdelku **katero koli od teh** izberite **Izberi** in nato izberite domeno. Izberite **+ Dodaj**. Potrdite potrditveno polje ob imenu domene na seznamu (na primer *contoso.com*), nato pa izberite **Dodaj**. Izberite **Dokončano**.
-- Ko je pravilnik ustvarjen, lahko prilagodite pravilnik tako, da uporabite te možnosti:
-  - **Dodajanje uporabnikov za zaščito:** Za ta primer dodajte e-poštni naslov CEO na minimum.
-  - **Dodajte domene za zaščito**: dodajte organizacijsko domeno, ki vključuje Office izvršnega direktorja.
-  - **Izberite dejanja**: za **e-pošto, ki jo je poslal** lažni uporabnik, izberite **preusmeritev sporočila na drug e-poštni naslov**, nato pa vnesite e-poštni naslov varnostnega skrbnika (na primer *securityadmin@contoso.com*). **Če je e-pošta poslana z** lažno domeno, izberite **karantena sporočila**.
-  - **Inteligenca nabiralnika**: Ta možnost je privzeto izbrana, ko ustvarite nov pravilnik za preprečevanje lažnega predstavljanja. To **Nastavitev pustite za najboljše** rezultate.
-  - **Dodajanje zaupanja vrednih pošiljateljev in domen:** V tem primeru ne definirajte nobenega preglasitve.
-- Ko pregledate nastavitve, izberite **Ustvari to pravilnik** ali **Shrani**, kot je primerno.
+- **Ime**: Opis domene in **direktorja**: zagotavlja, da se ne poosebljata ceo in vaša domena.
+  **Uporabljeno za**: Izberite **Domena prejemnika je**. V **razdelku Katero koli od** teh možnosti **izberite**, nato pa izberite domeno. Izberite **+ Dodaj**. Potrdite potrditveno polje ob imenu domene na seznamu (npr. contoso.com *),* nato pa izberite **Dodaj**. Izberite **Končano**.
+- Ko ustvarite pravilnik, lahko natančno nastavite pravilnik tako, da uporabite te možnosti:
+  - **Dodajanje uporabnikov za zaščito:** V tem primeru dodajte vsaj e-poštni naslov direktorja.
+  - **Dodajte domene, ki jih želite** zaščititi: dodajte domeno organizacije, ki vključuje pisarno direktorja.
+  - **Izberite dejanja:** **Za** Če je e-pošto poslal poosebljena oseba, izberite Preusmeri sporočilo na drug e-poštni naslov **in** nato vnesite e-poštni naslov varnostnega skrbnika (na primer *securityadmin@contoso.com*). Za **Če je e-pošto poslala poosebljena domena**, izberite **Pošlji v karanteno sporočilo**.
+  - **Obveščanje o** nabiralniku: ta možnost je privzeto izbrana, ko ustvarite nov pravilnik za preprečevanje lažnega predstavljanja. Če želite najboljše **rezultate, pustite** to nastavitev »On«.
+  - **Dodajte zaupanja vredne pošiljatelje in domene:** V tem primeru ne določite nobene preglasitve.
+- Ko pregledate nastavitve, izberite Ustvari **ta pravilnik ali** **Shrani**, kot je primerno.
 
-Če želite izvedeti več, glejte [Pravilniki za preprečevanje lažnega predstavljanja v programu Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).
+Če želite izvedeti več, glejte [Pravilniki za preprečevanje lažnega predstavljanja v Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).

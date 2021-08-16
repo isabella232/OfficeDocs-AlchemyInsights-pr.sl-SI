@@ -1,5 +1,5 @@
 ---
-title: Čarovnik za hibridne konfiguracije
+title: Čarovnik za hibridno konfiguracijo
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,19 +13,19 @@ ms.custom:
 - "603"
 - "3500010"
 ms.assetid: 94bdd043-be92-435e-8e0f-7ce453368919
-ms.openlocfilehash: 13361962fe2a3ee88a820c44c0839611c2b9b4e2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: afb38121fdfbd244da39377a19f6756a5f0370f6707fade98eaf53def6981696
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743779"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015060"
 ---
-# <a name="hybrid-configuration-wizard"></a>Čarovnik za hibridne konfiguracije
+# <a name="hybrid-configuration-wizard"></a>Čarovnik za hibridno konfiguracijo
 
-Čarovnik za hibridno konfiguracijo je aplikacija, ki vam pomaga pri nastavitvi novega hibridnega uvajanja med organizacijo Exchange na mestu uporabe in programom Microsoft 365. Če že imate nastavljeno Hibridno uvajanje, vam čarovnik pomaga pri posodabljanju nastavitev hibridnega uvajanja. Če želite več informacij, si oglejte:
+Čarovnik za hibridno konfiguracijo je aplikacija, ki vam pomaga nastaviti novo hibridno uvajanje med organizacijo Exchange na mestu uporabe in Microsoft 365. Če ste hibridno uvajanje že nastavili, vam čarovnik pomaga posodobiti nastavitve hibridnega uvajanja. Če želite več informacij, si oglejte:
   
-- [Čarovnik za zagon hibridne konfiguracije](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
+- [Zagon čarovnika za hibridno konfiguracijo](https://technet.microsoft.com/library/mt595788%28v=exchg.150%29.aspx)
 
-- [Čarovnik za hibridne konfiguracije](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
+- [Čarovnik za hibridno konfiguracijo](https://technet.microsoft.com/library/hh529921%28v=exchg.150%29.aspx)
 
-- [Pogosta vprašanja o čarovniku za hibridne konfiguracije](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
+- [Pogosta vprašanja o čarovniku za hibridno konfiguracijo](https://technet.microsoft.com/library/mt488940%28v=exchg.150%29.aspx)
