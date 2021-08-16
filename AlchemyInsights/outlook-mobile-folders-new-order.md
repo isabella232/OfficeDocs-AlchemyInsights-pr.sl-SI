@@ -1,5 +1,5 @@
 ---
-title: Outlookove prenosne mape v novem vrstnem redu
+title: Outlook Mobilne mape v novem vrstnem redu
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3072"
 - "9001111"
-ms.openlocfilehash: 58cc5b4245218bf98e314ad680e62d9b719cf981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 56c90f989f6ce918f935610b907d0cc87410dcc015a558751c9065928eb17386
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772242"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000264"
 ---
 # <a name="my-folders-are-in-a-new-order"></a>Moje mape so v novem vrstnem redu
 
-Če želite dodati priljubljene mape in skupine v Outlook za iOS in Android, boste morda opazili, da so vaše mape v novem vrstnem redu. Če imate priljubljene, boste na vrhu stranske vrstice videli odsek» priljubljene «. Priljubljene lahko dodate s pomočjo ikone svinčnika ob vrhu stranske vrstice. S tem boste ohranili vse najpomembnejše mape in skupine na vrhu, kjer lahko preprosto dostopate do njih.
+Poleg dodajanja priljubljenih map in skupin k Outlook za iOS in Android, boste morda opazili, da so vaše mape v novem vrstnem redu. Če imate priljubljene, boste pri vrhu stranske vrstice videli razdelek s priljubljenimi. Priljubljene lahko dodate tako, da uporabite ikono svinčnika pri vrhu stranske vrstice. Tako bodo vse najpomembnejše mape in skupine na vrhu, do katerih lahko preprosto dostopate.

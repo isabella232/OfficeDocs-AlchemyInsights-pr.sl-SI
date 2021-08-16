@@ -1,5 +1,5 @@
 ---
-title: Prejemanje e-pošte iz blokiranih pošiljateljev v Outlook.com
+title: Prejemanje e-pošte od blokiranih pošiljateljev na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,21 +14,21 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: 63ebc8d0b950fff1c1c18c26172436246341bbc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cf6ab817a49a058635eee1721f4605f29a01df088b6400d8c90f5137efd30c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723695"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063860"
 ---
-# <a name="receiving-email-from-blocked-senders"></a>Prejemanje e-pošte iz blokiranih pošiljateljev
+# <a name="receiving-email-from-blocked-senders"></a>Prejemanje e-pošte od blokiranih pošiljateljev
 
-Če je e-pošta iz blokiranega pošiljatelja še vedno prikazana v mapi» Prejeto «v storitvi Outlook.com, lahko pošiljatelj skrije svoj pravi e-poštni naslov. Če želite preveriti dejanski e-poštni naslov pošiljatelja:
+Če je e-pošta blokiranega pošiljatelja še vedno prikazana v mapi »Prejeto« na Outlook.com, pošiljatelj morda skrije njihov pravi e-poštni naslov. Če želite preveriti pravi e-poštni naslov pošiljatelja:
   
-1. Izberite tri pike <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- na vrhu okna sporočila in izberite **Ogled vira sporočil**.
-2. V oknu **izvor sporočila** se pomaknite navzdol, dokler ne najdete polja» **od** «.
-3. Označite e-poštni naslov, ki je zaprt znotraj \< \> in kliknite z desno tipko miške, da **kopirate**
-4. Uporabite naslov, ki ste ga kopirali, da blokirate pošiljatelja. Če želite izvedeti, kako blokirate pošiljatelje, glejte [označevanje e-pošte kot neželene ali blokirane pošiljatelje v Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+1. Izbira treh pik <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ na vrhu okna sporočila in izberite Ogled **vira sporočila**.
+2. V **oknu Vir** sporočila se pomaknite navzdol do polja **Od.**
+3. Označite e-poštni naslov znotraj in \< \> ga kliknite z desno tipko miške, da **kopirate**
+4. Uporabite naslov, ki ste ga kopirali, da blokirate pošiljatelja. Če želite izvedeti, kako blokirate pošiljatelje, glejte Označevanje e-pošte kot [neželene ali blokiranje pošiljateljev na Outlook.com.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Če želite več informacij, glejte [prejemanje e-pošte iz blokiranih pošiljateljev v](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy)storitvi Outlook.com.
+Če želite več informacij, glejte [Prejemanje e-pošte od blokiranih pošiljateljev na Outlook.com.](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy)
