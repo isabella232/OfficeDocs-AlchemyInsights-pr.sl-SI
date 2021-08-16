@@ -1,5 +1,5 @@
 ---
-title: Teams, nameščen s posodobitvami za Office
+title: Teams nameščenimi s Office posodobitvami
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,25 +14,25 @@ ms.custom:
 - "9000140"
 - "9000660"
 - "2509"
-ms.openlocfilehash: 36b0b1a7bf37c27304b4124157dba9aba337678c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c473a001d1441362baad9feb44323b46f1cef42d3c431ef87f0fb0172f10d152
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832398"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048748"
 ---
-# <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams, nameščen s posodobitvami za Office
+# <a name="microsoft-teams-installed-with-office-updates"></a>Microsoft Teams nameščenimi s Office posodobitvami
 
-Aplikacija Microsoft Teams je  vključena kot del novih namestitev aplikacij za Microsoft 365 za podjetja, Microsoft 365 Apps for Business in Office for Mac. Če želite več informacij, [glejte Kdaj bo microsoft Teams začel biti vključen v nove namestitve Officea?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+Microsoft Teams je vključen kot del novih namestitev ***programov*** Programi Microsoft 365 za podjetja, Programi Microsoft 365 za manjša podjetja in Office for Mac. Če želite več informacij, [glejte Kdaj Microsoft Teams morali biti vključeni v nove namestitve Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-Poleg tega, od različice 1906 v trenutnem kanalu naprej, bo aplikacija Teams postopoma dodana v obstoječe namestitve aplikacij storitve Microsoft 365 za podjetja (in aplikacij storitve Microsoft 365 za podjetja) v napravah s sistemom Windows, ko posodobite obstoječo namestitev na najnovejšo različico.  Če želite več informacij, [glejte Kaj pa obstoječe namestitve Officea?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+Poleg tega bo Teams od različice 1906 v trenutnem kanalu postopoma dodan v obstoječe namestitve sistema Programi Microsoft 365 za podjetja (in Programi Microsoft 365 za manjša podjetja) v naprave s sistemom Windows, ko posodobite obstoječo namestitev na najnovejšo različico.  Če želite več informacij, [glejte Kaj pa obstoječe namestitve Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-**Opomba:** Če ne želite počakati na ta urnik uvajanja, lahko aplikacijo Teams uvedete kot samostojno aplikacijo za svoje uporabnike tako, da sledite tem navodilom [,](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)lahko pa uporabnikom omogočite namestitev aplikacije Teams samostojno iz https://teams.microsoft.com/downloads storitve .
+**Opomba:** Če ne želite počakati na ta urnik uvajanja, lahko Teams uvedete kot samostojno za svoje uporabnike tako, da sledite tem navodilom [,](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)lahko pa uporabnikom omogočite, da namestijo Teams samostojno. https://teams.microsoft.com/downloads
 
-Če vaša organizacija ni pripravljena na uvedbo  orodja Teams, lahko teams izključite iz [novih](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) ali [obstoječih](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) namestitev Officea. Če želite namestiti aplikacijo Teams, vendar ne želite, da se Teams samodejno zažene za uporabnika, ko je nameščen, glejte Preprečevanje samodejnega zagona aplikacije [Microsoft Teams po namestitvi.](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)
+Če vaša organizacija ni pripravljena na uvedbo storitve Teams, lahko izključite ***Teams*** [iz](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) novih ali obstoječih namestitev Office. [](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) Če želite Teams namestitev, vendar ne želite, da se Teams za uporabnika zažene samodejno po namestitvi, glejte Preprečevanje samodejnega zagona [storitve Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation)po namestitvi.
 
-Če ***želite odstraniti aplikacijo Teams*** iz naprave s sistemom Windows, glejte [Odstranitev aplikacije Microsoft Teams.](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81) Če želite počistiti Microsoft Teams v več ciljnih računalnikih ali uporabnikih, glejte [Čiščenje uvedbe aplikacije Microsoft Teams.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
+Če ***želite Teams*** iz naprave s sistemom Windows, glejte [Odstranitev Microsoft Teams.](https://support.office.com/article/uninstall-microsoft-teams-3b159754-3c26-4952-abe7-57d27f5f4c81) Če želite počistiti Microsoft Teams iz več ciljnih računalnikov ali uporabnikov, [Microsoft Teams za uvedbo.](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up)
 
-Če uporabljate računalnike v skupni rabi, storitve oddaljenega namizja (RDS) ali infrastrukturo navideznega namizja (VDI), glejte Skupna raba računalnika in okolja VDI v aplikaciji [Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams) Če uporabljate Office for Mac, glejte Namestitve [aplikacije Microsoft Teams v računalniku Mac.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
+Če uporabljate računalnike v skupni rabi, storitve oddaljenega namizja (RDS) ali infrastrukturo navideznega namizja (VDI), glejte Računalnik v skupni rabi in okolja [VDI z Microsoft Teams.](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams) Če uporabljate sistem Office Mac, [glejte Microsoft Teams v računalniku Mac.](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac)
 
-**Opomba:** Ko namestite aplikacijo Teams, se samodejno [posodobi približno](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) na dva tedna z novimi funkcijami in posodobitvami kakovosti. 
+**Opomba:** Ko Teams, se samodejno posodobi [približno](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) na dva tedna z novimi funkcijami in posodobitvami kakovosti. 

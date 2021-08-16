@@ -1,5 +1,5 @@
 ---
-title: Izvoz E-odkrivanje/rezultatov iskanja vsebine
+title: Izvoz rezultatov e-odkrivanja/iskanja vsebine
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: b93377a33eebc7899041b684449e46caedb04415
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: de5d6f2bbf32ca1b7a0bbb9dd416fb19186d2e72ad57fbf25d9b55bd733fdc21
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483737"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988148"
 ---
-# <a name="export-ediscoverycontent-search-results"></a>Izvoz E-odkrivanje/rezultatov iskanja vsebine
+# <a name="export-ediscoverycontent-search-results"></a>Izvoz rezultatov e-odkrivanja/iskanja vsebine
 
-Morda boste morali rezultate iskanja izvoziti v datoteko PST (iz e-pošte) ali v izvorne Officeove dokumente (na mestih SharePoint in OneDrive za podjetja). V tem primeru naredite to:
+Morda boste morali rezultate iskanja izvoziti v datoteko PST (iz e-pošte) ali v izvorne Office (iz datotek SharePoint in OneDrive za podjetja mest). Če je tako, naredite to:
 
-- Preverite, ali je vaš račun dodeljen ustreznim dovoljenjem za izvoz. Če želite več informacij, glejte [dodeljevanje dovoljenja za e-odkrivanje](https://go.microsoft.com/fwlink/?linkid=2102406).
-- Prepričajte se, da je računalnik izpolnjeval vse [pogoje](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin). Vsi brskalniki niso podprti, kot je Chrome.
-- Izvoz iz iskanja vsebine: a. Pojdite v [središče za skladnost z varnostnim &](https://protection.office.com/contentsearch) in kliknite **Iskanje**, nato pa izberite **Iskanje vsebine**. Na strani **Iskanje vsebine** Izberite shranjeno iskanje.
-    b. V podoknu s podrobnostmi v razdelku **izvoz rezultatov v računalnik** izberite **Zaženi izvozi**. Če izvažate več kot 100K nabiralnike, boste morali uporabiti PowerShell za prenos rezultatov izvoza. Če želite več informacij, glejte [izvažanje rezultatov iz več kot 100k nabiralnikov](https://go.microsoft.com/fwlink/?linkid=2143861).
+- Preverite, ali so računu dodeljena ustrezna dovoljenja za izvoz. Če želite več informacij, [glejte Dodelitev dovoljenja za e-odkrivanje.](https://go.microsoft.com/fwlink/?linkid=2102406)
+- Preverite, ali vaš računalnik mora izpolniti [vse pogoje.](https://docs.microsoft.com/office365/securitycompliance/export-search-results#before-you-begin) Vsi brskalniki niso podprti, na primer Chrome.
+- Izvoz iz iskanja vsebine: a. Pojdite v Središče [za & s predpisi in](https://protection.office.com/contentsearch) kliknite **Iskanje**, nato pa izberite **Iskanje vsebine**. Na **strani Iskanje vsebine** izberite shranjeno iskanje.
+    b. V podoknu Podrobnosti v razdelku **Izvoz rezultatov v računalnik** izberite Začni **izvoz.** Če izvažate več kot 100.000 nabiralnikov, morate za prenos rezultatov izvoza uporabiti PowerShell. Če želite več informacij, [glejte Izvoz rezultatov iz več kot 100 K nabiralnikov.](https://go.microsoft.com/fwlink/?linkid=2143861)
 
-Če želite izvedeti več, glejte [izvoz rezultatov iskanja vsebine](https://go.microsoft.com/fwlink/?linkid=2102118).
+Če želite več informacij, glejte [Izvoz rezultatov iskanja vsebine.](https://go.microsoft.com/fwlink/?linkid=2102118)

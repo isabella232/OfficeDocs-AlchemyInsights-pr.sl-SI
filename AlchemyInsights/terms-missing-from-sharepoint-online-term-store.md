@@ -1,5 +1,5 @@
 ---
-title: Pogoji, ki jih ni v trgovini SharePoint online
+title: Manjkajoči pogoji SharePoint spletne shrambe izrazov
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "1243"
 - "5200021"
 ms.assetid: a0f6a3b6-c17b-44a6-bb0f-039dbbc3f614
-ms.openlocfilehash: fd2824521d41eac892bf3a9cd4d8093751ccaf5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c596cf02128cbe58cd97ea802bf9ca1d0ce5b3b0a4334c4423754d86661c525a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669444"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54039622"
 ---
-# <a name="terms-missing-from-sharepoint-online-term-store"></a>Pogoji, ki jih ni v trgovini SharePoint online
+# <a name="terms-missing-from-sharepoint-online-term-store"></a>Manjkajoči pogoji SharePoint spletne shrambe izrazov
 
-Pogoji v shrambi izrazov SharePoint Onlinea, ki jih pričakujete, ne bodo prikazani ali pa se bodo občasno pojavili.
+Pogoji v spletni shrambi izrazov SharePoint ki jo pričakujete, niso prikazani ali se občasno prikazujejo.
   
-Če ste opravili več kot 24 ur, odkar ste prvič videli to težavo, se obrnite na primer podpore. Razumemo, da se 24 ur morda zdi, kot dolgo časa. V številnih primerih že pripravljamo rešitev, zato vas prosimo, da nam daste vsaj 24 ur.
+Če je od prve težave minilo več kot 24 ur, zabeležite primer podpore. Razumemo, da se 24 ur morda zdi zelo dolgo. V številnih primerih že delamo na rešitvi, zato nam prosim, da nam daste vsaj 24 ur časa.
   

@@ -1,5 +1,5 @@
 ---
-title: Popravi pravilnik povezave
+title: Popravljanje pravilnika o povezavi
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 0b6286350e706e493f6d30b7978aacedc02daff5
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 7eae77358b0305582f53c411a092e3d2f1dbe17fd58ceac1ac00d5c07b3dd202
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750600"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988152"
 ---
-# <a name="fix-connection-policy"></a>Popravi pravilnik povezave
+# <a name="fix-connection-policy"></a>Popravljanje pravilnika o povezavi
 
-E-pošta je bila označena kot varna in dostavljena v uporabnikovo mapo» Prejeto «, ker je bil naslov IP za pošiljanje v pravilniku filtra povezave označen kot varen. Če želite pregledati pravilnik, naredite to:
+E-pošta je bila označena kot varna in dostavljena v uporabnikovo mapo »Prejeto«, ker je bil naslov IP za pošiljanje označen kot varen v pravilniku filtra povezave. Če želite pregledati pravilnik, naredite to:
 
-1. Obiščite središče za [skladnost s predpisi sistema Office & 365](https://go.microsoft.com/fwlink/p/?linkid=2077143)in nato pojdite na pravilnik za **upravljanje groženj** za  >    >  [preprečevanje neželene pošte](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na zavihku **po meri** izberite **pravilnik filtra povezave** in nato izberite **Uredi pravilnik**.
-3. Preglejte seznam **dovoljenih IP** . Preverite, ali je omogočen **varni seznam** .
+1. Obiščite središče [za Office 365 za zagotavljanje &](https://go.microsoft.com/fwlink/p/?linkid=2077143)s predpisi in pojdite na Pravilnik za upravljanje groženj  >    >  [– neželena pošta](https://go.microsoft.com/fwlink/?linkid=2101518).
+2. Na **zavihku** Po meri izberite **pravilnik filtra povezave in** nato uredi **pravilnik.**
+3. Preglejte **seznam allow (Dovoljeni naslovi IP).** Oglejte **si Sef ali je** seznam omogočen.
 
     > [!NOTE]
-    > Microsoft je naročen na vire neodvisnih ponudnikov zaupanja vrednih pošiljateljev. Če je omogočeno **varno seznam** , se ti zaupanja vredni pošiljatelji ne zmotno označijo kot neželena pošta. Priporočamo, da izberete to možnost, saj bo zmanjšala število lažnih pozitivnih rezultatov (dobra pošta, ki je razvrščena kot neželena pošta), ki jo prejmete.
+    > Microsoft se naroči na vire zaupanja vrednih pošiljateljev tretjih oseb. Če **Sef seznam** omogočen, ti zaupanja vredni pošiljatelji niso pomotoma označeni kot neželena pošta. Priporočamo, da izberete to možnost, saj se s tem zmanjša število napačnih pozitivnih pošiljateljev (dobra pošta, ki je razvrščena kot neželena pošta), ki jo prejmete.

@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056542"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>Pridobivanje hibridnega ključa za Exchange
+# <a name="getting-an-exchange-hybrid-key"></a>Pridobivanje Exchange ključa
 
-Če želite vzpostaviti povezavo med organizacijo na mestu uporabe in storitvijo Exchange Online v storitvi Microsoft 365, morate v organizaciji na mestu uporabe nastaviti vsaj en Exchangeev strežnik. Ta strežnik se uporablja za ustvarjanje hibridnega uvajanja, ki povezuje vašo organizacijo Exchange na mestu uporabe v storitvi Exchange Online. Če želite pridobiti hibridni ključ za ta strežnik, sledite navodilom [čarovnika za distribucijo hibridnih ključev izdelka za Exchange](https://aka.ms/hybridkey).
+Če želite povezati organizacijo na mestu Exchange Online v Microsoft 365, morate v organizaciji na mestu uporabe nastaviti vsaj en Exchange strežnika. Ta strežnik se uporablja za ustvarjanje hibridnega uvajanja, ki poveže organizacijo na mestu Exchange z Exchange Online. Hibridni ključ za ta strežnik pridobite tako, da upoštevate navodila v Exchange [čarovnika za distribucijo hibridnega ključa izdelka.](https://aka.ms/hybridkey)
   
