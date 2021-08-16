@@ -1,5 +1,5 @@
 ---
-title: Vaš MDM Authority ni nastavljen
+title: Vaš organ MDM ni nastavljen
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796304"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046696"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>Vaš MDM Authority ni nastavljen
+# <a name="your-mdm-authority-is-not-set"></a>Vaš organ MDM ni nastavljen
 
-Organ za upravljanje mobilnih naprav (MDM) tega najemnika ni nastavljen. Pred vpisom in upravljanjem naprav morate nastaviti MDM avtoriteto s programom InTune MDM. Brez nastavitve MDM organa ne boste mogli uporabljati funkcij MDM. Nastavitev MDM organa določa, kako upravljate naprave.
+Pooblastilo za upravljanje mobilnih naprav (MDM) tega najemnika ni nastavljeno. Preden včlanite in upravljate naprave prek programa Intune MDM, morate nastaviti pooblastilo za MDM. Če ne nastavite pooblastila za MDM, ne boste mogli uporabljati intune funkcij MDM. Nastavitev pooblastila MDM določa način upravljanja naprav.
 
-Priporočena navodila:
-1. Premaknite se do rezila za pregled InTune, da nastavite MDM avtoriteto.
-2. Izberite ustreznega organa, ki temelji na upravnih potrebah. Če želite več informacij, glejte [Nastavitev članka za upravljanje mobilnih naprav](https://docs.microsoft.com/intune/mdm-authority-set).
+Priporočeni koraki:
+1. Pomaknite se do re mestu pregleda včlanitve v intune, da nastavite pooblastilo MDM.
+2. Izberite ustrezen organ glede na vaše skrbniške potrebe. Če želite več informacij, glejte [Članek Nastavitev upravljanja mobilnih naprav.](https://docs.microsoft.com/intune/mdm-authority-set)

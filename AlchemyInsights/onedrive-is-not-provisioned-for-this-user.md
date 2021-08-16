@@ -1,5 +1,5 @@
 ---
-title: OneDrive ni omogočen za tega uporabnika
+title: OneDrive ta uporabnik nima omogočanja uporabe
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 07ac096452e603f05fd1b332bc318fdaa911340c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d3ef8d405abc1d0a36b448804f0bdc7ced616a7a5933c142bfd3dd7e4596bd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672828"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984765"
 ---
-# <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive ni omogočen za tega uporabnika
+# <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive ta uporabnik nima omogočanja uporabe
 
-Za novo ustvarjene račune se morajo uporabniki vpisati v skrbniško središče za Microsoft 365 z lastnim računom in kliknite OneDrive, če želite ročno zagnati zagotavljanje spletnega mesta OneDrive.
+Za novo ustvarjene račune se morajo uporabniki vpisati v Skrbniško središče za Microsoft 365 s svojim računom in klikniti OneDrive, da ročno zaženejo nastavitev in OneDrive mesta.
   
-Če pa je uporabnik že kliknil OneDrive in če njihova osebna stran ni omogočena v 24 urah, se obrnite na vstopnico za podporo za nadaljnjo pomoč.
+Če pa je uporabnik že kliknil OneDrive svoje osebno mesto pa v 24 urah ni na voljo, za dodatno pomoč zabeležite vstopnico za podporo.
   
 

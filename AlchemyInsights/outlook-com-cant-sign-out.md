@@ -1,5 +1,5 @@
 ---
-title: Outlook.com se ne more izpisati
+title: Outlook.com se ne morete izpisati
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752771"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984657"
 ---
-# <a name="unable-to-sign-out-of-outlookcom"></a>Ne morete se izpisati iz Outlook.com
+# <a name="unable-to-sign-out-of-outlookcom"></a>Ni se mogoče izpisati iz Outlook.com
 
-Če se želite izpisati iz Outlook.com, izberite svoje ime ali sliko v zgornjem desnem kotu zaslona, nato pa izberite **izpis**.
+Če se želite izpisati Outlook.com, izberite svoje ime ali sliko v zgornjem desnem kotu zaslona, nato pa **izberite Izpiši**.
 
-Če slike ne vidite na vrhu zaslona, preverite, ali je blokiranje oglasov vklopljeno. Včasih ta nastavitev prepreči prikaz slike.
+Če svoje slike ne vidite na vrhu zaslona, preverite, ali je vklopljeno blokiranje oglasov. Včasih ta nastavitev prepreči prikaz slike.
 
-Če se še vedno ne morete izpisati iz Outlook.com, kliknite  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) nato zaprite vsa okna brskalnika.
+Če se še vedno ne morete izpisati iz spletnega mesta Outlook.com, [https://login.live.com/logout.srf](https://login.live.com/logout.srf) kliknite in zaprite vsa okna brskalnika.

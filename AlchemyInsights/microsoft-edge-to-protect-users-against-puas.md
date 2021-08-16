@@ -1,5 +1,5 @@
 ---
-title: Uporaba Microsoftovega roba za zaščito uporabnikov pred PUAs
+title: Uporaba Microsoft Edge za zaščito uporabnikov pred pušo
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49679920"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000516"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Uporaba Microsoftovega roba za zaščito uporabnikov pred PUAs
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>Uporaba Microsoft Edge za zaščito uporabnikov pred pušo
 
-Microsoft Edge različice 80.0.361.50 in pozneje blokirajo prenose morebitnih neželenih programov (PUAs) in povezanih URL-jev. Če želite vklopiti to funkcijo, naredite to:
+Microsoft Edge različicami 80.0.361.50 in novejšimi različicami blokirajo prenose morebitno neželenih aplikacij in povezanih URL-jev. Če želite vklopiti to funkcijo, naredite to:
 
-1. Pojdite v razdelek **Nastavitve**  >  **zasebnost in storitve** v brskalniku.
+1. Pojdite na **Nastavitve**  >  **in storitve** v brskalniku.
 
-2. Pomaknite se navzdol do razdelka **storitve** in zagotovite, da je **Microsoft Defender SmartScreen** vklopljen in **blokira morebitno neželene aplikacije** .
+2. Pomaknite se navzdol do **razdelka** Storitve in preverite, **Microsoft Defender SmartScreen** sta vklopljeni možnosti **Blokiraj morebitno** neželene aplikacije.
 
-    Ko naslednjič Microsoft Defender SmartScreen zazna PUA, ga bo blokiral in vas ustrezno obvestil.
+    Ko Microsoft Defender SmartScreen zazna pujs, blokira in vas ustrezno obvesti.
 
-    Če želite izvedeti več, si oglejte [kako blokirati pred PUA URL-ji povezanih naslovov](https://go.microsoft.com/fwlink/?linkid=2133024).
+    Če želite izvedeti več, preberite, [kako blokirate URL-je, povezane s pua.](https://go.microsoft.com/fwlink/?linkid=2133024)

@@ -1,5 +1,5 @@
 ---
-title: Ne morem prebrati Outlook.com e-pošte v brskalniku Google Chrome s AdBlock
+title: E-pošte na Outlook.com ni mogoče prebrati v brskalniku Google Chrome z aplikacijo AdBlock
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "8000048"
 - "814"
-ms.openlocfilehash: c5bc85855f5d2634c085ef093ab71c98093931a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f494d71b26e6e62215c979dcdd7fd8e4ad2c20774e15641b42f1f6208eaa2922
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984729"
 ---
-# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Ne morem prebrati e-pošte v brskalniku Google Chrome s AdBlock
+# <a name="cant-read-email-in-google-chrome-with-adblock"></a>Ne morem prebrati e-pošte v brskalniku Google Chrome z aplikacijo AdBlock
 
-Če ne morete brati ali sestaviti e-pošte, ko uporabljate Google Chrome s pripono AdBlock:
+Če ne morete prebrati ali sestaviti e-poštnega sporočila, ko uporabljate Google Chrome z razširitvijo AdBlock:
 
 - Uporabite [Microsoft Edge](https://go.microsoft.com/fwlink/p/?linkid=2001503&amp;clcid=0x409) ali drug spletni brskalnik.
-- Izključite Outlook.com iz nastavitev AdBlock. V zgornjem desnem kotu brskalnika Google Chrome izberite **Adblock** in nato izberite **ne Zaženi na straneh v tej domeni**. Osvežite brskalnik, če želite znova naložiti Outlook.com.
+- Izključite Outlook.com iz nastavitev razširitve AdBlock. V zgornjem desnem kotu brskalnika Google Chrome izberite **AdBlock** in nato izberite Ne izvajaj na straneh **v tej domeni.** Osvežite brskalnik, da znova naložite Outlook.com.

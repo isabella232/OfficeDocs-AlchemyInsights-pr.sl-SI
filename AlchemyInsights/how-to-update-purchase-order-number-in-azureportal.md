@@ -1,5 +1,5 @@
 ---
-title: Kako posodobiti številko naročila za naročilo v portalu Azure
+title: Kako posodobiti številko naročila v portalu Azure Portal
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7293"
-ms.openlocfilehash: df35af1925e9389fff810bed17f580f087e88e20
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 2873afabc5320fd69d219886187231b64569dd3bedf0ffe34a8ed2485456f966
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679189"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028812"
 ---
-# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Kako posodobiti številko naročila za naročilo v portalu Azure
+# <a name="how-to-update-an-purchase-order-number-in-azure-portal"></a>Kako posodobiti številko naročila v portalu Azure Portal
 
-V portalu Azure lahko posodobite številko naročila za nakup (PO). To naredite tako, da boste morali imeti vlogo lastnika ali sodelavca na računu obračunavanja za Microsoftovo pogodbo za stranke (MCA). 
+Številko naročila lahko posodobite v portalu Azure Portal. Če želite to narediti, morate imeti vlogo lastnika ali sodelavca v računu za obračunavanje Microsoftove pogodbe za stranke (MCA). 
 
-Če želite posodobiti številko PO:
-1. Vpišite se v portal Azure in se pomaknite do razdelka **stroški Management + obračunavanje**.
-1. Kliknite **profili obračunavanja** in izberite profil obračunavanja, da POSODOBITE številko po.
-1. Kliknite **lastnosti** in izberite **Posodobi številko po**. 
+Če želite posodobiti številko posoja:
+1. Vpišite se v portal Azure in izberite Upravljanje **stroškov + obračunavanje.**
+1. Kliknite **Profili za obračunavanje** in izberite profil za obračunavanje, da posodobite številko profila za obračunavanje.
+1. Kliknite **Lastnosti in** izberite Posodobi številko **po.** 
 
 **Priporočena dokumentacija**
 
 - [Razumevanje računa MCA](https://docs.microsoft.com/azure/cost-management-billing/understand/mca-understand-your-invoice)
-- [Posodobitev nastavitev računa obračunavanja](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  
+- [Posodobitev nastavitev računa za obračunavanje](https://docs.microsoft.com/microsoft-store/update-microsoft-store-for-business-account-settings)  

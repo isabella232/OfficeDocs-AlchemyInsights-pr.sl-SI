@@ -1,5 +1,5 @@
 ---
-title: Izračun Prostora za shranjevanje v SharePointu
+title: Izračun SharePoint prostora za shranjevanje
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000355"
 - "10010"
-ms.openlocfilehash: aaabcc52b4811c1eea9cd3f0c65e2bf81644354b
-ms.sourcegitcommit: 9540ba561c98b511483d6f3264c43bbecbf9f4d5
+ms.openlocfilehash: 7feac3177052b8647ff571f875f6978e84b046e06283bc8ac5ba48cc148f14a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51420931"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046444"
 ---
-# <a name="calculate-sharepoint-storage"></a>Izračun Prostora za shranjevanje v SharePointu
+# <a name="calculate-sharepoint-storage"></a>Izračun SharePoint prostora za shranjevanje
 
-**Formula prostora za shranjevanje:** 1 TB [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) plus 10 GB na licenco za kupljeni upravičeni paket in vsak kupljeni dodatek za ekstra datotečni prostor za shranjevanje v storitvi **[Office 365.](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)**
+**Formula prostora za shranjevanje:** 1 TB [](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space) plus 10 GB na licenco za kupljeni upravičeni paket **[in Office 365 Extra File Storage](https://docs.microsoft.com/microsoft-365/commerce/add-storage-space)** kupljeni dodatek.
 
-Če želite več informacij, glejte [Omejitve shrambe v SharePointu glede na paket.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+Če želite več informacij, [SharePoint shrambe glede na paket.](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
