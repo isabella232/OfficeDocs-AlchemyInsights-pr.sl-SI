@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 0f37541be26d058b4d3c1da6925cd612f254fe38
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 9b2fd9d408fbb8ee9dced7e74d9ab9d2a1295c55a2f09fd96ba75eef153138d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483937"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045652"
 ---
-# <a name="azure-active-directory-plans-comparison"></a>Primerjava paketov storitve Azure Active Directory
+# <a name="azure-active-directory-plans-comparison"></a>Azure Active Directory primerjanje paketov
 
-V storitvi Azure Active Directory je na voljo štiri izdaje: brezplačno, Office 365 apps, Premium P1 in Premium P2.
+Azure Active Directory na voljo v štirih izdajah: Brezplačno, Office 365 Aplikacije, Premium P1 in Premium P2.
 
-Brezplačna izdaja je vključena v naročnino na Azure. Izdaje Premium so na voljo prek Microsoftovega predstavnika, [programa za odpiranje količinskega licenciranja](https://go.microsoft.com/fwlink/?linkid=2110873)in [programov za rešitev v oblaku](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409).
+Brezplačna izdaja je vključena v naročnino na Azure. Izdaje Premium na voljo pri Microsoftovem predstavniku, programu [Open Volume License Program](https://go.microsoft.com/fwlink/?linkid=2110873)in programih Ponudniki rešitev v [oblaku.](https://go.microsoft.com/fwlink/?LinkId=614968&clcid=0x409)
 
-Naročniki Azure in Office 365 lahko kupijo tudi Azure Active Directory Premium P1 in P2 online. Če želite izvedeti več, glejte [funkcije in cene v storitvi Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2081447).
+Naročniki na Azure Office 365 lahko prek spleta kupijo Azure Active Directory Premium P1 in P2. Če želite izvedeti več, [glejte Azure Active Directory in cene.](https://go.microsoft.com/fwlink/?linkid=2081447)

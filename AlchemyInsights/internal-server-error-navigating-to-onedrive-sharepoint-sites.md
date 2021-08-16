@@ -1,5 +1,5 @@
 ---
-title: Težave z učinkovitostjo delovanja – SharePoint ali OneDrive
+title: Težave z učinkovitostjo SharePoint ali OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,29 +9,29 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 99d99b22c7ec5e3bde6a89dc2da8e08c2162bf65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 00516d08384cd29de46c7f49bcd673f285d56a8c349fc2adefa5ea2173abd7b6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028452"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Napaka notranjega strežnika pri krmarjenju do SharePointovih mest ali OneDrive
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>Notranja napaka strežnika pri krmarjenju do SharePointovih ali OneDrive mest
 
-Uporabniki lahko prejmejo napako v notranjem strežniku 500, ko se poskušajo pomakniti v SharePoint ali OneDrive mesta. 
+Uporabniki lahko prejmejo napako 500 notranjih strežnikov, ko poskušajo krmariti do SharePoint ali OneDrive mest. 
 
-Poskusite počistiti predpomnilnik brskalnika, preden se pomaknete na mesto.
+Preden krmarate do mesta, poskusite počistiti predpomnilnik brskalnika.
 
 
-1. V brskalniku Microsoft Edge poiščite več... > nastavitve
+1. V Microsoft Edge brskalniku odprite Več ...> Nastavitve
 
-2. V razdelku počistite podatke brskanja izberite **Izberi, kaj želite počistiti**
+2. V razdelku »Počisti podatke o brskanju« izberite **»Izberite, kaj želite počistiti«**
 
-3. Potrdite potrditveno polje Piškotki in shranjeni podatki spletnega mesta ter izberite **Počisti**.
+3. Potrdite polje Piškotki in shranjeni podatki spletnega mesta in izberite **Počisti**.
 
-Opomba: ta navodila se lahko razlikujejo, ko uporabljate druge brskalnike, kot sta Firefox ali Chrome.
+Opomba: Ta navodila se lahko razlikujejo, če uporabljate druge brskalnike, na primer Firefox ali Chrome.
 
-Če težave s tem ne odpravite, lahko preverite, ali je v najemniku prišlo do aktivnega vzdrževanja tako, da se pomaknete do [središča za sporočila](https://portal.office.com/adminportal/home#/MessageCenter).
+Če s tem ne odpravite težave, lahko preverite, ali je v najemniku prišlo do aktivnega vzdrževanja, tako da se po odpravite v središče [za sporočila.](https://portal.office.com/adminportal/home#/MessageCenter)
 
-Na koncu poskrbite, da obiščete stran za [zdravstveno stanje storitve](https://portal.office.com/adminportal/home#/servicehealth) , da preverite morebitne svetovalce/incidente, ki se lahko pojavijo.
+Na koncu se prepričajte, da [obiščete stran Stanje](https://portal.office.com/adminportal/home#/servicehealth) storitve in preverite, ali so na voljo svetovalci/dogodki, ki se lahko pojavijo.
 

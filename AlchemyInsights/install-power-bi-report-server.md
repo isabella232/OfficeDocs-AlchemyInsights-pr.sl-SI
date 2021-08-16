@@ -1,5 +1,5 @@
 ---
-title: Namestitev strežnika Power BI Report Server
+title: Namestitev Strežnik za poročila Power BI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1304"
 - "2500001"
-ms.openlocfilehash: 8479be2a538228b71033aca3907d3aba2f5e28fb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 01cc2efc2dacc2fdf0b7b7f036bc18e1c75fd515348b72d5c4dde96949a51a2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51832110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028596"
 ---
-# <a name="install-power-bi-report-server"></a>Namestitev strežnika Power BI Report Server
+# <a name="install-power-bi-report-server"></a>Namestitev Strežnik za poročila Power BI
 
 1. Poiščite lokacijo namestitvenega PowerBIReportServer.exe in zaženite namestitveni program.
 
-2. Izberite **Namesti strežnik Power BI Report Server**.
+2. Izberite **Namesti Strežnik za poročila Power BI.**
 
 3. Izberite izdajo, ki jo želite namestiti, nato pa izberite **Naprej**.
 
@@ -35,6 +35,6 @@ ms.locfileid: "51832110"
 
 7. Ko je namestitev uspešna, izberite Konfiguriraj strežnik **za poročila,** da zaženete upravitelja konfiguracije storitev reporting services.
 
-Strežnika mehanizma zbirke podatkov strežnika SQL Server ne potrebujete ob namestitvi. Potrebujete ga za konfiguracijo storitev Reporting Services po namestitvi.
+Ko je mehanizem zbirke podatkov SQL Server na voljo, ne potrebujete strežnika zbirke podatkov. Potrebujete ga za konfiguracijo storitev Reporting Services po namestitvi.
 
 Če želite več informacij: https://docs.microsoft.com/power-bi/report-server/install-report-server
