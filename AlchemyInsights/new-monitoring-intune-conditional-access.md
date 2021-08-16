@@ -1,5 +1,5 @@
 ---
-title: Nadzorovanje pogojnega dostopa za InTune
+title: Nadzor pogojnega dostopa do storitve Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,31 +13,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: e2803a49aaf087ac55b1fd62056e2b0af3fcd919
-ms.sourcegitcommit: 229bd519ec1c14c65a243226a94eee23e117a7fc
+ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50428307"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025518"
 ---
-# <a name="monitor-intune-conditional-access"></a>Nadzorovanje pogojnega dostopa za InTune
+# <a name="monitor-intune-conditional-access"></a>Nadzor pogojnega dostopa do storitve Intune
 
-Uporabniki, ki so usmerjeni s pogojnim dostopom, bodo prejeli e-poštno obvestilo, če ne ustrezajo zahtevam za dostop do vaše organizacije. Če želite razrešiti, priporočamo eno ali več od teh rešitev:
+Uporabniki s pogojnim dostopom prejmejo e-poštno obvestilo, če ne izpolnjujejo zahtev za dostop, ki veljajo v vaši organizaciji. Če želite odpraviti to težavo, priporočamo, da odpravite eno ali več teh rešitev:
 
-1. Če je naprava domnevno včlanjena, svetuje uporabniku, da se poišče v programu podjetja portal in preveri, ali je prikazana v portalu podjetja. Če ne, mora uporabnik vpisati napravo.
-1. V portalu **Azure se pozanimajte o**  >  **skladnosti naprave**. 
-1. Če si želite ogledati poročilo o skladnosti naprave, da preverite, ali je naprava uporabnika označena kot združljiva, v razdelku **monitor** kliknite **skladnost naprave**.
-1. V portalu **Azure se pozanimajte o**  >  **skladnosti naprave**. V razdelku **upravljanje** kliknite **Pravilniki**. Na seznamu pravilnikov o skladnosti preverite, ali je profil dodeljen napravi uporabnika. Če ni dodeljen noben profil, InTune ne more potrditi stanja skladnosti naprave.
-1. Uredite uporabnikovo pogojno dostopno dodelitev.
-1. V portalu Azure se pomaknite do možnosti **Prilagodi**  >  pravilnike **pogojnega dostopa**  >  , na seznamu izberite pravilnik in kliknite **Uporabniki in skupine**.
-1. Če želite določene pravilnike usmeriti na osebo, jih dodajte na **seznam vključi**. Če želite zagotoviti, da je oseba izpuščena iz pravilnika, jih dodajte na **seznam izključi**.
+1. Če je videti, da je naprava včlaljena, svetujte uporabniku, naj odpre aplikacijo Company Portal in preveri, ali je prikazana v Company Portal. Če naprava ni včlanjena, mora uporabnik napravo včlanjeti.
+1. V portalu Azure pojdite v storitev **Intune**  >  **– skladnost naprave s predpisi.** 
+1. Če si želite ogledati poročilo o skladnosti naprave s predpisi in preveriti, ali je uporabnikova naprava označena kot skladna s predpisi, v razdelku **Nadzor** kliknite **Skladnost naprave s predpisi.**
+1. V portalu Azure pojdite v storitev **Intune**  >  **– skladnost naprave s predpisi.** V **razdelku Upravljanje** kliknite **Pravilniki.** Na seznamu pravilnikov za skladnost s predpisi preverite, ali je uporabnikovi napravi dodeljen profil. Če profil ni dodeljen, Intune ne more potrditi stanja skladnosti naprave s predpisi.
+1. Uredite dodelitev uporabnikovega pogojnega dostopa.
+1. V portalu Azure se pomaknite do možnosti Pravilniki pogojnega dostopa do storitve **Intune**, na seznamu izberite pravilnik in kliknite Uporabniki in  >    >   **skupine.**
+1. Če želite nekomu dodati določen pravilnik, ga dodajte na **seznam Vključi.** Če želite zagotoviti, da osebe ne bo več v pravilniku, jo dodajte na seznam **Izključi.**
 
-**Uporabne povezave:**
+**Koristne povezave:**
 
-- [Pregled skladnosti naprave](https://docs.microsoft.com/intune/device-compliance-get-started)
-- [Odpravljanje težav CA](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [Pregled skladnosti naprave s predpisi](https://docs.microsoft.com/intune/device-compliance-get-started)
+- [Odpravljanje težav s ca-jem](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 - [Pravilnik za odpravljanje težav](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
-- [Nadzorovanje skladnosti naprave](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [Nadzorovanje skladnosti naprave s predpisi storitve Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
 > [!NOTE]
-> Ti koraki so v pomoč pri odpravljanju težav s pogojnim dostopom v storitvi Azure Active Directory. Možno je tudi, da karantena naprave blokira dostop do e-pošte s pravilnikom za Exchange. Več informacij o upravljanju naprav Exchange lahko najdete [**tukaj**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141)).
+> Ta navodila so uporabna le pri odpravljanju težav z Azure Active Directory funkcije pogojnega dostopa. Napravo, ki blokira e-poštni dostop, lahko tudi karanteno s pravilnikom Exchange pošte. Več informacij o upravljanju Exchange najdete [**tukaj.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))

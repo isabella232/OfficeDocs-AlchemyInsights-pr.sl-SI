@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3482"
 - "9001214"
-ms.openlocfilehash: f6da7496ebce0c1d5e7b8c1b6ce6fcdaffd1512d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 750a4f7ac0cd36476b0f682dd8b72ee6da4df0ba6879e1f9dad32dbcea15053e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068468"
 ---
 # <a name="fix-usb-printer-connection-issues"></a>Odpravljanje težav s tiskalnikom USB
 
@@ -29,12 +29,12 @@ ms.locfileid: "51812732"
 
 Če to ne deluje, poskusite **odstraniti in znova namestiti tiskalnik USB:**
 
-1. Tiskalnik odstranite v nastavitvah:
+1. Tiskalnik odstranite v Nastavitve:
     1. Izključite kabel USB tiskalnika iz računalnika.
-    2. Izberite **Začetni**  >  **meni Nastavitve**  >    >  **Tiskalniki za & optičnih bralnikov**.
+    2. Izberite **Začetni**  >  **Nastavitve**  >  **Tiskalniki**  >  **in & optični bralniki.**
     3. V **razdelku Tiskalniki & optični bralniki** izberite tiskalnik, ki ga odpravljate. Izberite **Odstrani napravo**. Upoštevajte navodila za polno odstranitev tiskalnika.
 2. Odstranite katero koli programsko opremo izdelovalca tiskalnikov drugega izdelovalca:
-    1. Izberite **Nastavitve za**  >  **začetni** meni  >  **Aplikacije**.
+    1. Izberite **Začetni**  >  **Nastavitve**  >  **Aplikacije.**
     2. V **razdelku & funkcije se** pomaknite navzdol in poiščite programsko opremo, ki jo je namestil proizvajalec tiskalnika (npr. HP, Canon ali Epson).
     3. Izberite programsko opremo in nato še **Odstrani.**
 3. Izklopite in znova zaženite tiskalnik.<br>

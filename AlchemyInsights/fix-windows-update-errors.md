@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje napak storitve Windows Update
+title: Odpravljanje napak Windows posodabljanjem
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001515"
 - "3573"
-ms.openlocfilehash: 07a5b67270d4eb17b129452e2eee28389f79313b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6e90c0ba8a8cbe79838e1f49cd7049bf3e24e985d371ee1462d50e47834cdac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068288"
 ---
-# <a name="fix-windows-update-errors"></a>Odpravljanje napak storitve Windows Update
+# <a name="fix-windows-update-errors"></a>Odpravljanje napak Windows posodabljanjem
 
-Če med prenosom in nameščanjem posodobitve sistema Windows dobite kodo napake, lahko težavo **odpravite** z orodjem za odpravljanje težav s storitvijo.
+Če med prenosom in namestitvijo posodobitve pride do kode napake Windows odpravite težavo z orodjem za odpravljanje težav. 
 
-- [Prenos orodja za odpravljanje težav s posodobitvijo za Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
-- Zaženite orodje za odpravljanje težav. Ko je postopek končan, je najboljša praksa, da znova zaženete napravo. Nato preverite, ali so na voljo nove posodobitve, tako da > Začetni > & [Windows Update > Windows Update.](ms-settings:windowsupdate)
+- [Prenesite orodje za odpravljanje težav s Windows 10](https://support.microsoft.com/help/4027322/windows-update-troubleshooter)
+- Zaženite orodje za odpravljanje težav. Ko je postopek končan, je najboljša praksa, da znova zaženete napravo. Nato preverite, ali so na voljo nove posodobitve, tako [da kliknete > Nastavitve > Posodobitev & varnost in > Windows posodobitev.](ms-settings:windowsupdate)
 
-Če to še vedno ne deluje, si oglejte [Windows Update: pogosta vprašanja](https://support.microsoft.com/help/12373/windows-update-faq) za več informacij.
+Če to še vedno ne deluje, si oglejte Windows [Posodobitev: pogosta vprašanja](https://support.microsoft.com/help/12373/windows-update-faq) za več informacij.

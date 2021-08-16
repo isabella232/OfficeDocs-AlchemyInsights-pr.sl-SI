@@ -1,5 +1,5 @@
 ---
-title: Za več pomoči z odjemalcem Windows Defender
+title: Za več pomoči za Windows Defender odjemalca
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: b5c584bdd39a98e19fde88c59bfdcb64cbd33d69
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8143739d072ec7e0aff61352c929fb7ac8eca6a6eb9aeacf2162a995fc30a4d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068144"
 ---
-# <a name="for-more-help-with-windows-defender-client"></a>Za več pomoči z odjemalcem Windows Defender
+# <a name="for-more-help-with-windows-defender-client"></a>Za več pomoči za Windows Defender odjemalca
 
 Obiščite Središče za [dokumentacijo Microsoftove](https://docs.microsoft.com/security/#pivot=products&panel=products1) varnosti.
