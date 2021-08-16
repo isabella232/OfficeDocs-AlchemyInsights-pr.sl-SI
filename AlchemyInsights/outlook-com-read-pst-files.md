@@ -14,15 +14,15 @@ ms.custom:
 - "1761"
 - "1771"
 - "9000199"
-ms.openlocfilehash: 66196cc99e4475f53d02dfb291ce44e3e2b71b87
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 87c54cc1e313dd33e10e94fda9f22cb705ed82b7d29484b723faafb64de89840
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777042"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024438"
 ---
 # <a name="pst-data-files-in-outlookcom"></a>Podatkovne datoteke PST v Outlook.com
 
-Outlooka ni mogoče uvoziti. Podatkovno datoteko PST v račun Outlook.com z brskalnikom.
+Uvoza podatkov ni mogoče Outlook. Podatkovna datoteka PST v Outlook.com z brskalnikom.
 
-Če želite uvoziti a. Podatkovna datoteka PST, morate uporabiti namizni program Outlook. Če želite izvedeti več, preberite [uvoz e-pošte, stikov in koledarja iz Outlookove datoteke. pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+Če želite uvoziti . podatkovno datoteko PST, morate uporabiti namizno Outlook računalnika. Če želite izvedeti več, preberite [Uvoz e-pošte, stikov in koledarja Outlook .pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)

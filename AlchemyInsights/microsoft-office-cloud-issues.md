@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
-ms.openlocfilehash: d6d652d107d453692751ad802ebe397e52df5627
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e80bfd24c319a411493e88c6bac31365c347a2e67f8ecb2dc9ba52fb24fc5d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724703"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012432"
 ---
 # <a name="experiencing-problems-with-a-cloud-service"></a>Ali imate težave s storitvijo v oblaku?
 
-Če imate težave s storitvijo v oblaku, lahko preverite [stanje storitve](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) v skrbniškem središču za Microsoft 365, da ugotovite, ali gre za znano težavo z napredovanjem, preden pokličete podporo ali odpravite odpravljanje težav. Težava je lahko zelo začasna in je že identificirana s strani Microsofta, vendar pa lahko med prepoznavanjem in knjiženjem na nadzorni plošči storitve pride do izteka časa. Še naprej preverite, ali so na nadzorni plošči storitve še naprej na voljo dodatne posodobitve.
+Če imate težave s storitvijo v oblaku, lahko preverite stanje storitve v storitvi Skrbniško središče za Microsoft 365 [in](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) določite, ali gre za znano težavo z odpravljanjem težave v teku, preden pokličete podporo ali porabite čas za odpravljanje težav. Microsoft je težavo morda zelo začasno prepoznal, vendar lahko pride do napake med identifikacijo težave in objavo na nadzorni plošči stanja storitve. Še naprej si oglejte nadzorno ploščo storitve za dodatne posodobitve.
 
-**Pravilnik o obvestilu**
+**Pravilnik za obvestila**
 
-Ko pride do storitvenega incidenta, Microsoft prepozna, da so za stranke nujne, ciljno usmerjene in natančne komunikacije. Microsoft obvesti skrbnike tako, da posodobi [nadzorno ploščo za zdravstveno stanje](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) , ki je značilna za najemnika (SHD) v skrbniškem portalu za Microsoft 365. Posodobitve incidentov storitve so na voljo na urni kadenci ali, če je zahtevana druga Kadenca, bo navedena v SHD sporočilu. Če želite več informacij, glejte [kako preverite stanje storitve Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health).
+Ko pride do storitvenega dogodka, Microsoft prepozna, da so pravočasna, ciljna in točna komunikacija ključnega pomena za stranke. Microsoft obvesti skrbnike tako, da posodobi nadzorno ploščo za stanje storitve za določenega najemnika [(SHD)](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) na portalu za Skrbnik za Microsoft 365 najemnika. Posodobitve storitvenega dogodka so na voljo za urno postavko ali, če je potrebna drugačna cadenca, bo navedeno v objavi komunikacije v storitvi SHD. Če želite več informacij, [glejte Kako preverite Microsoft 365 stanja storitve.](https://docs.microsoft.com/office365/enterprise/view-service-health)
 

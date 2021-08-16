@@ -1,5 +1,5 @@
 ---
-title: Vodnik za nastavitev oddaljenega dela
+title: Vodnik za oddaljeno nastavitev dela
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573900"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024006"
 ---
-# <a name="remote-work-setup-guide"></a>Vodnik za nastavitev oddaljenega dela
+# <a name="remote-work-setup-guide"></a>Vodnik za oddaljeno nastavitev dela
 
-Vse več dela poteka na daljavo. Vaša organizacija mora biti opremljena za upravljanje povečanega povpraševanja po oddaljenih opravilih.
+Vse več dela se opravi na daljavo. Vaša organizacije morajo biti opremljene za upravljanje povečanega zahtev po oddaljenem delu.
 
-Uporabite [vodnik za nastavitev oddaljenega dela](https://go.microsoft.com/fwlink/?linkid=2142062) , da omogočite osnovne varnostne funkcije in pregledate dodatna varnostna priporočila. Navodila za zmanjšanje pritiska na infrastrukturo VPN in po želji nastavite oddaljeni dostop za namizne računalnike in aplikacije. Nato boste pregledali možnosti za uvajanje aplikacij Microsoft Teams in Office.
+V [vodniku za oddaljeno nastavitev dela lahko](https://go.microsoft.com/fwlink/?linkid=2142062) omogočite osnovne varnostne funkcije in pregledate dodatna varnostna priporočila. Dobili boste navodila za zmanjšanje obremenitve infrastrukture VPN in izbirno nastavitev oddaljenega dostopa za namizja in aplikacije. Nato boste pregledali možnosti za uvedbo aplikacij Microsoft Teams in Office aplikacije.

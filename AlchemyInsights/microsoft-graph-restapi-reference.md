@@ -1,5 +1,5 @@
 ---
-title: Sklic na Microsoft Graph REST API
+title: Sklic Graph REST API za Microsoft Graph
 ms.author: pebaum
 author: pebaum
 manager: mnirke
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "7071"
 - "9004013"
-ms.openlocfilehash: 8401b153a3ceb4cd854c7441689cf1e10d18bb07
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+ms.openlocfilehash: f8ecb8081ee169f88ef265f4b108919df29a0ca7146835d7e0c4e85793082136
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49447441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012540"
 ---
-# <a name="microsoft-graph-rest-api-reference"></a>Sklic na Microsoft Graph REST API
+# <a name="microsoft-graph-rest-api-reference"></a>Sklic Graph REST API za Microsoft
 
-Graf API-nabori na končni točki v 1.0 so v stanju splošne razpoložljivosti (GA) in so se s strankami dogovorili s strogim procesom pregledovanja in povratnih informacij, s katerimi lahko uporabniki izpolnjujejo praktične potrebe po proizvodnji.
+Nabori Graph API-ja za končno točko v1.0 so v splošnem razpoložljivosti (GA) in so s strankami prestali strog postopek pregleda in povratnih informacij, ki so izpolnili praktične zahteve glede proizvodnje.
 
-- Če želite več informacij o Graphu API v 1.0, glejte [Priročnik za Microsoft GRAPH REST API v 1.0](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true). 
-- Če želite več informacij o različici beta Graph API, glejte [sklic na končni točki programa Microsoft Graph beta](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true).
+- Če želite več informacij o Graph API-ja v1.0, [glejte Sklic Graph Microsoft Graph REST API v1.0.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-1.0&preserve-view=true) 
+- Če želite več informacij o Graph beta različici API-ja, [glejte Microsoft Graph beta končno točko.](https://docs.microsoft.com/graph/api/overview?toc=.%2Fref%2Ftoc.json&view=graph-rest-beta&preserve-view=true)
 
-Če želite več informacij o programu Microsoft Graph, glejte [dokumentacijo za Microsoft Graph](https://docs.microsoft.com/graph/).
+Če želite več informacij o storitvi Microsoft Graph, si oglejte [Dokumentacijo Graph Microsoftu.](https://docs.microsoft.com/graph/)
 
-Uporabniki enotne in podpore za stranke lahko s tem portalom zbirajo vstopnico za podporo. Če nimate podpore za enotno ali Premier, lahko dostopate do brezplačne podpore za razvijalce za Microsoft Graph v programu Microsoft Q&A. Prosimo, da objavite svoje vprašanje: https://aka.ms/AskGraph
+Stranke enotne podpore in podpore Premier lahko na tem portalu za podporo za dvignejo vstopnico. Če ne uporabljate enotne podpore ali podpore Premier, lahko do brezplačne podpore za razvijalce za Microsoft Graph storitvi Microsoft Q&A. Svoje vprašanje objavite tukaj: https://aka.ms/AskGraph

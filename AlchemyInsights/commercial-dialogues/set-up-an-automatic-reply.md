@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: fe32f93f17151be777749a256a934f475c224048
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 09f618c305cf566c03cbad8ca6ef2ebbf42e48be6c97374199654005698053df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50747677"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994953"
 ---
 # <a name="set-up-an-automatic-reply"></a>Nastavitev samodejnega odgovora
 
-Uporabite samodejne odgovore vsakič, ko želite osebam, ki vam pošljejo e-pošto, sporočiti, da ne boste takoj odgovarjali na njihova sporočila. Ko so samodejni odgovori vklopljeni, bodo poslani enkrat Vsakemu pošiljatelju.
+Samodejne odgovore uporabite, ko želite ljudem, ki vam pošljejo e-pošto, poslati sporočilo, da ne boste takoj odgovorili na njihova sporočila. Ko so samodejni odgovori vklopljeni, bodo vsem pošiljateljem poslani enkrat.
 
 1. Vpišite se v Outlook.com.
-2. V vrstici za krmarjenje izberite **Nastavitve**  >  **Nastavi samodejne odgovore**. Če možnost **Nastavi samodejne odgovore** ni prikazana, izberite **Nastavitve**  >  **možnosti**  >  **Samodejni odgovori**.
-3. Spremenite nastavitve samodejnih odgovorov tukaj, vključno s samodejnimi odgovori za določeno časovno obdobje, pošiljanje odgovora vsem članom v organizaciji ali pošiljanje odgovora le članom zunaj organizacije.
+2. V vrstici za krmarjenje izberite Nastavi **Nastavitve**  >  **samodejne odgovore.** Če **možnost Nastavi samodejne** odgovore ni prikazana, izberite Nastavitve   >  **samodejne**  >  **odgovore.**
+3. Tukaj spremenite nastavitve za samodejne odgovore, vključno s samodejnimi odgovori za določeno časovno obdobje, pošiljanjem odgovora enkrat vsem članom v organizaciji ali pošiljanjem odgovorov le članom zunaj organizacije.

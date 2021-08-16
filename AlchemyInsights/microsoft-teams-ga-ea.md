@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "311"
 - "6500001"
-ms.openlocfilehash: ee38dcb5f40ea16cea1b84b9b16e86b0f52f2d89
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 2c78fec14d43c5cbf6aebbc889d606eb2f6c4c64af85997f523d06872c911a0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452244"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012324"
 ---
 # <a name="microsoft-teams---guest-access"></a>Microsoft Teams – dostop za goste
 
-Če potrebujete pomoč pri komuniciranju z uporabniki zunaj organizacije v aplikaciji Teams, se morate odločiti, ali želite uporabiti [dostop za goste ali zunanji dostop (federacija)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access), lahko pa uporabite oboje.
+Če v programu Teams potrebujete pomoč pri komunikaciji z uporabniki zunaj organizacije, se morate odločiti, ali boste uporabili dostop za goste ali zunanji dostop [(povezovanje)](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access)ali pa oboje.
 
-Preverite [razlike](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) , če želite razumeti funkcije, ki so na voljo za posamezno.  Na primer zunanji dostop (federacija) omogoča komunikacijo v 1:1, kot sta klepet in prisotnost.  Združeni uporabniki ne morejo sodelovati v sodelovanju ekip.  Če želite, da se zunanji uporabnik pridruži in sodeluje v pogovorih v programu Teams Channel ali omogočite skupno rabo datotek, boste morali vklopiti dostop za goste.
+Preglejte [razlike, da boste](https://docs.microsoft.com/microsoftteams/manage-external-access#external-access-vs-guest-access) razumeli funkcije, ki so na voljo za vsako od teh funkcij.  Zunanji dostop (povezovanje) na primer omogoča komunikacijo v 1:1, kot sta Klepet in Prisotnost.  Vendar pa pri sodelovanju z drugimi uporabniki Teams sodelovanje z drugimi uporabniki.  Če želite, da se zunanji uporabnik pridruži pogovorom v Teams kanalu ali v skupno rabo datotek, morate vklopiti dostop za goste.
 
-**Možnost 1: vklop dostopa za goste** V skrbniškem središču za ekipe se pozanimajte o [nastavitvah za široko nastavitev > dostopa za goste](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) in vklopite možnost» Dovoli dostop za goste v aplikaciji teams «.  Za najemnika z vsemi drugimi privzetimi nastavitvami bi moral biti to vse, kar morate narediti.  Če želite prilagoditi konfiguracijo dostopa za goste, se prepričajte, da upoštevate vse korake v [kontrolnem seznamu za dostop za goste](https://docs.microsoft.com/microsoftteams/guest-access-checklist). Ko končate, boste morali [počakati do 24 ur](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) , da bodo nastavitve začele veljati.
+**1. možnost: vklopite dostop za goste** V skrbniškem središču Teams pojdite na Stran organizacije [Nastavitve >](https://admin.teams.microsoft.com/company-wide-settings/guest-configuration) za goste in vklopite možnost »Dovoli dostop za goste v Teams«.  Za najemnika z vsemi drugimi privzetimi nastavitvami morate le še narediti to.  Če želite prilagoditi konfiguracijo dostopa za goste, upoštevajte vse korake na [kontrolnem seznamu za dostop za goste.](https://docs.microsoft.com/microsoftteams/guest-access-checklist) Ko je vse v redu, boste morali počakati [do 24](https://docs.microsoft.com/microsoftteams/manage-guests#guest-access-latencies) ur, da bodo nastavitve začne veljati.
 
-Če ste prepričani, da ste dokončali vse korake na kontrolnem seznamu in je bilo več kot 24 ur, nadaljujte in poskusite [dodati gosta v svojo skupino](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop).
+Če ste prepričani, da ste dokončali vse korake kontrolnega seznama in je že več kot 24 ur, nadaljujte in poskusite dodati gosta v ekipo [.](https://support.office.com/article/add-guests-to-a-team-in-teams-fccb4fa6-f864-4508-bdde-256e7384a14f#ID0EAABAAA=Desktop)
 
-Če želite več informacij, vključno z videoposnetki, glejte [dostop za goste v aplikaciji Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
+Če želite več informacij, vključno z videoposnetki z informacijami, glejte [Dostop za goste v Microsoft Teams](https://docs.microsoft.com/microsoftteams/guest-access).
 
-**Možnost 2: vklop zunanjega dostopa (federacija)** Če želite vklopiti tudi zunanji dostop (federacija), v skrbniškem središču za ekipe pojdite v razdelek skrbniki [> zunanjem dostopu](https://admin.teams.microsoft.com/company-wide-settings/external-communications) in vklopite» uporabniki lahko komunicirajo z uporabniki storitve Skype za podjetja in skupine «, nato pa upoštevajte vse korake v [razdelku Dovoli uporabnikom, da se sporazumevajo in komunicirajo z uporabniki v drugi organizaciji](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization).
+**2. možnost: vklopite zunanji dostop (povezovanje)** Če želite vklopiti tudi zunanji dostop (povezovanje), v Skrbniškem središču za Teams pojdite v razdelek Zunanji dostop na ravni organizacije [Nastavitve >](https://admin.teams.microsoft.com/company-wide-settings/external-communications) vklopite možnost »Uporabniki lahko komunicirajo z uporabniki storitve Skype za podjetja in Teams« ter sledite vsem korakom v tem koraku: Omogočite uporabnikom storitve Teams klepet in komunikacijo z uporabniki v [drugi organizaciji.](https://docs.microsoft.com/microsoftteams/manage-external-access#let-your-teams-users-chat-and-communicate-with-users-in-another-organization)
