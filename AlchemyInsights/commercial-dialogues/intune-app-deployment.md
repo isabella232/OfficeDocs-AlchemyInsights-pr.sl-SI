@@ -1,5 +1,5 @@
 ---
-title: Postopek uvajanja programa InTune
+title: Postopek uvajanja programa Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 90ba640f262599141a3f2a9c067268c039efad75
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d6a0f6f8a9186a97561e7668f32effe0fd1ab156b467b260d5ebef5dbd6b9ff8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034446"
 ---
-# <a name="intune-app-deployment-process"></a>Postopek uvajanja programa InTune
+# <a name="intune-app-deployment-process"></a>Postopek uvajanja programa Intune
 
-Uvajanje programov s programom InTune sledi spodnjemu postopku:
+Če želite uvesti programe v aplikaciji Intune, upoštevajte spodnji postopek:
 
-- Če dodate aplikacijo, lahko dodate program za shranjevanje aplikacij ali prenesete vrstico za podjetja.
-- Dodeljevanje aplikacije – določanje obsega uvedbe aplikacije.
-- Spremljanje programov – Oglejte si stanje namestitve programov, seznam odkritih programov in upravljanje programov, kupljenih iz trgovin aplikacije.
-- [Aplikacija je izvedla InTune SDK. Če želite seznam programov, ki podpirajo SDK, glejte Microsoft InTune zaščitene aplikacije](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps).
+- Dodajanje programa – dodate lahko program iz trgovine App Store ali prenesete poslovni program.
+- Dodeljevanje programa – določite obseg uvajanja programa.
+- Aplikacije za nadzorovanje – oglejte si stanje namestitve aplikacij, seznam odkritih aplikacij in upravljanje aplikacij, kupljenih v trgovinah programov.
+- [Aplikacija je implementirana v SDK za Intune. Če želite seznam aplikacij, ki podpirajo SDK, glejte Microsoft Intune aplikacije.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
-[Preberite več o uvajanju in upravljanju programov InTune...](https://docs.microsoft.com/mem/intune/apps/app-management)
+[Preberite več o uvedbi in upravljanju aplikacije Intune ...](https://docs.microsoft.com/mem/intune/apps/app-management)

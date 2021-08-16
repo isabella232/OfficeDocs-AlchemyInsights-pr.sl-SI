@@ -1,5 +1,5 @@
 ---
-title: Dostop do portala za Microsoft Defender ATP ni uspel
+title: Ni mogoče dostopati do portala Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6030"
 - "9001222"
-ms.openlocfilehash: 8ceba944c8aba183d0622f528658ead8430faa2c
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 71b82307b3491d5d9dbd6cf4325c33645e036475a3a8a5a563e6e84e921fe52a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020388"
 ---
-# <a name="unable-to-access-the-microsoft-defender-atp-portal"></a>Dostop do portala za Microsoft Defender ATP ni uspel
+# <a name="unable-to-access-the-microsoft-defender-atp-portal"></a>Ni mogoče dostopati do portala Microsoft Defender ATP
 
-Če prejmete sporočilo, Niste pooblaščeni za dostop do **portala**, ne pozabite, da je Microsoft Defender ATP nadzor varnosti, raziskovanje dogodkov in odziv, dostop pa je omejen in nadzorovan s strani uporabnika. 
+Če prejmete sporočilo, Niste pooblaščeni za dostop do **portala**, ne pozabite, da je Microsoft Defender ATP nadzor varnosti, raziskovanje dogodkov in odziv, dostop pa je omejen in nadzira uporabnik. 
 
 Če želite več informacij, [glejte Dodeljevanje dostopa uporabnika Microsoft Defender Security Center.](/windows/threat-protection/windows-defender-atp/assign-portal-access-windows-defender-advanced-threat-protection)

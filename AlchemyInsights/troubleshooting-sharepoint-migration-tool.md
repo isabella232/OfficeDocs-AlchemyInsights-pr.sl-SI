@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav z orodjem za selitev SharePointa in napak
+title: Odpravljanje SharePoint z orodjem za selitev in napakami
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,17 +14,17 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 4277c524f5900ef92d39608655453a210f4ed601
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f96b9dc16251701bd24e59153a72ec9a82f75663166b0dac796276e6f66c6424
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54020676"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Odpravljanje težav z orodjem za selitev SharePointa in napak
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>Odpravljanje SharePoint z orodjem za selitev in napakami
 
-Ko uporabljate orodje za selitev SharePoint (SPMT), lahko naletite na nekaj pogostih težav in napak. Če želite več informacij, se obrnite na spodnje povezave.
+Pri uporabi orodja za selitev se lahko pojavijo nekatere pogoste težave in SharePoint (SPMT). Več informacij najdete na spodnjih povezavah.
 
-- [Odpravljanje težav s pogostimi SPMT in napakami](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+- [Odpravljanje pogostih težav in napak SPMT](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
 
 - [Odpravljanje težav z namestitvijo SPMT](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
