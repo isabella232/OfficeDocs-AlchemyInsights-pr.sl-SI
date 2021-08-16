@@ -1,5 +1,5 @@
 ---
-title: Težave z integracijo brezšivne SSO s programi na mestu uporabe
+title: Težave z integracijo nemotene storitve SSO z aplikacijami na mestu uporabe
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7798"
-ms.openlocfilehash: 785d7f842031c1056ec6868376f253439919a3ab
-ms.sourcegitcommit: 227a949a6ae49cc52c7fdcef2f9fd202c746169d
+ms.openlocfilehash: 6b295f3272ba074eac3afb66f3156af7ea4065a1398a215bcb3cde5da74b198a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "49868724"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028308"
 ---
-# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Težave z integracijo brezšivne SSO s programi na mestu uporabe
+# <a name="issues-with-integrating-seamless-sso-with-my-on-premises-apps"></a>Težave z integracijo nemotene storitve SSO z aplikacijami na mestu uporabe
 
-Če želite odpraviti težave z integracijo brezšivne SSO s programi na mestu uporabe, naredite to:
+Če želite odpraviti težave z integracijo nemotene storitve SSO z aplikacijami na mestu uporabe, naredite to:
 
 **Priporočeni koraki**
 
-1. Če želite konfigurirati **program na** mestu uporabe za **enotno prijavo prek proxya programa**, si oglejte [Iskanje gesla za enotno prijavo s proxyjem aplikacije](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting).
-1. **Odpravljanje težav s proxyjem aplikacije**: priporočamo, da začnete s pregledovanjem toka odpravljanja težav, [težav s povezovalnikom strežnika debug](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors), če želite ugotoviti, ali so povezovalniki proxy programov pravilno konfigurirani. Če imate še vedno težave z vzpostavljanjem povezave z aplikacijo, upoštevajte navodila za odpravljanje težav v aplikaciji [aplikacije proxy programa debug](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps). Težave z [CORS lahko prepoznate](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) tako, da uporabite ta orodja za iskanje napak brskalnika:
-    1. Zaženite brskalnik in prebrskajte do spletnega programa.
-    1. Pritisnite **F12** , da prikažete konzolo Debug.
-    1. Poskusite znova ustvariti transakcijo in preglejte konzolno sporočilo. Zaradi kršitve CORS se prikaže konzolna napaka o poreklu.
-    1. Nekaterih težav z CORS ni mogoče razrešiti, na primer, ko se aplikacija preusmeri v login.microsoftonline.com za preverjanje pristnosti, in je žeton za dostop potekel. Klic CORS nato spodleti. Rešitev tega scenarija je, da podaljšate življenjsko dobo Accessovega žetona, da preprečite, da bi poteklo med sejo uporabnika. Če želite več informacij o tem, kako to naredite, glejte [Doživljenjska doba žetonov v Microsoftovi platformi za identiteto](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
+1. Če želite **konfigurirati program na** mestu uporabe za enotno prijavo prek proxyja aplikacije, glejte Shranjevanje gesla za enotno prijavo s [proxyjem aplikacije](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-password-vaulting). 
+1. **Odpravljanje težav s proxyjem** aplikacije: priporočamo, da začnete s pregledovanjem poteka odpravljanja [težav,](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-connectors)odpravljanje težav s povezovalniki proxy aplikacije, da ugotovite, ali so povezovalniki proxy aplikacije pravilno konfigurirani. Če imate še vedno težave z vzpostavljanjem povezave z aplikacijo, upoštevajte navodila za odpravljanje težav v odpravljanju težav s programčka [proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-debug-apps)aplikacije. Težave s [storitvijo CORS lahko prepoznate](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#understand-and-identify-cors-issues) s spodnjimi orodji za iskanje napak v brskalniku:
+    1. Zaženite brskalnik in poiščite spletni program.
+    1. Pritisnite **F12,** da pridržite konzolo za iskanje napak.
+    1. Poskusite znova pri povzeti transakcijo in preglejte sporočilo konzole. Kršitev cors povzroči napako konzole o izvoru.
+    1. Nekaterih težav v zbirki CORS ni mogoče odpraviti, na primer takrat, ko vaša aplikacija preusmeri login.microsoftonline.com za preverjanje pristnosti, žeton za dostop pa poteče. Klic CORS nato ne uspe. Rešitev za ta scenarij je, da podaljšate življenjsko dobo žetona za dostop, da preprečite, da bi potekla med sejo uporabnika. Če želite več informacij o tem, kako to naredite, glejte Konfiguriranje življenjske [dobe žetonov v Microsoftova platforma za identitete](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes).
 
 **Priporočeni dokumenti**
 
-- [Kako konfigurirati enotno prijavo v aplikacijo proxy programa](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
-- [SAML enotne prijave za aplikacije na mestu uporabe z proxyjem programa](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
-- [Razumevanje in reševanje težav z proxyjem storitve Azure Active Directory CORS](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
-- [Odpravljanje težav s omejena konfiguracija dodeljevanja Kerberos za proxy programa](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)
+- [Konfiguracija enotne prijave v program proxy aplikacije](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-config-sso-how-to)
+- [Enotna prijava SAML za programe na mestu uporabe s strežnikom Application Proxy](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-single-sign-on-on-premises-apps)
+- [Razumevanje in odpravljanje Azure Active Directory težav s strežnikom Application Proxy CORS](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-understand-cors-issues#solutions-for-application-proxy-cors-issues)
+- [Odpravljanje težav pri konfiguracijah pooblastitev omejitev Kerberos za proxy aplikacije](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-back-end-kerberos-constrained-delegation-how-to)

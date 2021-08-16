@@ -12,17 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978861"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874555"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Pošiljanje e-poštnega sporočila s sledenjem sporočil
 
-1. Obiščite središče [za Office 365 za zagotavljanje &](https://go.microsoft.com/fwlink/p/?linkid=2077143)skladnosti s predpisi in pojdite na Sledenje **sporočilom o**  >  [toku pošte.](https://go.microsoft.com/fwlink/?linkid=2101048)
+1. Pojdite v skrbniško Exchange (EAC) v sledenje <https://admin.exchange.microsoft.com> \> **toku** \> **pošte Sporočilo.**
+
+   Če se želite neposredno po vrniti **na stran Sledenje** sporočilu, uporabite <https://admin.exchange.microsoft.com/#/messagetrace> .
+
 2. Izberite **+ Začni sledenje**.
 3. Po 24.000 si lahko posnete predstavljene možnosti. Izberite prejemnike in pošiljatelje ter nato ustrezno prilagodite datumski obseg. Za preostale možnosti lahko pustite privzete nastavitve.
 4. Izberite **Iskanje**. Seznam e-poštnih sporočil bo prikazan na podlagi vaših pogojev iskanja. Dvokliknite sporočilo, ki ga želite poslati, nato pa izberite **Pošlji sporočilo**.
-5. Če želite izvedeti več, glejte [Sledenje sporočilom v Središču za & s predpisi.](https://go.microsoft.com/fwlink/?linkid=2101557)
+
+Če želite izvedeti več, glejte [Sledenje sporočilu v sodobnem EAC-jem.](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/message-trace-modern-eac)
