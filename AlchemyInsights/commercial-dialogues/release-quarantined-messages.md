@@ -12,18 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 1b53dd25f4aa4b9409ffa52cc0fa9d0914c682ee0d21ccc0b6f0b484a3186626
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966989"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58296067"
 ---
 # <a name="release-quarantined-messages"></a>Izdaja sporočil v karanteni
 
-Sporočilo v karanteni (ali nabor sporočil) lahko spustite vsem prejemnikom ali pa sporočilo spustite le določenim ljudem, ki ste jih izbrali na seznamu vseh prejemnikov.
+Sporočilo v karanteni (ali nabor sporočil) lahko spustite vsem prejemnikom ali pa sporočilo spustite le določenim ljudem, ki ste jih izbrali na seznamu vseh prejemnikov. To lahko:
 
-1. Obiščite Središče [za & za skladnost s predpisi.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Odprite **karanteno za pregled**  >  **upravljanja**  >  **groženj.**
-3. Izberite sporočila, ki jih želite sprostiti.
-4. Ko spustite sporočilo, izberite **Osveži,** da osvežite podatke, nato pa dvokliknite sporočilo. Sporočilo bi moralo biti izdano za prejemnike.
+1. V portalu Microsoft 365 Defender vpišite v karanteno za <https://security.microsoft.com> **preverjanje &-pošto** \>  \> **in sodelovanje.**
+
+   Če se želite neposredno posneti **na stran** Karantena, uporabite <https://security.microsoft.com/quarantine> .
+
+2. Na strani **Karantena** preverite, ali je **izbran** zavihek e-pošta, nato pa naredite nekaj od tega:
+   - **Eno sporočilo:** izberite sporočilo. V prikazanem oknu s podrobnostmi izberite **Izdaja** e-pošte , konfigurirajte želene možnosti in nato kliknite **Sporočilo ob izdaji.**
+   - **Več sporočil:** Izberite do 100 sporočil, da sporočilo daste v objavo vsem prejemnikom (ne morete določiti posameznih izvirnih prejemnikov). Na **spustnem seznamu Množična** dejanja, ki se prikaže, izberite Sporočila ob **izdaji,** konfigurirajte želene možnosti in nato kliknite Sporočilo ob **izdaji.**
+
+Več informacij je na voljo v teh člankih:
+
+- [Iskanje in izdaja sporočil v karanteni kot uporabnik](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Upravljanje sporočil in datotek v karanteni kot skrbnik](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

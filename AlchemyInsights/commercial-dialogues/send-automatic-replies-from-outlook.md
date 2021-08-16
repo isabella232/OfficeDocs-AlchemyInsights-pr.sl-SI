@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "7254"
-ms.openlocfilehash: 8bd5170c164431d2b48e872f30f5a9a4bdee99ee867c5cd4c290f4abf1bc35ca
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0ed306ba7eec3256f6d25b642564a83bfd8ff5e9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53966881"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295995"
 ---
 # <a name="send-automatic-replies-from-outlook"></a>Pošiljanje samodejnih odgovorov iz Outlook
 
@@ -28,5 +28,4 @@ Naredite to:
 3. Na zavihku **Znotraj moje organizacije** vnesite odgovor, ki ga želite med odsotnostjo poslati članom svoje skupine ali sodelavcem.
 4. Če želite, da so samodejni odgovori poslani ljudem zunaj organizacije,  izberite zavihek Zunaj  moje organizacije, potrdite polje Samodejno odgovori ljudem zunaj moje organizacije in nato vnesite odgovor, ki ga želite poslati, ko vas ni v pisarni. Izberite, ali naj bodo odgovori poslani **le mojim stikom ali** vsem zunaj moje organizacije, ki vam pošljejo sporočila. 
 
-    > [!NOTE]
-    > S pošiljanjem samodejnih odgovorov **vsem zunaj svoje organizacije** boste poslali samodejni odgovor na vsako e-pošto, vključno z glasili, oglasi in morebitno neželeno e-pošto. Če želite poslati samodejne odgovore tistim zunaj organizacije, vam priporočamo, da izberete **možnost Samo moji stiki.**
+    **Opomba:** Če pošljete  samodejne odgovore vsem zunaj moje organizacije, boste poslali samodejni odgovor na vsako e-pošto, vključno z glasili, oglasi in morebitno neželeno e-pošto. Če želite poslati samodejne odgovore tistim zunaj organizacije, vam priporočamo, da izberete možnost **Samo moji stiki.**

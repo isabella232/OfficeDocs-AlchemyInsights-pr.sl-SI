@@ -1,5 +1,5 @@
 ---
-title: Sporočilo o aplikacijah Microsoft 365 – povezanih licenc sistema Office ni bilo mogoče najti
+title: Microsoft 365 o aplikacijah – povezanih licenc ni Office najti
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 16cc9d8d2ede108ea8301f9971f84ac7b6bafaabab8e26edefe15acf66783339
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836223"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064969"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Sporočilo o aplikacijah Microsoft 365 – povezanih licenc sistema Office ni bilo mogoče najti
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>Microsoft 365 o aplikacijah – povezanih licenc ni Office najti
 
 Če želite to napako odpraviti, poskusite to:
 
@@ -39,10 +39,10 @@ ms.locfileid: "51836223"
 
 - Ponastavite stanje aktiviranja Officea. Glejte [Ponastavite stanje aktiviranja naročnine Aplikacije ogrodja Microsoft 365 za podjetja](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- Preverite nastavitve požarnega zidu, protivirusne programske opreme in strežnika proxy, da preverite, ali blokirajo programe storitve Microsoft 365 v internetu. 
+- Preverite nastavitve požarnega zidu, protivirusne programske opreme in strežnika proxy, da preverite, Microsoft 365 blokirajo aplikacije za dostop do interneta. 
 
 Za dodatne rešitve odpravljanja težav glejte:
 
 [Napake v Officeu, povezane z nelicenciranim izdelkom in aktiviranjem](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[URL-ji in obsegi naslovov IP za Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[Microsoft 365 URL-ji in obsegi naslovov IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
