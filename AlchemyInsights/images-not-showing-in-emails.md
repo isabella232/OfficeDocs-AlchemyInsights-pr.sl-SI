@@ -1,5 +1,5 @@
 ---
-title: Slike, ki niso prikazane v e-poštnih sporočilih
+title: Slike, ki se ne prikazujejo v e-poštnih sporočilih
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6180"
 - "9003285"
-ms.openlocfilehash: e1dcb3e7564f4da95bff3d5c5083672030af4abd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2f0fc65b6510a32f7ca6f1d4dbe1de94b474ea4fa2179019ace8ec9f4e080b42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987519"
 ---
-# <a name="images-not-showing-in-emails"></a>Slike, ki niso prikazane v e-poštnih sporočilih
+# <a name="images-not-showing-in-emails"></a>Slike, ki se ne prikazujejo v e-poštnih sporočilih
 
-Zavedamo se težav, kjer nekatere stranke ne vidijo slik ali slik v e-poštnih sporočilih. Opravičujemo se vam za nevšečnosti.
+Seznanjeni smo s težavo, kjer nekatere stranke v svojih e-poštnih sporočilih ne morejo videti slik ali slik. Opravičujemo se vam za nevšečnosti.

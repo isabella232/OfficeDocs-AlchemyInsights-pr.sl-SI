@@ -1,5 +1,5 @@
 ---
-title: Prepoznavanje zadržanj na nabiralnikih
+title: Določanje zadržanj za nabiralnike
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668110"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987585"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>Prepoznavanje zadržanj na nabiralnikih
+# <a name="identify-holds-placed-on-mailboxes"></a>Prepoznavanje zadržanj za nabiralnike
 
-Ali imate Microsoft 365 vsebino, **ki jo zadržuje** **zadržanje, ki ga** ne morete prepoznati? Ali želite **izvedeti** , kje se nahaja v **nabiralniku** ? Zadržanje (*funkcije hranjenja*) lahko uporabite na enega od teh načinov:
+Ali imate vsebino Microsoft 365 ki jo hrani **zadržanje,** **ki ga** ne morete prepoznati? Ali želite **ugotoviti,** kje je zadržanje v **nabiralniku?** Zadržanja (*funkcije hranjenja*) lahko uporabite na enega od teh načinov:
   
-- Zadržanje v sporu
+- Čakanje zaradi spora
 
-- E-odkrivanje Hold
+- Zadržanje z e-odkrivanjem
 
-- Zadržanje na mestu uporabe
+- In-Place zadržanje
 
-- Pravilnik o hranjenju Microsoft 365 
+- Microsoft 365 o hranjenju 
 
-  - Določene pravilnike o hranjenju lokacije
+  - Določeni pravilniki o hranjenju lokacije
 
   - Pravilniki o hranjenju za celotno organizacijo
 
-- Oznake Microsoft 365
+- Microsoft 365 nalepk
 
-Če želite ugotoviti, katero vrsto zadržanja uporabite za nabiralnik uporabnika, glejte [Kako prepoznati vrsto zadržanja v nabiralniku za Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+Če želite ugotoviti, katera vrsta zadržanja bo uporabljena za nabiralnik uporabnika, glejte Kako prepoznati vrsto zadržanja v [Exchange Online nabiralnika.](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

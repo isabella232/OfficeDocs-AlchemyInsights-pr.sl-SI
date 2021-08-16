@@ -14,15 +14,15 @@ ms.custom:
 - "259"
 - "8000010"
 ms.assetid: fa795da0-f04b-4032-bd27-177ecdd488f9
-ms.openlocfilehash: ef2ed382c187e899bf20295a7aa9fe0b8f619a75
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 820730e9a1cf52e979818f52045b5dfc4ff2fc8e6f43adf695182ff5d148f4b3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798320"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984549"
 ---
 # <a name="change-your-email-address"></a>Spreminjanje e-poštnega naslova
 
-Če želite spremeniti e-poštni naslov Outlook.com, morate dodati še enega in ga ustvariti kot primarni e-poštni vzdevek.
+Če želite spremeniti e Outlook.com e-poštni naslov, morate dodati še enega in ga spremeniti v svoj primarni e-poštni vzdevek.
   
-Sledite navodilom v razdelku [Dodajanje ali odstranjevanje e-poštnega vzdevka v Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
+Upoštevajte navodila v [glejte Dodajanje ali odstranjevanje e-poštnega vzdevka na Outlook.com.](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy)
