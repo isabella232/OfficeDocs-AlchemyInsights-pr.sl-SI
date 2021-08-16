@@ -1,5 +1,5 @@
 ---
-title: Naprava Nepotrjenim
+title: Device Writeback
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "8279"
-ms.openlocfilehash: f1a8dba19d220e1154549507801c813f56fe5cdd
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 78af4dc8cfe38586dcec8d01b72170b56d98fa27860489bf2ca9544f32210c37
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101966"
 ---
-# <a name="device-writeback"></a>Naprava Nepotrjenim
+# <a name="device-writeback"></a>Device Writeback
 
-Naprava Nepotrjenim se uporablja v teh primerih:
+Pisanje nazaj v napravo se uporablja v teh primerih:
 
-- Omogočanje [storitve Windows hello za podjetja s hibridnim pošiljanjem zaupanja vrednih potrdil](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
-- Omogočanje pogojnega dostopa, ki temelji na napravah na ADFS (2012 R2 ali novejših) zaščitenih aplikacij (sklicujoč se na zaupanja vredne osebe)
+- Omogočanje [Windows Hello za podjetja z uvedbo hibridnega zaupanja vrednih potrdil](https://docs.microsoft.com/windows/security/identity-protection/hello-for-business/hello-hybrid-cert-trust-prereqs#device-registration)
+- Omogočanje pogojnega dostopa na osnovi naprav za zaščitene aplikacije ADFS (2012 R2 ali višje) (zaupanja zanašajo osebe)
 
     > [!NOTE]
-    > Za napravo nepotrjenim je zahtevana naročnina na Azure AD Premium.
+    > Za povratne informacije o napravi potrebujete Premium naročnino na Azure AD.
 
-S tem lahko zagotovite dodatno varnost in zagotovite, da je dostop do programov odobren le zaupanja vrednim napravam. Če želite več informacij o pogojnem dostopu, glejte [upravljanje tveganja s pogojnim dostopom](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) in [Nastavitev pogojnega dostopa na mestu uporabe z registracijo naprave Azure Active Directory](https://docs.microsoft.com/azure/active-directory/devices/overview).
+To zagotavlja dodatno varnost in zaščito, da je dostop do aplikacij odobren le zaupanja vrednim napravam. Če želite več informacij o pogojnem dostopu, [glejte](https://docs.microsoft.com/azure/active-directory/conditional-access/overview) Upravljanje tveganja s pogojnim dostopom in Nastavitev pogojnega dostopa na mestu uporabe Azure Active Directory [registracijo naprave.](https://docs.microsoft.com/azure/active-directory/devices/overview)
 
-Če želite več informacij o omogočanju Nepotrjenim naprav za naprave, glejte [Omogočanje Nepotrjenim naprave](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback).
+Če želite več informacij o omogočanju funkcije pisanja v napravi za naprave, [glejte Omogočanje povratnega pisanja v napravo.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-device-writeback)

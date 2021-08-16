@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1338"
 - "2800001"
-ms.openlocfilehash: bf01341a34719326824847bb44d55ab995a9faba
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cc7a8793942151f2994d3b42f7c9324a9fcd36b898f8cc01f59538294a7b8dc8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51796252"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54072356"
 ---
 # <a name="yammer---possible-service-issue"></a>Yammer – morebitne težave s storitvijo
 
-Morda je prišlo do začasne težave, zaradi katerih lahko uporabniki pri dostopanju do storitve Yammer pride do napak. Na nadzorni [plošči stanja storitve preverite,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ali to vpliva na vaše omrežje.
+Morda je prišlo do začasne težave, zaradi katerih lahko uporabniki pri dostopu do storitve Yammer. Na nadzorni [plošči stanja storitve preverite,](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) ali to vpliva na vaše omrežje.
