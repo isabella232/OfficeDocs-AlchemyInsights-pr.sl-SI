@@ -1,5 +1,5 @@
 ---
-title: Kako narediti novo Outlook.com videz, kot je star
+title: Kako lahko naredite novo Outlook.com videti kot stara.
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: fcd3f66abed75fb938994821249cdb78fedf264a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ca5ff0ed1ab1d7aedb29390a843158912e25648106df8a2ce88a0b8458d62fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794638"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067100"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Kako narediti novo Outlook.com, ki je videti kot stara različica
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>Kako lahko zagotovite, da Outlook.com videti kot starejša različica
 
-Tukaj je nekaj nastavitev, ki jih lahko spremenite, če želite, da bo nova Outlook.com videti kot stara različica:
+Tukaj je nekaj nastavitev, ki jih lahko spremenite, da bo nova Outlook.com podobna stari različici:
 
-1. Pojdite v razdelek [Nastavitve postavitve](https://outlook.live.com/mail/options/mail/layout).
-1. V razdelku **mapa» Prejeto «v fokusu**izberite **ne razvrsti mojih sporočil**.
-1. V razdelku **organizacija sporočil**izberite **najnovejša sporočila na vrhu**.
-1. V razdelku **Slika pošiljatelja**izberite **ne Pokaži slik pošiljatelja**.
-1. V razdelku **podokno za branje**izberite **Skrij podokno za branje**.
-1. V razdelku **besedilo predogleda sporočila**izberite **Pokaži besedilo predogleda**.
-1. V razdelku **predogledi v vrstici**izberite **ne Pokaži prilog na seznamu sporočil**.
+1. Pojdite na [Nastavitve postavitve.](https://outlook.live.com/mail/options/mail/layout)
+1. V **razdelku »Prejeto«** v **fokusu izberite Ne razvrsti mojih sporočil.**
+1. V **razdelku Organizacija sporočil** izberite Najnovejše sporočilo na **vrhu.**
+1. V **razdelku Slika pošiljatelja** **izberite Ne pokaži slik pošiljatelja**.
+1. V razdelku **Podokno za** branje izberite **Skrij podokno za branje**.
+1. V **razdelku Besedilo predogleda sporočila** izberite Pokaži besedilo **predogleda.**
+1. V **razdelku Predogledi v** vrstici izberite Ne pokaži prilog na seznamu **sporočil.**
 
-Če želite spremeniti nastavitve pošte tako, da je videz mape» Prejeto «videti in se obnašate tako, kot želite, glejte [Spreminjanje videza nabiralnika v Outlook.com in novega Outlooka v spletu](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+Če želite spremeniti nastavitve Pošte tako, da bodo videz in vedenje vaše mape »Prejeto« videti tako, kot želite, glejte Spreminjanje videza nabiralnika na mestu [Outlook.com in](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy)v novi Outlook v spletu.

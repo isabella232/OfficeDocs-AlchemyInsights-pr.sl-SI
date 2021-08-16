@@ -1,5 +1,5 @@
 ---
-title: Povezovalniki za Microsoft Graph
+title: Priključki za Microsoft Graph
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "5910"
 - "9003123"
-ms.openlocfilehash: c2abbc23236ce4a4c232a5e96b36d9322c0e255d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 923ee836685f838aa128fd62c32b35b169f11517e16f010621e96a88a3b00afd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724919"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54027318"
 ---
-# <a name="microsoft-graph-connectors"></a>Povezovalniki za Microsoft Graph
+# <a name="microsoft-graph-connectors"></a>Priključki za Microsoft Graph
 
-S povezovalniki za Microsoft Graph lahko vaša organizacija indeksira podatke neodvisnih ponudnikov, ki se prikažejo v Microsoftovih rezultatih iskanja.
+Z Microsoftovimi Graph lahko vaša organizacija indeksira podatke tretjih oseb tako, da so prikazani Iskanje Microsoft rezultatih.
 
-- [Povezovalniki, ki jih Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
+- [Priključki družbe Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
 - [Povezovalniki naših partnerjev](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
 
-Če želite več informacij, glejte  [pregled povezovalnikov za Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+Če želite več informacij, [glejte Pregled priključkov za Microsoft Graph .](https://docs.microsoft.com/microsoftsearch/connectors-overview)

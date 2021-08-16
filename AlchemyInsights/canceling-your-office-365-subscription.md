@@ -14,19 +14,19 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: ba8ffbb22a1c0c15044c59e7200661054ea36886
-ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
+ms.openlocfilehash: 60b5df48f8e62ded27d9c1a3faf915afe23aec945b34cebbe6973d73fc4f5532
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "53686830"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996610"
 ---
 # <a name="canceling-your-subscription"></a>Želite preklicati naročnino?
 
 Žal nam je, da ste se tako izpisali, toda če želite preklicati naročnino, lahko:
   
 - Če imate manj kot 25 dodeljenih licenc, lahko naročnino prekličete v spletu. Pojdite na  stran \> **[Obračunavanje izdelkov](https://go.microsoft.com/fwlink/p/?linkid=842054)** in poiščite naročnino, ki jo želite preklicati. Izberite tri pike (več dejanj), nato pa izberite **Prekliči naročnino.**
-- Če imate več kot 25 licenc, dodeljenih uporabnikom, pokličite podporo, [da prekličete naročnino.](https://go.microsoft.com/fwlink/p/?linkid=518322)
+- Če imate več kot 25 licenc, dodeljenih uporabnikom, jo zmanjšajte na manj kot 25, da prekličete naročnino, ali pokličite podporo, da prekličete [naročnino.](/microsoft-365/business-video/get-help-support)
   
 **Vračilo kupnine: vse dobropise v okviru obračuna vam bomo vrnili v naslednjem obračunskem obdobju.**
 

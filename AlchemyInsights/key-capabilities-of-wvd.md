@@ -1,5 +1,5 @@
 ---
-title: Ključne zmogljivosti navideznega namizja sistema Windows
+title: Ključne zmogljivosti navideznega Windows za Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003940"
 - "6995"
-ms.openlocfilehash: b35986606bc2de28130c3de970973571ed040d54
-ms.sourcegitcommit: ffb56bc78344f9c1d4a0302868818b64512b7b07
+ms.openlocfilehash: ca28c1d219a2d5f4f58b0f01e5455fc210782b929ee767398867485b4ad8761f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49706903"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067136"
 ---
-# <a name="key-capabilities-of-windows-virtual-desktop"></a>Ključne zmogljivosti navideznega namizja sistema Windows
+# <a name="key-capabilities-of-windows-virtual-desktop"></a>Ključne zmogljivosti navideznega Windows za Windows
 
-Navidezni namizni računalnik s sistemom Windows je namizni in virtualizacijski program, ki se izvaja v oblaku. To lahko naredite, ko zaženete navidezni namizni računalnik s sistemom Windows v storitvi Azure:
+Windows Navidezno namizje je storitev virtualizacije namizja in virtualizacije aplikacij, ki se izvaja v oblaku. Ko zaženete navidezno namizje v storitvi Azure Windows Azure naredite to:
 
-- Nastavitev uvedbe več sej sistema Windows 10, ki zagotavlja popolno izkušnjo s sistemom Windows 10 s prilagodljivostjo
-- Virtualizacija programov Microsoft 365 in optimizacija za zagon v navideznih scenarijih več uporabnikov
-- Zagotovite navidezne namizne računalnike sistema Windows 7 z brezplačnimi razširjenimi varnostnimi posodobitvami (EEV)
-- Prinesite obstoječe namizne storitve oddaljenega namizja (RDS) in Windows Server ter aplikacije v kateri koli računalnik
-- Upravljanje namiznih računalnikov s sistemom Windows 10, Windows Server in Windows 7 s poenotenim upravljanjem
-- Ustvarjanje polnega namiznega virtualizacijskega okolja v naročnini na Azure, brez zagona dodatnih strežnikov prehoda
-- Objavite čim več skupin gostiteljev, kot jih potrebujete za prilagajanje različnih delovnih obremenitev
-- V galeriji Azure prinesite svoje slike za delovne obremenitve in preskuse proizvodnje.
-- Zmanjšanje stroškov z združevanjem virov z več zasedanjimi
-- Zagotavljanje individualnega lastništva prek osebnih (trajnih) namiznih računalnikov
+- Nastavitev uvedbe z več sejami Windows 10, ki zagotavlja popolno izkušnjo Windows 10 s skalabilnostjo
+- Virtualize Programi Microsoft 365, and optimize it to run in multi-user virtual scenarios
+- Zagotovite Windows 7 navideznih namizij z brezplačnimi razširjenimi varnostnimi posodobitvami (ESU)
+- Bring your existing Remote Desktop Services (RDS) and Windows Server desktops and apps to any computer
+- Upravljanje Windows 10, Windows Server in Windows 7 z enotno izkušnjo upravljanja
+- Ustvarite popolnoma namizno okolje virtualizacije v naročnini na Azure, ne da bi zaženite dodatne strežnike prehoda
+- Objavite toliko gostiteljskih skupin, kolikor jih potrebujete, da bi se lahko prilagodili različnim delovno obremenitvijo
+- Iz galerije Azure prinesite svoje slike za produkcijske delovne obremenitve in preskuse
+- Zmanjšanje stroškov z uporabo z uporabo virov z več sejami
+- Zagotavljanje lastništva posameznika z osebnimi (trajnimi) namizji
 
-Če želite izvedeti več, glejte [osnove namizja Windows Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) in [ključne zmogljivosti](https://go.microsoft.com/fwlink/?linkid=2127033).
+Če želite izvedeti več, [glejte Windows Funkcije zbirke Virtual Desktop Essentials](https://go.microsoft.com/fwlink/?linkid=2127033) [in ključne zmogljivosti.](https://go.microsoft.com/fwlink/?linkid=2127033)
 
