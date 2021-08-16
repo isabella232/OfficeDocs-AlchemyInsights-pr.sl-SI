@@ -1,5 +1,5 @@
 ---
-title: Stanje storitve Microsoft 365
+title: Microsoft 365 Stanje storitve
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 649c36d848223613c6188f600bb8f041fd205078c2a2d3ce66cb3387a4f84bd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794488"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098474"
 ---
-# <a name="microsoft-365-service-health"></a>Stanje storitve Microsoft 365
+# <a name="microsoft-365-service-health"></a>Microsoft 365 Stanje storitve
 
 
 Na nadzorni plošči stanja storitve preverite stanje katere koli [storitve.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) Če **izberete Novo skrbniško** središče v zgornjem desnem kotu, se bodo videle nove možnosti stanja storitve.
@@ -30,4 +30,4 @@ Na nadzorni plošči stanja storitve preverite stanje katere koli [storitve.](ht
 
 - Izberite **Zgodovina,** da pregledate zgodovino stanja storitve v vaši organizaciji. 
 
-Če želite več informacij, [glejte Preverjanje stanja storitve Microsoft 365.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
+Če želite več informacij, [glejte Kako preverite Microsoft 365 stanja storitve.](https://docs.microsoft.com/office365/enterprise/view-service-health) 
