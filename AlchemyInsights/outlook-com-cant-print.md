@@ -1,5 +1,5 @@
 ---
-title: Ne morem natisniti v Outlook.com
+title: Tiskanje ni mogoče na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "8000046"
 - "2507"
-ms.openlocfilehash: ca4d0bb958c26a602a0e044e9b97a05d59c14537
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59b99ef0de921403001e18eb6db0848aab5a0c0c0e49e253915e0bee806dc24b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752987"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064256"
 ---
-# <a name="unable-to-print"></a>Ni mogoče natisniti
+# <a name="unable-to-print"></a>Tiskanje ni mogoče
 
-Zavedamo se težave, kjer nekateri uporabniki ne morejo tiskati med uporabo brskalnika Safari ali Edge browsers. Medtem ko delamo na odpravi za to težavo, uporabite drug brskalnik. Opravičujemo se vam za nevšečnosti.
+Seznanjeni smo s težavo, kjer nekateri uporabniki ne morejo tiskati, ko uporabljajo brskalnike Safari ali Edge. Medtem ko delamo na tem, da odpravimo to težavo, uporabite drug brskalnik. Opravičujemo se vam za nevšečnosti.

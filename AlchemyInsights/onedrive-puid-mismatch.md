@@ -1,5 +1,5 @@
 ---
-title: Neusklajenost OneDrive PUID
+title: OneDrive Nesmilonje v pudingu
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,19 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
-ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
+ms.openlocfilehash: 9d88c46d23bd08f1d954416e4856c7885f045437d14dcd7c4a9c25f0b1288b8f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49653276"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096746"
 ---
-# <a name="onedrive-puid-mismatch"></a>Neusklajenost OneDrive PUID
+# <a name="onedrive-puid-mismatch"></a>OneDrive Nesmilonje v pudingu
 
-Zdi se, da doživljate [neusklajenost ID](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) -ja v OneDrive za podjetja. Če nam želite omogočiti, da vam najprej pomagamo, naredite te korake:
+Videti je, da se [ID v OneDrive za podjetja.](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) Če nam želite omogočiti, da vam bomo lahko pomagali najzgodnejše, sledite tem korakom:
 
-1. Kliknite  **stik s podporo** in nato  **Nova zahteva za storitev**.
-2. Pustite naslov in opis kot  **neusklajenost ID-ja uporabnika mesta OneDrive**.
-3. Ko je vozovnica poslana, jo posodobite s temi informacijami:
-    - Spletni naslov spletnega mesta OneDrive, ki je prizadet.
-    - Glavno ime uporabnika (UPN) prizadetih uporabnikov.
+1. Kliknite **Stik s podporo** in nato Nova zahteva za **storitev.**
+2. Naslov in opis pustite OneDrive **ID-ja mesta.**
+3. Ko je vstopnica poslana, jo posodobite s spodnjimi informacijami:
+    - OneDrive url spletnega mesta.
+    - Glavno uporabniško ime (UPN) uporabnika, na katerega vpliva ta uporabnik.

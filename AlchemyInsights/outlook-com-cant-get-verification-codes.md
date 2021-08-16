@@ -1,5 +1,5 @@
 ---
-title: Outlook.com ne more prejeti šifer za preverjanje
+title: Outlook.com ne more prejemati kod za preverjanje
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 180e2f6af99c22f85bb9f2effaac1bd7b235ad01
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fc921034e8ab577729efb8091ef6ec2e3e2dd49bc0a37ca27771b68756260c32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799544"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064220"
 ---
-# <a name="cant-get-verification-codes"></a>Ne morem dobiti šifer za preverjanje
+# <a name="cant-get-verification-codes"></a>Ni mogoče dobi kod za preverjanje
 
-Če ne morete dostopati do nadomestnega e-poštnega sporočila ali telefonske številke, pojdite na stran z [osnovami za varnost](https://account.microsoft.com/security) Microsoftovega računa, na strani za vpis izberite nimam **nobene od teh** možnosti in upoštevajte navodila za zamenjavo varnostnih informacij.
+Če ne morete dostopati do svojega nadomestnega e-poštnega naslova ali  telefonske številke, pojdite na stran Osnove Varnosti Microsoftovega računa, na strani za vpis izberite Nimam teh podatkov in sledite navodilom za zamenjavo varnostnih podatkov. [](https://account.microsoft.com/security)
 
-*Opomba:* [Aplikacija Microsoft AUTHENTICATE](https://go.microsoft.com/fwlink/?linkid=2016117) ne zahteva internetne povezave, da vam zagotovi kodo za preverjanje.
+*Opomba:* Aplikacija [Microsoft Authenticator zahteva](https://go.microsoft.com/fwlink/?linkid=2016117) internetno povezavo za zagotavljanje kode za preverjanje.
 
-Če želite izvedeti več, preberite [informacije o varnosti Microsoftovega računa in kode za preverjanje](https://support.microsoft.com/help/12428/).
+Če želite več informacij, preberite [Varnostne informacije o Microsoftovem računu in kode za preverjanje.](https://support.microsoft.com/help/12428/)

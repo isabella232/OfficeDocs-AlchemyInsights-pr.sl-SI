@@ -1,5 +1,5 @@
 ---
-title: Ustavitev samodejnega vpisa v Outlook.com
+title: Ustavitev samodejnega vpisovanja v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,16 +13,16 @@ ms.custom:
 - "853"
 - "8000008"
 ms.assetid: e7b3ce1b-9291-49ec-b6a6-4dad0f4d6880
-ms.openlocfilehash: 3a5703d3040c9bac6e611902e27400b9212f65be
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8cc2099aa725277cc15f39398a70fc5d9200b829bdee224a9c3fae480763a33a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666418"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010884"
 ---
-# <a name="how-to-stop-signing-in-automatically"></a>Kako ustaviti samodejno vpis
+# <a name="how-to-stop-signing-in-automatically"></a>Ustavitev samodejnega vpisovanja
 
-Če se želite samodejno vpisati v Outlook.com, počistite polje, da se vpišete na stran, **v** katero vnesete geslo.
+Če želite ustaviti samodejno Outlook.com, počistite polje Ne **izpišite se** na strani, kjer vnesete geslo.
   
-Če želite izvedeti več, glejte [Kako se vpisati v Outlook.com ali iz nje](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+Če želite izvedeti več, [glejte Kako se vpisati v ali izpisati iz Outlook.com.](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)
   
