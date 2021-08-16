@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: b1100175c75fb77a499e706380305eb016cf1b2b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f7b7e1ae4f1f686fa510403d398c4ff750dbadb9065b8d63701a927eeac52d9b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814604"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101318"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>Ali ne morete namestiti ali zagnati orodja za izvoz e-odkrivanja?
 
@@ -28,7 +28,7 @@ ms.locfileid: "51814604"
   
 - Računalnik, ki ga uporabljate, izpolnjuje te zahteve:
 
-  - 32- ali 64-bitne različice sistema Windows 7 in novejše različice
+  - 32- ali 64-bitne različice Windows 7 in novejše različice
 
   - Microsoft .NET Framework 4.7
 
@@ -44,7 +44,7 @@ ms.locfileid: "51814604"
 
 - Vaša organizacija se lahko poveže s končno točko v storitvi Azure, ki je **\* .blob.core.windows.net** (nadomestni znak predstavlja enolični identifikator za posel izvoza).
 
-- Dodeljena vam je vloga za izvoz v Središču za varnost in skladnost s predpisi storitve Microsoft 365. &amp; Privzeto je ta vloga dodeljena le skupini vlog upravitelja e-odkrivanja. Glejte [Dodeljevanje dovoljenj za e-odkrivanje.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
+- Dodeljena vam je vloga za izvoz v središču za Microsoft 365 za &amp; skladnost s predpisi. Privzeto je ta vloga dodeljena le skupini vlog upravitelja e-odkrivanja. Glejte [Dodeljevanje dovoljenj za e-odkrivanje.](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions)
 
 Če želite več informacij, glejte [Izvoz rezultatov iskanja po vsebini.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
 

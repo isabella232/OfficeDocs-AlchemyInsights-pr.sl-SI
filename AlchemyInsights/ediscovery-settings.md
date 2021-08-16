@@ -1,5 +1,5 @@
 ---
-title: Nastavitve e-odkrivanje
+title: Nastavitve e-odkrivanja
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.assetid: ''
 ms.custom:
 - "2006"
 - "3200003"
-ms.openlocfilehash: 0c8f764fec63c7ad1ad690a9f9aef59d3652033c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bdf3707880d9b30ff6452a769bc0d2725be877373136a994a108e92d56d7b577
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711003"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101246"
 ---
-# <a name="ediscovery-settings"></a>Nastavitve e-odkrivanje
+# <a name="ediscovery-settings"></a>Nastavitve e-odkrivanja
 
-E-odkrivanje/iskanja vsebine omogočajo iskanje, pridržanje in izvoz vsebine iz nabiralnikov Exchange Online, SharePoint Onlinea in OneDrive za podjetja, Skype za podjetja pogovorov, Microsoft Teams in Microsoft 365 skupine.
+Z e-odkrivanjem/iskanjem po vsebini lahko iščete, zadržite in izvozite vsebino iz nabiralnikov storitve Exchange Online, spletnih mest OneDrive za podjetja SharePoint Online Skype za podjetja Skype za podjetja, Microsoft Teams in Microsoft 365 Skupin.
 
-- Če iščete možnosti menija E-odkrivanje ali iskanje vsebine, si oglejte [E-odkrivanje težave](https://docs.microsoft.com/alchemyinsights/ediscovery-issues).
-- Preberite več o dovoljenjih, ki jih potrebujete za izvajanje E-odkrivanje iskanj iz [dovoljenj, ki jih zahteva e-odkrivanje iskanja](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches).
-- Če iskanje ne vrne pričakovanih rezultatov, glejte [Iskanje ne vrne pričakovanih rezultatov](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
+- Če iščete možnosti v meniju e-odkrivanje ali iskanje vsebine, glejte Težave [z e-odkrivanjem.](https://docs.microsoft.com/alchemyinsights/ediscovery-issues)
+- Preberite več o dovoljenjih, potrebnih za izvajanje iskanja e-odkrivanja v dovoljenjih, ki so zahtevana za [iskanja z e-odkrivanjem.](https://docs.microsoft.com/alchemyinsights/permissions-required-for-ediscovery-searches)
+- Če iskanje ne vrne pričakovanih rezultatov, glejte Iskanje ne [vrne pričakovanih rezultatov](https://docs.microsoft.com/alchemyinsights/search-not-returning-expected-results).
 
-Če želite več informacij o e-odkrivanje, glejte [e-odkrivanje](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
+Če želite več informacij o e-odkrivanju, glejte [E-odkrivanje.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
