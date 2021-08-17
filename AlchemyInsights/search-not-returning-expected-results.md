@@ -1,5 +1,5 @@
 ---
-title: 1491 – iskanje – ne – vračanje – pričakovano – rezultati
+title: 1491-search-not-returning-expected-results
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,19 +14,19 @@ ms.custom:
 - "1491"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 5c4452726c1dbe2232ee63e8a9ee4d089f5c76db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 846034d68a59d053cbe37aeba3a75e20a60786fd7ff24106964229b1deb77608
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740490"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052726"
 ---
-# <a name="content-search-not-returning-expected-results"></a>Iskanje po vsebini ne vrne pričakovanih rezultatov
+# <a name="content-search-not-returning-expected-results"></a>Iskanje vsebine ne vrača pričakovanih rezultatov
 
-Ko zaženete iskanje vsebine iz središča za preverjanje varnosti & za skladnost s predpisi Microsoft 365, lahko prejmete nepričakovane rezultate iskanja. Razmislite o teh stvareh, ki lahko vplivajo na rezultate iskanja:
+Pri zagonu iskanja po vsebini iz središča Microsoft 365 za & za skladnost s predpisi lahko prejmete nepričakovane rezultate iskanja. Razmislite o tem, kaj lahko vpliva na rezultate iskanja:
 
-- **Mesta vsebine in pogoji iskanja**: Preverite, ali ste izbrali ustrezna mesta vsebine in pogoje iskanja. Če ste izvedli veliko iskanje (s številnimi lokacijami), jo razdelite na več iskanj.
+- **Mesta vsebine in pogoji iskanja**: Preverite, ali ste izbrali ustrezna mesta vsebine in pogoje iskanja. Če ste zagnali veliko iskanje (z veliko lokacijami), ga razdelite na več iskanih mest.
 
-- **Delno indeksirani elementi**:  [delno indeksirani elementi](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) iz nabiralnikov so vključeni v ocenjene rezultate iskanja. Vendar pa delno indeksirane elemente iz mest v SharePointu in OneDrive niso vključene v oceno iskanja.
+- **Delno indeksirani elementi:**  [Delno indeksirani elementi iz](https://docs.microsoft.com/microsoft-365/compliance/partially-indexed-items-in-content-search) nabiralnikov so vključeni v ocenjene rezultate iskanja. Delno indeksirani elementi z mest v SharePoint in OneDrive niso vključeni v oceno iskanja.
 
-- **Napake pri iskanju**: pri iskanju velikega števila nabiralnikov (prek 100.000 nabiralnikov) lahko pride do napak pri iskanju, s kodami napak, kot so CS008-009 in CS012-002). V tem primeru poskusite znova poiskati le neuspela mesta vsebine. Če želite več informacij, si oglejte  [Ta članek](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) .
+- Napake **pri** iskanju: Pri iskanju velikega števila nabiralnikov (več kot 100.000 nabiralnikov) lahko pride do napak pri iskanju s kodami napak, kot sta CS008-009 in CS012-002). V tem primeru poskusite znova poiskati le mesta neuspele vsebine. Več  [informacij najdete v](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) tem članku.

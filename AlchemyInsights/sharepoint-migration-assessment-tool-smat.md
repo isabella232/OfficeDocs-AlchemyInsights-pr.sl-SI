@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5035"
-ms.openlocfilehash: 0c6cc5a2b0500a5e83f70c015e3cd55320c1fa89
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ef7e4cf2dbe7c1e410ba19d23eb5c8300772f49b28e38732a87722259b46f02d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828384"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107888"
 ---
 # <a name="sharepoint-migration-assessment-tool-smat"></a>SharePointovo orodje za oceno selitve (SMAT)
 
-Orodje za ocenjevanje selitve v SharePoint (SMAT) je preprosta datoteka ukazne vrstice, v kateri je pregledana vsebina SharePointove gruče, s pomočjo katere je mogoče prepoznati vpliv selitve strežnika v SharePoint Online s storitvijo Microsoft 365.
+Orodje SharePoint za oceno selitve (SMAT) je preprosta izvedljiva ukazna vrstica, ki pregleda vsebino gruče SharePoint in tako prepozna vpliv selitve strežnika v storitev SharePoint Online s Microsoft 365.
 
 [Pregled SharePointovega orodja za oceno selitve](https://docs.microsoft.com/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)

@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 8520cf14a937dbf83a5ebb8be86111dcd183fd4cfc59248fa0ec3a1e2685714f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 17bee943a0a8e607758bafa0c42bf6580b858952c447c403207bebfba9d8d243
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952301"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882811"
 ---
 # <a name="advanced-hunting-custom-detections"></a>Napredno zaznavanje po meri lova
 
 Naučite se ustvariti in upravljati pravila zaznavanja po meri, ki temeljijo na naprednih poizvedbah za iskanje. Z zaznavanjem po meri lahko proaktivno nadzorujete različne dogodke in sistemska sistema in se odzovete nanje, vključno z dejavnostmi suma kršitev in napačno konfiguriranimi napravami. To lahko naredite s prilagodljivimi pravili zaznavanja, ki samodejno sprožijo opozorila in dejanja odgovorov
   
 Če uporabljate Microsoft Defender ATP, si oglejte podrobnosti v teh temah: 
-- [Pregled zaznav po meri](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [Ustvarjanje pravil zaznavanja po meri](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [Ogled in upravljanje pravil zaznavanja po meri](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+- [Pregled zaznav po meri](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [Ustvarjanje pravil zaznavanja po meri](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [Ogled in upravljanje pravil zaznavanja po meri](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
 Če uporabljate Microsoft 365 Defender podrobnosti, si oglejte te teme: 
-- [Pregled zaznav po meri](/microsoft-365/security/mtp/custom-detections-overview)
-- [Ustvarjanje in upravljanje pravil za zaznavanje po meri](/microsoft-365/security/mtp/custom-detection-rules)
+- [Pregled zaznav po meri](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
+- [Ustvarjanje in upravljanje pravil za zaznavanje po meri](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)

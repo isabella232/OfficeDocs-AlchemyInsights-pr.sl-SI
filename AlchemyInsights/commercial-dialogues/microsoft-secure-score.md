@@ -13,24 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 59bca6951dd7fb6a6cd5df1108993e3c018ee0d8391b51a0cbcaf3a61fc45a55
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403255"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883371"
 ---
 # <a name="microsoft-secure-score"></a>Microsoftova ocena varnosti
 
-Z Microsoftovo oceno varnosti lahko naredite svoje okolje varnejše. To si lahko pomislite kot na oceno varnosti. Pove vam, kako lahko ukrepate, s tem pa lahko izboljšate varnost svoje organizacije.
+Z Microsoftovo oceno varnosti lahko naredite svoje okolje varnejše. To si lahko pomislite kot na oceno varnosti. Pove vam, na kaj lahko ukrepate in s tem pomagate izboljšati varnost vaše organizacije.
 
-1. Obiščite Središče [za varnost in skladnost s predpisi storitve Office 365 & s predpisi.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Izberite kartico Microsoftove ocene varnosti ali pojdite v [Microsoftovo oceno varnosti.](https://go.microsoft.com/fwlink/?linkid=2099589)
-    > [!TIP]
-    >  Na strani Microsoftovega pregleda rezultatov varnosti izberite Dejanja izboljšave za priporočila o zaščiti organizacije. V tabeli lahko izberete Filtriraj ali Združi po, da hitro prepoznate dejanja, ki bi bila morda boljša, če bi jih dokončali po tem vrstnem redu.
-1. Na seznamu izberite dejanje izboljšave. Prikaže se letak s kratkim opisom dejanja.
-1. Kliknite **Nastavitve pogleda** in upoštevajte navodila, ki so na voljo v naslednjih **korakih.**
+1. V portalu Microsoft 365 Defender na <https://security.microsoft.com> spletnem mestu , pojdite na Ocena **varnosti**.
+
+   Če se želite po vrniti neposredno **na stran za** oceno varnosti, uporabite <https://security.microsoft.com/securescore>
+
+2. Na **zavihku Pregled** v razdelkih **Dejanja** za pregled in **Najboljša** dejanja za izboljšanje si oglejte vsa priporočila za zaščito organizacije.
+
+3. Na **zavihku Dejanja** izboljšave  so v vnosih dejanja Razvrsti  izboljšave  vrednosti za Stanje za naslov ali  **Regresija.** S funkcijo **Filtriraj** ali **Združi po** v tabeli lahko hitro prepoznate dejanja, ki bi bila morda boljša, če bi jih dokončali po tem vrstnem redu.
+
+4. Na seznamu **na zavihku** **Dejanja izboljšave** izberite naslov Za ali **Regresijski** element. Odpre se nova stran s celotnim opisom in **gumbom Upravljaj,** s tem pa odpravite težavo.
+
     > [!NOTE]
     > Dobili ste točke za konfiguracijo priporočenih varnostnih funkcij, vendar upoštevajte, da so nekatera dejanja označena kot **[Ni ocenjenega]**. To pomeni, da tudi če izvedete to izboljšano dejanje, ne boste dobili nobenih točk za svoj rezultat. V nasprotnem *primeru lahko traja do 24* ur, da se rezultat posodobi.
 
-Če želite več informacij o Microsoftovi ocene varnosti, glejte [Microsoftova ocena varnosti.](https://go.microsoft.com/fwlink/?linkid=2103077)
+Če želite več informacij o Microsoftovi ocene varnosti, glejte [Microsoftova ocena varnosti.](https://docs.microsoft.com/microsoft-365/security/defender/microsoft-secure-score)

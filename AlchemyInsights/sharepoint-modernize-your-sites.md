@@ -1,5 +1,5 @@
 ---
-title: Posodobitev SharePointovih mest
+title: Posodobite spletna mesta SharePoint posodobitev
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 42b36e13af59c2323ab0db6107174f4b9d652e28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f0fdc6988ea693f6c0e012af719cdaca2f6fa13c888a5fb39e35387e1a820e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800588"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107852"
 ---
-# <a name="modernize-your-sharepoint-sites"></a>Posodobitev SharePointovih mest
+# <a name="modernize-your-sharepoint-sites"></a>Posodobite spletna mesta SharePoint posodobitev
 
-Za pregled po korakih za posodobitev klasičnih SharePointovih mest v sodobno izkušnjo [si oglejte posodobitev klasičnih SharePointovih mest](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+Če želite po korakih pregled nad posodobitvijo klasičnih spletnih mest SharePoint na sodobno izkušnjo, glejte Posodobitev klasične [SharePoint mest.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
 
-* Če želite maksimirati uporabo sodobnega uporabniškega vmesnika za strani spletnega mesta in strani seznama ter knjižnice, si oglejte [posodobitev uporabniškega vmesnika](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
-* Če želite izvedeti več o tem, kako odblokirati sezname in knjižnice med uporabo sodobnega uporabniškega vmesnika, si oglejte [povečanje uporabe sodobnih seznamov in knjižnic](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-* Če želite več informacij o povezovanju s skupino Microsoft 365 in izvedbi povezave s skupino, [si oglejte povezovanje s skupino microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* Če želite maksimirati uporabo sodobnega uporabniškega vmesnika za strani spletnega mesta ter strani seznama in knjižnice, glejte [Posodobitev uporabniškega vmesnika.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface)
+* Če želite izvedeti več o tem, kako odblokirati sezname in knjižnice s sodobnim uporabniškim vmesnikom, glejte [Maksimiziranje uporabe sodobnih](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)seznamov in knjižnic.
+* Če želite več informacij o vzpostavljanju povezave Microsoft 365 skupino in izvajanju povezave med skupino, [Povezovalnik v skupino Microsoft 365 .](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)
 
-**Pomembno**: Če menite, da je vaša stran že prikazana v sodobnem pogledu in ne, poiščite to stran, kopirajte spletni naslov in navedite URL kot del podrobnosti vaše vstopnice za podporo.
+**Pomembno:** če imate občutek, da bi vaša stran morala biti prikazana v sodobnem pogledu in ni, prebrskajte do ustrezne strani, kopirajte URL in navedite URL kot del podrobnosti vstopnice za podporo.

@@ -1,5 +1,5 @@
 ---
-title: SharePointova infrastruktura za objavljanje
+title: SharePoint Infrastruktura objavljanja
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,18 +11,18 @@ ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms-custom:
 - "1846"
 - "9000253"
-ms.openlocfilehash: 03979fd238aecff0bfb54ab784997727c03fd7c2
-ms.sourcegitcommit: 76a385e9f8a806dfd70f35bf87acb21a056407f2
+ms.openlocfilehash: 2ce3d5467d8582aa3a3216b0efbc73ead5570248c4da57e175e0d4decc326f1c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49002681"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051106"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a>SharePointova infrastruktura za objavljanje
+# <a name="sharepoint-publishing-infrastructure"></a>SharePoint Infrastruktura objavljanja
 
 > [!IMPORTANT]
-> Sodobna komunikacijska mesta ne podpirajo klasičnih funkcij objavljanja, ki so znana kot infrastruktura za objavljanje v strežniku SharePoint Server. Ko poskušate aktivirati funkcijo sodobnega mesta za komunikacijo, boste prejeli sporočilo o napaki. Sodobna komunikacijska mesta privzeto zagotavljajo novejšo možnost.
+> Sodobna mesta za komunikacijo ne podpirajo klasičnih funkcij objavljanja, znanih SharePoint Server Publishing Infrastructure. Ko poskušate aktivirati funkcijo za sodobno mesto komunikacije, se prikaže sporočilo o napaki. Sodobna spletna mesta za komunikacijo so privzeto novejša alternativa.
 
-Za klasična spletna mesta SharePoint vključuje klasičen nabor funkcij, ki omogočajo avtorjem in objavljanje obogatenih spletnih strani za intranet. Aktivirajte SharePointovo infrastrukturo za objavljanje na ravni zbirke mest, da jih vklopite.
+Za klasična spletna SharePoint vključuje klasični nabor funkcij, ki vam omogočajo ustvarjanje in objavljanje obogatenih spletnih strani za intranet. Aktivirajte SharePoint objavljanje na ravni zbirke mest, da jih vklopite.
 
-Če želite več informacij, glejte [Omogočanje funkcij za objavljanje](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) in [funkcij objavljanja](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)
+Če želite več informacij, glejte [Omogočanje funkcij objavljanja in](https://support.office.com/article/Enable-publishing-features-479677A6-8B33-4AC7-907D-071C1C7E4518) funkcij [objavljanja.](https://support.office.com/article/Features-enabled-in-a-SharePoint-Online-publishing-site-3AB3810C-3C2C-4361-9D0E-0CBE666EA0B0?wt.mc_id=O365_Portal_MMaven#__toc336865553)

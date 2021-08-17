@@ -1,5 +1,5 @@
 ---
-title: Iskanje dogodkov, izvedenih v pravilih za mapo» Prejeto «
+title: Iskanje dogodkov, ki se izvajajo v pravilih za mapo »Prejeto«
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: deb83d278a2b398b4ea6fc31b043c33309b736e3
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 626bd7515270f03e1560a3ed637e7bc60b374c5525527205d5f6775e4758f07a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483704"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57882651"
 ---
-# <a name="find-events-performed-on-inbox-rules"></a>Iskanje dogodkov, izvedenih v pravilih za mapo» Prejeto «
+# <a name="find-events-performed-on-inbox-rules"></a>Iskanje dogodkov, ki se izvajajo v pravilih za mapo »Prejeto«
 
-Ko so pravila za mapo» Prejeto «ustvarjena, spremenjena ali izbrisana, so dogodki zapisani v dnevniku nadzora. Oglejte si navodila za pregled:
+Ko ustvarite, spremenite ali izbrišete pravila za mapo »Prejeto«, se dogodki beležijo v dnevnik nadzora. Oglejte si jih tako:
 
-1. Obiščite središče za [skladnost z varnostnim &om sistema Office 365](https://go.microsoft.com/fwlink/p/?linkid=2077143).
-1. Izberite Išči > nadzor dnevnika nadzora.
+1. Naredite nekaj od tega:
+   - V Središče za skladnost okolja Microsoft 365 pojdite <https://compliance.microsoft.com> na Nadzor  \> **rešitev.** Če pa se želite neposredno po vrniti na **stran Nadzor,** uporabite <https://compliance.microsoft.com/auditlogsearch> .
+   - V portalu Microsoft 365 Defender na <https://security.microsoft.com> spletnem mestu , pojdite na **Nadzor**. Če pa se želite neposredno po vrniti na **stran Nadzor,** uporabite <https://security.microsoft.com/auditlogsearch> .
 
     > [!NOTE]
-    > Če opazite obvestilo, ki ga morate vklopiti, ga vklopite zdaj. Če ta funkcija ni vklopljena, rezultati iskanja ne bodo mogli povleči podatkov iz prejšnjih datumov.
-1. Izberite polje dejavnosti in poiščite dejavnosti nabiralnika strežnika Exchange, nato pa v programu Outlook Web App izberite New-InboxRule ustvari pravilo za mapo» Prejeto «. Ko končate, kliknite zunaj podokna, da minimirate podokno dejavnosti.
-1. Določite datumski obseg in nato v polju uporabniki izberite uporabniško ime za uporabnika, ki ga želite raziskati. Izberete lahko več uporabnikov hkrati.
-1. Izberite Išči. Dejavnosti so prikazane v razdelku Rezultati.
-1. Če si želite ogledati podrobnosti, izberite dejavnost in nato izberite več informacij. V razdelku parametri si lahko ogledate ime pravila, nabora pogojev in dejanja, ki jih bo pravilo sprejelo.
+    > Če opazite obvestilo, da morate vklopiti nadzor, ga vklopite zdaj. Če ta funkcija ni vklopljena, rezultati iskanja ne bodo mogli vleči podatkov iz prejšnjih datumov.
 
-Če želite izvedeti več, glejte Iskanje v dnevniku nadzora sistema Office 365 za odpravljanje pogostih scenarijev.
+2. Na **zavihku** Iskanje na **strani** Nadzor konfigurirajte te nastavitve:
+   - **Datumski** in časovni obseg: Izberite datumski/časovni obseg v **poljih** **Začetek** in Konec.
+   - **Dejavnosti:** Izberite **Novo-PrejetoPravi pravilo za ustvarjanje mape »Prejeto« Outlook spletnem programu**
+
+3. Ko končate, kliknite **Iskanje.** Dejavnosti so prikazane na novi **strani Nadzora** iskanja.
+
+4. V rezultatih izberite dejavnost, da odprete letak s podrobnostmi. V **razdelku Parametri** si lahko ogledate ime pravila, nabor pogojev in dejanja, ki jih bo pravilo izvnelo.
+
+Če želite izvedeti več, glejte [Iskanje po dnevniku nadzora in raziskovanje pogostih težav s podporo.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)

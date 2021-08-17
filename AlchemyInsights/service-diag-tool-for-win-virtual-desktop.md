@@ -1,5 +1,5 @@
 ---
-title: Orodje za diagnostiko storitve za navidezno namizje sistema Windows
+title: Orodje za diagnostiko storitve za Windows navidezno namizje
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003893"
 - "6947"
-ms.openlocfilehash: c2e6f7fbcddc6721425840e87202a165cdb22664
-ms.sourcegitcommit: 87bf574162e536003164ff9af50005c5a7dce601
+ms.openlocfilehash: 58688e3216ba6777b1a4f76095bd39c81a2d2a8294e06b6bc61c7134f6d589f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680232"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54052402"
 ---
-# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Orodje za diagnostiko storitve za navidezno namizje sistema Windows
+# <a name="service-diagnostics-tool-for-windows-virtual-desktop"></a>Orodje za diagnostiko storitve za Windows navidezno namizje
 
-Windows Virtual Desktop (WVD) ponuja diagnostično orodje, ki omogoča, da skrbniki prepoznajo napake z enim samim vmesnikom. To orodje beleži diagnostične informacije, povezane z diagnostiko, kadar WVD uporablja nekdo, ki je dodelil vlogo WVD. Vsak dnevnik vsebuje informacije o vlogi WVD, ki je vključena v dejavnost, sporočila o napakah, ki se pojavijo med sejo, in informacije o najemniku in uporabniku. Analitika v storitvi Azure log je lahko konfigurirana tako, da zajame dnevnik dejavnosti, ki ga je ustvaril diagnostično orodje. To naredite tako:
+Windows Navidezno namizje (WVD) ponuja diagnostično orodje, ki skrbnikom omogoča, da prepoznajo napake prek enega vmesnika. To orodje beleži diagnostične podatke vsakič, ko nekdo, ki ima dodeljeno vlogo WVD, uporabi WVD. V vsakem dnevniku so informacije o vlogi WVD, ki je vključena v dejavnost, sporočila o napakah, ki se prikažejo med sejo, in informacije o najemniku in uporabniku. Analitiko dnevnika Azure lahko konfigurirate tako, da zajame dnevnik dejavnosti, ustvarjen z diagnostičnim orodjem. To lahko:
 
-1. Ustvarjanje delovnega prostora dnevnika Analytics s [portalom Azure](https://go.microsoft.com/fwlink/?linkid=2129500) ali [Azure PowerShell](https://go.microsoft.com/fwlink/?linkid=2129501).
-1. [Povežite računalnike s sistemom Windows v storitvi Azure monitor](https://go.microsoft.com/fwlink/?linkid=2129913). Pridobite ID delovnega prostora in primarni ključ delovnega prostora. Čarovnik za nastavitev potrebuje te informacije, da pravilno konfigurira posrednika in zagotovi, da lahko komunicira s storitvijo Azure monitor.
-1. [Pritiskajte diagnostične podatke v delovni prostor](https://go.microsoft.com/fwlink/?linkid=2128284). Diagnostične podatke iz WVD najemnika lahko potisnete v analizo dnevnika za delovni prostor.
-1. [Prepoznavanje in diagnosticiranje težav](https://go.microsoft.com/fwlink/?linkid=2128338) , ki so notranje ali zunanje glede na WVD.
+1. Ustvarite delovni prostor Analitike dnevnika s [portalom Azure](https://go.microsoft.com/fwlink/?linkid=2129500) ali [storitvijo Azure PowerShell.](https://go.microsoft.com/fwlink/?linkid=2129501)
+1. [Povezovalnik Windows računalnike v azure monitor](https://go.microsoft.com/fwlink/?linkid=2129913). Pridobite ID delovnega prostora in primarni ključ delovnega prostora. Čarovnik za nastavitev potrebuje te informacije za pravilno konfiguracijo posrednika in za zagotavljanje, da lahko komunicira z nadzornikom Azure Monitor.
+1. [Potisnete diagnostične podatke v delovni prostor](https://go.microsoft.com/fwlink/?linkid=2128284). Diagnostične podatke lahko potisnete iz najemnika WVD v analitiko dnevnikov za delovni prostor.
+1. [Identificirajte in diagnosticiraj](https://go.microsoft.com/fwlink/?linkid=2128338) težave, ki so notranje ali zunanje glede na WVD.
 
-Če želite izvedeti več o konfiguriranju orodja za diagnostiko storitve za WVD, glejte [Uporaba analitike dnevnika za funkcijo diagnostike](https://go.microsoft.com/fwlink/?linkid=2128084).
+Če želite izvedeti več o konfiguraciji orodja za diagnostiko storitve za WVD, glejte Uporaba analitike dnevnikov [za diagnostično funkcijo.](https://go.microsoft.com/fwlink/?linkid=2128084)
