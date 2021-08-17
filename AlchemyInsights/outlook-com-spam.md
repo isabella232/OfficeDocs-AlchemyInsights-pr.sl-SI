@@ -1,5 +1,5 @@
 ---
-title: Obravnavanje neželene in neželene pošte v Outlook.com
+title: Ravnanje z neželeno pošto na Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,35 +12,35 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: f3587e5a53ea6ad7967fe4647952b4561f54e5d8
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: c894da50d74f6d238be65ce74094257f9bd631de5ce579d1aaa511292c2523e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111380"
 ---
-# <a name="spam-and-junk-email-in-outlookcom"></a>Spam in neželena e-pošta v Outlook.com
+# <a name="spam-and-junk-email-in-outlookcom"></a>Neželena pošta in neželena pošta na Outlook.com
 
-Če ste dobili preveč neželene ali neželene pošte, poskusite te metode:
+Če dobivate preveč neželene pošte, poskusite to:
 
 1. **Označevanje e-poštnega sporočila kot neželene**
     1. Izberite sporočilo.
-    1. Izberite **» junk**  >  **junk** «, da premaknete sporočilo v mapo» Neželena e-pošta «.
-    1. [Preberite več o tem, kako lahko v mapi» Prejeto «preprečite neželeno pošto in neželena e-pošta.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. Izberite **Neželena**  >  **pošta,** da premaknete sporočilo v mapo Neželena e-pošta.
+    1. [Preberite več o tem, kako lahko neželene in vsiljene e-pošte ohranite v mapi »Prejeto«.](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)
 
-1. **Blokiranje pošiljatelja iz mape» Prejeto «**
+1. **Blokiranje pošiljatelja v mapi »Prejeto«**
     1. Izberite sporočilo.
-    1. Izberite **neželeni**  >  **blok**  >  **v redu**.
-    1. [Preberite več o tem, kako blokirate ali odblokirate pošiljatelje.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
+    1. Izberite **Neželeno**  >  **blokiraj**  >  **V redu.**
+    1. [Preberite več o tem, kako blokirate ali deblokirate pošiljatelje.](https://support.office.com/article/afba1c94-77bb-4f50-8b85-057cf52f4d5e?wt.mc_id=Office_Outlook_com_Alchemy)
 
 1. **Dodajanje pošiljatelja na seznam blokiranih pošiljateljev**
-    1. Odprite [nastavitve neželene e-pošte](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2).
-    1. V razdelku **blokirani pošiljatelji in domene**izberite **Dodaj**.
-    1. Vnesite e-poštni naslov ali domeno, ki jo želite blokirati, in pritisnite tipko ENTER.
-    1. V razdelku **filtri**izberite, ali želite zaupati e-poštnemu sporočilu iz naslovov v razdelku Varni pošiljatelji in domene ter varni poštni seznami.
+    1. Odprite nastavitve neželene [e-pošte.](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomainsV2)
+    1. V **razdelku Blokirani pošiljatelji in domene** izberite **Dodaj**.
+    1. Vnesite e-poštni naslov ali domeno, ki jo želite blokirati, in pritisnite tipko Enter.
+    1. V **razdelku Filtri** izberite, ali želite zaupati e-pošti z naslovov v razdelku Sef pošiljateljev in domen in poštnih Sef seznamih.
     1. Izberite **Shrani**.
 
-1. **Ustvarjanje pravila za mapo» Prejeto «**
-    1. Z desno tipko miške kliknite sporočilo na seznamu sporočil in izberite **ustvari pravilo**.
-    1. Izberite mapo, v katero želite premakniti vsa sporočila tega pošiljatelja, in izberite **v redu**  >  **OK**.
-    1. [Preberite več o pravilih za mapo» Prejeto «v storitvi Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)
+1. **Ustvarjanje pravila za mapo »Prejeto«**
+    1. Z desno tipko miške kliknite sporočilo na seznamu sporočil in izberite **Ustvari pravilo**.
+    1. Izberite mapo, kamor želite premakniti vsa sporočila tega pošiljatelja, nato pa izberite V  >  **redu.**
+    1. [Več informacij o pravilih nabiralnika na Outlook.com.](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy)

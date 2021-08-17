@@ -1,5 +1,5 @@
 ---
-title: Ne morete si ogledati vse priloge v Outlook.com
+title: Predogleda vseh prilog na mestu Outlook.com ni mogoče
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9000576"
 - "2431"
-ms.openlocfilehash: 8e8c2535e0fe4f71f0a3115601bd336de6f5a12e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d51193c8196558d7a464179eb8f2f51fb25857d934d70860bc84c4f1f2bf0389
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799364"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54111488"
 ---
-# <a name="cant-preview-all-of-an-attachment"></a>Predogled vseh prilog ni mogoča
+# <a name="cant-preview-all-of-an-attachment"></a>Predogleda vseh prilog si ni mogoče ogledati
 
-Zavedamo se težav, kjer nekatere stranke ne morejo preview vse Priloge. Kot rešitev lahko odprete prilogo v novem oknu.
+Seznanjeni smo s težavo, kjer si nekatere stranke ne morejo ogledati predogleda vseh prilog. Kot rešitev odprite prilogo v novem oknu.
