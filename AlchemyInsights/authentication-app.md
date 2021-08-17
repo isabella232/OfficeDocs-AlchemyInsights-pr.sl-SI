@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003252"
 - "9909"
-ms.openlocfilehash: 67331a9661ee67c4a861feb1a4292255a4d37133
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1ac3158914455502d2de493dd1320034b1d09573ebb3ffef24c23eb1e816cad0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51405681"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082958"
 ---
 # <a name="authentication-app"></a>Aplikacija za preverjanje pristnosti
 
@@ -30,11 +30,11 @@ ms.locfileid: "51405681"
 
 **Preverite scenarij, ki velja:**
 
-1. Če uporabnik ne dobiva potisnega obvestila v aplikaciji Microsoft Authenticator, preverite, ali niso prikazani pod blokiranimi uporabniki storitve MFA, kot je opisano v razdelku Blokiranje in [deblokiranje uporabnikov.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
-1. Če uporabnik ni blokiran zaradi storitve MFA, vendar ne prejme potisnega obvestila, lahko odpre aplikacijo Microsoft Authenticator, ki povleče čakajoče zahteve za odobritev.
+1. Če uporabnik ne dobiva potisnega obvestila v aplikaciji Microsoft Authenticator, preverite, ali niso prikazani pod blokiranimi uporabniki storitve MFA, kot je opisano v razdelku Blokiranje in deblokiranje [uporabnikov.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/diagnose/symptomId/ms_aad_dxp_signin_caDiagnoseAndSolveSummarySymptom)
+1. Če uporabnik ni blokiran zaradi storitve MFA, vendar ne prejme potisnega obvestila, lahko odpre aplikacijo Microsoft Authenticator, ki bo povleče čakajoče zahteve za odobritev.
 1. Uporabnik lahko kot alternativni način vpisa klikne tudi Vpis na drug način in izbere način uporabe kode za preverjanje iz moje mobilne aplikacije.
-1. Aplikacija Microsoft Authenticator je edini na voljo za številne uporabnike. [Več informacij o privzetih varnostnih nastavitvamih](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)najdete v članku Pogosta vprašanja o aplikaciji [Authenticator](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) za pogosta vprašanja in kako jih odpravite.
+1. Aplikacija Microsoft Authenticator je edini način, ki je na voljo za številne uporabnike. [Več informacij o privzetih varnostih preberite](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) [Authenticator pogostih](https://docs.microsoft.com/azure/active-directory/user-help/user-help-auth-app-faq) vprašanjih o aplikacijah in kako jih odpravite.
  
 **Priporočeni videoposnetki**
 
-[Nastavitev aplikacije Authenticator v novem telefonu (2min)](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409).
+[Kako nastavite aplikacijo Authenticator v novem telefonu (2min)](https://go.microsoft.com/fwlink/?linkid=2158163&clcid=0x409).

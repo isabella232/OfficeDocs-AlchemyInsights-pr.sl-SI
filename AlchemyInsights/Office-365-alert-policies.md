@@ -13,16 +13,16 @@ ms.custom:
 - "1385"
 - "3200002"
 ms.assetid: ''
-ms.openlocfilehash: 7bb5ec0efb7e29dc6a133d62491c7674c5a851a4fa422c647035aeaa0dbcd8d5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f5109445530ec4cc4988fb9c5d37145c45794ced6920607ce6df85c6497c25ec
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918375"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891695"
 ---
 # <a name="alert-policies"></a>Pravilniki za opozorila
 
-Središče Microsoft 365 za skladnost s predpisi & [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) ponuja privzete pravilnike za opozorila, ki sprožijo opozorila za organizacije z naročnino Office 365 Enterprise ali Office 365 Government E1/G1, E3/G3 ali E5/G5. Skrbniki lahko zato prejmejo e-poštno obvestilo z opozorilom, ki ga pošlje Office365Alerts@microsoft.com z zadevo, kot je »opozorilo o nizki resnosti: ime pravilnika o opozorilu«. Obvestila o opozorilih se pošljejo, ko se opozorila sprožijo za pogoste dejavnosti, na primer ko uporabniki:
+Microsoft 365 vsebuje privzete [](https://docs.microsoft.com/microsoft-365/compliance/alert-policies#default-alert-policies) pravilnike za opozorila, ki sprožijo opozorila za organizacije z naročnino na Microsoft 365 Enterprise ali Microsoft 365 Government E1/G1, E3/G3 ali E5/G5. Skrbniki lahko zato prejmejo e-poštno obvestilo z opozorilom, ki ga pošlje Office365Alerts@microsoft.com z zadevo, kot je »opozorilo o nizki resnosti: ime pravilnika o *opozorilu«.* Obvestila o opozorilih se pošljejo, ko se opozorila sprožijo za pogoste dejavnosti, na primer ko uporabniki:
 
 - Ustvarite pravila za mapo »Prejeto«, ki posredujejo e-pošto.
 - Nabiralniku dodelite dovoljenja.
@@ -31,9 +31,10 @@ Središče Microsoft 365 za skladnost s predpisi & [](https://docs.microsoft.com
 
 Če želite pregledati opozorilo in ukrepati:
 
-1. Obiščite Središče [za & s predpisi](https://protection.office.com) in se vpišite.
-2. Kliknite **Opozorila pogleda**  >  **opozoril.**
-3. Kliknite opozorilo, če želite prikazati letak z informacijami o opozorilu.
+1. Naredite nekaj od tega:
+   - V razdelku Središče za skladnost okolja Microsoft 365 <https://compliance.microsoft.com> pojdite na **Opozorila.** Če pa se želite neposredno pojiti na **stran** Opozorila, uporabite <https://compliance.microsoft.com/compliancealerts> .
+   - V portalu Microsoft 365 Defender v razdelku <https://security.microsoft.com> Opozorila o **&** \> **dogodkov.** Če pa se želite neposredno pojiti na **stran** Opozorila, uporabite <https://security.microsoft.com/alerts> .
+2. Kliknite opozorilo, če želite prikazati letak z informacijami o opozorilu.
 
 V opozorilu lahko ukrepate, na primer odstranite sumljivo pravilo za mapo [»Prejeto«.](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) Lahko pa tudi preprosto zaprete opozorilo tako, **da** na v letaku z opozorilom kliknete Razreši.
 
@@ -45,4 +46,4 @@ V opozorilu lahko ukrepate, na primer odstranite sumljivo pravilo za mapo [»Pre
 - Preverjanje varnostnih podrobnosti računa
 - Ponovno preverjanje pristnosti
 
-Če prejmete takšne e-poštno sporočilo, ga Microsoft ni poslal in ga obravnavajte kot lažno predstavljanje. Če pride do tega, [jo prijavite Microsoftu.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)
+Če prejmete e-poštno sporočilo s temi vrstami zahtev, ga Microsoft ni poslal in ga je treba obravnavati kot lažno predstavljanje. Če prejmete sporočilo s temi vrstami zahtev, [prijavite sporočilo Microsoftu.](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-messages-to-microsoft)

@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009192"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891915"
 ---
 # <a name="subscription-expired"></a>Naročnina je potekla
 
@@ -35,7 +35,7 @@ ms.locfileid: "54009192"
 3. V **podoknu Znova aktiviraj** to naročnino na spustnem seznamu izberite način plačila ali pa **izberite Dodaj način plačila**.
 4. Izberite **Shrani**.
 
-Če želite več informacij, preberite članek [Vnovična aktivacija naročnine](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Če želite več informacij, preberite članek [Vnovična aktivacija naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Upravljanje podaljšanja naročnine**
 
@@ -47,4 +47,4 @@ ms.locfileid: "54009192"
 4. V **podoknu Urejanje nastavitev ponavljajočega se obračunavanja** izberite **Vklop** **, Vklop, vendar samo enkrat** ali **Izklopi**.
 5. Izberite **Shrani**.
 
-Če želite več informacij, glejte [Vklop ali izklop ponavljajočega se obračunavanja](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+Če želite več informacij, glejte [Vklop ali izklop ponavljajočega se obračunavanja](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

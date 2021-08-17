@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 2b60d65f6f5144c00b23664075d05af1995d5baac7fb884c59cbe82efca3d198
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0b6155ce38cd2703a4bf406d73ebbc59eb4c9034
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013152"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320771"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>Rešitve za težave pri nameščanju Officea
 
@@ -30,7 +30,8 @@ ms.locfileid: "54013152"
 - Počistite vse pretekle sledi Officea in ga znova namestite s pomočnikom za podporo in obnovitev (SaRA). 
 
     - Prenesite in namestite [pomočnika za podporo in obnovitev](https://aka.ms/SARA-OfficeUninstall-Alchemy). Ko se odpre, v razdelku **Odstranitev Officeovih izdelkov** izberite različico, ki jo želite odstraniti (če obstaja), in kliknite **Naprej**. Pomikajte se po oknih in ob pozivu znova zaženite računalnik. Po vnovičnem zagonu se SaRA samodejno znova odpre in dokonča postopek odstranitve.
-    - [Office znova namestite](https://aka.ms/sara-officeinstall) s pomočnikom SaRA. **Opomba**: če želite namestiti Visio ali Project s pomočnikom SaRA, uporabite možnost [Namesti Visio](https://aka.ms/SaRA-VisioSetupScenario) ali [Namesti Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - [Office znova namestite](https://aka.ms/sara-officeinstall) s pomočnikom SaRA. 
+    **Opomba**: če želite namestiti Visio ali Project s pomočnikom SaRA, uporabite možnost [Namesti Visio](https://aka.ms/SaRA-VisioSetupScenario) ali [Namesti Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - Office namestite z [namestitvenim programom za Office brez povezave](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
 

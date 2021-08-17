@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "8263"
 - "9004610"
-ms.openlocfilehash: a2efa52c3fcd90b255d5f1ccbb07c31f9c138e7a31dbe92f318418fb1643601d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ccdcf5b175ffe5455cc5ab0bb4c7ef652fd6a3c9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868362"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320807"
 ---
 # <a name="information-about-teams-contacts"></a>Informacije o Teams stikih
 
@@ -29,8 +29,8 @@ Teams uporablja te stike:
 
 Če stiki niso dokončani ali niso sinhronizirani za enega ali več uporabnikov, naredite to:
 
-- Zagotovite, da uporabnikov nabiralnik Exchange v spletu (ne na mestu uporabe). Če želite več informacij, glejte [Exchange in Microsoft Teams interakcijo.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)
-- Preverite, ali je telefonska številka stika dodana med podatke za stik.
+- Zagotovite, da uporabnikov nabiralnik Exchange gostuje v spletu (ne na mestu uporabe). Če želite več informacij, glejte [Kako Exchange in Microsoft Teams interakcijo.](https://docs.microsoft.com/microsoftteams/exchange-teams-interact)
+- Prepričajte se, da je telefonska številka stika dodana med podatke za stik.
 - V vrstici za iskanje poiščite e-poštni **naslov** stika. Stike, ki jih lahko pridobite, sinhronizirajo s seznamom stikov.
 
 

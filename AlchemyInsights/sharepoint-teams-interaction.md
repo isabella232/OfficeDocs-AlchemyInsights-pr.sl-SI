@@ -1,5 +1,5 @@
 ---
-title: Pomoč pri SharePoint in Microsoft Teams stikov
+title: Pomoč pri interakciji SharePoint Microsoft Teams skupine
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,17 +14,17 @@ ms.assetid: ''
 ms.custom:
 - "9007084"
 - "11929"
-ms.openlocfilehash: 6f63eed31fda61ea6377c364cfbf63035311864e55637baa5a5838784a03b582
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 34f2db749fe457dfad457e15c3b836d98b9f0de75a9c03bd79a3c1a8f4d4d4de
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "57812975"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898372"
 ---
-# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Pomoč pri SharePoint in Microsoft Teams stikov
+# <a name="help-with-the-sharepoint-and-microsoft-teams-interaction"></a>Pomoč pri interakciji SharePoint Microsoft Teams skupine
 
-Vsaka skupina v Microsoft Teams ima spletno mesto skupine v SharePoint in vsak standardni kanal v skupini dobi mapo znotraj privzete knjižnice dokumentov na spletnem mestu skupine. Vsak zasebni kanal ima svoj, ločen SharePoint mestu. Dodatne informacije:
+Vsaka skupina v Microsoft Teams ima spletno mesto skupine v SharePoint in vsak standardni kanal v skupini dobi mapo znotraj privzete knjižnice dokumentov na spletnem mestu skupine. Vsak zasebni kanal dobi svoj, ločen SharePoint mestu. Dodatne informacije:
 
-- Če želite izvedeti več o interakciji z zasebnimi kanali, [glejte Zasebni kanali v Microsoft Teams](/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
+- Če želite izvedeti več o interakciji z zasebnimi kanali, [glejte Zasebni kanali Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
-- Če želite izvedeti več o omeji SharePoint o tem, kako to vpliva na shrambo, glejte Omejitve in [specifikacije Microsoft Teams.](/microsoftteams/limits-specifications-teams#storage) 
+- Če želite izvedeti več o omeji SharePoint o tem, kako to vpliva na shrambo, glejte Omejitve in [specifikacije Microsoft Teams.](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#storage) 
