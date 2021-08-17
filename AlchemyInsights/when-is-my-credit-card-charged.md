@@ -16,17 +16,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: 756c1ac4a5d5fdf9cb7f347feb445b910c7a9e513ca4ea9542f5e1fbb08c954f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5fabc89dcca3a35d285e5677287dc890c0b3788d29d2ba9c8e2c106fd5672fc5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503848"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899132"
 ---
 # <a name="when-is-my-credit-card-charged"></a>Kdaj se bremeni moja kreditna kartica?
 
-Po začetnem nakupu lahko traja do dva dni, da se bremenitev pojavi.
+Po začetnem nakupu lahko traja do dva dni, da do bremenitev pride.
   
-Ponavljajoče se bremenitve se zgodijo v enem dnevu po tem, ko je bil račun ustvarjen.
+Ponavljajoče se bremenitve se zgodile v enem dnevu po tem, ko je bil račun ustvarjen.
   
-Če bremeniti neuspešen, bo sistem še naprej poskušal poravnati stanje v naslednjih nekaj tednih. Podatke o plačilu lahko posodobite kadar koli in tako zagotovite, da je naslednji poskus bremenjenja uspešen. Za več informacij glejte [Upravljanje načinov plačila](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Če bremeniti neuspešen, bo sistem še naprej poskušal poravnati stanje v naslednjih nekaj tednih. Podatke o plačilu lahko posodobite kadar koli in tako zagotovite, da je naslednji poskus bremenjenja uspešen. Za več informacij glejte [Upravljanje načinov plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

@@ -13,26 +13,33 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: 5375efe4998ee8720867b77a8c9ed60e3eda92e5b00fd3b6e93c0afab09fec2b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d05c8f02efc3bb92865880ea4a2338abaf7d70254f0b4bbfb566423e62b391dd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53949403"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57898812"
 ---
 # <a name="investigate-all-the-users-activities"></a>Raziščite vse dejavnosti uporabnikov
 
 To naredite tako:
 
-1. Obiščite Središče [za & za skladnost s predpisi.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Izberite **Iskanje v**  >  **[dnevniku nadzora.](https://go.microsoft.com/fwlink/?linkid=2103759)**
+1. Naredite nekaj od tega:
+   - V Središče za skladnost okolja Microsoft 365 na <https://compliance.microsoft.com> strani , pojdite na **Nadzor** \> **rešitev.** Če pa se želite neposredno po vrniti na **stran Nadzor,** uporabite <https://compliance.microsoft.com/auditlogsearch> .
+   - V portalu Microsoft 365 Defender na <https://security.microsoft.com> spletnem mestu , pojdite na **Nadzor**. Če pa se želite neposredno po vrniti na **stran Nadzor,** uporabite <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Če opazite obvestilo, da morate funkcijo vklopiti, jo vklopite zdaj. Če funkcija ni vklopljena, rezultati iskanja ne bodo mogli vleči podatkov iz prejšnjih datumov.
 
-1. Če vas zanima določena dejavnost, jo izberite na **seznamu** Dejavnosti. V tem primeru bodo za izbranega uporabnika privzeto vrnjene vse dejavnosti.
-1. Določite datumski obseg in nato v polju **Uporabniki** izberite uporabniško ime uporabnika, ki ga želite raziskati. Izberete lahko več uporabnikov hkrati.
-1. Kliknite **Iskanje.** Dejavnosti so prikazane v razdelku **Rezultati.** Videli boste naslov IP, uporabnika in ime dejavnosti.
-1. Če želite prenesti rezultate, izberite **Izvoz rezultatov**.
-1. Če si želite ogledati podrobnosti, izberite dejavnost in nato **razširite možnost Več informacij.**
+2. Na **zavihku** Iskanje na **strani** Nadzor konfigurirajte te nastavitve:
+   - **Datumski** in časovni obseg: Izberite datumski/časovni obseg v **poljih** **Začetek** in Konec.
+   - **Dejavnosti:** Če vas zanima določena dejavnost, jo izberite na seznamu. sicer privzeta vrednost **Pokaži rezultate za vse dejavnosti vrne** vse dejavnosti.
+   - **Uporabniki:** Sprejmite prazno privzeto vrednost, če želite vrniti rezultate za vse uporabnike, ali pa vnesite enega ali več uporabnikov.
 
-Če želite izvedeti več, glejte [Iskanje po dnevniku nadzora za odpravljanje pogostih scenarijev.](https://go.microsoft.com/fwlink/?linkid=2103944)
+3. Ko končate, kliknite **Iskanje.** Dejavnosti so prikazane na novi **strani Nadzora** iskanja. Videli boste naslov **IP,** **uporabnika** in **ime** dejavnosti.
+
+4. Če želite prenesti  rezultate, izberite \> **Izvozi prenesi vse rezultate**.
+
+5. V rezultatih izberite dejavnost, da odprete letak s podrobnostmi.
+
+Če želite izvedeti več, glejte [Iskanje po dnevniku nadzora in raziskovanje pogostih težav s podporo.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
