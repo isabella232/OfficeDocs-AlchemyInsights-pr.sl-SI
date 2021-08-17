@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "319"
 - "1500007"
-ms.openlocfilehash: 299aca30aa9fdd8fae803f3874b2600483bfc058c128f9e87e4898a69f4505c3
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ff0ddcba4212697685dd71360532c89e27815f8d96aeced8f36c7416bdbebf64
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501832"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892211"
 ---
 # <a name="add-or-remove-licenses-for-your-subscription"></a>Dodajanje ali odstranjevanje licenc za naročnino
 
@@ -32,10 +32,10 @@ ms.locfileid: "54501832"
 4. Če želite kupiti ali  odstraniti licence,  v razdelku Nova količina v polju Skupno število licenc vnesite skupno število licenc, ki jih želite za to naročnino. Če imate na primer 100 licenc in jih želite dodati še 25, vnesite 125. Če želite odstraniti 25 licenc, vnesite 75.
 5. Izberite **Shrani**.
 
-Če želite informacije o dodeljevanju licenc, [glejte Dodeljevanje licenc uporabnikom.](/microsoft-365/admin/manage/assign-licenses-to-users)
+Če želite informacije o dodeljevanju licenc, glejte [Dodeljevanje licenc uporabnikom.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 **Viri**
   
-- [Nakup ali odstranjevanje licenc](/microsoft-365/commerce/licenses/buy-licenses)
-- [Preklic Microsoft 365 za podjetja](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [Preskusite ali kupite naročnino Microsoft 365 za podjetja](/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [Nakup ali odstranjevanje licenc](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [Preklic Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Preskusite ali kupite naročnino Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)

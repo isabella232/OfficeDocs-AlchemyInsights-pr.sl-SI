@@ -16,14 +16,14 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: ce64ca1f9afa04ab9eaa6129dd5bbafb2b8e799ae32ca24162fd5c8bac7d84fd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b3898c5446a8193f818fd810bb3645f78865aa80
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868658"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313397"
 ---
-# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Podaljšanje preskusnega postopka za Microsoft 365 za podjetja
+# <a name="extend-your-trial-for-microsoft-365-for-business"></a>Podaljšanje preskusa za Microsoft 365 za podjetja
 
 Brezplačen preskus lahko podaljšate za dodatnih 30 dni. Po tem preskusno obdobje preide v 30-dnevno [grace obdobje.](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial) Če želite podaljšati preskusno različico, upoštevajte ta navodila:
   
@@ -32,4 +32,4 @@ Brezplačen preskus lahko podaljšate za dodatnih 30 dni. Po tem preskusno obdob
 3. Na strani s podrobnostmi naročnine v razdelku **Nastavitve naročnine** in plačila izberite **Podaljšaj končni datum.**
 4. V **podoknu Podaljšaj** končni datum preglejte podatke za podaljšanje in po potrebi izberite način plačila. Ko končate, izberite Podaljšajte **preskusno različico**.
 
-Če želite izvedeti več o podaljšanju preskusne različice ali če želite navodila po korakih, glejte Podaljšanje preskusnega obdobja [Office 365 za podjetja.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)
+Če želite izvedeti več o podaljšanju preskusne različice ali če želite navodila po korakih, glejte Podaljšanje preskusnega obdobja [za Office 365 za podjetja.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)

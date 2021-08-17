@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.openlocfilehash: a7d4bd596c12609385b35d520dd1179a8c4a49b8f3d9e630ff6c3cf1acaae761
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c8c82257467a484205c4fcbb218b2441244915f943ed8d984c9d41767c676d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059422"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894039"
 ---
 # <a name="cancel-advanced-threat-protection"></a>Preklic napredne zaščite pred grožnjami
 
@@ -32,4 +32,4 @@ Skrbniki lahko prekličejo naročnino na napredno zaščito pred grožnjami za s
 
 **Vračilo kupnine:** Vsa dobropis za prooženje bo vrnjen v naslednjem obračunskem obdobju.
 
-Če želite več informacij, glejte [Preklic naročnine.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Če želite več informacij, glejte [Preklic naročnine.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

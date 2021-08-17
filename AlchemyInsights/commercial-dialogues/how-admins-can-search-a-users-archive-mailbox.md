@@ -1,5 +1,5 @@
 ---
-title: Kako lahko skrbniki preiščejo uporabnikov arhivski nabiralnik
+title: Kako lahko skrbniki preiščejo nabiralnik arhiva uporabnika
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 00710319f8d8b6ecd9d99d76751ecb256b2f867d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 39296e35191b43d3bb6e6dc8364e97395e9dca65f29413265cd5e7ef8a87828e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50750537"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091373"
 ---
-# <a name="how-admins-can-search-a-users-archive-mailbox"></a>Kako lahko skrbniki preiščejo uporabnikov arhivski nabiralnik
+# <a name="how-admins-can-search-a-users-archive-mailbox"></a>Kako lahko skrbniki preiščejo nabiralnik arhiva uporabnika
 
-Tukaj je način, kako lahko-skrbnik išče uporabnikov spletni arhiv za e-pošto:
+Tukaj so navodila, kako lahko – skrbnik, poiščete e-pošto v spletnem arhivu uporabnika:
 
-* Ko je omogočen arhivski nabiralnik, lahko uporabite **Iskanje vsebine** ali **E-odkrivanje iskanje in izvoz** , da odkrijete in izvozite vsebino tako v primarnem kot v nabiralniku arhiva. Če želite uporabiti **Iskanje vsebine**, glejte [izvoz rezultatov iskanja vsebine.](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
-* To vsebino lahko obdržite tudi tako, da dodate nabiralnik v **pravilnik o hranjenju**. S tem boste postavili vsebino v primarni in arhivski nabiralnik v zadržanju. Če želite izvedeti več o ustvarjanju pravilnikov o hranjenju, glejte [pregled pravilnikov o hranjenju.](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
+* Ko je nabiralnik arhiva omogočen,  lahko uporabite iskanje vsebine ali **iskanje z e-odkrivanjem** in izvozom, če želite odkriti in izvoziti vsebino v primarnem nabiralniku in nabiralniku arhiva. Če želite **uporabiti iskanje vsebine,** glejte [Izvoz rezultatov iskanja po vsebini.](https://docs.microsoft.com/office365/securitycompliance/export-search-results)
+* Vsebino lahko ohranite tudi tako, da dodate nabiralnik v pravilnik **o hranjenju.** S tem boste vsebino zadržali v primarnem nabiralniku in nabiralniku arhiva. Če želite izvedeti več o ustvarjanju pravilnikov o hranjenju, glejte [Pregled pravilnikov o hranjenju.](https://docs.microsoft.com/office365/securitycompliance/retention-policies)

@@ -1,5 +1,5 @@
 ---
-title: Prijava sumljivih e-poštnih sporočil, URL-jev ali prilog
+title: Prijavite sumljiva e-poštna sporočila, URL-je ali priloge
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 15efe9acf4fab9ced09674784ea130b5ddfd645d
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 529cba87af48c38f7a82ece63713f58a90fb61518e4ae6b6e41f0b4905dcd5ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748234"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091148"
 ---
-# <a name="report-suspicious-emails-urls-or-attachments"></a>Prijava sumljivih e-poštnih sporočil, URL-jev ali prilog
+# <a name="report-suspicious-emails-urls-or-attachments"></a>Prijavite sumljiva e-poštna sporočila, URL-je ali priloge
 
-Razumem, da potrebujete pomoč pri preiskovanju sumljive e-pošte ali e-pošte, ki je bila nepravilno filtrirana. Lahko vam pomagam pri pošiljanju težave z raziskovalcem, ki vam bodo posredovali takojšnje povratne informacije. Tukaj je povzetek korakov:
+Razumem, da potrebujete pomoč pri preiskovanju sumljivega e-poštnega sporočila ali e-poštnega sporočila, ki ni bil filtriran. Pri pošiljanju težave v analizo vam lahko pomagam z Raziskovalcem za pošiljanje neposrednih povratnih informacij. Tukaj je povzetek korakov:
 
-1. Obiščite središče za [skladnost s predpisi sistema Office & 365](https://go.microsoft.com/fwlink/p/?linkid=2077143), nato pa pojdite na predložitve za **upravljanje groženj**  >  [](https://go.microsoft.com/fwlink/?linkid=2101521).
-2. Izberite **+ Nova oddaja**. Flyout bo prikazan z možnostjo pošiljanja e-pošte, URL-ja ali datoteke.
+1. Obiščite središče [za Office 365 za zagotavljanje &](https://go.microsoft.com/fwlink/p/?linkid=2077143)za skladnost s predpisi in nato pojdite na **Pošiljanje** za  >  [upravljanje groženj.](https://go.microsoft.com/fwlink/?linkid=2101521)
+2. Izberite **+ Nova pošiljanje**. Prikaže se letak z možnostjo za pošiljanje e-poštnega sporočila, URL-ja ali datoteke.
     > [!NOTE]
-    > Obvestite uporabnike, da naj poročajo o morebitnih sumljivih sporočilih v mapi» Prejeto «Microsoftu s pomočjo [dodatka» poročilo o sporočilu](https://go.microsoft.com/fwlink/?linkid=2092385)«.
+    > Uporabnike obvestite, da naj prijavijo sumljiva sporočila v svoji mapi »Prejeto« Microsoftu z dodatkom [za poročila sporočila.](https://go.microsoft.com/fwlink/?linkid=2092385)

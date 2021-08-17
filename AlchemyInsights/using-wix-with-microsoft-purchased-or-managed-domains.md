@@ -1,5 +1,5 @@
 ---
-title: Uporaba spletnega mesta Wix z Microsoftom kupljenimi ali upravljanimi domenami
+title: Uporaba spletnega mesta Wix z Microsoftovim kupljenim ali upravljanimi domenami
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd0f8beb8f1871c2c43ac14a7f6d1cce79386fcc353bb2a690ba184904ca5857
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664762"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083750"
 ---
-# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Uporaba spletnega mesta Wix z Microsoftom kupljenimi ali upravljanimi domenami
+# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>Uporaba spletnega mesta Wix z Microsoftovim kupljenim ali upravljanimi domenami
 
-Če želite več informacij o uporabi spletnega mesta Wix z Microsoftovo kupljeno ali upravljano domeno, [si oglejte posodabljanje zapisov DNS za ohranitev spletnega mesta s trenutnim ponudnikom gostovanja](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
+Če želite informacije o tem, kako uporabljati spletno mesto ponudnika Wix z Microsoftovo kupljeno ali upravljano domeno, glejte Posodobitev zapisov DNS, da ohranite spletno mesto pri trenutnem [ponudniku gostovanja.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
 
 Če želite več informacij, glejte: 
 
-- V članku» Wix «,» povezovanje domene z Wix z načinom kazanja «, priporočamo dodajanje zapisov DNS, kot je opisano v zgornji povezavi, namesto spreminjanja imenskih strežnikov, ko uporabljate Microsoft 365.
+- V članku Wix »Connecting a Domain to Wix Using the Pointing Method« (Povezovanje domene z omrežjem Wix z metodo pointing) priporočamo dodajanje zapisov DNS, kot je opisano v zgornji povezavi, namesto spreminjanja imenskih strežnikov, ko Microsoft 365.
 
-- Če želite spremeniti imenske strežnike v Wix, morate ustvariti zapise DNS na spletnem mestu Wix za Microsoft. Če želite več informacij, glejte [Ustvarjanje zapisov DNS na spletnem mestu Wix za Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
+- Če želite imenski strežnik spremeniti v Wix, morate ustvariti zapise DNS pri ponudniku Wix za Microsoft. Če želite več informacij, glejte [Ustvarjanje zapisov DNS na spletnem mestu Wix za Microsoft.](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix)
 
-- Če je bila vaša domena kupljena v storitvi Microsoft, imenskih strežnikov ni mogoče spremeniti. Če morate spremeniti imenske strežnike, mora biti Microsoftova kupljena domena prenesena v drugega ponudnika gostovanja po 60 dneh. Če želite več informacij, glejte [prenos domene iz Microsofta v drugega gostitelja](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
+- Če ste domeno kupili pri Microsoftu, imenskih strežnikov ni mogoče spremeniti. Če morate spremeniti imenski strežnik, morate kupljeno Microsoftovo domeno po 60 dneh prenesti k drugemu ponudniku gostovanja. Če želite več informacij, [glejte Prenos domene iz Microsofta v drugega gostitelja.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
