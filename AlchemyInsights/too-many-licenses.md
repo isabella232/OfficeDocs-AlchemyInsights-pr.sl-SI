@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "540"
 - "1500027"
-ms.openlocfilehash: 1623ea2269e18a0333b0bfddef7c5797ce3db57bb74ee4646a3aa94b8e821fa1
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 86acc3a8568d5e30a46abc0d1bd6496530e586138b548e59f5c212bc0006c783
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499564"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57886307"
 ---
 # <a name="too-many-licenses"></a>Preveč licenc?
 
@@ -32,8 +32,8 @@ ms.locfileid: "54499564"
   
 1. V skrbniškem središču  odprite stran \> **[Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Na **zavihku** Izdelki izberite naročnino, ki jo želite spremeniti.
-3. Na strani s podrobnostmi naročnine **izberite Odstrani licence.**
+3. Na strani s podrobnostmi naročnine **izberite Odstrani licence**.
 4. V **podoknu Odstranjevanje** licenc v razdelku  **Nova** količina v polju Skupno število licenc vnesite skupno število licenc, ki jih želite za to naročnino. Če imate na primer 100 licenc in jih želite odstraniti 25, vnesite 75.
 5. Izberite **Shrani**.
 
-Če želite izvedeti več, [glejte Nakup ali odstranjevanje licenc.](/microsoft-365/commerce/licenses/buy-licenses)
+Če želite izvedeti več, [glejte Nakup ali odstranjevanje licenc.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
