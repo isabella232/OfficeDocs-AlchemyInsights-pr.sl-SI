@@ -1,5 +1,5 @@
 ---
-title: 8000035 zapustite Outlook.com beta
+title: 8000035 pustite različico Outlook.com beta
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -19,18 +19,18 @@ ms.custom:
 - "1422"
 - "8000035"
 ms.assetid: 039b6814-0af4-4385-9fdf-bbc53ab2e161
-ms.openlocfilehash: 1ff3fb4bd0397682aac7825383c53e02f94b7e2d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b481f343a0a25e740a09b387fcdf685fc4f719e9d08d0af2c885f7441ff1b23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676358"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042862"
 ---
 # <a name="the-new-outlookcom"></a>Nova Outlook.com
 
-Ni več mogoče zapustiti Outlook.com beta in se vrniti v klasično različico Outlook.com.
+Različice beta storitve Outlook.com ni več mogoče zapustiti in se vrniti na klasično različico storitve Outlook.com.
   
-Če želite ponuditi povratne informacije o novem Outlook.com, obiščite [forum UserVoice](https://go.microsoft.com/fwlink/p/?linkid=851599). Glasujete lahko o idejah ali težavah, ki si jih želite ogledati, in odzvali se bomo neposredno na zgornje pripombe in predloge.
+Če želite posredovati povratne informacije o novi e-Outlook.com, obiščite [forum UserVoice.](https://go.microsoft.com/fwlink/p/?linkid=851599) Tukaj lahko glasujete za zamisli ali težave, ki naj jih obravnavamo; na najboljše komentarje in predloge bomo tudi odgovorili.
   
-[Preberite več o novem Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
+[Več informacij o novi Outlook.com.](https://go.microsoft.com/fwlink/p/?linkid=874356)
   

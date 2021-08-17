@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1dde197b08328206e19e9943a56c06d9942cbaec9c04c97a18dcc821c822ff16
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836547"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042826"
 ---
 # <a name="leave-a-feature-request-or-feedback-on-app-design"></a>Pustite zahtevo za funkcijo ali povratne informacije v načrtu programa
 
-Cenimo, da delite svoje misli z drugimi med nadaljevanjem dela v Outlooku. *UserVoice* je forum, kjer lahko odidete s povratnimi informacijami in glasujete za zamisli drugih oseb.  
+Cenimo, da delite svoje misli z drugimi, ko še naprej Outlook. *UserVoice* je forum, kjer lahko odidete s povratnimi informacijami in glasujete za zamisli drugih oseb.  
 
 Če nam želite nekaj povedati: 
 
-**Nastavitve > pomoči in & povratnih > Predlog za funkcijo, > objavite idejo** 
+**Nastavitve > pomoči & povratnih > predlog za funkcijo, > objavite idejo** 
 
 **Vas zanima, kako je prikazano vaše ime/e-pošta?**
 

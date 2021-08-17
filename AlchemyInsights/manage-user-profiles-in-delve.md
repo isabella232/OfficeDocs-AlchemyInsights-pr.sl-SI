@@ -1,5 +1,5 @@
 ---
-title: Upravljanje uporabniških profilov v Rupčaga
+title: Upravljanje uporabniških profilov v Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 04/21/2020
@@ -9,28 +9,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 38f209e37ff8a5694ae59f7b7b85e1d439d88a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bcd7b20d847492d1f516878fd52dc2a6798b6b2afa90edea8eb4e460834a4eb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811832"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042214"
 ---
-# <a name="manage-user-profiles-in-delve"></a>Upravljanje uporabniških profilov v Rupčaga
+# <a name="manage-user-profiles-in-delve"></a>Upravljanje uporabniških profilov v Delve
 
-Office Rupčaga omogoča uporabnikom, da upravljajo svoje uporabniške profile. Uporabniki lahko:
+Office Delve uporabnikom omogoča upravljanje uporabniškega profila. Uporabniki lahko:
   
-- Ogled in posodabljanje podatkov
+- Ogled in posodobitev informacij
     
-- Ohranite nekaj zasebnih informacij
+- Nekatere informacije naj bodo zasebne
     
-- Spreminjanje profila ali spremne slike
+- Spreminjanje profila ali naslovne slike
     
-- Spreminjanje oblike zapisa jezika in ure za Rupčaga
+- Spreminjanje jezika in oblike zapisa časa za Delve
     
 > [!NOTE]
-> Če je uporabnik posodobil svojo sliko profila in se sprememba ne prikaže v SharePointu ali OneDrive, jih prosite, naj odprejo spletni brskalnik, [pojdite na Office.com](https://www.office.com), se vpišite s svojim službenim ali šolskim računom, nato pa kliknite ploščico OneDrive ali SharePoint. S tem boste pozvani k sinhronizaciji slike profila. Uporabnik bo morda moral poskusiti dokončati te korake z zasebno različico brskalnika. 
+> Če je uporabnik posodobil svojo sliko profila in sprememba ni prikazana v storitvi SharePoint ali OneDrive, ga prosite, da odpre spletni brskalnik, odpre spletno mesto [Office.com,](https://www.office.com)se vpiše s službenim ali šolskim računom, nato pa kliknite ploščico OneDrive ali SharePoint. S tem boste pozvani k sinhronizaciji slike profila. Uporabnik bo morda moral te korake zaključevati z zasebno različico brskalnika. 
   
-[Več informacij o posodobitvi profilov v Rupčaga](https://go.microsoft.com/fwlink/?linkid=735070)
+[Več informacij o posodabljanju profilov v Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

@@ -1,5 +1,5 @@
 ---
-title: Kako se vpisati v Outlook.com ali iz nje
+title: Kako se vpisati v ali izpisati iz storitve Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 86c76fa3d9f7f72fa4061321cd95cabb90fa4c35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ce3ea7b6d0677796713ca98dbfe863f6033b8d6ea4bb4aa0aef6a86df7ab119
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703316"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042934"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Kako se vpisati v Outlook.com ali iz nje
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>Kako se vpisati v ali izpisati iz storitve Outlook.com
 
-Če se ne morete vpisati v svoj e-poštni račun v storitvi Outlook.com, Hotmail, Live ali MSN ali pa ne veste, kako se vpisati ali izpisati, naredite [nekaj rešitev](https://go.microsoft.com/fwlink/p/?linkid=2005840).
+Če se ne morete vpisati v e-poštni račun Outlook.com, Hotmail, Live ali MSN ali ne veste, kako se vpišete ali izpišete, je tukaj nekaj [rešitev.](https://go.microsoft.com/fwlink/p/?linkid=2005840)
   
-Če imate še vedno težave z vpisom, si oglejte, [Kdaj se ne morete vpisati v svoj Microsoftov račun](https://go.microsoft.com/fwlink/p/?linkid=837479).
+Če imate še vedno težave z vpisom, glejte [Če se ne morete vpisati v Microsoftov račun.](https://go.microsoft.com/fwlink/p/?linkid=837479)

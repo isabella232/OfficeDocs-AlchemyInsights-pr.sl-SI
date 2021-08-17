@@ -1,5 +1,5 @@
 ---
-title: Obračunavanje za rezervirani primerek nakupa
+title: Obračunavanje za rezerviran nakup primerka
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,64 +12,64 @@ ms.collection: Adm_O365
 ms.custom:
 - "6814"
 - "9003552"
-ms.openlocfilehash: 9d71554d2089a6d9e5d4850149d113959f3d43c0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 00565470de388165e64c45879c22fd5064b4adc695151edaf58878f38a481ff2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820338"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104036"
 ---
-# <a name="billing-for-reserved-instance-purchase"></a>Obračunavanje za rezervirani primerek nakupa
+# <a name="billing-for-reserved-instance-purchase"></a>Obračunavanje za rezerviran nakup primerka
 
-Rezervirani primerek nakupa se zaračuna na način plačila, povezan z naročnino, ki jo izberete ob nakupu. Vrsta naročnine mora biti pogodba podjetja (številka ponudbe: MS-AZR-0017P), Pay-As-You-Go (številka ponudbe: MS-AZR-0003P), Microsoftova pogodba za stranke ali CSP.
+Rezerviran primerek nakupa se zaračuna na način plačila, povezan z naročnino, ki jo izberete ob nakupu. Vrsta naročnine mora biti pogodba za podjetja (številka ponudbe: MS-AZR-0017P), Pay-As-You-Go (številka ponudbe: MS-AZR-0003P), Microsoftova pogodba o strankah ali CSP.
 
-- Za naročnino podjetja so zaračunani stroški iz denarnih obveznosti v včlanitve ali zaračunani kot prekomerno
-- Za naročnino na storitev Pay-As-You-Go so stroški zaračunani načinu plačila s kreditno kartico ali z računom v naročnini
+- Za naročnino podjetja so stroški obračunani iz zneska za denarne obveznosti včlanitve ali obračunanega kot prezapadli.
+- Za naročnino na storitev Pay-As-You-Go so stroški zaračunani s kreditno kartico ali načinom plačila z računom v naročnini.
 
 **Preklic rezervacije**
 
-- **Samopostrežna storitev:** Rezerviran primerek lahko prekličete ali zamenjate sami s [portalom Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Izberite rezervacijo in kliknite vračilo kupnine ali zamenjavo. Če želite zamenjavo ali vračilo kupnine, morate imeti dostop lastnika v naročilu rezervacije. Dostop le do rezervacije vam ne omogoča vračila denarja ali zamenjave. Prosite lastnika naročila rezervacije, da vam lastniku da dostop do naročila rezervacije
-- **Pravilnik strežnika Exchange:** Če želite, lahko rezervacijo za drugo vrsto  rezervacije zamenjate brez rezervacij. Skupna obveznost z novo rezervacijo mora biti večja od vsote vračila kupnine iz zamenjane rezervacije in prihodnjih mesečnih obrokov (če so na voljo)
-- **Pravilnik za vračilo kupnine:** Vsota vračila in preklicana prihodnja plačila v 12-mesečnem oknu ne sme presegati 50.000 USD. Trenutno ne **bremenjumo nobene stroške za vračila** kupnine, vendar bi ga lahko zaračunali na prihodnjih vračilih
+- **Samopostrežba:** rezervirani primerek lahko prekinete ali zamenjate sami s pomočjo [portala Azure](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade). Izberite rezervacijo in kliknite povračilo ali zamenjavo. Upoštevajte, da morate imeti lastniški dostop do naročila rezervacije za zamenjavo ali vračilo kupnine. Dostop samo do rezervacije vam ne bo omogočil vračila kupnine ali zamenjave. Prosite lastnika naročila rezervacije, da vam omogoči lastniški dostop do naročila rezervacije
+- **Pravilnik o izmenjavi:** rezervacijo lahko zamenjate za drugo rezervacijo iste vrste – za zamenjavo rezervacije **ni predvidenih nobenih kazni**. Skupna obveznost z novo rezervacijo mora biti večja od vsote vračila zamenjane rezervacije in prihodnjih mesečnih plačil (če je primerno)
+- **Politika vračila:** Vsota vračila in preklicana prihodnja plačila ne smejo preseči 50.000 USD v 12-mesečnem tekočem oknu. Trenutno **ne zaračunavamo nobene kazni** za vračila, lahko pa jo zaračunamo za prihodnja vračila
 
-**Izjeme:** Samopostrežna zamenjava in preklic možnosti ni na voljo za stranke sporazuma US Government Enterprise Agreement
+**Izjeme:** Možnost samopostrežne izmenjave in preklica ni na voljo strankam ameriškega vladnega poslovnega sporazuma
 
-- **Podpora za API/PS/CLI** ni na voljo za preklic in vračila denarja Samopostrežna borza [in vračila denarja za storitve Azure Reservations](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Samopostrežna zamenjava in preklic možnosti ni na voljo za stranke sporazuma US Government Enterprise Agreement. Podprte so tudi druge vrste naročnin zda Government, vključno s pay-as-you-go in CSP.
+- Podpora za **API / PS / CLI** ni na voljo za preklic in povračila [ Samopostrežne menjave in vračila za rezervacije Azure](https://docs.microsoft.com/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Možnost samopostrežne izmenjave in preklica ni na voljo strankam ameriškega vladnega poslovnega sporazuma. Podprte so druge vrste vladnih naročnin, vključno s Pay-As-You-Go in CSP
 
-Več informacij: [Kako so obdelane transakcije vračila](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) in zamenjave Več informacij: [Pravilniki](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) za Exchange in vračilo denarja Druga vprašanja: [Obisk rezerviranih primerkov dokumentov](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Več informacij: [Kako so obdelane transakcije vračila](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#how-return-and-exchange-transactions-are-processed) in zamenjave Več informacij: Exchange in [pravilniki](https://docs.microsoft.com/azure/billing/billing-azure-reservations-self-service-exchange-and-refund?WT.mc_id=Portal-Microsoft_Azure_Support#exchange-policies) za vračilo drugih vprašanj: [Obiščite rezervirane primerke dokumentov](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Zamenjava obstoječega rezerviranega primerka (samopostrežna storitev)**
+**Zamenjajte obstoječi rezervirani primerek (samopostrežno)**
 
-Rezervacijo za drugo rezervacijo enake vrste lahko zamenjate. Če je ne potrebujete več, lahko tudi plačate rezervacijo v višini 50.000 USD na leto, če je ne potrebujete več. Samopostrežna zamenjava in preklic možnosti ni na voljo za stranke sporazuma US Government Enterprise Agreement. Podprte so tudi druge vrste naročnin zda Government, vključno s pay-as-you-go in CSP. Če želite obstoječo rezervacijo zamenjati ali vračila kupnine, morate imeti dostop lastnika v naročilu rezervacije.
+Rezervacijo lahko zamenjate za drugo rezervacijo iste vrste. Rezervacijo lahko vrnete, tudi do 50.000 USD na leto, če je ne potrebujete več. Možnost samopostrežne izmenjave in preklica ni na voljo strankam ameriškega vladnega poslovnega sporazuma. Podprte so druge vrste vladnih naročnin, vključno s Pay-As-You-Go in CSP. Morate imeti lastniški dostop do naročila rezervacije za zamenjavo ali vračilo kupnine obstoječe rezervacije.
 
-V spodnjih korakih boste našli navodila za dokončanje transakcije.
+Naslednji koraki vas bodo vodili skozi postopek za dokončanje transakcije
 
-1.Prijavite se v portal [Azure.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Izberite rezervacije, ki jih želite povrniti, in kliknite **Exchange** 2.Izberite izdelek na VM, ki ga želite kupiti, in vnesite količino. Prepričajte se, da je skupna vrednost novega nakupa večja od skupne vrednosti vračanja, določite [pravo velikost pred nakupom.](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
+1.Prijavite se v portal [Azure.](https://portal.azure.com/#blade/Microsoft_Azure_Reservations/ReservationsBrowseBlade) Izberite rezervacije, ki jih želite vračila kupnine, **in kliknite Exchange** 2.Izberite izdelek na VM, ki ga želite kupiti, in vnesite količino. Prepričajte se, da je skupna vrednost novega nakupa večja od skupne vrednosti vračanja, določite [pravo velikost pred nakupom.](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances?WT.mc_id=Portal-Microsoft_Azure_Support#determine-the-right-vm-size-before-you-buy)
 3.Preglejte in dokončajte transakcijo
 
-**Vračilo kupnine za rezervirani primerek**
+**Povračilo stroškov za rezervirani primerek**
 
-Če želite vrniti rezervacijo, pojdite v podrobnosti **rezervacije in** kliknite »Vračilo **kupnine«**
+Če želite povrniti rezervacijo, pojdite na **Podrobnosti o rezervaciji** in kliknite **Vračilo**
 
-**Povračilo za povračilo:**
+**Sorazmerno povračilo:**
 
-**Primeri promocijske in minimalne zahteve za vračilo denarja in zamenjavo** Primer rezervacije v vnaprej sesu:
+**Pro primerov najmanjših zahtev za vračilo** in zamenjavo Primer rezervacije v vnaprej sesu:
 
-- Kupite enoletno obdobje RI za 120 $ 1. januarja
-- 7. aprila želite vrniti kupnino ali je ta rezervacija zamenjana
-- Ker je rezervacija v živo 97 dni, boste dobili (1–97/365) * 120 $ nazaj. (to je 88,1 USD). O vračilih kupnine trenutno ni na voljo nobeno vračilo kupnine
-- Če si izmenjate, bi moral vaš novi nakup biti večji od 88,1 $
-- O vračilih kupnine trenutno ni na voljo
+- 1. januarja kupite enoletni RP za 120 USD
+- 7. aprila želite to rezervacijo povrniti ali zamenjati
+- Ker je rezervacija aktivna že 97 dni, boste dobili povrnjenih (1-97/365) * 120 USD. (tj. 88,1 USD). Trenutno ni nobene predvidene kazni glede povračila kupnine
+- Če opravite zamenjavo, mora biti vaš novi nakup višji od 88,1 USD
+- Trenutno ni nobene predvidene kazni glede povračila kupnine
 
-**Primer rezervacije načrta obračunavanja:**
+**Primer rezervacije načrta za obračunavanje:**
 
-- Kupite enoletno obdobje RI za 10 USD na mesec
-- 7. aprila želite vrniti kupnino ali je ta rezervacija zamenjana
-- Ker je bilo zadnje plačilo 7 dni, boste dobili (1-7/31) * 10 USD nazaj. (to je 7,74 $)
-- Bodoča preklicana plačila so 80 $. O vračilih kupnine trenutno ni na voljo nobeno vračilo kupnine
-- Ta preklic prekliče naročnino na znesek 87,74 USD, če ste omejitev vračila kupnine za 50.000 $
-- Če izmenjavo podatkov, mora biti skupna vrednost novega nakupa večja od 87,74 $.
+- Kupite enoletni RP za 10 USD mesečno
+- 7. aprila želite to rezervacijo povrniti ali zamenjati
+- Ker je bilo zadnje plačilo opravljeno pred 7 dnevi, boste dobili povrnjenih (1-7/31) * 10 USD. (tj. 7,74 USD)
+- Prihodnja preklicana plačila bodo znašala 80 USD. Trenutno ni nobene predvidene kazni glede povračila kupnine
+- Ta preklic bo od vaše omejitve vračila v višini 50.000 USD odštel 87,74 USD
+- Če opravite zamenjavo, mora biti skupna vrednost vašega novega nakupa višja od 87,74 USD
 
 **Računa za zadnje obdobje obračunavanja ni mogoče videti**
 
@@ -84,7 +84,7 @@ Nekateri možni razlogi, zakaj ne vidite računa:
 
 - Izberite naročnino na strani [»Naročnine«](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) v portalu Azure kot [uporabnik z dostopom do računov](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support)
 - Select **Invoices**
-- Kliknite **Prenesi račun,** da si ogledate kopijo računa PDF. Če piše **Ni na** voljo, glejte Zakaj ne vidim računa za zadnje obdobje [obračunavanja?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- Če si želite ogledati kopijo računa v obliki zapisa PDF, kliknite **Prenesi račun**. Če je navedeno **Ni na voljo**, si oglejte razdelek [Zakaj ne vidim računa za zadnje obdobje obračunavanja?](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice).
 
 **Prejemanje računa po e-pošti (.pdf)**
 
@@ -101,7 +101,7 @@ Opomba: Če po korakih ne dobite e-poštnega sporočila, preverite, ali je vaš 
 - Izberite **Prikaži trenutno izjavo,** da si ogledate oceno stroškov v času, ko je bila ustvarjena ocena.
 - Izberite **Prenos uporabe,** da prenesete podatke o dnevni uporabi kot datoteko CSV. Če sta na voljo dve različici, prenesite različico 2
 
-Druga vprašanja: [Obiščite rezervirane primerke dokumentov](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
+Druga vprašanja: [Obiščite dokumente o rezerviranem primerku](https://docs.microsoft.com/azure/billing/billing-save-compute-costs-reservations?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Priporočeni dokumenti**
 
@@ -111,5 +111,5 @@ Druga vprašanja: [Obiščite rezervirane primerke dokumentov](https://docs.micr
 - [Razumevanje, kako je uporabljen popust rezerviranih primerkov](https://docs.microsoft.com/azure/billing/billing-understand-vm-reservation-charges/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Razumevanje rezervirane uporabe primerka za vašo naročnino na storitev Pay-As-You-Go](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Razumevanje rezervirane uporabe primerka za včlanitev podjetja](https://docs.microsoft.com/azure/billing/billing-understand-reserved-instance-usage-ea/?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [Stroški programske opreme Windows niso vključeni v rezerviranih primerkov](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [Windows programske opreme niso vključeni v rezerviranih primerkov](https://docs.microsoft.com/azure/billing/billing-reserved-instance-windows-software-costs/?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [Rezervirani primerki v programu Partner Central Cloud Solution Provider (CSP)](https://docs.microsoft.com/partner-center/azure-reservations/?WT.mc_id=Portal-Microsoft_Azure_Support)
