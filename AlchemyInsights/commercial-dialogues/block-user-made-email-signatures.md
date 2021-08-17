@@ -1,5 +1,5 @@
 ---
-title: Blokiranje uporabniško ustvarjenih e-poštnih podpisov
+title: Blokiranje e-poštnih podpisov, ki jih je naredil uporabnik
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: dab7eacb617c8f3a8bd63634e974166b6e448d75
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: ad743cea4b8735b35b90bd5bf3d0b5b933184ed82858e828a68beb2ca2f8270c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483365"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103568"
 ---
-# <a name="block-user-made-email-signatures"></a>Blokiranje uporabniško ustvarjenih e-poštnih podpisov
+# <a name="block-user-made-email-signatures"></a>Blokiranje e-poštnih podpisov, ki jih je naredil uporabnik
 
-Ta rešitev velja le za e-poštne podpise, ki so bili ustvarjeni v Outlooku v spletu. V program Outlook lahko blokirate le podpise, če imate strežnik Exchange Server na mestu uporabe.
+Ta rešitev velja le za e-poštne podpise, ustvarjene v Outlook v spletu. Podpise lahko v aplikaciji Outlook blokirate le, če imate podpise na Exchange Server.
 
-1. V skrbniškem središču izberite Exchange **skrbniških centrov**  >  .
-2. Kliknite **dovoljenja** za  >  **pravilnike programa Outlook Web App**.
-3. Izberite pravilnik in nato kliknite ikono svinčnika, da jo uredite.
-4. Kliknite **funkcije**  >  **več možnosti**.
-5. V razdelku **Uporabniška izkušnja** počistite potrditveno polje **e-poštni podpis** in kliknite **Shrani**.
+1. V skrbniškem središču izberite **Skrbniška središča**  >  **Exchange.**
+2. Kliknite **dovoljenja za** Outlook web  >  **app.**
+3. Izberite pravilnik in kliknite ikono svinčnika, da ga uredite.
+4. Kliknite **Funkcije Več**  >  **možnosti.**
+5. V **razdelku Uporabniška** izkušnja počistite **potrditveno polje E-poštni** podpis in kliknite **Shrani.**
 
-**Pomembno:** Če je bil podpis dodan, preden počistite to potrditveno polje, ga bo uporabnik še vedno lahko uporabil. Prosite jih, naj jo odstranijo.
+**Pomembno:** Če je bil podpis dodan, preden počistite to potrditveno polje, ga bo uporabnik še vedno lahko uporabil. Prosite jo, da jo odstrani.

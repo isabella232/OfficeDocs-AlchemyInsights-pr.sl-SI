@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav z nemoteno enotno prijavo (SSO)
+title: Odpravljanje težav s nemoteno enotno prijavo
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9377"
-ms.openlocfilehash: 507dc5a3bdc5f1bc27cf12865daf98df6c702827
-ms.sourcegitcommit: f835aa80f2d85e9c0549be9395110377dba50f3d
+ms.openlocfilehash: f8617c15072f70778f7f4b151e75ffce4749f89ffa2b4d91730937c26aaeabbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50695342"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074300"
 ---
-# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Odpravljanje težav z nemoteno enotno prijavo (SSO)
+# <a name="troubleshoot-seamless-single-sign-on-sso-browser-issues"></a>Odpravljanje težav s nemoteno enotno prijavo
 
-Večina uporabnikov lahko odpravi nemoteno težavo z brskalnikom SSO s spodnjimi koraki:
+Večina uporabnikov lahko odpravi težave nemotenega brskalnika SSO po spodnjih korakih:
 
-1. Prepričajte se, da je vaš brskalnik posodobljen.
-2. Izbrišite piškotke iz brskalnika, da odstranite neveljavno sejo SSO in se poskusite znova prijaviti.
-3. Poskusite se prijaviti z drugim brskalnikom.
+1. Preverite, ali je vaš brskalnik posodobljen.
+2. Izbrišite piškotke iz brskalnika, da odstranite neveljavno sejo SSO, in se poskusite znova včlavati.
+3. Poskusite se včlanjeti v drug brskalnik.
 
-**Znane težave brskalnika**
+**Znane težave z brskalnikom**
 
-- Brezšivne SSO ne deluje v zasebnem načinu brskanja v Firefoxu.
-- Brezšivna funkcija SSO ne deluje v Internet Explorerju, ko je izboljšan zaščiten način vklopljen.
-- Brezšivne SSO ne deluje v zasebnem načinu brskanja na spletnem mestu Microsoft Edge (Legacy).
-- Brezšivne SSO ne deluje v mobilnih brskalnikih v sistemu iOS in Androidu.
+- Nemotena SSO ne deluje v načinu zasebnega brskanja v brskalniku Firefox.
+- Nemotena SSO ne deluje v Internet Explorerju, če je vklopljen izboljšani zaščiteni način.
+- Nemotena SSO ne deluje v načinu zasebnega brskanja v Microsoft Edge (podedovano).
+- Nemotena SSO ne deluje v mobilnih brskalnikih v sistemih iOS in Android.
 
-Brezšivne SSO podpira naslednjo različico Microsoft Edge, ki temelji na kromu in deluje v načinu InPrivate in gostujočih načrtih.
+Nemotena podpora za SSO podpira naslednjo različico Microsoft Edge na osnovi Chromium in deluje v načinu InPrivate in načinu za goste glede na načrt.
 
-**Svetovalni**
+**Svetovanje**
 
-Če želite ustvariti zahteve za funkcijo ali vprašati tehnična vprašanja o brezšivnih SSO, glejte [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)
+Če želite odgovoriti na zahteve za funkcije ali postaviti tehnična vprašanja o nemoteni&[za SSO, glejte](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html)

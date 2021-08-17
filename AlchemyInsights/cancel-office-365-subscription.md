@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - commerce_subscriptions
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: eb6bec37afc8702ec76dec5868c68f26e7c8b2633214a5c3f9776d7bb555bf64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ca9dd54a7ba8007da5f78b7c4fd8b2e0cfff6d5f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071492"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303845"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Želite preklicati Microsoft 365 naročnino?
 
@@ -30,7 +30,6 @@ ms.locfileid: "54071492"
 
 **Vračilo kupnine: vse dobropise v okviru obračuna vam bomo vrnili v naslednjem obračunskem obdobju.**
 
-> [!NOTE]
-> Če možnost za preklic ni na voljo, izberite naročnino, da si ogledate stran s podrobnostmi. V razdelku **z nastavitvami naročnine in** plačila izberite **Prekliči naročnino.**
+**Opomba:** Če možnost za preklic ni na voljo, izberite naročnino, da si ogledate stran s podrobnostmi. V razdelku **z nastavitvami naročnine in** plačila izberite **Prekliči naročnino.**
 
-Če želite več informacij, glejte [Preklic naročnine.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Če želite več informacij, glejte [Preklic naročnine.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
