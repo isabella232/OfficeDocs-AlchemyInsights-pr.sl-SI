@@ -12,16 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 100ce1685d95dc5e38a6b03b2ef2cf8c1c7a092157f4d30866b3dd36375ae2f0
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54045148"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58311415"
 ---
 # <a name="view-all-quarantined-messages"></a>Ogled vseh sporočil v karanteni
 
-1. V skrbniškem središču odprite središče za [varnost in & s predpisi.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-2. Odprite **karanteno za pregled**  >  **upravljanja**  >  **groženj.**
+1. V portalu Microsoft 365 Defender vpišite v karanteno za <https://security.microsoft.com> **preverjanje &-pošto** \>  \> **in sodelovanje.**
+
+   Če se želite neposredno posneti **na stran** Karantena, uporabite <https://security.microsoft.com/quarantine> .
+
+2. Na strani **Karantena** preverite, ali je izbran **zavihek** e-pošta.
 3. Privzeto so sporočila razvrščena od najnovejšega do najstarejšega glede na datum, ko je bilo sporočilo prejeto. Po polju lahko razvrščate tako, da kliknete glavo.
 4. Uporabite lahko le množične operacije za največ 100 elementov, tako da lahko s filtriranjem tudi zmanjšate nabor rezultatov, če imate več kot 100 elementov.
+
+Več informacij je na voljo v teh člankih:
+
+- [Iskanje in izdaja sporočil v karanteni kot uporabnik](https://docs.microsoft.com/microsoft-365/security/office-365-security/find-and-release-quarantined-messages-as-a-user)
+- [Upravljanje sporočil in datotek v karanteni kot skrbnik](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files)

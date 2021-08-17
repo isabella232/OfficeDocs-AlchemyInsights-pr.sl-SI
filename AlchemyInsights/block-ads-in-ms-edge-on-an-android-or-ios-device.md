@@ -1,5 +1,5 @@
 ---
-title: Blokiranje oglasov v brskalniku Microsoft Edge v napravi Adroid ali iOS
+title: Blokiranje oglasov v Microsoft Edge v napravi s sistemom Adroid ali iOS
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003856"
 - "6906"
-ms.openlocfilehash: 8ad1e8dd59712de0be46c90bee24b0e8d290906f
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 513ef21d7629ac0598e5446f61edf0b26d69ca389735638df54f32dffbe3059b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573801"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059936"
 ---
-# <a name="block-ads-in-microsoft-edge-on-an-adroid-or-ios-device"></a>Blokiranje oglasov v brskalniku Microsoft Edge v napravi Adroid ali iOS
+# <a name="block-ads-in-microsoft-edge-on-an-adroid-or-ios-device"></a>Blokiranje oglasov v Microsoft Edge v napravi s sistemom Adroid ali iOS
 
-Če želite blokirati vse oglase, razen tistih, za katere velja, da so sprejemljivi za AdBlock plus:
-1. Izberite **...** > **Nastavitve**  >  **Blokiranje vsebine**.
-2. Vklopite blokiranje oglasov.
+Za blokiranje vseh oglasov, razen tistih, ki so bili ocenjeni kot sprejemljivi s strani razširitve AdBlock Plus:
+1. Izberite **...** > **Nastavitve**  >  **Preprečevalnik vsebin**.
+2. Vklopite Blokiraj oglase.
 
-Če želite blokirati vse oglase:
-1. Izberite **...** > **Nastavitve**  >  **Blokiranje vsebine**.
-2. Vklopite blokiranje oglasov.
+Blokiranje vseh oglasov:
+1. Izberite **...** > **Nastavitve**  >  **Preprečevalnik vsebin**.
+2. Vklopite Blokiraj oglase.
 3. Izberite **Dodatne nastavitve**.
-4. Izklopite dovoli sprejemljive oglase.
+4. Izklopite Dovoli sprejemljive oglase.

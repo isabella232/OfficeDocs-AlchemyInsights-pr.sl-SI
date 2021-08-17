@@ -1,5 +1,5 @@
 ---
-title: Popravi pravilnik najemnika (preglasitev dejanja)
+title: Popravljanje pravilnika najemnika (preglasitev dejanja)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,20 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bc7ad8acd86c9d5b2f99ffdc6fe8a8b53e1fcb8b
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748988"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896091"
 ---
-# <a name="fix-tenant-policy-action-override"></a>Popravi pravilnik najemnika (preglasitev dejanja)
+# <a name="fix-tenant-policy-action-override"></a>Popravljanje pravilnika najemnika (preglasitev dejanja)
 
-To sporočilo je vplivalo na pravilnik proti neželene pošte v najemniku. Če želite pregledati pravilnik, naredite to:
+Na to sporočilo je vplival eden od pravilnikov za preprečevanje neželene pošte. Če želite pregledati pravilnike, naredite to:
 
-1. Obiščite središče za [skladnost s predpisi sistema Office & 365](https://go.microsoft.com/fwlink/p/?linkid=2077143)in nato pojdite na pravilnik za **upravljanje groženj** za  >    >  [preprečevanje neželene pošte](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Preverite, ali je v **viru pravilnika** prikazano to:  **Add-Xheader/ModifySubject/preusmeritev/brisanje/brez dejanja/SKP**
+1. V portalu Microsoft 365 Defender v razdelku Pravilniki pojdite na Pravilniki za <https://security.microsoft.com/> **sodelovanje z e-&** in & pravilniki o \>  \>  \>  grožnjah za **neželeno** pošto.
 
-    Če je tako, na zavihku **po meri** preverite nastavitve pravilnika, ki je prizadelo sporočilo. Možno je, da so **standardne nastavitve** , uporabljene za vse uporabnike storitve Exchange Online, vplivale na sporočilo.
+   Če se želite neposredno po vrniti na **stran Pravilniki za preprečevanje neželene** pošte, uporabite <https://security.microsoft.com/antispam> .
 
-Če želite več informacij o konfiguriranju pravilnikov za filtriranje neželene pošte, glejte [Konfiguracija pravilnikov za filtriranje neželene](https://go.microsoft.com/fwlink/?linkid=2101431)pošte.
+2. Na strani **Pravilniki** za preprečevanje neželene pošte izberite pravilnik tako, da  kliknete ime pravilnika **(** Vrsta je Pravilnik o neželeni pošti po meri ali Ime je Dohodni pravilnik za neželeno pošto **(privzeto)**). 
+3. V prikazanem oknu s podrobnostmi izberite **Uredi dejanja** v **razdelku** Dejanja.
+4. V razdelku Dejanja **sporočila** preglejte narekovanje za neželeno pošto  **,** neželeno pošto z visoko stopnjo zanesljivosti **,** lažno predstavljanje in lažno predstavljanje z visoko stopnjo zanesljivosti, da vidite, ali so izbrane te vrednosti: 
+   - **Dodajanje glave X**
+   - **Prepiša vrstico z zadevo z besedilom**
+   - **Preusmeri sporočilo na e-poštni naslov**
+   - **Izbriši sporočilo**
+   - **Brez dejanja**
+
+   Mogoče je, da so standardne **nastavitve, uporabljene** za vse Exchange Online Protection to sporočilo vplivale.
+
+Če želite več informacij, glejte [Konfiguracija pravilnikov za preprečevanje neželene pošte v EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

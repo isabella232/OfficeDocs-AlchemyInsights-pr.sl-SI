@@ -13,26 +13,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 8d656d5660b7c6e6d32d32a06c3dbf49c45e4ca04c4422128f1c4ea62413afa1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ef4cbb0b778b22fba83d22d5056449c2281c5a2947ecb41ce8f808a4d1132426
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967349"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896031"
 ---
 # <a name="read-the-audit-logs-for-deleted-events"></a>Branje dnevnikov nadzora za izbrisane dogodke
 
 To naredite tako:
 
-1. Obiščite središče [za Office 365 za & s predpisi.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. Izberite **Iskanje v**  >  [**dnevniku nadzora.**](https://go.microsoft.com/fwlink/?linkid=2103759)
+1. Naredite nekaj od tega:
+   - V Središče za skladnost okolja Microsoft 365 pojdite <https://compliance.microsoft.com> na Nadzor  \> **rešitev.** Če pa se želite neposredno po vrniti na **stran Nadzor,** uporabite <https://compliance.microsoft.com/auditlogsearch> .
+   - V portalu Microsoft 365 Defender na <https://security.microsoft.com> spletnem mestu , pojdite na **Nadzor**. Če pa se želite neposredno po vrniti na **stran Nadzor,** uporabite <https://security.microsoft.com/auditlogsearch> .
+
     > [!NOTE]
     > Če opazite obvestilo, da morate funkcijo vklopiti, jo vklopite zdaj. Če funkcija ni vklopljena, rezultati iskanja ne bodo mogli vleči podatkov iz prejšnjih datumov.
-1. Izberite **Dejavnosti**, nato pa poiščite **Exchange nabiralnika.** Izberite možnosti **Izbrisana sporočila iz mape »Izbrisano«** in **Premaknjena sporočila v** mapo »Izbrisano«. Ko končali, kliknite zunaj podokna, da minimizirate **podokno** Dejavnosti.
-1. Določite datumski obseg in nato v polju **Uporabniki** izberite uporabniško ime uporabnika, ki ga želite raziskati. Izberete lahko več uporabnikov hkrati.
-1. Izberite **Iskanje**. Dejavnosti so prikazane v razdelku **Rezultati.**
-1. Če si želite ogledati podrobnosti, izberite dejavnost, nato pa **izberite Več informacij.** Dodatne informacije o izbrisanem elementu, na primer vrstica z zadevo in mesto elementa, ko je bil izbrisan, so prikazane v polju **AffectedItems.**
-    > [!NOTE]
-    > Izbrisanih elementov ne morete obnoviti s funkcijo dnevnika nadzora. Če želite obnoviti izbrisane elemente, glejte [Obnovitev izbrisanih elementov ali e-pošte Outlook programu Web App.](https://go.microsoft.com/fwlink/?linkid=2103759)
 
-Če želite izvedeti več, [glejte Iskanje v Office 365 nadzora in odpravite pogoste scenarije.](https://go.microsoft.com/fwlink/?linkid=2103944)
+2. Na **zavihku** Iskanje na **strani** Nadzor konfigurirajte te nastavitve:
+   - **Datumski** in časovni obseg: Izberite datumski/časovni obseg v **poljih** **Začetek** in Konec.
+   - **Dejavnosti:** vnesite **Exchange nabiralnika** in nato izberite te vrednosti:
+     - **Izbrisana sporočila iz mape »Izbrisano«**
+     - **Premaknjena sporočila v mapo »Izbrisano«**
+
+       Ko končali, kliknite zunaj podokna, da minimizirate **podokno** Dejavnosti.
+
+   - **Uporabniki:** Sprejmite prazno privzeto vrednost, če želite vrniti rezultate za vse uporabnike, ali pa vnesite enega ali več uporabnikov.
+
+3. Ko končate, kliknite **Iskanje.** Dejavnosti so prikazane na novi **strani Nadzora** iskanja.
+
+4. V rezultatih izberite dejavnost, da odprete letak s podrobnostmi. Dodatne informacije o izbrisanem elementu, na primer vrstica z zadevo in mesto elementa, ko je bil izbrisan, so prikazane v polju **AffectedItems.**
+
+   > [!NOTE]
+   > Izbrisanih elementov ne morete obnoviti s funkcijo dnevnika nadzora. Če želite obnoviti izbrisane elemente, glejte [Obnovitev izbrisanih e-poštnih sporočil Outlook v spletu](https://support.microsoft.com/office/recover-deleted-email-messages-in-outlook-on-the-web-a8ca78ac-4721-4066-95dd-571842e9fb11).
+
+Če želite več informacij, glejte [Iskanje po dnevniku nadzora in preiskovanje pogostih težav s podporo.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
