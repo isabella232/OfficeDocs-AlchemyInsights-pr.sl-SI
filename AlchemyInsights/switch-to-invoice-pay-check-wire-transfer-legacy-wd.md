@@ -1,5 +1,5 @@
 ---
-title: Zamenjava za plačilo po računu (ček/žični prenos)
+title: Preklop na plačilo na podlagi računa (ček/žično nakazilo)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: ebdb65c76837b4a31c8f6cff89223481dec1ef804275608cfd60986a4f089204
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755419"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049549"
 ---
-# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Zamenjava za plačilo po računu (ček/žični prenos)
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>Preklop na plačilo na podlagi računa (ček/žično nakazilo)
 
-Na podlagi opisa vprašanja smo našli rešitev za vas. Večina kupcev je lahko svojo težavo razrešila sami po tem, ko je sledila naši dokumentaciji.
+Glede na opis vaše težave smo našli rešitev za vas. Večina strank je svojo težavo lahko sama razrešila po tem, kar smo dokumentacijo že odpravili.
 
-Če preklopite na plačilo po računu, to pomeni, da boste plačali račun v 30 dneh od datuma računa. Če želite, da je vaša naročnina na Azure upravičena do plačila, pošljite zahtevo za podporo za Azure. Ko je vaša zahteva odobrena, lahko naročnino zamenjate s plačilom računa v [portalu Azure](https://portal.azure.com/).
+Če preklopite na plačilo prek računa, to pomeni, da boste račun plačali v 30 dneh od datuma računa. Če želite upravičenih do plačila naročnine na Azure prek računa, pošljite zahtevo podpori za Azure. Ko je zahteva odobrena, lahko preklopite naročnino na plačilo z računom na [portalu Azure](https://portal.azure.com/).
 
-**Preden nadaljujete, preglejte te zahteve/omejitve na zahtevo plačila računa:**
+**Preden nadaljujete, preglejte te zahteve/omejitve glede zahteve za način plačila z računom:**
 
-- Prijavite se v [portal Azure](https://portal.azure.com/) in se pomaknite do načinov plačila. Preverite, ali ste že vnaprej odobreni za plačilo računa.
-- Plačilo računa je na voljo le za poslovne račune, ne pa za osebne račune.
-- Preden preklopite na račun plačate, morate plačati vse neporavnane stroške.
-- Skupina za podporo bo pregledala račun, da ugotovi, ali je upravičena do načina plačila računov.
-- Način računa plačila ni podprt za storitve Marketplace 3rd Party; Če želite zamenjati trenutno naročnino na račun, ki vsebuje storitve tržnice ali tretje osebe, morajo biti te storitve izbrisane, preden preklopite. Za prihodnje storitve tržnice najprej kupite ločeno naročnino na kreditni kartici in nato kupite ali uvedete storitve tretje osebe na trgu.
-- Ko preklopite na plačilo računa, ne morete preklopiti na plačilo kreditne ali debetne kartice.
+- Prijavite se v [portal Azure](https://portal.azure.com/) in poiščite načine plačila. Preverite, ali ste že predhodno odobreni za plačilo prek računa.
+- Plačilo računov je na voljo le za poslovne račune, ne pa za osebne račune.
+- Pred preklopom na plačilo z računom morate plačati vse neporavnane stroške.
+- Skupina za podporo bo pregledala račun in ugotovili, ali je upravičen do načina plačila z računom.
+- Način plačila z računom ni podprt za storitve tretjih oseb na tržnici; če nameravate trenutno naročnino zamenjati z računom, ki vsebuje tržnico ali storitve tretjih oseb, je treba te storitve pred zamenjavo izbrisati. Za prihodnje storitve tržnice najprej kupite ločeno naročnino na kreditno kartico in nato kupite ali uvedete storitve tržnice drugih ponudnikov.
+- Ko preklopite na plačilo prek računa, ne morete več preklopiti na plačilo s kreditno ali debetno kartico.
 
-*Ko ste pooblaščeni, da plačate po računu*, lahko naročnino na račun v storitvi Azure zamenjate s čekom ali nakazilom v  [portalu Azure](https://portal.azure.com/).
+*Ko ste odobreni za plačilo* prek računa, lahko preklopite svojo naročnino na Azure na plačilo prek računa prek čekov ali z elektronskim nakazilom na  [portalu Azure.](https://portal.azure.com/)
 To naredite tako:
 
-1. Vpišite se v [portal Azure](https://portal.azure.com/)   kot skrbnik računa. Poiščite in izberite **stroški Management + obračunavanje**.
-2. Izberite naročnino, ki jo želite preklopiti na plačilo računa. Izberite **Načini plačila**.
-3. V ukazni vrstici kliknite gumb **plačaj po računu** .
+1. Vpišite se v [portal Azure](https://portal.azure.com/)kot   skrbnik računa. Poiščite in izberite **Upravljanje stroškov + obračunavanje**.
+2. Izberite naročnino, ki jo želite zamenjati s plačilom z računom. Izberite **Načini plačila.**
+3. V ukazni vrstici kliknite gumb **Plačaj po** računu.
 
 **Priporočeni dokumenti**
 
-- [Zahteva/prenos/ogled računa Azure obračunavanje in uporaba podatkov](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Kako lahko e-poštne račune v storitvi» Prejeto «neposredno pošljete](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
-- [Plačilo po računu](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
+- [Zahtevanje/prenos/ogled računa za obračun za Azure in podatkov o uporabi](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Pošiljanje računov iz storitve Azure neposredno v mapo »Prejeto«](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date)
+- [Plačilo na podlagi računa](https://docs.microsoft.com/azure/billing/billing-how-to-pay-by-invoice)
 - [Razumevanje podrobnih stroškov uporabe](https://docs.microsoft.com/azure/billing/billing-understand-your-bill)
-- [Razumete izraze na računu](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
+- [Razumevanje pogojev na računu](https://docs.microsoft.com/azure/billing/billing-understand-your-invoice)
 - [Prenos lastništva](https://docs.microsoft.com/azure/billing/billing-subscription-transfer)

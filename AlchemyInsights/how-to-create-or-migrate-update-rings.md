@@ -1,5 +1,5 @@
 ---
-title: Ustvarjanje ali selitev posodobitev zvonjenja
+title: Kako ustvariti ali preseliti kroge posodobitev
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "6718"
 - "9003773"
-ms.openlocfilehash: 0d43e2d5a87e4b941fcc91671b41ea0aabc5bffe
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: 08e1163adf8624e79a430cb84938ed4ba5baa82e42bd9612bde8ad18efd0b3cb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461989"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078818"
 ---
-# <a name="how-to-create-or-migrate-update-rings"></a>Ustvarjanje ali selitev posodobitev zvonjenja
+# <a name="how-to-create-or-migrate-update-rings"></a>Kako ustvariti ali preseliti kroge posodobitev
 
-Upoštevajte spodnja navodila, če ste konfigurirali nastavitve posodobitve sistema Windows 10 v programu InTune Classic portal in jih želeli preseliti v InTune v portalu Azure:
+Upoštevajte spodnja navodila, če ste konfigurirali Windows 10 posodobitev v klasičnem portalu storitve Intune in jih želite preseliti v Intune na portalu Azure:
 
-1. Pojdite na portal Azure in kliknite **vse storitve**.
-2. V polje **filter** vnesite **InTune**. V rezultatih kliknite **Microsoft InTune**.
-3. Kliknite **posodobitve programske opreme**s  >  **sistemom Windows 10 Update obročki**  >  **Create**.
+1. Pojdite na portal Azure in kliknite **Vse storitve.**
+2. V **polje Filter** vnesite **Intune**. Med rezultati kliknite **Microsoft Intune.**
+3. Kliknite **Posodobitve programske opreme** Windows 10 Ustvari  >  **kroge**  >  **posodobitev.**
 4. Vnesite ime, opis in kliknite **Konfiguriraj**.
-5. Konfigurirajte nastavitve posodobitve programske opreme organizacije.
-6. Izberite **v redu**.
-7. Če želite **ustvariti prstan posodobitev**, izberite **Ustvari**.
+5. Konfigurirajte nastavitve za posodobitev programske opreme organizacije.
+6. Izberite **V redu**.
+7. V **možnosti Ustvari zvonjenje posodobitve** izberite **Ustvari**.

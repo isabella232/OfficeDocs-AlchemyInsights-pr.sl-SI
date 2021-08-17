@@ -1,5 +1,5 @@
 ---
-title: Predlogi za odpravljanje težav v programu OneNote 2016 manjkajo
+title: Manjkajoči predlogi za OneNote 2016 težav
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2429"
 - "9000575"
-ms.openlocfilehash: c900a64ab51ee97dd3e725a5aca172378d0cf4b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8532cbe37a5d45276b6b716ddac7c3a4f9b830b6089a3f08477150e449a0c92f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51833415"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049513"
 ---
-# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Predlogi za odpravljanje težav v programu OneNote 2016 manjkajo
+# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>Manjkajoči predlogi za OneNote 2016 težav
 
-Od marca 2020 naprej, ko namestite Office 365 ali Office 2019, bo namizni program OneNote nameščen hkrati z namiznimi aplikacijami Word, PowerPoint in Excel.
+Od marca 2020 naprej, ko namestite Office 365 ali Office 2019, bo namizna aplikacija OneNote nameščena ob programih Word, PowerPoint in Excel za namizne računalnike.
 
-Po namestitvi sistema Microsoft Office 2019 ali storitve Office 365 v računalnik s sistemom Windows 10, na seznamu nameščenih namiznih programov manjka OneNote 2016.
+Po namestitvi sistema Microsoft Office 2019 ali Office 365 v računalnik, v katerem se izvaja katera koli izdaja sistema Windows 10, je videti, OneNote 2016 na seznamu nameščenih namiznih programov.
 
-Če [želite več informacij](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) o tem, kako prenesete 32- ali 64-bitno izdajo programa OneNote 2016 za Windows, upoštevajte ta navodila.
+Če [želite več](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) informacij o tem, kako prenesete 32- ali 64-bitno različico izdaje 64-bitne različice OneNote 2016 za Windows.
