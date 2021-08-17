@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "9837"
-ms.openlocfilehash: f5c1a77e415d4bbaa5718a6668af95934db7e5ae
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 99e4f7e676610103355736ce847930c6c5d2d7532c4756ac4551a8d9b3020176
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51405512"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116744"
 ---
 # <a name="get-a-list-of-enterprise-applications"></a>Pridobite seznam programov za podjetja
 
@@ -52,9 +52,9 @@ ms.locfileid: "51405512"
 
 7. **Izvoz seznama neuporabljenih aplikacij Azure** – poročilo o nadzoru
 
-    Azure AD lahko dnevnike aplikacij prikaže le do 30 dni, če imate licenco za Azure AD Premium.
+    Azure AD lahko dnevnike aplikacij prikaže le do 30 dni, če imate licenco za imenik Azure AD Premium licence.
     Podatke lahko hranite dlje kot 30 dni na dva dni. Z [API-ji za poročanje Azure AD](https://docs.microsoft.com/azure/active-directory/reports-monitoring/concept-reporting-api) lahko programsko pridobite podatke in jih shranite v zbirko podatkov. Lahko pa tudi integrigrite dnevnike nadzora v sistem SIEM drugega strani.
 
     Prav tako lahko prenesete seznam aplikacij za vse aplikacije in aplikacije v lasti v razdelku Azure Active Directory>Registracije aplikacij>Download>All applications/Owned applications.
 
-    Če želite dobiti seznam aplikacij s storitvijo MS Graph, glejte Aplikacije seznama [– Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) in vrsta vira aplikacije [– Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/resources/application).
+    Če želite dobiti seznam aplikacij s programom MS Graph, glejte Aplikacije seznama [– Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/application-list) in vrsta vira aplikacije [– Microsoft Graph v1.0](https://docs.microsoft.com/graph/api/resources/application).

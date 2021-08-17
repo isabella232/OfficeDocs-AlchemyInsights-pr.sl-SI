@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: a154856693a8a87ccf9f832d33ee46df7414af23f03aa043b38e6a6c64d5ebaa
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a356b9907bb1b76ea753aac29eb176005bb45e22d8e1279dffd09af2cda9642b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53972291"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899260"
 ---
 # <a name="unlocking-an-account"></a>Odklepanje računa
 
@@ -25,7 +25,7 @@ Lahko se zgodi, da se je Microsoft 365 za uporabnike zaklenil zaradi prevelikega
 
 **E-poštni naslov je omejen**
 
-Kot skrbnik, če je eden od vaših uporabnikov omejen zaradi pošiljanja e-pošte, lahko [sami odblokirate račun](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Uporabnik bo lahko pošiljal e-poštna sporočila v eni uri po odstranitvi omejitve.
+Kot skrbnik, če je eden od vaših uporabnikov omejen zaradi pošiljanja e-pošte, lahko [sami odblokirate račun](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). Uporabnik bo lahko pošiljal e-poštna sporočila v eni uri po odstranitvi omejitve.
 
 **Ponastavite uporabniško geslo**
 
@@ -39,6 +39,6 @@ Kot skrbnik, če je eden od vaših uporabnikov omejen zaradi pošiljanja e-pošt
 
 2. Izberite uporabnika in kliknite tri pike (več dejanj), nato pa kliknite **Urejanje stanja vpisa.**
 
-Če si želite ogledati več primerov ponastavitve gesel, vključno s samopostrežno ponastavitvijo gesla, glejte [Ponastavljanje gesel za Microsoft 365 Business  za večkratno poskusno bremenitev spletnih plačilnih instrumentov za poslovna gesla](/microsoft-365/admin/add-users/reset-passwords).
+Če si želite ogledati več primerov ponastavitve gesel, vključno s samopostrežno ponastavitvijo gesla, glejte [Ponastavljanje gesel za Microsoft 365 Business  za večkratno poskusno bremenitev spletnih plačilnih instrumentov za poslovna gesla](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords).
 
-Storitev preprečuje uporabniku, da pošlje e-pošto po tem, ko zazna dokaze o ogroženem računu in/ali odhodni neželeni pošti. Upoštevajte navodila v članku [Odgovarjanje na ogrožen e-poštni račun v storitvi Microsoft 365](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) za uporabnika.
+Storitev preprečuje uporabniku, da pošlje e-pošto po tem, ko zazna dokaze o ogroženem računu in/ali odhodni neželeni pošti. Upoštevajte navodila v članku [Odgovarjanje na ogrožen e-poštni račun v storitvi Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) za uporabnika.

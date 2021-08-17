@@ -14,26 +14,26 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 53c0b7aad5012afb2e923e6b52cb9ec4852f2e27d67dcbbf0845616a0a8e64ad
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 07db1df6bf3caec12b39ba7cdb012e02a389d9dd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503092"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58310947"
 ---
 # <a name="payment-faq"></a>Pogosta vprašanja o plačilu
 
 Upravljajte plačila v **Skrbniško središče za Microsoft 365**.
 
-- Pojdite na **Obračunavanje > [vaši izdelki, da](https://go.microsoft.com/fwlink/p/?linkid=842054)** dodelite ali spremenite načine plačila naročnine.
-- Pojdite na **Obračunavanje > [načine plačila, da](https://go.microsoft.com/fwlink/p/?linkid=2018806)** dodate, posodobite, zamenjate ali izbrišete načine plačila.
+- Če želite **dodeliti ali > [plačila naročnine,](https://go.microsoft.com/fwlink/p/?linkid=842054)** odprite Obračunavanje za vaše izdelke.
+- Pojdite na **Obračunavanje > [načine plačila, če](https://go.microsoft.com/fwlink/p/?linkid=2018806)** želite dodati, posodobiti, zamenjati ali izbrisati načine plačila.
 
-- **Načini plačila** – če plačujete s kreditno kartico ali prek bančnega računa, je način plačila, ki je povezan z naročnino, obračunan v nekaj dneh po tem, ko je račun ustvarjen. Če plačilo ni uspešno, posodobite način plačila. Za več informacij glejte [Upravljanje načinov plačila](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+- **Načini plačila** – če plačujete s kreditno kartico ali prek bančnega računa, je način plačila, ki je povezan z naročnino, obračunan v nekaj dneh po tem, ko je račun ustvarjen. Če plačilo ni uspešno, posodobite način plačila. Za več informacij glejte [Upravljanje načinov plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-- **Obvestila o poteku** – plačilo je mogoče zaradi več razlogov zavrnjeno, vključno s tem, kdaj je kreditna kartica potekla. Če želite spremeniti podatke o kreditni kartici in takoj znova poslati plačilo, lahko uporabite funkcijo **poravnava stanja** kadar koli. Če želite več informacij, [glejte Kaj pa, če imam neporavnani znesek?](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- **Obvestila o poteku** – plačilo je mogoče zaradi več razlogov zavrnjeno, vključno s tem, kdaj je kreditna kartica potekla. Če želite spremeniti podatke o kreditni kartici in takoj znova poslati plačilo, lahko uporabite funkcijo **poravnava stanja** kadar koli. Če želite več informacij, [glejte Kaj pa, če imam neporavnani znesek?](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
 
-    **Pomembno**: ko posodobite način plačila, bo morda še vedno prišlo do zapadlih obvestil, če niste povezali načina plačila z naročnino na. Način plačila lahko spremenite za eno ali več naročnin. Za več informacij glejte [Upravljanje načinov plačila](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+    **Pomembno**: ko posodobite način plačila, bo morda še vedno prišlo do zapadlih obvestil, če niste povezali načina plačila z naročnino na. Način plačila lahko spremenite za eno ali več naročnin. Za več informacij glejte [Upravljanje načinov plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-- **Plačilo in pogostost obračunavanja** – računi so ustvarjeni mesečno ali letno, odvisno od pogostnosti obračunavanja, ki je bila izbrana na prevzemu. To lahko kadar koli spremenite. Če želite več informacij, glejte [spremenite pogostost obračunavanja](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+- **Plačilo in pogostost obračunavanja** – računi so ustvarjeni mesečno ali letno, odvisno od pogostnosti obračunavanja, ki je bila izbrana na prevzemu. To lahko kadar koli spremenite. Če želite več informacij, glejte [spremenite pogostost obračunavanja](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 
-Celoten vodnik za plačevanje naročnine je v tem, kako [plačate naročnino.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Celoten vodnik za plačevanje naročnine je v tem, kako [plačate naročnino.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

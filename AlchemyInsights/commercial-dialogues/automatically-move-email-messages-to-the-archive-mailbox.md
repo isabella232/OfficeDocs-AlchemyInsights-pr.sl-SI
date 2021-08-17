@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: 14ded561ee2b3c244fadbdab42fd0e833a1c66d5
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 57dbfd116bbae227f2288ce23edeaaa833fadf54ca3b10b95c49512758542e32
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749289"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059242"
 ---
 # <a name="automatically-move-email-messages-to-the-archive-mailbox"></a>Samodejno premikanje e-poštnih sporočil v nabiralnik arhiva
 
-Navodila za nastavitev pravilnika za samodejno premikanje stare e-pošte uporabnikov v arhivski nabiralnik:
+Pravilnik nastavite tako, da samodejno premakne uporabnikovo staro e-pošto v nabiralnik arhiva:
 
-1. Če želite [](https://go.microsoft.com/fwlink/p/?linkid=2077143)preveriti, ali je  >    >  bil za uporabnika omogočen arhivski nabiralnik, se po&te v **arhivu** za upravljanje podatkov o skladnosti. Če ni, kliknite **Omogoči** nato **da** v polju z opozorilom.
-2. Pojdite v [**skrbniško središče za Exchange > upravljanje ustreznosti > oznak za hranjenje**](https://go.microsoft.com/fwlink/?linkid=2059104).
-3. Izberite ikono +, nato pa izberite **samodejno uporabi za celoten nabiralnik**.
-4. Dodelite ime oznaki za hranjenje in izberite **Premakni v Arhiv**. Za obdobje hranjenja vnesite želeni čas, na primer 90 dni. Kliknite **Shrani**.
-5. Zdaj ustvarite pravilnik o hranjenju: izberite **Pravilniki o hranjenju**, izberite ikono za dodajanje novega pravilnika.
-6. Dodelite ime pravilniku o hranjenju, nato pa kliknite in se pomaknite, da poiščete in dodate oznako hranjenja, ki ste jo pravkar ustvarili. Kliknite **Shrani**.
-7. Na koncu uporabite pravilnik o hranjenju v nabiralniku uporabnika: še vedno v skrbniškem središču za Exchange odprite   >  **nabiralnike** prejemnikov. Izberite vse uporabnike, za katere želite uporabiti pravilnik, nato pa izberite **Uredi** (ikona svinčnika).
-8. V pogovornem oknu kliknite **funkcije nabiralnika**. V razdelku **pravilnik o hranjenju** uporabite pravilnik, ki ste ga pravkar ustvarili > **Shrani**.
-9. Če želite navodila za uporabo pravilnika za vse uporabnike, glejte [Uporaba pravilnika o hranjenju za nabiralnike](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy).
+1. Če želite [**preveriti, ali je nabiralnik arhiva**](https://go.microsoft.com/fwlink/p/?linkid=2077143)omogočen za uporabnika, odprite arhiv za upravljanje varnosti in & za  >    >   skladnost s predpisi. Če ni, v polju z **opozorilom** **kliknite** Omogoči in nato Da.
+2. Obiščite [**skrbniško Exchange in > za skladnost > oznake za hranjenje.**](https://go.microsoft.com/fwlink/?linkid=2059104)
+3. Izberite ikono + in nato izberite samodejno **uporabi za celoten nabiralnik.**
+4. Oznaki za hranjenje dodelite ime in izberite **Premakni v arhiv.** Za obdobje hranjenja vnesite čas, ki ga želite, na primer 90 dni. Kliknite **Shrani**.
+5. Zdaj ustvarite pravilnik o hranjenju: izberite **pravilniki o** hranjenju , izberite ikono, da dodate nov pravilnik.
+6. Pravilniku o hranjenju dodelite ime, nato pa kliknite in se pomaknite, da najdete in dodate oznako za hranjenje, ki ste jo pravkar ustvarili. Kliknite **Shrani**.
+7. Nato uporabite pravilnik o hranjenju za nabiralnik uporabnika: še vedno v skrbniškem središču za Exchange pojdite v   >  **nabiralnike prejemnikov.** Izberite vse uporabnike, za katerega želite uporabiti pravilnik, nato pa izberite **Uredi** (ikona svinčnika).
+8. V pogovornem oknu kliknite Funkcije **nabiralnika.** V **razdelku Pravilnik o** hranjenju uporabite pravilnik, ki ste ga pravkar ustvarili > **Shrani.**
+9. Če želite navodila za uporabo pravilnika za vse uporabnike, [glejte Uporaba pravilnika o hranjenju za nabiralnike.](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
