@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919656"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304349"
 ---
 # <a name="understand-billing-amount"></a>Razumevanje zneska obračunavanja
 
@@ -47,7 +47,7 @@ ms.locfileid: "53919656"
 **pogodba Enterprise Agreement (EA)**
 
 - Če želite pomoč pri pregledu in razumevanje računa, glejte: [Razumevanje računa za Azure pogodba Enterprise Agreement račun](https://docs.microsoft.com/azure/cost-management-billing/understand/review-enterprise-agreement-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
-- Če ste stranka storitve Azure z pogodba Enterprise Agreement (stranka EA), ne morete prenesti računov organizacije. Računi so poslani osebi, ki je nastavljena za prejemanje računov za včlanitev, zato lahko prenesete uporabo na [portalu Azure.](https://portal.azure.com/)
+- Če ste stranka storitve Azure z pogodba Enterprise Agreement (stranka EA), ne morete prenesti računov organizacije. Računi so poslani osebi, ki je nastavljena za prejemanje računov za včlanitev, zato lahko prenesete uporabo na [portalu Azure](https://portal.azure.com/).
 
 Pregled računa za preobremnjenje storitve:
 
@@ -62,12 +62,14 @@ Pregled računa za preobremnjenje storitve:
 
 Pregled računa za Tržnico:
 
-Primerjajte skupno vrednost Tržnice Azure na > povzetek uporabe v portalu za podjetja s svojim računom na tržnici. Račun na tržnici se uporablja le za nakupe in uporabo Tržnice Azure. Zneski v povzetku uporabe ne vključujejo davka.
+Primerjajte skupno vrednost Tržnice Azure na > povzetek uporabe na portalu podjetja s svojim računom na tržnici. Račun na tržnici se uporablja le za nakupe in uporabo Tržnice Azure. Zneski v povzetku uporabe ne vključujejo davka.
 
 - Vpišite se v **portal Enterprise.** Izberite **Poročila**
 - V zgornjem desnem kotu zavihka preklopite pogled iz  M na **C** in ujemanje obdobja na računu.
 - Skupno **število tržnice Azure** se mora ujemati s skupno **prodajo** na računu na tržnici
-- Če želite **več informacij o** stroških, ki se zaračunajo na podlagi uporabe, pojdite na prenos uporabe. V **razdelku Stroški za** Tržnico **izberite** **Prenesi opombo:** To poročilo ne vključuje davkov ali prikaz enkratnih nakupov
+- Če želite **več informacij o** stroških, ki se zaračunajo na podlagi uporabe, pojdite na prenos uporabe. V razdelku **Stroški za Tržnico** izberite **Prenesi.** 
+
+**Opomba:** v tem poročilu niso davki ali enkratni nakupi
 
 **Cloud Solution Provider (CSP)**
 

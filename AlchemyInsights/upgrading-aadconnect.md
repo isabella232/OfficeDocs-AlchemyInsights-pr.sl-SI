@@ -1,5 +1,5 @@
 ---
-title: 932 nadgradnja AADConnect
+title: Nadgradnja povezave AADConnect 932
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 5c8ec5d9282c53c655e28f5d38fe36fc3ab005b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9582f1f56e6730e35520b5d79bc245cd74bea0bf4db39b379a7cd133bafc16ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806055"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104828"
 ---
-# <a name="upgrade-azure-ad-connect"></a>Nadgradnja povezave s storitvijo Azure AD
+# <a name="upgrade-azure-ad-connect"></a>Nadgradnja storitve Azure AD Povezovalnik
 
-Samodejno nadgradnja je privzeto omogočena za povezavo s storitvijo Azure AD Connect, ki zagotavlja, da izvajate najnovejšo različico. Če želite preveriti nastavitve samodejne nadgradnje, uporabite ukaz» cmdlet « **Get-ADSyncAutoUpgrade** v storitvi Azure ad PowerShell. Ukaz» cmdlet «bo vrnil eno od teh vrednosti:
+Samodejna nadgradnja je privzeto omogočena za imenik Azure AD Povezovalnik ki pomaga zagotoviti, da imate nameščeno najnovejšo različico. Če želite preveriti nastavitve samodejne nadgradnje, uporabite ukaz »cmdlet« **Get-ADSyncAutoUpgrade** v azure AD PowerShell. Ukaz »cmdlet« vrne eno od teh vrednosti:
 
-- **Omogočeno**: omogočena je Samodejna nadgradnja.
+- **Omogočeno:** Samodejna nadgradnja je omogočena.
 
-- **Onemogočeno**: Samodejna nadgradnja je onemogočena.
+- **Onemogočeno:** Samodejna nadgradnja je onemogočena.
 
-- **Začasno ustavljeno**: sistem ni več upravičen do samodejnega posodabljanja. Te vrednosti ni mogoče konfigurirati; sistem je nastavljen s sistemom.
+- **Začasno** prekinjeno: sistem ni več upravičen do samodejne nadgradnje. Te vrednosti ne morete konfigurirati; nastavil sistem.
 
-Če želite več informacij, glejte [Samodejna nadgradnja](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+Če želite več informacij, glejte [Samodejna nadgradnja.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade)
 
-Če želite prenesti najnovejšo različico storitve Azure AD Connect, pojdite na [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .
+Če želite prenesti najnovejšo različico imenika Azure AD Povezovalnik, odprite [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .

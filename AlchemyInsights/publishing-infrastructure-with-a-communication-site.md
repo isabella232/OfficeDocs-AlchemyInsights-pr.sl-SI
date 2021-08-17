@@ -1,5 +1,5 @@
 ---
-title: Objavljanje infrastrukture s spletnim mestom za komunikacijo
+title: Infrastruktura za objavljanje na spletnem mestu za komunikacijo
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
-ms.openlocfilehash: e67fc09d66fcd75e08ebf815f4cb3eddfb68cb3e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff67f100052c5dfc844a27757a0ad4983c8d732ec199c601260206b1b621a085
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751835"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075380"
 ---
-# <a name="publishing-infrastructure-with-a-communication-site"></a>Objavljanje infrastrukture s spletnim mestom za komunikacijo
+# <a name="publishing-infrastructure-with-a-communication-site"></a>Infrastruktura za objavljanje na spletnem mestu za komunikacijo
 
 
-Omogočanje funkcije za objavljanje infrastruktur v strežniku SharePoint Server **ni podprto** s spletnimi mesti za komunikacijo. 
+Omogočanje funkcije SharePoint strežnika za objavljanje ni podprto **na spletnih** mestih za komunikacijo. 
   
-Če želite več informacij, glejte [premikanje iz mest za objavljanje na mesta za komunikacijo](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience). 
+Če želite več informacij, glejte [Prehod z mest za objavljanje na spletna mesta za komunikacijo.](https://docs.microsoft.com/sharepoint/publishing-sites-classic-to-modern-experience) 
   
 
