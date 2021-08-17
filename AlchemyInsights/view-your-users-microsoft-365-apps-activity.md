@@ -1,5 +1,5 @@
 ---
-title: Ogled dejavnosti uporabnikov v aplikacijah Microsoft 365
+title: Ogled dejavnosti uporabnikov Microsoft 365 aplikacijah
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -18,15 +18,15 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: 13049a2f24e93a718cab26097fa8e2145fde5667
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 93a49d9c4276140abb9b33f857621bd917b7b4fb77a262a002ce96a6e6124fb7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51806638"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037120"
 ---
-# <a name="view-your-users-microsoft-365-apps-activity"></a>Ogled dejavnosti uporabnikov v aplikacijah Microsoft 365
+# <a name="view-your-users-microsoft-365-apps-activity"></a>Ogled dejavnosti uporabnikov Microsoft 365 aplikacijah
 
-V [poročilu o aktiviranju](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) sistema Office si lahko ogledate, kateri uporabniki so namestili in aktivirali programe storitve Microsoft 365 v vsaj eni napravi.
+V [Office aktiviranje si](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) lahko ogledate, kateri uporabniki so namestili in aktivirali svoje Microsoft 365 v vsaj eni napravi.
 
-Poleg tega lahko pridobite pregled dejavnosti uporabnikovih programov v storitvi Microsoft 365 tako, da uporabite poročilo o uporabi aplikacij storitve [Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)
+Poleg tega si lahko ogledate dejavnosti uporabnikov, Programi Microsoft 365 uporabnikov, tako da [Programi Microsoft 365 poročilo o uporabi.](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide)
