@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 474672131cb7e9f52029eb8976691a305396a9b8
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: f2f71234c5f9cd41692031b679c987bf6c108cc4c50f8d4f95f72da42fea73c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52543980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107141"
 ---
 # <a name="software-inventory-is-missing-or-inaccurate"></a>Zaloga programske opreme manjka ali je netočna
 
-Zaloga programske opreme v Microsoft Defender ATP storitev zagotavlja ime izdelka ali dobavitelja, njegovo najnovejšo številko različice ter zaznano ranljivost in ranljivost. Če želite več informacij, glejte [Zaloga programske opreme – upravljanje groženj in ranljivosti](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
+Zaloga programske opreme v storitvi Microsoft Defender ATP zagotavlja ime izdelka ali dobavitelja, njegovo najnovejšo številko različice in zaznano ranljivost. Če želite več informacij, glejte [Zaloga programske opreme – upravljanje groženj in ranljivosti](/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
 Tako lahko prijavite nejasne ali nepopolne informacije, netočne številke različic ali posodobljene podatke o zalogi programske opreme.  
 

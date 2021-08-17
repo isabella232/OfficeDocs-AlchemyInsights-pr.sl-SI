@@ -1,5 +1,5 @@
 ---
-title: Ne prisilite me, da nadgradim. Kako se vrnem v prejšnjo različico Officea?
+title: Ne prisili me k nadgradnji. Kako se lahko vrnem na prejšnjo Office različico?
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -14,17 +14,17 @@ ms.custom:
 - "265"
 - "2200012"
 ms.assetid: 49da6d22-6821-42a3-ade8-8acbb27260d5
-ms.openlocfilehash: cc8084e08930f7ecea9676996419112106d42bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a3ff997f7241ac5b266391f2b9f84b7edd691dc84ed641e77b091d33c5a3dbf5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812024"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079610"
 ---
-# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ne prisilite me, da nadgradim. Kako se vrnem v prejšnjo različico Officea?
+# <a name="dont-force-me-to-upgrade-how-do-i-go-back-to-the-previous-office-version"></a>Ne prisili me k nadgradnji. Kako se lahko vrnem na prejšnjo Office različico?
 
-Ko odprete Officeovo datoteko, se lahko namesto druge različice odpre preskusna različica Officeovega programa. To se bo zgodilo, če imate preskusno različico programa Microsoft 365.
+Ko odprete Office, se lahko namesto druge aplikacija Office odpre preskusna različica datoteke. To se bo zgodilo, če imate Microsoft 365 naročnino.
   
-Ko namestite preskusno različico programa Microsoft 365, je nameščena različica različice aplikacije 2016. Te preskusne različice postanejo privzete za odpiranje Wordovih, Excelovih in PowerPointovih datotek. Če imate na primer nameščen Excel 2013 in ste namestili tudi preskusno različico Microsoft 365, se delovni zvezki odprejo v preskusni različici Excela 2016.
+Ko namestite preskusno Microsoft 365, se namesti preskusna različica programov 2016. Te preskusne različice postanejo privzete za odpiranje Wordovih, Excel in PowerPoint datotek. Če imate na primer nameščen Excel 2013 in ste prav tako namestili preskusno različico Microsoft 365, se bodo delovni zvezki odprli v preskusni različici Excel 2016.
   
-Če imate to težavo, lahko [odstranite](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) aplikacije 2016 in uporabite starejše različice programov, ki ste jih že namestili. Lahko pa [odstranite](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) starejše različice programov in nadgradite na novejše različice, ki so vključene v Microsoft 365.
+Če imate to težavo, lahko [odstranite](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) programe sistema 2016 in uporabite starejše različice aplikacij, ki so že nameščene. Lahko pa odstranite [starejše različice](https://support.office.com/article/9dd49b83-264a-477a-8fcc-2fdf5dbf61d8.aspx) aplikacij in nadgradite na novejše različice, ki so vključene v Microsoft 365.

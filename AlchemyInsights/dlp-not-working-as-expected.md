@@ -13,41 +13,41 @@ ms.custom:
 - "1241"
 - "3200001"
 ms.assetid: f6fcf5ad-55a1-4f25-af27-1f7c1ce06409
-ms.openlocfilehash: 0f07e64c95675a4f6a0aeb6df110fe4e6a21d72f
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: e1049f160a9b92040095b6725fa5771218a0956d17f99ea8a6e9cc279e7c73f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707826"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079718"
 ---
 # <a name="dlp-not-working-as-expected"></a>DLP ne deluje po pričakovanjih
 
 **Pomembno**: med temi nepredvidljivimi časi sprejemamo ukrepe, s katerimi skrbimo, da storitvi SharePoint Online in OneDrive ostajata dobro razpoložljivi. Če želite več informacij, si oglejte razdelek [Začasne prilagoditve funkcij storitve SharePoint Online](https://aka.ms/ODSPAdjustments).
 
- **Nastavitev DLP**
+ **Nastavitev DLP-a**
 
-Ali imate težave s **preprečevanjem izgube podatkov (DLP)** v sistemu Office 365 ne deluje po pričakovanjih? V tem primeru preverite, ali je **pravilnik za DLP** pravilno nastavljen in da podatki vsebujejo, kaj išče **pravilnik DLP** , ko ga ocenjujete.
+Ali imate težave s **preprečevanjem izgube podatkov (DLP)** Office 365 predvideno delovanje? V tem primeru se  prepričajte, da je pravilnik olpcih pravilno nastavljen in da podatki vsebujejo tisto, kar išče pravilnik o **dlpcih,** ko ga ocenjujete.
   
-Pravilniki DLP omogočajo prepoznavanje in zaščito občutljivih informacij v organizaciji. Če želite nastaviti pravilnike za DLP, uporabite informacije [tukaj](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template).
+S pravilniki o DLP-jem lahko prepoznate in zaščitite občutljive informacije v organizaciji. Če želite nastavitvijo pravilnikov o dlpcih, uporabite [informacije tukaj.](https://docs.microsoft.com/microsoft-365/compliance/create-a-dlp-policy-from-a-template)
   
- **Katere pravilnike za DLP iščejo**
+ **Kaj so iskati pravilniki o dlpcih**
   
-Ko uporabljate **vgrajene občutljive vrste podatkov** v centrih za varnost in skladnost, pravilniki DLP iščejo določene vzorce in elemente pri odkrivanju teh občutljivih vrst.
+Ko uporabljate **vgrajene** vrste občutljivih informacij v središčih za varnost in skladnost s predpisi, pravilniki za preprečevanje napak pri zaznanju teh občutljivih vrst iščijo določene vzorce in elemente.
   
-- **Vgrajene občutljive vrste informacij**
+- **Vgrajene vrste občutljivih informacij**
 
-    Če želite več informacij o vgrajenih občutljivih vrstah in o tem, kaj išče pravilnik za DLP pri odkrivanju občutljive vrste, glejte: [Kaj iščejo vrste občutljivih informacij](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
+    Če želite informacije o vgrajenih občutljivih vrstah in kaj išče pravilnik o dlpcih pri zaznani občutljivi vrsti, glejte: Kaj so vrste [občutljivih informacij.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-- **Vrste občutljivih podatkov po meri**
+- **Vrste občutljivih informacij po meri**
 
-    Če želite ustvariti občutljive vrste podatkov po meri, uporabite ta članek, če želite informacije o tem, kako ustvariti vrsto občutljivega po meri: [ustvarite vrsto občutljivih podatkov po meri](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type).
+    Če želite ustvariti vrste občutljivih informacij po meri, v tem članku najdete informacije o tem, kako ustvarite občutljivo vrsto po meri: Ustvarite vrsto občutljivih [informacij po meri.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type)
 
-**Preskus pravilnika za DLP**
+**Preskus pravilnika o dlpcih**
 
-Če želite preskusiti podatke z vgrajenim tipom ali občutljivo vrsto podatkov po meri, uporabite možnost» **Vrsta preskusa** «v razdelku **razvrstitve**  >  **občutljive vrste informacij**. Če želite več informacij, glejte [preskušanje vrst občutljivih podatkov po meri](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center).
+Če želite podatke preskusiti z vgrajeno vrsto podatkov  ali vrsto občutljivih podatkov po meri, uporabite možnost Vrsta preskusa v razdelku **Vrste občutljivih**  >  **informacij razvrstitve.** Če želite več informacij, glejte [Preskus vrst občutljivih informacij po meri.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type#create-custom-sensitive-information-types-in-the-security--compliance-center)
 
  **Poročila**
   
-- Pridobite občutljive vpoglede podatkov s [poročili DLP.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
+- Dobite občutljive vpoglede v podatke s [poročili o DLP-jem.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#dlp-reports)
 
-- Oglejte si natančne podrobnosti dogodka z [poročilom o incidentu](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports).
+- Oglejte si določene podrobnosti dogodka s [poročilom o dogodku.](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies#incident-reports)
