@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "53"
 - "1400001"
-ms.openlocfilehash: 95f1c3481dbe02f0569522a38783b16c1d5f45cf47847d456dbed9ccda52c3c2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 90399a54ad9d77bb94f8c067f255274e4d2591823095b391f53ddf7514d338a6
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53931213"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890774"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>Želite preklicati Microsoft 365 naročnino?
 
@@ -31,6 +31,6 @@ ms.locfileid: "53931213"
 3. V **podoknu** Preklic naročnine izberite razlog za preklic. Po želji lahko tudi posredujete povratne informacije.
 4. Izberite **Shrani**.
 
-Če želite izvedeti več o preklicu naročnine ali možnostih, glejte [Preklic naročnine.](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+Če želite izvedeti več o preklicu naročnine ali možnostih, glejte [Preklic naročnine.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
-Če želite še naprej uporabljati svojo naročnino za celotno preskusno različico, lahko izklopite ponavljajoče se obračunavanje za naročnino. Če želite izvedeti, kako [to izveste, Microsoft 365 naročnino za podjetja.](/microsoft-365/commerce/subscriptions/renew-your-subscription)
+Če želite še naprej uporabljati svojo naročnino za celotno preskusno različico, lahko izklopite ponavljajoče se obračunavanje za naročnino. Če želite izvedeti, kako [to izveste, Microsoft 365 naročnino za podjetja.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)

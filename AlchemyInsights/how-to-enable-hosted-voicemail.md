@@ -1,5 +1,5 @@
 ---
-title: Kako omogočiti gostujočo glasovno pošto
+title: Kako omogočiti gostovano glasovno pošto
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055570"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>Kako omogočiti gostujočo glasovno pošto
+# <a name="how-to-enable-hosted-voicemail"></a>Kako omogočiti gostovano glasovno pošto
 
-Če želite omogočiti glasovno pošto, mora biti **HostedVoicemail** nastavljen na $True.
+Če želite omogočiti glasovno pošto, mora biti možnost **HostedVoicemail** $true.
 
-Lastnost **HostedVoicemail** na uporabnika z uporabo oddaljenega PowerShella (RPS).
+Lastnost **HostedVoicemail za** uporabnika, ki uporablja Remote PowerShell (RPS).
 
-Če želite več informacij o povezovanju s RPS, si oglejte [pregled Microsoft Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) za več informacij o povezovanju s RPS.
+Če želite več informacij o povezovanju s RPS, [glejte Microsoft Teams pregled lupine PowerShell,](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) če želite več informacij o povezovanju s RPS.
 
-1. Skrbnik za ekipe bi moral biti prijavljen v oddaljeno lupino PowerShell za ekipe.
-1. V vrstici PowerShell lahko skrbnik skupine zažene **Nastavitev Set-csuser User@contoso.com-HostedVoiceMail $True** , kjer je uri SIP za uporabnika.
+1. Skrbnik Teams mora biti prijavljeni v oddaljeno sejo PowerShell za Teams.
+1. Iz lupine PowerShell Teams Skrbnik lahko zažene **set-csuser user@contoso.com -HostedVoiceMail $true** kjer je sip uri zadevni uporabnik.
 
 > [!NOTE]
-> Spremembe pravilnika lahko trajajo do 24 ur, da se replicirajo.
+> Spremembe pravilnikov lahko trajajo do 24 ur, da se pravilniki podvojijo.

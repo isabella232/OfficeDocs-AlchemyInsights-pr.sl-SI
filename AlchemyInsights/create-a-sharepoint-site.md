@@ -1,5 +1,5 @@
 ---
-title: Ustvarjanje SharePointovega mesta
+title: Ustvarjanje SharePoint mesta
 ms.author: pebaum
 author: pebaum
 ms.audience: Admin
@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 5ebaa342ca9864bc31a9ef26eebcf42d96523871
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf9380727fff415357884a5122e633f2254337d3db50e2b8656d94938f76d394
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806955"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080906"
 ---
-# <a name="create-a-sharepoint-site"></a>Ustvarjanje SharePointovega mesta
+# <a name="create-a-sharepoint-site"></a>Ustvarjanje SharePoint mesta
 
-Ustvarite ali upravljajte mesta iz [aktivnih mest](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) v skrbniškem središču za SharePoint. Če želite več informacij, glejte [upravljanje spletnih mest v novem skrbniškem središču za SharePoint](https://docs.microsoft.com/sharepoint/manage-site-creation). 
+Ustvarite ali upravljajte mesta iz [aktivnih mest](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) v skrbniškem središču SharePoint mesta. Če želite več informacij, glejte [Upravljanje mest v novem skrbniškem SharePoint za Office 365.](https://docs.microsoft.com/sharepoint/manage-site-creation) 
 
-## <a name="tips"></a>Namigi
+## <a name="tips"></a>Nasveti:
 
-- Mesta **ne morete** ustvariti z istim URL-jem obstoječega mesta. Če ste izbrisali mesto in želite znova uporabiti spletni naslov, je mogoče, da izbrisano mesto še vedno obstaja v razdelku [izbrisana mesta](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). Mesto bo treba trajno izbrisati, če želite znova uporabiti spletni naslov. Če želite v celoti odstraniti mesto z lupino PowerShell, glejte primer» [Odstrani-SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) «.
-- Nekateri uporabniki morda ne bodo mogli ustvariti mesta. [Glejte upravljanje ustvarjanja mesta v storitvi SharePoint online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- Možno je, da se mesto prikaže, ko **ustvarjate** dlje, kot je bilo pričakovano. Če je minilo več kot 24 ur, odkar ste prvič videli to težavo, se prijavite v vstopnico za podporo. V številnih primerih že pripravljamo rešitev. Če želite dokončati rešitev, nam lahko daste vsaj 24 ur.
+- Mesta **z** istim URL-jem obstoječega mesta ni mogoče ustvariti. Če ste izbrisali mesto in želite znova uporabiti URL, je izbrisano mesto morda še vedno v razdelku [Izbrisana mesta.](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) Če želite znova uporabiti URL, ga morate trajno izbrisati. Če želite popolnoma odstraniti spletno mesto z lupino Powershell, glejte primer ukaza »cmdlet« [za remove-SPSite.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- Nekateri uporabniki morda ne bodo mogli ustvariti mesta. [Glejte Upravljanje ustvarjanja spletnih mest v SharePoint Online.](https://docs.microsoft.com/sharepoint/manage-site-creation)
+- Morda se je mesto zataknilo pri ustvarjanju **dlje** od pričakovanega. Če je od prve težave minilo več kot 24 ur, zabeležite vstopnico za podporo. V številnih primerih že delamo na rešitvi. Če želite dokončati rešitev, nam dajte vsaj 24 ur.

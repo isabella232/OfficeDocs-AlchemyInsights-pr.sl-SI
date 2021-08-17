@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5096"
-ms.openlocfilehash: 76d389698f082608d2cf7e2f21033f764757873be24e330c0596e053b4a85ea6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0d44d64b39e1fee2348f9831e153cab7805c1e8b4fd4bc6effa0968c71666d13
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53943139"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890958"
 ---
 # <a name="restrict-users-who-can-upload-to-stream"></a>Omejevanje uporabnikov, ki lahko prenesejo v storitev Stream
 
 Kot organizacija boste morda želeli omejiti zaposlene, ki lahko nalagajo videoposnetke. Videoposnetke lahko privzeto prenesejo vsi v vaši organizaciji.
 
-- [Omejevanje zaposlenih, ki lahko ustvarjajo vsebino v storitvi Microsoft Stream](/stream/restrict-uploaders)
+- [Omejevanje zaposlenih, ki lahko ustvarjajo vsebino v storitvi Microsoft Stream](https://docs.microsoft.com/stream/restrict-uploaders)
