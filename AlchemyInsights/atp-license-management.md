@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5782"
-ms.openlocfilehash: bddf98044dd29345e0d59703713d76f02642f448bdc62cc25bb356933d524f21
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 3ade6182d814f99625978c7e14678e67e6b57260
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501148"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313904"
 ---
 # <a name="microsoft-defender-for-office-365-license-management"></a>Microsoft Defender za Office 365 licenc
 
@@ -29,6 +29,6 @@ Microsoft Defender for Office 365 upravljanje licenc je mogoče dokončati v Skr
 - Če želite kupiti Microsoft Defender za Office 365:
     1. Pojdite na Storitve **za**  >  [nakup obračunavanja.](https://go.microsoft.com/fwlink/p/?linkid=868433)
     2. Na dnu strani **izberite Dodatki**.
-    3. Na strani **Nakup** storitev izberite Microsoft Defender for Office 365 paket, ki ga želite kupiti, vnesite število uporabnikov, ki potrebujejo licenco, nato pa **izberite Želim rezervirati**. Če želite več informacij, [glejte Nakup dodatka.](/microsoft-365/commerce/buy-or-edit-an-add-on)
-- Če želite dodeliti Microsoft Defender Office 365 licence, pojdite na **Licence**  >  **za obračunavanje.** Če želite več informacij, [glejte Dodeljevanje licenc uporabnikom.](/microsoft-365/admin/manage/assign-licenses-to-users)
-- Če želite dodati ali odstraniti licence iz programa Microsoft Defender za Office 365, pojdite na  >  **Obračunavanje izdelkov.** Izberite naročnino, ki jo želite posodobiti, nato pa **izberite Nakup licenc** ali Odstrani **licence.** Če želite več informacij, [glejte Nakup ali odstranjevanje naročniških licenc.](/microsoft-365/commerce/licenses/buy-licenses)
+    3. Na strani **Nakup** storitev izberite Microsoft Defender za Office 365 paket, ki ga želite kupiti, vnesite število uporabnikov, ki potrebujejo licenco, nato pa izberite **Želim rezervirati**. Če želite več informacij, [glejte Nakup dodatka.](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
+- Če želite dodeliti Microsoft Defender Office 365 licence za obračunavanje, pojdite na **Licence**  >  **za obračunavanje.** Če želite več informacij, [glejte Dodeljevanje licenc uporabnikom.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Če želite dodati ali odstraniti licence iz programa Microsoft Defender za Office 365, pojdite na  >  **Obračunavanje izdelkov.** Izberite naročnino, ki jo želite posodobiti, nato pa **izberite Nakup licenc** ali Odstrani **licence.** Če želite več informacij, [glejte Nakup ali odstranjevanje naročniških licenc.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

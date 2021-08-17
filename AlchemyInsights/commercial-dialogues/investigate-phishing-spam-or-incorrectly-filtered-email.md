@@ -12,17 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 6a20a59ae4395e718839c82c8c2cdcdec05ae80c59715e7f618e75b9d5428b64
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3015b0cb3b972bc1b096e6f791b7976f78f0c15639fb15403d9b0c134a09e1cf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53948971"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894411"
 ---
 # <a name="investigate-phishing-spam-or-incorrectly-filtered-email"></a>Raziščite lažno predstavljanje, neželeno pošto ali nepravilno filtrirano e-pošto
 
 Uporabite Raziskovalca za pošiljanje sporočila Microsoftu. Takoj boste dobili povratne informacije o filtriranju sporočil in razlog za težavo. Tukaj je povzetek korakov:
 
-1. Obiščite središče [za Office 365 za zagotavljanje &](https://go.microsoft.com/fwlink/p/?linkid=2077143) s predpisi , izberite Pošiljanje za upravljanje groženj in nato izberite +  >   **Nova pošiljanje**.
-2. Določite podrobnosti v podoknu **Nova pošiljanje.**
-3. Uporabnike obvestite, da morajo Microsoftu prijaviti sumljiva [e-poštna](https://go.microsoft.com/fwlink/?linkid=2092385) sporočila in da je dodatek za poročanje o sporočilih orodje, ki bi ga morali uporabiti za ta namen.
+1. V portalu Microsoft 365 Defender na spletnem mestu <https://security.microsoft.com> , pojdite na Pošiljanje **e-&** \> sodelovanje.
+
+   Če se želite po vrniti neposredno **na stran Oddaje,** uporabite <https://security.microsoft.com/reportsubmission> .
+
+2. Na strani **Pošiljanje preverite,** ali je **izbran zavihek** Poslano v analizo, nato pa **kliknite + Pošlji Microsoftu v analizo.**
+
+3. Prikaže se letak z možnostjo za pošiljanje e-poštnega sporočila, URL-ja ali datoteke. Če želite več informacij, glejte Pošiljanje sumljive neželene pošte, lažne pošte, URL-jev in datotek Microsoftu s pošiljanjem [sporočil skrbnika.](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+4. Uporabnike obvestite, da naj prijavijo sumljiva sporočila v svoji mapi »Prejeto« z dodatkom »Sporočilo poročila« ali dodatkom »Prijavite [lažno predstavljanje«.](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in)

@@ -1,5 +1,5 @@
 ---
-title: Pravilniki za opozorila v središču za varnost in skladnost s predpisi
+title: Pravilniki za opozorila v Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006571"
 - "11243"
-ms.openlocfilehash: 1aa9f898555b440b55707889bc85358986a6568ee6a159985d2e60041cff7750
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4bbdc8f9817655fec260e6f85de831a85f89e13f56d559534df68f79c5bed9a2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53933517"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893643"
 ---
-# <a name="alert-policies-in-the-security-and-compliance-center"></a>Pravilniki za opozorila v središču za varnost in skladnost s predpisi
+# <a name="alert-policies-in-microsoft-365"></a>Pravilniki za opozorila v Microsoft 365
 
-S pravilnikom za opozorila in orodji nadzorne plošče za opozorila v središčih za varnost Microsoft 365 skladnost s predpisi lahko uporabniki ustvarijo pravilnike za opozorila in si nato ogledajo opozorila, ustvarjena pri izvajanju dejavnosti, ki ustrezajo pogojem pravilnika za opozorila. Številni privzeti pravilniki za opozorila pomagajo nadzorovati dejavnosti, kot so dodeljevanje skrbniških pravic v programu Exchange Online, napadi z zlonamerno programsko opremo, kampanje z lažnim predstavljanjem in nenavadne ravni brisanja datotek in zunanje skupne rabe.
+Skrbniki lahko s pravilnikom za opozorila in orodji nadzorne plošče za opozorila v strežniku Središče za skladnost okolja Microsoft 365 in portalu za Microsoft 365 Defender ustvarijo pravilnike za opozorila, nato pa si ogledajo opozorila, ustvarjena, ko uporabniki izvajajo dejavnosti, ki ustrezajo pogojem pravilnika o opozorilih. Številni privzeti pravilniki za opozorila pomagajo nadzorovati dejavnosti, kot so dodeljevanje skrbniških pravic v omrežju Exchange Online, napadi z zlonamerno programsko opremo, akcije z lažnim predstavljanjem in nenavadne ravni brisanja datotek in zunanje skupne rabe.
 
-S pravilniki za opozorila lahko kategorizirate opozorila, ki jih sproži pravilnik, uporabite pravilnik za vse uporabnike v organizaciji, nastavite raven praga, ko naj se opozorilo sproži, in se odločite, ali želite prejemati e-poštna obvestila, ko se sprožijo opozorila. Stran »Ogled opozoril« v središču za varnost in skladnost s predpisi omogoča uporabnikom, da si ogledajo in filtrirajo opozorila, nastaviti stanje opozorila za lažje upravljanje opozoril in nato opustiti opozorila, ko obravnava ali razreši temeljni dogodek.
+S pravilniki za opozorila lahko kategorizirate opozorila, ki jih sproži pravilnik, uporabite pravilnik za vse uporabnike v organizaciji, nastavite raven praga, ko naj se opozorilo sproži, in se odločite, ali želite prejemati e-poštna obvestila ob prejemu opozoril. Stran **»Opozorila«** omogoča uporabnikom tudi ogled in filtriranje opozoril, nastavitev stanja opozoril za lažje upravljanje opozoril in opustitev opozoril po tem, ko je temeljni dogodek obravnavan ali razrešen.
 
-Če želite več informacij, glejte [Pravilniki za opozorila v središču za varnost in skladnost s predpisi.](/microsoft-365/compliance/alert-policies)
+Če želite več informacij, glejte [Pravilniki za opozorila v Microsoft 365.](https://docs.microsoft.com/microsoft-365/compliance/alert-policies)

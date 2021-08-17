@@ -14,20 +14,20 @@ ms.custom:
 - commerce_subscriptions
 - "1500028"
 - "482"
-ms.openlocfilehash: 94275b950e2f09730aa42d9b8fc0ae39e39be1bd9c8ca4cad5b20926b263fca2
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 127ad8bd2ea71a04475c2cddb1b8a97ec4fadf38
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889398"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314328"
 ---
 # <a name="activate-or-reactivate-a-subscription"></a>Aktiviranje ali ponovno aktiviranje naročnine
 
 **Aktiviranje naročnine**
 
-- Če želite uporabnikom omogočiti dostop do storitve, jim dodelite licenco. Če želite izvedeti, kako [to želite, glejte Dodeljevanje licenc uporabnikom.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- Če želite uporabnikom omogočiti dostop do storitve, jim dodelite licenco. Za več informacij glejte [Dodeljevanje licenc uporabnikom.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - Če vam je licenca že dodeljena, lahko programe, ki jih lahko prenesete, najdete na strani [Moj račun.](https://portal.office.com/account/#installs) Na tej strani je seznam aplikacij, ki jih lahko prenesete na podlagi dodeljenih licenc.
-- Če ste že prenesli Office aplikacij, se boste morda morali vpisati v programe s službeim ali šolskim računom. To lahko naredite v katerem Office programu (Word, Excel itd.), tako da kliknete Datoteka  >  **Office Račun** (blizu dna). V **razdelku Informacije o** uporabniku izberite Preklopi **račun.** Če želite več informacij, [glejte Office programov.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
+- Če ste že prenesli Office aplikacije, se boste morda morali vpisati v programe s službeim ali šolskim računom. To lahko naredite v katerem Office programu (Word, Excel itd.), tako da kliknete Datoteka  >  **Office Račun** (blizu dna). V **razdelku Informacije o** uporabniku izberite Preklopi **račun.** Če želite več informacij, [glejte Office programov.](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications)
 
 **Vnovična aktivacija naročnine**
 
@@ -36,8 +36,9 @@ ms.locfileid: "57889398"
 1. V skrbniškem središču odprite stran  >  [Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **zavihku** Izdelki poiščite naročnino, ki jo želite znova aktivirati.
 3. Izberite tri pike (več dejanj), nato pa izberite **Znova aktiviraj to naročnino.**
-    > [!IMPORTANT]
-    > Če ne vidite možnosti Znova aktiviraj **to naročnino** kot razpoložljivo dejanje, [pokličite](https://go.microsoft.com/fwlink/p/?linkid=518322) podporo, da znova aktivirate naročnino.
+
+    **Pomembno:** Če ne vidite možnosti Znova **aktiviraj** to naročnino kot razpoložljivo [dejanje,](https://go.microsoft.com/fwlink/p/?linkid=518322) pokličite podporo, da znova aktivirate naročnino.
+
 4. V **podoknu Znova aktivirajte to naročnino** izberite obstoječi način plačila ali pa **izberite Dodaj način plačila**.
 5. Izberite **Znova aktiviraj**.
 

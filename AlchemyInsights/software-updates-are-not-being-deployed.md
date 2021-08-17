@@ -1,5 +1,5 @@
 ---
-title: Posodobitve programske opreme niso razporejene
+title: Posodobitve programske opreme niso uvedene
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1125"
 - "6700007"
-ms.openlocfilehash: d9a37e4c2d977083cf2ccbf6580159f92524f936
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7bc1832dcfbd885f01c88c632f6cf2bad61363900e11ce0e00f99a7a2dcd9f3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665266"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54084542"
 ---
-# <a name="software-updates-are-not-being-deployed"></a>Posodobitve programske opreme niso razporejene
+# <a name="software-updates-are-not-being-deployed"></a>Posodobitve programske opreme niso uvedene
 
-Če ste konfigurirali posodobitve programske opreme s prstanom za posodobitev sistema Windows 10, vendar posodobitve niso uvedene, poskusite to:  
+Če ste posodobitve programske opreme konfigurirali z zvon Windows 10 posodobitev, vendar posodobitve niso uvedene, poskusite to:  
 
-- Razmislite o spreminjanju servisiranja sistema Windows iz  **polletne**  vrste izdaje kanala v strožjo in pogostejšo vrsto izdaje.
-- Preverite obdobje odloga za  **posodobitev kakovosti**  in  **posodobitev funkcij**. Obdobje odloga lahko privede do zamude pri posodobitvah do 180 dni.
+- Premislite o Windows servisiranju  iz vrste izdaje polletnega kanala v večjo, pogosteje vrsto izdaje.
+- Preverite obdobje odlogov za  **posodobitev kakovosti**  in  **posodobitev funkcij**. Obdobje odložitev lahko povzroči zakasnitev posodobitev za največ 180 dni.
