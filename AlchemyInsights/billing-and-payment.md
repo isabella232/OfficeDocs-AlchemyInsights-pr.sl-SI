@@ -15,20 +15,20 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893071"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314932"
 ---
 # <a name="billing-and-payment"></a>Obračunavanje in plačilo
 
-Račune najdete na zavihku Računi **&**  >  [plačila.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Privzeto so prikazani zadnji 3 meseci računov.  Če si želite ogledati starejše račune, prilagodite filter.  Če si **želite ogledati račun,** kliknite povezavo Prenesi PDF računa.
+Račune najdete na zavihku Računi **&**  >  [plačil.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Privzeto so prikazani zadnji 3 meseci računov.  Če si želite ogledati starejše račune, prilagodite filter.  Če si **želite ogledati račun,** kliknite povezavo Prenesi PDF računa.
 
 **Prejemajte račune po e-pošti**
 
-Na strani **Obvestila** o obračunavanju obračunavanja lahko vklopite to funkcijo in upravljate uporabnike, ki bodo prejeli račun  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) kot e-poštno  prilogo. Račun bo poslan na e-poštne naslove uporabnikov na seznamu prejemnikov obvestila. Na seznamu so vsi skrbniki za obračunavanje in globalni skrbniki.  S spremembo vloge lahko upravljate, kdo prejema obvestila o računih.  Če odstranite vlogo globalnega skrbnika ali skrbnika za obračunavanje, odstranite tega uporabnika s seznama prejemnikov, če dodate vlogo globalnega skrbnika ali skrbnika za obračunavanje, dodate uporabnika na seznam prejemnikov.
+Na strani **Obvestila** o obračunavanju obračunavanja lahko vklopite to funkcijo in upravljate uporabnike, ki bodo prejeli račun kot  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) e-poštno  prilogo. Račun bo poslan na e-poštne naslove uporabnikov na seznamu prejemnikov obvestila. Na seznamu so vsi skrbniki za obračunavanje in globalni skrbniki.  S spremembo vloge lahko upravljate, kdo prejema obvestila o računih.  Če odstranite vlogo globalnega skrbnika ali skrbnika za obračunavanje, odstranite tega uporabnika s seznama prejemnikov, če dodate vlogo globalnega skrbnika ali skrbnika za obračunavanje, dodate uporabnika na seznam prejemnikov.
 
 **Opomba:** Prejeli boste dve ločeni e-poštni sporočili: ena vas bo obvestila, da je račun pripravljen, z navodili za prijavo v Skrbniško središče za ogled, in drugo e-poštno sporočilo, ki vsebuje obračun kot prilogo.
 
@@ -46,8 +46,7 @@ Na strani **Obvestila** o obračunavanju obračunavanja lahko vklopite to funkci
 
 4. Če želite uporabiti obstoječe plačilno sredstvo, ga izberite na spustnem seznamu in izberite **Zamenjaj**.
 
-    > [!NOTE]
-    > Če so vaše naročnine povezane s profilom za obračunavanje, jih lahko plačate samo s kreditno ali debetno kartico. Če imate na strani **Načini plačila** navedene bančne račune, jih na spustnem seznamu ni mogoče izbrati.
+    **Opomba:** Če imate naročnine, povezane s profilom za obračunavanje, lahko za plačilo uporabite le kreditno ali debetno kartico. Če imate na strani **Načini plačila** navedene bančne račune, jih na spustnem seznamu ni mogoče izbrati.
 
 5. Če želite dodati novo plačilno sredstvo, izberite **Dodajanje načina plačila**.
 

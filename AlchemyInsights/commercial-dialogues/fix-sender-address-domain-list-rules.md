@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53930041"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896127"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Popravljanje pravil naslova pošiljatelja/seznama domen
 
-Na to sporočilo je vplival pravilnik za preprečevanje neželene pošte v vašem najemniku. Pošiljatelj sporočila je bil najden na seznamu »Dovoli« ali »Blokiraj«. Če želite pregledati pravilnik, naredite to:
+Na to sporočilo je vplival eden od pravilnikov za preprečevanje neželene pošte. Pošiljatelj sporočila je bil najden na seznamu »Dovoli« ali »Blokiraj«. Če želite pregledati pravilnike, naredite to:
 
-1. Obiščite središče [za Office 365 za zagotavljanje &](https://go.microsoft.com/fwlink/p/?linkid=2077143)s predpisi in pojdite na Pravilnik za upravljanje groženj  >    >  [– neželena pošta](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na **zavihku** Standardno preverite **seznama** Dovoli in Blokiraj, če **so** omogočene **standardne nastavitve.**
-3. Na **zavihku Po** meri, če **so** omogočene nastavitve  po meri, preglejte pravilnike tako, da izberete Uredi pravilnik in potrdite seznama **Dovoli in** **Blokiraj.**
+1. V portalu Microsoft 365 Defender v razdelku Pravilniki pojdite na Pravilniki za <https://security.microsoft.com/> **sodelovanje z e-&** in & pravilniki o \>  \>  \>  grožnjah za **neželeno** pošto.
 
-Če želite več informacij o konfiguraciji pravilnikov filtriranja neželene pošte, [glejte Konfiguriranje pravilnikov filtriranja neželene pošte.](https://go.microsoft.com/fwlink/?linkid=2101431)
+   Če se želite neposredno po vrniti na **stran Pravilniki za preprečevanje neželene** pošte, uporabite <https://security.microsoft.com/antispam> .
+
+2. Na strani **Pravilniki** za preprečevanje neželene pošte izberite pravilnik tako, da  kliknete ime pravilnika **(** Vrsta je Pravilnik o neželeni pošti po meri ali Ime je Dohodni pravilnik za neželeno pošto **(privzeto)**). 
+3. V prikazanem oknu s podrobnostmi v razdelku Dovoljene **in** blokirane pošiljatelje in domene izberite Urejanje dovoljenih in blokiranih pošiljateljev in **domen.**
+4. V razdelku **Dovoljeno** preglejte pošiljatelje in domene tako, da kliknete **Upravljanje \<nn\> pošiljateljev** ali **Dovoli domene.**
+
+Če želite več informacij, glejte [Konfiguracija pravilnikov za preprečevanje neželene pošte v EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)

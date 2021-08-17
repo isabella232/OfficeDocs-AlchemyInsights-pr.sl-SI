@@ -12,19 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 16aa12120034e1f848e62bab151d8e30b251a29e5727f085300d74ca7b49ca52
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54017112"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896171"
 ---
 # <a name="fix-languageip-filter-policy"></a>Popravljanje pravilnika jezika/filtriranja IP
 
-Na to sporočilo je vplival pravilnik o neželeni pošti po meri v vašem najemniku. Če želite pregledati pravilnik, naredite to:
+Na to sporočilo je vplival eden od pravilnikov za preprečevanje neželene pošte. Če želite pregledati pravilnike, naredite to:
 
-1. Obiščite središče [za Office 365 za zagotavljanje &](https://go.microsoft.com/fwlink/p/?linkid=2077143)s predpisi in pojdite na Pravilnik za upravljanje groženj  >    >  [– neželena pošta](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na **zavihku Po** meri izberite Privzeti pravilnik **filtriranja** neželene pošte ali kateri koli drug pravilnik po meri, ki ste ga morda ustvarili, nato pa izberite **Uredi pravilnik**.
-3. Razširite **možnost »Mednarodna neželena** pošta« in preglejte nastavitve.
+1. V portalu Microsoft 365 Defender v razdelku Pravilniki pojdite na Pravilniki za <https://security.microsoft.com/> **sodelovanje z e-&** in & pravilniki o \>  \>  \>  grožnjah za **neželeno** pošto.
 
-Če želite več informacij o konfiguraciji pravilnikov filtriranja neželene pošte, glejte [Konfiguriranje nastavitev pravilnika filtriranja neželene pošte po meri.](https://go.microsoft.com/fwlink/?linkid=2101054)
+   Če se želite neposredno po vrniti na **stran Pravilniki za preprečevanje neželene** pošte, uporabite <https://security.microsoft.com/antispam> .
+
+2. Na strani **Pravilniki** za preprečevanje neželene pošte izberite pravilnik tako, da  kliknete ime pravilnika **(** Vrsta je Pravilnik o neželeni pošti po meri ali Ime je Dohodni pravilnik za neželeno pošto **(privzeto)**). 
+3. V prikazanem oknu s podrobnostmi izberite Urejanje praga **neželene** pošte in lastnosti v pragu Množična e-pošta & **lastnosti neželene** pošte.
+4. V razdelku **Označi kot neželeno** pošto si oglejte nastavitve **Vsebuje določene jezike** **in Iz teh** držav.
+
+Če želite več informacij, glejte [Konfiguracija pravilnikov za preprečevanje neželene pošte v EOP.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies)
