@@ -12,20 +12,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7eae77358b0305582f53c411a092e3d2f1dbe17fd58ceac1ac00d5c07b3dd202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9094dcdc4507f52da1dd7c95f83aa98bab1446639d2d9f52eb3a7bc849dc183c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53988152"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888422"
 ---
 # <a name="fix-connection-policy"></a>Popravljanje pravilnika o povezavi
 
-E-pošta je bila označena kot varna in dostavljena v uporabnikovo mapo »Prejeto«, ker je bil naslov IP za pošiljanje označen kot varen v pravilniku filtra povezave. Če želite pregledati pravilnik, naredite to:
+E-pošta je bila označena kot varna in dostavljena v uporabnikovo mapo »Prejeto«, ker je bil izvorni naslov IP v privzetem pravilniku filtra povezave označen kot varen. Če želite pregledati pravilnik, naredite to:
 
-1. Obiščite središče [za Office 365 za zagotavljanje &](https://go.microsoft.com/fwlink/p/?linkid=2077143)s predpisi in pojdite na Pravilnik za upravljanje groženj  >    >  [– neželena pošta](https://go.microsoft.com/fwlink/?linkid=2101518).
-2. Na **zavihku** Po meri izberite **pravilnik filtra povezave in** nato uredi **pravilnik.**
-3. Preglejte **seznam allow (Dovoljeni naslovi IP).** Oglejte **si Sef ali je** seznam omogočen.
+1. V portalu Microsoft 365 Defender v razdelku Pravilniki pojdite na Pravilniki za <https://security.microsoft.com/> **sodelovanje z e-&** in & pravilniki o \>  \>  \>  grožnjah za **neželeno** pošto.
 
-    > [!NOTE]
-    > Microsoft se naroči na vire zaupanja vrednih pošiljateljev tretjih oseb. Če **Sef seznam** omogočen, ti zaupanja vredni pošiljatelji niso pomotoma označeni kot neželena pošta. Priporočamo, da izberete to možnost, saj se s tem zmanjša število napačnih pozitivnih pošiljateljev (dobra pošta, ki je razvrščena kot neželena pošta), ki jo prejmete.
+   Če se želite neposredno po vrniti na **stran Pravilniki za preprečevanje neželene** pošte, uporabite <https://security.microsoft.com/antispam> .
+
+2. Na strani **Pravilniki za neželeno** pošto izberite pravilnik z imenom Pravilnik filtriranja povezave **(privzeto),** tako da kliknete ime pravilnika.
+
+3. V prikazanem oknu s podrobnostmi kliknite **Urejanje pravilnika filtra** povezave v **razdelku Filtriranje** povezave.
+
+4. Preglejte vnose v razdelku Vedno dovoli sporočila iz **teh naslovov IP** ali obsega naslovov in si oglejte, ali je **izbrana** možnost Vklopi varni seznam.
+
+   > [!NOTE]
+   > Microsoft se naroči na vire zaupanja vrednih pošiljateljev tretjih oseb. Če je seznam varnih naslovov omogočen, ti zaupanja vredni pošiljatelji niso pomotoma označeni kot neželena pošta. Priporočamo, da to možnost izberete, saj se s tem zmanjša število napačnih pozitivnih pošiljateljev (dobra pošta, ki je razvrščena kot neželena pošta), ki jo prejmete.
+
+Če želite več informacij, [glejte Konfiguracija filtriranja povezave.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-connection-filter-policy)

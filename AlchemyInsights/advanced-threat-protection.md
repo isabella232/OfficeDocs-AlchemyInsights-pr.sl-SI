@@ -11,23 +11,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 2518c831277bc1cea0b339fc62fa456b7decbf5d9e5b8c2bb2733fe47c969a81
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0aa2d25952587bdc5e6294870b262116bb7170b38054f91ca1807ebb940ac031
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952229"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888974"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender za Office 365
 
 - Sef Priloge, Sef povezave in lažno predstavljanje so del programa Microsoft Defender za Office 365. Enterprise E5, Education A5 in Microsoft 365 Business Premium Microsoft Defender for Office 365. Za vse druge pakete potrebujete dodatek Microsoft Defender za Office 365 naročnino.
 
-- Dodeliti morate ustrezne licence, da zaščitite uporabnike s programom Microsoft Defender za Office 365. Glejte [Dodajanje uporabnikov in dodeljevanje licenc hkrati](/microsoft-365/admin/add-users/add-users) za navodila o množični uporabi licenc za uporabnike.
+- Dodeliti morate ustrezne licence, da zaščitite uporabnike s programom Microsoft Defender za Office 365. Glejte [Dodajanje uporabnikov in dodeljevanje licenc hkrati](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) za navodila o množični uporabi licenc za uporabnike.
 
-- Globalni skrbniki ali skrbniki za varnost lahko dostopajo do programa Microsoft Defender Office 365 funkcije v Središču za varnost in skladnost s predpisi & **v** pravilniku o \> **grožnjah.**
+- Globalni skrbniki ali skrbniki za varnost lahko dostopajo do funkcij Microsoft Defender for Office 365 na portalu za Microsoft 365 Defender na spletnem mestu Pravilniki za sodelovanje **med e-&** in \> **&** \> **pravilniki za grožnje.**
 
-- Sef Pravilniki Sef povezavah so lahko na voljo za celotno organizacijo, določene domene ali manjše skupine uporabnikov.
+- Sef Pravilniki Sef povezavah so lahko na voljo za določene domene, člane skupine ali posamezne uporabnike. Izjeme lahko določite tudi za Sef Priloge in Sef povezave na osnovi domen, članstva v skupini ali posameznih uporabnikov.
 
-- Pravilnik o prilogah ni Sef privzeti pravilnik. Ustvariti morate [pravilnik in ga](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) uporabiti za uporabnike.
+- Privzeti pravilnik o prilogah Sef ki ščiti e-poštna sporočila, ni na voljo. Ustvariti morate pravilnik [za zaščito prilog](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies) Sef e-pošti.
 
-- Privzeto je na voljo Sef povezave, ki velja za vse v vaši organizaciji. Če želite urediti ta pravilnik ali ustvariti pravilnike po meri, glejte Nastavitev pravilnikov Sef povezave v [aplikaciji Microsoft Defender za Office 365.](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies)
+  Sef Priloge za SharePoint, OneDrive in Microsoft Teams so omogočene ali onemogočene globalno in ne zahtevajo pravilnikov Sef priloge. Če želite več informacij, [Sef Priloge za SharePoint, OneDrive in Microsoft Teams.](https://docs.microsoft.com/microsoft-365/security/office-365-security/mdo-for-spo-odb-and-teams)
+
+- Ni privzetega pravilnika Sef povezave, ki ščiti e-poštna sporočila ali Microsoft Teams. Ustvariti morate pravilnik [za zaščito povezav](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies) Sef e-pošti in Teams.
+
+  Sef Zaščita povezav za aplikacije Office 365 velja za vse uporabnike v organizaciji, ki imajo licenco za Defender za Office 365, ne glede na to, ali so uporabniki vključeni v aktivne pravilnike za Sef povezave ali ne. Če želite več informacij, [Sef povezave za Office 365 aplikacije.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links#safe-links-settings-for-office-365-apps)

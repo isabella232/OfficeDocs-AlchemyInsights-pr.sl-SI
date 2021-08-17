@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b32cb8956c66a61090531c137532a2e93819b10b1dee3aa94a429e4d94844451
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937693"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889270"
 ---
 # <a name="activating-microsoft-365-apps"></a>Aktiviranje Microsoft 365 aplikacij
 
@@ -29,7 +29,7 @@ ms.locfileid: "53937693"
 
 - [Aktiviranje Officea v računalniku Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**Opomba:**  Prepričajte se, da imate naročnino na Office 365 ali Microsoft 365, ki vključuje odjemalske aplikacije za [Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)npr. Microsoft 365 Business Standard, Programi Microsoft 365 za manjša podjetja ali Programi Microsoft 365 za podjetja. Poleg tega poskrbite, da ima uporabniški račun, ki ga uporabljate za vpis v Office [ima dodeljeno licenco.](/microsoft-365/admin/manage/assign-licenses-to-users)
+**Opomba:**  Prepričajte se, da imate naročnino na Office 365 ali Microsoft 365, ki vključuje odjemalske aplikacije za [Office,](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)npr. Microsoft 365 Business Standard, Programi Microsoft 365 za manjša podjetja ali Programi Microsoft 365 za podjetja. Poleg tega poskrbite, da ima uporabniški račun, ki ga uporabljate za vpis v Office ima [dodeljene licence.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 Če želite popraviti težave z aktivacijo Officea, glejte:
 
@@ -40,7 +40,7 @@ ms.locfileid: "53937693"
 
 **Namig** na računalnikih s sistemom Windows lahko diagnosticirate in samodejno odpravite več pogostih težav pri vpisu v Office. Prenesite in zaženite orodje **[Pomočnik za podporo in obnovitev](https://aka.ms/SaRA-OfficeSignInScenario)** za uporabo avtomatiziranega orodja.
 
-Če se ne morete vpisati v Microsoft 365, sledite spodnjim korakom:
+Če se ne morete vpisati v Microsoft 365, upoštevajte spodnja navodila:
 
 1. Odprite Officeovo aplikacijo in se [izpišite](https://go.microsoft.com/fwlink/?linkid=2114082) iz vseh obstoječih uporabniških računov.
 
@@ -48,6 +48,6 @@ ms.locfileid: "53937693"
 
 3. Izberite Windows **Nastavitve > Računi > Dostop do službe ali šole** in prekinite povezavo s starimi ali neuporabljenimi službenimi računi.
 
-4. [Ponastavite stanje aktivacije Officea](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) in se nato [Vpišite v Officeove aplikacije](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) z novim računom.
+4. [Ponastavite stanje aktivacije Officea](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) in se nato [Vpišite v Officeove aplikacije](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) z novim računom.
 
 Če si želite ogledati dodatna dejanja za odpravljanje težav, glejte [Ko zaženem aplikacijo storitve Office 365, se prikaže obvestilo o naročnini](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).

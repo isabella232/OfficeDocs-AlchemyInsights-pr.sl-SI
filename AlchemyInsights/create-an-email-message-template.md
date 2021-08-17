@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003070"
 - "5830"
-ms.openlocfilehash: 284d7cbc8b140c49dae158663c560a65e17810eb
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: 447a9da970a0cb2e6e8ba21cc8f46082fd85d06b1244636c28fdebc2d911531d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49680160"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080582"
 ---
 # <a name="create-an-email-message-template"></a>Ustvarjanje predloge e-poštnega sporočila
 
 Če želite ustvariti predlogo e-poštnega sporočila:
 
-1. Na zavihku **osnovno** v programu Outlook Desktop v **skupini novo** kliknite **Nova e-pošta**.
+1. Na **zavihku** Osnovno v Outlook za namizne računalnike v **skupini Nova** skupina kliknite **Nova e-pošta.**
 
-    Bližnjica na tipkovnici če želite ustvariti e-poštno sporočilo, je CTRL + SHIFT + M.
+    Bližnjica na tipkovnici za ustvarjanje e-poštnega sporočila je CTRL+SHIFT+M.
 
-2. V telo sporočila vnesite želeno vsebino.
-3. V oknu s sporočilom kliknite zavihek **Datoteka** .
-4. Kliknite **Shrani kot**.
-5. V pogovornem oknu **Shrani kot** na seznamu **Shrani kot vrsto** kliknite **Outlookova predloga**.
-6. V polje **ime datoteke** vnesite ime predloge in nato kliknite **Shrani**.
+2. V telo sporočila vnesite vsebino, ki jo želite.
+3. V oknu sporočila kliknite **zavihek** Datoteka.
+4. Kliknite **Shrani kot.**
+5. V pogovornem **oknu** Shrani kot na **seznamu Vrsta datoteke** kliknite Shrani Outlook **predlogo.**
+6. V **polje Ime** datoteke vnesite ime predloge in nato kliknite **Shrani.**
 
-Privzete predloge so shranjene na tem mestu:
+Privzeto so predloge shranjene na tem mestu:
 
 **c:\users\username\appdata\roaming\microsoft\templates**

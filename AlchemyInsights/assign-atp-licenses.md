@@ -15,16 +15,16 @@ ms.custom:
 - commerce_licensing
 - "9003019"
 - "5778"
-ms.openlocfilehash: 517edd98ff30977b50a9634fbc274c77fe36c52eff4dc5c27b24e1d57dc7cc8e
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e50b9f1c388758bfe91652be734661170d36660fc8f30a3bd2d77e189e8bd813
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501760"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888906"
 ---
 # <a name="assign-microsoft-defender-for-office-365-licenses"></a>Dodelitev licence za Office 365 Microsoft Defender
 
-Microsoft Defender za Office 365 lahko dodelite uporabnikom v središču za Skrbnik za Microsoft 365 aplikacije.
+Microsoft Defender for Office 365 lahko dodelite uporabnikom v središču za Skrbnik za Microsoft 365 skupine.
 
 1. Pojdite na **Licence**  >  [za obračunavanje.](https://go.microsoft.com/fwlink/p/?linkid=842264)
 2. Izberite izdelek, za katerega želite dodeliti licence.
@@ -33,4 +33,4 @@ Microsoft Defender za Office 365 lahko dodelite uporabnikom v središču za Skrb
 5. Kliknite **Vklop ali izklop aplikacij in storitev, da**  dodelite ali odstranite aplikacije.
 6. Kliknite **Dodeli** in **Zapri.**
 
-Če želite kupiti več licenc ali jih odstraniti, glejte [Dodaj ali odstrani licence](/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
+Če želite kupiti več licenc ali jih odstraniti, glejte [Dodaj ali odstrani licence](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
