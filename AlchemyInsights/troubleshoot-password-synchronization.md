@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav pri sinhronizaciji gesel
+title: Odpravljanje težav s sinhronizacijo gesel
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,31 +14,31 @@ ms.custom:
 - "579"
 - "1300006"
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
-ms.openlocfilehash: 96f63f2ae8e5de246bce7fc15a9b2c3d604f2eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cb782c0d1dc396ee7a9f016afb9629a2cdee93d52f5408b7a73e576e783ebc0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664942"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54105774"
 ---
-# <a name="troubleshoot-password-synchronization"></a>Odpravljanje težav pri sinhronizaciji gesel
+# <a name="troubleshoot-password-synchronization"></a>Odpravljanje težav s sinhronizacijo gesel
 
-Če želite odpraviti težave s sinhronizacijo gesel, začnite s tem opravilom za odpravljanje težav s povezovanjem napak, da ugotovite, zakaj se gesla ne sinhronizirajo. Če želite začeti, pojdite v razdelek [upravljanje neposredne sinhronizacije](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement).  
+Če želite odpraviti težave s sinhronizacijo gesel, začnite s tem orodjem AAD in Povezovalnik, da ugotovite, zakaj se gesla ne sinhronizirajo. Za začetek pojdite na [Upravljanje neposredne sinhronizacije.](https://admin.microsoft.com/AdminPortal/Home#/dirsyncmanagement)  
 
-1. Odprite novo sejo sistema Windows PowerShell v strežniku Azure AD Connect Server in izberite možnost» **Zaženi kot skrbnik** «.
+1. Odprite novo sejo Windows PowerShell v strežniku Azure AD Povezovalnik in izberite **možnost Zaženi kot** skrbnik.
 
-2. Zaženite Set-ExecutionPolicy RemoteSigned ali Set-ExecutionPolicy neomejena.
+2. Zaženite Set-ExecutionPolicy RemoteSigned ali Set-ExecutionPolicy Neomejeno.
 
-3. Zaženite čarovnika za povezovanje v storitvi Azure AD.
+3. Zaženite čarovnika za Povezovalnik Azure AD.
 
-4. Pojdite na stran dodatna opravila > **Odpravljanje težav**  >  **naprej**.
+4. Pojdite na stran Dodatna opravila in > **odpravljanje**  >  **težav naprej.**
 
-5. Izberite» **Zaženi** «, da odprete meni odpravljanje težav z powershellom.
+5. Izberite **Zaženi,** da odprete meni za odpravljanje težav z lupino PowerShell.
 
-6. Izberite **Odpravljanje težav pri sinhronizaciji gesel**.
+6. Izberite Odpravljanje **težav s sinhronizacijo gesel.**
 
-    Težava je običajno, da geslo ni sinhronizirano za določen uporabniški račun.
+    Običajno je težava v tem, da geslo ni sinhronizirano za določen uporabniški račun.
 
-    **Opombe** Sinhronizacija gesel ni uspešna, če je bilo zadnje uspešno sinhronizirano geslo že nekaj časa nazaj.
+    **Opombe** Sinhronizacija gesla ne uspe, če je bila zadnja uspešna sinhronizacija gesla pred časom pred časom.
 
-Če želite več informacij o odpravljanju težav pri sinhronizaciji gesel, glejte [Odpravljanje težav z razprševanjem gesel s sinhronizacijo storitve AZURE ad Connect](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization).
+Če želite več pomoči pri odpravljanju težav s sinhronizacijo gesel, glejte Odpravljanje težav s sinhronizacijo gesla [s sinhronizacijo Povezovalnik z geslom.](https://docs.microsoft.com/azure/active-directory/hybrid/tshoot-connect-password-hash-synchronization)

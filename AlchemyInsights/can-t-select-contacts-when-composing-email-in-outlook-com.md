@@ -1,5 +1,5 @@
 ---
-title: Med sestavljanjem e-pošte v Outlook.com ni mogoče izbrati stikov
+title: Ni mogoče izbrati stikov med sestavljanjem e-pošte v Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,13 +15,13 @@ ms.custom:
 - "880"
 - "8000048"
 ms.assetid: 3f53fe58-1b89-4f80-a9a6-e2a719e6f943
-ms.openlocfilehash: 439a9889a688c1945b2c907f71fa7a9a73e9b0e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bfc88e44fde67792fe7362b78f54970c313661df76dea752cdd85fd03802d290
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045976"
 ---
 # <a name="cant-select-contacts-when-composing-email"></a>Med sestavljanjem e-poštnega sporočila ni mogoče izbrati stikov
 
-Ko sestavljate novo e-poštno sporočilo, nekatere stranke ne vidijo seznama stikov, ko kliknejo gumbe» **za** «ali» **Kp «** . Če želite izbrati stik, začnite vnašati v polja» **za** «ali» **Kp «** in bodo prikazani povezani stiki.
+Pri sestavljanju novega e-poštnega sporočila nekatere stranke ne vidijo seznama stikov, ko kliknejo **gumb »Za«** **ali** »Kp«. Če želite izbrati stik, začnite vnašati **besedilo v polji** »Za« ali »Kp« in prikažejo se povezani stiki. 

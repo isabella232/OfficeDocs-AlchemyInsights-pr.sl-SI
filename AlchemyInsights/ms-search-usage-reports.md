@@ -1,5 +1,5 @@
 ---
-title: Uvod v uporabo poročil o uporabi storitve Microsoft Search
+title: Uvod v uporabo poročil Iskanje Microsoft o uporabi
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11047"
-ms.openlocfilehash: 2da847a66d227cbad07d56d733488a216deacbe7
-ms.sourcegitcommit: 29a88bc83086b18b0e0fd14fe8ed18a4f88edd06
+ms.openlocfilehash: b5bfba500c229ee58f82fde1de01da91c46ecbc991fb4c2f7418b0dc3bf141e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52676397"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077306"
 ---
-# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Uvod v uporabo poročil o uporabi storitve Microsoft Search
+# <a name="get-started-with-using-microsoft-search-usage-reports"></a>Uvod v uporabo poročil Iskanje Microsoft o uporabi
 
-V poročilih o uporabi Microsoftovega iskanja so na voljo vpogledi v delovanje iskanja v vaši organizaciji. Ti vpogledi vam bodo pomagali poiskati vsebino in narediti iskanje uporabnejše in čudovitejše za uporabnike v organizaciji.
+Iskanje Microsoft poročila o uporabi omogočajo vpoglede v delovanje iskanja v vaši organizaciji. Ti vpogledi vam bodo pomagali poiskati vsebino in narediti iskanje uporabnejše in čudovitejše za uporabnike v organizaciji.
 
-Če želite več informacij, glejte [Poročila o uporabi Microsoftovega iskanja.](https://go.microsoft.com/fwlink/?linkid=2152048)
+Če želite izvedeti več, [glejte Iskanje Microsoft o uporabi.](https://go.microsoft.com/fwlink/?linkid=2152048)
