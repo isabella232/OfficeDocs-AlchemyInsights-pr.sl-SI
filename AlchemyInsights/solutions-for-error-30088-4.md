@@ -13,25 +13,25 @@ ms.assetid: 2c03462c-8a6a-4042-a6fd-cd9e009b8a3f
 ms.custom:
 - "829"
 - "2000020"
-ms.openlocfilehash: 32ccbd1caafd0b9d7221f3a90336ce70c3ca803e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ecaad00644fbdf4f8a2658cfe85120bcef7c45fcdfb4e7d1320234c69f9fac80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738617"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050206"
 ---
 # <a name="solutions-for-error-30088-4"></a>Rešitve za napako 30088-4
 
-Poskusite odpraviti te rešitve, da odpravite napako [30088-4](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA):
+Težavo [30088-4 poskusite odpraviti s temi rešitvami:](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?wt.mc_id=Alchemy_ClientDIA)
   
-- Znova zaženite računalnik in poskusite [namestiti Office](https://portal.office.com/OLS/MySoftware.aspx).
+- Znova zaženite računalnik [in poskusite namestiti Office](https://portal.office.com/OLS/MySoftware.aspx).
 
 - Prenesite in namestite [pomočnika za podporo in obnovitev](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. Ko se odpre, **odstranite Officeove izdelke** izberite različico, ki jo želite odstraniti, in izberite **naprej**.
+1. Ko se odpre, na **strani Odstranitev Office izberite** različico, ki jo želite odstraniti, nato pa izberite **Naprej.**
 
 2. Pomikajte se po oknih in ob pozivu znova zaženite računalnik.
 
-    Po vnovičnem zagonu je pomočnik za podporo in obnovitev samodejno znova odprt za dokončanje postopka odstranjevanja.
+    Po ponovnem zagonu se pomočnik za podporo in obnovitev znova odpre okno za samodejno odpiranje, da dokončate postopek odstranitve.
 
-3. Sledenje preostalim pozivom in [Vnovična namestitev Officea](https://portal.office.com/OLS/MySoftware.aspx) ali zapiranje pomočnika.
+3. Sledite preostalim pozivom [in znova Office](https://portal.office.com/OLS/MySoftware.aspx) ali zaprite pomočnika.

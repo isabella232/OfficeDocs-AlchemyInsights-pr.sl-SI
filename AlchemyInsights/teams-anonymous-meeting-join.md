@@ -1,5 +1,5 @@
 ---
-title: Omogočanje ali preprečevanje anonimnim uporabnikom, da bi se pridružili srečanjem v teams
+title: Omogočanje ali preprečevanje anonimnim uporabnikom, da bi se pridružili Teams srečanjem
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a867d9b8da34b3c78add5bad6f30c45653adc965a061ed235429a7d7447cffd6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106961"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Omogočanje ali preprečevanje anonimnim uporabnikom, da bi se pridružili srečanjem v teams
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>Omogočanje ali preprečevanje anonimnim uporabnikom, da bi se pridružili Teams srečanjem
 
-V Skrbniškem središču za Teams lahko nadzorujete nastavitve anonimnega sestanka.
+Anonimne nastavitve za pridružitev srečanju lahko nadzorujete v Teams skrbniškem središču.
 
 **Ta sprememba začne veljati v 24 urah.**
 
-1.  Odprite skrbniško [središče za Teams](https://admin.teams.microsoft.com)
+1.  Odprite [skrbniško središče Teams mesta](https://admin.teams.microsoft.com)
 2.  V levem podoknu za krmarjenje pojdite do možnosti **Nastavitve**   >   **srečanja**.
 3.  V  **razdelku Udeleženci** vklopite  **Anonimni uporabniki se lahko pridružijo srečanju**.

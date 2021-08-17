@@ -1,5 +1,5 @@
 ---
-title: Naročnina, ki je potrebna za sinhronizacijo Microsoft Edge za delo z računi storitve Azure Active Directory
+title: Naročnina, potrebna Microsoft Edge sinhronizacija za delo z Azure Active Directory računi
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004022"
 - "7088"
-ms.openlocfilehash: ee2369c02896b67eb7c7f448a38fa862de545c73
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 21e4db366f2650bdd4902b2877ace3c1b3a09be8be215c0c27a4faaf4deef8d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573873"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049621"
 ---
-# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Naročnina, ki je potrebna za sinhronizacijo Microsoft Edge za delo z računi storitve Azure Active Directory
+# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>Naročnina, potrebna Microsoft Edge sinhronizacija za delo z Azure Active Directory računi
 
-Sinhronizacija bo delovala z enim od teh naročnin:
+Sinhronizacija deluje z eno od teh naročnin:
 
-1. Paket Azure Active Directory Premium (P1 in P2)
+1. Azure Active Directory Premium (P1 in P2)
 1. Microsoft 365 Business Premium
-1. Office 365 E3 in novejše različice
-1. Zaščita informacij Azure (P1 in P2)
-1. Vse naročnine na Office 365 Education:
-    - Microsoftovi programi za študente ali učno osebje
-    - Exchange Online za študente ali učno osebje
-    - Office 365 a1 ali novejše različice
-    - Microsoft 365 a1 ali novejša
-    - Zaščita informacij Azure ali P2 za študente ali učno osebje
+1. Office 365 E3 in več
+1. Azure Information Protection (P1 in P2)
+1. Vse Office 365 Education naročnine:
+    - Microsoftove aplikacije za študente ali izobraževalno osebje
+    - Exchange Online za študente ali izobraževalno osebje
+    - Office 365 A1 ali več
+    - Microsoft 365 A1 ali več
+    - Azure Information Protection P1 ali P2 za študente ali izobraževalno osebje

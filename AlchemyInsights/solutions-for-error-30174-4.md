@@ -14,22 +14,22 @@ ms.custom:
 - "831"
 - "2000020"
 ms.assetid: 523894a9-94a2-4ed8-848c-58ac9b597bc8
-ms.openlocfilehash: fee75a657db7c3e79a8098a9691b2f7d0490acd5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca8f4d68eae7ff223e396925678fbcfd5af7537ff50153bf91d35ed04b41b554
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738653"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050170"
 ---
-# <a name="error-code-30174-4-when-installing-office"></a>Koda napake 30174-4 pri namestitvi Officea
+# <a name="error-code-30174-4-when-installing-office"></a>Koda napake 30174-4 pri namestitvi Office
 
-To napako lahko vidite, če vaša protivirusna programska oprema, požarni zid, nastavitve strežnika proxy ali povezava preprečujejo namestitev Officea. Tukaj je nekaj stvari, s katerimi lahko poskusite odpraviti težavo.
+To sporočilo o napaki se lahko prikaže, če protivirusna programska oprema, požarni zid, nastavitve strežnika proxy ali povezava preprečuje namestitev Office. Tukaj je nekaj rešitev, s kako lahko poskusite odpraviti težavo.
   
-- Uporaba žične povezave
+- Uporabi žično povezavo
 
-- Začasno izklopite nastavitve strežnika proxy
+- Začasen izklop nastavitev proxyja
 
-- Začasno izklopite protivirusno programsko opremo
+- Začasen izklop protivirusne programske opreme
 
-[Koda napake 30174-4 pri namestitvi Officea](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
+[Koda napake 30174-4 pri namestitvi Office](https://support.office.com/article/5d5551db-266f-47b3-93fc-d51c2e8f4c0b?wt.mc_id=Alchemy_ClientDIA)
   
