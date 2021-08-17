@@ -1,5 +1,5 @@
 ---
-title: Vsebina ni prikazana v rezultatih iskanja v SharePointu
+title: Vsebina ni prikazana v SharePoint rezultatih iskanja
 ms.author: tlarsen
 author: tklarsen
 ms.date: 04/21/2020
@@ -12,26 +12,26 @@ ms.custom:
 - "750"
 - "5300017"
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: a57711434d653f5d5667776916c9251bba2370e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ca03c31def64e43935d734a17735b10373e5ca85b5f4ea0f0e886b9ea39884cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713146"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081626"
 ---
-# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Vsebina ni prikazana v rezultatih iskanja v SharePointu
+# <a name="content-doesnt-appear-in-sharepoint-search-results"></a>Vsebina ni prikazana v SharePoint rezultatih iskanja
 
-Upoštevajte te korake za odpravljanje težav, ko pričakovana vsebina ni prikazana v rezultatih iskanja:
+Upoštevajte ta navodila za odpravljanje težav, če pričakovana vsebina ni prikazana v rezultatih iskanja:
   
-1. Preverite, ali je **mesto** , ki vsebuje pričakovano vsebino, nastavljeno tako, da omogoči prikaz vsebine v rezultatih iskanja. Upoštevajte navodila v razdelku [prikaz vsebine na mestu v rezultatih iskanja](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
+1. Preverite, ali **je mesto** s pričakovano vsebino nastavljeno tako, da dovoli, da je vsebina prikazana v rezultatih iskanja. Upoštevajte navodila v [koraku Prikaz vsebine na spletnem mestu v rezultatih iskanja.](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results)
 
-2. Preverite, ali je **seznam** ali **Knjižnica** , ki vsebuje pričakovano vsebino, nastavljena tako, da omogoči prikaz vsebine v rezultatih iskanja. Upoštevajte navodila v razdelku [prikaz vsebine s seznamov ali knjižnic v rezultatih iskanja](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results).
+2. Preverite, ali **je seznam** ali **knjižnica,** ki vsebuje pričakovano vsebino, nastavljena tako, da dovoli, da se vsebina prikaže v rezultatih iskanja. Upoštevajte navodila v [članku Prikaz vsebine seznamov ali knjižnic v rezultatih iskanja.](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results)
 
-3. Prepričajte se, da je postavitev strani, dokumenta ali strani po meri objavljena kot **glavna različica.** Sledenje koraku 3 v razdelku [Iskanje ne vrne vseh rezultatov v SharePoint onlineu](https://go.microsoft.com/fwlink/?linkid=874525).
+3. Prepričajte se, da je postavitev strani, dokumenta ali strani po meri objavljena kot **glavna različica.** Upoštevajte 3. [korak v možnosti Iskanje ne vrne vseh rezultatov v SharePoint Online.](https://go.microsoft.com/fwlink/?linkid=874525)
 
-4. Preverite, ali ima uporabnik **dovoljenja** za ogled vsebine. Upoštevajte navodila v [razumevanju ravni dovoljenj v SharePointu](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+4. Preverite, ali ima **uporabnik dovoljenja** za ogled vsebine. Upoštevajte navodila v [razdelku Razumevanje ravni dovoljenj v SharePoint.](https://docs.microsoft.com/sharepoint/understanding-permission-levels)
     
-5. Če ste iskalno shemo spremenili tako, da ste dodali novo upravljano lastnost, tako da uredite upravljano lastnost, ali tako, da odstranite upravljano lastnost, se zahteva iskanje po vsebini in vnovičnem indeksiranju. **Znova Indeksirajte** vsebino tako, da upoštevate navodila v razdelku [ročno Zahtevaj iskanje po vsebini in vnovično indeksiranje spletnega mesta, knjižnice ali seznama](https://docs.microsoft.com/sharepoint/crawl-site-content). To utegne trajati nekaj časa, počakati 24 ur, preden znova pregledate rezultate.
+5. Če je bila shema iskanja spremenjena z dodajanjem nove upravljane lastnosti, z urejanjem upravljane lastnosti ali z odstranitvijo upravljane lastnosti, boste morali zahtevati iskanje po vsebini in ponovno indeksiranje. **Znova indeksijte** vsebino tako, da sledite korakom v ročna zahteva iskanja po vsebini in ponovno [indeksiranje mesta, knjižnice ali seznama.](https://docs.microsoft.com/sharepoint/crawl-site-content) To lahko traja nekaj časa, počakajte 24 ur, preden znova preverite rezultate.
 
-Če želite več informacij, glejte [omogočanje iskanja vsebine na spletnem mestu](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
+Če želite več informacij, glejte [Omogočanje vsebine mesta za iskanje.](https://docs.microsoft.com/sharepoint/make-site-content-searchable) 
   

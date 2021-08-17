@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: e457f07a8180788dd612e0e905190276bd459856
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 0927d1dac654fc0678709eb19b3d5732536196beae36d102d1a94bf7617b1b45
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311415"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892883"
 ---
 # <a name="view-all-quarantined-messages"></a>Ogled vseh sporočil v karanteni
 
-1. V portalu Microsoft 365 Defender vpišite v karanteno za <https://security.microsoft.com> **preverjanje &-pošto** \>  \> **in sodelovanje.**
+1. V portalu Microsoft 365 Defender pojdite v karanteno <https://security.microsoft.com> **za pregled & e-pošte** \>  \> **in sodelovanja.**
 
    Če se želite neposredno posneti **na stran** Karantena, uporabite <https://security.microsoft.com/quarantine> .
 

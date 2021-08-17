@@ -13,18 +13,18 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 57a1756787f8297a2a1ab3012b95aaa2f33e6045
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887516"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313035"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>Prepoznavanje naslova IP in odjemalca v dnevnikih nadzora
 
 Naslov IP, ki ustreza dejavnosti uporabnika ali Microsoft 365, je prikazan v dnevnikih nadzora. Zabeležene so tudi informacije o odjemalcu. Spodaj so navodila za določanje teh informacij
 
-1. Prijavite se v središče [za Microsoft 365 s predpisi.](https://protection.office.com/)
+1. Prijavite se v središče [za Microsoft 365 za skladnost s predpisi.](https://protection.office.com/)
 
 2. Pojdite na stran **iskanja**  >  **v dnevniku nadzora** iskanja.
 

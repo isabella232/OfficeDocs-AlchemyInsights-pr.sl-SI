@@ -1,5 +1,5 @@
 ---
-title: Nakup licenc za naročnino na Programi Microsoft 365 za manjša podjetja naročnino
+title: Nakup licenc za naročnino Programi Microsoft 365 za manjša podjetja naročnino
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,14 +14,14 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: a7c749095478a227f7981b7057a92690d90b9195802bde3a8f784e25d1ac03a7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 51c3e5ed3398b8d341bc2e84b8ae56bfd36a07f4de167042891a9ed606a94669
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499672"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892555"
 ---
-# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Nakup licenc za naročnino na Programi Microsoft 365 za manjša podjetja naročnino
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>Nakup licenc za naročnino Programi Microsoft 365 za manjša podjetja naročnino
 
 Ko uporabnikom dodeljujete licence, boste morda ugotovili, da morate kupiti dodatne licence.
 
@@ -29,7 +29,7 @@ Ko uporabnikom dodeljujete licence, boste morda ugotovili, da morate kupiti doda
   
 1. V skrbniškem središču odprite stran  >  [Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **zavihku** Izdelki poiščite naročnino, ki jo želite posodobiti. Izberite tri pike (več dejanj), nato pa **izberite Nakup licenc.**
-3. V **podoknu Nakup** licenc **v** razdelku  Nova količina v polju Skupno število licenc vnesite skupno število licenc, ki jih želite za to naročnino. Če imate na primer 100 licenc in jih želite dodati še 25, vnesite 125.
+3. V **podoknu Nakup** licenc v razdelku  **Nova** količina v polju Skupno število licenc vnesite skupno število licenc, ki jih želite za to naročnino. Če imate na primer 100 licenc in jih želite dodati še 25, vnesite 125.
 4. Izberite **Shrani**.
 
-Če želite izvedeti več, [glejte Nakup ali odstranjevanje licenc.](/microsoft-365/commerce/licenses/buy-licenses)
+Če želite izvedeti več, [glejte Nakup ali odstranjevanje licenc.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

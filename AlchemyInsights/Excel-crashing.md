@@ -11,14 +11,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f16279c447e656548e8ce853353766c5c65df156
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53918483"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312775"
 ---
-# <a name="frequent-excel-crashes"></a>Se pogosto Excel sesutja?
+# <a name="frequent-excel-crashes"></a>Ali se Excel zrušitev?
 
 Pogoste zrušitve Excel sistemih lahko povzroča nepravi dodatek. Dodatek za Excel onemogočite tako:
   
@@ -28,12 +28,11 @@ Pogoste zrušitve Excel sistemih lahko povzroča nepravi dodatek. Dodatek za Exc
 
 3. V Add-Ins voljo počistite potrditveno polje ob dodatku, ki ga želite onemogočiti, in nato kliknite V **redu.**
 
-> [!NOTE]
-> Če Excel zagonu zruši, ga zaženite v Sef tako, da med zagonom programa pritisnete in pridržite tipko Ctrl.
+**Opomba:** če se Excel med zagonom zruši, jo zaženite v Sef tako, da med zagonom programa pritisnete in pridržite tipko Ctrl.
   
 Če imate še vedno težave, si oglejte te članke:
   
-- [Ko zaženem aplikacijo 2016 ali 2013, se prikaže sporočilo o napaki »ne deluje več« Office 2016 ali 2013 v računalniku](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [Ko zaženem aplikacijo 2016 ali 2013, se prikaže Office napaka »ne deluje več«](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
 - [Odpravljanje težav z zrušitev in brez odziva v Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 

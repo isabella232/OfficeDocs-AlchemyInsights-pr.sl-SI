@@ -1,5 +1,5 @@
 ---
-title: SAML trditve (žetoni)
+title: SAML Assertions (Tokens)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004341"
 - "7753"
-ms.openlocfilehash: 557e23da09df3ab066c2ad7c0352f5fd904b5490
-ms.sourcegitcommit: a61a29dbd0382370fea0be5fa4a61c9a1a9354c7
+ms.openlocfilehash: 9c8ff0d4ff6da98ed6a5c42570d4a5fac80b00e93d1356b298528bd8d2c51a5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49885676"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109256"
 ---
-# <a name="saml-assertions-tokens"></a>SAML trditve (žetoni)
+# <a name="saml-assertions-tokens"></a>SAML Assertions (Tokens)
 
-1. Žetoni za označevanje varnostnih znakov (SAML) so XML, ki predstavljajo terjatve. Privzeto so SAML žetoni za Windows Communication Foundation (WCF) v zveznih varnostnih scenarijih izdani žetoni. Če želite več informacij, glejte [SAML žetoni in terjatve](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims).
-2. Platforma Microsoft Identity oddaja več vrst varnostnih žetonov pri obdelavi posameznega toka preverjanja pristnosti. [Sklici na SAML žetona](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) opisujejo obliko, varnostne značilnosti in vsebino žetonov SAML 2,0.
-3. Upoštevajte navodila v napravah, ki jih je mogoče [konfigurirati v sistemu Microsoft Identity platform](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) , da razumete, kako konfigurirate življenjske dobe žetona.
-4. Upoštevajte navodila, opisana v [tem članku](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption) , da razumete, kako konfigurirate šifriranje SAML žetona Azure ad.
-5. V storitvi Azure AD lahko nastavite možnosti podpisovanja potrdil in algoritma za podpis potrdila. Če želite več informacij, glejte [napredne možnosti podpisovanja potrdil v SAML žeton za aplikacije Gallery v imeniku Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).
+1. Žetoni SAML (Security Assertions Markup Language) so predstavitve zahtevkov XML. Žetoni SAML, ki Windows Communication Foundation (WCF), se privzeto uporabljajo v scenarijih varnosti za druge uporabnike. Če želite več informacij, [glejte Žetoni in zahtevki SAML.](https://docs.microsoft.com/dotnet/framework/wcf/feature-details/saml-tokens-and-claims)
+2. V Microsoftova platforma za identitete preverjanja pristnosti je v obdelavi posameznega toka preverjanja pristnosti oddajanih več vrst varnostnih žetonov. [Sklic na zahtevke za žeton SAML](https://docs.microsoft.com/azure/active-directory/develop/reference-saml-tokens) opisuje obliko zapisa, varnostne značilnosti in vsebino žetonov SAML 2.0.
+3. Upoštevajte navodila v možnosti [Življenjske dobe žetonov, ki jih je mogoče konfigurirati Microsoftova platforma za identitete,](https://docs.microsoft.com/azure/active-directory/develop/active-directory-configurable-token-lifetimes) če želite razumeti, kako konfigurirate življenjske dobe žetonov.
+4. Upoštevajte navodila v tem [članku, da](https://docs.microsoft.com/azure/active-directory/manage-apps/howto-saml-token-encryption) boste razumeli, kako konfigurirate šifriranje žetona Azure AD SAML.
+5. V azure AD lahko nastavite možnosti podpisovanja potrdil in algoritem za podpisovanje potrdil. Če želite več informacij, glejte Dodatne možnosti podpisovanja potrdila v [žetonu SAML za galerije programov v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/certificate-signing-options).

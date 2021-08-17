@@ -1,5 +1,5 @@
 ---
-title: Voden postopek Office 365 s storitvijo FastTrack
+title: Voden postopek Office 365 namestitve s FastTrack
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -13,21 +13,20 @@ ms.custom:
 - "9003885"
 - "6939"
 - "9419"
-ms.openlocfilehash: 35b18e1fc353d3a757a4b2aded385111bd723f61386fe6d2f7c1315536cc30af
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b5914e6c7ade38e90bdc56be5b72323abf05770c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913407"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313229"
 ---
-# <a name="guided-office-365-setup-process-with-fasttrack"></a>Voden postopek Office 365 s storitvijo FastTrack
+# <a name="guided-office-365-setup-process-with-fasttrack"></a>Voden postopek Office 365 namestitve s FastTrack
 
-Če ste upravičeni do Office 365 fastTrack, lahko zahtevate pomoč prek portala. Če iščete samostojno pomoč ali pomoč partnerja, vam lahko Office 365 čarovniki za nastavitev sistema ali kvalificiranega partnerja pomagajo pri procesu.
+Če ste upravičeni do Office 365 FastTrack, lahko zahtevate pomoč prek portala. Če iščete samostojno pomoč ali pomoč partnerja, vam lahko Office 365 čarovniki za namestitev ali kvalificiranega partnerja pomagajo pri procesu.
 
-- Če želite pomoč prek portala FastTrack, se vpišite v [portal FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) in upoštevajte navodila za dokončanje zahteve za pomoč Microsoft 365 obrazcu.
+- Če želite pomoč prek portala za FastTrack, se vpišite v portal za [FastTrack](https://go.microsoft.com/fwlink/?linkid=2125443) in upoštevajte navodila za dokončanje zahteve za pomoč v Microsoft 365 obrazcu.
 
-    > [!NOTE]
-    > Če imate težave z vpisom ali potrebujete dodatno pomoč, pošljite e-poštno sporočilo [ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
+    **Opomba:** Če imate težave z vpisom ali potrebujete dodatno pomoč, pošljite e-poštno sporočilo [na ftcrfa@microsoft.com](mailto:ftcrfa@microsoft.com).
 
 - Če želite samostojno pomoč za Office 365 glejte Navodila [za namestitev.](https://go.microsoft.com/fwlink/?linkid=2125827)
 - Če želite poiskati ponudnika rešitev, [glejte Iščemo ponudnika rešitev.](https://go.microsoft.com/fwlink/?linkid=2125918)

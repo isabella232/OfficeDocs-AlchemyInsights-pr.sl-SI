@@ -15,26 +15,26 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: 0899e81892117e1d512aa37a264ad3a77cf27b5c457f04c4d6a8d56753300543
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 17b78533dd1477095a7302704bf2f37c52f6d8a3fef61d756413ce51cc5f200f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502408"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893071"
 ---
 # <a name="billing-and-payment"></a>Obračunavanje in plačilo
 
-Račune najdete na zavihku Računi **za**  >  [obračunavanje & plačila.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Privzeto so prikazani zadnji 3 meseci računov.  Če si želite ogledati starejše račune, prilagodite filter.  Če si **želite ogledati račun,** kliknite povezavo Prenesi PDF računa.
+Račune najdete na zavihku Računi **&**  >  [plačila.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Privzeto so prikazani zadnji 3 meseci računov.  Če si želite ogledati starejše račune, prilagodite filter.  Če si **želite ogledati račun,** kliknite povezavo Prenesi PDF računa.
 
 **Prejemajte račune po e-pošti**
 
-Na strani **Obvestila** o obračunavanju obračunavanja lahko vklopite to funkcijo in upravljate uporabnike, ki bodo prejeli račun kot  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) e-poštno  prilogo. Račun bo poslan na e-poštne naslove uporabnikov na seznamu prejemnikov obvestila. Na seznamu so vsi skrbniki za obračunavanje in globalni skrbniki.  S spremembo vloge lahko upravljate, kdo prejema obvestila o računih.  Če odstranite vlogo globalnega skrbnika ali skrbnika za obračunavanje, odstranite tega uporabnika s seznama prejemnikov, če dodate vlogo globalnega skrbnika ali skrbnika za obračunavanje, dodate uporabnika na seznam prejemnikov.
+Na strani **Obvestila** o obračunavanju obračunavanja lahko vklopite to funkcijo in upravljate uporabnike, ki bodo prejeli račun  >  [](https://go.microsoft.com/fwlink/p/?linkid=853212) kot e-poštno  prilogo. Račun bo poslan na e-poštne naslove uporabnikov na seznamu prejemnikov obvestila. Na seznamu so vsi skrbniki za obračunavanje in globalni skrbniki.  S spremembo vloge lahko upravljate, kdo prejema obvestila o računih.  Če odstranite vlogo globalnega skrbnika ali skrbnika za obračunavanje, odstranite tega uporabnika s seznama prejemnikov, če dodate vlogo globalnega skrbnika ali skrbnika za obračunavanje, dodate uporabnika na seznam prejemnikov.
 
-**Opomba:** Prejeli boste dve ločeni e-poštni sporočili: ena vas bo obvestila, da je račun pripravljen, z navodili za prijavo v skrbniško središče za ogled, in drugo e-poštno sporočilo, ki vsebuje obračun kot prilogo.
+**Opomba:** Prejeli boste dve ločeni e-poštni sporočili: ena vas bo obvestila, da je račun pripravljen, z navodili za prijavo v Skrbniško središče za ogled, in drugo e-poštno sporočilo, ki vsebuje obračun kot prilogo.
 
 **Plačilo**
 
-Če plačujete s kreditno kartico ali z nakazilom na bančni račun, bo način plačila, povezan z vašimi naročninami, bremenen v nekaj dneh od naročniškega računa. Če plačilo ne uspe, posodobite ali spremenite način plačila.
+Če plačujete s kreditno kartico ali z nakazilom na bančni račun, bo način plačila, povezan z vašimi naročninami, bremenen v nekaj dneh po tem, ko ustvarite račun. Če plačilo ne uspe, posodobite ali spremenite način plačila.
 
 Če ste dodali novo kartico in še vedno dobivate obvestilo o zavrnini za staro kreditno kartico, boste morda morali to novo kartico povezati z naročnino.
 
@@ -55,10 +55,10 @@ Na strani **Obvestila** o obračunavanju obračunavanja lahko vklopite to funkci
 
 7. Nov način plačila je že izbran na spustnem seznamu. Izberite **Nadomesti**.
 
-Za več informacij glejte [Upravljanje načinov plačila](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+Za več informacij glejte [Upravljanje načinov plačila](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **Frekvenca obračunavanja**
 
 Računi se ustvarijo mesečno ali letno, odvisno od pogostosti obračunavanja, izbrane ob 23.00.2007.  
 
-**Opomba:** Naročila z letnim obračunavanjem lahko prejmejo sredino obračuna, če so bile narejene spremembe, kot je dodajanje ali odstranjevanje licenc. [Spremenite pogostost obračunavanja.](/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
+**Opomba:** Naročila z letnim obračunavanjem lahko prejmejo sredino obračuna, če so bile narejene spremembe, kot je dodajanje ali odstranjevanje licenc. [Spremenite pogostost obračunavanja.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency)
