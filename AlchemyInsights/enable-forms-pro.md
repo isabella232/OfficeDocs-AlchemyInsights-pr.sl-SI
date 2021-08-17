@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: c4fad42beb2eebd96ee096732a12c206c1d6cbf4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03d5a9d06e2fe2f34d26d4fdc5b2e1b3cc40268d9e226cba2f30aae880d941fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814244"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057226"
 ---
 # <a name="enable-or-disable-forms-pro"></a>Omogočanje ali onemogočanje storitve Forms Pro
 
-Storitev Microsoft Forms Pro se je razvila v storitev Dynamics 365 Customer Voice, ki vam zagotavlja dodatne zmogljivosti anket in poslovnih prednosti. Če želite več informacij, glejte [Viri pomoči za storitev Dynamics 365 Customer Voice.](https://go.microsoft.com/fwlink/p/?linkid=2128357)  
+Storitev Microsoft Forms Pro se razvila v storitev Dynamics 365 Customer Voice, ki vam zagotavlja dodatne zmogljivosti anket in poslovne prednosti. Če želite več informacij, glejte [Viri pomoči za storitev Dynamics 365 Customer Voice.](https://go.microsoft.com/fwlink/p/?linkid=2128357)  
 
-Microsoft Forms Pro je vključen v licenco za Dynamics 365 enterprise. Skrbnik pa lahko kupi licenco za Microsoft Forms Pro. Licenco za Microsoft Forms Pro lahko uporabniku tudi odstranite.  
+Microsoft Forms Pro je vključen v licenco za Dynamics 365 enterprise. Skrbnik pa lahko kupi licenco za Microsoft Forms Pro licenco. Uporabniku lahko tudi odstranite licenco Pro Microsoft Forms.  
 
-Če želite več informacij o licenciranju, [glejte Nakup aplikacije Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) in Onemogočanje aplikacije Microsoft Forms Pro za [uporabnika.](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1)
+Če želite več informacij o licenciranju, glejte Nakup storitve [Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) in [Onemogočanje storitve Microsoft Forms Pro za uporabnika.](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1)
   
-Če želite vire pomoči, glejte [Odpravljanje težav v programu Forms Pro.](https://docs.microsoft.com/forms-pro/troubleshoot)
+Če želite vire pomoči, glejte [Odpravljanje težav v storitvi Forms Pro](https://docs.microsoft.com/forms-pro/troubleshoot).
