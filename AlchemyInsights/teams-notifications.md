@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: 281ddc7d729a8749084925b85568d441bf8e7502
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1f01e98ec970005446150d393f8c04725050991c2a011fad98f22113f2246681
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830994"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106556"
 ---
-# <a name="teams-notifications-faq"></a>Pogosta vprašanja o obvestilih v aplikaciji Teams
+# <a name="teams-notifications-faq"></a>Teams pogosta vprašanja o obvestilih
 
 
-- Obvestila [napišejo uporabniki ,](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d)skrbniki pa ne morejo spremeniti nastavitev obvestil v uporabnikovem imenu. V namizni aplikaciji Teams izberite svojo sliko profila v zgornjem desnem kotu aplikacije Teams, nato pa odprite Nastavitve in>obvestila o dejavnosti
+- Obvestila [napišejo uporabniki ,](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d)skrbniki pa ne morejo spremeniti nastavitev obvestil v uporabnikovem imenu. V namizni Teams izberite svojo sliko profila v zgornjem desnem kotu aplikacije Teams nato pa odprite Nastavitve>o dejavnosti
 
-- [Obvestila o odpravljanju težav za mobilne aplikacije Teams](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c).
+- [Obvestila o odpravljanju težav Teams mobilnih aplikacijah.](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c)
 
-- Obvestila lahko prejmete na štiri načine: prek vira Dejavnost, Klepet, Pasica obvestila in E-pošta. Zamujena e-pošta o dejavnosti je poslana, ko ste v teams neaktivni nekaj časa. Če [želite več informacij, glejte Šest stvari, ki jih je treba](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) vedeti o obvestilih
+- Obvestila lahko prejmete na štiri načine: prek vira Dejavnost, Klepet, Pasica obvestila in E-pošta. Zamujena e-pošta o dejavnosti je poslana, Teams nedejavna v določenem časovnem obdobju. Če [želite več informacij, glejte Šest stvari, ki jih je treba](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) vedeti o obvestilih
 
-Če želite več informacij o obvestilih v aplikaciji Teams, [glejte Upravljanje obvestil v aplikaciji Teams.](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA)
+Če želite več informacij o Teams obvestilih, [glejte Upravljanje obvestil v Teams](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).

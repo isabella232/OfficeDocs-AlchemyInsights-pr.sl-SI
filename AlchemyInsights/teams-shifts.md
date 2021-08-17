@@ -1,5 +1,5 @@
 ---
-title: Premiki ekip
+title: Teams Izmene
 ms.author: heidip
 author: heidip
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6251"
 - "9000161"
-ms.openlocfilehash: cf8ada741fd93283513d868869b0e216373f6b7d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cf4227da85656ee0200ca8a1e4ced10229d7dce6ab91cdbc62f63a41c899c80d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106514"
 ---
-# <a name="using-teams-shifts"></a>Uporaba izmen v aplikaciji Teams
+# <a name="using-teams-shifts"></a>Uporaba Teams izmen
 
-Če želite več informacij o upravljanju programa Shifts, vključno s tem, kako nastavite premike, omogočite premike za uporabnike in upravljajte program Shifts, glejte:
+Če želite več informacij o upravljanju aplikacije Shifts, vključno z nastaviti izmene, omogočiti izmene za uporabnike in upravljati aplikacijo Shifts, glejte:
  
-- [Upravljajte program shifts za svojo organizacijo v aplikaciji Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
-- [Omogočite ali onemogočite premike za določene uporabnike v organizaciji](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization).
+- [Aplikacijo Izmene za svojo organizacijo upravljajte v Microsoft Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#set-up-shifts).
+- [Omogočite ali onemogočite izmene za določene uporabnike v organizaciji.](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts/manage-the-shifts-app-for-your-organization-in-teams#enable-or-disable-shifts-for-specific-users-in-your-organization)
 
-Če želite izvedeti več o izmenah za Teams, vključno z upravljanjem načrta izmen, glejte [premiki za ekipe](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
+Če želite izvedeti več o izmenah za Teams, vključno z upravljanjem urnika izmen, glejte [Shifts for Teams](https://docs.microsoft.com/microsoftteams/expand-teams-across-your-org/shifts-for-teams-landing-page).
 
-**Efektivna junij 30, 2020**, Microsoft Staffhub je bil upokojen. Če želite več informacij, [si oglejte Microsoft StaffHub je bil upokojen](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired).
+**S 30. junijem 2020** je bil Microsoft Staffhub ukien. Če želite več informacij, glejte [Microsoft StaffHub je bil uki delavnik.](https://docs.microsoft.com/MicrosoftTeams/expand-teams-across-your-org/shifts/microsoft-staffhub-to-be-retired)
 

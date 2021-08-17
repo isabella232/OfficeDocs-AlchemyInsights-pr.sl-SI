@@ -1,5 +1,5 @@
 ---
-title: Kdo je rezerviral datoteko?
+title: Who ali je datoteka rezervirana?
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 12407f490f80412d801d01b717e3f7919b3cfb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32f22a3906f7a976ce607c0516be8b63dcfe472dd22f0b9c933e79950ba5e932
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699211"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047848"
 ---
-# <a name="who-has-a-file-checked-out"></a>Kdo je rezerviral datoteko?
+# <a name="who-has-a-file-checked-out"></a>Who ali je datoteka rezervirana?
 
-Če si želite ogledati, kdo ima datoteko rezervirano v SharePointu, lahko naredite eno od teh korakov:
+Če želite videti, kdo je rezerviral datoteko SharePoint, lahko naredite nekaj od tega:
   
-1. Premaknite kazalec miške nad **rezervirano** , če si želite ogledati Opis orodja, ki vam pove, kdo je datoteko rezerviral. 
+1. Premaknite kazalec **na možnost Rezervirano,** da se prikaže opis orodja z opisom, kdo je rezerviral datoteko. 
     
-2. Dodajte stolpec **Rezervirajte** na privzeti pogled knjižnice. Na ta način lahko vsi preprosto vidijo, kdo je dokument rezerviral. 
+2. V **privzeti pogled knjižnice** dodajte stolpec Rezerviral. Tako si lahko vsi preprosto ogledajo, kdo je rezerviral dokument. 
     
-Če želite izvedeti več o tem, kako dodate rezervacijo po stolpcu v SharePointu, si oglejte [ustvarjanje stolpca na seznamu ali v knjižnici](https://go.microsoft.com/fwlink/?linkid=2019591). 
+Če želite izvedeti, kako dodate stolpec Rezerviral v SharePoint, glejte [Ustvarjanje stolpca na seznamu ali v knjižnici.](https://go.microsoft.com/fwlink/?linkid=2019591) 
   
-Oglejte si več pogostih vprašanj o prijavi ali rezervaciji, glejte [najpogostejša vprašanja o rezervaciji, sprostite](https://go.microsoft.com/fwlink/?linkid=2018786)se.
+Oglejte si najpogostejša vprašanja o prijavi ali odjavi, glejte [Najpogostejša vprašanja](https://go.microsoft.com/fwlink/?linkid=2018786)o rezerviranja in prijavi .
   
 
