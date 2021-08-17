@@ -13,19 +13,28 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 877f22a48e9ff1f4bac34cb0ea4f37407b4b109d
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483167"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57893607"
 ---
 # <a name="retrieve-the-audit-logs"></a>Pridobivanje dnevnikov nadzora
 
-Ko prvič odprete dnevnik nadzora, bo prazna. Če želite videti, kaj je tam, morate opraviti iskanje. Spodaj je prikazan postopek splošnega iskanja za vse dejavnosti:
+Ko prvič odprete dnevnik nadzora, bo ta prazen. Če želite videti, kaj vse je na tem mestu, morate narediti iskanje. Splošno iskanje vseh dejavnosti naredite tako:
 
-1. Pojdite na [stran za iskanje dnevnika nadzora](https://protection.office.com/#/unifiedauditlog) (ali se pomaknite do razdelka varnost v **skrbniških centrih**  >  **& skladnost središča** za iskanje  >  **&**  >  **iskanje dnevnika nadzora**).
-1. V polju **dejavnosti** Sprejmi privzeto, **Pokaži rezultate za vse dejavnosti**.
-1. Določite datumski obseg in v polje **Uporabniki** sprejmete privzeto vrednost za vrnitev rezultatov za vse uporabnike ali pa izberite uporabniško ime za uporabnika, ki ga želite raziskati.
-1. Kliknite **Išči**. Dejavnosti so prikazane v razdelku **Rezultati**.
-1. Če si želite ogledati podrobnosti, kliknite dejavnost in nato izberite **več informacij**. Videli boste več informacij, kot so odjemalec, uporabnik, ki je opravil dejanje itd.
+1. Naredite nekaj od tega:
+   - V Središče za skladnost okolja Microsoft 365 na <https://compliance.microsoft.com> strani , pojdite na **Nadzor** \> **rešitev.** Če pa se želite neposredno po vrniti na **stran Nadzor,** uporabite <https://compliance.microsoft.com/auditlogsearch> .
+   - V portalu Microsoft 365 Defender na <https://security.microsoft.com> spletnem mestu , pojdite na **Nadzor**. Če pa se želite neposredno po vrniti na **stran Nadzor,** uporabite <https://security.microsoft.com/auditlogsearch> .
+
+2. Na **zavihku** Iskanje na **strani** Nadzor konfigurirajte te nastavitve:
+   - **Datumski** in časovni obseg: Izberite datumski/časovni obseg v **poljih** **Začetek** in Konec.
+   - **Dejavnosti:** Potrdite **polje Pokaži rezultate za vse** dejavnosti.
+   - **Uporabniki:** Sprejmite prazno privzeto vrednost, če želite vrniti rezultate za vse uporabnike, ali pa vnesite enega ali več uporabnikov.
+
+3. Ko končate, kliknite **Iskanje.** Dejavnosti so prikazane na novi **strani Nadzora** iskanja.
+
+4. V rezultatih izberite dejavnost, da odprete letak s podrobnostmi. Videli boste več informacij, kot so odjemalec, uporabnik, ki je izvedel dejanje itd.
+
+Če želite izvedeti več, glejte [Iskanje po dnevniku nadzora in raziskovanje pogostih težav s podporo.](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios)
