@@ -1,5 +1,5 @@
 ---
-title: Več informacij o preslikavi med pravilniki za Microsoft Edge Legacy in pravilniki Microsoft Edge
+title: Več o preslikavi med starejša različica brskalnika Microsoft Edge in pravilniki Microsoft Edge podatkov
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "9003843"
 - "7095"
-ms.openlocfilehash: f9d65c043ee726fa110b09d38cdd4ee6b72c2d7b
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 6891f2d0ee2b1fe4893d5b6173737f8ba20e2d50ef68e51a764e5f9f1fc7f790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573824"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087404"
 ---
-# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Več informacij o preslikavi med pravilniki za Microsoft Edge Legacy in pravilniki Microsoft Edge
+# <a name="learn-about-mapping-between-microsoft-edge-legacy-policies-and-microsoft-edge-policies"></a>Več o preslikavi med starejša različica brskalnika Microsoft Edge in pravilniki Microsoft Edge podatkov
 
-Pravilniki skupine Microsoft Edge Legacy (različice 45 in starejših) ter preslikava nastavitev prenosne naprave (MDM) na ustrezne pravilnike različice Microsoft Edge 80. Če želite izvedeti več, glejte [Microsoft Edge Legacy na Microsoftovo preslikavo pravilnika Edge](https://go.microsoft.com/fwlink/?linkid=2141665).
+Pravilniki skupine za starejša različica brskalnika Microsoft Edge (različice 45 in starejše) in nastavitve upravljanja mobilnih naprav (MDM) se preslikajo v ustrezne pravilnike programa Microsoft Edge različici 80. Če želite izvedeti več, [starejša različica brskalnika Microsoft Edge Microsoft Edge preslikave pravilnika](https://go.microsoft.com/fwlink/?linkid=2141665).

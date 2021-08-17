@@ -1,5 +1,5 @@
 ---
-title: Prilagajanje slike gostitelja seje za navidezni namizni računalnik s sistemom Windows
+title: Prilagajanje slike gostitelja seje za navidezno Windows računalnika
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003902"
 - "6957"
-ms.openlocfilehash: 23bf130aad5bafa6756f0adfc2e58a130c2f6c4e
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 2740fc58b33606e8475b4d8a80b62330d1deeaacd48b7c8035a75eb93e93c2a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49692201"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118652"
 ---
-# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Prilagajanje slike gostitelja seje za navidezni namizni računalnik s sistemom Windows
+# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>Prilagajanje slike gostitelja seje za navidezno Windows računalnika
 
-Navidezni stroj (VM) lahko na dva načina pripravite tako, da uporabite matrico navideznega trdega diska za Windows Virtual Desktop:
+Navidezni računalnik lahko z matrico slike navideznega trdega diska za navidezno namizje pripravite na Windows računalnika:
 
-1. [Ustvarite VM iz upravljane slike v](https://go.microsoft.com/fwlink/?linkid=2127906)storitvi Azure in nato preskočite na [pripravo in namestitev programske opreme](https://go.microsoft.com/fwlink/?linkid=2128064).
-1. [Ustvarite sliko lokalno](https://go.microsoft.com/fwlink/?linkid=2128065) tako, da prenašate sliko, [omogočate omogočanje uporabe HIPER-V VM](https://go.microsoft.com/fwlink/?linkid=2127907)in jo prilagodite svojim potrebam.
+1. [Na upravljani sliki v storitvi Azure](https://go.microsoft.com/fwlink/?linkid=2127906)ustvarite navideznega, nato pa skočite naprej na pripravo in [namestitev programske opreme.](https://go.microsoft.com/fwlink/?linkid=2128064)
+1. [Sliko ustvarite lokalno](https://go.microsoft.com/fwlink/?linkid=2128065) s prenosom slike, omogočanjem uporabe [hyper-VM](https://go.microsoft.com/fwlink/?linkid=2127907)in nato prilagajanjem slike svojim potrebam.
 
-Če želite več informacij, glejte [Priprava in prilagajanje slike z matrico VHD](https://go.microsoft.com/fwlink/?linkid=2127838).
+Če želite izvedeti več, [glejte Priprava in prilagajanje matrice slike VHD.](https://go.microsoft.com/fwlink/?linkid=2127838)

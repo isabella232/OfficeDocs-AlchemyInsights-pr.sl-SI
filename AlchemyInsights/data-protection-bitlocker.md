@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 8166a055d7a967faab83484619b443cc98239c7c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3f6e48b9d2f7562d74d60c2901759a7ab359e5c67bd4aa2d556d941a41ab680c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815631"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118610"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>Omogočanje šifriranja Bitlocker s funkcijo Intune
 
-S pravilnikom za zaščito končne točke za Intune lahko konfigurirate nastavitve šifriranja Bitlocker za naprave s sistemom Windows. Če želite več informacij, glejte [Nastavitve sistema Windows 10 (in novejše različice) za zaščito naprav z uporabo storitve Intune.](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
+S pravilnikom za zaščito končne točke za Intune lahko konfigurirate nastavitve šifriranja Bitlocker za Windows naprave. Če želite več informacij, [Windows 10 (in novejših) nastavitev za zaščito naprav z uporabo storitve Intune.](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption)
 
 Poleg pravilnika za zaščito končne točke je na voljo tudi poročilo o šifriranju, ki nudi podrobnejši pogled stanja šifriranja za naprave. Do tega poročila lahko dostopate na portalu MEM v razdelku **Naprave > Monitor** in nato v razdelku **Konfiguracija izberite** Poročilo o [šifriranju.](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport)
 
@@ -31,13 +31,13 @@ Poleg pravilnika za zaščito končne točke je na voljo tudi poročilo o šifri
 
 Ne pozabite, da številne novejše naprave s sistemom Windows 10 podpirajo samodejno šifriranje Bitlocker, ki se sproži brez uporabe pravilnika MDM. To lahko vpliva na uporabo pravilnika, če so konfigurirane privzete nastavitve. Več podrobnosti najdete v teh pogostih vprašanjih.
 
-Če želite več informacij o odpravljanju težav s funkcijo bitlocker, [glejte Odpravljanje težav s pravilniki za BitLocker v storitvi Microsoft Intune.](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies)
+Če želite več informacij o odpravljanju težav s funkcijo bitlocker, [glejte Odpravljanje težav s pravilniki za BitLocker Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
 **Pogosta vprašanja**
 
-V: Katere izdaje sistema Windows podpirajo šifriranje naprave s pravilnikom za zaščito končne točke?<br>
-O: Nastavitve v pravilniku za zaščito končne točke za Intune so posodobljene z uporabo storitve [Bitlocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Vse izdaje ali gradice sistema Windows ne podpirajo storitve Bitlocker CSP. <br><br>
+V: Katere izdaje Windows podpirajo šifriranje naprave s pravilnikom za zaščito končne točke?<br>
+O: Nastavitve v pravilniku za zaščito končne točke za Intune so posodobljene z uporabo storitve [Bitlocker CSP](https://docs.microsoft.com/windows/client-management/mdm/bitlocker-csp). Vse izdaje ali Windows ne podpirajo storitve Bitlocker CSP. <br><br>
 
 V: Kako je mogoče Bitlocker omogočiti v napravah, ne da bi potrebovali interakcijo s končnim uporabnikom?<br>
 O: Če so izpolnjeni zahtevani predpogoji, lahko s funkcijo Bitlocker »Tiho šifriranje« omogočite prek storitve Intune. Oglejte si podrobnosti zahtev naprave in vzorčne nastavitve pravilnika za omogočanje tihega šifriranja v tem dokumentu: [Tiho omogočanje šifriranja bitlocker](https://docs.microsoft.com/mem/intune/protect/encrypt-devices#silently-enable-bitlocker-on-devices). <br><br>
@@ -50,6 +50,6 @@ V: Ali bo naprava šifrirana zaradi uporabe pravilnika za Intune, ali bo dešifr
 O: Odstranjevanje pravilnika, ki je povezan s šifriranjem, NE povzroči dešifriranja pogonov, ki so bili konfigurirani.
  
 V: Zakaj pravilnik o skladnosti s predpisi za Intune kaže, da v moji napravi ni omogočena storitev Bitlocker, čeprav je?<br>
-O: Nastavitev »Bitlocker je omogočena« v pravilniku o skladnosti s predpisi storitve Intune uporablja odjemalca Windows Device Health Bluetooth (DHA). Ta odjemalec meri le stanje naprave v času zagona. Če torej naprava ni bila znova zagnala, odkar je bilo šifriranje Bitlocker dokončano, storitev odjemalca DHA ne bo prijavila funkcije Bitlocker kot aktivna.
+O: Nastavitev »Bitlocker je omogočena« v pravilniku o skladnosti s predpisi storitve Intune uporablja odjemalca Windows potrditev ustreznosti stanja naprave (DHA). Ta odjemalec meri le stanje naprave v času zagona. Če torej naprava ni bila znova zagnala, odkar je bilo šifriranje Bitlocker dokončano, storitev odjemalca DHA ne bo prijavila funkcije Bitlocker kot aktivna.
  
  

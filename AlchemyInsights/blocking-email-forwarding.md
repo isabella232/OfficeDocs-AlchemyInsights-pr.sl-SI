@@ -1,5 +1,5 @@
 ---
-title: 726 blokiranje posredovanja e-pošte
+title: 726 Blokiranje posredovanja e-pošte
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
-ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
+ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48478342"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059648"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Blokiranje ali odblokiranje posredovanja e-pošte
+# <a name="blocking-or-unblocking-email-forwarding"></a>Blokiranje ali deblokiranje posredovanja e-pošte
 
-Če želite omogočiti ali onemogočiti posredovanje e-pošte za določen nabiralnik, glejte [Konfiguracija posredovanja e-pošte](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+Če želite omogočiti ali onemogočiti posredovanje e-pošte za določen nabiralnik, glejte [Konfiguracija posredovanja e-pošte.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Na ravni najemnika se nadzor zunanjega posredovanja izvaja s pravilnikom odhodne neželene pošte. Pravilnik za filtriranje neželene pošte lahko preverite [v središču za](https://protection.office.com/antispam) varnost in skladnost s predpisi ali pa uporabite [ukaz» Get-HostedOutboundSpamFilterPolicy «](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+Na ravni najemnika se nadzor zunanjega posredovanja opravi s pravilnikom o odhodni neželeni pošti. Tukaj ali z ukazom [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)lahko preverite pravilnik filtriranja odhodne neželene pošte v središču za varnost in skladnost s predpisi. [](https://protection.office.com/antispam)
 
-Če se prikaže to sporočilo o napaki: **» 550 5.7.520 Access je zavrnjen, vaša organizacija ne dovoli zunanje posredovanosti «**, preverite, ali je pravilnik konfiguriran tako, da omogoča zunanjo samodejno posredovanje.
+Če se prikaže to sporočilo o napaki: **»550 5.7.520** Dostop je zavrnjen, vaša organizacija ne dovoli zunanjega posredovanja«, preverite, ali je pravilnik konfiguriran tako, da omogoča zunanje samodejno posredovanje.
 
-**Opomba:** Priporočljivo je, da zunanje samodejno posredovanje onemogočite na privzeti pravilnik za filtriranje neželene pošte in ga omogočite le za uporabnike, ki potrebujejo zunanjo preusmeritev, tako da ustvarijo pravilnik po meri za te uporabnike. Več informacij najdete v članku [Konfiguriranje posredovanja zunanjih e-poštnih sporočil v sistemu Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**Opomba:** Priporočljivo je, da je zunanji samodejni skrbnik onemogočen za privzeti pravilnik filtriranja odhodne pošte in ga omogočite le za uporabnike, ki potrebujejo zunanje posredovanje, tako da tem uporabnikom ustvarite pravilnik po meri. Več o tem lahko preberete [v možnosti Konfiguracija zunanjega posredovanja e-Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)

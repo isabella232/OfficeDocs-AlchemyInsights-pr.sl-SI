@@ -1,5 +1,5 @@
 ---
-title: Preimenovanje spletnega mesta
+title: Preimenovanje mesta
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,24 +11,24 @@ ms.custom:
 - "977"
 - "5300028"
 ms.assetid: f5c85f1b-4ed6-441c-8f5d-d3e4713fb98d
-ms.openlocfilehash: 2cf5047714594c86eff86e5371e08ef110e5f3de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcba86584c42587c89c9c7ae4cdb3f05b6e51bd509ab7a36a41de2ac00f8f391
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54110762"
 ---
-# <a name="rename-a-sharepoint-site"></a>Preimenovanje SharePointovega mesta
+# <a name="rename-a-sharepoint-site"></a>Preimenovanje SharePoint mesta
 
-Navodila za spreminjanje/preimenovanje URL-ja mesta so dokumentirana v članku [Spreminjanje naslova mesta](https://docs.microsoft.com/sharepoint/change-site-address); na primer, če želite spremeniti https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2 .
+Koraki za spreminjanje/preimenovanje URL-ja mesta so [zabeleženi v sklopu za spreminjanje naslova mesta;](https://docs.microsoft.com/sharepoint/change-site-address) na primer za spreminjanje iz https://contoso.sharepoint.com/sites/sample1 v https://contoso.sharepoint.com/sites/sample2 .
 
-Za znane napake pri preimenovanju [si oglejte napake, ko preimenujete naslov SharePointovega mesta](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86).
+Če želite več o znanih napakah med preimenovanjem, glejte [Napake pri preimenovanju SharePoint naslova mesta.](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
 
-Za znane učinke po preimenovanju glejte [učinki spreminjanja naslova mesta](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address).
+Za znane učinke po preimenovanju glejte [Učinki spreminjanja naslova mesta.](https://docs.microsoft.com/sharepoint/change-site-address#effects-of-changing-a-site-address)
 
-**Opomba:** Imena domene ni mogoče spremeniti (v zgornjem primeru je del URL-ja» contoso «) v URL-ju za SharePoint online. 
+**Opomba:** Imena domene (v primeru zgoraj, dela »contoso« URL-ja) ne morete spremeniti v url-ju storitve SharePoint Online. 
 
 Če želite več informacij, si oglejte:
 
-- [Spreminjanje imena domene SharePointa](https://go.microsoft.com/fwlink/?Linkid=2018696)
-- [Napake pri preimenovanju naslova SharePointovega mesta](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)
+- [Spreminjanje SharePoint domene](https://go.microsoft.com/fwlink/?Linkid=2018696)
+- [Napake pri preimenovanju naslova SharePoint mestu](https://support.office.com/article/errors-when-you-rename-a-sharepoint-site-address-165b7c11-1325-4813-b160-ecbe87bc1a86)

@@ -15,12 +15,12 @@ ms.custom:
 - "1500001"
 - "277"
 - "4852"
-ms.openlocfilehash: f540989ca78e7a367bc3a7dfdbb2acd9ce06e0b0db23d1b4f05835ae0061c113
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: f9c00baebd563b2a3e6a8d742432349fe0e623d07794530785591daf1a9bd9ca
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54500032"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895507"
 ---
 # <a name="change-payment-method"></a>Spreminjanje načina plačila
 
@@ -36,6 +36,6 @@ Način plačila lahko spremenite v **Skrbniško središče za Microsoft 365**.
 6. V podokno **Dodaj način plačila** vnesite podatke o računu in izberite **Shrani**. Uporabiti morate način plačila iz iste države kot vaš najemnik.
 7. Nov način plačila je že izbran na spustnem seznamu. Izberite **Nadomesti**.
 
-Če želite izvedeti, kako dodate, posodobite, zamenjate ali izbrišete načine plačila, glejte [Upravljanje načinov plačila.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+Če želite izvedeti, kako dodate, posodobite, zamenjate ali izbrišete načine plačila, glejte [Upravljanje načinov plačila.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
-Če želite izvedeti, kako spremenite način plačila, [glejte Kako plačati naročnino.](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+Če želite izvedeti, kako spremenite način plačila, [glejte Kako plačati naročnino.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

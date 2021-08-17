@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: b173c6eb3bbbd1beba3b59878ae12bbe7684d0447a16fef746e5b97b82349e53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065300"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895807"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Attack Rio in Microsoft 365
 
-- Ali pogrešate napadajoče napade? Plan **2 ali Office 365 (Paket 2)** ali **paket Office 365 Enterprise E5** zahteva Microsoft Defender . Storitev Attack Premium **ni vključena** v Microsoft Defender za Office 365 paket 1, Office 365 Enterprise E3 ali katere koli Programi Microsoft 365 za manjša podjetja naročnine.
+- Ali pogrešate napadajoče napade? Plan 2 ali **Office 365 (paket 2)** ali **paket E5 zahteva Office 365 Enterprise Defender**. Storitev Attack Premium **ni vključena** v Microsoft Defender za Office 365 paket 1, Office 365 Enterprise E3 ali katere koli Programi Microsoft 365 za manjša podjetja naročnine.
 
-- Račun, ki ga uporabljate za zagon simuliranih napadov, zahteva dovoljenja globalnega skrbnika ali skrbnika za varnost in večkratno preverjanje pristnosti (MFA). Če želite več informacij o zahtevah napadov z napadom, si [oglejte to temo.](/microsoft-365/security/office-365-security/attack-simulator)
+- Račun, ki ga uporabljate za zagon simuliranih napadov, zahteva dovoljenja globalnega skrbnika ali skrbnika za varnost in večkratno preverjanje pristnosti (MFA). Če želite več informacij o zahtevah napadov z napadom, si [oglejte to temo.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 
 - Pomembne stvari, ki jih je treba vedeti **o simulacijah napadov z** grobih geslih:
 
@@ -35,8 +35,8 @@ ms.locfileid: "54065300"
 
   - Privzeto ni mogoče vati vrednosti po meri za URL strežnika za prijavo v lažno **predstavljanje.**
 
-  - Če prejemnik uporablja dodatek Omogoči sporočilo poročila [za](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) prijavite sporočilo kot lažno, morda ne boste prejeli opozoril za sporočilo (ker gre za simuliran napad).
+  - Če prejemnik uporablja dodatek Omogoči sporočilo poročila [za](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) poročanje o sporočilu kot lažno predstavljanje, morda ne boste prejeli opozoril za sporočilo (ker gre za simuliran napad).
 
 - Poročila: Ko je simulacija napada končana, lahko kliknete **Podrobnosti** o napadu, da si ogledate poročilo.
 
-- Če želite podrobna navodila in nove funkcije v napadu Rio, glejte [Attack Rio v Microsoft 365](/microsoft-365/security/office-365-security/attack-simulator).
+- Če želite podrobna navodila in nove funkcije v napadaalni napadu, glejte [Attack Rio v Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: b9daff7b03f34fbadc50c023aad2e7636274cb1a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: d1ca4a95a9f08255eb631af0996d274395d122bc76ca369944cc029f7f4314f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58296067"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895995"
 ---
 # <a name="release-quarantined-messages"></a>Izdaja sporočil v karanteni
 
 Sporočilo v karanteni (ali nabor sporočil) lahko spustite vsem prejemnikom ali pa sporočilo spustite le določenim ljudem, ki ste jih izbrali na seznamu vseh prejemnikov. To lahko:
 
-1. V portalu Microsoft 365 Defender vpišite v karanteno za <https://security.microsoft.com> **preverjanje &-pošto** \>  \> **in sodelovanje.**
+1. V portalu Microsoft 365 Defender vpišite v <https://security.microsoft.com> karanteno **za preverjanje &-pošto** \>  \> **in sodelovanje.**
 
    Če se želite neposredno posneti **na stran** Karantena, uporabite <https://security.microsoft.com/quarantine> .
 

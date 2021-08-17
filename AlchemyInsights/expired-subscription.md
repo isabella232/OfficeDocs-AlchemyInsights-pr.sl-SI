@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029748"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895903"
 ---
 # <a name="expired-subscription"></a>Potekla naročnina
 
@@ -35,7 +35,7 @@ Ena ali več naročnin je poteklo. Če želite še naprej storitve, morate znova
 3. V **podoknu Znova aktiviraj** to naročnino na spustnem seznamu izberite način plačila ali pa **izberite Dodaj način plačila**.
 4. Izberite **Shrani**.
 
-Če želite več informacij, preberite članek [Vnovična aktivacija naročnine](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+Če želite več informacij, preberite članek [Vnovična aktivacija naročnine](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **Nov nakup**
   
@@ -44,4 +44,4 @@ Ena ali več naročnin je poteklo. Če želite še naprej storitve, morate znova
 3. Vnesite število licenc, ki jih potrebujete, in izberite, ali želite plačevati mesečno ali za celo leto. Izberite, ali želite licence samodejno dodeliti vsem uporabnikom, ki trenutno nima licence. Nato izberite **Oglejte si zdaj.**
 4. Upoštevajte preostala navodila, da dokončate dokončanje postopka.
 
-Če želite izvedeti več, glejte [Nakup druge naročnine.](/microsoft-365/commerce/buy-another-subscription)
+Če želite izvedeti več, glejte [Nakup druge naročnine.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription)
