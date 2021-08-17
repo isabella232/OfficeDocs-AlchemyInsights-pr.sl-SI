@@ -1,5 +1,5 @@
 ---
-title: Pogoji, ki jih ni v trgovini SharePoint online
+title: Manjkajoči pogoji SharePoint spletne shrambe izrazov
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,43 +11,42 @@ localization_priority: Normal
 ms.custom:
 - "1243"
 - "5200021"
-ms.openlocfilehash: 06711c289365c0fcdf71cf9cccf3cfc53511495a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d99458d6f9b65e44ad5945c909b9a8861cf0b1f23463fcdfd5b8351b1c08d670
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106442"
 ---
-# <a name="enabling-bitlocker-encryption-with-intune"></a>Omogočanje šifriranja BitLockerja s funkcijo InTune
+# <a name="enabling-bitlocker-encryption-with-intune"></a>Omogočanje šifriranja Bitlocker s funkcijo Intune
 
-Če želite konfigurirati nastavitve šifriranja Boitlocker za naprave s sistemom Windows, kot je opisano v: Windows10 (in novejših), uporabite nastavitve za zaščito naprav s funkcijo InTune
+S pravilnikom za zaščito končne točke za Intune lahko konfigurirate nastavitve šifriranja Boitlocker za naprave s sistemom Windows, kot je opisano v : Nastavitve sistema Windows10 (in novejše različice) za zaščito naprav z uporabo storitve Intune
 
-Zavedati se morate, da številne novejše naprave, v katerih je nameščen Windows 10, podpirajo samodejno šifriranje BitLockerja, ki se sproži brez uporabe pravilnika MDM. To lahko vpliva na uporabo pravilnika, če niso privzete nastavitve konfigurirane. Če želite več podrobnosti, glejte Pogosta vprašanja.
-
-
-Pogosta vprašanja   o tem: katere izdaje šifriranja naprave za Windows podpirajo s pravilnikom o zaščiti končnih točk?
- A: nastavitve v pravilniku o zaščiti končnih točk se izvajajo s sistemom BitLocker CSP.Ni vseh izdaj in ne gradi sistema Windows, ki podpirajo sistem BitLocker. 
-      V tem času izdaje sistema Windows: Enterprise; Podpora za izobraževanje, mobilno, mobilno podjetništvo in Professional (od gradnje 1809 naprej).
+Ne pozabite, da številne novejše naprave s sistemom Windows 10 podpirajo samodejno šifriranje bitlocker, ki se sproži brez uporabe pravilnika MDM. To lahko vpliva na uporabo pravilnika, če so konfigurirane nepri privzete nastavitve. Če želite več podrobnosti, glejte Pogosta vprašanja.
 
 
-
-
-V: če je naprava že šifrirana s funkcijo BitLocker s privzetimi nastavitvami sistema OS za način šifriranja in trdnost ključa (XTS-AES-128), bo uporaba pravilnika z različnimi nastavitvami samodejno sprožil vnovično šifriranje pogona z novimi nastavitvami?
-
-O: Ne. Če želite uporabiti nove nastavitve šifer, mora biti pogon najprej dešifriran.
-
-Opomba pri napravah, ki so vpisani s samodejnim avtopilotom, se samodejno šifriranje, ki se pojavi med OOBE, ne sproži, dokler ni ovrednoten pravilnik, ki omogoča uporabo nastavitev pravilnika, ki jih je treba uporabiti namesto privzetih vrednosti za OS.
+Pogosta vprašanja V: Katere izdaje Windows podpirajo šifriranje naprave s pravilnikom za zaščito končne točke?
+O: Nastavitve v pravilniku za zaščito končne točke za Intune so posodobljene s programom Bitlocker CSP.  Vse izdaje in Windows ne podpirajo storitve Bitlocker CSP. V tem trenutku Windows izdaje: Enterprise; Podprte so storitve Education, Mobile Enterprise in Professional (od delovne skupine 1809 naprej).
 
 
 
 
-Q Če je naprava šifrirana zaradi uporabe pravilnika za InTune, bo dešifrirana, ko je ta pravilnik odstranjen?
+V: Če je naprava že šifrirana s funkcijo Bitlocker s privzetimi nastavitvami operacijskega sistema za način šifriranja in moč cipher (XTS-AES-128), bo pravilnik z različnimi nastavitvami samodejno sprožil ponovno šifriranje pogona z novimi nastavitvami?
 
-A: odstranitev pravilnika, povezanega s šifriranjem, ne povzroči dešifriranja pogonov, ki so bili konfigurirani.
+O: Ne. Če želite uporabiti nove nastavitve za cipher, morate najprej dešifrirati pogon.
+
+Opomba Za naprave, ki so včlanjene s funkcijo Autopilot, se samodejno šifriranje, ki bi se pojavilo med OOBE, ne sproži, dokler ni ovrednoten pravilnik za Intune, ki omogoča uporabo nastavitev na podlagi pravilnika na mestu privzetih nastavitev operacijskega sistema
 
 
 
 
-V: zakaj pravilnik o skladnosti s predpisi pokaže, da moja naprava nima omogočene funkcije» BitLocker «;
+V Če je naprava šifrirana zaradi uporabe pravilnika za Intune, ali bo dešifrirana, ko bo ta pravilnik odstranjen?
 
-A: nastavitev» BitLocker Enabled «v pravilniku o skladnosti s predpisi, ki uporablja odjemalca s sistemom Windows za zdravstveno varstvo (DHA). Ta odjemalec samo določi stanje naprave ob zagonu. Če naprava ni bila znova zagnana, ker je bilo šifriranje BitLocker dokončano, odjemalska storitev DHA ne bo prijavila funkcije BitLocker kot aktivno.
+O: Odstranjevanje pravilnika, povezanega s šifriranjem, NE povzroči dešifriranja pogonov, ki so bili konfigurirani.
+
+
+
+
+V: Zakaj pravilnik o skladnosti storitve intune kaže, da v moji napravi ni omogočena možnost »Bitlocker Enabled«, vendar je?
+
+O: Nastavitev »Bitlocker je omogočena« v pravilniku o skladnosti s predpisi storitve Intune uporablja odjemalca Windows preverjanje ustreznosti stanja naprave (DHA). Ta odjemalec meri le stanje naprave v času zagona. Če torej naprava ni bila znova zagnala, odkar je bilo šifriranje bitlocker dokončano, odjemalska storitev DHA ne prijavi funkcije bitlocker, da je aktivna.

@@ -1,5 +1,5 @@
 ---
-title: Namestitev Microsoft Officeovih programov v napravo s sistemom Android
+title: Namestitev Microsoft Office v napravo s sistemom Android
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003905"
 - "6960"
-ms.openlocfilehash: d88916ec9b81d078de837827eab1af95022c4ce3
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 169f9ad8da8e196d28d47595e23fce9d54ad82388b1b8e173971663b3d83d3f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714944"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54078062"
 ---
-# <a name="install-microsoft-office-apps-on-an-android-device"></a>Namestitev Microsoft Officeovih programov v napravo s sistemom Android
+# <a name="install-microsoft-office-apps-on-an-android-device"></a>Namestitev Microsoft Office v napravo s sistemom Android
 
-V telefonu ali tabličnem računalniku s sistemom Chromebooka lahko namestite Microsoft Officeove aplikacije kot ločene aplikacije ali kot snop.
+V računalnik Chromebook ali telefon ali tablični računalnik s sistemom Android Microsoft Office aplikacije v ločeni aplikaciji ali v sveženj.
 
-- [Namestitev Officeovega programa (snopa) iz trgovine Google Play](https://go.microsoft.com/fwlink/?linkid=2137009)
-- [Namestitev Officeovega programa (snopa) iz spletne trgovine Chrome](https://go.microsoft.com/fwlink/?linkid=2137212)
-- [Namestitev Microsoft Worda iz trgovine Google Play](https://go.microsoft.com/fwlink/?linkid=2136994)
-- [Namestite Microsoft Excel iz trgovine Google Play](https://go.microsoft.com/fwlink/?linkid=2137120)
-- [Namestite Microsoft PowerPoint iz trgovine Google Play](https://go.microsoft.com/fwlink/?linkid=2137121)
-- [Namestitev programa Microsoft OneNote iz trgovine Google Play](https://go.microsoft.com/fwlink/?linkid=2137211)
+- [Namestitev aplikacija Office (paketa) iz Trgovine Google Play](https://go.microsoft.com/fwlink/?linkid=2137009)
+- [Namestite aplikacija Office (sveženj) z Spletna trgovina Chrome](https://go.microsoft.com/fwlink/?linkid=2137212)
+- [Namestitev Microsoft Word iz Trgovine Google Play](https://go.microsoft.com/fwlink/?linkid=2136994)
+- [Namestitev Microsoft Excel iz Trgovine Google Play](https://go.microsoft.com/fwlink/?linkid=2137120)
+- [Namestitev aplikacije Microsoft PowerPoint iz Trgovine Google Play](https://go.microsoft.com/fwlink/?linkid=2137121)
+- [Namestitev Microsoft OneNote iz Trgovine Google Play](https://go.microsoft.com/fwlink/?linkid=2137211)
 
-Če želite izvedeti več, glejte [namestitev in nastavitev Officea v sistemu Android](https://go.microsoft.com/fwlink/?linkid=2135287).
+Če želite izvedeti več, [glejte Namestitev in Office v naprave s sistemom Android.](https://go.microsoft.com/fwlink/?linkid=2135287)

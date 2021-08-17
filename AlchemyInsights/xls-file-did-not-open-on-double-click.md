@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "776"
 - "2100015"
-ms.openlocfilehash: 1eb977b0dcdf3f0ac77b09d61583b53cd5018031
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4c17329db92eb08b7bec43fd7b0d0191e7bce2b8ae030c210b46baf6b76e9bbf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770611"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047164"
 ---
-# <a name="excel-file-doesnt-open"></a>Excelove datoteke ni mogoče odpreti
+# <a name="excel-file-doesnt-open"></a>Excel se ne odpre
 
 Poskusite enega od teh predlogov:
 
 **Izberite Excel kot privzeto**
 
-* Z desno tipko miške kliknite delovni list, izberite **Odpri z**, nato pa izberite **Excel**
+* Z desno tipko miške kliknite delovni list, **izberite Odpri z** in nato izberite **Excel**
 
 **Zagon hitrega popravila**
 
 1. Odprite **nadzorno ploščo in > Programi > programi in funkcije.**
 
-2. Izberite Officeov izdelek, ki ga želite popraviti, nato pa izberite **Spremeni**.
+2. Izberite Office, ki ga želite popraviti, nato pa izberite **Spremeni**.
 
 3. Izberite možnost **Hitro popravilo** in nato **Popravi.**
 
-**Odstranitev različic Officea, ki jih ne uporabljate**
+**Odstranitev različic Office ki jih ne uporabljate**
 
-1. Odprite **nadzorno ploščo in > odstranitev programa** in nato izberite različico Officea, ki jo želite odstraniti.
+1. Odprite **nadzorno ploščo in > odstranitev programa** in nato izberite različico izdelka Office jo želite odstraniti.
 
 2. Kliknite **Odstrani.**
 
 3. Znova zaženite računalnik.
 
-**Zaženite to orodje za odpravljanje težav, da nastavite Officeove datotečne pripone tako, da se odprejo v Officeu**
+**Zaženite to orodje za odpravljanje težav, Office datotečne pripone odprete v Office**
 
 1. Zaženite to orodje za odpravljanje težav: https://aka.ms/diag_officefile .
 
