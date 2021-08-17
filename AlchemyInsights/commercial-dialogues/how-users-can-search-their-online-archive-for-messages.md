@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 691439e12f69643fcb97596127c00e1388d53829
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034518"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303413"
 ---
 # <a name="how-users-can-search-their-online-archive-for-messages"></a>Kako lahko uporabniki poiščejo sporočila v spletnem arhivu
 
@@ -27,5 +27,4 @@ Spletno arhiviranje je funkcija za uporabnike Office 365 podjetja, ki imajo neob
 2. V Outlook v spletu se arhiv imenuje Arhiv *na mestu uporabe.* Pojdite v nabiralnik In-Place arhiva in izvedite iskanje.
 3. V Outlook 2016 se imenuje Spletni *arhiv – <. `name` >* Pojdite v nabiralnik spletnega arhiva in izvedite iskanje.
 
-> [!TIP]
-> Uporabniki ne morejo dostopati do nabiralnika spletnega arhiva z Outlook v prenosni napravi, kot je pametni telefon.
+**Namig:** Uporabniki ne morejo dostopati do nabiralnika spletnega arhiva s funkcijo Outlook v prenosni napravi, na primer v pametnem telefonu.

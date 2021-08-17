@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav z SSPR
+title: Odpravljanje težav s SSPR-jem
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003259"
 - "6128"
-ms.openlocfilehash: 85bfc812dcffce008a6fa5394a6069bd64c514d6
-ms.sourcegitcommit: f4ba304b92ed01e35273ecda67e9dc3ad9d475c1
+ms.openlocfilehash: 9d8184efdc60befd359059c62ea3eb1a14ad7d2a20dade921d4a71e424f52033
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50430214"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038974"
 ---
-# <a name="troubleshoot-sspr"></a>Odpravljanje težav z SSPR
+# <a name="troubleshoot-sspr"></a>Odpravljanje težav s SSPR-jem
 
-**Imam težave pri konfiguraciji ponastavitev gesla**
+**Imam težave s konfiguracijo ponastavitve gesla**
 
-- Če ste skrbnik in si želite ogledati, kako omogočite samopostrežno ponastavitev gesla, glejte [Vadnica omogoči SSPR](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr), da konfigurirate ponastavitev gesla za vašo organizacijo. Morda boste želeli pregledati tudi zahteve za [licenciranje](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support). V vaši organizaciji morate dodeliti vsaj eno licenco.
-    - **Samo uporabniki v oblaku** – vsak Office 365 (O365) plačan sku ali Azure ad Basic
-    - **Uporabniki v oblaku in/ali na mestu uporabe** – Azure ad Premium P1 ali P2, Enterprise Mobility + Security (EMS) ali Secure produktivno podjetje (SPE)
-- Če želite dodatna vprašanja o samopostrežnem ponastavitvi z geslom, si oglejte [naša vprašanja](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support).
+- Če ste skrbnik in iščete navodila za omogočanje samopostrežne ponastavitve gesla, glejte Omogočanje [samopostrežne](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr)ponastavitve gesla , če želite konfigurirati ponastavitev gesla za organizacijo. Morda boste želeli pregledati tudi zahteve [za licenciranje.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-licensing?WT.mc_id=Portal-Microsoft_Azure_Support) V organizaciji morate imeti dodeljeno vsaj eno licenco.
+    - **Samo uporabniki v oblaku** – Office 365 inventarna številka (O365) ali Azure AD Basic
+    - **Uporabniki v oblaku in/ali** uporabniki na mestu uporabe – Azure AD Premium P1 ali P2, Enterprise Mobility + Security (EMS) ali Secure Productive Enterprise (SPE)
+- Če želite dodatna vprašanja o samopostrežni ponastavitvi gesla, si oglejte [pogosta vprašanja.](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-faq?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **Dobivam sporočilo o napaki**
 
-Oglejte si ta članek, če želite poiskati pogoste napake in njihove rešitve: [Odpravljanje težav z ponastavitvijo samopostrežnega gesla](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)
+Preglejte ta članek in poiščite pogoste napake in njihove rešitve: Odpravljanje [težav s samopostrežno ponastavitvijo gesla](https://docs.microsoft.com/azure/active-directory/authentication/active-directory-passwords-troubleshoot?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Imam težave s pravilnikom za ponastavitev gesla**
+**Imam težavo s pravilnikom za ponastavitev gesla**
 
-- Če pravilnik za ponastavitev gesla ni v skladu s pričakovanji, ali če imate vprašanja o pravilnikih za ponastavitev gesla, si oglejte ta članek: [Pravilniki o geslih in omejitve v imeniku Azure Active Directory](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support).
-- Pravilniki za ponastavitev gesla se ne nanašajo na skrbnike. Microsoft uveljavi močne privzete pravilnike za ponastavitev gesla za vsako vlogo v storitvi Azure skrbnika. Prepričajte se, da preizkušate uporabnika, ki ni skrbnik. Če želite več informacij o pravilniku za ponastavitev skrbnika, si oglejte ta članek: [Ponastavi razlike pravilnika za skrbnike](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences).
+- Če se pravilnik za ponastavitev gesla ne obnaša po pričakovanjih ali imate vprašanja o pravilnikih za ponastavitev gesla, preberite ta članek: Pravilniki za gesla in omejitve v [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support)
+- Pravilniki za ponastavitev gesla ne veljajo za skrbnike. Microsoft za poljubno vlogo skrbnika storitve Azure vsili močan privzeti pravilnik za ponastavitev gesla z dvema prehodoma. Prepričajte se, da preskušate pri uporabniku, ki ni skrbnik. Če želite več informacij o pravilniku za ponastavitev skrbnika, si oglejte ta članek: Razlike v [pravilniku o ponastavitvi skrbnika.](https://docs.microsoft.com/azure/active-directory/authentication/concept-sspr-policy?WT.mc_id=Portal-Microsoft_Azure_Support#administrator-reset-policy-differences)
 
-**Ne želim, da moji uporabniki registrirajo dodatne varnostne informacije za ponastavitev gesla**
+**Ne želim, da uporabniki registrirajo dodatne varnostne podatke za ponastavitev gesla**
 
-Za uporabnike lahko vnaprej zapolnite podatke (e-poštne in telefonske atribute), ki uporabljajo API, PowerShell ali Azure AD Connect. Če želite izvedeti, kako brati:
+Podatke (atribute e-pošte in telefona) lahko vnaprej zapolnite za uporabnike, ki uporabljajo API, PowerShell ali Azure AD Povezovalnik. Če želite izvedeti, kako berete:
 
-- [Uvajanje ponastavitev gesla brez zahteve za registracijo uporabnikov](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
+- [Uvajanje ponastavitve gesla brez zahteve uporabnikov za registracijo](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support#set-and-read-authentication-data-using-powershell)
 - [Katere podatke uporablja ponastavitev gesla](https://docs.microsoft.com/azure/active-directory/active-directory-passwords-data?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**Želim, da moji uporabniki registrirajo svoje dodatne varnostne informacije za ponastavitev gesla**
+**Želim, da uporabniki registrirajo svoje dodatne varnostne podatke za ponastavitev gesla**
 
-1. Naj vaši uporabniki registrirajo svoje varnostne informacije za samoponastavitev gesla, tako da jih usmerjajo v [aka.MS/ssprsetup](https://mysignins.microsoft.com/security-info).
-1. Ko so podatki poseljeni za uporabnika (uporabnik ali skrbnik), usmerite uporabnika v [aka.MS/sspr](https://passwordreset.microsoftonline.com/) , da bodo uporabniki lahko ponastavili svoja gesla.
-1. Če uporabniki še vedno doživljajo težave, so uporabniki, ki so najverjetneje **združevali** ali **razpršili geslo, sinhronizirani** . To pomeni, da je prišlo do težave z geslom storitve Nepotrjenim.
+1. Uporabniki naj registrirajo svoje varnostne podatke za samopostrežno ponastavitev gesla tako, da jih usmerijo [na aka.ms/ssprsetup](https://mysignins.microsoft.com/security-info).
+1. Ko uporabnik (uporabnik ali skrbnik) v polje vnesete podatke, ga usmerite k aka.ms/sspr, da bodo lahko vaši uporabniki ponastavili svoja gesla. [](https://passwordreset.microsoftonline.com/)
+1. Če imajo uporabniki še vedno težave, so najverjetneje **neshranjeni** uporabniki s sinhronizirano gesli ali uporabniki z **neshranjeno** gesli. To pomeni, da je verjetno prišlo do težave s storitvijo povratnega pisanja gesla.
