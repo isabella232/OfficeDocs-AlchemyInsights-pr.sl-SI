@@ -1,5 +1,5 @@
 ---
-title: Selitve omrežja
+title: Selitev omrežja
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,27 +12,27 @@ ms.custom:
 - "716"
 - "6000002"
 ms.assetid: b5ab885c-3803-4cc8-adab-94848e226ffb
-ms.openlocfilehash: 6f026f932bb35d12d32ce7eddf49e49a44db7f31
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f63ce1641faf3cb2a29fd954624d25f5e1e37f135ec361ac09668086d78aa3e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799580"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113216"
 ---
-# <a name="network-migration"></a>Selitve omrežja
+# <a name="network-migration"></a>Selitev omrežja
 
-Vaš najemnik O365 je morda povezan z več Bastard omrežji v 1 najemniku: številna konfiguracija omrežij. Z začetkom oktobra 16, 2018, Bastard ne bo več podpiral več Bastard omrežij, povezanih z enim najemnikom. Selitev omrežja lahko izvedete tako, da se prikaže prednostna konfiguracija 1:1.
+Najemnik storitve O365 je morda povezan z več omrežji Yammer v 1 najemniku: konfiguracija številnih omrežij. Od 16. oktobra 2018 Yammer več omrežij, povezanih Yammer enim najemnikom. Selitev omrežja lahko izvedete, da dobite želeno konfiguracijo 1:1.
   
-- Če si želite ogledati seznam omrežij, povezanih z najemnikom, se prijavite v Bastard kot globalni skrbnik in prebrskajte do **skrbnika omrežja**, nato pa **selitev omrežja**. Izberite **naprej**.
+- Če si želite ogledati seznam omrežij, ki so povezana z vašim najemnikom, se prijavite v Yammer kot globalni skrbnik in prebrskajte do skrbnika omrežja **,** nato pa izberite **Selitev omrežja**. Izberite **Naprej**.
 
-- Če vidite več omrežij, navedenih v koraku 2 od 3, imate več Bastard omrežij, povezanih z najemnikom O365.
+- Če je v 2. koraku od 3 navedenih več omrežij, potem imate več omrežij, Yammer povezane z najemnikom storitve O365.
 
-- Če želite popraviti konfiguracijo s konfiguracijo 1:1, nadaljujte z orodjem za selitev omrežja.
+- Če želite popraviti konfiguracijo na konfiguracijo 1:1, še naprej uporabljate orodje za selitev omrežja.
 
-- Če želite več informacij o selitvi omrežja, glejte [selitev omrežja: usklajevanje več Bastard omrežij](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+- Če želite več informacij o selitvijo omrežja, [glejte Selitev omrežja: usklajevanje Yammer omrežij.](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks)
 
-Opozorilo:
+Opomba:
   
-- **Selitev omrežja preseli le aktivne in čakajoče uporabnike.** Poleg aktivnih uporabnikov je preseljena tudi informacija uporabnikov, kot sta ime in slika profila. Vse omrežne vsebine, vključno s skupinami, niso preseljene.
+- **Selitev omrežja preseli le aktivne in čakajoče uporabnike.** Skupaj z aktivnimi uporabniki se preselijo tudi podatki uporabnikov, kot sta ime in slika profila. Vsebina omrežja, vključno s skupinami, ne bo preseljene.
 
-- **Selitve omrežja ni mogoče razveljaviti.** Po selitvi ne boste mogli dostopati do svojega hčerinskega omrežja in njegove vsebine. Preden razmislite o selitvi, želite skrbno načrtovati.
+- **Selitve omrežja ni mogoče razveljaviti.** Po selitvijo ne boste imeli več dostopa do podrejenega omrežja in njegovih vsebin. Torej preden razmislite o selitvijo, morate natančno načrtovati.
