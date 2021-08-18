@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001506"
 - "4732"
-ms.openlocfilehash: 0459341dc4727655af37acd9ab6fcb927243f959bf7e9cb69787e3813658342d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 39b1a6cfccf85ee03a804045b043e25dbdb2d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54087224"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319908"
 ---
 # <a name="your-payment-was-declined"></a>Vaše plačilo je bilo zavrnjeno
 
@@ -35,8 +35,7 @@ Družba Microsoft bo večkrat poskusila napolniti vašo kartico v 3–4 tednih p
 
 4. Če želite uporabiti obstoječe plačilno sredstvo, ga izberite na spustnem seznamu in izberite **Zamenjaj**.
 
-    > [!NOTE]
-    > Če so vaše naročnine povezane s profilom za obračunavanje, jih lahko plačate samo s kreditno ali debetno kartico. Če imate na strani **Načini plačila** navedene bančne račune, jih na spustnem seznamu ni mogoče izbrati.
+    **Opomba:** Če imate naročnine, povezane s profilom za obračunavanje, lahko za plačilo uporabite le kreditno ali debetno kartico. Če imate na strani **Načini plačila** navedene bančne račune, jih na spustnem seznamu ni mogoče izbrati.
 
 5. Če želite dodati novo plačilno sredstvo, izberite **Dodajanje načina plačila**.
 

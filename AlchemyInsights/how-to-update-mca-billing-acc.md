@@ -13,19 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7325"
-ms.openlocfilehash: d5473f73f280a61eefb36fed6d528ef1b0999d7f9898570e9e8eb24105a1cfa6
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 5c0f4e7e92081a60be1f6930100ed08ce91ad545
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54001524"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320046"
 ---
 # <a name="update-sold-to-and-bill-to-address-associated-to-your-mca---recommended-steps"></a>Posodobitev naslova prodajo in računa, povezanega s storitvijo MCA – priporočeni koraki
 
 Posodobite lahko naslov kupca in naslov za obračun, ki je povezan z Microsoftovo pogodbo za stranke (MCA). 
 
-> [!NOTE]
-> Informacije o uporabniškem profilu lahko spremeni le Azure Active Directory uporabniškega profila. Če vam ni dodeljena vloga skrbnika uporabnika, se obrnite na skrbnika uporabnika. Če želite več informacij o spreminjanju uporabniškega profila, glejte Dodajanje ali posodabljanje podatkov [uporabniškega profila z uporabo Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+**Opomba:** Podatke o uporabniškem profilu lahko spremeni le Azure Active Directory uporabniškega profila. Če vam ni dodeljena vloga skrbnika uporabnika, se obrnite na skrbnika uporabnika. Če želite več informacij o spreminjanju uporabniškega profila, glejte Dodajanje ali posodabljanje informacij o profilu [uporabnika Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
 
 **Naslov kupca** – naslov kupca je naslov in podatki za stik organizacije ali posameznika, ki je odgovoren za račun za obračunavanje. Prikazana je na vseh računih, ustvarjenih za račun za obračunavanje.
 
@@ -44,7 +43,7 @@ Nekateri računi zahtevajo dodatno preverjanje, preden je mogoče posodobiti nas
 
 1. Vpišite se v portal Azure z e-poštnim naslovom, ki ima vlogo lastnika ali sodelavca v računu za obračunavanje ali profilu za obračunavanje za mca.
 1. Poiščite **Obračunavanje upravljanja**  +  **stroškov.**
-1. Kliknite **Profili za obračunavanje** in izberite izberite profil za obračunavanje, da posodobite naslov za obračunavanje.
+1. Kliknite **Profili za** obračunavanje in izberite izberite profil za obračunavanje, da posodobite naslov za obračunavanje.
 1. Kliknite **Posodobi naslov**  >  **lastnosti.**
 1. Vnesite nov naslov in kliknite **Shrani**.
 

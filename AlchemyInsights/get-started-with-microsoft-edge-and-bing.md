@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004433"
 - "8227"
-ms.openlocfilehash: 9130a20f36ae7631f6f72b55cdc5b341aaf51225
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+ms.openlocfilehash: 5c885492bc48017846195e13ee0b3626f5fbf1faa6602580b487141a6d21df9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51037137"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116420"
 ---
 # <a name="get-started-with-microsoft-edge--bing"></a>Uvod v Microsoft Edge + Bing
 
-Ni dodatnih nastavitev, ki jih potrebujete za začetek uporabe Microsoft Edge + Bing. Če želite poiskati informacije, povezane z delom, preprosto vnesite poizvedbo v naslovno vrstico Microsoft Edge.
+Dodatne nastavitve niso potrebne, če želite začeti uporabljati Microsoft Edge + Bing. Če želite poiskati podatke, povezane s službo, preprosto vnesite poizvedbo v naslovno vrstico Microsoft Edge.
 
-Če želite izvedeti več, [si oglejte več informacij s programom Microsoft Edge + Bing](https://go.microsoft.com/fwlink/?linkid=2152963).
+Če želite izvedeti več, glejte [Več informacij s Microsoft Edge + Bing](https://go.microsoft.com/fwlink/?linkid=2152963).
