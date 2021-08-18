@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899556"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318966"
 ---
 # <a name="cancel-power-bi"></a>Preklic storitve Power BI
 
@@ -33,7 +33,6 @@ Power BI lahko prekličete v Skrbniško središče za Microsoft 365.
 
 **Vračilo kupnine: vse dobropise v okviru obračuna vam bomo vrnili v naslednjem obračunskem obdobju.**
 
-> [!NOTE]
-> Če možnost za preklic ni na voljo, izberite naročnino, da si ogledate stran s podrobnostmi. V razdelku **z nastavitvami naročnine in** plačila izberite **Prekliči naročnino.**
+**Opomba:** Če možnost za preklic ni na voljo, izberite naročnino, da si ogledate stran s podrobnostmi. V razdelku **z nastavitvami naročnine in** plačila izberite **Prekliči naročnino.**
 
 Če želite več informacij, glejte [Preklic naročnine.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

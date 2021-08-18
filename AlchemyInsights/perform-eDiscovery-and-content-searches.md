@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317492"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902060"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>Izvajanje iskanih vsebin in iskanih z e-odkrivanjem
 
@@ -31,12 +31,13 @@ ms.locfileid: "58317492"
 4. Vnesite zahtevane pogoje iskanja, vključno s ključnimi besedami in mesti vsebine.
 5. Izberite **Shrani &, da** poimenate iskanje, ga zaženete in si nato ogledate predogled rezultatov.
 
-**Opomba:** V **Microsoft 365 za skladnost** s  >  **predpisi** **razširite e-odkrivanje** in izberite želeno orodje za e-odkrivanje.
+> [!NOTE]
+> V **Microsoft 365 za skladnost s predpisi**  >  **razširite** **e-odkrivanje** in izberite želeno orodje za e-odkrivanje.
 
 Če želite podrobna navodila o iskanju vsebine, izvažanju rezultatov in [](https://docs.microsoft.com/microsoft-365/compliance/content-search) ustvarjanju primerov e-odkrivanja za zadržanje podatkov, glejte Primeri iskanja po vsebini in [e-odkrivanja.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
 **Več informacij:**
 
 - Če želite več informacij o orodjih za e-Microsoft 365, glejte [e-odkrivanje.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery)
-- Seznanite se z dovoljenji, zahtevami in omejitvami, ki [](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) so potrebne za izvajanje iskanih e-odkrivanja v dovoljenjih, zahtevanih za iskanja e-odkrivanje, ter zahteve in [omejitve.](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)
+- Seznanite se z dovoljenji, zahtevami in omejitvami, ki [](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) so potrebne za izvajanje iskanih e-odkrivanja v dovoljenjih, zahtevanih za iskanja e-odkrivanja, ter zahteve in [omejitve.](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)
 - Če odpravljate težave z e-odkrivanjem, glejte Odpravljanje pogostih težav z [e-odkrivanjem](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) in [preiskovanje delno indeksirane elemente.](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)

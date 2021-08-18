@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314544"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901980"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>Predplačano Microsoft 365 podaljšanja
 
@@ -29,7 +29,8 @@ ms.locfileid: "58314544"
 3. Na strani s podrobnostmi naročnine v razdelku **Nastavitve naročnine** in plačila izberite **Podaljšaj končni datum.**
 4. Na strani **za podaljšanje ali dodajanje uporabniških** licenc izberite Uporabi nov in neuporabljen ključ **izdelka**, nato pa izberite **Naprej**.
 5. Vnesite ključ izdelka, nato pa izberite **Naprej**.
-    **Opomba:** Če imate več ključev izdelka, lahko izberete Dodaj drug **ključ izdelka in** jih vnesete.
+    > [!NOTE]
+    > Če imate več ključev izdelka, lahko izberete Dodaj še **en ključ izdelka in** jih vnesete.
 6. Preglejte podrobnosti naročila in izberite **Unovči**.
 
 Če želite izvedeti več, [glejte Dodajanje licenc ali razširitev naročnine, plačane s ključem izdelka.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

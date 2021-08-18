@@ -1,5 +1,5 @@
 ---
-title: InTune vpis
+title: Včlanitev v Intune
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: 79f15b285a9726e65a8d3fc39909d114d2b646ae
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 2140dc77dab16cfd42f831314df960d09b6b02a53d513fa52d208ab7e8d66d98
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50748728"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090896"
 ---
-# <a name="intune-enrollment"></a>InTune vpis
+# <a name="intune-enrollment"></a>Včlanitev v Intune
 
-Če želite odpraviti težave z vpisom naprave, glejte:
+Če želite odpraviti težave z včlanijo naprave, glejte:
 
-- [Odpravljanje težav pri vpisu naprave v Microsoft InTune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
-- [Odpravljanje težav z vpisom v napravo iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
-- [Odpravljanje težav s samodejnim vpisom v sistem Windows 10](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
-- [Odpravljanje težav z napravo Android Enterprise](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
-- [Odpravljanje težav pri vpisu v napravo Windows](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
+- [Odpravljanje težav z včlani v Microsoft Intune](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-device-enrollment-in-intune)
+- [Odpravljanje težav z včlanijo naprave iOS/iPadOS](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors)
+- [Odpravljanje Windows 10 samodejne včlanitve](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-windows-auto-enrollment)
+- [Odpravljanje težav z napravo s sistemom Android Enterprise](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-android-enrollment)
+- [Odpravljanje Windows včlanitve naprave](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-windows-enrollment-errors)
 
-[Preberite več o InTune vpisu...](https://docs.microsoft.com/mem/intune/enrollment/)
+[Preberite več o včlanitvi v Intune ...](https://docs.microsoft.com/mem/intune/enrollment/)

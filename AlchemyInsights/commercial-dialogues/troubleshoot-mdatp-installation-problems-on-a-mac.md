@@ -1,5 +1,5 @@
 ---
-title: Odpravljanje težav z namestitvijo MDATP v računalniku Mac
+title: Odpravljanje težav z namestitvijo storitve MDATP v računalniku Mac
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 4b03361666f950a2010e4c4d8e78d156438d9e90
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 4139f47f40a89069521aaa1a3e4fdab56e9e27a2096ae0ad099be827f60d51fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50749768"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091080"
 ---
-# <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>Odpravljanje težav z namestitvijo MDATP v računalniku Mac
+# <a name="troubleshoot-mdatp-installation-problems-on-a-mac"></a>Odpravljanje težav z namestitvijo storitve MDATP v računalniku Mac
 
-Če Ročna namestitev ni uspešna, se na strani s **povzetkom** čarovnika za namestitev prikaže to sporočilo o napaki:
+Če ročna namestitev ne uspe, **se na** strani s povzetkom čarovnika za namestitev prikaže to sporočilo o napaki:
 
-» Prišlo je do napake med namestitvijo. Namestitveni program je zaznal napako, zaradi katere namestitev ni uspela. Za pomoč se obrnite na izdelovalca programske opreme. "
+»Med namestitvijo je prišlo do napake. Namestitveni program je naletel na napako, zaradi katere namestitev ni uspela. Za pomoč se obrnite na izdelovalca programske opreme.«
 
-Za uvajanje MDM na strani je prikazana tudi splošna napaka namestitve.
+Pri uvedbah programa MDM je na strani prikazano splošno napako pri namestitvi.
 
-Čeprav ne prikazujemo natančnih napak za končne uporabnike, bomo obdržali dnevniško datoteko z napredkom namestitve v **/Library/Logs/Microsoft/mdatp/install.log**. Vsako sejo namestitve priloži tej dnevniški datoteki. Če želite izključiti le zadnjo sejo namestitve, uporabite `sed` .
+Čeprav končnim uporabnikom ne prikažemo točnih napak, dnevnik hranimo z napredkom namestitve v **/Library/Logs/Microsoft/mdatp/install.log.** Tej dnevniški datoteki je pripna vsaka namestitvena seja. Če želite izhod samo zadnje namestitvene seje, uporabite `sed` .
 
-Če želite izvedeti več, glejte [Odpravljanje težav z namestitvijo za Microsoft DEFENDER ATP za Mac](https://go.microsoft.com/fwlink/?linkid=2144615).
+Če želite izvedeti več, glejte [Odpravljanje težav z namestitvijo za Microsoft Defender ATP za Mac.](https://go.microsoft.com/fwlink/?linkid=2144615)

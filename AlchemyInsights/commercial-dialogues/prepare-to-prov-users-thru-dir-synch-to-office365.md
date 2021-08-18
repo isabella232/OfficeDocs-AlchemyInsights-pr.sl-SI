@@ -1,5 +1,5 @@
 ---
-title: Priprava na omogočanje uporabnikov prek sinhronizacije imenika v Office 365
+title: Priprava na nastavitev in omogočanje uporabnikov prek sinhronizacije imenika Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 4b3035444966e89d32c4375482a155ae85bff240
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: a135d20c4f6c6c387c57a5b3007048e33fcc4cf3af0a6d12cad91b62d53463c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483383"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090988"
 ---
-# <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Priprava na omogočanje uporabnikov prek sinhronizacije imenika v Office 365
+# <a name="prepare-to-provision-users-through-directory-synchronization-to-office-365"></a>Priprava na nastavitev in omogočanje uporabnikov prek sinhronizacije imenika Office 365
 
-Omogočanje uporabe uporabnikov s sinhronizacijo imenika zahteva načrtovanje in priprave, upoštevajte spodnja navodila:
+Če želite na uporabo uporabnike s sinhronizacijo imenika načrtovati in se pripraviti, upoštevajte spodnja navodila:
 
-Nekatera dejanja, ki jih je treba izvesti v uporabnikih za omogočanje uporabe, vključujejo:
+Nekatera dejanja, ki jih je treba sprejeti pri omogočanju uporabe za uporabnike, so:
 1. **Čiščenje imenika**.
-1. **Predmet imenika in priprava atributa**.
-1. **Priprava atributov UPN**.
-1. **Izbirno seštevanje nadomestnih PRIPON UPN za AD DS**.
-1. **Ujemanje UPN-e na mestu uporabe s storitvijo Office 365 UPN-e**.
+1. **Priprava predmeta in atributa imenika**.
+1. **Priprava atributov UPN.**
+1. **Izbirno dodajanje nadomestnih pripon UPN-a v AD DS**.
+1. **UpN-je na mestu uporabe se ujemajo z Office 365 UPN-ji.**
 1. **Orodja za integracijo imenika**.
 
-Če želite podrobnejše opise v vsakem koraku priprave, si oglejte [Priprava na omogočanje uporabnikov prek sinhronizacije imenika v članku Office 365](https://aka.ms/office365assistantprovisionuserstooffice365).
+Če želite podrobne opise za vsak korak priprav, glejte Priprava na nastavitev in omogočanje uporabnikov prek [sinhronizacije imenika Office 365 članku](https://aka.ms/office365assistantprovisionuserstooffice365).
