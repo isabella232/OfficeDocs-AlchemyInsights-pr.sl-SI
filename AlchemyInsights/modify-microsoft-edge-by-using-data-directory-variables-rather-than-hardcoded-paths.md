@@ -1,5 +1,5 @@
 ---
-title: Spreminjanje Microsoft Edge z uporabo spremenljivk podatkovnega imenika namesto hardcoded poti
+title: Spreminjanje Microsoft Edge s spremenljivkami imenika podatkov in ne s kodiranimi potmi
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: ''
 ms.custom:
 - "9003873"
 - "6926"
-ms.openlocfilehash: 5c40aa1d7f61fbd2842839a5839899af8ab439f2
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 235696d17711726da57d9a09c23b5b13140a28d7645299ef120a4b2c7b395c5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49679152"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113432"
 ---
-# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Spreminjanje Microsoft Edge z uporabo spremenljivk podatkovnega imenika namesto hardcoded poti
+# <a name="modify-microsoft-edge-by-using-data-directory-variables-rather-than-hardcoded-paths"></a>Spreminjanje Microsoft Edge s spremenljivkami imenika podatkov in ne s kodiranimi potmi
 
-Če želite na primer v sistemu Windows shraniti podatke profila v okviru uporabnikove lokalne aplikacije in ne na privzeto mesto, nastavite pravilnik **UserDataDir** na **$ {local_app_data} \Edge\Profile**. 
+Če želite na primer v Windows shraniti podatke profila pod uporabnikovimi lokalnimi podatki aplikacije in ne na privzeto lokacijo, nastavite pravilnik **UserDataDir** na **${local_app_data}\Edge\Profile.** 
 
-Če želite izvedeti več, glejte [Ustvarjanje spremenljivk za uporabniške podatke imenika Microsoft Edge](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars).
+Če želite izvedeti več, [glejte Ustvarjanje Microsoft Edge uporabnikovih podatkovnih imenikov.](https://docs.microsoft.com/deployedge/edge-learnmore-create-user-directory-vars)

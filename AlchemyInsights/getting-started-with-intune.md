@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: 101459172ba6c1ae1229280e99060512b7a79fc8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5cd07d74139cff81b36504d2fa69a1e56334a58c72a041d965a1d80c55ee3d7e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811940"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54088844"
 ---
 # <a name="getting-started-with-intune"></a>Uvod v Intune
 
 Za hitro predstavitev aplikacije Intune in konzole za skrbnike si oglejte razdelek »Navodila za [Intune« v portalu Azure.](https://docs.microsoft.com/mem/intune/fundamentals/tutorial-walkthrough-endpoint-manager)
 
-Če želite preskusiti Intune ali nastaviti preskusno različico, preglejte vodnik za hitri začetek: brezplačno [preskusite Microsoft Intune.](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up)
+Če želite preskusiti Intune ali nastaviti preskusno različico, preglejte vodnik za hitri [začetek: Microsoft Intune brezplačno.](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up)
 
 Če želite začeti uporabljati Intune, si oglejte [Nastavitev storitve Intune.](https://docs.microsoft.com/mem/intune/fundamentals/setup-steps) Če si želite izkušnjo vodene namestitve, glejte [Vodnik za namestitev storitve Intune.](https://admin.microsoft.com/AdminPortal/Home?ref=/modernonboarding/intunesetupguide)

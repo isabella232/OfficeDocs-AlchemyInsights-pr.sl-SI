@@ -1,5 +1,5 @@
 ---
-title: Razpoložljivost storitve Microsoft Viva Insights
+title: Razpoložljivost storitve Microsoft Viva Vpogledi razpoložljivost
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8337"
-ms.openlocfilehash: 141a896fe181a554ae2b5ace46b6f09b6006692f
-ms.sourcegitcommit: 8e08d8c45807fa3dd4db6574977a8466a2514383
+ms.openlocfilehash: 5744a83b5652bc9ef39b81ba98352cfa5c7401143057fc5d51d164757413a6d0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315516"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113792"
 ---
-# <a name="microsoft-viva-insights-availability"></a>Razpoložljivost storitve Microsoft Viva Insights
+# <a name="microsoft-viva-insights-availability"></a>Razpoložljivost storitve Microsoft Viva Vpogledi razpoložljivost
 
-Microsoft Viva Insights je zdaj na voljo v predogledu.
+Microsoft Viva Vpogledi zdaj na voljo v predogledu.
 
-[Prenos](https://aka.ms/InsightsDocumentation) Viva vpogledi v aplikaciji Microsoft teams.
+[Prenesi](https://aka.ms/InsightsDocumentation) Viva Vpogledi v Microsoft Teams.
 
-[Preberite več](https://aka.ms/VivaInsights) o tem, kako Viva Insights omogoča ustvarjanje kulture, kjer lahko ljudje in podjetja uspevajo.
+[Preberite več](https://aka.ms/VivaInsights) o tem, kako lahko Vpogledi Viva pomaga ustvariti kulturo, kjer lahko ljudje in podjetja zmotijo.
 
-Če želite več informacij, glejte kako [Microsoft Viva Insights pomaga ljudem, da negujejo blaginjo in so najboljši](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010).
+Če želite več informacij, si [oglejte, kako microsoft Viva Vpogledi pomaga](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-insights-helps-people-nurture-wellbeing-and-be/ba-p/2107010)ljudem za dobro voljo in biti najboljši .

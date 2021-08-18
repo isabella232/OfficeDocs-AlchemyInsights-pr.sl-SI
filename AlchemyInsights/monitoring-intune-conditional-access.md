@@ -1,5 +1,5 @@
 ---
-title: Nadzorovanje pogojnega dostopa za InTune
+title: Nadzorovanje pogojnega dostopa do storitve Intune
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: a3e84e32eac09d8788bbec56185f3cfc714cfb4d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7855d8dac488fe62d8e0ad8ee2ad46e615ea031fc535eb54dfde9512c8921ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694869"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113396"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>Odpravljanje težav z aplikacijo Microsoft InTune
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>Odpravljanje težav s Microsoft Intune
 
-Preglejte vire, ki so navedeni spodaj, da odpravite težavo zdaj.
+Preglejte vire na seznamu spodaj, da takoj odpravite težavo.
   
-1. S [portalom za odpravljanje težav](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) lahko diagnosticirate in odpravite nekaj pogostih napak. Če želite več podrobnosti, preglejte [ta dokument ](https://docs.microsoft.com/intune/help-desk-operators).
+1. S [portalom za odpravljanje težav za Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) lahko diagnosticirate in odpravite nekatere pogoste napake. Preglejte [ta dokument, ](https://docs.microsoft.com/intune/help-desk-operators)če želite več podrobnosti.
     
-2. Pregled predstavitve [TechNeta ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)za iskanje odgovorov in rešitev za pogoste težave.
+2. Preglejte [spletno mesto Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)in poiščite odgovore ter rešitve za pogoste težave.
     
-3. Preverite stanje [storitve za ogled stanja storitve.](https://portal.office.com/AdminPortal/Home#/servicehealth) 
+3. Oglejte si [Stanje storitve,](https://portal.office.com/AdminPortal/Home#/servicehealth) da si ogledate stanje storitve. 
     
-4. Oglejte si [dokumentacijo» InTune](https://docs.microsoft.com/intune/) «za načrtovanje, navodila za odpravljanje težav in še več. 
+4. Preglejte [dokumentacijo storitve Intune](https://docs.microsoft.com/intune/) za načrtovanje, navodila, odpravljanje težav in še več. 
     
 
