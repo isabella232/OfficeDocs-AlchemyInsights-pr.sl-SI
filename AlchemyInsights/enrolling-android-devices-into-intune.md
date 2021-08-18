@@ -1,5 +1,5 @@
 ---
-title: Vpis naprav s sistemom Android v InTune
+title: Včlanitev naprav s sistemom Android v Intune
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 97b83d0982f9556fd28a62cc12e3b89259686270c684a46721f0ef3d683e5ae6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48791274"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090167"
 ---
-# <a name="enrolling-android-devices-into-intune"></a>Vpis naprav s sistemom Android v InTune
+# <a name="enrolling-android-devices-into-intune"></a>Včlanitev naprav s sistemom Android v Intune
 
-Če želite preseliti uporabnike iz naročnine skrbnika naprave Android v podjetje s sistemom Android, si oglejte: [premikanje naprav s sistemom Android iz skrbnika naprave v upravljanje profila dela](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
+Če želite uporabnike preseliti iz včlanitve skrbnika naprav s sistemom Android v Android Enterprise, preglejte: Premaknite naprave s sistemom Android od skrbnika naprave k [upravljanju službenega profila.](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile)
 
-InTune podpira vpis teh naprav s sistemom Android:  
+Intune podpira včlanitev teh naprav s sistemom Android:  
 
-- [Samsung Knox, zebra, skrbnik naprave](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
-- [Delovni profil za Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
-- [Posebna podjetja s sistemom Android](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
-- [Podjetje s sistemom Android je v celoti upravljano](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
+- [Samsung Knox, Zebra, skrbnik naprave](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [Službeni profil za Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android Enterprise dedicated](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [Android Enterprise fully managed](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-Preden nastavite vpis v naprave s sistemom Android, [preglejte predpogoje](https://docs.microsoft.com/intune/enrollment/android-enroll).  
+Preden nastavite včlanitev za naprave s sistemom Android, [preglejte zahteve.](https://docs.microsoft.com/intune/enrollment/android-enroll)  
 
-Če želite več informacij o odpravljanju težav pri vpisu naprav na splošno in nekaterih napakah pri vpisu Androida, glejte [Odpravljanje težav pri vpisu naprave v Microsoft](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment)
+Če želite informacije o odpravljanju splošnih težav z včlanitev naprave in nekaterimi napakami včlanitve v naprave s sistemom Android, glejte Odpravljanje težav pri [včlanenosti naprave Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-Uporabite lahko tudi vsebino, v kateri so opisane težave s prepoznavanjem, ki jih uporabniki doživljajo.
+Uporabite lahko tudi vsebino, ki opisuje reco odpravljanja težav v programu Intune, da ugotovite, v čem prihaja do težav z vpisom.

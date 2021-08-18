@@ -1,5 +1,5 @@
 ---
-title: 761 povezovanje s storitvijo Exchange Online PowerShell, ko je omogočena funkcija MFA
+title: 761 Povezovanje z Exchange Online PowerShell, ko je omogočeno MFA
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,13 @@ ms.custom:
 - "761"
 - "3500011"
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 5622b6faef8f1fb5d39d884410feda5af07ff466
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8d60e36e779327f18de760bfd487f9056034cdf016b4282180648906277f6d2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748116"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090284"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Vzpostavljanje povezave s storitvijo Exchange Online PowerShell, ko je omogočena funkcija MFA
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a>Povezovalnik, Exchange Online uporabo storitve PowerShell, ko je omogočeno MFA
 
-Če je v vašem računu omogočeno preverjanje pristnosti z več dejavniki (MFA), upoštevajte ta navodila za vzpostavljanje povezave s storitvijo Exchange Online PowerShell: [uporabite funkcijo PowerShell Exchange Online s sodobnim preverjanjem pristnosti z modulom v2](https://aka.ms/exops-docs). Na tej strani poiščite navodila za preverjanje pristnosti za MFA/multi Factor.
+Če je za vaš račun omogočeno večkratno preverjanje pristnosti (MFA), morate upoštevati ta navodila, da vzpostavite povezavo z modulom Exchange Online PowerShell: Uporabite Exchange Online PowerShell s sodobnim preverjanjem pristnosti z modulom [V2.](https://aka.ms/exops-docs) Na tej strani poiščite navodila za MFA/Multi Factor Authentication.

@@ -11,17 +11,16 @@ ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms-custom:
 - "1846"
 - "9000253"
-ms.openlocfilehash: 2ce3d5467d8582aa3a3216b0efbc73ead5570248c4da57e175e0d4decc326f1c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 341a77e9a6738cd96a8b4587e52e633be0176010
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54051106"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318104"
 ---
 # <a name="sharepoint-publishing-infrastructure"></a>SharePoint Infrastruktura objavljanja
 
-> [!IMPORTANT]
-> Sodobna mesta za komunikacijo ne podpirajo klasičnih funkcij objavljanja, znanih SharePoint Server Publishing Infrastructure. Ko poskušate aktivirati funkcijo za sodobno mesto komunikacije, se prikaže sporočilo o napaki. Sodobna spletna mesta za komunikacijo so privzeto novejša alternativa.
+**Pomembno:** Sodobna mesta za komunikacijo ne podpirajo klasičnih funkcij objavljanja, znanih SharePoint Server Publishing Infrastructure. Ko poskušate aktivirati funkcijo za sodobno mesto komunikacije, se prikaže sporočilo o napaki. Sodobna spletna mesta za komunikacijo so privzeto novejša alternativa.
 
 Za klasična spletna SharePoint vključuje klasični nabor funkcij, ki vam omogočajo ustvarjanje in objavljanje obogatenih spletnih strani za intranet. Aktivirajte SharePoint objavljanje na ravni zbirke mest, da jih vklopite.
 
