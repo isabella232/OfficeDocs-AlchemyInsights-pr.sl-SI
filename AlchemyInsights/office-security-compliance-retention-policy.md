@@ -14,12 +14,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: d3d4443d0b82c3dc3b89b25f119f32dccdda9ef82e674cba97a945af9019ad00
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c1c4584a5850c2a11401c4f5bd1c04da3e9b23d6
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53985653"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331909"
 ---
 # <a name="more-info-about-retention-policies"></a>Več informacij o pravilnikih o hranjenju
 
@@ -30,7 +30,7 @@ V večini organizacij sta količina in kompleksnost njihovih podatkov vse večji
 - Odprite upravljanje podatkov in upravljanje > in zagotavljanje > za hranjenje.
   - Glejte [TA](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) članek
 
-- Pojdite na nastavitve e-> za> Advanced eDiscovery 
+- Pojdite na nastavitve e-> za zagotavljanje> Advanced eDiscovery 
   - Glejte [TA](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases) članek
 
 - Pojdite na nastavitve za varnost in skladnost > razvrstitve, > hranjenje
@@ -52,5 +52,4 @@ V večini organizacij sta količina in kompleksnost njihovih podatkov vse večji
   - [Upravljanje pravic do informacij za seznam/knjižnico](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
   - [Pregled upravljanja pravic do informacij](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
-> [!Note]
-> Toplo priporočamo, da se preselite na pravilnike o varnosti in skladnosti s predpisi, če še vedno uporabljate podedovano e-odkrivanje ali upravljanje pravic do informacij ali pravilnike o zaprtju in brisanju mesta.
+**Opomba:** Toplo priporočamo, da se preselite na pravilnike o varnosti in skladnosti s predpisi, če še vedno uporabljate podedovano e-odkrivanje ali upravljanje pravic do informacij ali pravilnike o zaprtju in brisanju mesta.

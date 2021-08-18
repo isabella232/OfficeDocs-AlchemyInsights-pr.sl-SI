@@ -12,19 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7217"
-ms.openlocfilehash: df7443626308416e1d7edf4bc87c0eba95ec2c030d5ef3207513480873c1e3e7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a083ac548d818f0ed922a6d17b38c3a3df2d86c0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53929969"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333363"
 ---
 # <a name="stop-messages-from-moving-to-the-archive-automatically"></a>Ustavitev samodejnega premikanja sporočil v arhiv
 
 Če uporabljate pravilnik o hranjenju, lahko spremenite starost hranjenja v tem pravilniku, da ustavite samodejno arhiviranje sporočil. To lahko:
 
-1. V [skrbniškem središču Exchange izberite](https://go.microsoft.com/fwlink/?linkid=2059104)oznake **za hranjenje za upravljanje** skladnosti s  >  **predpisi.** Poiščite oznako Za hranjenje premakni v arhiv.
+1. V [skrbniškem Exchange izberite oznake](https://go.microsoft.com/fwlink/?linkid=2059104)za **hranjenje za upravljanje** skladnosti s  >  **predpisi.** Poiščite oznako Za hranjenje premakni v arhiv.
 2. V oznaki za hranjenje spremenite obdobje  hranjenja (obdobje arhiviranja) na Nikoli, če želite preprečiti samodejno arhiviranje elementov v pravilniku o hranjenju.
 
-> [!NOTE]
-> S tem boste spremenili nastavitev arhiva za vse nabiralnike, za njih pa bo uporabljena ta oznaka za hranjenje.
+**Opomba:** S tem boste spremenili nastavitev arhiva za vse nabiralnike, za kar bo uporabljena ta oznaka za hranjenje.

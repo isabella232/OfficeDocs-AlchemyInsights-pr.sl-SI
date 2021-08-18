@@ -13,20 +13,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899900"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331175"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>Prepoznavanje konfiguracije posredovanja zunanje e-pošte v nabiralnikih
 
 Ko uporabnik Microsoft 365 zunanje posredovanje e-pošte v nabiralniku, je dejavnost nadzorovana kot del ukaza »cmdlet« **Set-Mailbox.** Dejavnost si lahko ogledate z iskanjem v dnevniku nadzora. To naredite tako.
 
 1. Naredite nekaj od tega:
-   - V Središče za skladnost okolja Microsoft 365 pojdite <https://compliance.microsoft.com> na Nadzor  \> **rešitev.** Če pa se želite neposredno po vrniti na **stran Nadzor,** uporabite <https://compliance.microsoft.com/auditlogsearch> .
-   - V portalu Microsoft 365 Defender na <https://security.microsoft.com> spletnem mestu , pojdite na **Nadzor**. Če pa se želite neposredno po vrniti na **stran Nadzor,** uporabite <https://sip.security.microsoft.com/auditlogsearch> .
+   - V Središče za skladnost okolja Microsoft 365 <https://compliance.microsoft.com> pojdite na Nadzor  \> **rešitev.** Če pa se želite neposredno po vrniti na **stran Nadzor,** uporabite <https://compliance.microsoft.com/auditlogsearch> .
+   - V portalu Microsoft 365 Defender pojdite <https://security.microsoft.com> na **Nadzor**. Če pa se želite neposredno po vrniti na **stran Nadzor,** uporabite <https://sip.security.microsoft.com/auditlogsearch> .
 
 2. Na strani **Nadzor** preverite, ali je **izbran zavihek** Iskanje, nato pa konfigurirajte te nastavitve:
    - Izberite datumski/časovni obseg v **poljih** **Začetek** in Konec.

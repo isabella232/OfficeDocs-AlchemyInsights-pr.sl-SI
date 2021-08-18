@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922269"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331057"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>Odstranjevanje podatkov in počistite napravo iz Intune
 
@@ -32,8 +32,7 @@ Oddaljena dejanja Ukinitev naprave in Brisanje podatkov iz naprave lahko uporabi
 4. Za potrditev kliknite **Da**. Dokler se brisanje ne konča, se stanje dejanja naprave prikazuje kot *Ukinitev v čakanju*.
     Po končanem dejanju mobilna naprava ne bo več vidna na seznamu upravljane naprave.
 
-> [!NOTE]
-> Podatkov podjetja ni mogoče odstraniti iz naprav, PRIDRUŽENIH Azure AD. 
+**Opomba:** Podatkov podjetja ni mogoče odstraniti iz naprav, pridruženih imeniku Azure AD. 
 
 Za vse podrobnosti o učinku ukrepov ukinitve in brisanja, vključno s tem, kaj se obdrži in kaj izbriše, glejte naslednjo dokumentacijo:
 

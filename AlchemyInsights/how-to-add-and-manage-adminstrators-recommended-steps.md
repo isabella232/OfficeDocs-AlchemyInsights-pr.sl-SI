@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963803"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339048"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>Dodajanje in upravljanje skrbnikov – priporočeni koraki
 
@@ -29,7 +29,7 @@ Glede na opis vaše težave smo našli rešitev za vas. Večina strank je svojo 
 - Skrbnik računa lahko ureja obe vlogi, medtem ko lahko skrbnik naročnine spremeni le so skrbnike v [portalu Azure.](https://ms.portal.azure.com/#home)
 - [Dodajanje ali spreminjanje skrbnikov naročnine za Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
-**Posodobitev skrbnika naročnine ali Co-Administrator interne naročnine (AIRS)**
+**Posodobitev skrbnika naročnine ali Co-Administrator za notranje naročnine (AIRS)**
 
 Skrbnik storitve ali so skrbnik lahko to dejanje samopostrežno servisi tako, da sledite tem korakom:
 
@@ -43,7 +43,7 @@ Skrbnik storitve ali so skrbnik lahko to dejanje samopostrežno servisi tako, da
 
 1. V portal [Azure se prijavite](https://ms.portal.azure.com/#home) kot skrbnik storitve.
 2. Odprite [Naročnine](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) in izberite naročnino. (Soavtorje je mogoče dodeliti le v okviru naročnine.)
-3. Pomaknite se do kontrolnika za **Access (IAM)** Klasični skrbniki Dodaj dodatnega skrbnika, da odprete podokno Dodajanje sou skrbnika (Če je možnost Dodaj so skrbnika onemogočena, pomeni, da nimate  >    >    >   dovoljenj). 
+3. Pomaknite se do kontrolnika za **Dostop (IAM)** Klasični skrbniki Dodaj dodatnega skrbnika, da odprete podokno Dodajanje sou skrbnika (Če je možnost Dodaj sou skrbnika onemogočena, pomeni, da nimate  >    >    >   dovoljenj). 
 4. Izberite uporabnika, ki ga želite dodati, in kliknite **Dodaj**.
 
 **več:**
@@ -53,12 +53,12 @@ Skrbnik storitve ali so skrbnik lahko to dejanje samopostrežno servisi tako, da
 - [Ogled skrbnika računa](https://docs.microsoft.com/azure/role-based-access-control/classic-administrators)
 - [Upravljanje dostopa s portalom RBAC in Azure](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal)
 
-**Dodajanje/brisanje uporabnikov Azure Active Directory (AD)**
+**Dodajanje/brisanje uporabnikov s Azure Active Directory (AD)**
 
-Dodate lahko nove uporabnike ali izbrišete obstoječe uporabnike v Azure Active Directory (Azure AD):
+Dodate lahko nove uporabnike ali izbrišete obstoječe uporabnike iz svoje Azure Active Directory (Azure AD):
 
 1. Če želite dodati novega uporabnika, se prijavite v [portal Azure](https://ms.portal.azure.com/#home) kot skrbnik uporabnikov za organizacijo.
-2. Izberite **Azure Active Directory**, izberite **Uporabniki** in nato kliknite **Nov uporabnik**.
+2. Izberite **Azure Active Directory**, izberite **Uporabniki** in nato kliknite **Nov uporabnik.**
 3. Na **strani** Uporabnik vnesite zahtevane informacije. Kliknite **Ustvari.** Uporabnik je ustvarjen in dodan v najemnika Imenika Azure AD.
 
 **Več informacij:**
@@ -72,10 +72,10 @@ Dodate lahko nove uporabnike ali izbrišete obstoječe uporabnike v Azure Active
 - [Kaj je nadzor dostopa na osnovi vloge ??](https://docs.microsoft.com/azure/role-based-access-control/overview)
 - [Razumevanje različnih vlog v storitvi Azure](https://docs.microsoft.com/azure/role-based-access-control/rbac-and-directory-admin-roles)
 - [Skrbniška dovoljenja za vloge v Azure Active Directory](https://docs.microsoft.com/azure/active-directory/roles/permissions-reference)
-- [Vadnica: Podelitev dostopa uporabniku s storitvijo RBAC in portalom Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
+- [Vadnica: Podelitev dostopa za uporabnika s storitvijo RBAC in portalom Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [Odpravljanje težav s storitvijo RBAC v storitvi Azure](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [Organiziranje virov s skupinami za upravljanje azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [Kako zahtevati kopijo računa Azure prek e-pošte](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [Kako zahtevati kopijo računa Azure prek e-pošte](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [Dodajanje, posodabljanje ali odstranjevanje kreditne ali debetne kartice iz storitve Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [Upravljanje (znova aktiviranje/preklic/preklop) naročnine](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
