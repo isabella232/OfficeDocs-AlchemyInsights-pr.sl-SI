@@ -16,12 +16,12 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: 22b82d6b251a70133dd57bc41161032e3944a735533c82792756434325aefe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: edaf127e4779c04ddf68742bd0428336c75b6f11
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895843"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326359"
 ---
 # <a name="how-to-purchase-an-education-offer"></a>Kako kupiti ponudbo za izobraževalne ustanove
 
@@ -34,4 +34,4 @@ Vaša zahteva za upravičenost do storitve Office 365 Education je bila odobrena
 
 Če želite kupiti naročnino, ki se razlikuje od preskusne naročnine, pojdite na stran **Storitve** \> [nakupa obračunavanja.](https://go.microsoft.com/fwlink/p/?linkid=868433) V **razdelku Paketi** za izobraževalne ustanove izberite paket, ki ga želite.
 
-Če želite izvedeti več, glejte [Nakup naročnine iz brezplačnega preskusa.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
+Če želite izvedeti več, glejte [Nakup naročnine v brezplačni preskusni naročnini.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)

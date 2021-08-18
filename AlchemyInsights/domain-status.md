@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1476a88c7b974a9e6cfe443f6842df8cdc3d7073a73c0add7e6f183dd0528de1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2247da07d60431edef5b5dea8a5c06d51579008c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874411"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326593"
 ---
 # <a name="domain-status---no-services-selected"></a>Stanje domene – ni izbranih storitev
 
-Nobena **storitev** ni izbrana, če niste izbrali nobene storitve Microsoft 365, kot so Exchange Online, Skype za podjetja ali Intune in Upravljanje mobilnih naprav, ki jih želite Microsoft 365 za uporabo z domeno po meri. Če uporabljate hibridno Exchange (Exchange na mestu uporabe z Exchange Online) ali filtriranje zunanje neželene pošte s storitvijo Exchange in nobenega drugega Microsoftove storitve, lahko to sporočilo prezrete. Stanje domene je na voljo le za domene, ki so neposredno povezane s storitvijo.
+Nobena **storitev** ni izbrana, pomeni, da niste izbrali nobene storitve Microsoft 365, kot so Exchange Online, Skype za podjetja ali Intune in Upravljanje mobilnih naprav, da Microsoft 365 uporabljate z domeno po meri. Če uporabljate hibridno Exchange (Exchange na mestu uporabe z Exchange Online) ali filtriranje zunanje neželene pošte s storitvijo Exchange in nobenega drugega Microsoftove storitve, lahko to sporočilo prezrete. Stanje domene je na voljo le za domene, ki so neposredno povezane s storitvijo.
 
 Storitve za svojo domeno izberete tako:
 
-1. Na **Nastavitve** Domene potrdite polje zraven domene s sporočilom o stanju  >  [](https://admin.microsoft.com/Adminportal/Home)Ni **izbranih storitev.**
+1. Na **Nastavitve** Domene potrdite polje ob domeni s sporočilom o stanju  >  [](https://admin.microsoft.com/Adminportal/Home)Nobena storitev **ni izbrana.**
 1. Izberite **Upravljanje zapisov DNS,** da zaženete čarovnika za nastavitev domene.
     - Če izberete Add your own DNS records (Dodajte svoje zapise **DNS),** ob pozivu izberite storitev. Več storitev je morda na voljo v razdelku **Dodatne možnosti.**
     - Če izberete **Možnost Microsoftu** dovoli dodajanje zapisov DNS ali Več možnosti Nastavitev spletnih storitev zame so vse razpoložljive storitve predlagane in  >   izbrane samodejno.

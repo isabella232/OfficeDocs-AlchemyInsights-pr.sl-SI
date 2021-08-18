@@ -16,12 +16,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: fc052672ecb4363204f3756080c7031fde44738ec9b9955aa7ffbe9b57d2603a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ca5e927ad200d6cbf47e2ff58a9c74b17fe70532
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899036"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325783"
 ---
 # <a name="buy-a-subscription-to-microsoft-365-from-your-free-trial"></a>Nakup naročnine na Microsoft 365 naročnine iz brezplačnega preskusa
 
@@ -38,7 +38,7 @@ Poskusili ste Microsoft 365 in zdaj ga želite kupiti. Ob nakupu naročnine iz p
 1. V skrbniškem središču odprite stran **Nakupi** \> [obračunavanja.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. Poiščite naročnino, ki jo želite kupiti, izberite **Nakup** in upoštevajte navodila za nakup.
 
-Če želite izvedeti več, glejte [Nakup naročnine iz brezplačnega preskusa.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
+Če želite izvedeti več, glejte [Nakup naročnine v brezplačni preskusni naročnini.](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-subscription-from-your-free-trial)
 
 **Odpravljanje težav**
 

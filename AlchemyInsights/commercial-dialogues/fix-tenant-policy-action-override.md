@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 157baa1f1e3f48b47ba07b8c6d446f8e081a4ad24b7d48f50c4fc5af5518cdd6
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: ee45e86a143719914f7a7917730d7e840e90625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896091"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326813"
 ---
 # <a name="fix-tenant-policy-action-override"></a>Popravljanje pravilnika najemnika (preglasitev dejanja)
 
 Na to sporočilo je vplival eden od pravilnikov za preprečevanje neželene pošte. Če želite pregledati pravilnike, naredite to:
 
-1. V portalu Microsoft 365 Defender v razdelku Pravilniki pojdite na Pravilniki za <https://security.microsoft.com/> **sodelovanje z e-&** in & pravilniki o \>  \>  \>  grožnjah za **neželeno** pošto.
+1. V portalu Microsoft 365 Defender v razdelku Pravilniki pojdite na Pravilniki za sodelovanje z <https://security.microsoft.com/>  \>  \>  \> **e-&**  in pravilniki o & za preprečevanje neželene pošte.
 
    Če se želite neposredno po vrniti na **stran Pravilniki za preprečevanje neželene** pošte, uporabite <https://security.microsoft.com/antispam> .
 

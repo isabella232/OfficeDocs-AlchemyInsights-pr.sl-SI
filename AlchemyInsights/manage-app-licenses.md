@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "1500008"
 - "2443"
-ms.openlocfilehash: ac05aa634f3c96cd90c657254c16503805ab21c8bac0e97b94d2e3021a4a62c4
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 7695d0f4bbea4f81146135b800fd2525decb625f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54501976"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326195"
 ---
 # <a name="manage-app-licenses"></a>Upravljanje licenc za aplikacije
 
@@ -38,4 +38,4 @@ ms.locfileid: "54501976"
 
 1. Odprite stran **Obračunavanje**  >  **[izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Na **zavihku** Izdelki v razdelku **Aplikacije** poiščite in izberite aplikacijo, ki jo želite upravljati.
-3. V **Nastavitve & dejanjih** izberite povezavo do možnosti **Upravljanje na portalu izdajatelja.**
+3. V **Nastavitve & dejanjih** izberite povezavo do možnosti **Upravljaj na portalu izdajatelja**.

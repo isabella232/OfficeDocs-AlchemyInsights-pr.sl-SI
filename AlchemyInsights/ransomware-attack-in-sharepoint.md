@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893211"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327537"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>Napad izsiljevalske programske SharePoint ali OneDrive
 
-1.  Če iščete pomoč za to, kaj narediti, ko v vaši datoteki OneDrive ali SharePoint ali Teams najde [zlonamerno datoteko,](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)glejte Kaj narediti, ko je zaznana zlonamerna datoteka.
+1.  Če iščete pomoč za to, kaj narediti, ko je v vaši datoteki OneDrive ali SharePoint Teams zlonamerna datoteka, glejte Kaj narediti, ko je najdena zlonamerna [datoteka.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
 2. Če želite zaščititi svoje podatke pred izsiljevalsko programsko opremo, glejte:
     - [Zaščita podatkov v osebnih SharePoint in OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
     - [Zaščita pred grožnjami za izsiljevalsko programsko opremo](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
 3.  Ali vse datoteke v računalniku OneDrive ali SharePoint zlonamerna programska oprema ali virus Crypto? 
 
-Takoj ustavite/začasno ustavite sinhronizacijo storitve OneDrive (če je na voljo) ali prekinite povezavo pogleda Raziskovalca, ki je bil preslikan v knjižnico iz računalnika, v katerem je to vplivalo(-a), nato pa lahko s funkcijo za obnovitev datotek obnovite celotno knjižnico v storitvi OneDrive ali SharePoint na prejšnjo različico. 
+Takoj ustavite/začasno ustavite sinhronizacijo storitve OneDrive (če je na voljo) ali prekinite povezavo pogleda Raziskovalca, preslikanega v knjižnico iz računalnika s to funkcijo (če je na voljo), nato pa lahko s funkcijo za obnovitev datotek obnovite celotno knjižnico v storitvi OneDrive ali SharePoint na prejšnjo različico. 
 
 Če želite več informacij o tem, kako jo obnovite, glejte:
 
