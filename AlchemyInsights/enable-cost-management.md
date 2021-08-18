@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 62f3cfb161c4f8da735bd288a2d6e22971b4aada
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54003585"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325479"
 ---
 # <a name="enable-cost-management"></a>Omogočanje upravljanja stroškov
 
 **Kaj pomeni »stroški so onemogočeni za vašo organizacijo«?**
 
-Organizacije, ki pogodba Enterprise Agreement računa za e-pošto (EA) ali microsoftove pogodbe za stranke (MCA), lahko onemogočijo dostop do informacij o stroških in cenah.
+Organizacije, ki pogodba Enterprise Agreement računa za EA ali Microsoftovo pogodbo za stranke (MCA), lahko onemogočijo dostop do informacij o stroških in cenah.
 
-Ko se prijavijo v portal Azure, lahko uporabijo API za obračunavanje za programsko dobi račune (ko se včlanijo) in podrobnosti o uporabi.
+Ko se prijavijo v portal Azure, lahko uporabijo API-je za obračunavanje za programsko dobi račune (ko se včlanijo) in podrobnosti o uporabi.
 
 **Kako dodatnim uporabnikom omogočiti dostop do računov**
 
@@ -34,10 +34,9 @@ Ko se prijavijo v portal Azure, lahko uporabijo API za obračunavanje za program
 2. Izberite **Računi in** nato Dostop do **računov.**
 3. Vklopite dostop in nato shranite spremembe, da uporabnikom v naročniških vlogah omogočite prenos računov.
 
-> [!NOTE]
-> Skrbnik računa lahko konfigurira tudi pošiljanje računov po e-pošti. Če želite izvedeti več, glejte [Pošiljanje računa po e-pošti.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
+**Opomba:** Skrbnik računa lahko konfigurira tudi pošiljanje računov po e-pošti. Če želite izvedeti več, glejte [Pošiljanje računa po e-pošti.](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?)
 
-**Dodajanje uporabnikov v vlogo bralnika za obračunavanje**
+**Dodajanje uporabnikov v vlogo bralnika obračunavanja**
 
 1. V portalu Azure si lahko pomagate z re **blades subscriptions.**
 2. Izberite **Kontrolnik za dostop (IAM)** in kliknite **Dodaj**.

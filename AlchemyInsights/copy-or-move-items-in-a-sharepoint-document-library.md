@@ -14,12 +14,12 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: c5595b4ae8accec71bc964bb34e5314f611abd3f81abc2c8503e176389f62045
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c32ec198c6f00cd8cee2eed9ade62f7632eb5114
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54119156"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325701"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiranje ali premikanje elementov v SharePoint dokumentov
 
@@ -27,20 +27,17 @@ Datoteke, mape in povezave lahko kopirate in premikate na različnih mestih v kn
   
 1. V brskalniku poiščite datoteke, mape ali povezave, ki jih želite premakniti, nato pa kliknite **Kopiraj v** ali **Premakni v**.
 
-    > [!NOTE]
-    > **Ukaza** Kopiraj v **in** Premakni v nista na voljo, če uporabljate klasično izkušnjo uporabe SharePoint Online.
+    **Opomba:** **Ukaza Kopiraj** v **in** Premakni v nista na voljo, če uporabljate klasično izkušnjo uporabe SharePoint Online.
   
 2. V **razdelku Izberite cilj** izberite mesto, na katero želite kopirati ali premakniti elemente, ali pa kliknite Brskaj po mestih, da si ogledate celoten seznam mest. 
 
-    > [!NOTE]
-    > Če ne vidite drugih mest na seznamu, ko kopirate elemente, kopiranje na več spletnih mestih ni bilo konfigurirano. Če jo želite omogočiti, odprite stran z nastavitvami v skrbniškem središču SharePoint kliknite V **redu.**
+    **Opomba:** Če ne vidite drugih mest na seznamu, ko kopirate elemente, kopiranje na več spletnih mestih ni bilo konfigurirano. Če jo želite omogočiti, odprite stran z nastavitvami v skrbniškem središču SharePoint kliknite V **redu.**
   
     Če želite ustvariti novo mapo, izberite mesto v hierarhiji map, kliknite Nova mapa, vnesite ime mape in kliknite potrditveno oznako, da shranite ime.
 
 3. Kliknite **Kopiraj sem ali** Premakni **sem.**
 
-    > [!NOTE]
-    > Hkrati lahko kopirate do 500 MB datotek in map. > kopirate dokumente z zgodovino različic, je kopirana le najnovejša različica. Ko premaknete dokumente, je premaknjena tudi njihova zgodovina.
+    **Opomba:** Hkrati lahko kopirate do 500 MB datotek in map. > ko kopirate dokumente z zgodovino različic, je kopirana le najnovejša različica. Ko premaknete dokumente, je premaknjena tudi njihova zgodovina.
   
  Ko premaknete datoteko, bo še vedno prikazana v izvornem imeniku, dokler je ne premaknete v celoti na cilj, nato pa bo izbrisana. Ko je premikanje dokončano, bo datoteka ostala v košu izvornih mest in bo odvisna od običajnega urnika koša, razen če jo uporabnik obnovi iz koša.
 

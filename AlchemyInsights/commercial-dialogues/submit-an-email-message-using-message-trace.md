@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d55dae30c875022b8c38c14ba72eafbc674efcae
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874555"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324541"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>Pošiljanje e-poštnega sporočila s sledenjem sporočil
 
-1. Pojdite v skrbniško Exchange (EAC) v sledenje <https://admin.exchange.microsoft.com> \> **toku** \> **pošte Sporočilo.**
+1. Pojdite v Skrbniško središče Exchange (EAC) v sledenje <https://admin.exchange.microsoft.com> \> **toku** \> **pošte Sporočilo.**
 
    Če se želite neposredno po vrniti **na stran Sledenje** sporočilu, uporabite <https://admin.exchange.microsoft.com/#/messagetrace> .
 

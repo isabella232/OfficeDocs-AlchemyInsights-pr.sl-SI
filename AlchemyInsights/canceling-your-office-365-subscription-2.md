@@ -1,5 +1,5 @@
 ---
-title: Želite preklicati naročnino Microsoft 365 naročnino?
+title: Želite preklicati Microsoft 365 naročnino?
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "87"
 - "1400001"
-ms.openlocfilehash: 132ae114cac8c2ae1af7495c960b962fadd547522c03b9887f9bde481fff4bba
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6ede93972410f77addda2a3ce40ff564284a5b53
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893971"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324108"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>Želite preklicati naročnino Microsoft 365 naročnino?
+# <a name="canceling-your-microsoft-365-subscription"></a>Želite preklicati Microsoft 365 naročnino?
 
-Žal nam je, da ste se tako izvašli.
+Žal nam je, da ste se tako izvašli!
   
 Glede na podatke organizacije imajo po mnenju vse vaše trenutne naročnine več kot 25 licenc. Preden lahko prekličete:
 

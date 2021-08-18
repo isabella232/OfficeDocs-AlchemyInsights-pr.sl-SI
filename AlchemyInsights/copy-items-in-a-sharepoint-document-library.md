@@ -14,12 +14,12 @@ ms.custom:
 - "452"
 - "5300013"
 ms.assetid: 94b46e45-0a79-4dc3-9c2b-94fb021a7f4a
-ms.openlocfilehash: 7b7d0972c5ffa8d5b58abcd2aaf0e9fe994a668f5a61289024c98f0cc0242547
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f65b7934be0a6cc8b0e8daf5ad46c7232f25c715
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081086"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325737"
 ---
 # <a name="copy-files-in-sharepoint-and-onedrive"></a>Kopiranje datotek v SharePoint in OneDrive
 
@@ -27,5 +27,4 @@ Datoteke lahko kopirate iz spletnega brskalnika na različna mesta znotraj Share
 
 Če želite več informacij, glejte [Premikanje ali kopiranje.](https://support.microsoft.com/office/00e2f483-4df3-46be-a861-1f5f0c1a87bc)
 
-> [!NOTE]
-> **Ukaz Kopiraj** v ni na voljo, če uporabljate klasično izkušnjo uporabe storitve SharePoint Online.
+**Opomba:** **Ukaz Kopiraj v** ni na voljo, če uporabljate klasično izkušnjo storitve SharePoint Online.

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002933"
 - "5615"
-ms.openlocfilehash: 63304667cce67c48fd8bbeee52ff6d61d033ea38fd8d4c4d96c240847dab2cab
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 607e27c883f83b4b29347e764b8f2273cf0f117e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54118220"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325403"
 ---
 # <a name="enable-password-writeback-in-azure-ad-connect"></a>Omogočanje gesla writeback v storitvi Azure AD Connect
 
@@ -42,5 +42,4 @@ Z geslom writeback omogočeno v storitvi Azure AD Connect, konfigurirajte Azure 
 
 Če želite več informacij, glejte [omogočite samopostrežno ponastavitev gesla imenika Azure Active Directory, ki je na voljo v okolju na mestu uporabe,](https://docs.microsoft.com/azure/active-directory/authentication/tutorial-enable-sspr-writeback)writeback.
 
-> [!NOTE]
->  Ko skrbnik Ponastavi geslo uporabnika v portalu Azure, če je ta uporabnik povezan ali da je Razpršilo z geslom sinhronizirano, je geslo znova zapisano na mestu uporabe. Za to funkcijo potrebujete licenco za Azure Premium (P1 ali P2) in trenutno ni podprta na Skrbniškem portalu za Office.
+**Opomba:** Če skrbnik ponastavi geslo uporabnika v portalu Azure Portal in je ta uporabnik sinhroniziran z gesli, se geslo zapišejo nazaj na mesto uporabe. Za to funkcijo potrebujete licenco za Azure Premium (P1 ali P2) in trenutno ni podprta na Skrbniškem portalu za Office.

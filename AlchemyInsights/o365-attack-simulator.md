@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: f6e221cc82a1b707f6acc457cb78db743521d859
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895807"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325087"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>Attack Rio in Microsoft 365
 
-- Ali pogrešate napadajoče napade? Plan 2 ali **Office 365 (paket 2)** ali **paket E5 zahteva Office 365 Enterprise Defender**. Storitev Attack Premium **ni vključena** v Microsoft Defender za Office 365 paket 1, Office 365 Enterprise E3 ali katere koli Programi Microsoft 365 za manjša podjetja naročnine.
+- Ali pogrešate napadajoče napade? Storitev Attack Nanad **zahteva Microsoft Defender za Office 365 paket 2** ali Office 365 Enterprise **E5.** Attack Rio **ni vključen** v Microsoft Defender za Office 365 paket 1, Office 365 Enterprise E3 ali katere koli Programi Microsoft 365 za manjša podjetja naročnine.
 
 - Račun, ki ga uporabljate za zagon simuliranih napadov, zahteva dovoljenja globalnega skrbnika ali skrbnika za varnost in večkratno preverjanje pristnosti (MFA). Če želite več informacij o zahtevah napadov z napadom, si [oglejte to temo.](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)
 
@@ -39,4 +39,4 @@ ms.locfileid: "57895807"
 
 - Poročila: Ko je simulacija napada končana, lahko kliknete **Podrobnosti** o napadu, da si ogledate poročilo.
 
-- Če želite podrobna navodila in nove funkcije v napadaalni napadu, glejte [Attack Rio v Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
+- Če želite podrobna navodila in nove funkcije v napadu Rio, glejte [Attack Rio v Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3baece137a8be22808cc9af3e14207317dd261ed
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895903"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325311"
 ---
 # <a name="expired-subscription"></a>Potekla naročnina
 
@@ -30,8 +30,7 @@ Ena ali več naročnin je poteklo. Če želite še naprej storitve, morate znova
   
 1. V skrbniškem središču  odprite stran \> [Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **zavihku** Izdelki poiščite naročnino, ki jo želite znova aktivirati. Izberite tri pike (več dejanj), nato pa izberite **Znova aktiviraj to naročnino.**
-    > [!NOTE]
-    > Če ne vidite funkcije Znova **aktiviraj to naročnino,** pokličite podporo.
+    **Opomba:** Če ne vidite funkcije Znova **aktiviraj to naročnino,** pokličite podporo.
 3. V **podoknu Znova aktiviraj** to naročnino na spustnem seznamu izberite način plačila ali pa **izberite Dodaj način plačila**.
 4. Izberite **Shrani**.
 

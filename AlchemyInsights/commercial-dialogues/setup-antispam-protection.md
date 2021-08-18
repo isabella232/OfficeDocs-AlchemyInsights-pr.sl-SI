@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: a5eec054a8459453be9f3b9de79596030a34049a5ce75fbce31240d8e413d5b9
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: be7fde5892c5e5dee09ece2ff4fdce07e6b5b9ba
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874591"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324587"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>Nastavitev zaščite pred neželeno pošto
 
-1. V portalu Microsoft 365 Defender v razdelku Pravilniki pojdite na Pravilniki sodelovanja <https://security.microsoft.com/> **med e-&** in & pravilniki o \>  \>  \>  grožnjah za preprečevanje **neželene** pošte.
+1. V portalu Microsoft 365 Defender v razdelku Pravilniki pojdite na Pravilniki za sodelovanje z <https://security.microsoft.com/>  \>  \>  \> **e-&**  in pravilniki o & za preprečevanje neželene pošte.
 
    Če se želite neposredno po vrniti na **stran Pravilniki za preprečevanje neželene** pošte, uporabite <https://security.microsoft.com/antispam> .
 

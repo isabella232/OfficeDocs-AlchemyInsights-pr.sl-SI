@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002913"
 - "11187"
-ms.openlocfilehash: 6eb59d16a1dab2de0e7a44faf9b34be6432342f9e20c94b6932e69e937751add
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 13865acb75b60a824c1dde9427c11471e980ea9e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892019"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58324460"
 ---
 # <a name="issues-with-removing-an-offboarded-or-decommissioned-device-from-the-device-inventory"></a>Težave z odstranjevanjem nenajavne ali izločitev naprave iz inventarja naprave
 
@@ -26,7 +26,7 @@ Microsoft Defender za končno točko trenutno ne omogoča ročnega odstranjevanj
 
 Zaradi varnostnih razlogov naprava ostane na portalu kot zgodovinski zapis do 180 dni. Podatki o napravi pa so purged v skladu s konfigurirano obdobjem hranjenja.
 
-**Opomba:** Nenatisljena ali izločitev naprave po sedmih dneh **samodejno** preklopi na stanje »Nedejaven«. Poleg tega naprave, ki v zadnjih 30 dneh niso aktivne, niso upoštevane v podatkih, ki odražajo vrednost vaše organizacije upravljanje groženj in ranljivosti izpostavljenosti ali Microsoftovo oceno varnosti za naprave.
+**Opomba:** Nenatisljena ali izločitev naprave po sedmih dneh **samodejno** preklopi na stanje »Nedejaven«. Poleg tega naprave, ki niso aktivne v zadnjih 30 dneh, niso upoštevane v podatkih, ki odražajo oceno izpostavljenosti upravljanje groženj in ranljivosti v organizaciji ali Microsoftovo oceno varnosti za naprave.
  
 Če še vedno ne želite videti določenih naprav v pogledu zaloge naprave, poskusite s posneti oznako naprave, da filtrirate izločitev naprave iz pogleda inventarja naprav.
 

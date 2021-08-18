@@ -14,17 +14,16 @@ ms.custom:
 - commerce_billing
 - "433"
 - "1500001"
-ms.openlocfilehash: 3f52f79f081274f7d7e661cdd36a431ceb0b87901e129c80747430a00d762d67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3f3f52a5cedc8f065dbac59499cc087641e84682
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57868694"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323802"
 ---
 # <a name="how-do-i-change-from-credit-card-payments-to-invoice"></a>Kako spremenim način plačila s kreditno kartico v plačilo na podlagi računa?
 
-> [!NOTE]
-> Način plačila na podlagi računa lahko spremenite le, če stroški naročnine nad določenim zneskom. Preden lahko spremenite način plačila na podlagi računa, morate najprej plačati neporavnani znesek na kreditni ali debetni kartici ali bančnem računu.
+**Opomba:** Če so stroški naročnine nad določenim zneskom, lahko način plačila spremenite le na plačilo na podlagi računa. Preden lahko spremenite način plačila na podlagi računa, morate najprej plačati neporavnani znesek na kreditni ali debetni kartici ali bančnem računu.
 
 1. V skrbniškem središču odprite stran  >  [Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **zavihku** Izdelki poiščite naročnino, ki jo želite plačati z nadomestnim načinom plačila.

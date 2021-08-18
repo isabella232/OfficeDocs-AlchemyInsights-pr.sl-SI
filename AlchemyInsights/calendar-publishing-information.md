@@ -1,5 +1,5 @@
 ---
-title: Informacije o objavljanju koledarja 613
+title: 613 Informacije o objavljanju koledarja
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "613"
 - "3800011"
 ms.assetid: 5372dfc5-e4d8-4e65-a7ad-aaaabccb758e
-ms.openlocfilehash: f5676cdab8c1efc2f585e1f75323200358b369db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: aaf3eb249c2de449ca4e31486eb19c760512f1d9f8be2d1f501e7cdf54de62ed
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684569"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119984"
 ---
-# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Omogočanje skupne rabe koledarja s skrbniškim središčem za Microsoft 365
+# <a name="enable-calendar-sharing-using-the-microsoft-365-admin-center"></a>Omogočanje skupne rabe koledarja z Skrbniško središče za Microsoft 365
 
-1. V skrbniškem središču pojdite na **Nastavitve**   >   **org Settings**.
-2. Na zavihku  **storitve**  izberite  **koledar**.
-3. Na strani  **koledarja**  , ki se odpre, izberite, ali želite uporabnikom omogočiti skupno rabo svojih koledarjev z osebami zunaj organizacije, ki imajo Microsoft 365 ali Exchange.
-4. Izberite, ali želite dovoliti anonimnim uporabnikom (uporabnikom brez poverilnic za prijavo) dostop do koledarjev prek e-poštnega povabila.
-5. Izberite vrsto podatkov koledarja, ki jih želite dati na voljo uporabnikom. Omogočite lahko vse informacije ali pa jih omejite le na čas ali čas, zadevo in mesto.
+1. V skrbniškem središču odprite **možnost Nastavitve**   >   **Org Nastavitve.**
+2. Na  **zavihku**  Storitve izberite  **Koledar**.
+3. Na strani **Koledar,** ki se odpre, izberite, ali želite uporabnikom dati svoje koledarje v skupno rabo z ljudmi zunaj organizacije, ki imajo Microsoft 365 ali Exchange.
+4. Izberite, ali želite anonimnim uporabnikom (uporabnikom brez poverilnic za prijavo) omogočiti dostop do koledarjev prek e-poštnega povabila.
+5. Izberite vrsto podatkov koledarja, da bodo na voljo uporabnikom. Omogočite lahko vse informacije ali pa jih omejite le na čas ali čas, zadevo in le lokacijo.
 
 Več informacij: [Skupna raba koledarjev z zunanjimi uporabniki](https://docs.microsoft.com/microsoft-365/admin/manage/share-calendars-with-external-users)
