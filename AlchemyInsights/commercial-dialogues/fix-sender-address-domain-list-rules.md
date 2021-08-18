@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896127"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320505"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>Popravljanje pravil naslova pošiljatelja/seznama domen
 
 Na to sporočilo je vplival eden od pravilnikov za preprečevanje neželene pošte. Pošiljatelj sporočila je bil najden na seznamu »Dovoli« ali »Blokiraj«. Če želite pregledati pravilnike, naredite to:
 
-1. V portalu Microsoft 365 Defender v razdelku Pravilniki pojdite na Pravilniki za <https://security.microsoft.com/> **sodelovanje z e-&** in & pravilniki o \>  \>  \>  grožnjah za **neželeno** pošto.
+1. V portalu Microsoft 365 Defender v razdelku Pravilniki pojdite na Pravilniki za sodelovanje z <https://security.microsoft.com/>  \>  \>  \> **e-&**  in pravilniki o & za preprečevanje neželene pošte.
 
    Če se želite neposredno po vrniti na **stran Pravilniki za preprečevanje neželene** pošte, uporabite <https://security.microsoft.com/antispam> .
 

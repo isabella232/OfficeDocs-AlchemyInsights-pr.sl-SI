@@ -15,18 +15,18 @@ ms.custom:
 - "897"
 - "1500035"
 ms.assetid: 5f76890d-3f85-430b-95fd-dcab42624745
-ms.openlocfilehash: 28c754610a3a8363e47959d3f1e6f5077472f9430e93322ab20cba2ad0ac7390
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 4e38e7c25b1ab0d7435f5e7321b8b7a466b2c9f4
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896695"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320326"
 ---
 # <a name="creditrefund"></a>Dobropis/vračilo denarja
 
 **Preklic**
   
-Ko prekličete naročnino, boste na naslednji datum obračunavanja prejeli končni račun z zapadlim dobropisom. Traja lahko do 30 dni od dneva preklica naročnine.
+Ko prekličete naročnino, boste na naslednji datum obračunavanja prejeli končni račun s dobropisom za plačilo. Traja lahko do 30 dni od dneva preklica naročnine.
   
 **Sprememba sedeža**
   

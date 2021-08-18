@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: d16389ca577970deaf743255f75dc86134e79dcab2fff8c33987532fc7ee1105
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890450"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321769"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>Omogočanje preverjanja pristnosti in odpravljanja težav SMTP
 
-Če želite omogočiti preverjanje pristnosti SMTP za nabiralnik ali pa se prikaže napaka »Odjemalec ni bil preverjen«, »Preverjanje pristnosti neuspešno« ali »SmtpClientAuthentication« s kodo 5.7.57 ali 5.7.3 ali 5.7.139, ko poskušate posredovati e-pošto s preverjanjem pristnosti naprave ali aplikacije s protokolom Microsoft 365, izvedite ta tri dejanja, da odpravite težavo:
+Če želite omogočiti preverjanje pristnosti SMTP za nabiralnik ali pa se prikaže napaka »Odjemalec ni preverjen«, »Preverjanje pristnosti neuspešno« ali »SmtpClientAuthentication« s kodo 5.7.57 ali 5.7.3 ali 5.7.139, ko poskušate posredovati e-pošto s preverjanjem pristnosti naprave ali aplikacije s protokolom Microsoft 365, izvedite ta tri dejanja, da odpravite težavo:
 
 1. Privzete nastavitve [varnosti Azure onemogočite tako,](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) da možnost Omogoči **privzete nastavitve nastavite** na **Ne.**
 
@@ -40,6 +40,6 @@ ms.locfileid: "57890450"
 
 3. [Onemogočite storitev Multi-Factor Authentication (MFA) v](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) licenciranem nabiralniku.
 
-    a. Pojdite v Skrbniško središče za Microsoft 365 in v levem meniju za krmarjenje **izberite** Uporabniki  >  **aktivni uporabniki.**<BR/>
+    a. Pojdite na Skrbniško središče za Microsoft 365 in v levem meniju za krmarjenje **izberite** Uporabniki  >  **aktivni uporabniki.**<BR/>
     b. Izberite **Multi-Factor Authentication**.<BR/>
     c. Izberite uporabnika in onemogočite **Multi-Factor auth.**<BR/>

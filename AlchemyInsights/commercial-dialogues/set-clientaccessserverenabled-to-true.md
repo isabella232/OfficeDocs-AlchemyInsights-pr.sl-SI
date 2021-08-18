@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fc953813a94c9ed3226f81f776d6085e12a6cafc
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53994881"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320372"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>Set ClientAccessServerEnabled to True
 
@@ -26,11 +26,10 @@ ms.locfileid: "53994881"
 
 1. Povezovalnik, da Exchange Online PowerShell.
 
-> [!NOTE]
-> Če se želite povezati Exchange Online PowerShell, se morate vpisati z globalnim skrbnikom ali računom Exchange skrbnika.
+    **Opomba:** Če se želite povezati Exchange Online z lupino PowerShell, se morate vpisati z globalnim skrbnikom ali računom Exchange skrbnika.
 
    a. Odprite Windows PowerShell, nato pa zaženite ta ukaz:`$UserCredential = Get-Credential`
-b. V **Windows PowerShell oknu Zahteva za** poverilnice vnesite službeni ali šolski račun in geslo, c. Kliknite **V redu**. 
+   b. V **Windows PowerShell oknu Zahteva za poverilnice** vnesite službeni ali šolski račun in geslo, c. Kliknite **V redu**. 
 
 2. Zaženite ta ukaz, če želite ustvariti novo sejo:
 
@@ -46,8 +45,7 @@ b. V **Windows PowerShell oknu Zahteva za** poverilnice vnesite službeni ali š
 
     a. Če **je nastavitev ClientAccessServerEnabled** nastavljena na **False,** zaženite ta ukaz »cmdlet«: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
-> [!TIP]
-> Sejo lupine Powershell vedno zaprite s tem ukazom: `Remove-PSSession $Session`
+**Namig:** Sejo lupine Powershell vedno zaprite s tem ukazom: `Remove-PSSession $Session`
 
-Če želite več informacij, [Exchange Online PowerShell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
+Če želite več informacij, [glejte Exchange Online PowerShell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell)
 
