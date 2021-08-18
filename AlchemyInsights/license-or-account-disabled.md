@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002459"
 - "3764"
-ms.openlocfilehash: 50e8185e90e40ef538230decf0a41f9e7ca0fb6c2649354559af43d4e563a9dc
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 6724a82f318ed13890a34039470eb9611a630e03
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893867"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323020"
 ---
 # <a name="license-or-account-disabled"></a>Licenca ali račun je onemogočen
 
@@ -29,8 +29,7 @@ ms.locfileid: "57893867"
 
 1. V skrbniškem središču odprite stran  >  [Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. Na **zavihku** Izdelki poiščite naročnino, ki jo želite znova aktivirati. Izberite tri pike (več dejanj), nato pa izberite **Znova aktiviraj to naročnino.**
-    > [!NOTE]
-    > Če ne vidite funkcije Znova aktiviraj **to naročnino, se** obrnite na podporo.
+    **Opomba:** Če ne vidite funkcije Znova aktiviraj **to naročnino, se obrnite** na podporo.
 3. V **podoknu Znova aktiviraj** to naročnino na spustnem seznamu izberite način plačila ali pa **izberite Dodaj način plačila**.
 4. Izberite **Shrani**.
 

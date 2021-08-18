@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054814"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321923"
 ---
 # <a name="issues-with-links-and-urls"></a>Težave s povezavami in URL-ji
 
@@ -42,15 +42,13 @@ URL-ji preusmeritve/odgovora (oba izraza sta izmenljiva) so URL-ji, ki jih Micro
     - platforma (iOS/Android/UWP)
     - informacije, uporabljene za ustvarjanje aplikacije, kot je ID svežnja v sistemu iOS, ter ime paketa in razdvoji podpis v sistemu Android Registracija aplikacije v portalu Azure vam bo pomagala. Podrobnosti najdete v [konfiguracije platforme in preusmeritve URL-jev](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> Spletni API-ji in nekateri tihi načini pridobivanja žetonov (IWA in uporabniško ime/geslo) ne zahtevajo URI-ja preusmeritve.
+**Opomba:** SPLETNE API-je in nekateri tihi načini pridobivanja žetonov (IWA in uporabniško ime/geslo) ne zahtevajo URI-ja za preusmeritev.
 
 **Uvedel sem spletni program in ko preskusim uvedeno aplikacijo, se prikaže sporočilo o ne spletnem naslovu za odgovor**
 
 Dodajte URL-je preusmeritve za vsa mesta, na katerih uvajate spletni program. Če želite več informacij, glejte [Registracija spletnega programa s portalom Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> URI preusmeritve za mesto dodajte takoj, ko uvedete program na tem mestu.
+**Opomba:** Dodajte URI za preusmerjanje za mesto takoj, ko uvedete program na tem mestu.
 
 **Ne morem registrirati dovolj URL-jev za odgovor**
 

@@ -1,5 +1,5 @@
 ---
-title: Kopiranje ali premikanje elementov v SharePointovi knjižnici dokumentov
+title: Kopiranje ali premikanje elementov v SharePoint dokumentov
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,37 +14,37 @@ ms.custom:
 - "454"
 - "5300013"
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
-ms.openlocfilehash: d7aa865a6b3db0871a57313dd7d6f5b0213ca0e6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5595b4ae8accec71bc964bb34e5314f611abd3f81abc2c8503e176389f62045
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807135"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119156"
 ---
-# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiranje ali premikanje elementov v SharePointovi knjižnici dokumentov
+# <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>Kopiranje ali premikanje elementov v SharePoint dokumentov
 
-Datoteke, mape in povezave lahko kopirate in premikate na različna mesta v knjižnici dokumentov. Elemente lahko kopirate tudi po spletnih mestih. 
+Datoteke, mape in povezave lahko kopirate in premikate na različnih mestih v knjižnici dokumentov. Elemente lahko kopirate tudi na več spletnih mestih. 
   
 1. V brskalniku poiščite datoteke, mape ali povezave, ki jih želite premakniti, nato pa kliknite **Kopiraj v** ali **Premakni v**.
 
     > [!NOTE]
-    > **Kopirajte** in **premaknite, da** niso na voljo, če uporabljate klasično izkušnjo storitve SharePoint online.
+    > **Ukaza** Kopiraj v **in** Premakni v nista na voljo, če uporabljate klasično izkušnjo uporabe SharePoint Online.
   
-2. V razdelku **Izberite cilj**izberite mesto, kamor želite kopirati ali premakniti elemente, ali pa kliknite **Prebrskaj mesta** , da si ogledate celoten seznam mest.
+2. V **razdelku Izberite cilj** izberite mesto, na katero želite kopirati ali premakniti elemente, ali pa kliknite Brskaj po mestih, da si ogledate celoten seznam mest. 
 
     > [!NOTE]
-    > Če ne vidite drugih mest, ki so navedena pri kopiranju elementov, kopiranje prek spletnih mest ni bilo konfigurirano. Če ga želite omogočiti, pojdite na stran z nastavitvami v skrbniškem središču za SharePoint in kliknite **v redu**.
+    > Če ne vidite drugih mest na seznamu, ko kopirate elemente, kopiranje na več spletnih mestih ni bilo konfigurirano. Če jo želite omogočiti, odprite stran z nastavitvami v skrbniškem središču SharePoint kliknite V **redu.**
   
-    Če želite ustvariti novo mapo, izberite mesto v hierarhiji map, kliknite **Nova mapa**, vnesite ime mape in kliknite potrditveno oznako, da shranite ime.
+    Če želite ustvariti novo mapo, izberite mesto v hierarhiji map, kliknite Nova mapa, vnesite ime mape in kliknite potrditveno oznako, da shranite ime.
 
-3. Kliknite **Kopiraj tukaj** ali pa se **premaknite sem**.
+3. Kliknite **Kopiraj sem ali** Premakni **sem.**
 
     > [!NOTE]
-    > Do 500 MB datotek in map lahko hkrati kopirate. > ko kopirate dokumente, ki imajo zgodovino različic, je kopiran le najnovejša različica. Ko premaknete dokumente, se tudi njihova zgodovina premakne.
+    > Hkrati lahko kopirate do 500 MB datotek in map. > kopirate dokumente z zgodovino različic, je kopirana le najnovejša različica. Ko premaknete dokumente, je premaknjena tudi njihova zgodovina.
   
- Ko se datoteka premika, se bo v izvornem imeniku še vedno prikazala, dokler se v celoti ne premakne na cilj, nato pa bo izbrisana. Datoteka ostane v košu izvornih mest, ko je selitev dokončana in je predmet običajnega načrta recikliranja, razen če ga uporabnik ne povrne iz koša.
+ Ko premaknete datoteko, bo še vedno prikazana v izvornem imeniku, dokler je ne premaknete v celoti na cilj, nato pa bo izbrisana. Ko je premikanje dokončano, bo datoteka ostala v košu izvornih mest in bo odvisna od običajnega urnika koša, razen če jo uporabnik obnovi iz koša.
 
 Če želite več informacij, si oglejte:
 
- - [Premikanje ali kopiranje datotek v SharePointu](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (članek podpore za Office)
- - [Premikanje datotek iz poljubne mape](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (članek v spletnem dnevniku Microsoft tech Skupnosti)  
+ - [Premikanje ali kopiranje datotek v SharePoint](https://support.office.com/article/move-or-copy-files-in-sharepoint-00e2f483-4df3-46be-a861-1f5f0c1a87bc) (Office za podporo)
+ - [Premikanje datotek iz katere koli mape](https://techcommunity.microsoft.com/t5/Microsoft-SharePoint-Blog/Now-move-files-anywhere-in-Office-365-SharePoint-and-OneDrive/ba-p/146973) (članek spletnega dnevnika Microsoft Tech Community)  

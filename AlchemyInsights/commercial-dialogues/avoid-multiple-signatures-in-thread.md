@@ -1,5 +1,5 @@
 ---
-title: Preprečite dodajanje več podpisov v e-poštni pogovor
+title: Izogibanje več podpisom, da bi bili dodani v e-poštni pogovor
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "7310"
-ms.openlocfilehash: fe460e94307043b8d271111bed83e7b1c35b9b47
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2a9d6acab661470f71adf9f757e6847c367d26979fa210dd8f35e0ffaaa8dc45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50483957"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119336"
 ---
-# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>Preprečite dodajanje več podpisov v e-poštni pogovor
+# <a name="avoid-multiple-signatures-from-being-added-in-an-email-conversation"></a>Izogibanje več podpisom, da bi bili dodani v e-poštni pogovor
 
-Če želite, da se izjava o omejitvi odgovornosti ali podpisu doda le enkrat na e-poštno nit, boste morali spremeniti nastavitev v skrbniškem središču za Exchange.
+Če želite, da je zavrnitev odgovornosti ali podpis dodan le enkrat na nit e-poštnega sporočila, morate v skrbniškem središču za Exchange spremeniti nastavitev.
 
-1. Pojdite v [skrbniško središče za Exchange.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
-2. Izberite **več možnosti** , če želite dodati izjemo, ki poišče enolično besedilo v odklanjanju odgovornosti. S tem zagotovite, da je zavrnitev odgovornosti dodana le prvotnemu sporočilu.
+1. Obiščite [skrbniško Exchange za Office 365.](https://go.microsoft.com/fwlink/p/?linkid=2059104)
+2. Izberite **Več možnosti,** da dodate izjemo, ki išče enolično besedilo v vaši zavrnitvi odgovornosti. S tem zagotovite, da je zavrnitev odgovornosti dodana le izvirnemu sporočilu.
 

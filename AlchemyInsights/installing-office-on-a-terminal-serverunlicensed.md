@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7e435df1515878ab4fe935ab8148daee29b8e3820095fc6e49db45de4c6279db
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 35ef317ea87fedd01c08fee5b370e3c81e515c27
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055174"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322015"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>Nameščanje Office v terminalski strežnik
 
@@ -26,10 +26,9 @@ ms.locfileid: "54055174"
 
 - Omogočiti morate aktiviranje računalnika [v skupni rabi.](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation)
 
-Če želite funkcijo Programi Microsoft 365 za podjetja RDS iz ***Skrbniško središče za Microsoft 365,*** ki uporablja privzete nastavitve namestitve, sledite tem korakom.
+Če želite funkcijo Programi Microsoft 365 za podjetja rds iz ***Skrbniško središče za Microsoft 365,*** ki uporablja privzete nastavitve namestitve, sledite tem korakom.
 
-> [!TIP]
-> Prav tako lahko prenesete in zaženete [Microsoft pomočnik za podporo in obnovitev,](https://aka.ms/SaRA_OfficeSCA_M365Portal) da Programi Microsoft 365 za podjetja v načinu aktiviranja računalnika v skupni rabi.
+    **Tip**: You can also download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA_OfficeSCA_M365Portal) to install Microsoft 365 Apps for enterprise in shared computer activation mode.
   
 1. Preverite, Microsoft 365 naročnino imate. [Več o tem](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -39,7 +38,7 @@ ms.locfileid: "54055174"
 
 4. V strežniku RDS se vpišite v Skrbniško središče za Microsoft 365 s skrbniškim računom in [namestite Programi Microsoft 365 za podjetja](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. Ko Office, ***ne odpirajte programov*** in se ne vpišite v Office programov.
+5. Ko Office, ne odpirajte programov in se ***ne vpišite*** v Office programov.
 
 6. V strežniku RDS omogočite aktiviranje računalnika v skupni rabi tako, da uredite register tako, da sledite tem korakom:
 
@@ -49,9 +48,9 @@ ms.locfileid: "54055174"
 
 3. V urejevalniku registra dodajte vrednost niza za **SharedComputerLicensing z** nastavitvijo 1 v razdelku HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. V strežniku RDS se ***vpišite kot končni*** uporabnik in preverite, ali je aktiviranje računalnika v skupni rabi [omogočeno Programi Microsoft 365 za podjetja](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
+7. V strežniku RDS se ***vpišite kot*** končni uporabnik in preverite, ali je aktiviranje računalnika v skupni rabi [omogočeno Programi Microsoft 365 za podjetja.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
 
 Če želite več podrobnosti o pogojih, navodilih za namestitev in navodilih za prilagojene namestitve z orodjem za uvedbo sistema Office, glejte Uvajanje storitve Programi Microsoft 365 za podjetja s storitvami [oddaljenega namizja.](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
   
-Če želite odpraviti napake, povezane z aktiviranjem računalnika v skupni rabi, glejte [Odpravljanje težav z aktiviranjem](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)računalnika v skupni rabi za Programi Microsoft 365 za podjetja.
+Če želite odpraviti napake, povezane z aktiviranjem računalnika v skupni rabi, glejte [Odpravljanje težav z aktiviranjem](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)računalnika v skupni rabi za Programi Microsoft 365 za podjetja .
   
