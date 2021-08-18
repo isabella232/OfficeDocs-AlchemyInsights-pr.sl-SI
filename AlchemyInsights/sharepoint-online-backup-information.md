@@ -12,18 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000277"
 - "4838"
-ms.openlocfilehash: 54a671586a48b03c1bb98224e284bf725b78c8659cd6cdc428218cde5d99b841
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4e78226046f16352b140b12a00178094b9ada68b58ec21ca0d974792c8e3068
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54093779"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897179"
 ---
 # <a name="sharepoint-online-backup-information"></a>Informacije o varnostnem kopiranju storitve SharePoint Online
 
-Če želite več informacij SharePoint in OneDrive z odporom, glejte:
+Če želite več informacij SharePoint o OneDrive in odpornosti, glejte:
 
 - [SharePoint in OneDrive odpornost podatkov v Microsoft 365](https://docs.microsoft.com/compliance/assurance/assurance-sharepoint-onedrive-data-resiliency)
 
-> [!NOTE]
-> Storitev SharePoint Online ohrani varnostne kopije celotne vsebine za 14 dodatnih dni po dejanskem izbrisu. Če vsebine ni mogoče [](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) obnoviti iz koša ali možnosti Obnovitev [datotek,](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)se lahko skrbnik obrne na Microsoftovo podporo in zahteva obnovitev kadar koli v 14-dnevnem oknu. Postopke obnovitve iz varnostnih kopij je mogoče dokončati le za zbirke spletnih mest ali podmesta, ne za določene datoteke, sezname ali knjižnice.
+**Opomba:** SharePoint Online ohrani varnostne kopije vse vsebine še 14 dni izven dejanskega brisanja. Če vsebine ni mogoče [](https://support.microsoft.com/office/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b) obnoviti iz koša ali možnosti Obnovitev [datotek,](https://support.microsoft.com/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)se lahko skrbnik obrne na Microsoftovo podporo in zahteva obnovitev kadar koli v 14-dnevnem oknu. Obnovitve varnostnih kopij je mogoče dokončati le za zbirke mest ali podmesta, ne pa tudi za določene datoteke, sezname ali knjižnice.

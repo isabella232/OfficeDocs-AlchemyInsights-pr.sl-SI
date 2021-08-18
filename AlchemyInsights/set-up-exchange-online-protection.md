@@ -13,15 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004218"
 - "7419"
-ms.openlocfilehash: 05d2bad8a5bdd34b04e9b2c5d0bd3ffd8356e98acbb622e859e2464f09e6222b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3c5c27aee261d75ed41518e18617db96ce910ba13c32c8ac541a5ee81522ebea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085892"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897812"
 ---
 # <a name="set-up-exchange-online-protection"></a>Nastavitev Exchange Online Protection
 
-Microsoft Exchange Online Zaščita (EOP) je storitev filtriranja e-pošte v oblaku za zaščito pred neželeno pošto in zlonamerno programsko opremo s funkcijami, ki varujejo vašo organizacijo pred kršitve pravilnika o sporočanju.
+Microsoft Exchange Online Zaščita (EOP) je storitev filtriranja e-pošte v oblaku za zaščito pred neželeno pošto, zlonamerno programsko opremo in predstavljanjem s funkcijami, ki ščitijo vašo organizacijo pred kršitve pravilnika sporočanja.
 
-V vodniku za nastavitev storitve [Exchange Online Protection](https://go.microsoft.com/fwlink/?linkid=2071067) lahko nastavite EOP tako, da izberete med tremi primeri uvajanja – nabiralniki na mestu uporabe, hibridnimi nabiralniki (mešano z nabiralniki na mestu uporabe in v oblaku) ali vsemi nabiralniki v oblaku – ki ustrezajo vaši organizaciji. V vodniku so informacije in viri za nastavitev storitve EOP ter pregled licenciranja uporabnikov, dodeljevanje dovoljenj v strežniku Skrbniško središče za Microsoft 365 ter konfiguriranje pravilnikov organizacije za preprečevanje zlonamerne programske opreme in neželene pošte v središču za varnost & skladnost s predpisi.
+Uporabite [vodnika za Exchange Online Protection nastavitev](https://admin.microsoft.com/adminportal/home?#/modernonboarding/setupexchangeonlineprotection) storitve EOP, tako da izberete med tremi scenariji uvajanja, ki najbolje ustrezajo vaši organizaciji:
+
+- Vsi nabiralniki na mestu uporabe.
+- Hibridno (kombinacija nabiralnikov na mestu uporabe in nabiralnikov v oblaku)
+- Vsi nabiralniki v oblaku, ki ustrezajo vaši organizaciji.
+
+Priročnik vsebuje informacije in vire za nastavitev storitve EOP ter pregled licenciranja uporabnikov, dodeljevanje dovoljenj v Skrbniško središče za Microsoft 365 in konfiguracijo varnostnih pravilnikov organizacije.

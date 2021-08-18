@@ -1,5 +1,5 @@
 ---
-title: 726 Blokiranje posredovanja e-pošte
+title: Blokiranje ali deblokiranje zunanjega samodejnega posredovanja e-pošte
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6c4ddd53ab794ffad3179dd86a8f81785567cfe34240dff2aa0a1df11094883d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059648"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57897484"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>Blokiranje ali deblokiranje posredovanja e-pošte
+# <a name="block-or-unblock-eternal-automatic-email-forwarding"></a>Blokiranje ali deblokiranje samodejnega posredovanja e-pošte
 
 Če želite omogočiti ali onemogočiti posredovanje e-pošte za določen nabiralnik, glejte [Konfiguracija posredovanja e-pošte.](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding)
 
-Na ravni najemnika se nadzor zunanjega posredovanja opravi s pravilnikom o odhodni neželeni pošti. Tukaj ali z ukazom [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy)lahko preverite pravilnik filtriranja odhodne neželene pošte v središču za varnost in skladnost s predpisi. [](https://protection.office.com/antispam)
+Skrbniki lahko nadzirajo zunanje posredovanje za organizacijo z uporabo pravilnikov [o odhodni neželeni pošti.](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-the-outbound-spam-policy) Pravilnike za odhodno pošto upravljate na portalu za e-pošto na portalu Microsoft 365 Defender ali z ukazom <https://security.microsoft.com/antispam> »cmdlet« [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy) v Exchange Online PowerShell.
 
-Če se prikaže to sporočilo o napaki: **»550 5.7.520** Dostop je zavrnjen, vaša organizacija ne dovoli zunanjega posredovanja«, preverite, ali je pravilnik konfiguriran tako, da omogoča zunanje samodejno posredovanje.
+Če se prikaže ta napaka: **»550 5.7.520 Access denied, Your organization does not allow external forwarding« (550 5.7.520:** Dostop zavrnjen, vaša organizacija ne dovoli zunanjega posredovanja), preverite, ali je pravilnik konfiguriran tako, da omogoča zunanja samodejno posredovana sporočila.
 
-**Opomba:** Priporočljivo je, da je zunanji samodejni skrbnik onemogočen za privzeti pravilnik filtriranja odhodne pošte in ga omogočite le za uporabnike, ki potrebujejo zunanje posredovanje, tako da tem uporabnikom ustvarite pravilnik po meri. Več o tem lahko preberete [v možnosti Konfiguracija zunanjega posredovanja e-Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)
+**Opomba:** Priporočamo privzeto  vrednost Samodejno –  nadzor sistema za nastavitev pravil samodejnega posredovanja v privzetem pravilniku filtriranja odhodne neželene pošte (samodejno zunanje posredovanje je blokirano; notranje samodejno posredovanje še vedno deluje). Ustvarite pravilnike za filtriranje odhodne neželene pošte po meri in uporabite vrednost Vklop **–** posredovanje je omogočeno le za uporabnike, ki potrebujejo zunanje samodejno posredovanje e-pošte. Če želite več informacij, glejte [Konfiguriranje zunanjega posredovanja e-pošte v Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding)

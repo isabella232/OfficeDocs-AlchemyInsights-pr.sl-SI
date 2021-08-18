@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ee0b821f8b02df8066013975e1a9cebf6a0a2dd7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53967997"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315702"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>Licence za Microsoft 365 Defender
 
-Te licence omogočajo brezplačen dostop do Microsoft 365 Defender v središču za Microsoft 365 mesta:
+Te licence omogočajo brezplačen dostop do Microsoft 365 Defender v središču Microsoft 365 varnost:
 
 - Microsoft 365 E5 ali A5
 - Microsoft 365 E5 Security ali Varnost A5
@@ -33,8 +33,7 @@ Te licence omogočajo brezplačen dostop do Microsoft 365 Defender v središču 
 - Microsoft Cloud App Security
 - Microsoft Defender za Office 365 (paket 2)
 
-    > [!NOTE]
-    > V tem trenutku preskusne licence za Office 365 omogočajo dostopa do Microsoft 365 Defender.
+    **Opomba:** Trenutno preskusne licence za Office 365 omogočajo dostopa do Microsoft 365 Defender.
 
 Če želite več informacij, glejte [Microsoft 365 Enterprise Paketi.](https://go.microsoft.com/fwlink/?linkid=2143458)
 

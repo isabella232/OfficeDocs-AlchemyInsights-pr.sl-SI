@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003919"
 - "6974"
-ms.openlocfilehash: 2ad8d00d192c1c845aef7a362fa1d9ab91bce152468ff6a1e7bf6ad9250eb5c1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e576bf74ee9e4035ea765ccc0f5e9173fc08be71
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54005466"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315636"
 ---
 # <a name="deploy-microsoft-edge-for-mobile-for-iosipados-or-android"></a>Uvajanje Microsoft Edge za prenosne naprave za iOS/iPadOS ali Android
 
@@ -28,8 +28,7 @@ Voden scenarij, ki je povzame spodaj, vam bo pomagal Microsoft Edge uporabnikom 
 - Integracija s strežnikom proxy Azure Active Directory application
 - Upravljane priljubljene in bližnjice na domači strani
 
-> [!NOTE]
-> Če ste uporabnikom onemogočili včlanitev prenosnih naprav, ta vodeni scenarij ne bo deloval in uporabniki bodo morali svoje naprave Microsoft Edge namestiti sami.
+**Opomba:** Če ste uporabnikom onemogočili včlanitev prenosnih naprav, ta vodeni scenarij ne bo deloval in uporabniki bodo morali sami Microsoft Edge svoje naprave.
 
 Če želite uvesti Microsoft Edge za prenosne naprave za iOS/iPadOS ali Android, glejte:
 
