@@ -1,5 +1,5 @@
 ---
-title: Kako Microsoft 365 naročnino
+title: Kako Microsoft 365 nakup
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -15,22 +15,22 @@ ms.custom:
 - commerce_purchase
 - "531"
 - "1400007"
-ms.openlocfilehash: 772eeb20defdaa190b000cdcbbd3abe150dff4de971b5cd9d676f261880776a9
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 5af852de7126dd36598339250a3b8b445d88ad1d57f8621e90c8818e8959f12b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499060"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896947"
 ---
-# <a name="how-to-make-a-microsoft-365-purchase"></a>Kako Microsoft 365 naročnino
+# <a name="how-to-make-a-microsoft-365-purchase"></a>Kako Microsoft 365 nakup
 
-Naročnino na Microsoft 365 naročnino lahko kupite v skrbniškem središču.
+Naročnino na novo naročnino Microsoft 365 v skrbniškem središču.
   
 - Če želite kupiti paket, odprite stran **Nakupi** \> **[obračunavanja.](https://go.microsoft.com/fwlink/p/?linkid=868433)**
 - Če želite kupiti dodatne licence, odprite stran  \> **[Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)** Izberite naročnino, ki jo želite spremeniti, nato pa **izberite Nakup licenc**.\
 **OGLEJTE SI videoposnetek,** v ki prikazuje, kako to naredite: [Nakup novih licenc](https://go.microsoft.com/fwlink/p/?linkid=2154857)
   
-Če želite izvedeti več, [glejte Nakup ali odstranjevanje licenc.](/microsoft-365/commerce/licenses/buy-licenses)
+Če želite izvedeti več, [glejte Nakup ali odstranjevanje licenc.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **Odpravljanje težav**
 
@@ -38,5 +38,5 @@ Naročnino na Microsoft 365 naročnino lahko kupite v skrbniškem središču.
 
 **Dodatni viri**
   
-- [Dodeljevanje licenc uporabnikom v Microsoft 365 za podjetja](/microsoft-365/admin/add-users/add-users)
-- [Preklic Microsoft 365 za podjetja](/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [Dodeljevanje licenc uporabnikom v Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [Preklic Microsoft 365 za podjetja](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -1,5 +1,5 @@
 ---
-title: SharePointova selitev s SPMT-jem
+title: SharePoint Selitev s SPMT
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 34b7611967a7228bfe8611f9784e5049c9bc307a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 04716e85da6432703f25bf37f253d7d4553ecc4c68123a21b46fbb4501bccf2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828324"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085784"
 ---
-# <a name="sharepoint-migration-with-spmt"></a>SharePointova selitev s SPMT-jem
+# <a name="sharepoint-migration-with-spmt"></a>SharePoint Selitev s SPMT
 
-Orodje za selitev v SharePoint lahko prenesete informacije v oblak in izkoristite prednosti najnovejšega sodelovanja, inteligence in varnostnih rešitev v storitvi Microsoft 365, ki je zasnovano za selitev, vse od najmanjšega nabora datotek do velike selitve v podjetje.
+Orodje za selitev sistema SharePoint omogoča prenos informacij v oblak in izkoristite prednosti najnovejšega sodelovanja, obveščanja in varnostnih rešitev s storitvijo Microsoft 365.
 
 - [Prenesite in namestite orodje SharePointovo orodje za selitev](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [Odpravljanje pogostih težav in napak SPMT](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)

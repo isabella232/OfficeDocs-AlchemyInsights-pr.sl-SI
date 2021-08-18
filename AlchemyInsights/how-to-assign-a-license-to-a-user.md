@@ -17,12 +17,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 987eb106a7d8858cba04151b9f8953d847aafec92b4f05281c2bbde4edaf91e6
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 72c730ef9e63e29f452580e4d0b8d0c605f621e540c1f2807f284c47aeaa37f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503704"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896991"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>Dodeljevanje ali dodeljevanje licenc uporabnikom
 
@@ -33,4 +33,4 @@ Uporabnik potrebuje licenco, če želi dostopati do storitev. Tukaj so navodila,
 3. V desnem podoknu izberite **Licence in aplikacije**.
 4. Razširite **razdelek Licence,** potrdite ali počistite polja za licence, ki jih želite dodeliti ali od dodeljevanja, nato pa izberite **Shrani spremembe.**
 
-Če želite več informacij, [glejte Dodeljevanje licenc uporabnikom](/microsoft-365/admin/manage/assign-licenses-to-users)in Dodeljevanje licenc [uporabnikom.](/microsoft-365/admin/manage/remove-licenses-from-users)
+Če želite več informacij, [glejte Dodeljevanje licenc uporabnikom in](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)Dodeljevanje licenc [uporabnikom.](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)

@@ -1,5 +1,5 @@
 ---
-title: Shranjevanje različic v SharePointu in OneDrive
+title: Versioning in SharePoint and OneDrive
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,21 +13,21 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: 12207efc9822be6cf096fa4884a3cd244a286cbe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800840"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085856"
 ---
-# <a name="versioning-in-sharepoint-and-onedrive"></a>Shranjevanje različic v SharePointu in OneDrive 
+# <a name="versioning-in-sharepoint-and-onedrive"></a>Versioning in SharePoint and OneDrive 
 
 
-Ko je omogočeno shranjevanje različic na SharePointovem seznamu ali v knjižnici, lahko na seznamu in datotekah v knjižnici shranite elemente in jih obnovite Shranjevanje različic, v kombinaciji z drugimi nastavitvami, kot je Checkout, omogoča veliko nadzora nad vsebino, ki je objavljena na vašem spletnem mestu, in lahko zagotovi realno vrednost, če si Kdaj želite ogledati ali obnoviti staro različico elementa ali datoteke.
+Ko je shranjevanje različic omogočeno na SharePoint ali v knjižnici, lahko shranite, spremljate in obnovite elemente na seznamu in datoteke v knjižnici, kadar koli se spremenijo. Če uporabljate različice, skupaj z drugimi nastavitvami, kot je rezervacija, imate veliko nadzora nad vsebino, objavljeno na vašem spletnem mestu, in lahko zagotovite pravo vrednost, če si morate kdaj odpreti ali obnoviti staro različico elementa ali datoteke.
 
-Če želite več informacij o shranjevanju različic, si oglejte spodnje članke.
+Več informacij o različici najdete v spodnjih člankih.
 
-- [Kako deluje shranjevanje različic na SharePointovem seznamu ali v knjižnici](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
+- [Kako deluje shranjevanje različic na SharePoint ali v knjižnici](https://support.office.com/article/how-does-versioning-work-in-a-sharepoint-list-or-library-0f6cd105-974f-44a4-aadb-43ac5bdfd247)
 
 - [Omogočanje in konfiguracija shranjevanja različic za seznam ali knjižnico](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f)
 
@@ -37,9 +37,9 @@ Ko je omogočeno shranjevanje različic na SharePointovem seznamu ali v knjižni
 
 - [Oglejte si prejšnje različice Officeovih datotek](https://support.office.com/article/view-previous-versions-of-office-files-5c1e076f-a9c9-41b8-8ace-f77b9642e2c2)
 
-- [Omejitve shranjevanja različic](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
+- [Omejitve različic](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
 >[!Note] 
->Če ste stranka Microsoft 365, je shranjevanje različic privzeto vklopljeno, ko ustvarite nove OneDrive za podjetja in samodejno shrani zadnjih 500 različic dokumenta. To vam bo pomagalo preprečiti izgubo pomembnih dokumentov ali podatkov. Če imate obstoječe knjižnice na spletnem mestu OneDrive za podjetja ali na spletnem mestu skupine, v katerem ni omogočena shranjevanje različic, lahko kadar koli vklopite shranjevanje različic.
+>Če ste uporabnik Microsoft 365 različic, je shranjevanje različic vklopljeno privzeto, ko ustvarite nove knjižnice OneDrive za podjetja in bo samodejno shranilo zadnjih 500 različic dokumenta. Tako boste preprečili izgubo pomembnih dokumentov ali podatkov. Če imate na spletnem mestu programa OneDrive za podjetja ali na spletnem mestu skupine obstoječe knjižnice, ki ne omogočajo različic, lahko funkcijo za uporabo različic kadar koli vklopite.
 
 

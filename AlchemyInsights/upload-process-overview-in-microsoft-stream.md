@@ -13,15 +13,15 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "9002643"
 - "5095"
-ms.openlocfilehash: e17e7c3d6b3521678a4ebf205f46db2d524c2db2af5d2a644a4c1c80b016b9cf
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1bdf1c254fbc4b7f17560cfd414a5fedfffeb3a99af2458e1c8f0a889ddd97bb
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54104792"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896879"
 ---
 # <a name="upload-process-overview-in-microsoft-stream"></a>Upload pregleda procesa v storitvi Microsoft Stream
 
 Ko prenesete videoposnetek, ga Microsoft Stream samodejno kodira v več bitnih vrednosti, tako da je video mogoče predvajati s pretočnim prenosom s prilagodljivo bitno hitrostjo. Microsoft Stream optimizira bitno hitrost in kakovost predvajanja videoposnetka glede na pasovno širino, ki je na voljo pregledovalnika.
 
-- [Upload pregleda procesa v storitvi Microsoft Stream](/stream/upload-process-overview)
+- [Upload pregleda postopka v storitvi Microsoft Stream](https://docs.microsoft.com/stream/upload-process-overview)

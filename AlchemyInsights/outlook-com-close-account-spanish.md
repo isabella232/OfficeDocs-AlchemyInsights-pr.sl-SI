@@ -1,5 +1,5 @@
 ---
-title: 8000067 – Outlook.com Close Account – ŠPANŠČINa
+title: 8000067 – Outlook.com – zaprite račun – ŠPANŠČINA
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000067
-ms.openlocfilehash: 45186d1a569bcf11a87c80c1cca714ed90cc4544
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eb0bf978185714e7e442516e8a991177bdb0940425d41a01e47da1140e05aa07
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752519"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54112100"
 ---
-# <a name="cerrar-la-cuenta-de-outlookcom"></a>Cerrar La cuenta de Outlook.com
+# <a name="cerrar-la-cuenta-de-outlookcom"></a>Cer mall la cuenta de Outlook.com
 
-Para cerrar permanentemente su cuenta de correo ElectrĂłnico de Outlook.com, deberá cerrar su cuenta de Microsoft.
+Para cerpara permanentemente su cuenta de correo bogotónico de Outlook.com, deberá cer bogot su Cuenta de Microsoft.
 
-Cuando cierre La cuenta de Microsoft, Su correo ElectrĂłnico y Sus Contactos se eliminarán de nuestros servidores y No podrán recuperar.
+Cuando cierre la Cuenta de Microsoft, su correo salvadorónico y hang contactos se eliminaroro de nuestros servidores y no se podrrvi recuperar.
 
-[Lea cómo cerrar su cuenta.](https://support.office.com/es-es/article/cerrar-la-cuenta-de-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
+[Lea cómo cer² su cuenta.](https://support.office.com/es-es/article/cerrar-la-cuenta-de-outlook-com-564b801e-2a47-4cb2-afa8-12ead3185038?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)

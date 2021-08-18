@@ -1,5 +1,5 @@
 ---
-title: Pošiljanje obvestil po meri z InTune
+title: Pošiljanje obvestil po meri s aplikacijo Intune
 ms.author: brenduns
 author: brenduns
 manager: dougeby
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58acaa29f9d0b066cc7be6f6ee57b1806d0e8812b194e20166b133b7715226a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086180"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Pošiljanje obvestil po meri uporabnikom upravljanih naprav s sistemom iOS in naprave s sistemom Android
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>Pošiljanje obvestil po meri uporabnikom upravljanih naprav s sistemom iOS in Android
 
-Obvestila po meri za InTune obdeluje program portal podjetja v napravi uporabnika. Aplikacija nato ustvari obvestilo potisni v tej napravi.
+Obvestila po meri za Intune obdela Company Portal aplikacija v uporabnikovi napravi. Program nato ustvari potisno obvestilo v tej napravi.
 
-V nadaljevanju so pogoji za naprave, ki podpirajo prejemanje obvestil po meri, in za aplikacijo, da nato ustvarite obvestilo o potiskanju:
+Spodaj so pogoji naprave za podporo prejema obvestil po meri in da program nato ustvari potisno obvestilo:
 
-- Naprava mora imeti nameščeno aplikacijo portal podjetja.  
+- Naprava mora imeti nameščeno Company Portal aplikacije.  
 
-- Naprava mora omogočati aplikacijo portala za podjetja, če želite poslati potisna obvestila. Ko je aplikacija nameščena ali posodobljena, bo pozval uporabnika, da dovoli obvestila.
+- Naprava mora dovoliti, da Company Portal aplikacija pošilja potisna obvestila. Ko je aplikacija nameščena ali posodobljena, bo uporabnik pozvan, da dovoli obvestila.
 
-- Naprave s sistemom Android morajo imeti nameščene storitve Google Play.
+- V napravah s sistemom Android morajo biti nameščene storitve Google Play Services.
 
-- Naprava mora biti včlanjena v sozvočju.
+- Naprava mora biti včlanjen v Intune.
 
-Če želite več informacij o tem, kako poslati sporočilo, si oglejte [dokumentacijo funkcije](https://docs.microsoft.com/intune/custom-notifications).
+Če želite več informacij, vključno s pošiljanjem sporočila, glejte [dokumentacijo funkcije.](https://docs.microsoft.com/intune/custom-notifications)
