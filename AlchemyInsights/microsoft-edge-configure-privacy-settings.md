@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge konfiguracija nastavitev zasebnosti
+title: Microsoft Edge nastavitev zasebnosti
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49678860"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114188"
 ---
-# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge konfiguracija nastavitev zasebnosti
+# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge nastavitev zasebnosti
 
-Če Microsoft Edge ni nastavljen na platformah, ki niso v sistemu Windows, so na spletnem mestu Microsoft ne pošiljajo diagnostičnih podatkov in informacij o mestu. Če pa je Microsoft Edge uveden v sistemu Windows 10, so podatki o diagnostičnih podatkih in mestu poslani v skladu z [nastavitvami diagnostičnih podatkov uporabnikov sistema Windows](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization).
+Če je storitev Microsoft Edge uvedena na platformah, ki ne Windows, Diagnostični podatki in informacije o mestu privzeto niso poslane Microsoftu. Če pa Microsoft Edge v Windows 10, so diagnostični podatki in informacije o mestu poslane glede na uporabnikove [Windows diagnostične podatke.](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)
 
-Če želite konfigurirati, kako Microsoft Edge obravnava zbirko podatkov za vašo organizacijo, uporabite te pravilnike skupine:
-- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): Ta pravilnik omogoča poročanje o uporabi in nepovezanih podatkih.
-- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): Ta pravilnik pošlje informacije o mestu, ki se uporabljajo za izboljšanje Microsoftovih storitev.
+Če želite konfigurirati Microsoft Edge skrbnik obravnava zbiranje podatkov za vašo organizacijo, uporabite te pravilnike skupine:
+- [MetricsReportingEnabled:](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled)S tem pravilnikom omogočite poročanje o uporabi in podatkih, povezanih z zrušitvi.
+- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): Ta pravilnik pošilja informacije o mestu, ki se uporabljajo za Microsoftove storitve.
 
-Če želite izvedeti več, glejte [Konfiguracija nastavitev pravilnika](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).
+Če želite več informacij, glejte [Konfiguracija nastavitev pravilnika.](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings)

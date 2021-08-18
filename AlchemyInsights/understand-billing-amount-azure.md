@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020100"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317156"
 ---
 # <a name="understand-billing-amount"></a>Razumevanje zneska obračunavanja
 
@@ -70,7 +70,9 @@ Ne. Stranke bodo v prvih 30 dneh dobile nespremenljivo število storitev na ravn
 
 **Kako lahko preverim, ali so brezplačne storitve aktivne ali kdaj bodo potekle?**
 
-Na portalu > stran > »Pregled« > 12 mesecev premaknite do možnosti »Brezplačne storitve« in kliknite ikono »Informacije«. Prikazala se bo datum poteka brezplačnih storitev **Opomba**: Nobena storitev V1 ni del storitev Azure Free Included Services. Če želite posodobljen seznam brezplačnih storitev, glejte [Kateri izdelki so brezplačno za 12 mesecev](http://www.microsoftazuresponsorships.com/)
+Na portalu > stran > »Pregled« > 12 mesecev premaknite do možnosti »Brezplačne storitve« in kliknite ikono »Informacije«. Prikaže se datum, ko poteče veljavnost brezplačnih storitev.
+
+**Opomba:** Nobena storitev V1 ni del brezplačnih vključenih storitev Azure. Če želite posodobljen seznam brezplačnih storitev, glejte [Kateri izdelki so brezplačno za 12 mesecev](http://www.microsoftazuresponsorships.com/)
 
 Dodatna pogosta vprašanja: pogosta [o brezplačnem računu](https://azure.microsoft.com/free/free-account-faq/)
 

@@ -1,5 +1,5 @@
 ---
-title: Uvajanje Microsoftovega zagovornika za končno točko
+title: Uvedba programa Microsoft Defender za končno točko
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004195"
 - "7377"
-ms.openlocfilehash: 2501046d49d8b290668bef8ea04881e8379b43ee
-ms.sourcegitcommit: 830aeb6797075d79e3a3006da05da2059ddd041f
+ms.openlocfilehash: f1de44682dbdc4bdfc799e0a3ac618e4c5b76bf0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49679837"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317574"
 ---
-# <a name="deploy-microsoft-defender-for-endpoint"></a>Uvajanje Microsoftovega zagovornika za končno točko
+# <a name="deploy-microsoft-defender-for-endpoint"></a>Uvedba programa Microsoft Defender za končno točko
 
-[Svetovalec za Microsoft Defender za končne točke](https://go.microsoft.com/fwlink/?linkid=2146241) zagotavlja navodila, s katerimi lahko omrežje za podjetja preprečite, zaznate, raziskujete in odgovarjate na napredne grožnje. Izveste oceno ranljivosti organizacije in se odločite, kateri paketi za uvajanje in načini konfiguracije so najboljši.
+Svetovalec [za Microsoft Defender za končno točko](https://go.microsoft.com/fwlink/?linkid=2146241) zagotavlja navodila, ki bodo vašemu omrežju podjetja pomagala preprečiti, zaznati, raziskati in se odzvati na napredne grožnje. Naredite premišljeno oceno ranljivosti organizacije in se odločite, kateri paket uvedbe in načini konfiguracije so najboljši.
 
-> [!NOTE]
-> Za branilca za končno točko potrebujete Microsoftovo količinsko licenco.
+**Opomba:** Microsoftovo količino licenc potrebujete za Defender za končno točko.

@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002927"
 - "5603"
-ms.openlocfilehash: 565578622249269604c8dcb1ec10b1f1036e17673e26bd0eb15a38d323aa28bd
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 8fe79ddda20443b75e3c315b6bd90a60c9cebfa5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54107033"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317360"
 ---
 # <a name="suspend-or-pause-a-subscription"></a>Začasno prekinitev ali začasna prekinitev naročnine
 
@@ -27,6 +27,6 @@ ms.locfileid: "54107033"
 
 1. V skrbniškem središču odprite stran  >  **[Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. Na **zavihku** Izdelki poiščite naročnino, ki jo želite preklicati. Izberite tri pike (več dejanj), nato pa izberite **Prekliči naročnino.**
-3. Stanje naročnine je **prikazano kot Onemogočeno** in prikazuje datum preklica naročnine. Naročnina ostane onemogočena 90 dni in ima omejeno funkcionalnost, dokler je ne izbrišete ali [znova aktivirate.](/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
+3. Stanje naročnine je **prikazano kot Onemogočeno** in prikazuje datum preklica naročnine. Naročnina ostane v stanju »onemogočeno« 90 dni in ima omejeno funkcionalnost, dokler je ne izbrišete ali [znova aktivirate.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-Če želite več informacij, [glejte Kaj se zgodi, ko prekličete naročnino](/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [in shranite podatke.](/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)
+Če želite več informacij, [glejte Kaj se zgodi, ko prekličete naročnino](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [in shranite podatke.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)
