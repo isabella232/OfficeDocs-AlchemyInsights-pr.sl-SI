@@ -17,12 +17,12 @@ ms.custom:
 - "1200012"
 - "4714"
 - "4715"
-ms.openlocfilehash: 0b99e1e6547fc94e9203997aa8e3fa7465b128add22821ece190995d0aaf8f3f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b480073813239b4bba02bb29b5fbf9a2ff681472
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898908"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330424"
 ---
 # <a name="change-your-billing-address"></a>Spreminjanje naslova plačnika računa
 
@@ -33,7 +33,7 @@ Vaš račun vsebuje tri naslove.
 1. V skrbniškem središču pojdite na **Obračunavanje > [načini plačila.](https://go.microsoft.com/fwlink/p/?linkid=2018806)**
 2. Izberite kreditno kartico ali bančni račun, ki ga želite spremeniti.
 3. Na strani **Podrobnosti o načinu** plačila kliknite **Uredi**.
-4. Posodobite naslov plačnika računa in kliknite **Shrani > Končano.**
+4. Posodobite naslov plačnika računa in kliknite **Shrani > končano.**
 
 Če želite več informacij o spremembah naslova in obvestil, [glejte Spreminjanje naslova plačnika računa Microsoft 365 za podjetja.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses)
 
@@ -41,6 +41,6 @@ Vaš račun vsebuje tri naslove.
 
 1. V skrbniškem središču pojdite na **Obračunavanje > [obračunavanje.](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/BillingAccounts/billing-accounts)**
 2. Izberite Uredi **podatke o računu za obračunavanje.**
-3. Posodobite podatke računa za obračunavanje in kliknite **Shrani > Končano.**
+3. Posodobite podatke računa za obračunavanje in kliknite **Shrani > končano.**
 
 **Opomba:** Države/regije ne morete spremeniti. Če je treba to polje spremeniti, morate kupiti novega najemnika.

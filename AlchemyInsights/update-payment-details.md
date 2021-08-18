@@ -15,24 +15,22 @@ ms.custom:
 - commerce_billing
 - "428"
 - "1500016"
-ms.openlocfilehash: 1e64961a3f5b688d71f1931a2f0cee802007b47c8094b69b325a1d1e123c8dbe
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 3942acf1cc4f62ad4368bbccc9c616deba17601c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892443"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330684"
 ---
 # <a name="update-credit-card-information"></a>Posodobitev podatkov kreditne kartice
 
 1. V Skrbniškem središču za Microsoft 365 odprite stran **Obračunavanje** \> [Načini plačila](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
-    > [!NOTE]
-    > Če pride do ponavljanja, ki vas pošlje nazaj na domačo stran za skrbništvo, preden dokončate posodobitve, poskusite način Inprivate ali Incognito.
+    **Opomba:** Če pride do ponavljanja, ki vas pošlje nazaj na domačo stran za skrbnike, preden so posodobitve dokončane, poskusite način Inprivate ali Incognito.
   
 2. Izberite kreditno kartico, za katero želite posodobiti podatke.
 
-    > [!NOTE]
-    > Če je način plačila dodal drug skrbnik, ne boste mogli posodobiti podatkov kreditne kartice ali podatkov o bančnem računu. Če bo kartica kmalu potekla, drug skrbnik pa ne more posodobiti podatkov, lahko prekinitev storitve preprečite tako, da za naročnino dodate drugo kreditno kartico ali nov bančni račun tako, da izberete možnost **Dodaj način plačila**.
+    **Opomba:** Če je drug skrbnik dodal način plačila, nega kreditne kartice ali podatkov o bančnem računu ne boste mogli posodobiti. Če bo kartica kmalu potekla, drug skrbnik pa ne more posodobiti podatkov, lahko prekinitev storitve preprečite tako, da za naročnino dodate drugo kreditno kartico ali nov bančni račun tako, da izberete možnost **Dodaj način plačila**.
   
 3. V podoknu **Podrobnosti o načinu plačila** izberite **Uredi**.
 

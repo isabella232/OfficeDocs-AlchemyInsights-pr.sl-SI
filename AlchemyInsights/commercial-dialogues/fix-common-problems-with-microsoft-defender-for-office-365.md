@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9104615baa5bf6dc91468912168e42ece6727eadd5330f1eb34e2a9170568b26
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: c5043bcd3d40dccc76b348f436001408e42ee7f9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57898260"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330076"
 ---
 # <a name="fix-common-problems-with-microsoft-defender-for-office-365"></a>Odpravljanje pogostih težav s programom Microsoft Defender za Office 365
 
-Tukaj je nekaj rešitev za pogoste težave s programom Microsoft Defender za Office 365:
+Tukaj je nekaj rešitev za pogoste težave z aplikacijo Microsoft Defender za Office 365:
 
 - **Zakasnitev sporočila:**
 
-  Do zakasnitev pri dostavi e-pošte lahko Sef pregledovanje sporočil prilog. Če želite več informacij, [Sef nastavitev pravilnika o prilogah.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
+  Do zakasnitev pri dostavi e-pošte Sef pregledovanje sporočil v prilogah. Če želite več informacij, [Sef nastavitev pravilnika o prilogah.](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-attachments#safe-attachments-policy-settings)
 
 - **Poročilo vsebuje napačne pozitivne ali negativne rezultate:**
 
@@ -33,7 +33,7 @@ Tukaj je nekaj rešitev za pogoste težave s programom Microsoft Defender za Off
 
 - **Omogočanje Sef povezave:**
 
-  1. V portalu Microsoft 365 Defender v razdelku Pravilniki sodelovanja med e-& in & pravilniki o grožnjah <https://security.microsoft.com/>  \>  \>  \> **za Sef povezavami** v **razdelku Pravilniki.**
+  1. V portalu Microsoft 365 Defender v razdelku Pravilniki sodelovanja med e-& in & pravilniki o grožnjah za <https://security.microsoft.com/>  \>  \>  \> **Sef povezavami** v **razdelku Pravilniki.**
 
      Če želite neposredno na **Sef Povezave,** uporabite <https://security.microsoft.com/safelinksv2> .
 
@@ -45,4 +45,4 @@ Tukaj je nekaj rešitev za pogoste težave s programom Microsoft Defender za Off
      - Vklopite **možnost Izberite dejanje za neznane morebitne zlonamerne URL-je v sporočilih.**
      - Izberite **Uporabi varne povezave za sporočila, poslana znotraj organizacije.**
 
-  Če želite več informacij, [glejte Nastavitev pravilnikov Sef za povezave v programu Microsoft Defender za Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)
+  Če želite več informacij, [glejte Nastavitev pravilnikov Sef povezav za Microsoft Defender za Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies)

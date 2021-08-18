@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: bf17bb3ed8bab2379b4435d23e5cc0e2491580a6128780b1e6166513e54c6abd
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d9f6d700ad3fe35c10bcee198ee46cc7892c09eb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901308"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329566"
 ---
 # <a name="recording-in-teams"></a>Snemanje v Teams
 
-Če je uporabnikov  gumb Začni snemanje zatemnjen ali pa manjka v Teams srečanju, poskusite zagnati diagnostiko posnetka srečanja tako, da v zgornje polje vnesete **Diag:** Snemanje srečanja. 
+Če je uporabnikov  gumb Začni snemanje zatemnjen ali pa manjka v srečanju Teams, poskusite zagnati diagnostiko posnetka srečanja tako, da v zgornje polje vnesete **Diag:** Snemanje srečanja. 
 
-Microsoft Teams posnetkov sestanka je zdaj mogoče shraniti v OneDrive SharePoint. Premikanje lokacije shrambe na OneDrive in SharePoint odpravi težavo, kjer posnetki srečanja niso delovali, ker storitev Stream ni na voljo v vaši regiji. Če želite več informacij, glejte pogosta vprašanja o [storitvi Microsoft Stream.](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
+Microsoft Teams posnetkov sestanka je zdaj mogoče shraniti v OneDrive SharePoint. Premikanje lokacije shrambe na OneDrive SharePoint odpravi težavo, kjer posnetki srečanja niso delovali, ker storitev Stream ni na voljo v vaši regiji. Če želite več informacij, glejte pogosta vprašanja o [storitvi Microsoft Stream.](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)
 
-Če želite več informacij o shranjevanju posnetkov srečanja, glejte objavo v središču za sporočila: [(posodobljeno) Microsoft Teams:](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)posnetki srečanja, shranjeni v OneDrive in SharePointu.
+Če želite več informacij o shranjevanju posnetkov srečanja, glejte objavo v središču za sporočila: [(posodobljeno) Microsoft Teams:](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)posnetki srečanja, shranjeni v OneDrive in SharePoint.
 
 Če želite izvedeti, kako omogočite in konfigurirate funkcijo snemanja v programu Teams za svojo organizacijo, vključno s kontrolniki za omogočanje ali onemogočanje snemanja srečanja za določene uporabnike, Teams posnetek srečanja v [oblaku.](https://docs.microsoft.com/microsoftteams/cloud-recording) 
 

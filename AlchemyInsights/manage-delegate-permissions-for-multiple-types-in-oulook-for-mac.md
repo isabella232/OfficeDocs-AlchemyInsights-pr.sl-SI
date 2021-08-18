@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d3b5913997f7d94b94cd1625dd699fa1e626acb3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53962903"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329750"
 ---
 # <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>Upravljanje dovoljenj pooblaščenca za več vrst elementov v Outlook za Mac
 
@@ -27,5 +27,4 @@ ms.locfileid: "53962903"
 3. V **razdelku Pooblaščenci**, ki prikaže seznam pooblaščencev, ki lahko delujejo v imenu, izberite pooblaščenca.
 4. Kliknite **gumb** »Dejanje«, **nato Nastavi dovoljenja** in naredite želene spremembe.
 
-> [!NOTE]
-> Če raven dovoljenj nastavite na Brez **,** pooblaščenec ostane na seznamu, kar vam omogoča, da znova nastavite dovoljenja pozneje.
+**Opomba:** Če raven dovoljenja nastavite na **Brez,** pooblaščenec ostane na seznamu, kar vam omogoča pozneje vnovično nastavitev dovoljenj.

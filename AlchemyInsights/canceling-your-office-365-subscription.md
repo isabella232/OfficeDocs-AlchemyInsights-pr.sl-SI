@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscription
 - "4"
 - "1400001"
-ms.openlocfilehash: 035c5301ebd06b1d39d0dd7e2f00ce058505c69f05630d7ad27fb5476ab4ef24
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 310d8b5630ad5f520567c357656ded915d6768cd
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901752"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330188"
 ---
 # <a name="canceling-your-subscription"></a>Želite preklicati naročnino?
 
@@ -30,7 +30,6 @@ ms.locfileid: "57901752"
   
 **Vračilo kupnine: vse dobropise v okviru obračuna vam bomo vrnili v naslednjem obračunskem obdobju.**
 
-> [!NOTE]
-> Če možnost za preklic ni na voljo, izberite naročnino, da si ogledate stran s podrobnostmi. V razdelku **z nastavitvami naročnine in** plačila izberite **Prekliči naročnino.**
+**Opomba:** Če možnost za preklic ni na voljo, izberite naročnino, da si ogledate stran s podrobnostmi. V razdelku **z nastavitvami naročnine in** plačila izberite **Prekliči naročnino.**
 
 Če želite več informacij, glejte [Preklic naročnine.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)

@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: eb62dfce9f9507dd8806d91343cd39fe76e65594473683c1393d524f6c2d8a27
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a057aaa2ddf8885b96c0fe0d5fa87d3a1b191af9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893927"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327862"
 ---
 # <a name="unable-to-activate-office"></a>Officea ni mogoče aktivirati
 
-**Opomba:** Če uporabljate starejšo različico programa Windows (na primer Windows 7), se prepričajte, da je TLS 1.2 omogočen kot privzeta različica. Če želite več informacij, glejte Posodobitev, da omogočite [TLS 1.1 in TLS 1.2 kot](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)privzete varne protokole v winhttp v brskalniku Windows.
+**Opomba:** Če uporabljate starejšo različico programa Windows (na primer Windows 7), se prepričajte, da je TLS 1.2 omogočen kot privzeta različica. Če želite več informacij, glejte Posodobitev, da [omogočite TLS 1.1 in TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)kot privzete varne protokole v winhttp v storitvi Windows.
 
 - Preverite, ali je stanje naročnine poteklo.
 - Prepričajte se, da imate naročnino, ki omogoča odjemalske licence, na primer Office 365 Business ali Business Premium in [se prepričajte, da je uporabniku dodeljena licenca](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).

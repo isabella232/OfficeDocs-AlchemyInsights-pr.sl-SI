@@ -13,12 +13,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085856"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328388"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>Versioning in SharePoint and OneDrive 
 
@@ -39,7 +39,6 @@ Več informacij o različici najdete v spodnjih člankih.
 
 - [Omejitve različic](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->Če ste uporabnik Microsoft 365 različic, je shranjevanje različic vklopljeno privzeto, ko ustvarite nove knjižnice OneDrive za podjetja in bo samodejno shranilo zadnjih 500 različic dokumenta. Tako boste preprečili izgubo pomembnih dokumentov ali podatkov. Če imate na spletnem mestu programa OneDrive za podjetja ali na spletnem mestu skupine obstoječe knjižnice, ki ne omogočajo različic, lahko funkcijo za uporabo različic kadar koli vklopite.
+**Opomba:** Če ste uporabnik storitve Microsoft 365, je shranjevanje različic vklopljeno privzeto, ko ustvarite nove knjižnice OneDrive za podjetja in bo samodejno shranilo zadnjih 500 različic dokumenta. Tako boste preprečili izgubo pomembnih dokumentov ali podatkov. Če imate na spletnem mestu programa OneDrive za podjetja ali na spletnem mestu skupine obstoječe knjižnice, ki ne omogočajo različic, lahko funkcijo za uporabo različic kadar koli vklopite.
 
 
