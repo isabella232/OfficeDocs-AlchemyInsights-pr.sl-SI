@@ -1,5 +1,5 @@
 ---
-title: Uvajanje Microsoft Edge v naprave s sistemom iOS, iPadOS in Android
+title: Uvajanje Microsoft Edge sistemom iOS, iPadOS in Android
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+- "13637"
+- "9008577"
+ms.openlocfilehash: 33a878f104fc0af7be59c59e0b860be173916bd2
+ms.sourcegitcommit: 2be4a0352cb84a703ebf12966e1c17b64df07364
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58316890"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58361974"
 ---
-# <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Uvajanje Microsoft Edge v naprave s sistemom iOS, iPadOS in Android
+# <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>Uvajanje Microsoft Edge sistemom iOS, iPadOS in Android
 
-Spodaj povzeti vodeni scenarij vam bo pomagal Microsoft Edge uporabnikom naprav s sistemom iOS, iPadOS in Android.
+Voden scenarij, ki je povzame spodaj, vam bo pomagal Microsoft Edge uporabnikom naprav s sistemom iOS, iPadOS in Android.
 
-**Opomba:** Če ste uporabnikom onemogočili včlanitev prenosnih naprav, ta vodeni scenarij ne bo deloval in uporabniki bodo morali svoje Microsoft Edge svoje naprave.
+**Opomba:** Če ste uporabnikom onemogočili včlanitev prenosnih naprav, ta vodeni scenarij ne bo deloval in uporabniki bodo morali svoje naprave Microsoft Edge namestiti sami.
 
 Voden scenarij vključuje te korake:
 
@@ -39,5 +41,5 @@ Ko dokončate korake v vodenem scenariju, Microsoft Intune pravilniki omogočajo
 
 - Dual identity
 - Integracija s pravilnikom Microsoft Intune za zaščito aplikacij
-- Integracija s strežnikom proxy Azure Active Directory application
+- Integracija s strežnikom proxy Azure Active Directory aplikacije
 - Upravljane priljubljene in bližnjice na domači strani
