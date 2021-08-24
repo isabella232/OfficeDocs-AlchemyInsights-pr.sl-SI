@@ -1,6 +1,6 @@
 ---
 title: Oznake Azure Information Protection (AIP)
-ms.author: pebuam
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/19/2021
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "10974"
 - "9004597"
-ms.openlocfilehash: 2fb63d941935710ebc20f74bed70479c5627130e
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
-ms.translationtype: MT
+ms.openlocfilehash: 4b7f4c0fa86d78842edc757459ec008fca17daf7
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "52125245"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451758"
 ---
 # <a name="azure-information-protection-aip-labels"></a>Oznake Azure Information Protection (AIP)
 
-Upravljanje oznak Azure Information Protection (AIP) v portalu Azure Portal in odjemalcu AIP so od 31. marca 2021 opuščene. Če želite več informacij, glejte Označevanje, razvrstitev in zaščita za [Azure Information Protection (AIP).](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
+Upravljanje oznak Azure Information Protection (AIP) v portalu Azure in odjemalcu AIP je od 31. marca 2021 opuščeno. Če želite več informacij, glejte [Označevanje, razvrstitev in zaščita za Azure Information Protection (AIP).](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)
 
-Za ustvarjanje in upravljanje oznak raje uporabite poenotene zmogljivosti označevanja v Microsoft 365 oznake. 
+Za ustvarjanje in upravljanje oznak raje uporabite poenotene zmogljivosti označevanja v Microsoft 365. 
 
 Če želite več informacij, glejte:
 
-[Upravljanje oznak občutljivosti v Office aplikacijah](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+[Upravljanje oznak občutljivosti v Officeovih aplikacijah](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 
 [Preberite več o oznakah občutljivosti](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
