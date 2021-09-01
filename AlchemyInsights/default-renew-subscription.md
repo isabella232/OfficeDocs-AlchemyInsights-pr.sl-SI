@@ -14,16 +14,17 @@ ms.custom:
 - commerce_subscriptions
 - "3043"
 - "1500012"
-ms.openlocfilehash: 9113c21a6b840abbbe86c54a9b6e41f4e61aa4916ff6a96ecd8f5170640bcd95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.date: 07/30/2021
+ms.openlocfilehash: a198a0547b319bffa35e91f03456449dad9e634b
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54031854"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841557"
 ---
 # <a name="renewing-your-subscription"></a>Podaljšanje naročnine
 
-Če plačujete s kreditno kartico ali z nakazilom na bančni račun, je ponavljajoče se obračunavanje privzeto vklopljeno. Če je ponavljajoče se obračunavanje prikazano, bo naročnina vsako leto obračunana na dan, ko ste se naročili. Če je vaša naročnina aktivna, jo lahko v skrbniškem središču izklopite ali znova vklopite.
+Če plačujete s kreditno kartico ali z nakazilom na bančni račun, je ponavljajoče se obračunavanje privzeto vklopljeno. Če je ponavljajoče se obračunavanje samodejno, bo naročnina vsako leto obračunana na dan, ko ste se naročili. Če je vaša naročnina aktivna, jo lahko v skrbniškem središču izklopite ali znova vklopite.
 
 Če ste naročnino predplačani s ključem izdelka, bo vaša naročnina potekla na koncu obdobja veljavnosti naročnine. Vklopite lahko ponavljajoče se obračunavanje in vklopite podatke kreditne kartice ali bančnega računa, da bo vaša naročnina obračunana vsako leto na dan, ko ste se naročili.
 
