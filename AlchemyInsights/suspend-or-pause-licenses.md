@@ -3,7 +3,6 @@ title: Začasno prekini ali začasno ustavi licence
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: sinakassaw, nicholak
 ms.audience: Admin
 ms.topic: article
@@ -15,18 +14,19 @@ ms.custom:
 - commerce_licensing
 - "9002927"
 - "5605"
-ms.openlocfilehash: b56a623a70f1a51e501291c0babf7d45eecee4eb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 4c6c265ca3f06e4fe15cba5d6448f48c38341296
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321697"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844042"
 ---
 # <a name="suspend-or-pause-licenses"></a>Začasno prekini ali začasno ustavi licence
 
 **OGLEJTE SI videoposnetek,** v ki prikazuje, kako to naredite: [Odstranjevanje obstoječih licenc](https://go.microsoft.com/fwlink/p/?linkid=2154938)
 
-Če želite začasno prekiniti ali začasno prekiniti uporabo licenc, lahko licence odstranite iz Skrbniško središče za Microsoft 365 in jih nato znova dodate pozneje.
+Če želite začasno prekiniti ali začasno prekiniti uporabo licenc, lahko odstranite licence iz Skrbniško središče za Microsoft 365 in jih nato znova dodate pozneje.
 
 1. Preden odstranite licence iz naročnine, morate najprej uporabnikom [odstraniti](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users)licence.
 2. Nato pojdite na stran  >  [Obračunavanje izdelkov.](https://go.microsoft.com/fwlink/p/?linkid=842054)

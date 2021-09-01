@@ -3,7 +3,6 @@ title: Obračunavanje in plačilo
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +14,17 @@ ms.custom:
 - commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: fe8ceed52f43f41cbddd9e04bf188f557f023ccb
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/11/2021
+ms.openlocfilehash: 7e6b8773af419756fa693094dd68cd2838452ae1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58314932"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844978"
 ---
 # <a name="billing-and-payment"></a>Obračunavanje in plačilo
 
-Račune najdete na zavihku Računi **&**  >  [plačil.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Privzeto so prikazani zadnji 3 meseci računov.  Če si želite ogledati starejše račune, prilagodite filter.  Če si **želite ogledati račun,** kliknite povezavo Prenesi PDF računa.
+Račune najdete na zavihku Računi za  >  [obračunavanje & plačila.](https://go.microsoft.com/fwlink/p/?linkid=848039)  Privzeto so prikazani zadnji 3 meseci računov.  Če si želite ogledati starejše račune, prilagodite filter.  Če si **želite ogledati račun,** kliknite povezavo Prenesi PDF računa.
 
 **Prejemajte račune po e-pošti**
 
