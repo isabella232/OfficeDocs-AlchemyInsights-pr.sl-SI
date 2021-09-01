@@ -4,7 +4,6 @@ ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.reviewer: jkinma, jmueller
-ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -14,13 +13,14 @@ ms.custom:
 - commerce_subscriptions
 - "1427"
 - "1500009"
+ms.date: 04/21/2020
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: a241c363c7443c007a8dcb725046ffbc45ee5ff897213f64d109eab8a4fc4ff4
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6eb8aef0458ae921e119a87cd49a6ac648999d48
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53975261"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845554"
 ---
 # <a name="minecraft-edition-with-office-365-education-for-free"></a>Minecraft Edition with Office 365 Education for Free
 
@@ -28,7 +28,7 @@ ms.locfileid: "53975261"
   
 - **Minecraft: Education Edition** potrebujete Windows 10
 
-- Preskusi ali naročnine na **Minecraft: Education Edition** so na voljo za najemnike za izobraževanje, ki jih upravlja Azure Active Directory (Azure AD)
+- Preskusi ali naročnine za **Minecraft: Education Edition** so na voljo za najemnike za izobraževanje, ki jih upravlja Azure Active Directory (Azure AD)
 
   - Če vaša šola nima najemnika imenika Azure AD, ga lahko skrbnik za [IT](https://docs.microsoft.com/education/windows/school-get-minecraft) nastavi kot del postopka **za pridobivanje Minecraft: Education Edition**.
 
@@ -36,6 +36,6 @@ ms.locfileid: "53975261"
 
   - Če ima vaša šola naročnino na Office 365 Education, vključuje brezplačno naročnino na Azure AD. [Registrirajte brezplačno naročnino na Azure AD.](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)
 
-[Preberite, kako lahko učitelji Minecraft: Education Edition.](https://docs.microsoft.com/education/windows/teacher-get-minecraft)
+[Preberite, kako lahko učitelji dobi in distribuirajo Minecraft: Education Edition.](https://docs.microsoft.com/education/windows/teacher-get-minecraft)
   
-[Preberite, kako lahko skrbniki za IT Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)in kako upravljajo dovoljenja za Minecraft.
+[Preberite, kako lahko skrbniki ZA IT Minecraft: Education Edition](https://docs.microsoft.com/education/windows/school-get-minecraft)in kako upravljajo dovoljenja za Minecraft.

@@ -14,16 +14,17 @@ ms.custom:
 - commerce_purchase
 - "9002419"
 - "4694"
-ms.openlocfilehash: e190eaa89e7609125cc0cce7f4a6861424154dec
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: fbf246007f6c029da196a9674ca89380c7ae747e
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58451110"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58846022"
 ---
 # <a name="purchase-visio-subscription"></a>Nakup naročnine na Visio
 
-Skrbniki lahko kupijo Visio naročnino za svojo organizacijo v **Skrbniško središče za Microsoft 365**.
+Skrbniki lahko kupijo naročnino Visio naročnino za svojo organizacijo v **Skrbniško središče za Microsoft 365**.
 
 1. Za ogled razpoložljivih naročnin za vašo organizacijo pojdite na stran **Obračun za** > **[nakup storitev](https://go.microsoft.com/fwlink/p/?linkid=868433)**.
 
