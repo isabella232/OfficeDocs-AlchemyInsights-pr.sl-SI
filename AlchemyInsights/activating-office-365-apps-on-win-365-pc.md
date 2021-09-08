@@ -1,5 +1,5 @@
 ---
-title: Aktiviranje Office 365 v Windows 365
+title: Aktiviranje Office 365 v Windows 365 računalnikov
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
-ms.translationtype: MT
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58792946"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923534"
 ---
-# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Aktiviranje Office 365 v Windows 365
+# <a name="activating-office-365-applications-on-windows-365-pcs"></a>Aktiviranje Office 365 v Windows 365 računalnikov
 
-Windows 365 pc images include installed copies of Office 365 applications, which are activated when opening of any Office applications for the first time.
+**Opomba:** Ta težava SE NE velja za uporabnike z licencami Windows 365 Enterprise.
 
-Med postopkom aktiviranja lahko licenciran uporabnik storitve Windows 365 Business pride do te napake:
+Slike računalnika s sistemom Windows 365 vključujejo nameščene kopije aplikacij storitve Office 365, ki se aktivirajo ob prvem odpiranju katerega koli Officeovega programa.
+
+Med postopkom aktiviranja lahko uporabnik storitve Windows 365 Business pride do te napake:
 
 »Težava računa
 
