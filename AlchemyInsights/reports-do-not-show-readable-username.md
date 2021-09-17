@@ -1,5 +1,5 @@
 ---
-title: Poročila v Skrbniško središče za Microsoft 365 ne prikazujejo berljivega uporabniškega imena
+title: Poročila v Skrbniškem središču za Microsoft 365 ne prikazujejo berljivega uporabniškega imena
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,20 +15,20 @@ ms.custom:
 - "13810"
 - "13812"
 - "9008619"
-ms.openlocfilehash: 16aa4f052c934421423c73244f03a20aa38e4785
-ms.sourcegitcommit: 76c61dec041b93d0039764fae38107108da324aa
-ms.translationtype: MT
+ms.openlocfilehash: ff8eac6487ef544277c5ce2c0c0b7068c9d400ca
+ms.sourcegitcommit: b47c6d5e74819b73becaf1dc5eacc72eaf7c1055
+ms.translationtype: HT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 09/04/2021
-ms.locfileid: "59316199"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "59327830"
 ---
-# <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Poročila v Skrbniško središče za Microsoft 365 ne prikazujejo berljivega uporabniškega imena
+# <a name="reports-in-microsoft-365-admin-center-do-not-show-readable-username"></a>Poročila v Skrbniškem središču za Microsoft 365 ne prikazujejo berljivega uporabniškega imena
 
-V poročilih Skrbniško središče za Microsoft 365 uporabniških imen, ampak prikazujejo alfanumerične vrednosti, kot je B2BC6C15BB9FCDEA71E5CD302D228CC8.
+Poročila v Skrbniškem središču za Microsoft 365 ne prikazujejo uporabniških imen, ampak alfanumerične vrednosti, kot je B2BC6C15BB9FCDEA71E5CD302D228CC8.
 
-To je pričakovano delovanje in smo o tem obveščeni v središču za sporočila (MC275344, objavljen 3. avgust 2021). 
+To je pričakovano delovanje in smo o tem bili obveščeni v središču za sporočila (MC275344, objavljeno 3. avgusta 2021). 
 
-Globalni skrbniki lahko povrnitev te spremembe za svojega najemnika in prikazujejo podatke o uporabniku, ki omogočajo identifikacijo, če to dovoljujejo postopki glede zasebnosti organizacije. Če želite povrniti spremembo za najemnika:
+Globalni skrbniki lahko to spremembo povrnejo za svojega najemnika in prikažejo identifikacijske uporabniške podatke, če njihove prakse zasebnosti to dopuščajo. Če želite povrniti spremembo za najemnika:
 
-1. V skrbniškem središču odprite **Nastavitve**  >    >  [**Organigram in**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services)izberite **Poročila.** 
-1. V **razdelku Izberite, kako prikazati informacije o** uporabniku izberite V poročilih pokaži informacije o uporabniku, ki omogočajo identifikacijo, **in** nato znova zaženite poročilo.
+1. V skrbniškem središču odprite **Nastavitve** > **Nastavitve organigrama** > [**Storitve**](https://admin.microsoft.com/Adminportal/Home#/Settings/Services )in izberite **Poročila**. 
+1. V razdelku **Izberite, kako prikazati informacije o uporabniku**, izberite **V poročilih pokaži informacije o uporabniku, ki omogočajo identifikacijo**, in nato znova zaženite poročilo.
