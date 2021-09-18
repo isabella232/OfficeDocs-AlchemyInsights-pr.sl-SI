@@ -13,12 +13,12 @@ ms.custom:
 - "1647"
 - "3200001"
 ms.assetid: ''
-ms.openlocfilehash: 1b0beb89eaf8a4105659a1faa7cc723174a73940ef46bd2355bdddfee7b94adb
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c0996e0cc923c13b7de3752ac6534026e8627c51
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54030810"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446707"
 ---
 # <a name="dlp-might-need-a-custom-type"></a>DLP morda potrebuje vrsto po meri
 
@@ -26,18 +26,20 @@ ms.locfileid: "54030810"
 
 **DLP lahko zahteva vrsto informacij po meri**
 
-S pravilnikom o preprečevanju izgube podatkov lahko prepoznate in zaščitite občutljive podatke v organizaciji. V nekaterih primerih boste morali morda  ustvariti svojo vrsto občutljivih podatkov po meri, da zaščitite podatke organizacije.
+S pravilnikom o preprečevanju izgube podatkov (DLP) lahko prepoznate in zaščitite občutljive podatke v svoji organizaciji. V nekaterih primerih boste morali morda ustvariti svojo vrsto občutljivih podatkov po meri, da zaščitite podatke organizacije. Če želite več informacij, glejte [Več o vrstah občutljivih informacij in](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-learn-about) [definicijah entitet z občutljivimi podatki.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
 
-Vaša organizacija mora na primer prepoznati in zaščititi ID-je zaposlenih ali druge podatke v določeni obliki zapisa, ki je specifična za vašo organizacijo. Če je tako, si oglejte te članke, če želite več informacij.
-  
- **Prilagajanje vgrajene vrste občutljivih informacij**
-  
-Če vgrajena vrsta občutljivih informacij ustreza vašim potrebam z le nekaj izboljšavami, lahko prilagodite vgrajeno [vrsto občutljivih informacij.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type) Dodate ali odstranite lahko na primer ključne besede ali dodate ali odstranite podporne dokaze, na primer datum ali naslov.
-  
- **Ustvarjanje vrste občutljivih informacij po meri**
-  
-Če pa morate v celoti prepoznati [in](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type) zaščititi drugo vrsto občutljivih informacij, lahko v uporabniškem vmesniku Središča za varnost in skladnost s predpisi ustvarite vrsto občutljivih informacij & po meri.
-  
+Če želite več informacij o ustvarjanju vrst in pravilnikov z občutljivimi informacijami po meri, glejte: 
+
+**Prilagajanje vgrajene vrste občutljivih informacij**
+
+Če vgrajena vrsta občutljivih informacij ustreza vašim potrebam že z nekaj izboljšavami, glejte Prilagajanje vgrajene [vrste občutljivih informacij.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type) Dodate ali odstranite lahko na primer ključne besede ali dodate ali odstranite podporne dokaze, na primer datum ali naslov.
+
+**Ustvarjanje vrste občutljivih informacij po meri**
+
+Če pa morate v celoti prepoznati in zaščititi drugo vrsto občutljivih informacij, lahko v podoknu za besedilo ustvarite vrsto občutljivih Središče za skladnost okolja Microsoft 365. Če želite več informacij, glejte [Uvod v vrste občutljivih informacij po meri.](https://docs.microsoft.com/microsoft-365/compliance/customize-a-built-in-sensitive-information-type)
+
 **Ustvarjanje vrste občutljivih informacij po meri v središču za & s predpisi PowerShell**
 
-Če uporabniški vmesnik ne ponuja vseh možnosti, ki jih potrebujete, lahko ustvarite vrsto občutljivih informacij po meri v [lupini PowerShell središča](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)za & s predpisi. Če začnete z datoteko XML, lahko uporabite vse možnosti, ki so na voljo.
+In končno, če uporabniški vmesnik ne ponuja vseh možnosti, ki jih potrebujete, lahko ustvarite vrsto občutljivih informacij po meri v središču za & s predpisi PowerShell. Če začnete z datoteko XML, lahko uporabite vse možnosti, ki so na voljo. Če želite več informacij, glejte [Ustvarjanje vrste občutljivih informacij po meri s storitvijo PowerShell.](https://docs.microsoft.com/microsoft-365/compliance/create-a-custom-sensitive-information-type-in-scc-powershell)
+
+Če želite najprej preskusiti pravilnik v načinu preskusa, glejte Izvajanje pravilnika v preskusnem načinu [in](https://docs.microsoft.com/microsoft-365/compliance/dlp-learn-about-dlp#implement-policy-in-test-mode) Ustvarjanje, preskušanje in prilagoditev pravilnika [o dlp.](https://docs.microsoft.com/microsoft-365/compliance/create-test-tune-dlp-policy) 

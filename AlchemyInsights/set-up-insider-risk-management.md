@@ -12,27 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002284"
 - "4405"
-ms.openlocfilehash: 2e5f66b813d275bf6c799d54dd13f55a08a909d78aa24fac56f54caf8a0f4f58
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c4003faac9294725283786fd865217fdc7fcdcef
+ms.sourcegitcommit: dcd1c76ced1a0cec27f4cf8d383593760c198424
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060872"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "59446671"
 ---
 # <a name="set-up-insider-risk-management"></a>Nastavitev upravljanja notranjega tveganja
 
-Če želite dostopati do upravljanja notranjega tveganja in ga uporabljati, **mora** imeti vaša organizacija eno od teh naročnin:
+Če želite dostopati do upravljanja notranjega tveganja in ga uporabljati, mora imeti vaša organizacija eno od teh naročnin:
 
-- Naročnino na **Microsoft 365 E5**.
+- Microsoft 365 Naročnina na G5 (plačljiva ali preskusna različica)
+- Microsoft 365 G3 naročnino + dodatek Microsoft 365 G5 Compliance
+- Microsoft 365 G3 naročnino + Microsoft 365 G5 Insider Risk Management
+- Office 365 E3 naročnino + Enterprise Mobility and Security E3 + Microsoft 365 E5 Compliance dodatek
 
-- Naročnino na **Microsoft 365 E3** z dodatkom Microsoft E5 Compliance.
+Če nimate obstoječega načrta za Microsoft 365 E5 in želite preskusiti upravljanje tveganja insider, lahko dodate Microsoft 365 v obstoječo naročnino ali se prijavite za preskusno različico storitve Microsoft 365 Enterprise E5.
 
-Če nimate obstoječega paketa **Microsoft 365 E5** in želite preskusiti upravljanje notranjega tveganja, lahko dodate Microsoft 365 obstoječi naročnini ali pa se prijavite za preskusno različico paketa Microsoft 365 Enterprise E5.
+**Nasveti:**
 
-> [!NAMIGI]
-- > Uporaba predloge »Uhajanje podatkov«: zagotovite, da imate konfiguriran najmanj en pravilnik o preprečitvi izgube podatkov.
-- > Skrbnik ne vidi opozoril: prepričajte se, da je uporabnik dodeljen eni od teh skupin:
-    - >**Analitiki upravljanja notranjega tveganja**
-    - >**Preiskovalci upravljanja notranjega tveganja**
+- S predlogo Uhajanje podatkov preverite, ali ste konfigurirali vsaj en pravilnik o preprečevanju izgube podatkov. Vendar pa obstaja nova možnost sprožilca, ki ne zahteva konfiguracije pravilnika olpcih.
 
-Za več informacij o tem, kako lahko s pravilniki o notranjih tveganjih upravljate tveganja v organizaciji, glejte [Upravljanje notranjega tveganja v okolju Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2123907).
+- Globalni skrbniki privzeto ne imajo dostopa do portala za upravljanje tveganja za insider. Dodeliti jim morate eno od vlog za upravljanje tveganja v insiderih.
+
+- Če skrbnik ne vidi opozoril, preverite, ali je uporabnik dodeljen eni od teh skupin:
+
+    Analitiki upravljanja notranjega tveganja
+
+    Preiskovalci upravljanja notranjega tveganja
+
+Če želite več informacij o tem, kako vam lahko skrbniki za tveganja v programu Insider pomagajo upravljati tveganja v organizaciji, preberite več o upravljanju tveganja [insider v Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/insider-risk-management).
