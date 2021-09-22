@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062888"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475233"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>Kako objaviti oznako občutljivosti
 
-1. Obiščite središče za Microsoft 365 s predpisi in > **oznake**  >  **podatkov.**
+1. Obiščite središče za Microsoft 365 s predpisi in > **oznake**  >  **za informacije.**
 
 1. Izberite **+ objavi oznako,** da zaženete čarovnika za novo oznako občutljivosti.
 
@@ -39,3 +39,5 @@ ms.locfileid: "54062888"
 1. Če ustvarite več pravilnikov za oznake, ki lahko povzročijo spor za uporabnika ali lokacijo, preglejte vrstni red pravilnika in jih po potrebi premaknite navzgor ali navzdol. Če želite spremeniti vrstni red pravilnika za oznake, izberite tri pike (več dejanj) in nato izberite **Premakni navzgor** ali **Premakni navzdol**.
 
 Ko dokončate čarovnika, se samodejno objavi pravilnik o oznakah.
+
+Če želite več informacij, glejte [Ustvarjanje in konfiguracija oznak občutljivosti in njihovih pravilnikov.](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)
