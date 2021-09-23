@@ -14,27 +14,28 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 7b819b9bb18b5c0a635e708eccc0f23271267874707e5f3a7d41b633a05f2822
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b60cfc298ee05375523e3660f407ab03e630c861
+ms.sourcegitcommit: e9e282be4997b0ee95f1ff4491e0943f8fc52444
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54105584"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59481821"
 ---
 # <a name="troubleshoot-content-search-errors"></a>Odpravljanje napak iskanja vsebine
 
 Ali pri izvozu rezultatov iskanja pride do težav s iskanjem vsebine ali do napak?
+Ali ste ob zagonu iskanja prejeli na primer to sporočilo?
 
-Ali ste med iskanjem na primer prejeli to sporočilo?
-
-- Napake CS008 ali CS012
+- Napake CS007, CS008 ali CS012
 
 - Napake zasedenega strežnika/časovne omejitve
 
 - Prišlo je do napake v aplikaciji
 
-Ali pri iskanju ali izvozu rezultatov iz velikega števila nabiralnikov (več kot 100.000 nabiralnikov) ali pride do napak pri izvozu?
+Ali pa se pri iskanju ali izvozu rezultatov iz velikega števila (več kot 100.000) nabiralnikov napaka pri izvozu?
 
-Za te vrste napak poskusite znova poiskati mesta vsebine, ki niso uspela. Več  [informacij najdete v](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) tem članku.
+Za te napake poskusite znova poiskati mesta vsebine, ki niso uspela, ali posodobite iskanje tako, da zmanjšate zapletenost iskalne poizvedbe. Iskanje z nadomestno kartico lahko na primer vrne preveč rezultatov za sistem, ki se obdela, zaradi česar pride do napake CS007.   
 
-Če izvažate več kot 100.000 nabiralnikov, morate za prenos rezultatov izvoza uporabiti to storitev Powershell: Izvoz rezultatov iz več kot [100 K nabiralnikov.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes)
+Če želite več informacij, [glejte Ponovni](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) poskus iskanja vsebine za razreševanje napake, povezanih z mestom vsebine, raziskovanje, odpravljanje in odpravljanje pogostih težav [z e-odkrivanjem.](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)
+
+Če izvažate več kot 100 K nabiralnikov, boste morali prenesti rezultate izvoza. Če želite podrobnosti, glejte [Izvoz rezultatov iskanja po vsebini.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
