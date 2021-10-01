@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 782d79d7a67515ff02f9cef61176b9bea9017f1ad490090e748a10005c3c8bf3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: sl-SI
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092329"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60077230"
 ---
 # <a name="uk-domain-transfers"></a>Prenosi domen .uk
 
-Obrnite se na Microsoftovo podporo in zahtevajte spremembo oznake **IPS,** da se bo ujemala s registratorjem, ki mu želite posredovati domeno. Ko se oznaka spremeni, se domena takoj prenese k novemu registratorju. Nato boste morali delati z novim registratorjem, da dokončate prenos, pri čemer boste verjetno morali plačati stroške prenosa in dodati preneseno domeno v svoj račun pri novem registratorju.
+Za prenose domen v Združenem kraljestvu potrebujete oznako IPS novega registratorja. Oznako IPS lahko vnesete v čarovnika za prenos domene v Microsoftovem skrbniškem portalu:
 
-Če želite več informacij o prenosih domen, [glejte Prenos domene iz Microsofta v drugega gostitelja.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide)
+- Pojdite na **Nastavitve**  >  **domen, dvokliknite** domeno  in izberite Prenos domene, da zaženete čarovnika za prenos.
 
-Pripravite se na oznako IPS novega registratorja, ki ga lahko najdete na mestu https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
+Ko se oznaka spremeni, se domena takoj prenese k novemu registratorju. Nato morate delati z novim registratorjem, da dokončate prenos, pri čemer boste verjetno morali plačati stroške prenosa in dodati preneseno domeno v svoj račun pri novem registratorju.
+
+Če želite več informacij o prenosih domen, [glejte Prenos domene iz Microsofta v drugega gostitelja.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)
